@@ -1,0 +1,9 @@
+./idea
+./vscode
+/vendor
+/coverage
+/tmp
+/src/data/tmp
+/src/data/third-party/
+.DS_Store
+composer.phar
