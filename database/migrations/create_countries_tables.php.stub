@@ -1,0 +1,67 @@
+<?php
+
+use Illuminate\Support\Facades\Schema;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Database\Migrations\Migration;
+use Papposilene\Geodata\GeodataRegistrar;
+
+class CreateCountriesTables extends Migration
+{
+    /**
+     * Run the migrations.
+     *
+     * @return void
+     */
+    public function up()
+    {
+        Schema::create('geodata__countries', function (Blueprint $table) {
+            $table->id();
+            $table->foreignId('continent_id')->constrained('geodata__continents');
+            $table->foreignId('subcontinent_id')->constrained('geodata__subcontinents');
+            // Various identifiant codes
+            $table->string('cca2'); // For MySQL 8.0 use string('cca2', 2);
+            $table->string('cca3'); // For MySQL 8.0 use string('cca3', 3);
+            $table->string('ccn3')->nullable(); // For MySQL 8.0 use string('ccn3', 3);
+            $table->string('cioc')->nullable(); // For MySQL 8.0 use string('cioc', 3);
+            // Name, common and formal, in english
+            $table->string('name_eng_common'); // For MySQL 8.0 use string('name_eng_common', 255);
+            $table->string('name_eng_formal'); // For MySQL 8.0 use string('name_eng_formal', 255);
+            // Centered geolocation (for mainland if necessary)
+            $table->point('lat')->nullable();
+            $table->point('lon')->nullable();
+            // Borders
+            $table->boolean('landlocked')->default(false);
+            $table->json('neighbourhood')->nullable();
+            // Geopolitic status
+            $table->string('status')->nullable(); // For MySQL 8.0 use string('status', 255);
+            $table->boolean('independent')->default(true);
+            $table->boolean('un_member')->default(true);
+            // Flag
+            $table->string('flag')->nullable(); // For MySQL 8.0 use string('flag', 50);
+            // Extra data in JSON
+            $table->json('capital')->nullable();
+            $table->json('currencies')->nullable();
+            $table->json('demonyms')->nullable(); // For spatie/laravel-translatable
+            $table->json('dialling_codes')->nullable();
+            $table->json('languages')->nullable();
+            $table->json('name_native')->nullable(); // For spatie/laravel-translatable
+            $table->json('name_translations')->nullable(); // For spatie/laravel-translatable
+            $table->json('extra')->nullable();
+            // Internal data
+            $table->timestamps();
+            $table->softDeletes();
+
+            $table->unique(['cca2', 'cca3', 'name_eng_common', 'name_eng_formal']);
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     *
+     * @return void
+     */
+    public function down()
+    {
+        Schema::drop('geodata__countries');
+    }
+}

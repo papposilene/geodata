@@ -1,0 +1,41 @@
+<?php
+
+use Illuminate\Support\Facades\Schema;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Database\Migrations\Migration;
+use Papposilene\Geodata\GeodataRegistrar;
+
+class CreateCurrenciesTables extends Migration
+{
+    /**
+     * Run the migrations.
+     *
+     * @return void
+     */
+    public function up()
+    {
+        Schema::create('geodata__currencies', function (Blueprint $table) {
+            $table->id();
+            $table->string('name', 255); // For MySQL 8.0 use string('name', 255);
+            $table->string('iso3l', 3); // For MySQL 8.0 use string('iso3l', 3);
+            $table->integer('iso3n', 3);
+            $table->string('type', 255); // For MySQL 8.0 use string('type', 255);
+            $table->json('units');
+            $table->json('coins');
+            $table->json('bills');
+            $table->timestamps();
+
+            $table->unique(['name', 'iso3l', 'iso3n']);
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     *
+     * @return void
+     */
+    public function down()
+    {
+        Schema::drop('geodata__currencies');
+    }
+}

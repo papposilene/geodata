@@ -1,0 +1,39 @@
+<?php
+
+use Illuminate\Support\Facades\Schema;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Database\Migrations\Migration;
+use Papposilene\Geodata\GeodataRegistrar;
+
+class CreateContinentsTables extends Migration
+{
+    /**
+     * Run the migrations.
+     *
+     * @return void
+     */
+    public function up()
+    {
+        Schema::create('geodata__continents', function (Blueprint $table) {
+            $table->id();
+            $table->bigInteger('code');
+            $table->string('slug'); // For MySQL 8.0 use string('slug', 255);
+            $table->string('name'); // For MySQL 8.0 use string('name', 255);
+            $table->string('region'); // For MySQL 8.0 use string('region', 255);
+            $table->json('translations'); // For spatie/laravel-translatable
+            $table->timestamps();
+
+            $table->unique(['name', 'slug']);
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     *
+     * @return void
+     */
+    public function down()
+    {
+        Schema::drop('geodata__continents');
+    }
+}

@@ -1,0 +1,57 @@
+<?php
+
+use Illuminate\Database\Seeder;
+use Illuminate\Filesystem\Filesystem;
+use Illuminate\Support\Facades\DB;
+use Illuminate\Support\Str;
+
+class CurrenciesSeeder extends Seeder
+{
+    /**
+     * Run the database seeds.
+     *
+     * @return void
+     */
+    public function run()
+    {
+        // Drop the table
+        DB::table('geodata__currencies')->delete();
+
+        $files = $this->getDataFiles();
+
+        foreach ($files as $file)
+        {
+            $json = json_decode($file);
+
+            foreach ($json as $data)
+            {
+                Currency::create([
+                    'name'  => $data->name,
+                    'iso3l' => $data->iso->code,
+                    'iso3n' => $data->iso->number,
+                    'type' => $data->record_type,
+                    'units' => json_encode($data->units, JSON_FORCE_OBJECT),
+                    'coins' => json_encode($data->coins, JSON_FORCE_OBJECT),
+                    'bills' => json_encode($data->banknotes, JSON_FORCE_OBJECT),
+                ]);
+            }
+        }
+    }
+
+    /**
+     * Returns existing seeder file if found.
+     *
+     * @return string
+     */
+    protected function getDataFiles(): string
+    {
+        $filesystem = $this->app->make(Filesystem::class);
+
+        return Collection::make(__DIR__.'/../data' . DIRECTORY_SEPARATOR . 'currencies' . DIRECTORY_SEPARATOR)
+            ->flatMap(function ($path) use ($filesystem) {
+                return $filesystem->glob($path . '*.json');
+            })
+            ->push(__DIR__.'/../data' . DIRECTORY_SEPARATOR . 'currencies' . DIRECTORY_SEPARATOR . $dataFileName)
+            ->first();
+    }
+}
