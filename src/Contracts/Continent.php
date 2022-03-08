@@ -14,6 +14,13 @@ interface Continent
     public function hasSubcontinents(): HasMany;
 
     /**
+     * A continent has many countries.
+     *
+     * @return \Illuminate\Database\Eloquent\Relations\HasMany
+     */
+    public function hasCountries(): HasMany;
+
+    /**
      * Find a continent by its name.
      *
      * @param string $name

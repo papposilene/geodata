@@ -84,22 +84,4 @@ class Subcontinent extends Model implements SubcontinentContract
 
         return $subcontinent;
     }
-
-    /**
-     * Find a subcontinent by its name.
-     *
-     * @param string $name
-     *
-     * @return \Papposilene\Geodata\Contracts\Subcontinent
-     */
-    public static function findOrCreate(string $name): SubcontinentContract
-    {
-        $subcontinent = static::getSubcontinent(['name' => $name]);
-
-        if (! $subcontinent) {
-            throw SubcontinentDoesNotExist::withName($name);
-        }
-
-        return $subcontinent;
-    }
 }

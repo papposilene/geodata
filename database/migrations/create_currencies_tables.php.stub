@@ -16,10 +16,10 @@ class CreateCurrenciesTables extends Migration
     {
         Schema::create('geodata__currencies', function (Blueprint $table) {
             $table->id();
-            $table->string('name', 255); // For MySQL 8.0 use string('name', 255);
-            $table->string('iso3l', 3); // For MySQL 8.0 use string('iso3l', 3);
+            $table->string('name', 255);
+            $table->string('iso3l', 3);
             $table->integer('iso3n', 3);
-            $table->string('type', 255); // For MySQL 8.0 use string('type', 255);
+            $table->string('type', 255);
             $table->json('units');
             $table->json('coins');
             $table->json('bills');

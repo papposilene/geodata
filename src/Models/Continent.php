@@ -4,7 +4,7 @@ namespace Papposilene\Geodata\Models;
 
 use Illuminate\Database\Eloquent\Collection;
 use Illuminate\Database\Eloquent\Model;
-use Illuminate\Database\Eloquent\Relations\HasMany;
+use Illuminate\Database\Eloquent\Relations\BelongsToMany;
 use Papposilene\Geodata\Contracts\Continent as ContinentContract;
 use Papposilene\Geodata\Exceptions\ContinentDoesNotExist;
 use Papposilene\Geodata\GeodataRegistrar;
@@ -21,27 +21,42 @@ class Continent extends Model implements ContinentContract
     }
 
     /**
-     * A continent can have many subcontinents.
+     * A continent can be used in many countries.
      */
-    public function hasSubcontinents(): HasMany
+    public function belongsToContinents(): BelongsToMany
     {
-        return $this->hasMany(
-            Subcontinent::class,
+        return $this->belongsToMany(
+            Countries::class,
             'continent',
             'id'
         );
     }
 
     /**
-     * A continent can have many countries.
+     * Get the current cached continents.
+     *
+     * @param array $params
+     * @param bool $onlyOne
+     *
+     * @return \Illuminate\Database\Eloquent\Collection
      */
-    public function hasCountries(): HasMany
+    protected static function getContinents(array $params = [], bool $onlyOne = false): Collection
     {
-        return $this->hasMany(
-            Country::class,
-            'continent_id',
-            'id'
-        );
+        return app(GeodataRegistrar::class)
+            ->setContinentClass(static::class)
+            ->getContinents($params, $onlyOne);
+    }
+
+    /**
+     * Get the current cached first continent.
+     *
+     * @param array $params
+     *
+     * @return \Papposilene\Geodata\Contracts\Continent
+     */
+    protected static function getContinent(array $params = []): ?ContinentContract
+    {
+        return static::getContinents($params, true)->first();
     }
 
     /**
@@ -55,10 +70,10 @@ class Continent extends Model implements ContinentContract
      */
     public static function findByName(string $name): ContinentContract
     {
-        $continent = static::getContinent(['id' => $id]);
+        $continent = static::findByName(['name' => $name]);
 
         if (! $continent) {
-            throw ContinentDoesNotExist::withName($id);
+            throw ContinentDoesNotExist::named($name);
         }
 
         return $continent;
@@ -69,13 +84,13 @@ class Continent extends Model implements ContinentContract
      *
      * @param int $id
      *
-     * @throws \Papposilene\Geodata\Exceptions\PermissionDoesNotExist
+     * @throws \Papposilene\Geodata\Exceptions\ContinentDoesNotExist
      *
      * @return \Papposilene\Geodata\Contracts\Continent
      */
     public static function findById(int $id): ContinentContract
     {
-        $continent = static::getContinent(['id' => $id]);
+        $continent = static::findById(['id' => $id]);
 
         if (! $continent) {
             throw ContinentDoesNotExist::withId($id);
@@ -84,21 +99,6 @@ class Continent extends Model implements ContinentContract
         return $continent;
     }
 
-    /**
-     * Find a continent by its name.
-     *
-     * @param string $name
-     *
-     * @return \Papposilene\Geodata\Contracts\Continent
-     */
-    public static function findOrCreate(string $name): ContinentContract
-    {
-        $continent = static::getContinent(['name' => $name]);
 
-        if (! $continent) {
-            throw ContinentDoesNotExist::withName($name);
-        }
 
-        return $continent;
-    }
 }
