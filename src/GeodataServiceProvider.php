@@ -31,7 +31,6 @@ class GeodataServiceProvider extends ServiceProvider
         );
     }
 
-
     protected function offerPublishing()
     {
         if (! function_exists('config_path')) {
@@ -53,11 +52,10 @@ class GeodataServiceProvider extends ServiceProvider
 
         $this->publishes([
             __DIR__ . '/../database/seeders/CountriesSeeder.php.stub' => $this->getSeederFileName('CountriesSeeder.php'),
-            __DIR__ . '/../database/seeders/CurrenciesSeeder.php.stub' => $this->getSeederFileName('CurrenciesSeeder.php'),
         ], 'geodata-seeders');
 
         $this->publishes([
-            __DIR__ . '/../data/countries/_all_countries.json' => storage_path('data/geodata/countries/countries.json'),
+            __DIR__ . '/../data/countries/default/_all_countries.json' => storage_path('data/geodata/countries/countries.json'),
         ], 'geodata-data');
 
         if ($config['flags']) {
@@ -66,15 +64,27 @@ class GeodataServiceProvider extends ServiceProvider
             ], 'geodata-flags');
         }
 
+        if ($config['currencies']) {
+            $this->publishes([
+                __DIR__ . '/../database/migrations/create_currencies_tables.php.stub' => $this->getMigrationFileName('create_currencies_tables.php'),
+                __DIR__ . '/../database/seeders/CurrenciesSeeder.php.stub' => $this->getSeederFileName('CurrenciesSeeder.php'),
+                __DIR__ . '/../data/currencies/' => storage_path('data/geodata/currencies/'),
+            ], 'geodata-currencies');
+        }
+
         if ($config['geometries']) {
             $this->publishes([
+                __DIR__ . '/../database/migrations/create_geometries_tables.php.stub' => $this->getMigrationFileName('create_geometries_tables.php'),
+                __DIR__ . '/../database/seeders/GeometriesSeeder.php.stub' => $this->getSeederFileName('GeometriesSeeder.php'),
                 __DIR__ . '/../data/geometries/' => storage_path('data/geodata/geometries/'),
             ], 'geodata-geometries');
         }
 
         if ($config['topologies']) {
             $this->publishes([
-                __DIR__ . '/../data/topologies/' => storage_path('data/geodata/topologies/'),
+                __DIR__ . '/../database/migrations/create_topologies_tables.php.stub' => $this->getMigrationFileName('create_topologies_tables.php'),
+                __DIR__ . '/../database/seeders/TopologiesSeeder.php.stub' => $this->getSeederFileName('TopologiesSeeder.php'),
+                __DIR__ . '/../data/currencies/' => storage_path('data/geodata/currencies/'),
             ], 'geodata-topologies');
         }
     }
