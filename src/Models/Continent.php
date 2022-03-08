@@ -7,7 +7,7 @@ use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\Relations\HasMany;
 use Papposilene\Geodata\Contracts\Continent as ContinentContract;
 use Papposilene\Geodata\Exceptions\ContinentDoesNotExist;
-use Papposilene\Geodata\PermissionRegistrar;
+use Papposilene\Geodata\GeodataRegistrar;
 
 class Continent extends Model implements ContinentContract
 {
@@ -28,6 +28,18 @@ class Continent extends Model implements ContinentContract
         return $this->hasMany(
             Subcontinent::class,
             'continent',
+            'id'
+        );
+    }
+
+    /**
+     * A continent can have many countries.
+     */
+    public function hasCountries(): HasMany
+    {
+        return $this->hasMany(
+            Country::class,
+            'continent_id',
             'id'
         );
     }
@@ -88,32 +100,5 @@ class Continent extends Model implements ContinentContract
         }
 
         return $continent;
-    }
-
-    /**
-     * Get the current cached permissions.
-     *
-     * @param array $params
-     * @param bool $onlyOne
-     *
-     * @return \Illuminate\Database\Eloquent\Collection
-     */
-    protected static function getPermissions(array $params = [], bool $onlyOne = false): Collection
-    {
-        return app(PermissionRegistrar::class)
-            ->setPermissionClass(static::class)
-            ->getPermissions($params, $onlyOne);
-    }
-
-    /**
-     * Get the current cached first permission.
-     *
-     * @param array $params
-     *
-     * @return \Papposilene\Geodata\Contracts\Permission
-     */
-    protected static function getPermission(array $params = []): ?PermissionContract
-    {
-        return static::getPermissions($params, true)->first();
     }
 }

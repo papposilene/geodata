@@ -29,10 +29,17 @@ class GeodatanRegistrar
 
     /**
      * GeodataRegistrar constructor.
+     *
+     * @param \Illuminate\Cache\CacheManager $cacheManager
      */
-    public function __construct()
+    public function __construct(CacheManager $cacheManager)
     {
+        $this->continentClass = config('geodata.models.continents');
+        $this->subcontinentClass = config('geodata.models.subcontinents');
+        $this->countryClass = config('geodata.models.countries');
 
+        $this->cacheManager = $cacheManager;
+        $this->initializeCache();
     }
 
     /**
