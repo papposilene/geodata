@@ -72,34 +72,6 @@ class Continent extends Model implements ContinentContract
         return static::getContinents($params, true)->first();
     }
 
-    public static function create(array $attributes = [])
-    {
-        //$attributes['guard_name'] = $attributes['guard_name'] ?? Guard::getDefaultName(static::class);
-
-        $continent = static::getContinent(['name' => $attributes['name']]);
-
-        if ($continent) {
-            throw ContinentAlreadyExists::create($attributes['name'], $attributes['guard_name']);
-        }
-
-        return static::query()->create($attributes);
-    }
-
-    /**
-     * @inheritDoc
-     */
-    public static function findOrCreate(string $name, $guardName = null): ContinentContract
-    {
-        //$guardName = $guardName ?? Guard::getDefaultName(static::class);
-        $continent = static::getContinent(['name' => $name]);
-
-        if (! $continent) {
-            return static::query()->create(['name' => $name]);
-        }
-
-        return $continent;
-    }
-
     /**
      * @inheritDoc
      */

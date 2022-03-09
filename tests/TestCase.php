@@ -72,6 +72,7 @@ abstract class TestCase extends Orchestra
         (new \CreateCurrenciesTables())->up();
 
         $this->testContinent = Continent::create([
+            'code' => 150,
             'name' => 'Europe',
             'slug' => 'europe',
             'region' => 'EMEA',

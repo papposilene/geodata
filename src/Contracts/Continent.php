@@ -21,17 +21,6 @@ interface Continent
     public function hasCountries(): HasMany;
 
     /**
-     * Find or create a continent by its name.
-     *
-     * @param string $name
-     *
-     * @throws \Papposilene\Geodata\Exceptions\ContinentDoesNotExist
-     *
-     * @return Geodata
-     */
-    public static function findOrCreate(string $name): self;
-
-    /**
      * Find a continent by its name.
      *
      * @param string $name
