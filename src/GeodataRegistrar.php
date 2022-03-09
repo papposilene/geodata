@@ -6,6 +6,9 @@ use Illuminate\Database\Eloquent\Collection;
 use Papposilene\Geodata\Contracts\Continent;
 use Papposilene\Geodata\Contracts\Subcontinent;
 use Papposilene\Geodata\Contracts\Country;
+use Papposilene\Geodata\Contracts\Currency;
+use Papposilene\Geodata\Contracts\Geometry;
+use Papposilene\Geodata\Contracts\Topology;
 
 class GeodatanRegistrar
 {

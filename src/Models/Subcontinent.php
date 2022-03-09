@@ -4,37 +4,37 @@ namespace Papposilene\Geodata\Models;
 
 use Illuminate\Database\Eloquent\Collection;
 use Illuminate\Database\Eloquent\Model;
+use Illuminate\Database\Eloquent\Relations\BelongsTo;
 use Illuminate\Database\Eloquent\Relations\HasMany;
-use Illuminate\Database\Eloquent\Relations\HasOne;
 use Papposilene\Geodata\Contracts\Subcontinent as SubcontinentContract;
 use Papposilene\Geodata\Exceptions\SubcontinentDoesNotExist;
 use Papposilene\Geodata\GeodataRegistrar;
 
 class Subcontinent extends Model implements SubcontinentContract
 {
-    use HasRoles;
-
-    public function __construct() { }
+    public function __construct()
+    {
+    }
 
     public function getTable()
     {
-        return 'geodata__continents';
+        return 'geodata__subcontinents';
     }
 
     /**
-     * A subcontinent belongs to a continent.
+     * @inheritDoc
      */
-    public function belongsToContinent(): HasOne
+    public function belongsToContinent(): BelongsTo
     {
-        return $this->hasOne(
+        return $this->belongsTo(
             Continent::class,
-            'continent',
-            'id'
+            'id',
+            'continent_idid'
         );
     }
 
     /**
-     * A subcontinent can have many countries.
+     * @inheritDoc
      */
     public function hasCountries(): HasMany
     {
@@ -46,42 +46,57 @@ class Subcontinent extends Model implements SubcontinentContract
     }
 
     /**
-     * Find a subcontinent by its name.
+     * Get the current subcontinents.
      *
-     * @param string $name
+     * @param array $params
+     * @param bool $onlyOne
      *
-     * @throws \Papposilene\Geodata\Exceptions\SubcontinentDoesNotExist
-     *
-     * @return \Papposilene\Geodata\Contracts\Subcontinent
+     * @return \Illuminate\Database\Eloquent\Collection
      */
-    public static function findByName(string $name): SubcontinentContract
+    protected static function getSubcontinents(array $params = [], bool $onlyOne = false): Collection
     {
-        $subcontinent = static::getSubcontinent(['id' => $id]);
-
-        if (! $subcontinent) {
-            throw SubcontinentDoesNotExist::withName($id);
-        }
-
-        return $subcontinent;
+        return app(GeodataRegistrar::class)
+            ->setSubcontinentClass(static::class)
+            ->getSubcontinents($params, $onlyOne);
     }
 
     /**
-     * Find a subcontinent by its id.
+     * Get the current first subcontinent.
      *
-     * @param int $id
+     * @param array $params
      *
-     * @throws \Papposilene\Geodata\Exceptions\SubcontinentDoesNotExist
-     *
-     * @return \Papposilene\Geodata\Contracts\Subcontinent
+     * @return \Papposilene\Geodata\Contracts\Continent
+     */
+    protected static function getSubcontinent(array $params = []): ?SubcontinentContract
+    {
+        return static::getSubcontinents($params, true)->first();
+    }
+
+    /**
+     * @inheritDoc
+     */
+    public static function findByName(string $name): SubcontinentContract
+    {
+        $subccontinent = static::findByName($name);
+
+        if (!$subccontinent) {
+            throw SubcontinentDoesNotExist::named($name);
+        }
+
+        return $subccontinent;
+    }
+
+    /**
+     * @inheritDoc
      */
     public static function findById(int $id): SubcontinentContract
     {
-        $subcontinent = static::getSubcontinent(['id' => $id]);
+        $subccontinent = static::findById($id);
 
-        if (! $subcontinent) {
+        if (!$subccontinent) {
             throw SubcontinentDoesNotExist::withId($id);
         }
 
-        return $subcontinent;
+        return $subccontinent;
     }
 }

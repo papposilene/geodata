@@ -6,13 +6,13 @@ use InvalidArgumentException;
 
 class GeometryDoesNotExist extends InvalidArgumentException
 {
-    public static function named(string $geometryName)
+    public static function withCca3(string $cca3)
     {
-        return new static("There is no geometry named `{$geometryName}`.");
+        return new static("There is no geometry for the country with ISO code `{$cca3}`.");
     }
 
-    public static function withId(int $geometryId)
+    public static function noFile(string $cca3)
     {
-        return new static("There is no geometry with id `{$geometryId}`.");
+        return new static("There is no geometry file for the country with ISO code `{$cca3}`.");
     }
 }

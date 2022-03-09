@@ -16,7 +16,7 @@ class CurrencyDoesNotExist extends InvalidArgumentException
         return new static("There is no currency with id `{$currencyId}`.");
     }
 
-    public static function withIso(string $currencyIso)
+    public static function withIso(int|string $currencyIso)
     {
         return new static("There is no currency with iso code `{$currencyIso}`.");
     }

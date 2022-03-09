@@ -11,7 +11,7 @@ interface Currency
      *
      * @return \Illuminate\Database\Eloquent\Relations\BelongsToMany
      */
-    public function belongsToCountries(): belongsToMany;
+    public function usedByCountries(): belongsToMany;
 
     /**
      * Find a currency by its name.
@@ -36,7 +36,7 @@ interface Currency
     public static function findById(int $id): self;
 
     /**
-     * Find a currency by its iso code.
+     * Find a currency by its iso 3-letters code.
      *
      * @param string $iso
      *
@@ -44,5 +44,16 @@ interface Currency
      *
      * @return Geodata
      */
-    public static function findByIso(string $iso): self;
+    public static function findByIso3l(string $iso): self;
+
+    /**
+     * Find a currency by its iso 3-numbers code.
+     *
+     * @param int $iso
+     *
+     * @throws \Papposilene\Geodata\Exceptions\CurrencyDoesNotExist
+     *
+     * @return Geodata
+     */
+    public static function findByIso3n(int $iso): self;
 }

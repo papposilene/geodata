@@ -26,14 +26,14 @@ class GeodataServiceProvider extends ServiceProvider
     public function register()
     {
         $this->mergeConfigFrom(
-            __DIR__.'/../config/geodata.php',
+            __DIR__ . '/../config/geodata.php',
             'geodata'
         );
     }
 
     protected function offerPublishing()
     {
-        if (! function_exists('config_path')) {
+        if (!function_exists('config_path')) {
             // function not available and 'publish' not relevant in Lumen
             return;
         }
@@ -72,6 +72,7 @@ class GeodataServiceProvider extends ServiceProvider
             ], 'geodata-currencies');
         }
 
+        /**
         if ($config['geometries']) {
             $this->publishes([
                 __DIR__ . '/../database/migrations/create_geometries_tables.php.stub' => $this->getMigrationFileName('create_geometries_tables.php'),
@@ -87,6 +88,7 @@ class GeodataServiceProvider extends ServiceProvider
                 __DIR__ . '/../data/currencies/' => storage_path('data/geodata/currencies/'),
             ], 'geodata-topologies');
         }
+        */
     }
 
     protected function registerModelBindings()
@@ -94,7 +96,7 @@ class GeodataServiceProvider extends ServiceProvider
         $cfgOptions = $this->app->config['geodata.options'];
         $cfgModels = $this->app->config['geodata.models'];
 
-        if (! $config) {
+        if (!$cfgOptions) {
             return;
         }
 
@@ -104,25 +106,26 @@ class GeodataServiceProvider extends ServiceProvider
 
         if ($cfgOptions['currencies']) {
             $this->app->bind(
-                \\Papposilene\Geodata\Models\CurrencyContract::class, 
+                \Papposilene\Geodata\Models\CurrencyContract::class,
                 $cfgModels['currencies']
             );
         }
 
+        /**
         if ($cfgOptions['geometries']) {
             $this->app->bind(
-                \\Papposilene\Geodata\Models\GeometryContract::class, 
+                \Papposilene\Geodata\Models\GeometryContract::class,
                 $cfgModels['geometries']
             );
         }
 
         if ($cfgOptions['topologies']) {
             $this->app->bind(
-                \\Papposilene\Geodata\Models\TopologyContract::class, 
+                \Papposilene\Geodata\Models\TopologyContract::class,
                 $cfgModels['topologies']
             );
         }
-
+        */
     }
 
     /**
@@ -160,5 +163,4 @@ class GeodataServiceProvider extends ServiceProvider
             ->push($this->app->databasePath() . '/seeders/' . $seederFileName)
             ->first();
     }
-
 }

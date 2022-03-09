@@ -6,7 +6,7 @@ use InvalidArgumentException;
 
 class SubcontinentDoesNotExist extends InvalidArgumentException
 {
-    public static function create(string $subContinentName)
+    public static function named(string $subContinentName)
     {
         return new static("There is no subcontinent named `{$subContinentName}`.");
     }

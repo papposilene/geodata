@@ -6,13 +6,13 @@ use InvalidArgumentException;
 
 class TopologyDoesNotExist extends InvalidArgumentException
 {
-    public static function named(string $topologyName)
+    public static function withCca3(string $cca3)
     {
-        return new static("There is no topology named `{$topologyName}`.");
+        return new static("There is no topology for the country with ISO code `{$cca3}`.");
     }
 
-    public static function withId(int $topologyId)
+    public static function noFile(string $cca3)
     {
-        return new static("There is no topology with id `{$topologyId}`.");
+        return new static("There is no topology file for the country with ISO code `{$cca3}`.");
     }
 }

@@ -11,9 +11,9 @@ use Papposilene\Geodata\GeodataRegistrar;
 
 class Currency extends Model implements CurrencyContract
 {
-    use HasRoles;
-
-    public function __construct() { }
+    public function __construct()
+    {
+    }
 
     public function getTable()
     {
@@ -21,19 +21,19 @@ class Currency extends Model implements CurrencyContract
     }
 
     /**
-     * A currency can be used in many countries.
+     * @inheritDoc
      */
-    public function belongsToCurrencies(): BelongsToMany
+    public function usedByCountries(): belongsToMany
     {
         return $this->belongsToMany(
-            Countries::class,
-            'continent',
-            'id'
+            Country::class,
+            'iso3l',
+            'object->currencies',
         );
     }
 
     /**
-     * Get the current cached currencies.
+     * Get the current currencies.
      *
      * @param array $params
      * @param bool $onlyOne
@@ -48,11 +48,11 @@ class Currency extends Model implements CurrencyContract
     }
 
     /**
-     * Get the current cached first currency.
+     * Get the current first currency.
      *
      * @param array $params
      *
-     * @return \Papposilene\Geodata\Contracts\Currency
+     * @return \Papposilene\Geodata\Contracts\Continent
      */
     protected static function getCurrency(array $params = []): ?CurrencyContract
     {
@@ -60,19 +60,13 @@ class Currency extends Model implements CurrencyContract
     }
 
     /**
-     * Find a currency by its name.
-     *
-     * @param string $name
-     *
-     * @throws \Papposilene\Geodata\Exceptions\CurrencyDoesNotExist
-     *
-     * @return \Papposilene\Geodata\Contracts\Currency
+     * @inheritDoc
      */
     public static function findByName(string $name): CurrencyContract
     {
-        $currency = static::findByName(['name' => $name]);
+        $currency = static::findByName($name);
 
-        if (! $currency) {
+        if (!$currency) {
             throw CurrencyDoesNotExist::named($name);
         }
 
@@ -80,19 +74,13 @@ class Currency extends Model implements CurrencyContract
     }
 
     /**
-     * Find a currency by its id.
-     *
-     * @param int $id
-     *
-     * @throws \Papposilene\Geodata\Exceptions\CurrencyDoesNotExist
-     *
-     * @return \Papposilene\Geodata\Contracts\Currency
+     * @inheritDoc
      */
     public static function findById(int $id): CurrencyContract
     {
-        $currency = static::findById(['id' => $id]);
+        $currency = static::findById($id);
 
-        if (! $currency) {
+        if (!$currency) {
             throw CurrencyDoesNotExist::withId($id);
         }
 
@@ -100,24 +88,30 @@ class Currency extends Model implements CurrencyContract
     }
 
     /**
-     * Find a currency by its iso codes.
-     *
-     * @param string $iso
-     *
-     * @throws \Papposilene\Geodata\Exceptions\CurrencyDoesNotExist
-     *
-     * @return \Papposilene\Geodata\Contracts\Currency
+     * @inheritDoc
      */
-    public static function findByIso(string $iso): CurrencyContract
+    public static function findByIso3l(string $iso): CurrencyContract
     {
-        $currency = static::findByIso(['iso3l' => $iso]);
+        $currency = static::findByIso($iso);
 
-        if (! $currency) {
+        if (!$currency) {
             throw CurrencyDoesNotExist::withIso($iso);
         }
 
         return $currency;
     }
 
+    /**
+     * @inheritDoc
+     */
+    public static function findByIso3n(int $iso): CurrencyContract
+    {
+        $currency = static::findByIso($iso);
 
+        if (!$currency) {
+            throw CurrencyDoesNotExist::withIso($iso);
+        }
+
+        return $currency;
+    }
 }
