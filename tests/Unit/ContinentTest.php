@@ -2,8 +2,6 @@
 
 namespace Papposilene\Geodata\Tests;
 
-use Illuminate\Foundation\Testing\RefreshDatabase;
-use Illuminate\Foundation\Testing\DatabaseMigrations;
 use Papposilene\Geodata\Contracts\Continent;
 use Papposilene\Geodata\Contracts\Subcontinent;
 use Papposilene\Geodata\Exceptions\ContinentDoesNotExist;
@@ -11,9 +9,6 @@ use Papposilene\Geodata\Exceptions\SubcontinentDoesNotExist;
 
 class ContinentTest extends TestCase
 {
-    //use RefreshDatabase;
-    //use DatabaseMigrations;
-
     /** @test */
     public function it_throws_an_exception_when_a_continent_does_not_exist()
     {

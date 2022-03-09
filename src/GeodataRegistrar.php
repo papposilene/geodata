@@ -10,7 +10,7 @@ use Papposilene\Geodata\Contracts\Currency;
 use Papposilene\Geodata\Contracts\Geometry;
 use Papposilene\Geodata\Contracts\Topology;
 
-class GeodatanRegistrar
+class GeodataRegistrar
 {
     /** @var string */
     protected $continentClass;

@@ -6,6 +6,7 @@ use Illuminate\Database\Eloquent\Collection;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\Relations\HasMany;
 use Papposilene\Geodata\Contracts\Continent as ContinentContract;
+use Papposilene\Geodata\Exceptions\ContinentAlreadyExists;
 use Papposilene\Geodata\Exceptions\ContinentDoesNotExist;
 use Papposilene\Geodata\GeodataRegistrar;
 
@@ -69,6 +70,34 @@ class Continent extends Model implements ContinentContract
     protected static function getContinent(array $params = []): ?ContinentContract
     {
         return static::getContinents($params, true)->first();
+    }
+
+    public static function create(array $attributes = [])
+    {
+        //$attributes['guard_name'] = $attributes['guard_name'] ?? Guard::getDefaultName(static::class);
+
+        $continent = static::getContinent(['name' => $attributes['name']]);
+
+        if ($continent) {
+            throw ContinentAlreadyExists::create($attributes['name'], $attributes['guard_name']);
+        }
+
+        return static::query()->create($attributes);
+    }
+
+    /**
+     * @inheritDoc
+     */
+    public static function findOrCreate(string $name, $guardName = null): ContinentContract
+    {
+        //$guardName = $guardName ?? Guard::getDefaultName(static::class);
+        $continent = static::getContinent(['name' => $name]);
+
+        if (! $continent) {
+            return static::query()->create(['name' => $name]);
+        }
+
+        return $continent;
     }
 
     /**

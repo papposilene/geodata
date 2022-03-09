@@ -5,22 +5,19 @@ declare(strict_types=1);
 namespace Papposilene\Geodata\Tests;
 
 use Illuminate\Database\Schema\Blueprint;
-use Illuminate\Foundation\Testing\DatabaseMigrations;
-use Illuminate\Foundation\Testing\RefreshDatabase;
+use Illuminate\Support\Facades\Schema;
 use Orchestra\Testbench\TestCase as Orchestra;
-use Papposilene\Geodata\Contracts\Continent;
-use Papposilene\Geodata\Contracts\Subcontinent;
-use Papposilene\Geodata\Contracts\Country;
-use Papposilene\Geodata\Contracts\Currency;
-//use Papposilene\Geodata\Contracts\Geometry;
-//use Papposilene\Geodata\Contracts\Topology;
+use Papposilene\Geodata\Models\Continent;
+use Papposilene\Geodata\Models\Subcontinent;
+use Papposilene\Geodata\Models\Country;
+use Papposilene\Geodata\Models\Currency;
+//use Papposilene\Geodata\Models\Geometry;
+//use Papposilene\Geodata\Models\Topology;
 use Papposilene\Geodata\GeodataRegistrar;
 use Papposilene\Geodata\GeodataServiceProvider;
 
 abstract class TestCase extends Orchestra
 {
-    use DatabaseMigrations;
-
     public function setUp(): void
     {
         parent::setUp();
@@ -52,6 +49,7 @@ abstract class TestCase extends Orchestra
         $app['config']->set('database.connections.sqlite', [
             'driver' => 'sqlite',
             'database' => ':memory:',
+            //'database' => 'tmp/tests/testing.sqlite',
             'prefix' => '',
         ]);
     }
@@ -63,69 +61,6 @@ abstract class TestCase extends Orchestra
      */
     protected function setUpDatabase($app)
     {
-        $app['db']->connection()->getSchemaBuilder()->create('geodata__continents', function (Blueprint $table) {
-            $table->id();
-            $table->integer('code', false);
-            $table->string('slug');
-            $table->string('name');
-            $table->string('region');
-            $table->json('translations');
-        });
-
-        $app['db']->connection()->getSchemaBuilder()->create('geodata__subcontinents', function (Blueprint $table) {
-            $table->id();
-            $table->integer('code', false);
-            $table->string('name');
-            $table->string('slug');
-            $table->json('translations');
-            $table->foreignId('continent_id')->constrained('geodata__continents');
-        });
-
-        $app['db']->connection()->getSchemaBuilder()->create('geodata__countries', function (Blueprint $table) {
-            $table->id();
-            $table->foreignId('continent_id')->constrained('geodata__continents');
-            $table->foreignId('subcontinent_id')->constrained('geodata__subcontinents');
-            $table->string('cca2');
-            $table->string('cca3');
-            $table->string('ccn3')->nullable();
-            $table->string('cioc')->nullable();
-            $table->string('name_eng_common');
-            $table->string('name_eng_formal');
-            $table->point('lat')->nullable();
-            $table->point('lon')->nullable();
-            $table->boolean('landlocked')->default(false);
-            $table->json('neighbourhood')->nullable();
-            $table->string('status')->nullable();
-            $table->boolean('independent')->default(true);
-            $table->boolean('un_member')->default(true);
-            $table->string('flag')->nullable();
-            $table->json('capital')->nullable();
-            $table->json('currencies')->nullable();
-            $table->json('demonyms')->nullable();
-            $table->json('dialling_codes')->nullable();
-            $table->json('languages')->nullable();
-            $table->json('name_native')->nullable();
-            $table->json('name_translations')->nullable();
-            $table->json('extra')->nullable();
-            $table->timestamps();
-            $table->softDeletes();
-
-            $table->unique(['cca2', 'cca3', 'name_eng_common', 'name_eng_formal']);
-        });
-
-        $app['db']->connection()->getSchemaBuilder()->create('geodata__currencies', function (Blueprint $table) {
-            $table->increments('id');
-            $table->string('name');
-            $table->string('iso3l', 3);
-            $table->integer('iso3n', false);
-            $table->string('type', 255);
-            $table->json('units');
-            $table->json('coins');
-            $table->json('bills');
-
-            $table->unique(['name', 'iso3l', 'iso3n']);
-        });
-
         include_once __DIR__ . '/../database/migrations/create_continents_tables.php.stub';
         include_once __DIR__ . '/../database/migrations/create_subcontinents_tables.php.stub';
         include_once __DIR__ . '/../database/migrations/create_countries_tables.php.stub';
@@ -136,7 +71,7 @@ abstract class TestCase extends Orchestra
         (new \CreateCountriesTables())->up();
         (new \CreateCurrenciesTables())->up();
 
-        $this->testContinent = Continent::firstOrCreate([
+        $this->testContinent = Continent::create([
             'name' => 'Europe',
             'slug' => 'europe',
             'region' => 'EMEA',
@@ -148,7 +83,7 @@ abstract class TestCase extends Orchestra
             ]
         ]);
 
-        $this->testSubcontinent = Subcontinent::firstOrCreate([
+        $this->testSubcontinent = Subcontinent::create([
             'code' => 155,
             'name' => 'Western Europe',
             'slug' => 'western-europe',
@@ -156,7 +91,7 @@ abstract class TestCase extends Orchestra
             'continent_id' => $this->testContinent->id,
         ]);
 
-        $this->testCountry = Country::firstOrCreate([
+        $this->testCountry = Country::create([
             'continent_id' => $this->testContinent->id,
             'subcontinent_id' => $this->testSubcontinent->id,
             'cca2' => 'FR',
@@ -297,7 +232,7 @@ abstract class TestCase extends Orchestra
             ],
         ]);
 
-        $this->testCurrency = Currency::firstOrCreate([
+        $this->testCurrency = Currency::create([
             'name' => 'Euro',
             'iso3l' => 'EUR',
             'iso3n' => '978',

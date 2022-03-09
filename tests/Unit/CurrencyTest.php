@@ -2,14 +2,11 @@
 
 namespace Papposilene\Geodata\Tests;
 
-use Illuminate\Foundation\Testing\DatabaseMigrations;
 use Papposilene\Geodata\Contracts\Currency;
 use Papposilene\Geodata\Exceptions\CurrencyDoesNotExist;
 
 class CurrencyTest extends TestCase
 {
-    //use DatabaseMigrations;
-
     /** @test */
     public function it_throws_an_exception_when_a_currency_does_not_exist()
     {
