@@ -11,7 +11,14 @@ interface Country
      *
      * @return \Illuminate\Database\Eloquent\Relations\BelongsTo
      */
-    public function inSubcontinent(): BelongsTo;
+    public function belongsToContinent(): BelongsTo;
+
+    /**
+     * A country belongs to one subcontinent.
+     *
+     * @return \Illuminate\Database\Eloquent\Relations\BelongsTo
+     */
+    public function belongsToSubcontinent(): BelongsTo;
 
     /**
      * Find a country by its name.
@@ -34,4 +41,26 @@ interface Country
      * @return Geodata
      */
     public static function findById(int $id): self;
+
+    /**
+     * Find a country by its CCA2 ISO code.
+     *
+     * @param string $cca2
+     *
+     * @throws \Papposilene\Geodata\Exceptions\CountryDoesNotExist
+     *
+     * @return Geodata
+     */
+    public static function findByCca2(string $id): self;
+
+    /**
+     * Find a country by its CCA3 ISO code.
+     *
+     * @param string $cca3
+     *
+     * @throws \Papposilene\Geodata\Exceptions\CountryDoesNotExist
+     *
+     * @return Geodata
+     */
+    public static function findByCca3(string $cca3): self;
 }

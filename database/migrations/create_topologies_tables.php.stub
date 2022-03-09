@@ -5,7 +5,7 @@ use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Database\Migrations\Migration;
 use Papposilene\Geodata\GeodataRegistrar;
 
-class CreateGeometriesTables extends Migration
+class CreateTopologiesTables extends Migration
 {
     /**
      * Run the migrations.
@@ -14,7 +14,7 @@ class CreateGeometriesTables extends Migration
      */
     public function up()
     {
-        Schema::create('geodata__geometries', function (Blueprint $table) {
+        Schema::create('geodata__topologies', function (Blueprint $table) {
             $table->id();
             $table->string('cca3', 3);
             $table->json('properties');
@@ -33,6 +33,6 @@ class CreateGeometriesTables extends Migration
      */
     public function down()
     {
-        Schema::drop('geodata__geometries');
+        Schema::drop('geodata__topologies');
     }
 }

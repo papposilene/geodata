@@ -1,9 +1,12 @@
 <?php
 
 use Illuminate\Database\Seeder;
-use Illuminate\Filesystem\Filesystem;
 use Illuminate\Support\Facades\DB;
+use Illuminate\Support\Facades\File;
 use Illuminate\Support\Str;
+use Papposilene\Geodata\Models\Continent;
+use Papposilene\Geodata\Models\Country;
+use Papposilene\Geodata\Models\Subcontinent;
 
 class CountriesSeeder extends Seeder
 {
@@ -21,8 +24,7 @@ class CountriesSeeder extends Seeder
 
         $file = File::get('data/geodata/countries/countries.json');
         $json = json_decode($file);
-        foreach ($json as $data)
-        {
+        foreach ($json as $data) {
             $continent = Continent::firstOrCreate(
                 [
                     'name' => $data->geo->region
@@ -33,13 +35,13 @@ class CountriesSeeder extends Seeder
                     'region' => $data->geo->world_region,
                 ]
             );
-            
+
             $subcontinent = Subcontinent::firstOrCreate(
                 [
                     'name' => $data->geo->subregion
                 ],
                 [
-                    'code' => $data->geo->subregion_code, 
+                    'code' => $data->geo->subregion_code,
                     'slug' => Str::slug($data->geo->subregion, '-'),
                     'continent_id' => $continent->id,
                 ]
@@ -71,24 +73,7 @@ class CountriesSeeder extends Seeder
                 'languages'         => json_encode($data->languages, JSON_FORCE_OBJECT),
                 'name_native'       => json_encode($data->name->native, JSON_FORCE_OBJECT),
                 'name_translations' => json_encode($data->translations, JSON_FORCE_OBJECT)
-			]);
+            ]);
         }
-    }
-
-    /**
-     * Returns existing seeder file if found.
-     *
-     * @return string
-     */
-    protected function getDataFiles(): string
-    {
-        $filesystem = $this->app->make(Filesystem::class);
-
-        return Collection::make(__DIR__.'/../data' . DIRECTORY_SEPARATOR . 'countries' . DIRECTORY_SEPARATOR)
-            ->flatMap(function ($path) use ($filesystem) {
-                return $filesystem->glob($path . '*.json');
-            })
-            ->push(__DIR__.'/../data' . DIRECTORY_SEPARATOR . 'countries' . DIRECTORY_SEPARATOR . $dataFileName)
-            ->first();
     }
 }
