@@ -4,8 +4,6 @@ declare(strict_types=1);
 
 namespace Papposilene\Geodata\Tests;
 
-use Illuminate\Database\Schema\Blueprint;
-use Illuminate\Support\Facades\Schema;
 use Orchestra\Testbench\TestCase as Orchestra;
 use Papposilene\Geodata\Models\Continent;
 use Papposilene\Geodata\Models\Subcontinent;
@@ -13,7 +11,7 @@ use Papposilene\Geodata\Models\Country;
 use Papposilene\Geodata\Models\Currency;
 //use Papposilene\Geodata\Models\Geometry;
 //use Papposilene\Geodata\Models\Topology;
-use Papposilene\Geodata\GeodataRegistrar;
+//use Papposilene\Geodata\GeodataRegistrar;
 use Papposilene\Geodata\GeodataServiceProvider;
 
 abstract class TestCase extends Orchestra
