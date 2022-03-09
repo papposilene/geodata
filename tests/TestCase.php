@@ -1,18 +1,45 @@
 <?php
 
-namespace Papposilene\Geodata\Test;
+declare(strict_types=1);
+
+namespace Papposilene\Geodata\Tests;
 
 use Illuminate\Database\Schema\Blueprint;
-use Illuminate\Http\Request;
-use Illuminate\Support\Facades\Schema;
+use Illuminate\Foundation\Testing\DatabaseMigrations;
+use Illuminate\Foundation\Testing\RefreshDatabase;
 use Orchestra\Testbench\TestCase as Orchestra;
 use Papposilene\Geodata\Contracts\Continent;
 use Papposilene\Geodata\Contracts\Subcontinent;
+use Papposilene\Geodata\Contracts\Country;
+use Papposilene\Geodata\Contracts\Currency;
+//use Papposilene\Geodata\Contracts\Geometry;
+//use Papposilene\Geodata\Contracts\Topology;
 use Papposilene\Geodata\GeodataRegistrar;
 use Papposilene\Geodata\GeodataServiceProvider;
 
 abstract class TestCase extends Orchestra
 {
+    use DatabaseMigrations;
+
+    public function setUp(): void
+    {
+        parent::setUp();
+
+        $this->setUpDatabase($this->app);
+    }
+
+    /**
+     * @param \Illuminate\Foundation\Application $app
+     *
+     * @return array
+     */
+    protected function getPackageProviders($app)
+    {
+        return [
+            GeodataServiceProvider::class,
+        ];
+    }
+
     /**
      * Set up the environment.
      *
@@ -38,7 +65,7 @@ abstract class TestCase extends Orchestra
     {
         $app['db']->connection()->getSchemaBuilder()->create('geodata__continents', function (Blueprint $table) {
             $table->id();
-            $table->bigInteger('code');
+            $table->integer('code', false);
             $table->string('slug');
             $table->string('name');
             $table->string('region');
@@ -47,7 +74,7 @@ abstract class TestCase extends Orchestra
 
         $app['db']->connection()->getSchemaBuilder()->create('geodata__subcontinents', function (Blueprint $table) {
             $table->id();
-            $table->bigInteger('code');
+            $table->integer('code', false);
             $table->string('name');
             $table->string('slug');
             $table->json('translations');
@@ -90,7 +117,7 @@ abstract class TestCase extends Orchestra
             $table->increments('id');
             $table->string('name');
             $table->string('iso3l', 3);
-            $table->integer('iso3n', 3);
+            $table->integer('iso3n', false);
             $table->string('type', 255);
             $table->json('units');
             $table->json('coins');
@@ -99,19 +126,19 @@ abstract class TestCase extends Orchestra
             $table->unique(['name', 'iso3l', 'iso3n']);
         });
 
-        include_once __DIR__.'/../database/migrations/create_continents_tables.php.stub';
-        include_once __DIR__.'/../database/migrations/create_subcontinents_tables.php.stub';
-        include_once __DIR__.'/../database/migrations/create_countries_tables.php.stub';
-        include_once __DIR__.'/../database/migrations/create_currencies_tables.php.stub';
+        include_once __DIR__ . '/../database/migrations/create_continents_tables.php.stub';
+        include_once __DIR__ . '/../database/migrations/create_subcontinents_tables.php.stub';
+        include_once __DIR__ . '/../database/migrations/create_countries_tables.php.stub';
+        include_once __DIR__ . '/../database/migrations/create_currencies_tables.php.stub';
 
         (new \CreateContinentsTables())->up();
         (new \CreateSubcontinentsTables())->up();
         (new \CreateCountriesTables())->up();
         (new \CreateCurrenciesTables())->up();
 
-        $this->testContinent = Continent::create([
-            'name' => 'Europe', 
-            'slug' => 'europe', 
+        $this->testContinent = Continent::firstOrCreate([
+            'name' => 'Europe',
+            'slug' => 'europe',
             'region' => 'EMEA',
             'translations' => [
                 'fra' => 'Europe',
@@ -121,7 +148,7 @@ abstract class TestCase extends Orchestra
             ]
         ]);
 
-        $this->testSubcontinent = Subcontinent::create([
+        $this->testSubcontinent = Subcontinent::firstOrCreate([
             'code' => 155,
             'name' => 'Western Europe',
             'slug' => 'western-europe',
@@ -129,7 +156,7 @@ abstract class TestCase extends Orchestra
             'continent_id' => $this->testContinent->id,
         ]);
 
-        $this->testCountry = Country::create([
+        $this->testCountry = Country::firstOrCreate([
             'continent_id' => $this->testContinent->id,
             'subcontinent_id' => $this->testSubcontinent->id,
             'cca2' => 'FR',
@@ -159,25 +186,25 @@ abstract class TestCase extends Orchestra
             'currencies' => ['EUR'],
             'demonyms' => [
                 'eng' => [
-                    'f': 'French',
-                    'm': 'French',
+                    'f' => 'French',
+                    'm' => 'French',
                 ],
                 'fra' => [
-                    'f': 'Fran\u00e7aise',
-                    'm': 'Fran\u00e7ais',
+                    'f' => 'Fran\u00e7aise',
+                    'm' => 'Fran\u00e7ais',
                 ]
             ],
             'dialling_codes' => [
                 'calling_code' => ['33'],
                 'international_prefix' => '00',
                 'national_destination_code_lengths' => [1],
-                'national_number_lengths' => [9,10],
+                'national_number_lengths' => [9, 10],
                 'national_prefix' => '0',
             ],
             'languages' => ['fra' => 'French'],
             'name_native' => [
                 'fra' => [
-                    'common' =>'France',
+                    'common' => 'France',
                     'official' => 'R\u00e9publique fran\u00e7aise'
                 ]
             ],
@@ -270,7 +297,7 @@ abstract class TestCase extends Orchestra
             ],
         ]);
 
-        $this->testCurrency = Currency::create([
+        $this->testCurrency = Currency::firstOrCreate([
             'name' => 'Euro',
             'iso3l' => 'EUR',
             'iso3n' => '978',
@@ -314,7 +341,5 @@ abstract class TestCase extends Orchestra
                 ],
             ],
         ]);
-        
     }
-
 }
