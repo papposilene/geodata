@@ -16,6 +16,18 @@ use Papposilene\Geodata\GeodataServiceProvider;
 
 abstract class TestCase extends Orchestra
 {
+    /** @var \Papposilene\Geodata\Models\Continent */
+    protected $testContinent;
+
+    /** @var \Papposilene\Geodata\Models\Subcontinent */
+    protected $testSubcontinent;
+
+    /** @var \Papposilene\Geodata\Models\Country */
+    protected $testCountry;
+
+    /** @var \Papposilene\Geodata\Models\Currency */
+    protected $testCurrency;
+
     public function setUp(): void
     {
         parent::setUp();
