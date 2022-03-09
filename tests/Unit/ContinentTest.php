@@ -36,6 +36,8 @@ class ContinentTest extends TestCase
     {
         $continent_by_iso3l = app(Continent::class)->findByIso($this->testContinent->iso3l);
 
+        var_dump($this->testContinent);
+
         $this->assertEquals($this->testContinent->iso3l, $continent_by_iso3l->iso3l);
     }
 }
