@@ -1,0 +1,43 @@
+<?php
+
+use Illuminate\Support\Facades\Schema;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Database\Migrations\Migration;
+use Papposilene\Geodata\GeodataRegistrar;
+
+class CreateGeometriesTables extends Migration
+{
+    /**
+     * Run the migrations.
+     *
+     * @return void
+     */
+    public function up()
+    {
+        Schema::create('geodata__geometries', function (Blueprint $table) {
+            $table->id();
+            $table->string('cca3', 3);
+            $table->enum('geo_type', [
+                'Point', 'LineString', 'Polygon', 
+                'MultiPoint', 'MultiLineString', 'MultiPolygon', 'GeometryCollection'
+            ]);
+            $table->json('coordinates');
+            $table->json('properties');
+            $table->json('raw');
+            $table->timestamps();
+
+            $table->unique(['cca3']);
+            $table->foreign('cca3')->references('cca3')->on('geodata__countries');
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     *
+     * @return void
+     */
+    public function down()
+    {
+        Schema::drop('geodata__subcontinents');
+    }
+}
