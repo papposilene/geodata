@@ -2,10 +2,8 @@
 
 namespace Papposilene\Geodata\Tests;
 
-use Papposilene\Geodata\Contracts\Continent;
-use Papposilene\Geodata\Contracts\Subcontinent;
+use Papposilene\Geodata\Models\Continent;
 use Papposilene\Geodata\Exceptions\ContinentDoesNotExist;
-use Papposilene\Geodata\Exceptions\SubcontinentDoesNotExist;
 
 class ContinentTest extends TestCase
 {

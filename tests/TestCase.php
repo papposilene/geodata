@@ -73,8 +73,8 @@ abstract class TestCase extends Orchestra
 
         $this->testContinent = Continent::create([
             'code' => 150,
-            'name' => 'Europe',
             'slug' => 'europe',
+            'name' => 'Europe',
             'region' => 'EMEA',
             'translations' => [
                 'fra' => 'Europe',
@@ -86,8 +86,8 @@ abstract class TestCase extends Orchestra
 
         $this->testSubcontinent = Subcontinent::create([
             'code' => 155,
-            'name' => 'Western Europe',
             'slug' => 'western-europe',
+            'name' => 'Western Europe',
             'translations' => '',
             'continent_id' => $this->testContinent->id,
         ]);
