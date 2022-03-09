@@ -1,9 +1,19 @@
-./idea
-./vscode
-/vendor
+# Folders
+/.github
+/.idea
+/.vscode
+/cache
 /coverage
-/tmp
+/logs
+/npm_modules
 /src/data/tmp
 /src/data/third-party/
+/storage
+/tmp
+/vendor
+
+# Files
+*.cache
 .DS_Store
 composer.phar
+composer.lock

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phpunit xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" bootstrap="vendor/autoload.php" backupGlobals="false" backupStaticAttributes="false" colors="true" verbose="true" convertErrorsToExceptions="true" convertNoticesToExceptions="true" convertWarningsToExceptions="true" processIsolation="false" stopOnFailure="false" xsi:noNamespaceSchemaLocation="https://schema.phpunit.de/9.3/phpunit.xsd">
+  <coverage>
+    <include>
+      <directory suffix=".php">src/</directory>
+    </include>
+  </coverage>
+   <testsuites>
+        <testsuite name="Geodata Feature Tests Suit">
+            <directory suffix="Test.php">./tests/Feature</directory>
+        </testsuite>
+        <testsuite name="Geodata UNit Tests Suit">
+            <directory suffix="Test.php">./tests/Unit</directory>
+        </testsuite>
+  </testsuites>
+  <php>
+    <env name="APP_ENV" value="testing"/>
+    <env name="CACHE_DRIVER" value="array"/>
+  </php>
+  <logging>
+    <log type="coverage-html" target="/tmp/report" lowUpperBound="35" highLowerBound="70"/>
+    <log type="coverage-clover" target="/tmp/coverage.xml"/>
+    <log type="coverage-php" target="/tmp/coverage.serialized"/>
+    <log type="coverage-text" target="php://stdout" showUncoveredFiles="false"/>
+    <log type="junit" target="/tmp/logfile.xml" logIncompleteSkipped="false"/>
+    <log type="testdox-html" target="/tmp/testdox.html"/>
+    <log type="testdox-text" target="/tmp/testdox.txt"/>
+  </logging>
+</phpunit>
