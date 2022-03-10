@@ -5,16 +5,11 @@ namespace Papposilene\Geodata\Models;
 use Illuminate\Database\Eloquent\Collection;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\Relations\BelongsToMany;
-use Papposilene\Geodata\Contracts\Currency as CurrencyContract;
 use Papposilene\Geodata\Exceptions\CurrencyDoesNotExist;
 use Papposilene\Geodata\GeodataRegistrar;
 
-class Currency extends Model implements CurrencyContract
+class Currency extends Model
 {
-    public function __construct()
-    {
-    }
-
     public function getTable()
     {
         return 'geodata__currencies';

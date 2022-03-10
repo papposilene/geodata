@@ -4,16 +4,11 @@ namespace Papposilene\Geodata\Models;
 
 use Illuminate\Database\Eloquent\Collection;
 use Illuminate\Database\Eloquent\Model;
-use Papposilene\Geodata\Contracts\Topology as TopologyContract;
 use Papposilene\Geodata\Exceptions\TopologyDoesNotExist;
 use Papposilene\Geodata\GeodataRegistrar;
 
-class Topology extends Model implements TopologyContract
+class Topology extends Model
 {
-    public function __construct()
-    {
-    }
-
     public function getTable()
     {
         return 'geodata__topologies';

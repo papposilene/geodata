@@ -4,16 +4,11 @@ namespace Papposilene\Geodata\Models;
 
 use Illuminate\Database\Eloquent\Collection;
 use Illuminate\Database\Eloquent\Model;
-use Papposilene\Geodata\Contracts\Geometry as GeometryContract;
 use Papposilene\Geodata\Exceptions\GeometryDoesNotExist;
 use Papposilene\Geodata\GeodataRegistrar;
 
-class Geometry extends Model implements GeometryContract
+class Geometry extends Model
 {
-    public function __construct()
-    {
-    }
-
     public function getTable()
     {
         return 'geodata__geometries';

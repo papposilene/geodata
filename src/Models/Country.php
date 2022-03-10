@@ -5,16 +5,11 @@ namespace Papposilene\Geodata\Models;
 use Illuminate\Database\Eloquent\Collection;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\Relations\BelongsTo;
-use Papposilene\Geodata\Contracts\Country as CountryContract;
 use Papposilene\Geodata\Exceptions\CountryDoesNotExist;
 use Papposilene\Geodata\GeodataRegistrar;
 
-class Country extends Model implements CountryContract
+class Country extends Model
 {
-    public function __construct()
-    {
-    }
-
     public function getTable()
     {
         return 'geodata__countries';
@@ -66,7 +61,7 @@ class Country extends Model implements CountryContract
      *
      * @return \Papposilene\Geodata\Contracts\Country
      */
-    protected static function getCountry(array $params = []): ?CountryContract
+    protected static function getCountry(array $params = []): Country
     {
         return static::getCountries($params, true)->first();
     }
@@ -74,7 +69,7 @@ class Country extends Model implements CountryContract
     /**
      * @inheritDoc
      */
-    public static function findByName(string $name): CountryContract
+    public static function findByName(string $name): Country
     {
         $country = static::find($name);
 
@@ -88,7 +83,7 @@ class Country extends Model implements CountryContract
     /**
      * @inheritDoc
      */
-    public static function findById(int $id): CountryContract
+    public static function findById(int $id): Country
     {
         $country = static::findById($id);
 
@@ -102,7 +97,7 @@ class Country extends Model implements CountryContract
     /**
      * @inheritDoc
      */
-    public static function findByCca2(string $cca2): CountryContract
+    public static function findByCca2(string $cca2): Country
     {
         $country = static::findByCca2($cca2);
 
@@ -116,7 +111,7 @@ class Country extends Model implements CountryContract
     /**
      * @inheritDoc
      */
-    public static function findByCca3(string $cca3): CountryContract
+    public static function findByCca3(string $cca3): Country
     {
         $country = static::findByCca3($cca3);
 
