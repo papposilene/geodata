@@ -47,9 +47,9 @@ class Currency extends Model
      *
      * @param array $params
      *
-     * @return \Papposilene\Geodata\Contracts\Continent
+     * @return \Papposilene\Geodata\Models\Continent
      */
-    protected static function getCurrency(array $params = []): ?CurrencyContract
+    protected static function getCurrency(array $params = []): Currency
     {
         return static::getCurrencies($params, true)->first();
     }
@@ -57,9 +57,9 @@ class Currency extends Model
     /**
      * @inheritDoc
      */
-    public static function findByName(string $name): CurrencyContract
+    public static function findByName(string $name): Currency
     {
-        $currency = static::findByName($name);
+        $currency = static::where('name', $name);
 
         if (!$currency) {
             throw CurrencyDoesNotExist::named($name);
@@ -71,7 +71,7 @@ class Currency extends Model
     /**
      * @inheritDoc
      */
-    public static function findById(int $id): CurrencyContract
+    public static function findById(int $id): Currency
     {
         $currency = static::findById($id);
 
@@ -85,7 +85,7 @@ class Currency extends Model
     /**
      * @inheritDoc
      */
-    public static function findByIso3l(string $iso): CurrencyContract
+    public static function findByIso3l(string $iso): Currency
     {
         $currency = static::findByIso($iso);
 
@@ -99,7 +99,7 @@ class Currency extends Model
     /**
      * @inheritDoc
      */
-    public static function findByIso3n(int $iso): CurrencyContract
+    public static function findByIso3n(int $iso): Currency
     {
         $currency = static::findByIso($iso);
 

@@ -2,7 +2,7 @@
 
 namespace Papposilene\Geodata\Tests;
 
-use Papposilene\Geodata\Contracts\Currency;
+use Papposilene\Geodata\Models\Currency;
 use Papposilene\Geodata\Exceptions\CurrencyDoesNotExist;
 
 class CurrencyTest extends TestCase
@@ -12,7 +12,15 @@ class CurrencyTest extends TestCase
     {
         $this->expectException(CurrencyDoesNotExist::class);
 
-        app(Currency::class)->where('name', 'not a currency')->isEmpty();
+        app(Currency::class)->findByName('not a currency');
+    }
+
+    /** @test */
+    public function it_is_retrievable_by_code()
+    {
+        $currency_by_code = app(Currency::class)->findByCode($this->testCurrency->code);
+
+        $this->assertEquals($this->testCurrency->code, $currency_by_code->code);
     }
 
     /** @test */
@@ -29,5 +37,13 @@ class CurrencyTest extends TestCase
         $currency_by_name = app(Currency::class)->findByName($this->testCurrency->name);
 
         $this->assertEquals($this->testCurrency->name, $currency_by_name->name);
+    }
+
+    /** @test */
+    public function it_is_retrievable_by_slug()
+    {
+        $currency_by_slug = app(Currency::class)->findBySlug($this->testCurrency->slug);
+
+        $this->assertEquals($this->testCurrency->slug, $currency_by_slug->slug);
     }
 }
