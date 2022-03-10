@@ -20,7 +20,7 @@ class CreateContinentsTables extends Migration
             $table->string('slug', 255);
             $table->string('name', 255);
             $table->string('region', 255);
-            $table->json('translations'); // For spatie/laravel-translatable
+            $table->json('translations')->nullable();
             $table->timestamps();
 
             $table->unique(['code', 'name', 'slug']);

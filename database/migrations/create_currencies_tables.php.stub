@@ -21,8 +21,8 @@ class CreateCurrenciesTables extends Migration
             $table->integer('iso3n', false);
             $table->string('type', 255);
             $table->json('units');
-            $table->json('coins');
-            $table->json('bills');
+            $table->json('coins')->nullable();
+            $table->json('bills')->nullable();
             $table->timestamps();
 
             $table->unique(['name', 'iso3l', 'iso3n']);
