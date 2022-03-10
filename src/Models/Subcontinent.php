@@ -109,8 +109,6 @@ class Subcontinent extends Model
            throw SubcontinentDoesNotExist::named($name);
        }
 
-       dd($subccontinent);
-
        return $subccontinent;
    }
 
@@ -130,8 +128,6 @@ class Subcontinent extends Model
        if (!$subccontinent) {
            throw SubcontinentDoesNotExist::withSlug($slug);
        }
-
-       dd($subccontinent);
 
        return $subccontinent;
    }
