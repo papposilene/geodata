@@ -16,7 +16,9 @@ class Currency extends Model
     }
 
     /**
-     * @inheritDoc
+     * A currency can be used by many countries.
+     *
+     * @return \Illuminate\Database\Eloquent\Relations\BelongsToMany
      */
     public function usedByCountries(): belongsToMany
     {
@@ -28,7 +30,13 @@ class Currency extends Model
     }
 
     /**
-     * @inheritDoc
+     * Find a continent by its name.
+     *
+     * @param string $name
+     *
+     * @throws \Papposilene\Geodata\Exceptions\CurrencyDoesNotExist
+     *
+     * @return Currency
      */
     public static function findByName(string $name): Currency
     {
@@ -42,7 +50,13 @@ class Currency extends Model
     }
 
     /**
-     * @inheritDoc
+     * Find a continent by its id.
+     *
+     * @param int $id
+     *
+     * @throws \Papposilene\Geodata\Exceptions\CurrencyDoesNotExist
+     *
+     * @return Currency
      */
     public static function findById(int $id): Currency
     {
@@ -56,7 +70,13 @@ class Currency extends Model
     }
 
     /**
-     * @inheritDoc
+     * Find a continent by its 3-letter ISO.
+     *
+     * @param string $iso3n
+     *
+     * @throws \Papposilene\Geodata\Exceptions\CurrencyDoesNotExist
+     *
+     * @return Currency
      */
     public static function findByIso3l(string $iso): Currency
     {
@@ -70,7 +90,13 @@ class Currency extends Model
     }
 
     /**
-     * @inheritDoc
+     * Find a continent by its 3-number ISO.
+     *
+     * @param int $iso3n
+     *
+     * @throws \Papposilene\Geodata\Exceptions\CurrencyDoesNotExist
+     *
+     * @return Currency
      */
     public static function findByIso3n(int $iso): Currency
     {
