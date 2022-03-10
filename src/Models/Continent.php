@@ -73,7 +73,7 @@ class Continent extends Model
     /**
      * Find a continent by its id.
      *
-     * @param integer $id
+     * @param int $id
      *
      * @throws \Papposilene\Geodata\Exceptions\ContinentDoesNotExist
      *
@@ -81,7 +81,7 @@ class Continent extends Model
      */
     public static function findById(int $id): Continent
     {
-        $continent = static::first($id);
+        $continent = static::find($id);
 
         if (!$continent) {
             throw ContinentDoesNotExist::withId($id);
@@ -107,8 +107,6 @@ class Continent extends Model
             throw ContinentDoesNotExist::named($name);
         }
 
-        dd($continent);
-
         return $continent;
     }
 
@@ -128,8 +126,6 @@ class Continent extends Model
         if (!$continent) {
             throw ContinentDoesNotExist::withSlug($slug);
         }
-
-        dd($continent);
 
         return $continent;
     }

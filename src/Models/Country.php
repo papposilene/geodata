@@ -76,7 +76,7 @@ class Country extends Model implements CountryContract
      */
     public static function findByName(string $name): CountryContract
     {
-        $country = static::findByName($name);
+        $country = static::find($name);
 
         if (!$country) {
             throw CountryDoesNotExist::named($name);

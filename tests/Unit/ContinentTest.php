@@ -30,14 +30,4 @@ class ContinentTest extends TestCase
 
         $this->assertEquals($this->testContinent->name, $continent_by_name->name);
     }
-
-    /** @test */
-    public function it_is_retrievable_by_iso3l()
-    {
-        $continent_by_iso3l = app(Continent::class)->findByIso($this->testContinent->iso3l);
-
-        var_dump($this->testContinent);
-
-        $this->assertEquals($this->testContinent->iso3l, $continent_by_iso3l->iso3l);
-    }
 }

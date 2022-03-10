@@ -83,7 +83,7 @@ class Subcontinent extends Model
     */
    public static function findById(int $id): Subcontinent
    {
-       $subccontinent = static::first($id);
+       $subccontinent = static::find($id);
 
        if (!$subccontinent) {
            throw SubcontinentDoesNotExist::withId($id);
