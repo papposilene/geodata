@@ -2,19 +2,20 @@
 
 namespace Papposilene\Geodata\Models;
 
-use Illuminate\Database\Eloquent\Collection;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\Relations\HasMany;
-use Papposilene\Geodata\Contracts\Continent as ContinentContract;
-use Papposilene\Geodata\Exceptions\ContinentAlreadyExists;
 use Papposilene\Geodata\Exceptions\ContinentDoesNotExist;
-use Papposilene\Geodata\GeodataRegistrar;
 
-class Continent extends Model implements ContinentContract
+class Continent extends Model
 {
-    public function __construct()
-    {
-    }
+    protected $visible = [
+        'id',
+        'code',
+        'name',
+        'slug',
+        'region',
+        'translations',
+    ];
 
     public function getTable()
     {
@@ -22,7 +23,9 @@ class Continent extends Model implements ContinentContract
     }
 
     /**
-     * @inheritDoc
+     * A continent has many subcontinents.
+     *
+     * @return \Illuminate\Database\Eloquent\Relations\HasMany
      */
     public function hasSubcontinents(): HasMany
     {
@@ -34,7 +37,9 @@ class Continent extends Model implements ContinentContract
     }
 
     /**
-     * @inheritDoc
+     * A continent has many countries.
+     *
+     * @return \Illuminate\Database\Eloquent\Relations\HasMany
      */
     public function hasCountries(): HasMany
     {
@@ -46,56 +51,85 @@ class Continent extends Model implements ContinentContract
     }
 
     /**
-     * Get the current continents.
+     * Find a continent by its code.
      *
-     * @param array $params
-     * @param bool $onlyOne
+     * @param integer $code
      *
-     * @return \Illuminate\Database\Eloquent\Collection
+     * @throws \Papposilene\Geodata\Exceptions\ContinentDoesNotExist
+     *
+     * @return Continent
      */
-    protected static function getContinents(array $params = [], bool $onlyOne = false): Collection
+    public static function findByCode(int $code): Continent
     {
-        return app(GeodataRegistrar::class)
-            ->setContinentClass(static::class)
-            ->getContinents($params, $onlyOne);
-    }
-
-    /**
-     * Get the current first continent.
-     *
-     * @param array $params
-     *
-     * @return \Papposilene\Geodata\Contracts\Continent
-     */
-    protected static function getContinent(array $params = []): ?ContinentContract
-    {
-        return static::getContinents($params, true)->first();
-    }
-
-    /**
-     * @inheritDoc
-     */
-    public static function findByName(string $name): ContinentContract
-    {
-        $continent = static::findByName($name);
+        $continent = static::where('code', $code)->first();
 
         if (!$continent) {
-            throw ContinentDoesNotExist::named($name);
+            throw ContinentDoesNotExist::withCode($code);
         }
 
         return $continent;
     }
 
     /**
-     * @inheritDoc
+     * Find a continent by its id.
+     *
+     * @param integer $id
+     *
+     * @throws \Papposilene\Geodata\Exceptions\ContinentDoesNotExist
+     *
+     * @return Continent
      */
-    public static function findById(int $id): ContinentContract
+    public static function findById(int $id): Continent
     {
-        $continent = static::findById($id);
+        $continent = static::first($id);
 
         if (!$continent) {
             throw ContinentDoesNotExist::withId($id);
         }
+
+        return $continent;
+    }
+
+    /**
+     * Find a continent by its name.
+     *
+     * @param string $name
+     *
+     * @throws \Papposilene\Geodata\Exceptions\ContinentDoesNotExist
+     *
+     * @return Continent
+     */
+    public static function findByName(string $name): Continent
+    {
+        $continent = self::where('name', $name)->first();
+
+        if (!$continent) {
+            throw ContinentDoesNotExist::named($name);
+        }
+
+        dd($continent);
+
+        return $continent;
+    }
+
+    /**
+     * Find a continent by its slug.
+     *
+     * @param string $slug
+     *
+     * @throws \Papposilene\Geodata\Exceptions\ContinentDoesNotExist
+     *
+     * @return Continent
+     */
+    public static function findBySlug(string $slug): Continent
+    {
+        $continent = self::where('slug', $slug)->first();
+
+        if (!$continent) {
+            throw ContinentDoesNotExist::withSlug($slug);
+        }
+
+        dd($continent);
 
         return $continent;
     }

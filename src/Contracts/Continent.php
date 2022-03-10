@@ -27,7 +27,7 @@ interface Continent
      *
      * @throws \Papposilene\Geodata\Exceptions\ContinentDoesNotExist
      *
-     * @return Geodata
+     * @return Continent
      */
     public static function findByName(string $name): self;
 

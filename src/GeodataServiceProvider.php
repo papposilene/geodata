@@ -3,13 +3,8 @@
 namespace Papposilene\Geodata;
 
 use Illuminate\Filesystem\Filesystem;
-use Illuminate\Support\Arr;
 use Illuminate\Support\Collection;
 use Illuminate\Support\ServiceProvider;
-use Papposilene\Geodata\Contracts\Continent as ContinentContract;
-use Papposilene\Geodata\Contracts\Subcontinent as SubcontinentContract;
-use Papposilene\Geodata\Contracts\Country as CountryContract;
-use Papposilene\Geodata\Contracts\Currency as CurrencyContract;
 use Papposilene\Geodata\Models\Continent;
 use Papposilene\Geodata\Models\Subcontinent;
 use Papposilene\Geodata\Models\Country;
@@ -72,7 +67,6 @@ class GeodataServiceProvider extends ServiceProvider
             ], 'geodata-currencies');
         }
 
-        /**
         if ($config['geometries']) {
             $this->publishes([
                 __DIR__ . '/../database/migrations/create_geometries_tables.php.stub' => $this->getMigrationFileName('create_geometries_tables.php'),
@@ -88,7 +82,6 @@ class GeodataServiceProvider extends ServiceProvider
                 __DIR__ . '/../data/currencies/' => storage_path('data/geodata/currencies/'),
             ], 'geodata-topologies');
         }
-        */
     }
 
     protected function registerModelBindings()
@@ -100,32 +93,30 @@ class GeodataServiceProvider extends ServiceProvider
             return;
         }
 
-        $this->app->bind(ContinentContract::class, $cfgModels['continents']);
-        $this->app->bind(SubcontinentContract::class, $cfgModels['subcontinents']);
-        $this->app->bind(CountryContract::class, $cfgModels['countries']);
+        $this->app->bind(Continent::class, $cfgModels['continents']);
+        $this->app->bind(Subcontinent::class, $cfgModels['subcontinents']);
+        $this->app->bind(Country::class, $cfgModels['countries']);
 
         if ($cfgOptions['currencies']) {
             $this->app->bind(
-                \Papposilene\Geodata\Models\CurrencyContract::class,
+                \Papposilene\Geodata\Models\Currency::class,
                 $cfgModels['currencies']
             );
         }
 
-        /**
         if ($cfgOptions['geometries']) {
             $this->app->bind(
-                \Papposilene\Geodata\Models\GeometryContract::class,
+                \Papposilene\Geodata\Models\Geometry::class,
                 $cfgModels['geometries']
             );
         }
 
         if ($cfgOptions['topologies']) {
             $this->app->bind(
-                \Papposilene\Geodata\Models\TopologyContract::class,
+                \Papposilene\Geodata\Models\Topology::class,
                 $cfgModels['topologies']
             );
         }
-        */
     }
 
     /**

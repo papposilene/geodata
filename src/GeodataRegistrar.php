@@ -3,12 +3,12 @@
 namespace Papposilene\Geodata;
 
 use Illuminate\Database\Eloquent\Collection;
-use Papposilene\Geodata\Contracts\Continent;
-use Papposilene\Geodata\Contracts\Subcontinent;
-use Papposilene\Geodata\Contracts\Country;
-use Papposilene\Geodata\Contracts\Currency;
-use Papposilene\Geodata\Contracts\Geometry;
-use Papposilene\Geodata\Contracts\Topology;
+use Papposilene\Geodata\Models\Continent;
+use Papposilene\Geodata\Models\Subcontinent;
+use Papposilene\Geodata\Models\Country;
+use Papposilene\Geodata\Models\Currency;
+use Papposilene\Geodata\Models\Geometry;
+use Papposilene\Geodata\Models\Topology;
 
 class GeodataRegistrar
 {
@@ -96,7 +96,7 @@ class GeodataRegistrar
     /**
      * Get an instance of the continent class.
      *
-     * @return \Papposilene\Geodata\Contracts\Continent
+     * @return \Papposilene\Geodata\Models\Continent
      */
     public function getContinentClass(): Continent
     {
@@ -144,7 +144,7 @@ class GeodataRegistrar
     /**
      * Get an instance of the subcontinent class.
      *
-     * @return \Papposilene\Geodata\Contracts\Subcontinent
+     * @return \Papposilene\Geodata\Models\Subcontinent
      */
     public function getSubcontinentClass(): Subcontinent
     {
@@ -192,7 +192,7 @@ class GeodataRegistrar
     /**
      * Get an instance of the country class.
      *
-     * @return \Papposilene\Geodata\Contracts\Country
+     * @return \Papposilene\Geodata\Models\Country
      */
     public function getCountryClass(): Country
     {
@@ -240,7 +240,7 @@ class GeodataRegistrar
     /**
      * Get an instance of the currency class.
      *
-     * @return \Papposilene\Geodata\Contracts\Currency
+     * @return \Papposilene\Geodata\Models\Currency
      */
     public function getCurrencyClass(): Currency
     {
@@ -288,7 +288,7 @@ class GeodataRegistrar
     /**
      * Get an instance of the geometry class.
      *
-     * @return \Papposilene\Geodata\Contracts\Geometry
+     * @return \Papposilene\Geodata\Models\Geometry
      */
     public function getGeometryClass(): Geometry
     {
@@ -336,7 +336,7 @@ class GeodataRegistrar
     /**
      * Get an instance of the topology class.
      *
-     * @return \Papposilene\Geodata\Contracts\Topology
+     * @return \Papposilene\Geodata\Models\Topology
      */
     public function getTopologyClass(): Topology
     {
