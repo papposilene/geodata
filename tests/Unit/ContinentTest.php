@@ -12,7 +12,7 @@ class ContinentTest extends TestCase
     {
         $this->expectException(ContinentDoesNotExist::class);
 
-        app(Continent::class)->where('name', 'not a continent')->isEmpty();
+        app(Continent::class)->findByName('not a continent');
     }
 
     /** @test */

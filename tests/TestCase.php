@@ -4,6 +4,7 @@ declare(strict_types=1);
 
 namespace Papposilene\Geodata\Tests;
 
+use Illuminate\Support\Facades\DB;
 use Orchestra\Testbench\TestCase as Orchestra;
 use Papposilene\Geodata\Models\Continent;
 use Papposilene\Geodata\Models\Subcontinent;
@@ -81,28 +82,25 @@ abstract class TestCase extends Orchestra
         (new \CreateCountriesTables())->up();
         (new \CreateCurrenciesTables())->up();
 
-        $this->testContinent = Continent::create([
+        DB::table('geodata__continents')->insert([
             'code' => 150,
             'slug' => 'europe',
             'name' => 'Europe',
             'region' => 'EMEA',
-            'translations' => [
-                'fra' => 'Europe',
-                'ita' => 'Europa',
-                'chn' => '歐洲',
-                'jap' => 'ヨーロッパ',
-            ]
+            'translations' => null
         ]);
+        $this->testContinent = Continent::find(1);
 
-        $this->testSubcontinent = Subcontinent::create([
+        DB::table('geodata__subcontinents')->insert([
             'code' => 155,
             'slug' => 'western-europe',
             'name' => 'Western Europe',
-            'translations' => '',
-            'continent_id' => $this->testContinent->id,
+            'translations' => null,
+            'continent_id' => $this->testContinent,
         ]);
+        $this->testSubcontinent = Subcontinent::find(1);
 
-        $this->testCountry = Country::create([
+        DB::table('geodata__countries')->insert([
             'continent_id' => $this->testContinent->id,
             'subcontinent_id' => $this->testSubcontinent->id,
             'cca2' => 'FR',
@@ -114,7 +112,7 @@ abstract class TestCase extends Orchestra
             'lat' => 46.63727951049805,
             'lon' => 2.3382623195648193,
             'landlocked' => false,
-            'neighbourhood' => [
+            'neighbourhood' => json_encode([
                 'AND',
                 'BEL',
                 'DEU',
@@ -123,14 +121,14 @@ abstract class TestCase extends Orchestra
                 'MCO',
                 'ESP',
                 'CHE'
-            ],
+            ]),
             'status' => 'officially-assigned',
             'independent' => true,
             'un_member' => true,
             'flag' => '\ud83c\uddeb\ud83c\uddf7',
-            'capital' => ['Paris'],
-            'currencies' => ['EUR'],
-            'demonyms' => [
+            'capital' => json_encode(['Paris']),
+            'currencies' => json_encode(['EUR']),
+            'demonyms' => json_encode([
                 'eng' => [
                     'f' => 'French',
                     'm' => 'French',
@@ -139,22 +137,22 @@ abstract class TestCase extends Orchestra
                     'f' => 'Fran\u00e7aise',
                     'm' => 'Fran\u00e7ais',
                 ]
-            ],
-            'dialling_codes' => [
+            ]),
+            'dialling_codes' => json_encode([
                 'calling_code' => ['33'],
                 'international_prefix' => '00',
                 'national_destination_code_lengths' => [1],
                 'national_number_lengths' => [9, 10],
                 'national_prefix' => '0',
-            ],
-            'languages' => ['fra' => 'French'],
-            'name_native' => [
+            ]),
+            'languages' => json_encode(['fra' => 'French']),
+            'name_native' => json_encode([
                 'fra' => [
                     'common' => 'France',
                     'official' => 'R\u00e9publique fran\u00e7aise'
                 ]
-            ],
-            'name_translations' => [
+            ]),
+            'name_translations' => json_encode([
                 'ces' => [
                     'common' => 'Francie',
                     'official' => 'Francouzsk\u00e1 republika',
@@ -235,20 +233,21 @@ abstract class TestCase extends Orchestra
                     'common' => '\u6cd5\u56fd',
                     'official' => '\u6cd5\u5170\u897f\u5171\u548c\u56fd',
                 ]
-            ],
-            'extra' => [
+            ]),
+            'extra' => json_encode([
                 'address_format' => '{{recipient}}{{street}}{{postalcode}} {{city}}{{country}}',
                 'wikidata' => 'Q142',
                 'woe_id_eh' => 23424819,
-            ],
+            ]),
         ]);
+        $this->testCountry = Country::find(1);
 
-        $this->testCurrency = Currency::create([
+        DB::table('geodata__currencies')->insert([
             'name' => 'Euro',
             'iso3l' => 'EUR',
             'iso3n' => '978',
             'type' => 'currency',
-            'units' => [
+            'units' => json_encode([
                 "major" => [
                     "name" => "euro",
                     "symbol" => "\u20ac"
@@ -258,8 +257,8 @@ abstract class TestCase extends Orchestra
                     "name" => "cent",
                     "symbol" => "c"
                 ],
-            ],
-            'coins' => [
+            ]),
+            'coins' => json_encode([
                 "frequent" => [
                     "\u20ac1",
                     "\u20ac2",
@@ -272,8 +271,8 @@ abstract class TestCase extends Orchestra
                     "1c",
                     "2c"
                 ],
-            ],
-            'bills' => [
+            ]),
+            'bills' => json_encode([
                 "frequent" => [
                     "\u20ac5",
                     "\u20ac10",
@@ -285,7 +284,8 @@ abstract class TestCase extends Orchestra
                     "\u20ac200",
                     "\u20ac500"
                 ],
-            ],
+            ]),
         ]);
+        $this->testCurrency = Currency::find(1);
     }
 }
