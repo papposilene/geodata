@@ -16,6 +16,14 @@ class ContinentTest extends TestCase
     }
 
     /** @test */
+    public function it_is_retrievable_by_code()
+    {
+        $continent_by_code = app(Continent::class)->findByCode($this->testContinent->code);
+
+        $this->assertEquals($this->testContinent->code, $continent_by_code->code);
+    }
+
+    /** @test */
     public function it_is_retrievable_by_id()
     {
         $continent_by_id = app(Continent::class)->findById($this->testContinent->id);
@@ -29,5 +37,13 @@ class ContinentTest extends TestCase
         $continent_by_name = app(Continent::class)->findByName($this->testContinent->name);
 
         $this->assertEquals($this->testContinent->name, $continent_by_name->name);
+    }
+
+    /** @test */
+    public function it_is_retrievable_by_slug()
+    {
+        $continent_by_slug = app(Continent::class)->findBySlug($this->testContinent->slug);
+
+        $this->assertEquals($this->testContinent->slug, $continent_by_slug->slug);
     }
 }
