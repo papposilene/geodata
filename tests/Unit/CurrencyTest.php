@@ -16,14 +16,6 @@ class CurrencyTest extends TestCase
     }
 
     /** @test */
-    public function it_is_retrievable_by_code()
-    {
-        $currency_by_code = app(Currency::class)->findByCode($this->testCurrency->code);
-
-        $this->assertEquals($this->testCurrency->code, $currency_by_code->code);
-    }
-
-    /** @test */
     public function it_is_retrievable_by_id()
     {
         $currency_by_id = app(Currency::class)->findById($this->testCurrency->id);
@@ -32,18 +24,26 @@ class CurrencyTest extends TestCase
     }
 
     /** @test */
+    public function it_is_retrievable_by_iso3l()
+    {
+        $currency_by_iso3l = app(Currency::class)->findByIso3l($this->testCurrency->iso3l);
+
+        $this->assertEquals($this->testCurrency->iso3l, $currency_by_iso3l->iso3l);
+    }
+
+    /** @test */
+    public function it_is_retrievable_by_iso3n()
+    {
+        $currency_by_iso3n = app(Currency::class)->findByIso3n($this->testCurrency->iso3n);
+
+        $this->assertEquals($this->testCurrency->iso3n, $currency_by_iso3n->iso3n);
+    }
+
+    /** @test */
     public function it_is_retrievable_by_name()
     {
         $currency_by_name = app(Currency::class)->findByName($this->testCurrency->name);
 
         $this->assertEquals($this->testCurrency->name, $currency_by_name->name);
-    }
-
-    /** @test */
-    public function it_is_retrievable_by_slug()
-    {
-        $currency_by_slug = app(Currency::class)->findBySlug($this->testCurrency->slug);
-
-        $this->assertEquals($this->testCurrency->slug, $currency_by_slug->slug);
     }
 }

@@ -28,38 +28,11 @@ class Currency extends Model
     }
 
     /**
-     * Get the current currencies.
-     *
-     * @param array $params
-     * @param bool $onlyOne
-     *
-     * @return \Illuminate\Database\Eloquent\Collection
-     */
-    protected static function getCurrencies(array $params = [], bool $onlyOne = false): Collection
-    {
-        return app(GeodataRegistrar::class)
-            ->setCurrencyClass(static::class)
-            ->getCurrencies($params, $onlyOne);
-    }
-
-    /**
-     * Get the current first currency.
-     *
-     * @param array $params
-     *
-     * @return \Papposilene\Geodata\Models\Continent
-     */
-    protected static function getCurrency(array $params = []): Currency
-    {
-        return static::getCurrencies($params, true)->first();
-    }
-
-    /**
      * @inheritDoc
      */
     public static function findByName(string $name): Currency
     {
-        $currency = static::where('name', $name);
+        $currency = static::where('name', $name)->first();
 
         if (!$currency) {
             throw CurrencyDoesNotExist::named($name);
@@ -73,7 +46,7 @@ class Currency extends Model
      */
     public static function findById(int $id): Currency
     {
-        $currency = static::findById($id);
+        $currency = static::find($id);
 
         if (!$currency) {
             throw CurrencyDoesNotExist::withId($id);
@@ -87,7 +60,7 @@ class Currency extends Model
      */
     public static function findByIso3l(string $iso): Currency
     {
-        $currency = static::findByIso($iso);
+        $currency = static::where('iso3l', $iso)->first();
 
         if (!$currency) {
             throw CurrencyDoesNotExist::withIso($iso);
@@ -101,7 +74,7 @@ class Currency extends Model
      */
     public static function findByIso3n(int $iso): Currency
     {
-        $currency = static::findByIso($iso);
+        $currency = static::where('iso3n', $iso)->first();
 
         if (!$currency) {
             throw CurrencyDoesNotExist::withIso($iso);
