@@ -12,8 +12,6 @@ return [
 
         'currencies' => true,
         'flags' => false,
-        'geometries' => false,
-        'topologies' => false,
 
     ],
 
