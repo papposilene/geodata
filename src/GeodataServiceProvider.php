@@ -66,22 +66,6 @@ class GeodataServiceProvider extends ServiceProvider
                 __DIR__ . '/../data/currencies/' => storage_path('data/geodata/currencies/'),
             ], 'geodata-currencies');
         }
-
-        if ($config['geometries']) {
-            $this->publishes([
-                __DIR__ . '/../database/migrations/create_geometries_tables.php.stub' => $this->getMigrationFileName('create_geometries_tables.php'),
-                __DIR__ . '/../database/seeders/GeometriesSeeder.php.stub' => $this->getSeederFileName('GeometriesSeeder.php'),
-                __DIR__ . '/../data/geometries/' => storage_path('data/geodata/geometries/'),
-            ], 'geodata-geometries');
-        }
-
-        if ($config['topologies']) {
-            $this->publishes([
-                __DIR__ . '/../database/migrations/create_topologies_tables.php.stub' => $this->getMigrationFileName('create_topologies_tables.php'),
-                __DIR__ . '/../database/seeders/TopologiesSeeder.php.stub' => $this->getSeederFileName('TopologiesSeeder.php'),
-                __DIR__ . '/../data/currencies/' => storage_path('data/geodata/currencies/'),
-            ], 'geodata-topologies');
-        }
     }
 
     protected function registerModelBindings()

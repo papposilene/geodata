@@ -7,8 +7,6 @@ use Papposilene\Geodata\Models\Continent;
 use Papposilene\Geodata\Models\Subcontinent;
 use Papposilene\Geodata\Models\Country;
 use Papposilene\Geodata\Models\Currency;
-use Papposilene\Geodata\Models\Geometry;
-use Papposilene\Geodata\Models\Topology;
 
 class GeodataRegistrar
 {
@@ -36,18 +34,6 @@ class GeodataRegistrar
     /** @var \Illuminate\Database\Eloquent\Collection */
     protected $currencies;
 
-    /** @var string */
-    protected $geometryClass;
-
-    /** @var \Illuminate\Database\Eloquent\Collection */
-    protected $geometries;
-
-    /** @var string */
-    protected $topologyClass;
-
-    /** @var \Illuminate\Database\Eloquent\Collection */
-    protected $topologies;
-
     /**
      * GeodataRegistrar constructor.
      */
@@ -57,11 +43,7 @@ class GeodataRegistrar
         $this->continentClass = config('geodata.models.continents');
         $this->subcontinentClass = config('geodata.models.subcontinents');
         $this->countryClass = config('geodata.models.countries');
-
-        // Optional models
         $this->currencyClass = config('geodata.models.currencies');
-        $this->geometryClass = config('geodata.models.geometries');
-        $this->topologyClass = config('geodata.models.topologies');
     }
 
     /**
@@ -256,99 +238,4 @@ class GeodataRegistrar
         return $this;
     }
 
-    /**
-     * Get the geometries based on the passed params.
-     *
-     * @param array $params
-     * @param bool $onlyOne
-     *
-     * @return \Illuminate\Database\Eloquent\Collection
-     */
-    public function getGeometries(array $params = [], bool $onlyOne = false): Collection
-    {
-        $method = $onlyOne ? 'first' : 'filter';
-
-        $geometries = $this->geometries->$method(static function ($geometry) use ($params) {
-            foreach ($params as $attr => $value) {
-                if ($geometry->getAttribute($attr) != $value) {
-                    return false;
-                }
-            }
-
-            return true;
-        });
-
-        if ($onlyOne) {
-            $geometries = new Collection($geometries ? [$geometries] : []);
-        }
-
-        return $geometries;
-    }
-
-    /**
-     * Get an instance of the geometry class.
-     *
-     * @return \Papposilene\Geodata\Models\Geometry
-     */
-    public function getGeometryClass(): Geometry
-    {
-        return app($this->geometryClass);
-    }
-
-    public function setGeometryClass($geometryClass)
-    {
-        $this->geometryClass = $geometryClass;
-        config()->set('geodata.models.geometries', $geometryClass);
-        app()->bind(Geometry::class, $geometryClass);
-
-        return $this;
-    }
-
-    /**
-     * Get the topologies based on the passed params.
-     *
-     * @param array $params
-     * @param bool $onlyOne
-     *
-     * @return \Illuminate\Database\Eloquent\Collection
-     */
-    public function getTopologies(array $params = [], bool $onlyOne = false): Collection
-    {
-        $method = $onlyOne ? 'first' : 'filter';
-
-        $topologies = $this->topologies->$method(static function ($topology) use ($params) {
-            foreach ($params as $attr => $value) {
-                if ($topology->getAttribute($attr) != $value) {
-                    return false;
-                }
-            }
-
-            return true;
-        });
-
-        if ($onlyOne) {
-            $topologies = new Collection($topologies ? [$topologies] : []);
-        }
-
-        return $topologies;
-    }
-
-    /**
-     * Get an instance of the topology class.
-     *
-     * @return \Papposilene\Geodata\Models\Topology
-     */
-    public function getTopologyClass(): Topology
-    {
-        return app($this->topologyClass);
-    }
-
-    public function setTopologyClass($topologyClass)
-    {
-        $this->topologyClass = $topologyClass;
-        config()->set('geodata.models.topologies', $topologyClass);
-        app()->bind(Topology::class, $topologyClass);
-
-        return $this;
-    }
 }
