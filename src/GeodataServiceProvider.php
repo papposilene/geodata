@@ -87,20 +87,6 @@ class GeodataServiceProvider extends ServiceProvider
                 $cfgModels['currencies']
             );
         }
-
-        if ($cfgOptions['geometries']) {
-            $this->app->bind(
-                \Papposilene\Geodata\Models\Geometry::class,
-                $cfgModels['geometries']
-            );
-        }
-
-        if ($cfgOptions['topologies']) {
-            $this->app->bind(
-                \Papposilene\Geodata\Models\Topology::class,
-                $cfgModels['topologies']
-            );
-        }
     }
 
     /**
@@ -118,7 +104,7 @@ class GeodataServiceProvider extends ServiceProvider
             ->flatMap(function ($path) use ($filesystem, $migrationFileName) {
                 return $filesystem->glob($path . '*_' . $migrationFileName);
             })
-            ->push($this->app->databasePath() . '/migrations/' . $timestamp . '_' . $migrationFileName)
+            ->push($this->app->databasePath() . DIRECTORY_SEPARATOR . 'seeders' . DIRECTORY_SEPARATOR . $timestamp . '_' . $migrationFileName)
             ->first();
     }
 
@@ -135,7 +121,7 @@ class GeodataServiceProvider extends ServiceProvider
             ->flatMap(function ($path) use ($filesystem, $seederFileName) {
                 return $filesystem->glob($path . $seederFileName);
             })
-            ->push($this->app->databasePath() . '/seeders/' . $seederFileName)
+            ->push($this->app->databasePath() . DIRECTORY_SEPARATOR . 'seeders' . DIRECTORY_SEPARATOR . $seederFileName)
             ->first();
     }
 }
