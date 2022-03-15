@@ -6,6 +6,7 @@ use Illuminate\Database\Eloquent\Collection;
 use Papposilene\Geodata\Models\Continent;
 use Papposilene\Geodata\Models\Subcontinent;
 use Papposilene\Geodata\Models\Country;
+use Papposilene\Geodata\Models\City;
 use Papposilene\Geodata\Models\Currency;
 
 class GeodataRegistrar
@@ -29,6 +30,12 @@ class GeodataRegistrar
     protected $countries;
 
     /** @var string */
+    protected $cityClass;
+
+    /** @var \Illuminate\Database\Eloquent\Collection */
+    protected $cities;
+
+    /** @var string */
     protected $currencyClass;
 
     /** @var \Illuminate\Database\Eloquent\Collection */
@@ -43,6 +50,7 @@ class GeodataRegistrar
         $this->continentClass = config('geodata.models.continents');
         $this->subcontinentClass = config('geodata.models.subcontinents');
         $this->countryClass = config('geodata.models.countries');
+        $this->cityClass = config('geodata.models.cities');
         $this->currencyClass = config('geodata.models.currencies');
     }
 
@@ -217,6 +225,25 @@ class GeodataRegistrar
         }
 
         return $currencies;
+    }
+
+    /**
+     * Get an instance of the city class.
+     *
+     * @return \Papposilene\Geodata\Models\City
+     */
+    public function getCityClass(): City
+    {
+        return app($this->cityClass);
+    }
+
+    public function setCityClass($cityClass)
+    {
+        $this->cityClass = $cityClass;
+        config()->set('geodata.models.cities', $cityClass);
+        app()->bind(City::class, $cityClass);
+
+        return $this;
     }
 
     /**

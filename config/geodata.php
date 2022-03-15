@@ -6,12 +6,11 @@ return [
 
         /*
          * You can decide to activate or desactivate some geodata sets.
-         * Continents, subcontinents and countries are amndatory datasets and
-         * can not be desactivate.
+         * Continents, subcontinents, countries, cities and currencies
+         * are mandatory datasets and can not be desactivate.
          */
 
-        'currencies' => true,
-        'flags' => false,
+        'flags' => true,
 
     ],
 
@@ -37,6 +36,13 @@ return [
          */
 
         'countries' => Papposilene\Geodata\Models\Country::class,
+
+        /*
+         * The model you want to use as a City model needs to implement the
+         * `Papposilene\Geodata\Contracts\City` contract.
+         */
+
+        'cities' => Papposilene\Geodata\Models\City::class,
 
         /*
          * The model you want to use as a Currency model needs to implement the

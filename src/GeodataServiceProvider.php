@@ -8,6 +8,8 @@ use Illuminate\Support\ServiceProvider;
 use Papposilene\Geodata\Models\Continent;
 use Papposilene\Geodata\Models\Subcontinent;
 use Papposilene\Geodata\Models\Country;
+use Papposilene\Geodata\Models\City;
+use Papposilene\Geodata\Models\Currency;
 
 class GeodataServiceProvider extends ServiceProvider
 {
@@ -43,14 +45,20 @@ class GeodataServiceProvider extends ServiceProvider
             __DIR__ . '/../database/migrations/create_continents_tables.php.stub' => $this->getMigrationFileName('create_continents_tables.php'),
             __DIR__ . '/../database/migrations/create_subcontinents_tables.php.stub' => $this->getMigrationFileName('create_subcontinents_tables.php'),
             __DIR__ . '/../database/migrations/create_countries_tables.php.stub' => $this->getMigrationFileName('create_countries_tables.php'),
+            __DIR__ . '/../database/migrations/create_cities_tables.php.stub' => $this->getMigrationFileName('create_cities_tables.php'),
+            __DIR__ . '/../database/migrations/create_currencies_tables.php.stub' => $this->getMigrationFileName('create_currencies_tables.php'),
         ], 'geodata-migrations');
 
         $this->publishes([
             __DIR__ . '/../database/seeders/CountriesSeeder.php.stub' => $this->getSeederFileName('CountriesSeeder.php'),
+            __DIR__ . '/../database/seeders/CitiesSeeder.php.stub' => $this->getSeederFileName('CitiesSeeder.php'),
+            __DIR__ . '/../database/seeders/CurrenciesSeeder.php.stub' => $this->getSeederFileName('CurrenciesSeeder.php'),
         ], 'geodata-seeders');
 
         $this->publishes([
             __DIR__ . '/../data/countries/default/_all_countries.json' => storage_path('data/geodata/countries/countries.json'),
+            __DIR__ . '/../data/cities/' => storage_path('data/geodata/cities/'),
+            __DIR__ . '/../data/currencies/' => storage_path('data/geodata/currencies/'),
         ], 'geodata-data');
 
         if ($config['flags']) {
@@ -58,35 +66,21 @@ class GeodataServiceProvider extends ServiceProvider
                 __DIR__ . '/../data/flags/' => public_path('svg/geodata-flags/'),
             ], 'geodata-flags');
         }
-
-        if ($config['currencies']) {
-            $this->publishes([
-                __DIR__ . '/../database/migrations/create_currencies_tables.php.stub' => $this->getMigrationFileName('create_currencies_tables.php'),
-                __DIR__ . '/../database/seeders/CurrenciesSeeder.php.stub' => $this->getSeederFileName('CurrenciesSeeder.php'),
-                __DIR__ . '/../data/currencies/' => storage_path('data/geodata/currencies/'),
-            ], 'geodata-currencies');
-        }
     }
 
     protected function registerModelBindings()
     {
-        $cfgOptions = $this->app->config['geodata.options'];
-        $cfgModels = $this->app->config['geodata.models'];
+        $config = $this->app->config['geodata.models'];
 
-        if (!$cfgOptions) {
+        if (!$config) {
             return;
         }
 
-        $this->app->bind(Continent::class, $cfgModels['continents']);
-        $this->app->bind(Subcontinent::class, $cfgModels['subcontinents']);
-        $this->app->bind(Country::class, $cfgModels['countries']);
-
-        if ($cfgOptions['currencies']) {
-            $this->app->bind(
-                \Papposilene\Geodata\Models\Currency::class,
-                $cfgModels['currencies']
-            );
-        }
+        $this->app->bind(Continent::class, $config['continents']);
+        $this->app->bind(Subcontinent::class, $config['subcontinents']);
+        $this->app->bind(Country::class, $config['countries']);
+        $this->app->bind(City::class, $config['cities']);
+        $this->app->bind(Currency::class, $config['currencies']);
     }
 
     /**
