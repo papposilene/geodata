@@ -126,9 +126,9 @@ class City extends Model
     /**
      * @inheritDoc
      */
-    public static function findByPostcodes(array|string $postcodes): City
+    public static function findByPostcodes(array|string $postcodes)
     {
-        $city = self::where('postcodes', $postcodes)->first();
+        $city = self::getCities(['postcodes' => $postcodes]);
 
         if (!$city) {
             throw CityDoesNotExist::withPostcodes($postcodes);

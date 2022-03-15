@@ -199,6 +199,54 @@ class GeodataRegistrar
     }
 
     /**
+     * Get the cities based on the passed params.
+     *
+     * @param array $params
+     * @param bool $onlyOne
+     *
+     * @return \Illuminate\Database\Eloquent\Collection
+     */
+    public function getCities(array $params = [], bool $onlyOne = false): Collection
+    {
+        $method = $onlyOne ? 'first' : 'filter';
+
+        $cities = $this->cities->$method(static function ($city) use ($params) {
+            foreach ($params as $attr => $value) {
+                if ($city->getAttribute($attr) != $value) {
+                    return false;
+                }
+            }
+
+            return true;
+        });
+
+        if ($onlyOne) {
+            $cities = new Collection($cities ? [$cities] : []);
+        }
+
+        return $cities;
+    }
+
+    /**
+     * Get an instance of the city class.
+     *
+     * @return \Papposilene\Geodata\Models\City
+     */
+    public function getCityClass(): City
+    {
+        return app($this->cityClass);
+    }
+
+    public function setCityClass($cityClass)
+    {
+        $this->cityClass = $cityClass;
+        config()->set('geodata.models.cities', $cityClass);
+        app()->bind(City::class, $cityClass);
+
+        return $this;
+    }
+
+    /**
      * Get the currencies based on the passed params.
      *
      * @param array $params
@@ -225,25 +273,6 @@ class GeodataRegistrar
         }
 
         return $currencies;
-    }
-
-    /**
-     * Get an instance of the city class.
-     *
-     * @return \Papposilene\Geodata\Models\City
-     */
-    public function getCityClass(): City
-    {
-        return app($this->cityClass);
-    }
-
-    public function setCityClass($cityClass)
-    {
-        $this->cityClass = $cityClass;
-        config()->set('geodata.models.cities', $cityClass);
-        app()->bind(City::class, $cityClass);
-
-        return $this;
     }
 
     /**

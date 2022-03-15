@@ -44,6 +44,31 @@ class CityTest extends TestCase
     {
         $city_by_postcodes = app(City::class)->findByPostcodes($this->testCity->postcodes);
 
-        $this->assertEquals($this->testCity->postcodes, $city_by_postcodes->postcodes);
+        $this->assertContains(75004, $city_by_postcodes->postcodes);
     }
+
+    /** @test */
+    public function it_belongs_to_a_continent()
+    {
+        $city_by_continent = app(City::class)->find($this->testCity->id)->belongsToContinent->id;
+
+        $this->assertEquals($this->testCity->country_cca3, $city_by_continent->country_cca3);
+    }
+
+    /** @test */
+    public function it_belongs_to_a_subcontient()
+    {
+        $city_by_subcontient = app(City::class)->find($this->testCity->id)->belongsToSubontinent->id;
+
+        $this->assertEquals($this->testCity->country_cca3, $city_by_subcontient->country_cca3);
+    }
+
+    /** @test */
+    public function it_belongs_to_a_country()
+    {
+        $city_by_country = app(City::class)->findByPostcodes($this->testCity->country_cca3);
+
+        $this->assertEquals($this->testCity->country_cca3, $city_by_country->country_cca3);
+    }
+
 }
