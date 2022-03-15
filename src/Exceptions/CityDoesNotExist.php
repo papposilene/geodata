@@ -21,8 +21,8 @@ class CityDoesNotExist extends InvalidArgumentException
         return new static("There is no city named `{$name}` in the state `{$state}`.");
     }
 
-    public static function withPostcode(string $name, string $postcode)
+    public static function withPostcodes(array|string $postcodes)
     {
-        return new static("There is no city named `{$name}` in the country `{$postcode}`.");
+        return new static("There is no city with postcodes as `{$postcodes}`.");
     }
 }
