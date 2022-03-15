@@ -81,23 +81,9 @@ class City extends Model
     /**
      * @inheritDoc
      */
-    public static function findByName(string $name): City
-    {
-        $city = static::find($name);
-
-        if (!$city) {
-            throw CityDoesNotExist::named($name);
-        }
-
-        return $city;
-    }
-
-    /**
-     * @inheritDoc
-     */
     public static function findById(int $id): City
     {
-        $city = static::findById($id);
+        $city = static::find($id);
 
         if (!$city) {
             throw CityDoesNotExist::withId($id);
@@ -109,9 +95,26 @@ class City extends Model
     /**
      * @inheritDoc
      */
+    public static function findByName(string $name): City
+    {
+        $city = self::where('name', $name)->first();
+
+        if (!$city) {
+            throw CityDoesNotExist::named($name);
+        }
+
+        return $city;
+    }
+
+    /**
+     * @inheritDoc
+     */
     public static function findByState(string $name, string $state): City
     {
-        $city = static::findByState($name, $state);
+        $city = self::where([
+            ['name', $name],
+            ['state', $state]
+        ])->first();
 
         if (!$city) {
             throw CityDoesNotExist::withState($name, $state);
@@ -125,24 +128,13 @@ class City extends Model
      */
     public static function findByPostcode(string $name, string $postcode): City
     {
-        $city = static::findByPostcode($name, $postcode);
+        $city = self::where([
+            ['name', $name],
+            ['postcodes', $postcode]
+        ])->first();
 
         if (!$city) {
             throw CityDoesNotExist::withPostcode($name, $postcode);
-        }
-
-        return $city;
-    }
-
-    /**
-     * @inheritDoc
-     */
-    public static function findByCca3(string $name, string $cca3): City
-    {
-        $city = static::findByCca3($name, $cca3);
-
-        if (!$city) {
-            throw CityDoesNotExist::withCca3($name, $cca3);
         }
 
         return $city;

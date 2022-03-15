@@ -25,9 +25,4 @@ class CityDoesNotExist extends InvalidArgumentException
     {
         return new static("There is no city named `{$name}` in the country `{$postcode}`.");
     }
-
-    public static function withCca3(string $name, string $cca3)
-    {
-        return new static("There is no city named `{$name}` in the country `{$cca3}`.");
-    }
 }
