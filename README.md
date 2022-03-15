@@ -32,8 +32,6 @@ In the config/geodata.php, you can add some option (as SVG flags, currencies, ge
 ```php
 php artisan vendor:publish --tag=geodata-flags
 php artisan vendor:publish --tag=geodata-currencies
-php artisan vendor:publish --tag=geodata-geometries
-php artisan vendor:publish --tag=geodata-topologies
 ```
 
 ### Testing
