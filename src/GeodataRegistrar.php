@@ -3,6 +3,7 @@
 namespace Papposilene\Geodata;
 
 use Illuminate\Database\Eloquent\Collection;
+use Illuminate\Support\Str;
 use Papposilene\Geodata\Models\Continent;
 use Papposilene\Geodata\Models\Subcontinent;
 use Papposilene\Geodata\Models\Country;
@@ -208,6 +209,8 @@ class GeodataRegistrar
      */
     public function getCities(array $params = [], bool $onlyOne = false): Collection
     {
+        $this->cities = City::all();
+
         $method = $onlyOne ? 'first' : 'filter';
 
         $cities = $this->cities->$method(static function ($city) use ($params) {
