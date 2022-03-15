@@ -215,7 +215,7 @@ class GeodataRegistrar
 
         $cities = $this->cities->$method(static function ($city) use ($params) {
             foreach ($params as $attr => $value) {
-                if ($city->getAttribute($attr) != $value) {
+                if (!Str::contains($city->getAttribute($attr), $value)) {
                     return false;
                 }
             }

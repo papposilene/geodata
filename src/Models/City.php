@@ -128,9 +128,7 @@ class City extends Model
      */
     public static function findByPostcodes(array $postcodes)
     {
-        dd(self::getCities(['postcodes' => 75001]));
-
-        $city = self::getCities(['postcodes' => $postcodes]);
+        $city = self::getCities($postcodes);
 
         if (!$city) {
             throw CityDoesNotExist::withPostcodes($postcodes);

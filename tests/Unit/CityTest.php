@@ -42,9 +42,9 @@ class CityTest extends TestCase
     /** @test */
     public function it_is_retrievable_by_postcodes()
     {
-        $city_by_postcodes = app(City::class)->findByPostcodes([$this->testCity->postcodes]);
+        $city_by_postcodes = app(City::class)->findByPostcodes(['postcodes' => 75004]);
 
-        $this->assertContains([75004], $city_by_postcodes->postcodes);
+        $this->assertContains(75004, $city_by_postcodes[0]->postcodes);
     }
 
     /** @test */
