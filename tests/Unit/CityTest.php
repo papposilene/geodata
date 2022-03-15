@@ -44,6 +44,6 @@ class CityTest extends TestCase
     {
         $city_by_postcodes = app(City::class)->findByPostcodes($this->testCity->postcodes);
 
-        $this->assertEquals($this->testCity->postcodes, $city_by_postcodes->name);
+        $this->assertEquals($this->testCity->postcodes, $city_by_postcodes->postcodes);
     }
 }

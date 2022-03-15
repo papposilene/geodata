@@ -128,7 +128,7 @@ class City extends Model
      */
     public static function findByPostcodes(array|string $postcodes): City
     {
-        $city = self::whereJsonContains('postcodes', $postcodes)->first();
+        $city = self::where('postcodes', $postcodes)->first();
 
         if (!$city) {
             throw CityDoesNotExist::withPostcodes($postcodes);
