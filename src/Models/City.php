@@ -109,12 +109,12 @@ class City extends Model
     /**
      * @inheritDoc
      */
-    public static function findByPostcode(string $postcode): City
+    public static function findByState(string $name, string $state): City
     {
-        $city = static::findByPostcode($postcode);
+        $city = static::findByState($name, $state);
 
         if (!$city) {
-            throw CityDoesNotExist::withPostcode($postcode);
+            throw CityDoesNotExist::withState($name, $state);
         }
 
         return $city;
@@ -123,12 +123,26 @@ class City extends Model
     /**
      * @inheritDoc
      */
-    public static function findByCca3(string $cca3): City
+    public static function findByPostcode(string $name, string $postcode): City
     {
-        $city = static::findByCca3($cca3);
+        $city = static::findByPostcode($name, $postcode);
 
         if (!$city) {
-            throw CityDoesNotExist::withCca3($cca3);
+            throw CityDoesNotExist::withPostcode($name, $postcode);
+        }
+
+        return $city;
+    }
+
+    /**
+     * @inheritDoc
+     */
+    public static function findByCca3(string $name, string $cca3): City
+    {
+        $city = static::findByCca3($name, $cca3);
+
+        if (!$city) {
+            throw CityDoesNotExist::withCca3($name, $cca3);
         }
 
         return $city;
