@@ -20,10 +20,11 @@ class CreateSubcontinentsTables extends Migration
             $table->string('name', 255);
             $table->string('slug', 255);
             $table->json('translations')->nullable();
-            $table->foreignId('continent_id')->constrained('geodata__continents');
+            $table->integer('continent_id', false);
             $table->timestamps();
 
             $table->unique(['name', 'slug']);
+            $table->foreign('continent_id')->references('id')->on('geodata__continents');
         });
     }
 
