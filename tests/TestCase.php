@@ -10,7 +10,6 @@ use Papposilene\Geodata\Models\Continent;
 use Papposilene\Geodata\Models\Subcontinent;
 use Papposilene\Geodata\Models\Country;
 use Papposilene\Geodata\Models\City;
-use Papposilene\Geodata\Models\Currency;
 //use Papposilene\Geodata\GeodataRegistrar;
 use Papposilene\Geodata\GeodataServiceProvider;
 
@@ -27,9 +26,6 @@ abstract class TestCase extends Orchestra
 
     /** @var \Papposilene\Geodata\Models\City */
     protected $testCity;
-
-    /** @var \Papposilene\Geodata\Models\Currency */
-    protected $testCurrency;
 
     public function setUp(): void
     {
@@ -78,13 +74,11 @@ abstract class TestCase extends Orchestra
         include_once __DIR__ . '/../database/migrations/create_subcontinents_tables.php.stub';
         include_once __DIR__ . '/../database/migrations/create_countries_tables.php.stub';
         include_once __DIR__ . '/../database/migrations/create_cities_tables.php.stub';
-        include_once __DIR__ . '/../database/migrations/create_currencies_tables.php.stub';
 
         (new \CreateContinentsTables())->up();
         (new \CreateSubcontinentsTables())->up();
         (new \CreateCountriesTables())->up();
         (new \CreateCitiesTables())->up();
-        (new \CreateCurrenciesTables())->up();
 
         DB::table('geodata__continents')->insert([
             'code' => 150,
@@ -266,50 +260,5 @@ abstract class TestCase extends Orchestra
         ]);
         $this->testCity = City::find(1);
 
-        DB::table('geodata__currencies')->insert([
-            'name' => 'Euro',
-            'iso3l' => 'EUR',
-            'iso3n' => '978',
-            'type' => 'currency',
-            'units' => json_encode([
-                "major" => [
-                    "name" => "euro",
-                    "symbol" => "\u20ac"
-                ],
-                "minor" => [
-                    "majorValue" => 0.01,
-                    "name" => "cent",
-                    "symbol" => "c"
-                ],
-            ]),
-            'coins' => json_encode([
-                "frequent" => [
-                    "\u20ac1",
-                    "\u20ac2",
-                    "5c",
-                    "10c",
-                    "20c",
-                    "50c"
-                ],
-                "rare" => [
-                    "1c",
-                    "2c"
-                ],
-            ]),
-            'bills' => json_encode([
-                "frequent" => [
-                    "\u20ac5",
-                    "\u20ac10",
-                    "\u20ac20",
-                    "\u20ac50",
-                    "\u20ac100"
-                ],
-                "rare" => [
-                    "\u20ac200",
-                    "\u20ac500"
-                ],
-            ]),
-        ]);
-        $this->testCurrency = Currency::find(1);
     }
 }
