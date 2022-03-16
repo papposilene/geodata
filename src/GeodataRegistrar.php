@@ -8,7 +8,6 @@ use Papposilene\Geodata\Models\Continent;
 use Papposilene\Geodata\Models\Subcontinent;
 use Papposilene\Geodata\Models\Country;
 use Papposilene\Geodata\Models\City;
-use Papposilene\Geodata\Models\Currency;
 
 class GeodataRegistrar
 {
@@ -36,12 +35,6 @@ class GeodataRegistrar
     /** @var \Illuminate\Database\Eloquent\Collection */
     protected $cities;
 
-    /** @var string */
-    protected $currencyClass;
-
-    /** @var \Illuminate\Database\Eloquent\Collection */
-    protected $currencies;
-
     /**
      * GeodataRegistrar constructor.
      */
@@ -52,7 +45,6 @@ class GeodataRegistrar
         $this->subcontinentClass = config('geodata.models.subcontinents');
         $this->countryClass = config('geodata.models.countries');
         $this->cityClass = config('geodata.models.cities');
-        $this->currencyClass = config('geodata.models.currencies');
     }
 
     /**
@@ -65,6 +57,8 @@ class GeodataRegistrar
      */
     public function getContinents(array $params = [], bool $onlyOne = false): Collection
     {
+        $this->continents = Continent::all();
+
         $method = $onlyOne ? 'first' : 'filter';
 
         $continents = $this->continents->$method(static function ($continent) use ($params) {
@@ -113,6 +107,8 @@ class GeodataRegistrar
      */
     public function getSubcontinents(array $params = [], bool $onlyOne = false): Collection
     {
+        $this->subcontinents = Subcontinent::all();
+
         $method = $onlyOne ? 'first' : 'filter';
 
         $subcontinents = $this->subcontinents->$method(static function ($subcontinent) use ($params) {
@@ -161,6 +157,8 @@ class GeodataRegistrar
      */
     public function getCountries(array $params = [], bool $onlyOne = false): Collection
     {
+        $this->countries = Countries::all();
+
         $method = $onlyOne ? 'first' : 'filter';
 
         $countries = $this->countries->$method(static function ($country) use ($params) {
@@ -245,54 +243,6 @@ class GeodataRegistrar
         $this->cityClass = $cityClass;
         config()->set('geodata.models.cities', $cityClass);
         app()->bind(City::class, $cityClass);
-
-        return $this;
-    }
-
-    /**
-     * Get the currencies based on the passed params.
-     *
-     * @param array $params
-     * @param bool $onlyOne
-     *
-     * @return \Illuminate\Database\Eloquent\Collection
-     */
-    public function getCurrencies(array $params = [], bool $onlyOne = false): Collection
-    {
-        $method = $onlyOne ? 'first' : 'filter';
-
-        $currencies = $this->currencies->$method(static function ($currency) use ($params) {
-            foreach ($params as $attr => $value) {
-                if ($currency->getAttribute($attr) != $value) {
-                    return false;
-                }
-            }
-
-            return true;
-        });
-
-        if ($onlyOne) {
-            $currencies = new Collection($currencies ? [$currencies] : []);
-        }
-
-        return $currencies;
-    }
-
-    /**
-     * Get an instance of the currency class.
-     *
-     * @return \Papposilene\Geodata\Models\Currency
-     */
-    public function getCurrencyClass(): Currency
-    {
-        return app($this->currencyClass);
-    }
-
-    public function setCurrencyClass($currencyClass)
-    {
-        $this->currencyClass = $currencyClass;
-        config()->set('geodata.models.currencies', $currencyClass);
-        app()->bind(Currency::class, $currencyClass);
 
         return $this;
     }
