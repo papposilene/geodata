@@ -30,7 +30,7 @@ class CreateCitiesTables extends Migration
             $table->timestamps();
             $table->softDeletes();
 
-            $table->foreign('country_cca3')->references('id')->on('geodata__countries');
+            $table->foreign('country_cca3')->references('cca3')->on('geodata__countries');
         });
     }
 

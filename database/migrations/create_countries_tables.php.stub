@@ -16,16 +16,16 @@ class CreateCountriesTables extends Migration
     {
         Schema::create('geodata__countries', function (Blueprint $table) {
             $table->id();
-            $table->integer('continent_id', false);
-            $table->integer('subcontinent_id', false);
+            $table->unsignedBigInteger('continent_id');
+            $table->unsignedBigInteger('subcontinent_id');
             // Various identifiant codes
-            $table->string('cca2', 2);
-            $table->string('cca3', 3);
+            $table->string('cca2', 2)->unique();
+            $table->string('cca3', 3)->unique();
             $table->string('ccn3', 3)->nullable();
             $table->string('cioc', 3)->nullable();
             // Name, common and formal, in english
-            $table->string('name_eng_common', 255);
-            $table->string('name_eng_formal', 255);
+            $table->string('name_eng_common', 255)->unique();
+            $table->string('name_eng_formal', 255)->unique();
             // Centered geolocation (for mainland if necessary)
             $table->point('lat')->nullable();
             $table->point('lon')->nullable();
@@ -51,7 +51,6 @@ class CreateCountriesTables extends Migration
             $table->timestamps();
             $table->softDeletes();
 
-            $table->unique(['cca2', 'cca3', 'name_eng_common', 'name_eng_formal']);
             $table->foreign('continent_id')->references('id')->on('geodata__continents');
             $table->foreign('subcontinent_id')->references('id')->on('geodata__subcontinents');
         });

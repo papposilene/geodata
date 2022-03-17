@@ -16,14 +16,13 @@ class CreateSubcontinentsTables extends Migration
     {
         Schema::create('geodata__subcontinents', function (Blueprint $table) {
             $table->id();
-            $table->bigInteger('code');
-            $table->string('name', 255);
-            $table->string('slug', 255);
+            $table->integer('code', false)->unique();
+            $table->string('name', 255)->unique();
+            $table->string('slug', 255)->unique();
             $table->json('translations')->nullable();
-            $table->integer('continent_id', false);
+            $table->unsignedBigInteger('continent_id');
             $table->timestamps();
 
-            $table->unique(['name', 'slug']);
             $table->foreign('continent_id')->references('id')->on('geodata__continents');
         });
     }
