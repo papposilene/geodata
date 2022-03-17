@@ -1,6 +1,6 @@
 # Geodata
 
-[geodata](https://github.com/papposilene/geodata) is a package that offers data about continents, countries, geolocation data and many more little data (SVG & emoji flags, currencies, etc.). 
+[geodata](https://github.com/papposilene/geodata) is a package that offers data about continents, countries, geolocation data.
 
 ## Installation
 
@@ -15,23 +15,6 @@ composer require papposilene/geodata
 You can publish all the configuration and data in one line:
 ```php
 php artisan vendor:publish --provider="Papposilene\Geodata\GeodataServiceProvider"
-```
-
-or file by file:
-```php
-php artisan vendor:publish --tag=geodata-config
-php artisan vendor:publish --tag=geodata-migrations
-php artisan vendor:publish --tag=geodata-seeders
-php artisan vendor:publish --tag=geodata-data
-
-php artisan migrate
-php artisan db:seed
-```
-
-In the config/geodata.php, you can add some option (as SVG flags, currencies, geometries and topologies), then publish the migrations, seeders and data files with these lines:
-```php
-php artisan vendor:publish --tag=geodata-flags
-php artisan vendor:publish --tag=geodata-currencies
 ```
 
 ### Testing
