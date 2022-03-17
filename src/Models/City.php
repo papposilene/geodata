@@ -18,36 +18,13 @@ class City extends Model
     /**
      * @inheritDoc
      */
-    public function belongsToContinent(): BelongsTo
-    {
-        return $this->belongsTo(
-            Continent::class,
-            'id',
-            'continent_id'
-        );
-    }
-
-    /**
-     * @inheritDoc
-     */
-    public function belongsToSubcontinent(): BelongsTo
-    {
-        return $this->belongsTo(
-            Continent::class,
-            'id',
-            'subcontinent_id'
-        );
-    }
-
-    /**
-     * @inheritDoc
-     */
     public function belongsToCountry(): BelongsTo
     {
         return $this->belongsTo(
             Country::class,
-            'cca3',
-            'country_cca3'
+            'country_cca3',
+            'cca3'
+
         );
     }
 
