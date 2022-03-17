@@ -53,8 +53,8 @@ class GeodataServiceProvider extends ServiceProvider
         ], 'geodata-seeders');
 
         $this->publishes([
-            __DIR__ . '/../data/countries/default/_all_countries.json' => storage_path('data/geodata/countries/countries.json'),
-            __DIR__ . '/../data/cities/' => storage_path('data/geodata/cities/'),
+            __DIR__ . '/../data/countries/all_countries.json' => storage_path('data/geodata/countries/countries.json'),
+            __DIR__ . '/../data/cities/default/' => storage_path('data/geodata/cities/'),
         ], 'geodata-data');
 
         if ($config['flags']) {

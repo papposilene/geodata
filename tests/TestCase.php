@@ -10,7 +10,6 @@ use Papposilene\Geodata\Models\Continent;
 use Papposilene\Geodata\Models\Subcontinent;
 use Papposilene\Geodata\Models\Country;
 use Papposilene\Geodata\Models\City;
-//use Papposilene\Geodata\GeodataRegistrar;
 use Papposilene\Geodata\GeodataServiceProvider;
 
 abstract class TestCase extends Orchestra
