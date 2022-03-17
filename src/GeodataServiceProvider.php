@@ -44,24 +44,15 @@ class GeodataServiceProvider extends ServiceProvider
             __DIR__ . '/../database/migrations/create_continents_tables.php.stub' => $this->getMigrationFileName('create_continents_tables.php'),
             __DIR__ . '/../database/migrations/create_subcontinents_tables.php.stub' => $this->getMigrationFileName('create_subcontinents_tables.php'),
             __DIR__ . '/../database/migrations/create_countries_tables.php.stub' => $this->getMigrationFileName('create_countries_tables.php'),
-            __DIR__ . '/../database/migrations/create_cities_tables.php.stub' => $this->getMigrationFileName('create_cities_tables.php'),
         ], 'geodata-migrations');
 
         $this->publishes([
             __DIR__ . '/../database/seeders/CountriesSeeder.php.stub' => $this->getSeederFileName('CountriesSeeder.php'),
-            __DIR__ . '/../database/seeders/CitiesSeeder.php.stub' => $this->getSeederFileName('CitiesSeeder.php'),
         ], 'geodata-seeders');
 
         $this->publishes([
             __DIR__ . '/../data/countries/countries.json' => storage_path('data/geodata/countries/countries.json'),
-            __DIR__ . '/../data/cities/default/' => storage_path('data/geodata/cities/'),
         ], 'geodata-data');
-
-        if ($config['flags']) {
-            $this->publishes([
-                __DIR__ . '/../data/flags/' => public_path('svg/geodata-flags/'),
-            ], 'geodata-flags');
-        }
     }
 
     protected function registerModelBindings()
@@ -75,7 +66,6 @@ class GeodataServiceProvider extends ServiceProvider
         $this->app->bind(Continent::class, $config['continents']);
         $this->app->bind(Subcontinent::class, $config['subcontinents']);
         $this->app->bind(Country::class, $config['countries']);
-        $this->app->bind(City::class, $config['cities']);
     }
 
     /**
