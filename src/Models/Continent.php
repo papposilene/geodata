@@ -51,26 +51,6 @@ class Continent extends Model
     }
 
     /**
-     * Find a continent by its code.
-     *
-     * @param integer $code
-     *
-     * @throws \Papposilene\Geodata\Exceptions\ContinentDoesNotExist
-     *
-     * @return Continent
-     */
-    public static function findByCode(int $code): Continent
-    {
-        $continent = static::where('code', $code)->first();
-
-        if (!$continent) {
-            throw ContinentDoesNotExist::withCode($code);
-        }
-
-        return $continent;
-    }
-
-    /**
      * Find a continent by its id.
      *
      * @param int $id

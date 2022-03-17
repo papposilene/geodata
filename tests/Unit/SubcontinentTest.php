@@ -16,14 +16,6 @@ class SubcontinentTest extends TestCase
     }
 
     /** @test */
-    public function it_is_retrievable_by_code()
-    {
-        $subcontinent_by_code = app(Subcontinent::class)->findByCode($this->testSubcontinent->code);
-
-        $this->assertEquals($this->testSubcontinent->code, $subcontinent_by_code->code);
-    }
-
-    /** @test */
     public function it_is_retrievable_by_id()
     {
         $subcontinent_by_id = app(Subcontinent::class)->findById($this->testSubcontinent->id);

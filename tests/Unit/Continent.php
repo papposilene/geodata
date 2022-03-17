@@ -6,10 +6,7 @@ class Continent extends \Papposilene\Geodata\Models\Continent
 {
     protected $visible = [
         'id',
-        'code',
         'name',
         'slug',
-        'region',
-        'translations',
     ];
 }

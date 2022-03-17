@@ -6,11 +6,8 @@ class Subcontinent extends \Papposilene\Geodata\Models\Subcontinent
 {
     protected $visible = [
         'id',
-        'code',
         'name',
         'slug',
-        'region',
-        'translations',
         'continent_id'
     ];
 }

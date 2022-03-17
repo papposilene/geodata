@@ -22,27 +22,24 @@ class CountriesSeeder extends Seeder
         DB::table('geodata__subcontinents')->delete();
         DB::table('geodata__countries')->delete();
 
-        $file = File::get('data/geodata/countries/countries.json');
+        $file = File::get(storage_path('data/geodata/countries/countries.json'));
         $json = json_decode($file);
         foreach ($json as $data) {
             $continent = Continent::firstOrCreate(
                 [
-                    'name' => $data->geo->region
+                    'name' => $data->region
                 ],
                 [
-                    'code' => $data->geo->region_code,
-                    'slug' => Str::slug($data->geo->region, '-'),
-                    'region' => $data->geo->world_region,
+                    'slug' => Str::slug($data->region, '-'),
                 ]
             );
 
             $subcontinent = Subcontinent::firstOrCreate(
                 [
-                    'name' => $data->geo->subregion
+                    'name' => $data->subregion
                 ],
                 [
-                    'code' => $data->geo->subregion_code,
-                    'slug' => Str::slug($data->geo->subregion, '-'),
+                    'slug' => Str::slug($data->subregion, '-'),
                     'continent_id' => $continent->id,
                 ]
             );
@@ -50,25 +47,30 @@ class CountriesSeeder extends Seeder
             Country::create([
                 'continent_id'      => $continent->id,
                 'subcontinent_id'   => $subcontinent->id,
-                'name_eng_common'   => addslashes($data->name->common),
-                'name_eng_formal'   => addslashes($data->name->official),
+                // Various identifiant codes
                 'cca2'              => $data->cca2,
                 'cca3'              => $data->cca3,
-                'cioc'              => $data->cioc,
-                'tlds'              => json_encode($data->tld, JSON_FORCE_OBJECT),
                 'ccn3'              => $data->ccn3,
-                'area'              => $data->area,
-                'region'            => $data->region,
-                'subregion'         => $data->subregion,
-                'latlng'            => json_encode(array('lat' => $data->latlng[1], 'lng' => $data->latlng[0])),
-                'landlocked'        => ($data->landlocked === true ? 'true' : 'false'),
+                'cioc'              => $data->cioc,
+                // Name, common and formal, in english
+                'name_eng_common'   => addslashes($data->name->common),
+                'name_eng_formal'   => addslashes($data->name->official),
+                // Centered geolocation (for mainland if necessary)
+                'lat'               => (float) $data->latlng[1],
+                'lon'               => (float) $data->latlng[0],
+                // Borders
+                'landlocked'        => (bool) ($data->landlocked === true ? 'true' : 'false'),
                 'neighbourhood'     => (empty($data->borders) ? 'null' : json_encode($data->borders, JSON_FORCE_OBJECT)),
+                // Geopolitc status
                 'status'            => $data->status,
-                'independent'       => ($data->independent === true ? 'true' : 'false'),
-                'un_member'         => ($data->unMember === true ? 'true' : 'false'),
+                'independent'       => (bool) ($data->independent === true ? 'true' : 'false'),
+                'un_member'         => (bool) ($data->unMember === true ? 'true' : 'false'),
+                // Flag
                 'flag'              => $data->flag,
-                'currencies'        => json_encode($data->currencies, JSON_FORCE_OBJECT),
+                // Extra
+                'idd'               => json_encode($data->idd, JSON_FORCE_OBJECT),
                 'capital'           => json_encode($data->capital, JSON_FORCE_OBJECT),
+                'currencies'        => json_encode($data->currencies, JSON_FORCE_OBJECT),
                 'demonyms'          => json_encode($data->demonyms, JSON_FORCE_OBJECT),
                 'languages'         => json_encode($data->languages, JSON_FORCE_OBJECT),
                 'name_native'       => json_encode($data->name->native, JSON_FORCE_OBJECT),

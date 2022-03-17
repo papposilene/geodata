@@ -52,26 +52,6 @@ class Subcontinent extends Model
         );
     }
 
-    /**
-    * Find a subccontinent by its code.
-    *
-    * @param integer $code
-    *
-    * @throws \Papposilene\Geodata\Exceptions\SubcontinentDoesNotExist
-    *
-    * @return Subcontinent
-    */
-   public static function findByCode(int $code): Subcontinent
-   {
-       $subccontinent = static::where('code', $code)->first();
-
-       if (!$subccontinent) {
-           throw SubcontinentDoesNotExist::withCode($code);
-       }
-
-       return $subccontinent;
-   }
-
    /**
     * Find a subccontinent by its id.
     *

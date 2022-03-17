@@ -16,11 +16,8 @@ class CreateContinentsTables extends Migration
     {
         Schema::create('geodata__continents', function (Blueprint $table) {
             $table->id();
-            $table->integer('code', false)->unique();
             $table->string('slug', 255)->unique();
             $table->string('name', 255)->unique();
-            $table->string('region', 255)->unique();
-            $table->json('translations')->nullable();
             $table->timestamps();
         });
     }
