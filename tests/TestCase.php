@@ -119,13 +119,13 @@ abstract class TestCase extends Orchestra
                 'MCO',
                 'ESP',
                 'CHE'
-            ]),
+            ], JSON_FORCE_OBJECT),
             'status' => 'officially-assigned',
             'independent' => true,
             'un_member' => true,
             'flag' => '\ud83c\uddeb\ud83c\uddf7',
-            'capital' => json_encode(['Paris']),
-            'currencies' => json_encode(['EUR']),
+            'capital' => json_encode(['Paris'], JSON_FORCE_OBJECT),
+            'currencies' => json_encode(['EUR'], JSON_FORCE_OBJECT),
             'demonyms' => json_encode([
                 'eng' => [
                     'f' => 'French',
@@ -135,21 +135,21 @@ abstract class TestCase extends Orchestra
                     'f' => 'Fran\u00e7aise',
                     'm' => 'Fran\u00e7ais',
                 ]
-            ]),
+            ], JSON_FORCE_OBJECT),
             'dialling_codes' => json_encode([
                 'calling_code' => ['33'],
                 'international_prefix' => '00',
                 'national_destination_code_lengths' => [1],
                 'national_number_lengths' => [9, 10],
                 'national_prefix' => '0',
-            ]),
+            ], JSON_FORCE_OBJECT),
             'languages' => json_encode(['fra' => 'French']),
             'name_native' => json_encode([
                 'fra' => [
                     'common' => 'France',
                     'official' => 'R\u00e9publique fran\u00e7aise'
                 ]
-            ]),
+            ], JSON_FORCE_OBJECT),
             'name_translations' => json_encode([
                 'ces' => [
                     'common' => 'Francie',
@@ -231,12 +231,12 @@ abstract class TestCase extends Orchestra
                     'common' => '\u6cd5\u56fd',
                     'official' => '\u6cd5\u5170\u897f\u5171\u548c\u56fd',
                 ]
-            ]),
+            ], JSON_FORCE_OBJECT),
             'extra' => json_encode([
                 'address_format' => '{{recipient}}{{street}}{{postalcode}} {{city}}{{country}}',
                 'wikidata' => 'Q142',
                 'woe_id_eh' => 23424819,
-            ]),
+            ], JSON_FORCE_OBJECT),
         ]);
         $this->testCountry = Country::find(1);
 
@@ -251,7 +251,7 @@ abstract class TestCase extends Orchestra
                 75007, 75008, 75009, 75010, 75011, 75012, 75013,
                 75014, 75015, 75016, 75116, 75017, 75018, 75019,
                 75020,
-            ]),
+            ], JSON_FORCE_OBJECT),
             'extra' => json_encode([
                 'ne_id' => 1159151613,
                 'wikidata' => 'Q90',
