@@ -83,7 +83,7 @@ class GeodataServiceProvider extends ServiceProvider
             ->flatMap(function ($path) use ($filesystem, $migrationFileName) {
                 return $filesystem->glob($path . '*_' . $migrationFileName);
             })
-            ->push($this->app->databasePath() . DIRECTORY_SEPARATOR . 'seeders' . DIRECTORY_SEPARATOR . $timestamp . '_' . $migrationFileName)
+            ->push($this->app->databasePath() . DIRECTORY_SEPARATOR . 'migrations' . DIRECTORY_SEPARATOR . $timestamp . '_' . $migrationFileName)
             ->first();
     }
 
