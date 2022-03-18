@@ -42,7 +42,7 @@ return new class extends Migration
             $table->json('capital')->nullable();
             $table->json('currencies')->nullable();
             $table->json('demonyms')->nullable();
-            $table->json('dialling_codes')->nullable();
+            $table->json('dialling')->nullable();
             $table->json('languages')->nullable();
             $table->json('name_native')->nullable();
             $table->json('name_translations')->nullable();

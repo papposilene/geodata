@@ -51,7 +51,8 @@ class GeodataServiceProvider extends ServiceProvider
         ], 'geodata-seeders');
 
         $this->publishes([
-            __DIR__ . '/../data/countries/countries.json' => storage_path('data/geodata/countries/countries.json'),
+            __DIR__ . '/../data/countries/all_countries.json' => storage_path('data/geodata/countries/countries.json'),
+            __DIR__ . '/../data/cities/default' => storage_path('data/geodata/cities'),
         ], 'geodata-data');
     }
 
@@ -66,6 +67,7 @@ class GeodataServiceProvider extends ServiceProvider
         $this->app->bind(Continent::class, $config['continents']);
         $this->app->bind(Subcontinent::class, $config['subcontinents']);
         $this->app->bind(Country::class, $config['countries']);
+        $this->app->bind(City::class, $config['cities']);
     }
 
     /**

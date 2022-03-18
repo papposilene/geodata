@@ -27,19 +27,21 @@ class CountriesSeeder extends Seeder
         foreach ($json as $data) {
             $continent = Continent::firstOrCreate(
                 [
-                    'name' => $data->region
+                    'name' => $data->geo->region
                 ],
                 [
-                    'slug' => Str::slug($data->region, '-'),
+                    'slug' => Str::slug($data->geo->region, '-'),
+                    'code' => $data->geo->region_code,
                 ]
             );
 
             $subcontinent = Subcontinent::firstOrCreate(
                 [
-                    'name' => $data->subregion
+                    'name' => $data->geo->subregion
                 ],
                 [
-                    'slug' => Str::slug($data->subregion, '-'),
+                    'slug' => Str::slug($data->geo->subregion, '-'),
+                    'code' => $data->geo->subregion_code,
                     'continent_id' => $continent->id,
                 ]
             );
@@ -59,22 +61,28 @@ class CountriesSeeder extends Seeder
                 'lat'               => (float) $data->latlng[1],
                 'lon'               => (float) $data->latlng[0],
                 // Borders
-                'landlocked'        => (bool) ($data->landlocked === true ? 'true' : 'false'),
+                'landlocked'        => (bool) ($data->geo->landlocked === true ? 'true' : 'false'),
                 'neighbourhood'     => (empty($data->borders) ? 'null' : json_encode($data->borders, JSON_FORCE_OBJECT)),
                 // Geopolitc status
                 'status'            => $data->status,
-                'independent'       => (bool) ($data->independent === true ? 'true' : 'false'),
-                'un_member'         => (bool) ($data->unMember === true ? 'true' : 'false'),
+                'independent'       => (bool) ($data->geo->independent === true ? 'true' : 'false'),
+                'un_member'         => (bool) ($data->geo->unMember === true ? 'true' : 'false'),
                 // Flag
-                'flag'              => $data->flag,
+                'flag'              => $data->flag->emoji,
                 // Extra
-                'idd'               => json_encode($data->idd, JSON_FORCE_OBJECT),
-                'capital'           => json_encode($data->capital, JSON_FORCE_OBJECT),
+                'dialling'          => json_encode($data->dialling, JSON_FORCE_OBJECT),
                 'currencies'        => json_encode($data->currencies, JSON_FORCE_OBJECT),
+                'capital'           => json_encode($data->capital, JSON_FORCE_OBJECT),
                 'demonyms'          => json_encode($data->demonyms, JSON_FORCE_OBJECT),
                 'languages'         => json_encode($data->languages, JSON_FORCE_OBJECT),
                 'name_native'       => json_encode($data->name->native, JSON_FORCE_OBJECT),
-                'name_translations' => json_encode($data->translations, JSON_FORCE_OBJECT)
+                'name_translations' => json_encode($data->translations, JSON_FORCE_OBJECT),
+                'extra' => json_encode([
+                    'address_format' => $data->address_format,
+                    'wikidata' => $data->wikidataid,
+                    'woe_id' => $data->woe_id,
+                    'wikidata' => $data->wikidataid,
+                ], JSON_FORCE_OBJECT),
             ]);
         }
     }
