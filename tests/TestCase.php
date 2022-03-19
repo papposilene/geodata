@@ -70,12 +70,12 @@ abstract class TestCase extends Orchestra
     protected function setUpDatabase($app)
     {
         include_once __DIR__ . '/../database/migrations/create_continents_tables.php.stub';
-        include_once __DIR__ . '/../database/migrations/create_subcontinents_tables.php.stub';
         include_once __DIR__ . '/../database/migrations/create_countries_tables.php.stub';
+        include_once __DIR__ . '/../database/migrations/create_cities_tables.php.stub';
 
         (new \CreateContinentsTables())->up();
-        (new \CreateSubcontinentsTables())->up();
         (new \CreateCountriesTables())->up();
+        (new \CreateCitiesTables())->up();
 
         DB::table('geodata__continents')->insert([
             'slug' => 'europe',
@@ -231,6 +231,26 @@ abstract class TestCase extends Orchestra
             ], JSON_FORCE_OBJECT),
         ]);
         $this->testCountry = Country::find(1);
+
+        DB::table('geodata__cities')->insert([
+            'country_cca3' => $this->testCountry->cca3,
+            'state' => '\u00c3\u008ele-de-France',
+            'name' => 'Paris',
+            'lat' => 48.86669293120,
+            'lon' => 2.33333532574,
+            'postcodes' => json_encode([
+                75000, 75001, 75002, 75003, 75004, 75005, 75006,
+                75007, 75008, 75009, 75010, 75011, 75012, 75013,
+                75014, 75015, 75016, 75116, 75017, 75018, 75019,
+                75020,
+            ], JSON_FORCE_OBJECT),
+            'extra' => json_encode([
+                'ne_id' => 1159151613,
+                'wikidata' => 'Q90',
+                'wof_id' => 101751119,
+            ]),
+        ]);
+        $this->testCity = City::find(1);
 
     }
 }
