@@ -20,16 +20,22 @@ class CitiesSeeder extends Seeder
         // Drop the tables
         DB::table('geodata__cities')->delete();
 
+        $replaceCca3 = [
+            'CYN' => 'CYP',
+            'SOL' => 'SOM',
+        ];
+
         foreach (glob(storage_path('data/geodata/cities/*.json')) as $filename) {
             $file = File::get($filename);
             $json = json_decode($file);
 
             foreach ($json as $data) {
-                $country = Country::where('cca3', $data->cca3)->first();
+                $cca3 = $replaceCca3[$data->cca3] ?? $data->cca3;
+                $country = Country::where('cca3', $cca3)->first();
 
                 City::create([
                     'country_cca3' => $country->cca3,
-                    'state' => $data->state,
+                    'state' => ($data->adm1name ? $data->adm1name : null),
                     'name' => $data->name,
                     'lat' => (float) $data->latitude,
                     'lon' => (float) $data->longitude,
