@@ -42,12 +42,13 @@ class GeodataServiceProvider extends ServiceProvider
 
         $this->publishes([
             __DIR__ . '/../database/migrations/create_continents_tables.php.stub' => $this->getMigrationFileName('create_continents_tables.php'),
-            __DIR__ . '/../database/migrations/create_subcontinents_tables.php.stub' => $this->getMigrationFileName('create_subcontinents_tables.php'),
             __DIR__ . '/../database/migrations/create_countries_tables.php.stub' => $this->getMigrationFileName('create_countries_tables.php'),
+            __DIR__ . '/../database/migrations/create_cities_tables.php.stub' => $this->getMigrationFileName('create_cities_tables.php'),
         ], 'geodata-migrations');
 
         $this->publishes([
             __DIR__ . '/../database/seeders/CountriesSeeder.php.stub' => $this->getSeederFileName('CountriesSeeder.php'),
+            __DIR__ . '/../database/seeders/CitiesSeeder.php.stub' => $this->getSeederFileName('CitiesSeeder.php'),
         ], 'geodata-seeders');
 
         $this->publishes([
