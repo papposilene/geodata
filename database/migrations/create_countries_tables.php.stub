@@ -65,4 +65,4 @@ return new class extends Migration
     {
         Schema::drop('geodata__countries');
     }
-}
+};
