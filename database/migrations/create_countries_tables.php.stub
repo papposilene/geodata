@@ -60,8 +60,8 @@ return new class extends Migration
             $table->string('state', 255)->nullable(); // adm1name
             // City data
             $table->string('name', 255);
-            $table->point('lat')->nullable();
-            $table->point('lon')->nullable();
+            $table->float('lat')->nullable();
+            $table->float('lon')->nullable();
             // Extra data in JSON
             $table->json('postcodes')->nullable();
             $table->json('extra')->nullable();
