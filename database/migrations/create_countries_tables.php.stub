@@ -22,7 +22,6 @@ return new class extends Migration
             $table->string('cca2', 2)->unique();
             $table->string('cca3', 3)->unique();
             $table->string('ccn3', 3)->nullable();
-            $table->string('cioc', 3)->nullable();
             // Name, common and formal, in english
             $table->string('name_eng_common', 255)->unique();
             $table->string('name_eng_formal', 255)->unique();
