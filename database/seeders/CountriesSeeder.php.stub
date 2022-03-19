@@ -60,15 +60,14 @@ class CountriesSeeder extends Seeder
                 'name_eng_common'   => addslashes($data->name->common),
                 'name_eng_formal'   => addslashes($data->name->official),
                 // Centered geolocation (for mainland if necessary)
-                'lat'               => (float) $data->latlng[1],
-                'lon'               => (float) $data->latlng[0],
+                'lat'               => (float) $data->geo->latlng[1],
+                'lon'               => (float) $data->geo->latlng[0],
                 // Borders
                 'landlocked'        => (bool) ($data->geo->landlocked === true ? 'true' : 'false'),
                 'neighbourhood'     => (empty($data->borders) ? 'null' : json_encode($data->borders, JSON_FORCE_OBJECT)),
                 // Geopolitc status
                 'status'            => $data->status,
                 'independent'       => (bool) ($data->geo->independent === true ? 'true' : 'false'),
-                'un_member'         => (bool) ($data->geo->unMember === true ? 'true' : 'false'),
                 // Flag
                 'flag'              => $data->flag->emoji,
                 // Extra
@@ -80,10 +79,9 @@ class CountriesSeeder extends Seeder
                 'name_native'       => json_encode($data->name->native, JSON_FORCE_OBJECT),
                 'name_translations' => json_encode($data->translations, JSON_FORCE_OBJECT),
                 'extra' => json_encode([
-                    'address_format' => $data->address_format,
-                    'wikidata' => $data->wikidataid,
-                    'woe_id' => $data->woe_id,
-                    'wikidata' => $data->wikidataid,
+                    'address_format' => ($data->extra->address_format ? $data->extra->address_format : null),
+                    'wikidata' => ($data->wikidataid ? $data->wikidataid : null),
+                    'woe_id' => ($data->woe_id ? $data->woe_id : null),
                 ], JSON_FORCE_OBJECT),
             ]);
         }

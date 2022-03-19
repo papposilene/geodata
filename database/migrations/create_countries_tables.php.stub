@@ -35,7 +35,6 @@ return new class extends Migration
             // Geopolitic status
             $table->string('status', 255)->nullable();
             $table->boolean('independent')->default(true);
-            $table->boolean('un_member')->default(true);
             // Flag
             $table->string('flag', 50)->nullable();
             // Extra data in JSON
