@@ -9,6 +9,7 @@ use Orchestra\Testbench\TestCase as Orchestra;
 use Papposilene\Geodata\Models\Continent;
 use Papposilene\Geodata\Models\Subcontinent;
 use Papposilene\Geodata\Models\Country;
+use Papposilene\Geodata\Models\City;
 use Papposilene\Geodata\GeodataServiceProvider;
 
 abstract class TestCase extends Orchestra
@@ -21,6 +22,9 @@ abstract class TestCase extends Orchestra
 
     /** @var \Papposilene\Geodata\Models\Country */
     protected $testCountry;
+
+    /** @var \Papposilene\Geodata\Models\City */
+    protected $testCity;
 
     public function setUp(): void
     {
