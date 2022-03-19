@@ -43,7 +43,6 @@ class GeodataServiceProvider extends ServiceProvider
         $this->publishes([
             __DIR__ . '/../database/migrations/create_continents_tables.php.stub' => $this->getMigrationFileName('create_continents_tables.php'),
             __DIR__ . '/../database/migrations/create_countries_tables.php.stub' => $this->getMigrationFileName('create_countries_tables.php'),
-            __DIR__ . '/../database/migrations/create_cities_tables.php.stub' => $this->getMigrationFileName('create_cities_tables.php'),
         ], 'geodata-migrations');
 
         $this->publishes([
