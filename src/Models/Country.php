@@ -5,6 +5,7 @@ namespace Papposilene\Geodata\Models;
 use Illuminate\Database\Eloquent\Collection;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\Relations\BelongsTo;
+use Illuminate\Database\Eloquent\Relations\HasMany;
 use Papposilene\Geodata\Exceptions\CountryDoesNotExist;
 use Papposilene\Geodata\GeodataRegistrar;
 
@@ -22,8 +23,8 @@ class Country extends Model
     {
         return $this->belongsTo(
             Continent::class,
-            'id',
-            'continent_id'
+            'continent_id',
+            'id'
         );
     }
 
@@ -36,6 +37,20 @@ class Country extends Model
             Continent::class,
             'id',
             'subcontinent_id'
+        );
+    }
+
+    /**
+     * A country has many cities.
+     *
+     * @return \Illuminate\Database\Eloquent\Relations\HasMany
+     */
+    public function hasCities(): HasMany
+    {
+        return $this->hasMany(
+            City::class,
+            'cca3',
+            'country_cca3'
         );
     }
 
