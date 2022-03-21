@@ -12,6 +12,51 @@ use Papposilene\Geodata\GeodataRegistrar;
 
 class Country extends Model
 {
+    protected $primaryKey = 'uuid';
+    
+    /**
+     * The attributes that should be hidden for arrays.
+     *
+     * @var array
+     */
+    protected $hidden = [
+        'created_at',
+        'updated_at',
+        'deleted_at',
+        'laravel_through_key',
+    ];
+
+    /**
+     * The attributes that are mass assignable.
+     *
+     * @var array
+     */
+    protected $fillable = [
+        'uuid',
+        'continent_id',
+        'subcontinent_id',
+        'cca2',
+        'cca3',
+        'ccn3',
+        'name_eng_common',
+        'name_eng_formal',
+        'lat',
+        'lon',
+        'landlocked',
+        'neighbourhood',
+        'status',
+        'independent',
+        'flag',
+        'capital',
+        'currencies',
+        'demonyms',
+        'dialling',
+        'languages',
+        'name_native',
+        'name_translations',
+        'extra',
+    ];
+    
     public function getTable()
     {
         return 'geodata__countries';
