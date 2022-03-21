@@ -5,6 +5,7 @@ namespace Papposilene\Geodata\Models;
 use Illuminate\Database\Eloquent\Collection;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\Relations\BelongsTo;
+use Illuminate\Support\Str;
 use Papposilene\Geodata\Exceptions\CityDoesNotExist;
 use Papposilene\Geodata\GeodataRegistrar;
 
@@ -13,6 +14,18 @@ class City extends Model
     public function getTable()
     {
         return 'geodata__cities';
+    }
+    
+    /**
+     * Boot the Model.
+     */
+    public static function boot()
+    {
+        parent::boot();
+
+        self::creating(function ($model) {
+            $model->uuid = (string) Str::uuid();
+        });
     }
 
     /**
