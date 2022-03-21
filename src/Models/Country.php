@@ -49,8 +49,8 @@ class Country extends Model
     {
         return $this->hasMany(
             City::class,
-            'cca3',
-            'country_cca3'
+            'country_cca3',
+            'cca3'
         );
     }
 
