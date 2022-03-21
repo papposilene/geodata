@@ -11,6 +11,36 @@ use Papposilene\Geodata\GeodataRegistrar;
 
 class City extends Model
 {
+    protected $primaryKey = 'uuid';
+    
+    /**
+     * The attributes that should be hidden for arrays.
+     *
+     * @var array
+     */
+    protected $hidden = [
+        'created_at',
+        'updated_at',
+        'deleted_at',
+        'laravel_through_key',
+    ];
+
+    /**
+     * The attributes that are mass assignable.
+     *
+     * @var array
+     */
+    protected $fillable = [
+        'uuid',
+        'country_cca3',
+        'state',
+        'name',
+        'lat',
+        'lon',
+        'postcodes',
+        'extra',
+    ];
+    
     public function getTable()
     {
         return 'geodata__cities';
