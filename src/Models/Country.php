@@ -6,6 +6,7 @@ use Illuminate\Database\Eloquent\Collection;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\Relations\BelongsTo;
 use Illuminate\Database\Eloquent\Relations\HasMany;
+use Illuminate\Support\Str;
 use Papposilene\Geodata\Exceptions\CountryDoesNotExist;
 use Papposilene\Geodata\GeodataRegistrar;
 
@@ -14,6 +15,18 @@ class Country extends Model
     public function getTable()
     {
         return 'geodata__countries';
+    }
+    
+    /**
+     * Boot the Model.
+     */
+    public static function boot()
+    {
+        parent::boot();
+
+        self::creating(function ($model) {
+            $model->uuid = (string) Str::uuid();
+        });
     }
 
     /**
