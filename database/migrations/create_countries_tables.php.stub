@@ -54,7 +54,7 @@ return new class extends Migration
         });
 
         Schema::create('geodata__cities', function (Blueprint $table) {
-            $table->uuid();
+            $table->uuid()->unique();
             // Administrative layers
             $table->string('country_cca3', 3);
             $table->string('state', 255)->nullable(); // adm1name

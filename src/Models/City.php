@@ -72,7 +72,6 @@ class City extends Model
             Country::class,
             'country_cca3',
             'cca3'
-
         );
     }
 
