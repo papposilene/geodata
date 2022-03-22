@@ -11,6 +11,12 @@ use Papposilene\Geodata\GeodataRegistrar;
 
 class City extends Model
 {
+    /**
+     * Indicates if the IDs are auto-incrementing.
+     *
+     * @var bool
+     */
+    public $incrementing = false;
     protected $primaryKey = 'uuid';
 
     /**
