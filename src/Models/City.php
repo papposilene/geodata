@@ -12,7 +12,7 @@ use Papposilene\Geodata\GeodataRegistrar;
 class City extends Model
 {
     protected $primaryKey = 'uuid';
-    
+
     /**
      * The attributes that should be hidden for arrays.
      *
@@ -31,7 +31,6 @@ class City extends Model
      * @var array
      */
     protected $fillable = [
-        'uuid',
         'country_cca3',
         'state',
         'name',
@@ -40,12 +39,12 @@ class City extends Model
         'postcodes',
         'extra',
     ];
-    
+
     public function getTable()
     {
         return 'geodata__cities';
     }
-    
+
     /**
      * Boot the Model.
      */
