@@ -16,8 +16,8 @@ return new class extends Migration
     {
         Schema::create('geodata__countries', function (Blueprint $table) {
             $table->uuid();
-            $table->unsignedBigInteger('continent_id');
-            $table->unsignedBigInteger('subcontinent_id');
+            $table->string('continent_slug', 255);
+            $table->string('subcontinent_slug', 255);
             // Various identifiant codes
             $table->string('cca2', 2)->unique();
             $table->string('cca3', 3)->unique();
@@ -49,8 +49,8 @@ return new class extends Migration
             $table->timestamps();
             $table->softDeletes();
 
-            $table->foreign('continent_id')->references('id')->on('geodata__continents');
-            $table->foreign('subcontinent_id')->references('id')->on('geodata__subcontinents');
+            $table->foreign('continent_slug')->references('slug')->on('geodata__continents');
+            $table->foreign('subcontinent_slug')->references('slug')->on('geodata__subcontinents');
         });
 
         Schema::create('geodata__cities', function (Blueprint $table) {
