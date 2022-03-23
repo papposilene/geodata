@@ -77,7 +77,7 @@ class CountriesSeeder extends Seeder
                 ],
                 [
                     'slug' => Str::slug($subregion, '-'),
-                    'continent_id' => $continent->id,
+                    'continent_slug' => $continent->slug,
                 ]
             );
 
