@@ -105,7 +105,9 @@ class Country extends Model
     }
 
     /**
-     * @inheritDoc
+     * A country belongs to one continent.
+     *
+     * @return \Illuminate\Database\Eloquent\Relations\BelongsTo
      */
     public function belongsToContinent(): BelongsTo
     {
@@ -117,14 +119,16 @@ class Country extends Model
     }
 
     /**
-     * @inheritDoc
+     * A country belongs to one subcontinent.
+     *
+     * @return \Illuminate\Database\Eloquent\Relations\BelongsTo
      */
     public function belongsToSubcontinent(): BelongsTo
     {
         return $this->belongsTo(
             Continent::class,
-            'id',
-            'subcontinent_id'
+            'subcontinent_id',
+            'id'
         );
     }
 
@@ -162,7 +166,7 @@ class Country extends Model
      *
      * @param array $params
      *
-     * @return \Papposilene\Geodata\Contracts\Country
+     * @return Country
      */
     protected static function getCountry(array $params = []): Country
     {
@@ -170,7 +174,11 @@ class Country extends Model
     }
 
     /**
-     * @inheritDoc
+     * Find a country by its name.
+     *
+     * @param string $name
+     *
+     * @return Country
      */
     public static function findByName(string $name): Country
     {
@@ -184,7 +192,11 @@ class Country extends Model
     }
 
     /**
-     * @inheritDoc
+     * Find a country by its id.
+     *
+     * @param int $id
+     *
+     * @return Country
      */
     public static function findById(int $id): Country
     {
@@ -198,7 +210,11 @@ class Country extends Model
     }
 
     /**
-     * @inheritDoc
+     * Find a country by its CCA2 iso code.
+     *
+     * @param string $cca2
+     *
+     * @return Country
      */
     public static function findByCca2(string $cca2): Country
     {
@@ -212,7 +228,11 @@ class Country extends Model
     }
 
     /**
-     * @inheritDoc
+     * Find a country by its CCA3 iso code.
+     *
+     * @param string $cca3
+     *
+     * @return Country
      */
     public static function findByCca3(string $cca3): Country
     {

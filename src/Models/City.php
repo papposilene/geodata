@@ -81,6 +81,20 @@ class City extends Model
     }
 
     /**
+     * A city belongs to one country.
+     *
+     * @return \Illuminate\Database\Eloquent\Relations\BelongsTo
+     */
+    public function belongsToCountry(): BelongsTo
+    {
+        return $this->belongsTo(
+            Country::class,
+            'country_cca3',
+            'cca3'
+        );
+    }
+
+    /**
      * Get the current countries.
      *
      * @param array $params
@@ -189,20 +203,5 @@ class City extends Model
         }
 
         return $city;
-    }
-
-
-    /**
-     * A city belongs to one country.
-     *
-     * @return \Illuminate\Database\Eloquent\Relations\BelongsTo
-     */
-    public function belongsToCountry(): BelongsTo
-    {
-        return $this->belongsTo(
-            Country::class,
-            'country_cca3',
-            'cca3'
-        );
     }
 }
