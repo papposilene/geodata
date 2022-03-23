@@ -25,10 +25,10 @@ return new class extends Migration
             $table->id();
             $table->string('name', 255)->unique();
             $table->string('slug', 255)->unique();
-            $table->unsignedBigInteger('continent_id');
+            $table->string('continent_slug', 255);
             $table->timestamps();
 
-            $table->foreign('continent_id')->references('id')->on('geodata__continents');
+            $table->foreign('continent_slug')->references('slug')->on('geodata__continents');
         });
     }
 
