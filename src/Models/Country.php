@@ -126,7 +126,7 @@ class Country extends Model
     public function belongsToSubcontinent(): BelongsTo
     {
         return $this->belongsTo(
-            Continent::class,
+            Subcontinent::class,
             'subcontinent_id',
             'id'
         );
