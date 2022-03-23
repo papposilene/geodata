@@ -5,6 +5,7 @@ namespace Papposilene\Geodata\Models;
 use Illuminate\Database\Eloquent\Collection;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\Relations\BelongsTo;
+use Illuminate\Database\Eloquent\Relations\HasMany;
 use Illuminate\Support\Str;
 use Papposilene\Geodata\Exceptions\CityDoesNotExist;
 use Papposilene\Geodata\GeodataRegistrar;
@@ -64,18 +65,6 @@ class City extends Model
     }
 
     /**
-     * @inheritDoc
-     */
-    public function belongsToCountry(): BelongsTo
-    {
-        return $this->belongsTo(
-            Country::class,
-            'country_cca3',
-            'cca3'
-        );
-    }
-
-    /**
      * Get the current countries.
      *
      * @param array $params
@@ -95,7 +84,7 @@ class City extends Model
      *
      * @param array $params
      *
-     * @return \Papposilene\Geodata\Contracts\City
+     * @return City
      */
     protected static function getCity(array $params = []): City
     {
@@ -103,21 +92,33 @@ class City extends Model
     }
 
     /**
-     * @inheritDoc
+     * Find a city by its uuid.
+     *
+     * @param string $uuid
+     *
+     * @throws \Papposilene\Geodata\Exceptions\CityDoesNotExist
+     *
+     * @return City
      */
-    public static function findById(int $id): City
+    public static function findById(string $uuid): City
     {
-        $city = static::find($id);
+        $city = static::find($uuid);
 
         if (!$city) {
-            throw CityDoesNotExist::withId($id);
+            throw CityDoesNotExist::withId($uuid);
         }
 
         return $city;
     }
 
     /**
-     * @inheritDoc
+     * Find a city by its name.
+     *
+     * @param string $name
+     *
+     * @throws \Papposilene\Geodata\Exceptions\CityDoesNotExist
+     *
+     * @return City
      */
     public static function findByName(string $name): City
     {
@@ -131,7 +132,14 @@ class City extends Model
     }
 
     /**
-     * @inheritDoc
+     * Find a city by its state.
+     *
+     * @param string $name
+     * @param string $state
+     *
+     * @throws \Papposilene\Geodata\Exceptions\CityDoesNotExist
+     *
+     * @return City
      */
     public static function findByState(string $name, string $state): City
     {
@@ -148,7 +156,13 @@ class City extends Model
     }
 
     /**
-     * @inheritDoc
+     * Find a city by its postcodes.
+     *
+     * @param array $postcodes
+     *
+     * @throws \Papposilene\Geodata\Exceptions\CityDoesNotExist
+     *
+     * @return \Illuminate\Database\Eloquent\Collection
      */
     public static function findByPostcodes(array $postcodes)
     {
@@ -159,5 +173,20 @@ class City extends Model
         }
 
         return $city;
+    }
+
+
+    /**
+     * A city belongs to one country.
+     *
+     * @return \Illuminate\Database\Eloquent\Relations\BelongsTo
+     */
+    public function belongsToCountry(): BelongsTo
+    {
+        return $this->belongsTo(
+            Country::class,
+            'country_cca3',
+            'cca3'
+        );
     }
 }
