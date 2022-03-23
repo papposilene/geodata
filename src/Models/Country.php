@@ -13,7 +13,7 @@ use Papposilene\Geodata\GeodataRegistrar;
 class Country extends Model
 {
     protected $primaryKey = 'uuid';
-    
+
     /**
      * The attributes that should be hidden for arrays.
      *
@@ -32,6 +32,36 @@ class Country extends Model
      * @var array
      */
     protected $fillable = [
+        'continent_id',
+        'subcontinent_id',
+        'cca2',
+        'cca3',
+        'ccn3',
+        'name_eng_common',
+        'name_eng_formal',
+        'lat',
+        'lon',
+        'landlocked',
+        'neighbourhood',
+        'status',
+        'independent',
+        'flag',
+        'capital',
+        'currencies',
+        'demonyms',
+        'dialling',
+        'languages',
+        'name_native',
+        'name_translations',
+        'extra',
+    ];
+
+    /**
+     * The attributes that are visible.
+     *
+     * @var array
+     */
+    protected $visible = [
         'uuid',
         'continent_id',
         'subcontinent_id',
@@ -56,12 +86,12 @@ class Country extends Model
         'name_translations',
         'extra',
     ];
-    
+
     public function getTable()
     {
         return 'geodata__countries';
     }
-    
+
     /**
      * Boot the Model.
      */

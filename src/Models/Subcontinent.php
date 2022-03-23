@@ -9,6 +9,11 @@ use Papposilene\Geodata\Exceptions\SubcontinentDoesNotExist;
 
 class Subcontinent extends Model
 {
+    /**
+     * The attributes that are visible.
+     *
+     * @var array
+     */
     protected $visible = [
         'id',
         'code',

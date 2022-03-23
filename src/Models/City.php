@@ -47,6 +47,22 @@ class City extends Model
         'extra',
     ];
 
+    /**
+     * The attributes that are visible.
+     *
+     * @var array
+     */
+    protected $visible = [
+        'uuid',
+        'country_cca3',
+        'state',
+        'name',
+        'lat',
+        'lon',
+        'postcodes',
+        'extra',
+    ];
+
     public function getTable()
     {
         return 'geodata__cities';
