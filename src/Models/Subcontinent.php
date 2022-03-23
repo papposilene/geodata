@@ -38,8 +38,9 @@ class Subcontinent extends Model
     {
         return $this->belongsTo(
             Continent::class,
-            'id',
-            'continent_id'
+            'continent_slug',
+            'slug',
+
         );
     }
 
@@ -52,8 +53,8 @@ class Subcontinent extends Model
     {
         return $this->hasMany(
             Country::class,
-            'subcontinent_id',
-            'id'
+            'subcontinent_slug',
+            'slug'
         );
     }
 

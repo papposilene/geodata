@@ -113,8 +113,8 @@ class Country extends Model
     {
         return $this->belongsTo(
             Continent::class,
-            'continent_id',
-            'id'
+            'continent_slug',
+            'slug'
         );
     }
 
@@ -127,8 +127,8 @@ class Country extends Model
     {
         return $this->belongsTo(
             Subcontinent::class,
-            'subcontinent_id',
-            'id'
+            'subcontinent_slug',
+            'slug'
         );
     }
 
