@@ -31,7 +31,7 @@ class CitiesSeeder extends Seeder
 
             foreach ($json as $data) {
                 $cca3 = $replaceCca3[$data->cca3] ?? $data->cca3;
-                $country = Country::where('cca3', $cca3)->first();
+                $country = Country::where('cca3', strtolower($cca3))->first();
 
                 City::create([
                     'country_cca3' => $country->cca3,

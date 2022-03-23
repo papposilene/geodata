@@ -85,9 +85,9 @@ class CountriesSeeder extends Seeder
                 'continent_id'      => $continent->id,
                 'subcontinent_id'   => $subcontinent->id,
                 // Various identifiant codes
-                'cca2'              => $data->cca2,
-                'cca3'              => $data->cca3,
-                'ccn3'              => (is_string($data->ccn3) ? $data->ccn3 : null),
+                'cca2'              => strtolower($data->cca2),
+                'cca3'              => strtolower($data->cca3),
+                'ccn3'              => (is_string($data->ccn3) ? strtolower($data->ccn3) : null),
                 // Name, common and formal, in english
                 'name_eng_common'   => addslashes($data->name->common),
                 'name_eng_formal'   => addslashes($data->name->official),
