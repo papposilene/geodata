@@ -52,7 +52,7 @@ class Subcontinent extends Model
     {
         return $this->hasMany(
             Country::class,
-            'continent_id',
+            'subcontinent_id',
             'id'
         );
     }
