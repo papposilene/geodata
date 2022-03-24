@@ -26,8 +26,8 @@ return new class extends Migration
             $table->string('name_eng_common', 255)->unique();
             $table->string('name_eng_formal', 255)->unique();
             // Centered geolocation (for mainland if necessary)
-            $table->float('lat')->nullable();
-            $table->float('lon')->nullable();
+            $table->decimal('lat', 20, 16)->nullable();
+            $table->decimal('lon', 20, 16)->nullable();
             // Borders
             $table->boolean('landlocked')->default(false);
             $table->json('neighbourhood')->nullable();
@@ -60,8 +60,8 @@ return new class extends Migration
             $table->string('state', 255)->nullable(); // adm1name
             // City data
             $table->string('name', 255);
-            $table->float('lat')->nullable();
-            $table->float('lon')->nullable();
+            $table->decimal('lat', 20, 16)->nullable();
+            $table->decimal('lon', 20, 16)->nullable();
             // Extra data in JSON
             $table->json('postcodes')->nullable();
             $table->json('extra')->nullable();
