@@ -6413,7 +6413,7 @@
                 "region": "Antarctic",
                 "region_un": "Antarctica",
                 "region_wb": "Antarctica",
-                "subregion": ""
+                "subregion": "Antarctic"
             },
             "geou_dif": "0",
             "geounit": "Antarctica",
@@ -44489,11 +44489,11 @@
             "min_latitude": "-53.2",
             "min_longitude": "72.566667",
             "postal_code": true,
-            "region": "",
+            "region": "Antarctic",
             "region_code": "",
             "region_un": "Seven seas (open ocean)",
             "region_wb": "Sub-Saharan Africa",
-            "subregion": "",
+            "subregion": "Antarctic",
             "subregion_code": "",
             "world_region": "APAC"
         },
