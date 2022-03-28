@@ -74,6 +74,7 @@ class GeodataServiceProvider extends ServiceProvider
      * Returns existing migration file if found, else uses the current timestamp.
      *
      * @return string
+     * @throws \Illuminate\Contracts\Container\BindingResolutionException
      */
     protected function getMigrationFileName($migrationFileName): string
     {
@@ -93,6 +94,7 @@ class GeodataServiceProvider extends ServiceProvider
      * Returns existing seeder file if found, else uses the current timestamp.
      *
      * @return string
+     * @throws \Illuminate\Contracts\Container\BindingResolutionException
      */
     protected function getSeederFileName($seederFileName): string
     {
