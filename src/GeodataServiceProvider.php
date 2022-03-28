@@ -53,6 +53,7 @@ class GeodataServiceProvider extends ServiceProvider
         $this->publishes([
             __DIR__ . '/../data/countries/all_countries.json' => storage_path('data/geodata/countries/countries.json'),
             __DIR__ . '/../data/cities/default' => storage_path('data/geodata/cities'),
+            __DIR__ . '/../data/flags' => public_path('img/svg/flags'),
         ], 'geodata-data');
     }
 
@@ -74,6 +75,7 @@ class GeodataServiceProvider extends ServiceProvider
      * Returns existing migration file if found, else uses the current timestamp.
      *
      * @return string
+     * @throws \Illuminate\Contracts\Container\BindingResolutionException
      */
     protected function getMigrationFileName($migrationFileName): string
     {
@@ -93,6 +95,7 @@ class GeodataServiceProvider extends ServiceProvider
      * Returns existing seeder file if found, else uses the current timestamp.
      *
      * @return string
+     * @throws \Illuminate\Contracts\Container\BindingResolutionException
      */
     protected function getSeederFileName($seederFileName): string
     {
