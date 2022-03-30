@@ -56,23 +56,23 @@ return new class extends Migration
         Schema::create('geodata__regions', function (Blueprint $table) {
             $table->uuid()->primary();
             // Country identifiers
-            $table->string('cca2', 2);
-            $table->string('cca3', 3);
+            $table->string('country_cca2', 2);
+            $table->string('country_cca3', 3);
             // Region identifiers
-            $table->string('cca2', 6);
+            $table->string('region_cca2', 6);
             // OpenStreetMap ID
             $table->bigInteger('osm_place_id', false)->nullable();
             $table->integer('admin_level', false);
             // Name, common and formal, in english
             $table->string('name_loc', 255);
             $table->string('name_eng', 255);
-            $table->json('translations');
+            $table->json('name_translations');
             // Internal data
             $table->timestamps();
             $table->softDeletes();
 
-            $table->foreign('cca2')->references('cca2')->on('geodata__countries');
-            $table->foreign('cca3')->references('cca3')->on('geodata__countries');
+            $table->foreign('country_cca2')->references('cca2')->on('geodata__countries');
+            $table->foreign('country_cca3')->references('cca3')->on('geodata__countries');
         });
 
         Schema::create('geodata__cities', function (Blueprint $table) {
