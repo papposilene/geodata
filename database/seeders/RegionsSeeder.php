@@ -7,7 +7,7 @@ use Illuminate\Support\Facades\DB;
 use Illuminate\Support\Facades\File;
 use Illuminate\Support\Str;
 use Papposilene\Geodata\Models\Country;
-use Papposilene\Geodata\Models\Subcountry;
+use Papposilene\Geodata\Models\Region;
 
 class RegionsSeeder extends Seeder
 {
@@ -21,62 +21,10 @@ class RegionsSeeder extends Seeder
         // Drop the tables
         DB::table('geodata__regions')->delete();
 
-        $file = File::get(storage_path('data/geodata/countries/countries.json'));
+        $file = File::get(storage_path('data/geodata/administrative-levels/*.json'));
         $json = json_decode($file);
 
         foreach ($json as $data) {
-            if (property_exists($data, 'geo')) {
-                $region = $data->geo->region;
-                $subregion = $data->geo->subregion;
-                $landlocked = $data->geo->landlocked;
-                $independent = (bool) ($data->geo->independent === true ? true : false);
-                $lat = $data->geo->latlng[1];
-                $lon = $data->geo->latlng[0];
-            } else {
-                $region = $data->region;
-                $subregion = $data->subregion;
-                $landlocked = $data->landlocked;
-                $independent = (bool) ($data->independent === true ? true : false);
-                $lat = $data->latlng[1];
-                $lon = $data->latlng[0];
-            }
-
-            $flag = '🏳️';
-            if (property_exists($data, 'flag')) {
-                $flag = $data->flag;
-            }
-            if (property_exists($data, 'flag') && property_exists($data->flag, 'emoji')) {
-                $flag = $data->flag->emoji;
-            }
-
-            if (property_exists($data, 'dialling')) {
-                $dialling = json_encode($data->dialling, JSON_FORCE_OBJECT);
-            }
-            elseif (property_exists($data, 'callingCodes')) {
-                $dialling = json_encode($data->callingCodes, JSON_FORCE_OBJECT);
-            }
-            else {
-                $dialling = null;
-            }
-
-            $continent = Continent::firstOrCreate(
-                [
-                    'name' => $region
-                ],
-                [
-                    'slug' => Str::slug($region, '-'),
-                ]
-            );
-
-            $subcontinent = Subcontinent::firstOrCreate(
-                [
-                    'name' => $subregion
-                ],
-                [
-                    'slug' => Str::slug($subregion, '-'),
-                    'continent_slug' => $continent->slug,
-                ]
-            );
 
             Country::create([
                 'continent_slug'      => $continent->slug,
