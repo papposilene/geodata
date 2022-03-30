@@ -40,6 +40,7 @@ class Region extends Model
         'name_loc',
         'name_eng',
         'name_translations',
+        'extra',
     ];
 
     /**
@@ -57,6 +58,7 @@ class Region extends Model
         'name_loc',
         'name_eng',
         'name_translations',
+        'extra',
     ];
 
     public function getTable()
