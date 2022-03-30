@@ -6,9 +6,9 @@ use Illuminate\Filesystem\Filesystem;
 use Illuminate\Support\Collection;
 use Illuminate\Support\ServiceProvider;
 use Papposilene\Geodata\Models\Continent;
+use Papposilene\Geodata\Models\Region;
 use Papposilene\Geodata\Models\Subcontinent;
 use Papposilene\Geodata\Models\Country;
-use Papposilene\Geodata\Models\Subcountry;
 use Papposilene\Geodata\Models\City;
 
 class GeodataServiceProvider extends ServiceProvider
@@ -48,7 +48,7 @@ class GeodataServiceProvider extends ServiceProvider
 
         $this->publishes([
             __DIR__ . '/../database/seeders/CountriesSeeder.php.stub' => $this->getSeederFileName('CountriesSeeder.php'),
-            __DIR__ . '/../database/seeders/SubcountriesSeeder.php.stub' => $this->getSeederFileName('SubcountriesSeeder.php'),
+            __DIR__ . '/../database/seeders/RegionsSeeder.php.stub' => $this->getSeederFileName('RegionsSeeder.php'),
             __DIR__ . '/../database/seeders/CitiesSeeder.php.stub' => $this->getSeederFileName('CitiesSeeder.php'),
         ], 'geodata-seeders');
 
