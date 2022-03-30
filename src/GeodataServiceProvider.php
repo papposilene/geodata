@@ -71,7 +71,7 @@ class GeodataServiceProvider extends ServiceProvider
         $this->app->bind(Continent::class, $config['continents']);
         $this->app->bind(Subcontinent::class, $config['subcontinents']);
         $this->app->bind(Country::class, $config['countries']);
-        $this->app->bind(Subcountry::class, $config['subcountries']);
+        $this->app->bind(Region::class, $config['regions']);
         $this->app->bind(City::class, $config['cities']);
     }
 
