@@ -32,28 +32,14 @@ class Region extends Model
      * @var array
      */
     protected $fillable = [
-        'continent_id',
-        'subcontinent_id',
-        'cca2',
-        'cca3',
-        'ccn3',
-        'name_eng_common',
-        'name_eng_formal',
-        'lat',
-        'lon',
-        'landlocked',
-        'neighbourhood',
-        'status',
-        'independent',
-        'flag',
-        'capital',
-        'currencies',
-        'demonyms',
-        'dialling',
-        'languages',
-        'name_native',
+        'country_cca2',
+        'country_cca3',
+        'region_cca2',
+        'osm_place_id',
+        'admin_level',
+        'name_loc',
+        'name_eng',
         'name_translations',
-        'extra',
     ];
 
     /**
@@ -63,33 +49,19 @@ class Region extends Model
      */
     protected $visible = [
         'uuid',
-        'continent_id',
-        'subcontinent_id',
-        'cca2',
-        'cca3',
-        'ccn3',
-        'name_eng_common',
-        'name_eng_formal',
-        'lat',
-        'lon',
-        'landlocked',
-        'neighbourhood',
-        'status',
-        'independent',
-        'flag',
-        'capital',
-        'currencies',
-        'demonyms',
-        'dialling',
-        'languages',
-        'name_native',
+        'country_cca2',
+        'country_cca3',
+        'region_cca2',
+        'osm_place_id',
+        'admin_level',
+        'name_loc',
+        'name_eng',
         'name_translations',
-        'extra',
     ];
 
     public function getTable()
     {
-        return 'geodata__countries';
+        return 'geodata__regions';
     }
 
     /**
@@ -105,143 +77,98 @@ class Region extends Model
     }
 
     /**
-     * A country belongs to one continent.
+     * A region belongs to one country.
      *
      * @return \Illuminate\Database\Eloquent\Relations\BelongsTo
      */
-    public function belongsToContinent(): BelongsTo
+    public function belongsToCountry(): BelongsTo
     {
         return $this->belongsTo(
-            Continent::class,
-            'continent_slug',
-            'slug'
-        );
-    }
-
-    /**
-     * A country belongs to one subcontinent.
-     *
-     * @return \Illuminate\Database\Eloquent\Relations\BelongsTo
-     */
-    public function belongsToSubcontinent(): BelongsTo
-    {
-        return $this->belongsTo(
-            Subcontinent::class,
-            'subcontinent_slug',
-            'slug'
-        );
-    }
-
-    /**
-     * A country has many cities.
-     *
-     * @return \Illuminate\Database\Eloquent\Relations\HasMany
-     */
-    public function hasCities(): HasMany
-    {
-        return $this->hasMany(
-            City::class,
+            Country::class,
             'country_cca3',
             'cca3'
         );
     }
 
     /**
-     * Get the current countries.
+     * Get the current regions.
      *
      * @param array $params
      * @param bool $onlyOne
      *
      * @return \Illuminate\Database\Eloquent\Collection
      */
-    protected static function getCountries(array $params = [], bool $onlyOne = false): Collection
+    protected static function getRegions(array $params = [], bool $onlyOne = false): Collection
     {
         return app(GeodataRegistrar::class)
-            ->setCountryClass(static::class)
-            ->getCountries($params, $onlyOne);
+            ->setRegionClass(static::class)
+            ->getRegions($params, $onlyOne);
     }
 
     /**
-     * Get the current first country.
+     * Get the current first region.
      *
      * @param array $params
      *
-     * @return Country
+     * @return Region
      */
-    protected static function getCountry(array $params = []): Country
+    protected static function getRegion(array $params = []): Region
     {
-        return static::getCountries($params, true)->first();
+        return static::getRegions($params, true)->first();
     }
 
     /**
-     * Find a country by its name.
+     * Find a region by its name.
      *
      * @param string $name
      *
-     * @return Country
+     * @return Region
      */
-    public static function findByName(string $name): Country
+    public static function findByName(string $name): Region
     {
-        $country = static::find($name);
+        $region = static::find($name);
 
-        if (!$country) {
-            throw CountryDoesNotExist::named($name);
+        if (!$region) {
+            throw RegionDoesNotExist::named($name);
         }
 
-        return $country;
+        return $region;
     }
 
     /**
-     * Find a country by its id.
+     * Find a region by its uuid.
      *
-     * @param int $id
+     * @param string $uuid
      *
-     * @return Country
+     * @return Region
      */
-    public static function findById(int $id): Country
+    public static function findById(string $uuid): Region
     {
-        $country = static::findById($id);
+        $region = static::findById($uuid);
 
-        if (!$country) {
-            throw CountryDoesNotExist::withId($id);
+        if (!$region) {
+            throw RegionDoesNotExist::withId($id);
         }
 
-        return $country;
+        return $region;
     }
 
     /**
-     * Find a country by its CCA2 iso code.
+     * Find a region by its CCA2 iso code.
      *
      * @param string $cca2
      *
-     * @return Country
+     * @return Region
      */
-    public static function findByCca2(string $cca2): Country
+    public static function findByCca2(string $cca2): Region
     {
-        $country = static::findByCca2($cca2);
+        $region = static::findByCca2($cca2);
 
-        if (!$country) {
-            throw CountryDoesNotExist::withCca2($cca2);
+        if (!$region) {
+            throw RegionDoesNotExist::withCca2($cca2);
         }
 
-        return $country;
+        return $region;
     }
 
-    /**
-     * Find a country by its CCA3 iso code.
-     *
-     * @param string $cca3
-     *
-     * @return Country
-     */
-    public static function findByCca3(string $cca3): Country
-    {
-        $country = static::findByCca3($cca3);
-
-        if (!$country) {
-            throw CountryDoesNotExist::withCca3($cca3);
-        }
-
-        return $country;
-    }
 }
