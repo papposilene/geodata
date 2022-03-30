@@ -8,6 +8,7 @@ use Illuminate\Support\ServiceProvider;
 use Papposilene\Geodata\Models\Continent;
 use Papposilene\Geodata\Models\Subcontinent;
 use Papposilene\Geodata\Models\Country;
+use Papposilene\Geodata\Models\Subcountry;
 use Papposilene\Geodata\Models\City;
 
 class GeodataServiceProvider extends ServiceProvider
@@ -47,11 +48,13 @@ class GeodataServiceProvider extends ServiceProvider
 
         $this->publishes([
             __DIR__ . '/../database/seeders/CountriesSeeder.php.stub' => $this->getSeederFileName('CountriesSeeder.php'),
+            __DIR__ . '/../database/seeders/SubcountriesSeeder.php.stub' => $this->getSeederFileName('SubcountriesSeeder.php'),
             __DIR__ . '/../database/seeders/CitiesSeeder.php.stub' => $this->getSeederFileName('CitiesSeeder.php'),
         ], 'geodata-seeders');
 
         $this->publishes([
             __DIR__ . '/../data/countries/all_countries.json' => storage_path('data/geodata/countries/countries.json'),
+            __DIR__ . '/../data/countries/administrative-regions' => storage_path('data/geodata/countries/administrative-regions'),
             __DIR__ . '/../data/cities/default' => storage_path('data/geodata/cities'),
             __DIR__ . '/../data/flags' => public_path('img/svg/flags'),
         ], 'geodata-data');
@@ -68,6 +71,7 @@ class GeodataServiceProvider extends ServiceProvider
         $this->app->bind(Continent::class, $config['continents']);
         $this->app->bind(Subcontinent::class, $config['subcontinents']);
         $this->app->bind(Country::class, $config['countries']);
+        $this->app->bind(Subcountry::class, $config['subcountries']);
         $this->app->bind(City::class, $config['cities']);
     }
 
