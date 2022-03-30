@@ -10,6 +10,7 @@ use Papposilene\Geodata\Models\Continent;
 use Papposilene\Geodata\Models\Subcontinent;
 use Papposilene\Geodata\Models\Country;
 use Papposilene\Geodata\Models\City;
+use Papposilene\Geodata\Models\Region;
 use Papposilene\Geodata\GeodataServiceProvider;
 
 abstract class TestCase extends Orchestra
@@ -22,6 +23,9 @@ abstract class TestCase extends Orchestra
 
     /** @var \Papposilene\Geodata\Models\Country */
     protected $testCountry;
+
+    /** @var \Papposilene\Geodata\Models\Region */
+    protected $testRegion;
 
     /** @var \Papposilene\Geodata\Models\City */
     protected $testCity;
@@ -71,11 +75,9 @@ abstract class TestCase extends Orchestra
     {
         include_once __DIR__ . '/../database/migrations/create_continents_tables.php.stub';
         include_once __DIR__ . '/../database/migrations/create_countries_tables.php.stub';
-        include_once __DIR__ . '/../database/migrations/create_cities_tables.php.stub';
 
         (new \CreateContinentsTables())->up();
         (new \CreateCountriesTables())->up();
-        (new \CreateCitiesTables())->up();
 
         DB::table('geodata__continents')->insert([
             'slug' => 'europe',
@@ -225,12 +227,31 @@ abstract class TestCase extends Orchestra
                 ]
             ], JSON_FORCE_OBJECT),
             'extra' => json_encode([
-                'address_format' => '{{recipient}}{{street}}{{postalcode}} {{city}}{{country}}',
                 'wikidata' => 'Q142',
                 'woe_id_eh' => 23424819,
             ], JSON_FORCE_OBJECT),
         ]);
         $this->testCountry = Country::find(1);
+
+        DB::table('geodata__regions')->insert([
+            'country_cca2' => $this->testCountry->cca2,
+            'country_cca3' => $this->testCountry->cca3,
+            'region_cca2' => 'FR-IDF',
+            'osm_place_id' => -8649,
+            'admin_level' => 4,
+            'name_loc' => 'Île-de-France',
+            'name_eng' => 'Ile-de-France',
+            'name_translations' => json_encode([
+                'en' => 'Île-de-France',
+                'fr' => 'Ile-de-France',
+                'es' => 'Isla de Francia',
+                'it' => 'Isola di Francia',
+            ], JSON_FORCE_OBJECT),
+            'extra' => json_encode([
+                'wikidata' => 'Q13917',
+            ], JSON_FORCE_OBJECT),
+        ]);
+        $this->testRegion = Region::find(1);
 
         DB::table('geodata__cities')->insert([
             'country_cca3' => $this->testCountry->cca3,
