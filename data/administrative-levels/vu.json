@@ -1,0 +1,134 @@
+[
+  {
+    "osm_id": -3765631,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-2177246",
+    "name": "Tafea",
+    "local_name": "Tafea",
+    "name_en": null,
+    "all_tags": {
+      "name": "Tafea",
+      "name:ja": "タフェア州",
+      "boundary": "administrative",
+      "way_area": "2.25401",
+      "wikidata": "Q576417",
+      "ISO3166-2": "VU-TAE",
+      "population": "32540",
+      "admin_level": "4",
+      "unocha:pcode": "VUT0106",
+      "population:date": "2009"
+    }
+  },
+  {
+    "osm_id": -3765630,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-2177246",
+    "name": "Shefa Province",
+    "local_name": "Shefa",
+    "name_en": "Shefa Province",
+    "all_tags": {
+      "name": "Shefa",
+      "name:en": "Shefa Province",
+      "name:fr": "Shéfa",
+      "name:ja": "シェファ州",
+      "boundary": "administrative",
+      "way_area": "1.86909",
+      "wikidata": "Q650617",
+      "ISO3166-2": "VU-SEE",
+      "population": "78723",
+      "admin_level": "4",
+      "unocha:pcode": "VUT0105",
+      "population:date": "2009"
+    }
+  },
+  {
+    "osm_id": -3765629,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-2177246",
+    "name": "Malampa",
+    "local_name": "Malampa",
+    "name_en": null,
+    "all_tags": {
+      "name": "Malampa",
+      "name:ja": "マランパ州",
+      "boundary": "administrative",
+      "way_area": "1.22221",
+      "wikidata": "Q740656",
+      "ISO3166-2": "VU-MAP",
+      "population": "36727",
+      "admin_level": "4",
+      "unocha:pcode": "VUT0104",
+      "population:date": "2009",
+      "population:source": "National Population and Housing Census"
+    }
+  },
+  {
+    "osm_id": -3765606,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-2177246",
+    "name": "Penama",
+    "local_name": "Penama",
+    "name_en": null,
+    "all_tags": {
+      "name": "Penama",
+      "name:ja": "ペナマ州",
+      "boundary": "administrative",
+      "way_area": "1.2717",
+      "wikidata": "Q836649",
+      "ISO3166-2": "VU-PAM",
+      "population": "30819",
+      "admin_level": "4",
+      "unocha:pcode": "VUT0103",
+      "population:date": "2009",
+      "population:source": "National Population and Housing Census"
+    }
+  },
+  {
+    "osm_id": -3765596,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-2177246",
+    "name": "Torba",
+    "local_name": "Torba",
+    "name_en": null,
+    "all_tags": {
+      "name": "Torba",
+      "name:ja": "トルバ州",
+      "boundary": "administrative",
+      "way_area": "2.42137",
+      "wikidata": "Q822514",
+      "ISO3166-2": "VU-TOB",
+      "population": "9359",
+      "admin_level": "4",
+      "unocha:pcode": "VUT0101",
+      "population:date": "2009",
+      "population:source": "National Population and Housing Census"
+    }
+  },
+  {
+    "osm_id": -3765591,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-2177246",
+    "name": "Sanma",
+    "local_name": "Sanma",
+    "name_en": null,
+    "all_tags": {
+      "name": "Sanma",
+      "name:ja": "サンマ州",
+      "boundary": "administrative",
+      "way_area": "1.67568",
+      "wikidata": "Q740640",
+      "ISO3166-2": "VU-SAM",
+      "population": "45855",
+      "admin_level": "4",
+      "unocha:pcode": "VUT0102",
+      "population:date": "2009",
+      "population:source": "National Population and Housing Census"
+    }
+  }
+]
