@@ -81,8 +81,10 @@ return new class extends Migration
             $table->uuid()->primary();
             // Administrative layers
             $table->string('country_cca3', 3);
-            $table->string('region_uuid')->nullable(); // adm1name
+            $table->uuid('region_uuid')->nullable();
             // City data
+            $table->integer('admin_level', false);
+            $table->string('type', 255)->nullable();
             $table->string('name', 255);
             $table->decimal('lat', 20, 16)->nullable();
             $table->decimal('lon', 20, 16)->nullable();
@@ -106,6 +108,7 @@ return new class extends Migration
     public function down()
     {
         Schema::drop('geodata__cities');
+        Schema::drop('geodata__regions');
         Schema::drop('geodata__countries');
     }
 };
