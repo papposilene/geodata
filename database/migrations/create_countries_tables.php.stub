@@ -81,7 +81,7 @@ return new class extends Migration
             $table->uuid()->primary();
             // Administrative layers
             $table->string('country_cca3', 3);
-            $table->string('state', 255)->nullable(); // adm1name
+            $table->string('region_uuid')->nullable(); // adm1name
             // City data
             $table->string('name', 255);
             $table->decimal('lat', 20, 16)->nullable();
@@ -94,6 +94,7 @@ return new class extends Migration
             $table->softDeletes();
 
             $table->foreign('country_cca3')->references('cca3')->on('geodata__countries');
+            $table->foreign('region_uuid')->references('uuid')->on('geodata__regions');
         });
     }
 

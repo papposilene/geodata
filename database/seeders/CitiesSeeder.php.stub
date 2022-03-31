@@ -7,6 +7,7 @@ use Illuminate\Support\Facades\DB;
 use Illuminate\Support\Facades\File;
 use Papposilene\Geodata\Models\City;
 use Papposilene\Geodata\Models\Country;
+use Papposilene\Geodata\Models\Region;
 
 class CitiesSeeder extends Seeder
 {
@@ -20,31 +21,42 @@ class CitiesSeeder extends Seeder
         // Drop the tables
         DB::table('geodata__cities')->delete();
 
-        $replaceCca3 = [
-            'CYN' => 'CYP',
-            'SOL' => 'SOM',
-        ];
-
         foreach (glob(storage_path('data/geodata/cities/*.json')) as $filename) {
             $file = File::get($filename);
+            $name = File::name($filename);
             $json = json_decode($file);
 
+            $country = Country::where('cca2', strtolower(Str::substr($name, 0, 2)))->first();
+
             foreach ($json as $data) {
-                $cca3 = $replaceCca3[$data->cca3] ?? $data->cca3;
-                $country = Country::where('cca3', strtolower($cca3))->first();
+                $region = Region::whereIn('osm_place_id', $data['parents'])
+                    ->orderBy('admin_level', 'desc')->first();
+
+                $translations = [];
+                $getNames = $data['all_tags'];
+                $getFiltered = array_filter($getNames, function($key) {
+                    return str_starts_with($key, 'name:');
+                }, ARRAY_FILTER_USE_KEY);
+                foreach($getFiltered as $key => $value) {
+                    $lang = explode(':', $key);
+                    $translations = [$lang[1] => $value];
+                }
 
                 City::create([
                     'country_cca3' => $country->cca3,
-                    'state' => ($data->adm1name ? $data->adm1name : null),
-                    'name' => $data->name,
+                    'region_uuid' => (!empty($region) ? $region->uuid : null),
+                    'osm_place_id' => intval($data['osm_id']),
+                    'admin_level' => intval($data['admin_level']),
+                    'type' => (!is_null($data['boundary']) ? $data['boundary'] : $data['unknown']),
                     'lat' => (float) $data->latitude,
                     'lon' => (float) $data->longitude,
-                    'postcodes' => null,
-                    'extra' => json_encode([
-                        'ne_id' => $data->ne_id,
-                        'wikidata' => $data->wikidataid,
-                        'wof_id' => $data->wof_id,
-                    ], JSON_FORCE_OBJECT),
+                    'postcodes' => $data['all_tags']['postal_code'],
+                    'name_loc' => $data['local_name'],
+                    'name_eng' => (!is_null($data['name_en']) ? $data['name_en'] : $data['name']),
+                    'name_translations' => json_encode($translations, JSON_FORCE_OBJECT),
+                    'extra' => [
+                        'wikidata' => (array_key_exists('wikidata', $data['all_tags']) ? $data['all_tags']['wikidata'] : null),
+                    ],
                 ]);
             }
         }
