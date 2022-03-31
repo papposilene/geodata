@@ -1,0 +1,203 @@
+[
+  {
+    "osm_id": -3830341,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-7887110,-2184233",
+    "name": "Te-Au-O-Tonga",
+    "local_name": "Te-Au-O-Tonga",
+    "name_en": null,
+    "all_tags": {
+      "name": "Te-Au-O-Tonga",
+      "boundary": "administrative",
+      "way_area": "0.0512707",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3830340,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-7887110,-2184233",
+    "name": "Takitumu",
+    "local_name": "Takitumu",
+    "name_en": null,
+    "all_tags": {
+      "name": "Takitumu",
+      "boundary": "administrative",
+      "way_area": "0.0917504",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3830339,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2184233",
+    "name": "Rakahanga",
+    "local_name": "Rakahanga",
+    "name_en": null,
+    "all_tags": {
+      "name": "Rakahanga",
+      "name:ja": "ラカハンガ",
+      "boundary": "administrative",
+      "way_area": "0.148774",
+      "wikidata": "Q950725",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3830338,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2184233",
+    "name": "Pukapuka",
+    "local_name": "Pukapuka",
+    "name_en": null,
+    "all_tags": {
+      "name": "Pukapuka",
+      "name:ja": "プカプカ",
+      "boundary": "administrative",
+      "way_area": "0.530145",
+      "wikidata": "Q1130629",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3830337,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-7887110,-2184233",
+    "name": "Puaikura",
+    "local_name": "Puaikura",
+    "name_en": null,
+    "all_tags": {
+      "name": "Puaikura",
+      "boundary": "administrative",
+      "way_area": "0.0515908",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3830336,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2184233",
+    "name": "Penrhyn",
+    "local_name": "Penrhyn",
+    "name_en": null,
+    "all_tags": {
+      "name": "Penrhyn",
+      "name:ja": "ペンリン",
+      "boundary": "administrative",
+      "way_area": "0.257944",
+      "wikidata": "Q950725",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3830335,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2184233",
+    "name": "Palmerston",
+    "local_name": "Palmerston",
+    "name_en": null,
+    "all_tags": {
+      "name": "Palmerston",
+      "name:ja": "パーマストン",
+      "boundary": "administrative",
+      "way_area": "0.189477",
+      "wikidata": "Q2048265",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3830334,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2184233",
+    "name": "Mitiaro",
+    "local_name": "Mitiaro",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mitiaro",
+      "name:ja": "ミチアロ",
+      "boundary": "administrative",
+      "way_area": "0.162963",
+      "wikidata": "Q596542",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3830332,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2184233",
+    "name": "Manihiki",
+    "local_name": "Manihiki",
+    "name_en": null,
+    "all_tags": {
+      "name": "Manihiki",
+      "name:ja": "マニヒキ",
+      "boundary": "administrative",
+      "way_area": "0.184401",
+      "wikidata": "Q967796",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3830331,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2184233",
+    "name": "Mangaia",
+    "local_name": "Mangaia",
+    "name_en": "Mangaia",
+    "all_tags": {
+      "name": "Mangaia",
+      "name:en": "Mangaia",
+      "name:ja": "マンガイア",
+      "name:lt": "Mangaja",
+      "boundary": "administrative",
+      "name:rar": "A'ua'u Enua",
+      "way_area": "0.183822",
+      "wikidata": "Q1359323",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3830330,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2184233",
+    "name": "Atiu",
+    "local_name": "Atiu",
+    "name_en": null,
+    "all_tags": {
+      "name": "Atiu",
+      "name:ja": "アチウ",
+      "boundary": "administrative",
+      "way_area": "0.257471",
+      "wikidata": "Q755982",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3830329,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2184233",
+    "name": "Aitutaki",
+    "local_name": "Aitutaki",
+    "name_en": null,
+    "all_tags": {
+      "name": "Aitutaki",
+      "name:ja": "アイツタキ",
+      "boundary": "administrative",
+      "way_area": "0.371022",
+      "wikidata": "Q223379",
+      "admin_level": "8"
+    }
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "osm_id": -10015689,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3725240,-192801",
+    "name": "Holl-Holl",
+    "local_name": "Holl-Holl هلهول",
+    "name_en": "Holl-Holl",
+    "all_tags": {
+      "name": "Holl-Holl هلهول",
+      "place": "town",
+      "name:ar": "هلهول",
+      "name:en": "Holl-Holl",
+      "name:fr": "Holl-Holl",
+      "boundary": "administrative",
+      "way_area": "0.00127571",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -10012472,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3725240,-192801",
+    "name": "Ali Adde",
+    "local_name": "علي عدي",
+    "name_en": "Ali Adde",
+    "all_tags": {
+      "name": "علي عدي",
+      "place": "town",
+      "name:ar": "علي عدي",
+      "name:en": "Ali Adde",
+      "name:fr": "Ali Addé",
+      "alt_name": "علي أدي",
+      "boundary": "administrative",
+      "way_area": "0.000308181",
+      "wikidata": "Q1753852",
+      "admin_level": "8",
+      "alt_name:ar": "علي أدي"
+    }
+  }
+]

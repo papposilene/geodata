@@ -1,0 +1,64 @@
+[
+  {
+    "osm_id": -8443313,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3221052,-3220591,-192794",
+    "name": "Site 15 Avril",
+    "local_name": "Site 15 Avril",
+    "name_en": null,
+    "all_tags": {
+      "name": "Site 15 Avril",
+      "refugee": "yes",
+      "boundary": "administrative",
+      "way_area": "1.45729e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7824068,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3221052,-3220591,-192794",
+    "name": "Ça mètre",
+    "local_name": "Ça mètre",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ça mètre",
+      "boundary": "administrative",
+      "way_area": "9.90015e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7824067,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3221052,-3220591,-192794",
+    "name": "Yende",
+    "local_name": "Yende",
+    "name_en": null,
+    "all_tags": {
+      "name": "Yende",
+      "boundary": "administrative",
+      "way_area": "6.92152e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7824000,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3221052,-3220591,-192794",
+    "name": "Monzombo",
+    "local_name": "Monzombo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Monzombo",
+      "boundary": "administrative",
+      "way_area": "0.000149493",
+      "wikipedia": "Monzombo",
+      "admin_level": "8"
+    }
+  }
+]

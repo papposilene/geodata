@@ -1,0 +1,888 @@
+[
+  {
+    "osm_id": -13617439,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-5884797,-1923804,-307833",
+    "name": "Ciudad de Placetas",
+    "local_name": "Ciudad de Placetas",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ciudad de Placetas",
+      "boundary": "administrative",
+      "way_area": "0.000703041",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -12748469,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-5904277,-1854635,-307833",
+    "name": "Ciudad de Mayarí",
+    "local_name": "Ciudad de Mayarí",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ciudad de Mayarí",
+      "boundary": "administrative",
+      "way_area": "0.00063314",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -12097915,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-5927810,-1854634,-307833",
+    "name": "Ciudad de Baracoa",
+    "local_name": "Ciudad de Baracoa",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ciudad de Baracoa",
+      "boundary": "administrative",
+      "way_area": "0.000670545",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -12041569,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-5875947,-1854616,-307833",
+    "name": "Ciudad de Colón",
+    "local_name": "Ciudad de Colón",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ciudad de Colón",
+      "boundary": "administrative",
+      "way_area": "0.000592365",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11648324,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-5892229,-1854630,-307833",
+    "name": "Ciudad de Santa Cruz del Sur",
+    "local_name": "Ciudad de Santa Cruz del Sur",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ciudad de Santa Cruz del Sur",
+      "boundary": "administrative",
+      "way_area": "0.000313339",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11648323,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-5892227,-1854630,-307833",
+    "name": "Pueblo de Najasa",
+    "local_name": "Pueblo de Najasa",
+    "name_en": null,
+    "all_tags": {
+      "name": "Pueblo de Najasa",
+      "boundary": "administrative",
+      "way_area": "0.000182795",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11648322,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-5892231,-1854630,-307833",
+    "name": "Pueblo de Sola",
+    "local_name": "Pueblo de Sola",
+    "name_en": null,
+    "all_tags": {
+      "name": "Pueblo de Sola",
+      "boundary": "administrative",
+      "way_area": "0.000193005",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11648321,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-5892225,-1854630,-307833",
+    "name": "Pueblo de Jimaguayú",
+    "local_name": "Pueblo de Jimaguayú",
+    "name_en": null,
+    "all_tags": {
+      "name": "Pueblo de Jimaguayú",
+      "boundary": "administrative",
+      "way_area": "7.65404e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11587244,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-5904276,-1854635,-307833",
+    "name": "Ciudad de Holguín",
+    "local_name": "Ciudad de Holguín",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ciudad de Holguín",
+      "boundary": "administrative",
+      "way_area": "0.00499462",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11558361,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-5884803,-1923804,-307833",
+    "name": "Ciudad de Santa Clara",
+    "local_name": "Ciudad de Santa Clara",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ciudad de Santa Clara",
+      "boundary": "administrative",
+      "way_area": "0.00372801",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11521208,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-5884868,-1923793,-307833",
+    "name": "Ciudad de Trinidad",
+    "local_name": "Ciudad de Trinidad",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ciudad de Trinidad",
+      "boundary": "administrative",
+      "way_area": "0.000540782",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11512424,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-5887667,-1854631,-307833",
+    "name": "Ciudad de Ciego de Ávila",
+    "local_name": "Ciudad de Ciego de Ávila",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ciudad de Ciego de Ávila",
+      "boundary": "administrative",
+      "way_area": "0.00185692",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11512389,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-5919051,-1854638,-307833",
+    "name": "Ciudad de Palma Soriano",
+    "local_name": "Ciudad de Palma Soriano",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ciudad de Palma Soriano",
+      "boundary": "administrative",
+      "way_area": "0.000907307",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11512379,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-5919047,-1854638,-307833",
+    "name": "Ciudad de Contramaestre",
+    "local_name": "Ciudad de Contramaestre",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ciudad de Contramaestre",
+      "boundary": "administrative",
+      "way_area": "0.000620236",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11485983,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-5892220,-1854630,-307833",
+    "name": "Ciudad de Camagüey",
+    "local_name": "Ciudad de Camagüey",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ciudad de Camagüey",
+      "boundary": "administrative",
+      "way_area": "0.0063618",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11352826,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-5904287,-1854635,-307833",
+    "name": "Ciudad de Moa",
+    "local_name": "Ciudad de Moa",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ciudad de Moa",
+      "boundary": "administrative",
+      "way_area": "0.00115956",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11351091,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-5919053,-1854638,-307833",
+    "name": "Ciudad de Santiago de Cuba",
+    "local_name": "Ciudad de Santiago de Cuba",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ciudad de Santiago de Cuba",
+      "boundary": "administrative",
+      "way_area": "0.00657678",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11348462,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-5875983,-1854616,-307833",
+    "name": "Ciudad de Matanzas",
+    "local_name": "Ciudad de Matanzas",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ciudad de Matanzas",
+      "boundary": "administrative",
+      "way_area": "0.00324972",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11348455,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-5927813,-1854634,-307833",
+    "name": "Ciudad de Guantánamo",
+    "local_name": "Ciudad de Guantánamo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ciudad de Guantánamo",
+      "boundary": "administrative",
+      "way_area": "0.00228202",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11346510,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-5901302,-1854636,-307833",
+    "name": "Ciudad de Puerto Padre",
+    "local_name": "Ciudad de Puerto Padre",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ciudad de Puerto Padre",
+      "boundary": "administrative",
+      "way_area": "0.000602966",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11346509,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-5901299,-1854636,-307833",
+    "name": "Ciudad de Las Tunas",
+    "local_name": "Ciudad de Las Tunas",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ciudad de Las Tunas",
+      "boundary": "administrative",
+      "way_area": "0.00260951",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11320547,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-5904269,-1854635,-307833",
+    "name": "Ciudad de Banes",
+    "local_name": "Ciudad de Banes",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ciudad de Banes",
+      "boundary": "administrative",
+      "way_area": "0.000604666",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11320545,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-5884866,-1923793,-307833",
+    "name": "Ciudad de Sancti Spiritus",
+    "local_name": "Ciudad de Sancti Spiritus",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ciudad de Sancti Spiritus",
+      "boundary": "administrative",
+      "way_area": "0.001672",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11319441,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-5884802,-1923804,-307833",
+    "name": "Ciudad de Sagua la Grande",
+    "local_name": "Ciudad de Sagua la Grande",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ciudad de Sagua la Grande",
+      "boundary": "administrative",
+      "way_area": "0.000642789",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11313215,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-5884787,-1923804,-307833",
+    "name": "Ciudad de Caibarién",
+    "local_name": "Ciudad de Caibarién",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ciudad de Caibarién",
+      "boundary": "administrative",
+      "way_area": "0.000644999",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11296595,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-5892221,-1854630,-307833",
+    "name": "Pueblo de Céspedes",
+    "local_name": "Pueblo de Céspedes",
+    "name_en": null,
+    "all_tags": {
+      "name": "Pueblo de Céspedes",
+      "boundary": "administrative",
+      "way_area": "0.000368201",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11296594,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-5892222,-1854630,-307833",
+    "name": "Pueblo de Esmeralda",
+    "local_name": "Pueblo de Esmeralda",
+    "name_en": null,
+    "all_tags": {
+      "name": "Pueblo de Esmeralda",
+      "boundary": "administrative",
+      "way_area": "0.000358572",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11296593,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-5892230,-1854630,-307833",
+    "name": "Pueblo de Sibanicú",
+    "local_name": "Pueblo de Sibanicú",
+    "name_en": null,
+    "all_tags": {
+      "name": "Pueblo de Sibanicú",
+      "boundary": "administrative",
+      "way_area": "0.000219065",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11296592,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-5892224,-1854630,-307833",
+    "name": "Ciudad de Guaimaro",
+    "local_name": "Ciudad de Guaimaro",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ciudad de Guaimaro",
+      "boundary": "administrative",
+      "way_area": "0.000351442",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11288692,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-5875948,-1854616,-307833",
+    "name": "Ciudad de Cárdenas",
+    "local_name": "Ciudad de Cárdenas",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ciudad de Cárdenas",
+      "boundary": "administrative",
+      "way_area": "0.00177181",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11288594,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-5892228,-1854630,-307833",
+    "name": "Ciudad de Nuevitas",
+    "local_name": "Ciudad de Nuevitas",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ciudad de Nuevitas",
+      "boundary": "administrative",
+      "way_area": "0.001178",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11288593,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-5892232,-1854630,-307833",
+    "name": "Ciudad de Vertientes",
+    "local_name": "Ciudad de Vertientes",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ciudad de Vertientes",
+      "boundary": "administrative",
+      "way_area": "0.000641585",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11288592,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-5892223,-1854630,-307833",
+    "name": "Ciudad de Florida",
+    "local_name": "Ciudad de Florida",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ciudad de Florida",
+      "boundary": "administrative",
+      "way_area": "0.0011938",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11288591,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-5892226,-1854630,-307833",
+    "name": "Pueblo de Minas",
+    "local_name": "Pueblo de Minas",
+    "name_en": null,
+    "all_tags": {
+      "name": "Pueblo de Minas",
+      "boundary": "administrative",
+      "way_area": "0.000473702",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11281805,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-5875948,-1854616,-307833",
+    "name": "Varadero",
+    "local_name": "Varadero",
+    "name_en": null,
+    "all_tags": {
+      "name": "Varadero",
+      "boundary": "administrative",
+      "way_area": "0.00167738",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11281797,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2575071,-1854617,-307833",
+    "name": "Ciudad de Pinar del Río",
+    "local_name": "Ciudad de Pinar del Río",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ciudad de Pinar del Río",
+      "boundary": "administrative",
+      "way_area": "0.00233813",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11281792,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2576654,-2576644,-307833",
+    "name": "Ciudad de San Antonio de los Baños",
+    "local_name": "Ciudad de San Antonio de los Baños",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ciudad de San Antonio de los Baños",
+      "boundary": "administrative",
+      "way_area": "0.00038814",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11281790,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-5539165,-2579313,-307833",
+    "name": "Ciudad de Guines",
+    "local_name": "Ciudad de Guines",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ciudad de Guines",
+      "boundary": "administrative",
+      "way_area": "0.000435086",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11281787,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-5887680,-1854631,-307833",
+    "name": "Ciudad de Morón",
+    "local_name": "Ciudad de Morón",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ciudad de Morón",
+      "boundary": "administrative",
+      "way_area": "0.00111495",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11281786,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-5887667,-1854631,-307833",
+    "name": "Ciudad de Ciego de Ávila",
+    "local_name": "Ciudad de Ciego de Ávila",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ciudad de Ciego de Ávila",
+      "boundary": "administrative",
+      "way_area": "0.00185692",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11279857,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-5915221,-1854633,-307833",
+    "name": "Ciudad de Bayamo",
+    "local_name": "Ciudad de Bayamo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ciudad de Bayamo",
+      "boundary": "administrative",
+      "way_area": "0.00250452",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11275209,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-5915227,-1854633,-307833",
+    "name": "Ciudad de Manzanillo",
+    "local_name": "Ciudad de Manzanillo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ciudad de Manzanillo",
+      "boundary": "administrative",
+      "way_area": "0.00134165",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11271861,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-5884789,-1854632,-307833",
+    "name": "Ciudad de Cienfuegos",
+    "local_name": "Ciudad de Cienfuegos",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ciudad de Cienfuegos",
+      "boundary": "administrative",
+      "way_area": "0.00284069",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -9965590,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2576653,-2576644,-307833",
+    "name": "Pueblo de Mariel",
+    "local_name": "Pueblo de Mariel",
+    "name_en": null,
+    "all_tags": {
+      "name": "Pueblo de Mariel",
+      "place": "town",
+      "boundary": "administrative",
+      "way_area": "0.000374792",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -6090747,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-5489823,-1854615,-307833",
+    "name": "Micro X",
+    "local_name": "Micro X",
+    "name_en": null,
+    "all_tags": {
+      "name": "Micro X",
+      "boundary": "administrative",
+      "way_area": "2.87261e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -6086334,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-5489823,-1854615,-307833",
+    "name": "Zona 9",
+    "local_name": "Zona 9",
+    "name_en": null,
+    "all_tags": {
+      "name": "Zona 9",
+      "boundary": "administrative",
+      "way_area": "1.87723e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -6086333,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-5489823,-1854615,-307833",
+    "name": "Zona 8",
+    "local_name": "Zona 8",
+    "name_en": null,
+    "all_tags": {
+      "name": "Zona 8",
+      "boundary": "administrative",
+      "way_area": "1.18941e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -6086332,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-5489823,-1854615,-307833",
+    "name": "Zona 7",
+    "local_name": "Zona 7",
+    "name_en": null,
+    "all_tags": {
+      "name": "Zona 7",
+      "boundary": "administrative",
+      "way_area": "2.59564e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -6086331,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-5489823,-1854615,-307833",
+    "name": "Zona 6",
+    "local_name": "Zona 6",
+    "name_en": null,
+    "all_tags": {
+      "name": "Zona 6",
+      "boundary": "administrative",
+      "way_area": "4.47299e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -6086330,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-5489823,-1854615,-307833",
+    "name": "Zona 5",
+    "local_name": "Zona 5",
+    "name_en": null,
+    "all_tags": {
+      "name": "Zona 5",
+      "boundary": "administrative",
+      "way_area": "3.09367e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -6086329,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-5489823,-1854615,-307833",
+    "name": "Zona 4",
+    "local_name": "Zona 4",
+    "name_en": null,
+    "all_tags": {
+      "name": "Zona 4",
+      "boundary": "administrative",
+      "way_area": "3.94105e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -6086328,
+    "boundary": "quarter",
+    "admin_level": 8,
+    "parents": "-5489823,-1854615,-307833",
+    "name": "Zona 3",
+    "local_name": "Zona 3",
+    "name_en": null,
+    "all_tags": {
+      "name": "Zona 3",
+      "boundary": "quarter",
+      "way_area": "1.26452e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -6086327,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-5489823,-1854615,-307833",
+    "name": "Zona 25",
+    "local_name": "Zona 25",
+    "name_en": null,
+    "all_tags": {
+      "name": "Zona 25",
+      "boundary": "administrative",
+      "way_area": "1.82561e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -6086326,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-5489823,-1854615,-307833",
+    "name": "Zona 24",
+    "local_name": "Zona 24",
+    "name_en": null,
+    "all_tags": {
+      "name": "Zona 24",
+      "boundary": "administrative",
+      "way_area": "1.58211e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -6086325,
+    "boundary": "postal_code",
+    "admin_level": 8,
+    "parents": "-5489823,-1854615,-307833",
+    "name": "Zona 2",
+    "local_name": "Zona 2",
+    "name_en": null,
+    "all_tags": {
+      "name": "Zona 2",
+      "boundary": "postal_code",
+      "way_area": "2.3435e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -6086324,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-5489823,-1854615,-307833",
+    "name": "Zona 11",
+    "local_name": "Zona 11",
+    "name_en": null,
+    "all_tags": {
+      "name": "Zona 11",
+      "boundary": "administrative",
+      "way_area": "2.11573e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -6086323,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-5489823,-1854615,-307833",
+    "name": "Zona 10",
+    "local_name": "Zona 10",
+    "name_en": null,
+    "all_tags": {
+      "name": "Zona 10",
+      "boundary": "administrative",
+      "way_area": "1.96272e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -6086322,
+    "boundary": "postal_code",
+    "admin_level": 8,
+    "parents": "-5489823,-1854615,-307833",
+    "name": "Zona 1",
+    "local_name": "Zona 1",
+    "name_en": null,
+    "all_tags": {
+      "name": "Zona 1",
+      "boundary": "postal_code",
+      "way_area": "3.42696e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -6086321,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-5489823,-1854615,-307833",
+    "name": "Micro Industrial",
+    "local_name": "Micro Industrial",
+    "name_en": null,
+    "all_tags": {
+      "name": "Micro Industrial",
+      "boundary": "administrative",
+      "way_area": "3.11766e-05",
+      "admin_level": "8"
+    }
+  }
+]

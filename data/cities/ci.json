@@ -1,0 +1,196 @@
+[
+  {
+    "osm_id": -3377895,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3377982,-192779",
+    "name": "Abobo",
+    "local_name": "Abobo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Abobo",
+      "place": "city",
+      "name:ar": "أبوبو",
+      "boundary": "administrative",
+      "way_area": "0.0106139",
+      "wikidata": "Q322624",
+      "population": "1500000",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3377881,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3377982,-192779",
+    "name": "Yopougon",
+    "local_name": "Yopougon",
+    "name_en": null,
+    "all_tags": {
+      "name": "Yopougon",
+      "place": "city",
+      "boundary": "administrative",
+      "way_area": "0.0122273",
+      "wikidata": "Q1470529",
+      "wikipedia": "fr:Yopougon",
+      "population": "1375020",
+      "short_name": "Yop",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3377873,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3377982,-192779",
+    "name": "Port-Bouët",
+    "local_name": "Port-Bouët",
+    "name_en": null,
+    "all_tags": {
+      "name": "Port-Bouët",
+      "place": "city",
+      "alt_name": "Port-Bouët 1",
+      "boundary": "administrative",
+      "way_area": "0.00952152",
+      "wikidata": "Q1491106",
+      "wikipedia": "fr:Port-Bouët",
+      "population": "137502",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3377835,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3377982,-192779",
+    "name": "Adjamé",
+    "local_name": "Adjamé",
+    "name_en": null,
+    "all_tags": {
+      "name": "Adjamé",
+      "is_in": "Abidjan;Côte d'Ivoire",
+      "place": "city",
+      "boundary": "administrative",
+      "way_area": "0.000950991",
+      "wikidata": "Q357695",
+      "wikipedia": "fr:Adjamé",
+      "population": "254290",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3377820,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3377982,-192779",
+    "name": "Attécoubé",
+    "local_name": "Attécoubé",
+    "name_en": null,
+    "all_tags": {
+      "name": "Attécoubé",
+      "place": "city",
+      "boundary": "administrative",
+      "way_area": "0.00389562",
+      "wikidata": "Q2870172",
+      "wikipedia": "fr:Attécoubé",
+      "population": "207586",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3377741,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3377982,-192779",
+    "name": "Koumassi",
+    "local_name": "Koumassi",
+    "name_en": null,
+    "all_tags": {
+      "name": "Koumassi",
+      "place": "municipality",
+      "boundary": "administrative",
+      "way_area": "0.00181419",
+      "wikidata": "Q1283513",
+      "wikipedia": "fr:Koumassi",
+      "population": "317562",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3363950,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3377982,-192779",
+    "name": "Cocody",
+    "local_name": "Cocody",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cocody",
+      "place": "city",
+      "boundary": "administrative",
+      "way_area": "0.00992666",
+      "wikidata": "Q1105423",
+      "wikipedia": "fr:Cocody",
+      "population": "251000",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3308780,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3377982,-192779",
+    "name": "Marcory",
+    "local_name": "Marcory",
+    "name_en": null,
+    "all_tags": {
+      "name": "Marcory",
+      "place": "city",
+      "boundary": "administrative",
+      "way_area": "0.00145934",
+      "wikidata": "Q3290197",
+      "wikipedia": "fr:Marcory",
+      "population": "600000",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3308306,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3377982,-192779",
+    "name": "Le Plateau",
+    "local_name": "Le Plateau",
+    "name_en": null,
+    "all_tags": {
+      "name": "Le Plateau",
+      "place": "city",
+      "boundary": "administrative",
+      "way_area": "0.000515046",
+      "wikidata": "Q960327",
+      "wikipedia": "fr:Le Plateau",
+      "population": "137502",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3308305,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3377982,-192779",
+    "name": "Treichville",
+    "local_name": "Treichville",
+    "name_en": null,
+    "all_tags": {
+      "name": "Treichville",
+      "place": "municipality",
+      "name:ar": "تريشفيل",
+      "boundary": "administrative",
+      "way_area": "0.00120315",
+      "wikidata": "Q493643",
+      "wikipedia": "fr:Treichville",
+      "population": "120526",
+      "admin_level": "8"
+    }
+  }
+]
