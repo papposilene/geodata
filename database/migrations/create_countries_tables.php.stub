@@ -83,6 +83,8 @@ return new class extends Migration
             $table->string('country_cca3', 3);
             $table->uuid('region_uuid')->nullable();
             // City data
+            $table->integer('admin_level', false);
+            $table->string('type', 255)->nullable();
             $table->string('name', 255);
             $table->decimal('lat', 20, 16)->nullable();
             $table->decimal('lon', 20, 16)->nullable();

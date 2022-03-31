@@ -36,7 +36,8 @@ class CitiesSeeder extends Seeder
                 $region = Region::where([
                         [
                             'country_cca3' => strtolower($cca3),
-                            'name' => $name,
+                            'osm_place_id' => in_array($data->parents),
+                            'admin_level' => 6
                         ]
                     ])
                     ->first();
@@ -44,15 +45,17 @@ class CitiesSeeder extends Seeder
                 City::create([
                     'country_cca3' => $country->cca3,
                     'region_uuid' => ($region ? $region->uuid : null),
+                    'admin_level' => intval($data['admin_level']),
+                    'type' => (!is_null($data['boundary']) ? $data['boundary'] : $data['unknown']),
                     'name' => $data->name,
                     'lat' => (float) $data->latitude,
                     'lon' => (float) $data->longitude,
-                    'postcodes' => null,
-                    'extra' => json_encode([
+                    'postcodes' => (array_key_exists('postal_code', $data['all_tags']) ? $data['all_tags']['postal_code'] : null),
+                    'extra' => [
                         'ne_id' => $data->ne_id,
                         'wikidata' => $data->wikidataid,
                         'wof_id' => $data->wof_id,
-                    ], JSON_FORCE_OBJECT),
+                    ],
                 ]);
             }
         }
