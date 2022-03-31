@@ -64,6 +64,7 @@ return new class extends Migration
             $table->bigInteger('osm_place_id', false)->nullable();
             $table->integer('admin_level', false);
             // Name, common and formal, in english
+            $table->string('type', 255)->nullable();
             $table->string('name_loc', 255);
             $table->string('name_eng', 255);
             $table->json('name_translations');
