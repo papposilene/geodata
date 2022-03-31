@@ -21,6 +21,16 @@ class City extends Model
     protected $primaryKey = 'uuid';
 
     /**
+     * The attributes that should be cast to native types.
+     *
+     * @var array
+     */
+    protected $casts = [
+        //'uuid' => 'uuid',
+        'extra' => 'array',
+    ];
+
+    /**
      * The attributes that should be hidden for arrays.
      *
      * @var array
