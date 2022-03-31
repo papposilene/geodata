@@ -1,0 +1,457 @@
+[
+  {
+    "osm_id": -1061143,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1028022,-62269",
+    "name": "Jurby",
+    "local_name": "Jurby",
+    "name_en": null,
+    "all_tags": {
+      "name": "Jurby",
+      "boundary": "administrative",
+      "way_area": "0.00245271",
+      "wikidata": "Q2734559",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1061142,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1061146,-62269",
+    "name": "Onchan",
+    "local_name": "Onchan",
+    "name_en": "Onchan",
+    "all_tags": {
+      "name": "Onchan",
+      "place": "town",
+      "woeid": "538691",
+      "name:en": "Onchan",
+      "name:gv": "Kione Droghad",
+      "website": "https://www.onchan.org.im/",
+      "boundary": "administrative",
+      "way_area": "0.00340207",
+      "wikidata": "Q7091958",
+      "wikipedia": "en:Onchan (parish)",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1061141,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1061144,-62269",
+    "name": "Bride",
+    "local_name": "Bride",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bride",
+      "boundary": "administrative",
+      "way_area": "0.00301313",
+      "wikidata": "Q2925151",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1061140,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1061145,-62269",
+    "name": "Maughold",
+    "local_name": "Maughold",
+    "name_en": null,
+    "all_tags": {
+      "name": "Maughold",
+      "boundary": "administrative",
+      "way_area": "0.00476444",
+      "wikidata": "Q2734578",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1061139,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1028022,-62269",
+    "name": "Michael",
+    "local_name": "Michael",
+    "name_en": null,
+    "all_tags": {
+      "name": "Michael",
+      "boundary": "administrative",
+      "way_area": "0.00465143",
+      "wikidata": "Q15069291",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1061138,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1061146,-62269",
+    "name": "Douglas",
+    "local_name": "Douglas",
+    "name_en": "Douglas",
+    "all_tags": {
+      "name": "Douglas",
+      "place": "town",
+      "woeid": "538629",
+      "capital": "yes",
+      "name:be": "Дуглас",
+      "name:en": "Douglas",
+      "name:ga": "Dubh Lios",
+      "name:gd": "Dùghlais",
+      "name:gv": "Doolish",
+      "name:he": "דאגלס",
+      "name:ja": "ダグラス",
+      "name:ru": "Дуглас",
+      "name:zh": "道格拉斯",
+      "website": "http://www.douglas.gov.im",
+      "boundary": "administrative",
+      "way_area": "0.00139089",
+      "wikidata": "Q18569",
+      "wikipedia": "en:Douglas, Isle of Man",
+      "population": "26218",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1061137,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1061145,-62269",
+    "name": "Laxey",
+    "local_name": "Laxey",
+    "name_en": "Laxey",
+    "all_tags": {
+      "name": "Laxey",
+      "place": "village",
+      "name:en": "Laxey",
+      "name:gv": "Laksaa",
+      "boundary": "administrative",
+      "way_area": "0.000333464",
+      "wikidata": "Q1026205",
+      "wikipedia": "en:Laxey",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1061136,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1061145,-62269",
+    "name": "Lonan",
+    "local_name": "Lonan",
+    "name_en": null,
+    "all_tags": {
+      "name": "Lonan",
+      "boundary": "administrative",
+      "way_area": "0.00486463",
+      "wikidata": "Q3258914",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1061134,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1061144,-62269",
+    "name": "Lezayre",
+    "local_name": "Lezayre",
+    "name_en": null,
+    "all_tags": {
+      "name": "Lezayre",
+      "boundary": "administrative",
+      "way_area": "0.00861302",
+      "wikidata": "Q3237456",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1061133,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1061147,-62269",
+    "name": "Peel",
+    "local_name": "Peel",
+    "name_en": "Peel",
+    "all_tags": {
+      "name": "Peel",
+      "is_in": "Isle of Man",
+      "place": "city",
+      "woeid": "538695",
+      "landuse": "residential",
+      "name:en": "Peel",
+      "name:gd": "Purt na hInshey",
+      "name:gv": "Purt ny h-Inshey",
+      "name:ru": "Пил",
+      "boundary": "administrative",
+      "way_area": "0.000289201",
+      "wikidata": "Q147524",
+      "population": "4280",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1061132,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1061145,-62269",
+    "name": "Ramsey",
+    "local_name": "Ramsey",
+    "name_en": "Ramsey",
+    "all_tags": {
+      "name": "Ramsey",
+      "is_in": "Isle of Man",
+      "place": "town",
+      "landuse": "residential",
+      "name:be": "Рэмсі",
+      "name:cs": "Ramsey",
+      "name:en": "Ramsey",
+      "name:gd": "Rhumsaa",
+      "name:gv": "Rhumsaa",
+      "name:ru": "Рамси",
+      "website": "http://www.ramsey.gov.im/",
+      "boundary": "administrative",
+      "name:non": "Hrams-á",
+      "way_area": "0.000506393",
+      "wikidata": "Q150106",
+      "wikipedia": "en:Ramsey, Isle of Man",
+      "population": "7309",
+      "admin_level": "8",
+      "postal_code": "IM8"
+    }
+  },
+  {
+    "osm_id": -1061131,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1061144,-62269",
+    "name": "Andreas",
+    "local_name": "Andreas",
+    "name_en": null,
+    "all_tags": {
+      "name": "Andreas",
+      "boundary": "administrative",
+      "way_area": "0.00431713",
+      "wikidata": "Q4755358",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1034178,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1061135,-62269",
+    "name": "Port Saint Mary",
+    "local_name": "Port Saint Mary",
+    "name_en": "Port Saint Mary",
+    "all_tags": {
+      "name": "Port Saint Mary",
+      "is_in": "Isle of Man",
+      "place": "village",
+      "woeid": "538701",
+      "name:en": "Port Saint Mary",
+      "name:gd": "Purt le Moirrey",
+      "name:gv": "Purt le Moirrey",
+      "name:ru": "Порт-Сент-Мэри",
+      "boundary": "administrative",
+      "way_area": "0.000199905",
+      "wikidata": "Q2605309",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1032811,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1061135,-62269",
+    "name": "Port Erin",
+    "local_name": "Port Erin",
+    "name_en": "Port Erin",
+    "all_tags": {
+      "name": "Port Erin",
+      "is_in": "Isle of Man",
+      "place": "village",
+      "woeid": "538699",
+      "name:en": "Port Erin",
+      "name:gd": "Purt Çhiarn",
+      "name:gv": "Purt Chiarn",
+      "name:ru": "Порт-Эрин",
+      "boundary": "administrative",
+      "way_area": "0.000362259",
+      "wikidata": "Q520798",
+      "wikipedia": "en:Port Erin",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1031319,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1061135,-62269",
+    "name": "Castletown",
+    "local_name": "Castletown",
+    "name_en": "Castletown",
+    "all_tags": {
+      "name": "Castletown",
+      "is_in": "Isle of Man",
+      "woeid": "538599",
+      "name:en": "Castletown",
+      "name:gd": "Balley Chashtal",
+      "name:gv": "Balley Chashtal",
+      "name:ru": "Каслтаун",
+      "boundary": "administrative",
+      "way_area": "0.000324683",
+      "wikidata": "Q158530",
+      "population": "3109",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1029670,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1061135,-62269",
+    "name": "Rushen",
+    "local_name": "Rushen",
+    "name_en": null,
+    "all_tags": {
+      "name": "Rushen",
+      "boundary": "administrative",
+      "way_area": "0.00338701",
+      "wikidata": "Q3453376",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1029669,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1061135,-62269",
+    "name": "Arbory",
+    "local_name": "Arbory",
+    "name_en": null,
+    "all_tags": {
+      "name": "Arbory",
+      "boundary": "administrative",
+      "way_area": "0.00244088",
+      "wikidata": "Q2859727",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1029649,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1061146,-62269",
+    "name": "Santon",
+    "local_name": "Santon",
+    "name_en": null,
+    "all_tags": {
+      "name": "Santon",
+      "boundary": "administrative",
+      "way_area": "0.00233531",
+      "wikidata": "Q3472980",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1029648,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1061147,-62269",
+    "name": "Patrick",
+    "local_name": "Patrick",
+    "name_en": null,
+    "all_tags": {
+      "name": "Patrick",
+      "boundary": "administrative",
+      "way_area": "0.00581125",
+      "wikidata": "Q3369173",
+      "wikipedia": "en:Patrick (parish)",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1029647,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1061135,-62269",
+    "name": "Malew",
+    "local_name": "Malew",
+    "name_en": null,
+    "all_tags": {
+      "name": "Malew",
+      "boundary": "administrative",
+      "way_area": "0.00645648",
+      "wikidata": "Q3281889",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1028066,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1061146,-62269",
+    "name": "Marown",
+    "local_name": "Marown",
+    "name_en": null,
+    "all_tags": {
+      "name": "Marown",
+      "boundary": "administrative",
+      "way_area": "0.00369241",
+      "wikidata": "Q3294687",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1028024,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1061146,-62269",
+    "name": "Braddan",
+    "local_name": "Braddan",
+    "name_en": null,
+    "all_tags": {
+      "name": "Braddan",
+      "boundary": "administrative",
+      "way_area": "0.00587263",
+      "wikidata": "Q2734571",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1028023,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1028022,-62269",
+    "name": "Ballaugh",
+    "local_name": "Ballaugh",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ballaugh",
+      "boundary": "administrative",
+      "way_area": "0.0032661",
+      "wikidata": "Q4851559",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1028021,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1061147,-62269",
+    "name": "German",
+    "local_name": "German",
+    "name_en": null,
+    "all_tags": {
+      "name": "German",
+      "boundary": "administrative",
+      "way_area": "0.00619463",
+      "wikidata": "Q2734574",
+      "admin_level": "8"
+    }
+  }
+]

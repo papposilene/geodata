@@ -1,0 +1,109 @@
+[
+  {
+    "osm_id": -12033551,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-7857103,-3336978,-195272",
+    "name": "Makuti Township",
+    "local_name": "Makuti Township",
+    "name_en": null,
+    "all_tags": {
+      "name": "Makuti Township",
+      "boundary": "administrative",
+      "way_area": "0.000608661",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11156221,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-7878257,-3336980,-195272",
+    "name": "Victoria Falls Municipality",
+    "local_name": "Victoria Falls Municipality",
+    "name_en": null,
+    "all_tags": {
+      "name": "Victoria Falls Municipality",
+      "boundary": "administrative",
+      "way_area": "0.00232107",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -10686840,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-7857099,-3336978,-195272",
+    "name": "Norton",
+    "local_name": "Norton",
+    "name_en": null,
+    "all_tags": {
+      "name": "Norton",
+      "boundary": "administrative",
+      "way_area": "0.0102999",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -10662167,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-7858601,-3336981,-195272",
+    "name": "Municipality of Beitbridge",
+    "local_name": "Municipality of Beitbridge",
+    "name_en": null,
+    "all_tags": {
+      "name": "Municipality of Beitbridge",
+      "boundary": "administrative",
+      "way_area": "0.0187922",
+      "kml_style": "m_ylw-pushpin01",
+      "tessellate": "1",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -5467259,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3337019,-195272",
+    "name": "Emganwini",
+    "local_name": "Emganwini",
+    "name_en": null,
+    "all_tags": {
+      "name": "Emganwini",
+      "boundary": "administrative",
+      "way_area": "0.000481868",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -5457055,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3337019,-195272",
+    "name": "Nketa",
+    "local_name": "Nketa",
+    "name_en": null,
+    "all_tags": {
+      "name": "Nketa",
+      "boundary": "administrative",
+      "way_area": "0.000545823",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -5130399,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-318467,-195272",
+    "name": "Epworth",
+    "local_name": "Epworth",
+    "name_en": null,
+    "all_tags": {
+      "name": "Epworth",
+      "boundary": "administrative",
+      "way_area": "0.00237372",
+      "admin_level": "8"
+    }
+  }
+]

@@ -1,0 +1,248 @@
+[
+  {
+    "osm_id": -9710503,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2279589,-195266",
+    "name": "Kamanjab",
+    "local_name": "Kamanjab",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kamanjab",
+      "place": "village",
+      "boundary": "administrative",
+      "way_area": "0.000250901",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -9708389,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2279628,-195266",
+    "name": "Otavi",
+    "local_name": "Otavi",
+    "name_en": null,
+    "all_tags": {
+      "name": "Otavi",
+      "landuse": "residential",
+      "boundary": "administrative",
+      "way_area": "0.000432518",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -9708367,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2279557,-195266",
+    "name": "Oranjemund",
+    "local_name": "Oranjemund",
+    "name_en": null,
+    "all_tags": {
+      "name": "Oranjemund",
+      "place": "city",
+      "boundary": "administrative",
+      "way_area": "0.000707083",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8650367,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2279555,-195266",
+    "name": "Usakos",
+    "local_name": "Usakos",
+    "name_en": null,
+    "all_tags": {
+      "name": "Usakos",
+      "boundary": "administrative",
+      "way_area": "0.000504108",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8650366,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2279628,-195266",
+    "name": "Grootfontein",
+    "local_name": "Grootfontein",
+    "name_en": null,
+    "all_tags": {
+      "name": "Grootfontein",
+      "boundary": "administrative",
+      "way_area": "0.000855614",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8650365,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2279556,-195266",
+    "name": "Mariental",
+    "local_name": "Mariental",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mariental",
+      "boundary": "administrative",
+      "way_area": "0.00101695",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8650364,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2279557,-195266",
+    "name": "Keetmanshoop",
+    "local_name": "Keetmanshoop",
+    "name_en": null,
+    "all_tags": {
+      "name": "Keetmanshoop",
+      "boundary": "administrative",
+      "way_area": "0.00121505",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8650363,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2279601,-195266",
+    "name": "Gobabis",
+    "local_name": "Gobabis",
+    "name_en": null,
+    "all_tags": {
+      "name": "Gobabis",
+      "name:ar": "غوبابوس",
+      "boundary": "administrative",
+      "way_area": "0.00126294",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8650362,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2279627,-195266",
+    "name": "Tsumeb",
+    "local_name": "Tsumeb",
+    "name_en": null,
+    "all_tags": {
+      "name": "Tsumeb",
+      "boundary": "administrative",
+      "way_area": "0.00265344",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8650330,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2279628,-195266",
+    "name": "Otjiwarongo",
+    "local_name": "Otjiwarongo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Otjiwarongo",
+      "boundary": "administrative",
+      "way_area": "0.0017411",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8650329,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2279557,-195266",
+    "name": "Karasburg",
+    "local_name": "Karasburg",
+    "name_en": null,
+    "all_tags": {
+      "name": "Karasburg",
+      "boundary": "administrative",
+      "way_area": "0.000459011",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8650328,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2279589,-195266",
+    "name": "Outjo",
+    "local_name": "Outjo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Outjo",
+      "boundary": "administrative",
+      "way_area": "0.000868423",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8650327,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2279555,-195266",
+    "name": "Omaruru",
+    "local_name": "Omaruru",
+    "name_en": null,
+    "all_tags": {
+      "name": "Omaruru",
+      "boundary": "administrative",
+      "way_area": "0.00130683",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8650325,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2279555,-195266",
+    "name": "Henties Bay",
+    "local_name": "Henties Bay",
+    "name_en": null,
+    "all_tags": {
+      "name": "Henties Bay",
+      "boundary": "administrative",
+      "way_area": "0.00186617",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8650251,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2279555,-195266",
+    "name": "Karibib",
+    "local_name": "Karibib",
+    "name_en": null,
+    "all_tags": {
+      "name": "Karibib",
+      "boundary": "administrative",
+      "way_area": "0.000761294",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -6160499,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2279628,-195266",
+    "name": "Okahandja",
+    "local_name": "Okahandja",
+    "name_en": null,
+    "all_tags": {
+      "name": "Okahandja",
+      "name:ar": "أوكاهانديا",
+      "boundary": "administrative",
+      "way_area": "0.0010745",
+      "wikidata": "Q597491",
+      "admin_level": "8"
+    }
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "osm_id": -7751694,
+    "boundary": "landuse",
+    "admin_level": 8,
+    "parents": "-3961384,-547511",
+    "name": "Bridgetown",
+    "local_name": "Bridgetown",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bridgetown",
+      "place": "town",
+      "boundary": "landuse",
+      "way_area": "0.000282366",
+      "admin_level": "8",
+      "description": "The administrative boundary for the town of Bridgetown, Barbados."
+    }
+  },
+  {
+    "osm_id": -7751529,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3961380,-547511",
+    "name": "Holetown",
+    "local_name": "Holetown",
+    "name_en": null,
+    "all_tags": {
+      "name": "Holetown",
+      "place": "town",
+      "boundary": "administrative",
+      "way_area": "3.40408e-05",
+      "admin_level": "8"
+    }
+  }
+]

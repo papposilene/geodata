@@ -1,0 +1,160 @@
+[
+  {
+    "osm_id": -12511863,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1711291,-270009",
+    "name": "St Andrew",
+    "local_name": "St Andrew",
+    "name_en": null,
+    "all_tags": {
+      "name": "St Andrew",
+      "boundary": "administrative",
+      "way_area": "0.000557225",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -12380603,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1711291,-270009",
+    "name": "St. Pierre du Bois",
+    "local_name": "St. Pierre du Bois",
+    "name_en": null,
+    "all_tags": {
+      "name": "St. Pierre du Bois",
+      "boundary": "administrative",
+      "way_area": "0.000777583",
+      "wikidata": "Q2164378",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -12380602,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1711291,-270009",
+    "name": "St Saviour",
+    "local_name": "St Saviour",
+    "name_en": null,
+    "all_tags": {
+      "name": "St Saviour",
+      "boundary": "administrative",
+      "way_area": "0.000793959",
+      "wikidata": "Q2106447",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -12376848,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1711291,-270009",
+    "name": "Castel",
+    "local_name": "Castel",
+    "name_en": null,
+    "all_tags": {
+      "name": "Castel",
+      "boundary": "administrative",
+      "way_area": "0.00125362",
+      "wikidata": "Q2070272",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -12368237,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1711291,-270009",
+    "name": "Torteval",
+    "local_name": "Torteval",
+    "name_en": null,
+    "all_tags": {
+      "name": "Torteval",
+      "boundary": "administrative",
+      "way_area": "0.000387373",
+      "wikidata": "Q2671049",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -12368195,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1711291,-270009",
+    "name": "Vale",
+    "local_name": "Vale",
+    "name_en": null,
+    "all_tags": {
+      "name": "Vale",
+      "boundary": "administrative",
+      "way_area": "0.00109616",
+      "wikidata": "Q1809806",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -12349846,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1711291,-270009",
+    "name": "St Sampson",
+    "local_name": "St Sampson",
+    "name_en": null,
+    "all_tags": {
+      "name": "St Sampson",
+      "boundary": "administrative",
+      "way_area": "0.00076988",
+      "wikidata": "Q24695054",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -12348029,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1711291,-270009",
+    "name": "Forest",
+    "local_name": "Forest",
+    "name_en": null,
+    "all_tags": {
+      "name": "Forest",
+      "boundary": "administrative",
+      "way_area": "0.00051557",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -12347540,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1711291,-270009",
+    "name": "St Martin",
+    "local_name": "St Martin",
+    "name_en": null,
+    "all_tags": {
+      "name": "St Martin",
+      "boundary": "administrative",
+      "way_area": "0.000933753",
+      "wikidata": "Q595669",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -12346049,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1711291,-270009",
+    "name": "St Peter Port",
+    "local_name": "St Peter Port",
+    "name_en": null,
+    "all_tags": {
+      "name": "St Peter Port",
+      "boundary": "administrative",
+      "way_area": "0.000799301",
+      "wikidata": "Q174262",
+      "admin_level": "8"
+    }
+  }
+]

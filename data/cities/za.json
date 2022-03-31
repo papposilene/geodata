@@ -1,0 +1,3944 @@
+[
+  {
+    "osm_id": -1802556,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-611676,-349519,-87565",
+    "name": "Kagisano-Molopo Local Municipality",
+    "local_name": "Kagisano-Molopo Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "NW397",
+      "name": "Kagisano-Molopo Local Municipality",
+      "boundary": "administrative",
+      "way_area": "2.15054",
+      "wikidata": "Q3643416",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -611678,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-611674,-349519,-87565",
+    "name": "Kgetleng River Local Municipality",
+    "local_name": "Kgetleng River Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "NW374",
+      "name": "Kgetleng River Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.357384",
+      "wikidata": "Q2042724",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -611677,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-611674,-349519,-87565",
+    "name": "Moretele Local Municipality",
+    "local_name": "Moretele Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "NW371",
+      "name": "Moretele Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.12346",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -611673,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-611666,-349519,-87565",
+    "name": "Mahikeng Local Municipality",
+    "local_name": "Mahikeng Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "NW383",
+      "name": "Mahikeng Local Municipality",
+      "boundary": "administrative",
+      "old_name": "Mafikeng Local Municipality",
+      "way_area": "0.333016",
+      "wikidata": "Q2576308",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -611672,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-611674,-349519,-87565",
+    "name": "Rustenburg Local Municipality",
+    "local_name": "Rustenburg Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "NW373",
+      "name": "Rustenburg Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.307765",
+      "wikidata": "Q934141",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -611671,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-611675,-349519,-87565",
+    "name": "Maquassi Hills Local Municipality",
+    "local_name": "Maquassi Hills Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "NW404",
+      "name": "Maquassi Hills Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.423065",
+      "wikidata": "Q2576320",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -611669,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-611675,-349519,-87565",
+    "name": "Ventersdorp Local Municipality",
+    "local_name": "Ventersdorp Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "NW401",
+      "name": "Ventersdorp Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.340246",
+      "wikidata": "Q612412",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -611668,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-611666,-349519,-87565",
+    "name": "Ramotshere Moiloa Local Municipality",
+    "local_name": "Ramotshere Moiloa Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "NW385",
+      "name": "Ramotshere Moiloa Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.644536",
+      "wikidata": "Q2671202",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -611667,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-611675,-349519,-87565",
+    "name": "Matlosana Local Municipality",
+    "local_name": "Matlosana Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "NW403",
+      "name": "Matlosana Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.323307",
+      "wikidata": "Q2081805",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -611665,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-611666,-349519,-87565",
+    "name": "Ditsobotla Local Municipality",
+    "local_name": "Ditsobotla Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "NW384",
+      "name": "Ditsobotla Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.583386",
+      "wikidata": "Q2182810",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -611664,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-611666,-349519,-87565",
+    "name": "Ratlou Local Municipality",
+    "local_name": "Ratlou Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "NW381",
+      "name": "Ratlou Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.440437",
+      "wikidata": "Q2671219",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -611663,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-611676,-349519,-87565",
+    "name": "Naledi Local Municipality",
+    "local_name": "Naledi Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "NW392",
+      "name": "Naledi Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.63041",
+      "wikidata": "Q775608",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -611662,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-611666,-349519,-87565",
+    "name": "Tswaing Local Municipality",
+    "local_name": "Tswaing Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "NW382",
+      "name": "Tswaing Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.540713",
+      "wikidata": "Q2065087",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -611661,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-611676,-349519,-87565",
+    "name": "Lekwa-Teemane Local Municipality",
+    "local_name": "Lekwa-Teemane Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "NW396",
+      "name": "Lekwa-Teemane Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.336607",
+      "wikidata": "Q1816588",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -611660,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-611675,-349519,-87565",
+    "name": "Tlokwe Local Municipality",
+    "local_name": "Tlokwe Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "NW402",
+      "name": "Tlokwe Local Municipality",
+      "boundary": "administrative",
+      "old_name": "Potchefstroom Local Municipality",
+      "way_area": "0.242564",
+      "wikidata": "Q2576328",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -611659,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-611676,-349519,-87565",
+    "name": "Mamusa Local Municipality",
+    "local_name": "Mamusa Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "NW393",
+      "name": "Mamusa Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.329331",
+      "wikidata": "Q1888475",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -611658,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-611676,-349519,-87565",
+    "name": "Greater Taung Local Municipality",
+    "local_name": "Greater Taung Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "NW394",
+      "name": "Greater Taung Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.514695",
+      "wikidata": "Q1544453",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -611657,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-611674,-349519,-87565",
+    "name": "Moses Kotane Local Municipality",
+    "local_name": "Moses Kotane Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "NW375",
+      "name": "Moses Kotane Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.511947",
+      "wikidata": "Q2230868",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -611656,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-611674,-349519,-87565",
+    "name": "Madibeng Local Municipality",
+    "local_name": "Madibeng Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "NW372",
+      "name": "Madibeng Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.344529",
+      "wikidata": "Q2473039",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -611635,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-611627,-349556,-87565",
+    "name": "Thembisile Hani Local Municipality",
+    "local_name": "Thembisile Hani Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "MP315",
+      "name": "Thembisile Hani Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.214031",
+      "wikidata": "Q2226422",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -611634,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-611627,-349556,-87565",
+    "name": "Dr JS Moroka Local Municipality",
+    "local_name": "Dr JS Moroka Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "MP316",
+      "name": "Dr JS Moroka Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.126773",
+      "wikidata": "Q1254147",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -611633,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-611627,-349556,-87565",
+    "name": "Steve Tshwete",
+    "local_name": "Steve Tshwete",
+    "name_en": null,
+    "all_tags": {
+      "ref": "MP313",
+      "name": "Steve Tshwete",
+      "boundary": "administrative",
+      "way_area": "0.358025",
+      "wikidata": "Q2292410",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -611632,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-611622,-349556,-87565",
+    "name": "Albert Luthuli Local Municipality",
+    "local_name": "Albert Luthuli Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "MP301",
+      "name": "Albert Luthuli Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.501448",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -611631,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-611620,-349556,-87565",
+    "name": "Bushbuckridge",
+    "local_name": "Bushbuckridge",
+    "name_en": null,
+    "all_tags": {
+      "ref": "MP325",
+      "name": "Bushbuckridge",
+      "boundary": "administrative",
+      "way_area": "0.911831",
+      "wikidata": "Q670226",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -611630,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-611622,-349556,-87565",
+    "name": "Mkhondo Local Municipality",
+    "local_name": "Mkhondo",
+    "name_en": "Mkhondo Local Municipality",
+    "all_tags": {
+      "ref": "MP303",
+      "name": "Mkhondo",
+      "name:af": "Mkhondo Plaaslike Munisipaliteit",
+      "name:de": "Gemeinde Mkhondo",
+      "name:en": "Mkhondo Local Municipality",
+      "name:it": "Municipalità locale di Mkhondo",
+      "name:pl": "gmina Mkhondo",
+      "name:uk": "Мкхондо місцевий муніципалітет",
+      "boundary": "administrative",
+      "way_area": "0.443898",
+      "wikidata": "Q120788",
+      "wikipedia": "nso:Mkhondo Mmusogae",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -611629,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-611627,-349556,-87565",
+    "name": "Emalahleni Local Municipality",
+    "local_name": "Emalahleni Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "MP312",
+      "name": "Emalahleni Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.241444",
+      "wikidata": "Q2347801",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -611628,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-611622,-349556,-87565",
+    "name": "Dipaleseng Local Municipality",
+    "local_name": "Dipaleseng Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "MP306",
+      "name": "Dipaleseng Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.237472",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -611626,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-611627,-349556,-87565",
+    "name": "Emakhazeni Local Municipality",
+    "local_name": "Emakhazeni Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "MP314",
+      "name": "Emakhazeni Local Municipality",
+      "boundary": "administrative",
+      "old_name": "Highlands Local Municipality",
+      "way_area": "0.425523",
+      "wikidata": "Q2317194",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -611625,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-611620,-349556,-87565",
+    "name": "Nkomazi",
+    "local_name": "Nkomazi",
+    "name_en": null,
+    "all_tags": {
+      "ref": "MP324",
+      "name": "Nkomazi",
+      "boundary": "administrative",
+      "way_area": "0.429931",
+      "wikidata": "Q1922799",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -611624,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-611627,-349556,-87565",
+    "name": "Victor Khanye Local Municipality",
+    "local_name": "Victor Khanye Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "MP311",
+      "name": "Victor Khanye Local Municipality",
+      "boundary": "administrative",
+      "old_name": "Delmas Local Municipality",
+      "way_area": "0.141502",
+      "wikidata": "Q617500",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -611623,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-611620,-349556,-87565",
+    "name": "Thaba Chweu Local Municipality",
+    "local_name": "Thaba Chweu Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "MP321",
+      "name": "Thaba Chweu Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.511697",
+      "wikidata": "Q2655391",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -611621,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-611620,-349556,-87565",
+    "name": "Umjindi Local Municipality",
+    "local_name": "Umjindi Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "MP323",
+      "name": "Umjindi Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.15703",
+      "wikidata": "Q1894966",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -611619,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-611622,-349556,-87565",
+    "name": "Govan Mbeki",
+    "local_name": "Govan Mbeki",
+    "name_en": null,
+    "all_tags": {
+      "ref": "MP307",
+      "name": "Govan Mbeki",
+      "boundary": "administrative",
+      "way_area": "0.267434",
+      "wikidata": "Q1301527",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -611618,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-611622,-349556,-87565",
+    "name": "Pixley Ka Seme Local Municipality",
+    "local_name": "Pixley Ka Seme Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "MP304",
+      "name": "Pixley Ka Seme Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.475833",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -611617,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-611622,-349556,-87565",
+    "name": "Lekwa Local Municipality",
+    "local_name": "Lekwa Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "MP305",
+      "name": "Lekwa Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.41648",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -611616,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-611622,-349556,-87565",
+    "name": "Msukaligwa",
+    "local_name": "Msukaligwa",
+    "name_en": null,
+    "all_tags": {
+      "ref": "MP302",
+      "name": "Msukaligwa",
+      "boundary": "administrative",
+      "way_area": "0.544493",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -611615,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-611620,-349556,-87565",
+    "name": "Mbombela",
+    "local_name": "Mbombela",
+    "name_en": null,
+    "all_tags": {
+      "ref": "MP322",
+      "name": "Mbombela",
+      "boundary": "administrative",
+      "way_area": "0.483678",
+      "wikidata": "Q2286969",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -611578,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-611577,-349547,-87565",
+    "name": "Ephraim Mogale Local Municipality",
+    "local_name": "Ephraim Mogale Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "LIM471",
+      "name": "Ephraim Mogale Local Municipality",
+      "boundary": "administrative",
+      "old_name": "Greater Marble Hall Local Municipality",
+      "way_area": "0.179722",
+      "wikidata": "Q2634207",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -611576,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-611577,-349547,-87565",
+    "name": "Elias Motsoaledi Local Municipality",
+    "local_name": "Elias Motsoaledi Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "LIM472",
+      "name": "Elias Motsoaledi Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.332586",
+      "wikidata": "Q962633",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -611575,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-611577,-349547,-87565",
+    "name": "Makhuduthamaga Local Municipality",
+    "local_name": "Makhuduthamaga Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "LIM473",
+      "name": "Makhuduthamaga Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.187078",
+      "wikidata": "Q2486320",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -611574,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-611577,-349547,-87565",
+    "name": "Fetakgomo Local Municipality",
+    "local_name": "Fetakgomo Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "LIM474",
+      "name": "Fetakgomo Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.0983135",
+      "wikidata": "Q267665",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -611573,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-611577,-349547,-87565",
+    "name": "Greater Tubatse Local Municipality",
+    "local_name": "Greater Tubatse Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "LIM475",
+      "name": "Greater Tubatse Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.410388",
+      "wikidata": "Q2671208",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -611545,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-611544,-349547,-87565",
+    "name": "Mookgopong Local Municipality",
+    "local_name": "Mookgopong Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "LIM364",
+      "name": "Mookgopong Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.506933",
+      "wikidata": "Q575104",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -611543,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-611544,-349547,-87565",
+    "name": "Mogalakwena Local Municipality",
+    "local_name": "Mogalakwena Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "LIM367",
+      "name": "Mogalakwena Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.546498",
+      "wikidata": "Q1942488",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -611542,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-611544,-349547,-87565",
+    "name": "Modimolle Local Municipality",
+    "local_name": "Modimolle Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "LIM365",
+      "name": "Modimolle Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.41652",
+      "wikidata": "Q1509947",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -611541,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-611544,-349547,-87565",
+    "name": "Bela Bela Local Municipality",
+    "local_name": "Bela Bela Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "LIM366",
+      "name": "Bela Bela Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.304505",
+      "wikidata": "Q815084",
+      "wikipedia": "en:Bela-Bela Local Municipality",
+      "admin_level": "8",
+      "wikimedia_commons": "Category:Bela-Bela_Local_Municipality"
+    }
+  },
+  {
+    "osm_id": -611540,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-611544,-349547,-87565",
+    "name": "Lephalale Local Municipality",
+    "local_name": "Lephalale Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "LIM362",
+      "name": "Lephalale Local Municipality",
+      "boundary": "administrative",
+      "way_area": "1.22008",
+      "wikidata": "Q1815498",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -611539,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-611544,-349547,-87565",
+    "name": "Thabazimbi Local Municipality",
+    "local_name": "Thabazimbi Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "LIM361",
+      "name": "Thabazimbi Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.996903",
+      "wikidata": "Q1308343",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -611508,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-611509,-349547,-87565",
+    "name": "Lepelle-Nkumpi Local Municipality",
+    "local_name": "Lepelle-Nkumpi Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "LIM355",
+      "name": "Lepelle-Nkumpi Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.307947",
+      "wikidata": "Q1820064",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -611507,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-611509,-349547,-87565",
+    "name": "Blouberg Local Municipality",
+    "local_name": "Blouberg Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "LIM351",
+      "name": "Blouberg Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.81426",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -611506,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-611509,-349547,-87565",
+    "name": "Molemole Local Municipality",
+    "local_name": "Molemole Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "LIM353",
+      "name": "Molemole Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.2959",
+      "wikidata": "Q1943437",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -611505,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-611509,-349547,-87565",
+    "name": "Polokwane Local Municipality",
+    "local_name": "Polokwane Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "LIM354",
+      "name": "Polokwane Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.334035",
+      "wikidata": "Q1660415",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -611440,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-611438,-349547,-87565",
+    "name": "Makhado Local Municipality",
+    "local_name": "Makhado Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "LIM344",
+      "name": "Makhado Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.731084",
+      "wikidata": "Q1537865",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -611439,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-611438,-349547,-87565",
+    "name": "Musina Local Municipality",
+    "local_name": "Musina Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "LIM341",
+      "name": "Musina Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.664502",
+      "wikidata": "Q739997",
+      "population": "42678",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -611437,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-611438,-349547,-87565",
+    "name": "Thulamela Local Municipality",
+    "local_name": "Thulamela Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "LIM343",
+      "name": "Thulamela Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.513464",
+      "wikidata": "Q2006792",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -611436,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-611438,-349547,-87565",
+    "name": "Mutale Local Municipality",
+    "local_name": "Mutale Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "LIM342",
+      "name": "Mutale Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.341102",
+      "wikidata": "Q737965",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -611428,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-611425,-349547,-87565",
+    "name": "Ba-Phalaborwa Local Municipality",
+    "local_name": "Ba-Phalaborwa Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "LIM334",
+      "name": "Ba-Phalaborwa Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.661435",
+      "wikidata": "Q797426",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -611427,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-611425,-349547,-87565",
+    "name": "Maruleng Local Municipality",
+    "local_name": "Maruleng Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "LIM335",
+      "name": "Maruleng Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.28857",
+      "wikidata": "Q582629",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -611426,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-611425,-349547,-87565",
+    "name": "Greater Giyani Local Municipality",
+    "local_name": "Greater Giyani Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "LIM331",
+      "name": "Greater Giyani Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.3684",
+      "wikidata": "Q1544427",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -611424,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-611425,-349547,-87565",
+    "name": "Greater Tzaneen Local Municipality",
+    "local_name": "Greater Tzaneen Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "LIM333",
+      "name": "Greater Tzaneen Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.287425",
+      "wikidata": "Q1544454",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -611423,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-611425,-349547,-87565",
+    "name": "Greater Letaba Local Municipality",
+    "local_name": "Greater Letaba Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "LIM332",
+      "name": "Greater Letaba Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.16717",
+      "wikidata": "Q1544434",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -611320,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-611315,-349390,-87565",
+    "name": "Ubuhlebezwe Local Municipality",
+    "local_name": "Ubuhlebezwe Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "KZN434",
+      "name": "Ubuhlebezwe Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.150251",
+      "wikidata": "Q786096",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -611319,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-611315,-349390,-87565",
+    "name": "Umzimkhulu Local Municipality",
+    "local_name": "Umzimkhulu Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "KZN435",
+      "name": "Umzimkhulu Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.228366",
+      "wikidata": "Q2096545",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -611318,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-611315,-349390,-87565",
+    "name": "Kwa Sani Local Municipality",
+    "local_name": "Kwa Sani Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "KZN432",
+      "name": "Kwa Sani Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.172741",
+      "wikidata": "Q1794872",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -611317,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-611315,-349390,-87565",
+    "name": "Ingwe Local Municipality",
+    "local_name": "Ingwe Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "KZN431",
+      "name": "Ingwe Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.184565",
+      "wikidata": "Q1663481",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -611316,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-611315,-349390,-87565",
+    "name": "Greater Kokstad Local Municipality",
+    "local_name": "Greater Kokstad Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "KZN433",
+      "name": "Greater Kokstad Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.251184",
+      "wikidata": "Q928276",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -611251,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-611247,-349390,-87565",
+    "name": "Mandeni Local Municipality",
+    "local_name": "Mandeni Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "KZN291",
+      "name": "Mandeni Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.0504931",
+      "wikidata": "Q1889000",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -611250,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-611247,-349390,-87565",
+    "name": "Ndwedwe Local Municipality",
+    "local_name": "Ndwedwe Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "KZN293",
+      "name": "Ndwedwe Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.10161",
+      "wikidata": "Q1717872",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -611249,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-611247,-349390,-87565",
+    "name": "KwaDukuza Local Municipality",
+    "local_name": "KwaDukuza Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "KZN292",
+      "name": "KwaDukuza Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.0682932",
+      "wikidata": "Q1759943",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -611248,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-611247,-349390,-87565",
+    "name": "Maphumulo Local Municipality",
+    "local_name": "Maphumulo Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "KZN294",
+      "name": "Maphumulo Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.0830206",
+      "wikidata": "Q1892065",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -611183,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-611181,-349390,-87565",
+    "name": "uMhlathuze Local Municipality",
+    "local_name": "uMhlathuze Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "KZN282",
+      "name": "uMhlathuze Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.073513",
+      "wikidata": "Q311800",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -611182,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-611181,-349390,-87565",
+    "name": "Ntambanana Local Municipality",
+    "local_name": "Ntambanana Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "KZN283",
+      "name": "Ntambanana Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.0998517",
+      "wikidata": "Q509059",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -611180,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-611181,-349390,-87565",
+    "name": "uMlalazi Local Municipality",
+    "local_name": "uMlalazi Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "KZN284",
+      "name": "uMlalazi Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.204878",
+      "wikidata": "Q311805",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -611179,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-611181,-349390,-87565",
+    "name": "Nkandla Local Municipality",
+    "local_name": "Nkandla Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "KZN286",
+      "name": "Nkandla Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.16869",
+      "wikidata": "Q3644604",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -611178,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-611181,-349390,-87565",
+    "name": "Mthonjaneni Local Municipality",
+    "local_name": "Mthonjaneni Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "KZN285",
+      "name": "Mthonjaneni Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.100164",
+      "wikidata": "Q1951578",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -611177,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-611181,-349390,-87565",
+    "name": "uMfolozi Local Municipality",
+    "local_name": "uMfolozi Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "KZN281",
+      "name": "uMfolozi Local Municipality",
+      "boundary": "administrative",
+      "old_name": "Mbonambi Local Municipality",
+      "way_area": "0.111488",
+      "wikidata": "Q1681141",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -611110,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-611105,-349390,-87565",
+    "name": "uPhongolo Local Municipality",
+    "local_name": "uPhongolo Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "KZN262",
+      "name": "uPhongolo Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.295774",
+      "wikidata": "Q177535",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -611109,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-611105,-349390,-87565",
+    "name": "Nongoma Local Municipality",
+    "local_name": "Nongoma Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "KZN265",
+      "name": "Nongoma Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.200028",
+      "wikidata": "Q925168",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -611108,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-611105,-349390,-87565",
+    "name": "Abaqulusi Local Municipality",
+    "local_name": "Abaqulusi Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "KZN263",
+      "name": "Abaqulusi Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.383322",
+      "wikidata": "Q304168",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -611107,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-611105,-349390,-87565",
+    "name": "Ulundi Local Municipality",
+    "local_name": "Ulundi Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "KZN266",
+      "name": "Ulundi Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.298835",
+      "wikidata": "Q1856473",
+      "population": "29132",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -611106,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-611105,-349390,-87565",
+    "name": "eDumbe Local Municipality",
+    "local_name": "eDumbe Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "KZN261",
+      "name": "eDumbe Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.177381",
+      "wikidata": "Q311812",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -611072,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-611069,-349390,-87565",
+    "name": "Newcastle Local Municipality",
+    "local_name": "Newcastle Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "KZN252",
+      "name": "Newcastle Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.169804",
+      "wikidata": "Q1983450",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -611071,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-611069,-349390,-87565",
+    "name": "eMadlangeni Local Municipality",
+    "local_name": "eMadlangeni Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "KZN253",
+      "name": "eMadlangeni Local Municipality",
+      "boundary": "administrative",
+      "old_name": "Utrecht Local Municipality",
+      "way_area": "0.323581",
+      "wikidata": "Q310008",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -611070,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-611069,-349390,-87565",
+    "name": "Dannhauser Local Municipality",
+    "local_name": "Dannhauser Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "KZN254",
+      "name": "Dannhauser Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.139075",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -611027,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-611026,-349390,-87565",
+    "name": "Umvoti Local Municipality",
+    "local_name": "Umvoti Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "KZN245",
+      "name": "Umvoti Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.232973",
+      "wikidata": "Q254505",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -611025,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-611026,-349390,-87565",
+    "name": "Endumeni Local Municipality",
+    "local_name": "Endumeni Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "KZN241",
+      "name": "Endumeni Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.147955",
+      "wikidata": "Q1341026",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -611024,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-611026,-349390,-87565",
+    "name": "Msinga Local Municipality",
+    "local_name": "Msinga Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "KZN244",
+      "name": "Msinga Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.230785",
+      "wikidata": "Q278422",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -611023,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-611026,-349390,-87565",
+    "name": "Nquthu Local Municipality",
+    "local_name": "Nquthu Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "KZN242",
+      "name": "Nquthu Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.180509",
+      "wikidata": "Q2003963",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -611003,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-611001,-349390,-87565",
+    "name": "Umtshezi Local Municipality",
+    "local_name": "Umtshezi Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "KZN234",
+      "name": "Umtshezi Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.182466",
+      "wikidata": "Q1681863",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -611002,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-611001,-349390,-87565",
+    "name": "Okhahlamba Local Municipality",
+    "local_name": "Okhahlamba Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "KZN235",
+      "name": "Okhahlamba Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.366843",
+      "wikidata": "Q775825",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -611000,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-611001,-349390,-87565",
+    "name": "Imbabazane Local Municipality",
+    "local_name": "Imbabazane Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "KZN236",
+      "name": "Imbabazane Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.132212",
+      "wikidata": "Q1659754",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -610999,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-611001,-349390,-87565",
+    "name": "Indaka Local Municipality",
+    "local_name": "Indaka Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "KZN233",
+      "name": "Indaka Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.0914328",
+      "wikidata": "Q1661010",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -610998,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-611001,-349390,-87565",
+    "name": "Emnambithi/Ladysmith Local Municipality",
+    "local_name": "Emnambithi/Ladysmith Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "KZN232",
+      "name": "Emnambithi/Ladysmith Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.273034",
+      "wikidata": "Q685192",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -610736,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-610729,-349390,-87565",
+    "name": "Msunduzi Local Municipality",
+    "local_name": "Msunduzi Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "KZN225",
+      "name": "Msunduzi Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.0590754",
+      "wikidata": "Q1815510",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -610735,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-610729,-349390,-87565",
+    "name": "Impendle Local Municipality",
+    "local_name": "Impendle Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "KZN224",
+      "name": "Impendle Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.142241",
+      "wikidata": "Q1660258",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -610734,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-610729,-349390,-87565",
+    "name": "uMgeni Local Municipality",
+    "local_name": "uMgeni Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "KZN222",
+      "name": "uMgeni Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.145668",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -610733,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-610729,-349390,-87565",
+    "name": "uMshwathi Local Municipality",
+    "local_name": "uMshwathi Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "KZN221",
+      "name": "uMshwathi Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.168944",
+      "wikidata": "Q311795",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -610732,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-610729,-349390,-87565",
+    "name": "Mkhambathini Local Municipality",
+    "local_name": "Mkhambathini Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "KZN226",
+      "name": "Mkhambathini Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.0831742",
+      "wikidata": "Q1941155",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -610731,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-610729,-349390,-87565",
+    "name": "Mpofana Local Municipality",
+    "local_name": "Mpofana Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "KZN223",
+      "name": "Mpofana Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.168795",
+      "wikidata": "Q1298937",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -610730,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-610729,-349390,-87565",
+    "name": "Richmond Local Municipality",
+    "local_name": "Richmond Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "KZN227",
+      "name": "Richmond Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.117269",
+      "wikidata": "Q1983195",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -610728,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-610723,-349390,-87565",
+    "name": "uMuziwabantu Local Municipality",
+    "local_name": "uMuziwabantu Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "KZN215",
+      "name": "uMuziwabantu Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.102513",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -610727,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-610723,-349390,-87565",
+    "name": "Vulamehlo Local Municipality",
+    "local_name": "Vulamehlo Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "KZN211",
+      "name": "Vulamehlo Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.0899344",
+      "wikidata": "Q2006810",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -610726,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-610723,-349390,-87565",
+    "name": "Hibiscus Coast Local Municipality",
+    "local_name": "Hibiscus Coast Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "KZN216",
+      "name": "Hibiscus Coast Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.0790633",
+      "wikidata": "Q1617222",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -610725,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-610723,-349390,-87565",
+    "name": "Umzumbe Local Municipality",
+    "local_name": "Umzumbe Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "KZN213",
+      "name": "Umzumbe Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.118269",
+      "wikidata": "Q1023251",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -610724,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-610723,-349390,-87565",
+    "name": "Ezinqoleni Local Municipality",
+    "local_name": "Ezinqoleni Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "KZN215",
+      "name": "Ezinqoleni Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.0610457",
+      "wikidata": "Q1386037",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -610722,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-610723,-349390,-87565",
+    "name": "uMdoni Local Municipality",
+    "local_name": "uMdoni Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "KZN212",
+      "name": "uMdoni Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.023579",
+      "wikidata": "Q311662",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -610713,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-610712,-349390,-87565",
+    "name": "The Big Five False Bay Local Municipality",
+    "local_name": "The Big Five False Bay Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "KZN273",
+      "name": "The Big Five False Bay Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.194346",
+      "wikidata": "Q138717",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -610711,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-610712,-349390,-87565",
+    "name": "Mtubatuba Local Municipality",
+    "local_name": "Mtubatuba Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "KZN275",
+      "name": "Mtubatuba Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.159951",
+      "wikidata": "Q10975369",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -610710,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-610712,-349390,-87565",
+    "name": "Jozini Local Municipality",
+    "local_name": "Jozini Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "KZN272",
+      "name": "Jozini Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.313994",
+      "wikidata": "Q241617",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -610709,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-610712,-349390,-87565",
+    "name": "Hlabisa Local Municipality",
+    "local_name": "Hlabisa Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "KZN274",
+      "name": "Hlabisa Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.142843",
+      "wikidata": "Q638488",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -610708,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-610712,-349390,-87565",
+    "name": "uMhlabuyalingana Local Municipality",
+    "local_name": "uMhlabuyalingana Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "KZN271",
+      "name": "uMhlabuyalingana Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.361226",
+      "wikidata": "Q2067619",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -599257,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-594496,-349344,-87565",
+    "name": "Emfuleni Local Municipality",
+    "local_name": "Emfuleni Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "GT421",
+      "name": "Emfuleni Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.0875451",
+      "wikidata": "Q1335678",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -599253,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-594516,-349344,-87565",
+    "name": "Westonaria Local Municipality",
+    "local_name": "Westonaria Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "GT483",
+      "name": "Westonaria Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.057875",
+      "wikidata": "Q2026410",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -599242,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-594516,-349344,-87565",
+    "name": "Merafong City Local Municipality",
+    "local_name": "Merafong City Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "GT484",
+      "name": "Merafong City Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.14752",
+      "wikidata": "Q1921092",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -599235,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-594516,-349344,-87565",
+    "name": "Randfontein Local Municipality",
+    "local_name": "Randfontein Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "GT482",
+      "name": "Randfontein Local Municipality",
+      "surface": "asphalt",
+      "boundary": "administrative",
+      "way_area": "0.0428815",
+      "wikidata": "Q2086957",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -599232,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-594496,-349344,-87565",
+    "name": "Midvaal Local Municipality",
+    "local_name": "Midvaal Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "GT422",
+      "name": "Midvaal Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.156112",
+      "wikidata": "Q1531415",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -599228,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-594516,-349344,-87565",
+    "name": "Mogale City Local Municipality",
+    "local_name": "Mogale City Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "GT481",
+      "name": "Mogale City Local Municipality",
+      "surface": "asphalt",
+      "boundary": "administrative",
+      "way_area": "0.120992",
+      "wikidata": "Q127787",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -599214,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-594496,-349344,-87565",
+    "name": "Lesedi Local Municipality",
+    "local_name": "Lesedi Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "GT423",
+      "name": "Lesedi Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.134348",
+      "wikidata": "Q1820684",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -593837,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-593795,-92417,-87565",
+    "name": "Maluti-a-Phofung Local Municipality",
+    "local_name": "Maluti-a-Phofung Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "FS194",
+      "name": "Maluti-a-Phofung Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.399168",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -593836,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-593793,-92417,-87565",
+    "name": "Moqhaka Local Municipality",
+    "local_name": "Moqhaka Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "FS201",
+      "name": "Moqhaka Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.723757",
+      "wikidata": "Q1947071",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -593835,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-593796,-92417,-87565",
+    "name": "Tokologo Local Municipality",
+    "local_name": "Tokologo Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "FS182",
+      "name": "Tokologo Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.85928",
+      "wikidata": "Q1594423",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -593833,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-593796,-92417,-87565",
+    "name": "Tswelopele Local Municipality",
+    "local_name": "Tswelopele Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "FS183",
+      "name": "Tswelopele Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.598883",
+      "wikidata": "Q1526250",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -593832,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-593795,-92417,-87565",
+    "name": "Dihlabeng Local Municipality",
+    "local_name": "Dihlabeng Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "FS192",
+      "name": "Dihlabeng Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.449145",
+      "wikidata": "Q1225159",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -593831,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-593795,-92417,-87565",
+    "name": "Nketoana Local Municipality",
+    "local_name": "Nketoana Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "FS193",
+      "name": "Nketoana Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.514065",
+      "wikidata": "Q685302",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -593830,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-593795,-92417,-87565",
+    "name": "Setsoto Local Municipality",
+    "local_name": "Setsoto Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "FS191",
+      "name": "Setsoto Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.550259",
+      "wikidata": "Q2067601",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -593829,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-593796,-92417,-87565",
+    "name": "Masilonyana Local Municipality",
+    "local_name": "Masilonyana Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "FS181",
+      "name": "Masilonyana Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.62713",
+      "wikidata": "Q1907111",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -593828,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-593793,-92417,-87565",
+    "name": "Ngwathe Local Municipality",
+    "local_name": "Ngwathe Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "FS203",
+      "name": "Ngwathe Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.643162",
+      "wikidata": "Q1316771",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -593827,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-593793,-92417,-87565",
+    "name": "Mafube Local Municipality",
+    "local_name": "Mafube Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "FS205",
+      "name": "Mafube Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.361954",
+      "wikidata": "Q922256",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -593826,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-593796,-92417,-87565",
+    "name": "Nala Local Municipality",
+    "local_name": "Nala Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "FS185",
+      "name": "Nala Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.377483",
+      "wikidata": "Q1964073",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -593825,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-593793,-92417,-87565",
+    "name": "Metsimaholo Local Municipality",
+    "local_name": "Metsimaholo Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "FS204",
+      "name": "Metsimaholo Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.156036",
+      "wikidata": "Q1925949",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -593824,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-593795,-92417,-87565",
+    "name": "Phumelela Local Municipality",
+    "local_name": "Phumelela Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "FS195",
+      "name": "Phumelela Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.748538",
+      "wikidata": "Q253979",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -593823,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-593796,-92417,-87565",
+    "name": "Matjhabeng Local Municipality",
+    "local_name": "Matjhabeng Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "FS184",
+      "name": "Matjhabeng Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.472994",
+      "wikidata": "Q1873451",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -593814,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-593797,-92417,-87565",
+    "name": "Naledi Local Municipality",
+    "local_name": "Naledi Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "FS164",
+      "name": "Naledi Local Municipality",
+      "old_ref": "FS171",
+      "boundary": "administrative",
+      "way_area": "0.319122",
+      "wikidata": "Q427568",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -593813,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-593795,-92417,-87565",
+    "name": "Mantsopa Local Municipality",
+    "local_name": "Mantsopa Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "FS196",
+      "name": "Mantsopa Local Municipality",
+      "old_ref": "FS173",
+      "boundary": "administrative",
+      "way_area": "0.397745",
+      "wikidata": "Q600842",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -593807,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-593797,-92417,-87565",
+    "name": "Mohokare Local Municipality",
+    "local_name": "Mohokare Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "FS163",
+      "name": "Mohokare Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.82221",
+      "wikidata": "Q671160",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -593806,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-593797,-92417,-87565",
+    "name": "Letsemeng Local Municipality",
+    "local_name": "Letsemeng Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "FS161",
+      "name": "Letsemeng Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.913205",
+      "wikidata": "Q1821165",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -593805,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-593797,-92417,-87565",
+    "name": "Kopanong Local Municipality",
+    "local_name": "Kopanong Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "FS162",
+      "name": "Kopanong Local Municipality",
+      "boundary": "administrative",
+      "way_area": "1.46243",
+      "wikidata": "Q1514156",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -114783,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-611509,-349547,-87565",
+    "name": "Aganang Local Municipality",
+    "local_name": "Aganang Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "LIM352",
+      "name": "Aganang Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.166442",
+      "wikidata": "Q390436",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -88565,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-88563,-88574,-87565",
+    "name": "Umzimvubu Local Municipality",
+    "local_name": "Umzimvubu Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "EC442",
+      "name": "Umzimvubu Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.242844",
+      "wikidata": "Q615965",
+      "land_area": "administrative",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -88564,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-88563,-88574,-87565",
+    "name": "Matatiele Local Municipality",
+    "local_name": "Matatiele Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "EC441",
+      "name": "Matatiele Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.40833",
+      "wikidata": "Q1693384",
+      "land_area": "administrative",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -88542,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-88549,-88574,-87565",
+    "name": "King Sabata Dalindyebo Local Municipality",
+    "local_name": "King Sabata Dalindyebo Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "EC157",
+      "name": "King Sabata Dalindyebo Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.288242",
+      "wikidata": "Q2783921",
+      "land_area": "administrative",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -88541,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-88549,-88574,-87565",
+    "name": "Mhlontlo Local Municipality",
+    "local_name": "Mhlontlo Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "EC156",
+      "name": "Mhlontlo Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.267471",
+      "wikidata": "Q1926544",
+      "land_area": "administrative",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -88540,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-88549,-88574,-87565",
+    "name": "Nyandeni Local Municipality",
+    "local_name": "Nyandeni Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "EC155",
+      "name": "Nyandeni Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.235329",
+      "wikidata": "Q596849",
+      "land_area": "administrative",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -88527,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-88549,-88574,-87565",
+    "name": "Port St Johns Local Municipality",
+    "local_name": "Port St Johns Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "EC154",
+      "name": "Port St Johns Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.122436",
+      "wikidata": "Q14833732",
+      "land_area": "administrative",
+      "wikipedia": "en:Port St. Johns Local Municipality",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -88491,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-88549,-88574,-87565",
+    "name": "Ingquza Hill Local Municipality",
+    "local_name": "Ingquza Hill Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "EC153",
+      "name": "Ingquza Hill Local Municipality",
+      "boundary": "administrative",
+      "old_name": "Qaukeni Local Municipality",
+      "way_area": "0.232818",
+      "land_area": "administrative",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -88490,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-88563,-88574,-87565",
+    "name": "Ntabankulu Local Municipality",
+    "local_name": "Ntabankulu Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "EC152",
+      "name": "Ntabankulu Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.13077",
+      "land_area": "administrative",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -88487,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-88563,-88574,-87565",
+    "name": "Mbizana Local Municipality",
+    "local_name": "Mbizana Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "EC151",
+      "name": "Mbizana Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.227875",
+      "land_area": "administrative",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -88484,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-88480,-88574,-87565",
+    "name": "Gariep Local Municipality",
+    "local_name": "Gariep Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "EC144",
+      "name": "Gariep Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.841439",
+      "wikidata": "Q673459",
+      "land_area": "administrative",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -88483,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-88480,-88574,-87565",
+    "name": "Maletswai Local Municipality",
+    "local_name": "Maletswai Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "EC143",
+      "name": "Maletswai Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.411576",
+      "land_area": "administrative",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -88482,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-88480,-88574,-87565",
+    "name": "Senqu Local Municipality",
+    "local_name": "Senqu Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "EC142",
+      "name": "Senqu Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.691061",
+      "wikidata": "Q2006821",
+      "land_area": "administrative",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -88481,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-88480,-88574,-87565",
+    "name": "Elundini Local Municipality",
+    "local_name": "Elundini Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "EC141",
+      "name": "Elundini Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.477936",
+      "wikidata": "Q670966",
+      "land_area": "administrative",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -88476,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-88468,-88574,-87565",
+    "name": "Sakhisizwe Local Municipality",
+    "local_name": "Sakhisizwe Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "EC138",
+      "name": "Sakhisizwe Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.223413",
+      "wikidata": "Q430520",
+      "land_area": "administrative",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -88475,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-88468,-88574,-87565",
+    "name": "Engcobo Local Municipality",
+    "local_name": "Engcobo Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "EC137",
+      "name": "Engcobo Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.236254",
+      "wikidata": "Q762131",
+      "land_area": "administrative",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -88474,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-88468,-88574,-87565",
+    "name": "Emalahleni Local Municipality",
+    "local_name": "Emalahleni Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "EC136",
+      "name": "Emalahleni Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.327589",
+      "wikidata": "Q767727",
+      "land_area": "administrative",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -88473,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-88468,-88574,-87565",
+    "name": "Intsika Yethu Local Municipality",
+    "local_name": "Intsika Yethu Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "EC135",
+      "name": "Intsika Yethu Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.258591",
+      "wikidata": "Q1671635",
+      "land_area": "administrative",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -88472,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-88468,-88574,-87565",
+    "name": "Lukhanji Local Municipality",
+    "local_name": "Lukhanji Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "EC134",
+      "name": "Lukhanji Local Municipality",
+      "alt_name": "Lukanji Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.364247",
+      "wikidata": "Q123716",
+      "land_area": "administrative",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -88471,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-88468,-88574,-87565",
+    "name": "Inkwanca Local Municipality",
+    "local_name": "Inkwanca Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "EC133",
+      "name": "Inkwanca Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.340272",
+      "wikidata": "Q205363",
+      "land_area": "administrative",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -88470,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-88468,-88574,-87565",
+    "name": "Tsolwana Local Municipality",
+    "local_name": "Tsolwana Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "EC132",
+      "name": "Tsolwana Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.579989",
+      "wikidata": "Q1670648",
+      "land_area": "administrative",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -88469,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-88468,-88574,-87565",
+    "name": "Inxuba Yethemba Local Municipality",
+    "local_name": "Inxuba Yethemba Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "EC131",
+      "name": "Inxuba Yethemba Local Municipality",
+      "boundary": "administrative",
+      "way_area": "1.11145",
+      "wikidata": "Q1671847",
+      "land_area": "administrative",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -88257,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-88267,-88574,-87565",
+    "name": "Nxuba Local Municipality",
+    "local_name": "Nxuba Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "EC128",
+      "name": "Nxuba Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.262351",
+      "wikidata": "Q727225",
+      "land_area": "administrative",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -88251,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-88267,-88574,-87565",
+    "name": "Nkonkobe Local Municipality",
+    "local_name": "Nkonkobe Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "EC127",
+      "name": "Nkonkobe Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.348986",
+      "wikidata": "Q1994391",
+      "land_area": "administrative",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -88220,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-88267,-88574,-87565",
+    "name": "Ngqushwa Local Municipality",
+    "local_name": "Ngqushwa Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "EC126",
+      "name": "Ngqushwa Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.21652",
+      "wikidata": "Q1984351",
+      "land_area": "administrative",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -88187,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-88267,-88574,-87565",
+    "name": "Amahlathi Local Municipality",
+    "local_name": "Amahlathi Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "EC124",
+      "name": "Amahlathi Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.462472",
+      "wikidata": "Q452531",
+      "land_area": "administrative",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -88184,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-88267,-88574,-87565",
+    "name": "Great Kei Local Municipality",
+    "local_name": "Great Kei Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "EC123",
+      "name": "Great Kei Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.166808",
+      "wikidata": "Q1517371",
+      "land_area": "administrative",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -88177,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-88267,-88574,-87565",
+    "name": "Mnquma Local Municipality",
+    "local_name": "Mnquma Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "EC122",
+      "name": "Mnquma Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.313255",
+      "wikidata": "Q1941297",
+      "land_area": "administrative",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -88173,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-88267,-88574,-87565",
+    "name": "Mbhashe Local Municipality",
+    "local_name": "Mbhashe Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "EC121",
+      "name": "Mbhashe Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.302911",
+      "wikidata": "Q1642573",
+      "land_area": "administrative",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -88163,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-88144,-88574,-87565",
+    "name": "Baviaans Local Municipality",
+    "local_name": "Baviaans Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "EC107",
+      "name": "Baviaans Local Municipality",
+      "boundary": "administrative",
+      "way_area": "1.12934",
+      "wikidata": "Q812021",
+      "land_area": "administrative",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -88162,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-88144,-88574,-87565",
+    "name": "Makana Local Municipality",
+    "local_name": "Makana Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "EC104",
+      "name": "Makana Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.42329",
+      "wikidata": "Q1886243",
+      "land_area": "administrative",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -88161,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-88144,-88574,-87565",
+    "name": "Ikwezi Local Municipality",
+    "local_name": "Ikwezi Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "EC103",
+      "name": "Ikwezi Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.440255",
+      "wikidata": "Q1419305",
+      "land_area": "administrative",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -88160,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-88144,-88574,-87565",
+    "name": "Blue Crane Route Local Municipality",
+    "local_name": "Blue Crane Route Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "EC102",
+      "name": "Blue Crane Route Local Municipality",
+      "boundary": "administrative",
+      "way_area": "1.06533",
+      "wikidata": "Q885667",
+      "land_area": "administrative",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -88159,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-88144,-88574,-87565",
+    "name": "Camdeboo Local Municipality",
+    "local_name": "Camdeboo Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "EC101",
+      "name": "Camdeboo Local Municipality",
+      "boundary": "administrative",
+      "way_area": "1.19035",
+      "wikidata": "Q1028399",
+      "land_area": "administrative",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -88135,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-88144,-88574,-87565",
+    "name": "Ndlambe Local Municipality",
+    "local_name": "Ndlambe Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "EC105",
+      "name": "Ndlambe Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.178503",
+      "wikidata": "Q1972906",
+      "land_area": "administrative",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -88121,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-88144,-88574,-87565",
+    "name": "Sundays River Valley Local Municipality",
+    "local_name": "Sundays River Valley Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "EC106",
+      "name": "Sundays River Valley Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.581606",
+      "wikidata": "Q2162456",
+      "land_area": "administrative",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -88116,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-88144,-88574,-87565",
+    "name": "Kouga Local Municipality",
+    "local_name": "Kouga Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "EC108",
+      "name": "Kouga Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.26001",
+      "wikidata": "Q1785553",
+      "land_area": "administrative",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -88107,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-88144,-88574,-87565",
+    "name": "Kou-Kamma Local Municipality",
+    "local_name": "Kou-Kamma Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "EC109",
+      "name": "Kou-Kamma Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.350636",
+      "wikidata": "Q303647",
+      "land_area": "administrative",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -86704,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-86701,-86720,-87565",
+    "name": "Gamagara Local Municipality",
+    "local_name": "Gamagara Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "NC453",
+      "name": "Gamagara Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.23953",
+      "wikidata": "Q1492854",
+      "land_area": "administrative",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -86703,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-86701,-86720,-87565",
+    "name": "Ga-Segonyana Local Municipality",
+    "local_name": "Ga-Segonyana Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "NC452",
+      "name": "Ga-Segonyana Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.410666",
+      "wikidata": "Q1487822",
+      "land_area": "administrative",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -86702,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-86701,-86720,-87565",
+    "name": "Joe Morolong Local Municipality",
+    "local_name": "Joe Morolong Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "NC451",
+      "name": "Joe Morolong Local Municipality",
+      "boundary": "administrative",
+      "old_name": "Moshaweng Local Municipality",
+      "way_area": "1.83169",
+      "wikidata": "Q859983",
+      "land_area": "administrative",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -86698,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-86694,-86720,-87565",
+    "name": "Phokwane Local Municipality",
+    "local_name": "Phokwane Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "NC094",
+      "name": "Phokwane Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.076359",
+      "wikidata": "Q2006800",
+      "land_area": "administrative",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -86697,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-86694,-86720,-87565",
+    "name": "Magareng Local Municipality",
+    "local_name": "Magareng Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "NC093",
+      "name": "Magareng Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.141651",
+      "wikidata": "Q1883735",
+      "land_area": "administrative",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -86696,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-86694,-86720,-87565",
+    "name": "Dikgatlong Local Municipality",
+    "local_name": "Dikgatlong Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "NC092",
+      "name": "Dikgatlong Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.672246",
+      "wikidata": "Q1225310",
+      "land_area": "administrative",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -86695,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-86694,-86720,-87565",
+    "name": "Sol Plaatje Local Municipality",
+    "local_name": "Sol Plaatje Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "NC091",
+      "name": "Sol Plaatje Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.290572",
+      "wikidata": "Q965471",
+      "land_area": "administrative",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -82053,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-82046,-86720,-87565",
+    "name": "Kgatelopele Local Municipality",
+    "local_name": "Kgatelopele Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "NC086",
+      "name": "Kgatelopele Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.227777",
+      "wikidata": "Q257196",
+      "land_area": "administrative",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -82052,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-82046,-86720,-87565",
+    "name": "Tsantsabane Local Municipality",
+    "local_name": "Tsantsabane Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "NC085",
+      "name": "Tsantsabane Local Municipality",
+      "boundary": "administrative",
+      "way_area": "1.68246",
+      "wikidata": "Q692264",
+      "land_area": "administrative",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -82051,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-82046,-86720,-87565",
+    "name": "!Kheis Local Municipality",
+    "local_name": "!Kheis Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "NC084",
+      "name": "!Kheis Local Municipality",
+      "boundary": "administrative",
+      "way_area": "1.0308",
+      "wikidata": "Q394771",
+      "land_area": "administrative",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -82050,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-82046,-86720,-87565",
+    "name": "ǁKhara Hais Local Municipality",
+    "local_name": "ǁKhara Hais Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "NC083",
+      "name": "ǁKhara Hais Local Municipality",
+      "alt_name": "//Khara Hais Local Municipality",
+      "boundary": "administrative",
+      "way_area": "1.99271",
+      "wikidata": "Q1740579",
+      "land_area": "administrative",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -82048,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-82046,-86720,-87565",
+    "name": "Kai !Garib Local Municipality",
+    "local_name": "Kai !Garib Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "NC082",
+      "name": "Kai !Garib Local Municipality",
+      "boundary": "administrative",
+      "way_area": "2.4404",
+      "wikidata": "Q1721381",
+      "land_area": "administrative",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -82047,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-82046,-86720,-87565",
+    "name": "Mier Local Municipality",
+    "local_name": "Mier Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "NC081",
+      "name": "Mier Local Municipality",
+      "boundary": "administrative",
+      "way_area": "2.03486",
+      "wikidata": "Q1932200",
+      "land_area": "administrative",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -82035,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-82027,-86720,-87565",
+    "name": "Siyancuma Local Municipality",
+    "local_name": "Siyancuma Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "NC078",
+      "name": "Siyancuma Local Municipality",
+      "boundary": "administrative",
+      "way_area": "1.55096",
+      "wikidata": "Q2006754",
+      "land_area": "administrative",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -82034,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-82027,-86720,-87565",
+    "name": "Siyathemba Local Municipality",
+    "local_name": "Siyathemba Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "NC077",
+      "name": "Siyathemba Local Municipality",
+      "boundary": "administrative",
+      "way_area": "1.37183",
+      "land_area": "administrative",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -82033,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-82027,-86720,-87565",
+    "name": "Thembelihle Local Municipality",
+    "local_name": "Thembelihle Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "NC076",
+      "name": "Thembelihle Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.747981",
+      "wikidata": "Q259411",
+      "land_area": "administrative",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -82032,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-82027,-86720,-87565",
+    "name": "Renosterberg Local Municipality",
+    "local_name": "Renosterberg Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "NC075",
+      "name": "Renosterberg Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.518078",
+      "wikidata": "Q781995",
+      "land_area": "administrative",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -82031,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-82027,-86720,-87565",
+    "name": "Kareeberg Local Municipality",
+    "local_name": "Kareeberg Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "NC074",
+      "name": "Kareeberg Local Municipality",
+      "boundary": "administrative",
+      "way_area": "1.66411",
+      "wikidata": "Q253683",
+      "land_area": "administrative",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -82030,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-82027,-86720,-87565",
+    "name": "Emthanjeni Local Municipality",
+    "local_name": "Emthanjeni Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "NC073",
+      "name": "Emthanjeni Local Municipality",
+      "boundary": "administrative",
+      "way_area": "1.26817",
+      "wikidata": "Q1339806",
+      "land_area": "administrative",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -82029,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-82027,-86720,-87565",
+    "name": "Umsobomvu Local Municipality",
+    "local_name": "Umsobomvu Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "NC072",
+      "name": "Umsobomvu Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.64296",
+      "wikidata": "Q1945552",
+      "land_area": "administrative",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -82028,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-82027,-86720,-87565",
+    "name": "Ubuntu Local Municipality",
+    "local_name": "Ubuntu Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "NC071",
+      "name": "Ubuntu Local Municipality",
+      "boundary": "administrative",
+      "way_area": "1.93308",
+      "wikidata": "Q1447551",
+      "land_area": "administrative",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -81972,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-81973,-86720,-87565",
+    "name": "Khâi-Ma Local Municipality",
+    "local_name": "Khâi-Ma Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "NC067",
+      "name": "Khâi-Ma Local Municipality",
+      "boundary": "administrative",
+      "way_area": "1.54806",
+      "wikidata": "Q1672186",
+      "land_area": "administrative",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -81971,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-81973,-86720,-87565",
+    "name": "Karoo Hoogland Local Municipality",
+    "local_name": "Karoo Hoogland Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "NC066",
+      "name": "Karoo Hoogland Local Municipality",
+      "boundary": "administrative",
+      "way_area": "3.06883",
+      "wikidata": "Q1734288",
+      "land_area": "administrative",
+      "wikipedia": "en:Karoo Hoogland Local Municipality",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -81970,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-81973,-86720,-87565",
+    "name": "Hantam Local Municipality",
+    "local_name": "Hantam Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "NC065",
+      "name": "Hantam Local Municipality",
+      "boundary": "administrative",
+      "way_area": "3.41319",
+      "wikidata": "Q1584028",
+      "land_area": "administrative",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -81969,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-81973,-86720,-87565",
+    "name": "Kamiesberg Local Municipality",
+    "local_name": "Kamiesberg Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "NC064",
+      "name": "Kamiesberg Local Municipality",
+      "boundary": "administrative",
+      "way_area": "1.3336",
+      "wikidata": "Q1723052",
+      "land_area": "administrative",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -81968,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-81973,-86720,-87565",
+    "name": "Nama Khoi Local Municipality",
+    "local_name": "Nama Khoi Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "NC062",
+      "name": "Nama Khoi Local Municipality",
+      "boundary": "administrative",
+      "way_area": "1.67295",
+      "wikidata": "Q1964128",
+      "land_area": "administrative",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -81967,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-81973,-86720,-87565",
+    "name": "Richtersveld Local Municipality",
+    "local_name": "Richtersveld Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "NC061",
+      "name": "Richtersveld Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.887705",
+      "wikidata": "Q8251259",
+      "land_area": "administrative",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -79810,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-79807,-80501,-87565",
+    "name": "Beaufort West Local Municipality",
+    "local_name": "Beaufort West Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "WC053",
+      "name": "Beaufort West Local Municipality",
+      "boundary": "administrative",
+      "way_area": "2.09794",
+      "wikidata": "Q813381",
+      "land_area": "administrative",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -79809,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-79807,-80501,-87565",
+    "name": "Prince Albert Local Municipality",
+    "local_name": "Prince Albert Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "WC052",
+      "name": "Prince Albert Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.787004",
+      "wikidata": "Q2006772",
+      "land_area": "administrative",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -79808,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-79807,-80501,-87565",
+    "name": "Laingsburg Local Municipality",
+    "local_name": "Laingsburg Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "WC051",
+      "name": "Laingsburg Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.848625",
+      "land_area": "administrative",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -79796,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-79797,-80501,-87565",
+    "name": "Knysna Local Municipality",
+    "local_name": "Knysna Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "WC048",
+      "name": "Knysna Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.108149",
+      "wikidata": "Q1777700",
+      "land_area": "administrative",
+      "population": "51078",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -79795,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-79797,-80501,-87565",
+    "name": "Bitou Local Municipality",
+    "local_name": "Bitou Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "WC047",
+      "name": "Bitou Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.0967205",
+      "wikidata": "Q878862",
+      "land_area": "administrative",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -79794,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-79797,-80501,-87565",
+    "name": "Oudtshoorn Local Municipality",
+    "local_name": "Oudtshoorn Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "WC045",
+      "name": "Oudtshoorn Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.343912",
+      "wikidata": "Q1417176",
+      "land_area": "administrative",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -79793,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-79797,-80501,-87565",
+    "name": "George Local Municipality",
+    "local_name": "George Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "WC044",
+      "name": "George Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.504794",
+      "wikidata": "Q4931109",
+      "land_area": "administrative",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -79792,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-79797,-80501,-87565",
+    "name": "Mossel Bay Local Municipality",
+    "local_name": "Mossel Bay Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "WC043",
+      "name": "Mossel Bay Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.195368",
+      "wikidata": "Q1707740",
+      "land_area": "administrative",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -79791,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-79797,-80501,-87565",
+    "name": "Hessequa Local Municipality",
+    "local_name": "Hessequa Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "WC042",
+      "name": "Hessequa Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.560241",
+      "wikidata": "Q1516786",
+      "land_area": "administrative",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -79790,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-79797,-80501,-87565",
+    "name": "Kannaland Local Municipality",
+    "local_name": "Kannaland Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "WC041",
+      "name": "Kannaland Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.462892",
+      "wikidata": "Q1723822",
+      "land_area": "administrative",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -79679,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-79680,-80501,-87565",
+    "name": "Swellendam Local Municipality",
+    "local_name": "Swellendam Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "WC034",
+      "name": "Swellendam Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.374361",
+      "wikidata": "Q1632782",
+      "land_area": "administrative",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -79678,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-79680,-80501,-87565",
+    "name": "Cape Agulhas Local Municipality",
+    "local_name": "Cape Agulhas Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "WC033",
+      "name": "Cape Agulhas Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.340542",
+      "wikidata": "Q616669",
+      "land_area": "administrative",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -79677,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-79680,-80501,-87565",
+    "name": "Overstrand Local Municipality",
+    "local_name": "Overstrand Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "WC032",
+      "name": "Overstrand Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.163883",
+      "wikidata": "Q2042454",
+      "land_area": "administrative",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -79676,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-79680,-80501,-87565",
+    "name": "Theewaterskloof Local Municipality",
+    "local_name": "Theewaterskloof Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "WC031",
+      "name": "Theewaterskloof Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.318681",
+      "wikidata": "Q1931418",
+      "land_area": "administrative",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -79657,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-79652,-80501,-87565",
+    "name": "Langeberg Local Municipality",
+    "local_name": "Langeberg Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "WC026",
+      "name": "Langeberg Local Municipality",
+      "boundary": "administrative",
+      "old_name": "Breede River/Winelands Local Municipality",
+      "way_area": "0.439752",
+      "wikidata": "Q971361",
+      "land_area": "administrative",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -79656,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-79652,-80501,-87565",
+    "name": "Breede Valley Local Municipality",
+    "local_name": "Breede Valley Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "WC025",
+      "name": "Breede Valley Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.372362",
+      "wikidata": "Q905003",
+      "land_area": "administrative",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -79655,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-79652,-80501,-87565",
+    "name": "Stellenbosch Local Municipality",
+    "local_name": "Stellenbosch Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "WC024",
+      "name": "Stellenbosch Local Municipality",
+      "name:es": "Municipio local de Stellenbosch",
+      "boundary": "administrative",
+      "way_area": "0.081017",
+      "land_area": "administrative",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -79654,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-79652,-80501,-87565",
+    "name": "Drakenstein Local Municipality",
+    "local_name": "Drakenstein Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "WC023",
+      "name": "Drakenstein Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.149311",
+      "wikidata": "Q1255574",
+      "land_area": "administrative",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -79653,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-79652,-80501,-87565",
+    "name": "Witzenberg Local Municipality",
+    "local_name": "Witzenberg Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "WC022",
+      "name": "Witzenberg Local Municipality",
+      "boundary": "administrative",
+      "way_area": "1.03701",
+      "wikidata": "Q474835",
+      "land_area": "administrative",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -79633,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-79634,-80501,-87565",
+    "name": "Swartland Local Municipality",
+    "local_name": "Swartland Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "WC015",
+      "name": "Swartland Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.358932",
+      "wikidata": "Q1530051",
+      "land_area": "administrative",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -79632,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-79634,-80501,-87565",
+    "name": "Saldanha Bay Local Municipality",
+    "local_name": "Saldanha Bay Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "WC014",
+      "name": "Saldanha Bay Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.194383",
+      "wikidata": "Q2006784",
+      "land_area": "administrative",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -79631,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-79634,-80501,-87565",
+    "name": "Bergrivier Local Municipality",
+    "local_name": "Bergrivier Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "WC013",
+      "name": "Bergrivier Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.424252",
+      "wikidata": "Q820158",
+      "land_area": "administrative",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -79630,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-79634,-80501,-87565",
+    "name": "Cederberg Local Municipality",
+    "local_name": "Cederberg Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "WC012",
+      "name": "Cederberg Local Municipality",
+      "boundary": "administrative",
+      "way_area": "0.766342",
+      "wikidata": "Q1052585",
+      "land_area": "administrative",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -79629,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-79634,-80501,-87565",
+    "name": "Matzikama Local Municipality",
+    "local_name": "Matzikama Local Municipality",
+    "name_en": null,
+    "all_tags": {
+      "ref": "WC011",
+      "name": "Matzikama Local Municipality",
+      "boundary": "administrative",
+      "way_area": "1.22924",
+      "land_area": "administrative",
+      "admin_level": "8"
+    }
+  }
+]

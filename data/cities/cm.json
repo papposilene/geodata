@@ -1,0 +1,5845 @@
+[
+  {
+    "osm_id": -6312407,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-6312405,-6312404,-192830",
+    "name": "Bafoussam I",
+    "local_name": "Bafoussam I",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bafoussam I",
+      "ref:COG": "OU0101",
+      "alt_name": "Bafoussam 1",
+      "boundary": "administrative",
+      "way_area": "0.0115024",
+      "wikidata": "Q106698066",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -5621205,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750792,-2750789,-192830",
+    "name": "Ombessa",
+    "local_name": "Ombessa",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ombessa",
+      "ref:COG": "CE0704",
+      "boundary": "administrative",
+      "way_area": "0.0292344",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3948107,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2751228,-6312404,-192830",
+    "name": "Bassamba",
+    "local_name": "Bassamba",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bassamba",
+      "ref:COG": "OU0604",
+      "boundary": "administrative",
+      "way_area": "0.000926918",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3838121,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2751400,-2750874,-192830",
+    "name": "Nwa",
+    "local_name": "Nwa",
+    "name_en": null,
+    "all_tags": {
+      "name": "Nwa",
+      "ref:COG": "NW0302",
+      "boundary": "administrative",
+      "way_area": "0.118064",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3838120,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2751400,-2750874,-192830",
+    "name": "Ndu",
+    "local_name": "Ndu",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ndu",
+      "ref:COG": "NW0304",
+      "boundary": "administrative",
+      "way_area": "0.0392572",
+      "wikidata": "Q12698777",
+      "wikipedia": "en:Ndu, Cameroon",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3838119,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2751400,-2750874,-192830",
+    "name": "Ako",
+    "local_name": "Ako",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ako",
+      "ref:COG": "NW0303",
+      "boundary": "administrative",
+      "way_area": "0.090054",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3838081,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2751400,-2750874,-192830",
+    "name": "Nkambe",
+    "local_name": "Nkambe",
+    "name_en": null,
+    "all_tags": {
+      "name": "Nkambe",
+      "ref:COG": "NW0301",
+      "boundary": "administrative",
+      "way_area": "0.0384213",
+      "wikidata": "Q2445980",
+      "wikipedia": "en:Nkambé",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3838065,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2751400,-2750874,-192830",
+    "name": "Misaje",
+    "local_name": "Misaje",
+    "name_en": null,
+    "all_tags": {
+      "name": "Misaje",
+      "ref:COG": "NW0305",
+      "boundary": "administrative",
+      "way_area": "0.0666399",
+      "wikipedia": "fr:Misaje",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3838059,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2751401,-2750874,-192830",
+    "name": "Furu-Awa",
+    "local_name": "Furu-Awa",
+    "name_en": null,
+    "all_tags": {
+      "name": "Furu-Awa",
+      "ref:COG": "NW0502",
+      "boundary": "administrative",
+      "way_area": "0.0969919",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3838040,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2751401,-2750874,-192830",
+    "name": "Zhoa",
+    "local_name": "Zhoa",
+    "name_en": null,
+    "all_tags": {
+      "name": "Zhoa",
+      "ref:COG": "NW0503",
+      "boundary": "administrative",
+      "way_area": "0.171609",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3838016,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2751401,-2750874,-192830",
+    "name": "Wum",
+    "local_name": "Wum",
+    "name_en": null,
+    "all_tags": {
+      "name": "Wum",
+      "ref:COG": "NW0501",
+      "boundary": "administrative",
+      "way_area": "0.0246113",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3838015,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2751401,-2750874,-192830",
+    "name": "Benakuma",
+    "local_name": "Benakuma",
+    "name_en": null,
+    "all_tags": {
+      "name": "Benakuma",
+      "ref:COG": "NW0504",
+      "boundary": "administrative",
+      "way_area": "0.0781873",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3837981,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2751398,-2750874,-192830",
+    "name": "Fonfuka",
+    "local_name": "Fonfuka",
+    "name_en": null,
+    "all_tags": {
+      "name": "Fonfuka",
+      "ref:COG": "NW0602",
+      "boundary": "administrative",
+      "way_area": "0.057796",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3837969,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2751398,-2750874,-192830",
+    "name": "Njinikom",
+    "local_name": "Njinikom",
+    "name_en": null,
+    "all_tags": {
+      "name": "Njinikom",
+      "ref:COG": "NW0604",
+      "boundary": "administrative",
+      "way_area": "0.0229473",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3837968,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2751398,-2750874,-192830",
+    "name": "Fundong",
+    "local_name": "Fundong",
+    "name_en": null,
+    "all_tags": {
+      "name": "Fundong",
+      "name:fr": "Fundong",
+      "ref:COG": "NW0601",
+      "boundary": "administrative",
+      "way_area": "0.0336838",
+      "wikidata": "Q2445752",
+      "wikipedia": "fr:Fundong",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3837967,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2751398,-2750874,-192830",
+    "name": "Belo",
+    "local_name": "Belo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Belo",
+      "ref:COG": "NW0603",
+      "boundary": "administrative",
+      "way_area": "0.0205127",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3837949,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2751403,-2750874,-192830",
+    "name": "Widikum-Boffé",
+    "local_name": "Widikum-Boffé",
+    "name_en": null,
+    "all_tags": {
+      "name": "Widikum-Boffé",
+      "ref:COG": "NW0405",
+      "boundary": "administrative",
+      "way_area": "0.0359769",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3837948,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2751403,-2750874,-192830",
+    "name": "Nijkwa",
+    "local_name": "Nijkwa",
+    "name_en": null,
+    "all_tags": {
+      "name": "Nijkwa",
+      "ref:COG": "NW0403",
+      "boundary": "administrative",
+      "way_area": "0.0256439",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3837947,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2751403,-2750874,-192830",
+    "name": "Andek",
+    "local_name": "Andek",
+    "name_en": null,
+    "all_tags": {
+      "name": "Andek",
+      "ref:COG": "NW0404",
+      "boundary": "administrative",
+      "way_area": "0.0180945",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3837946,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2751403,-2750874,-192830",
+    "name": "Mbengwi",
+    "local_name": "Mbengwi",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mbengwi",
+      "ref:COG": "NW0401",
+      "boundary": "administrative",
+      "way_area": "0.0382572",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3837945,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2751403,-2750874,-192830",
+    "name": "Batibo",
+    "local_name": "Batibo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Batibo",
+      "ref:COG": "NW0402",
+      "boundary": "administrative",
+      "way_area": "0.028398",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3837924,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2751402,-2750874,-192830",
+    "name": "Tubah",
+    "local_name": "Tubah",
+    "name_en": null,
+    "all_tags": {
+      "name": "Tubah",
+      "ref:COG": "NW0103",
+      "boundary": "administrative",
+      "way_area": "0.031872",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3837923,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2751402,-2750874,-192830",
+    "name": "Bafut",
+    "local_name": "Bafut",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bafut",
+      "ref:COG": "NW0104",
+      "boundary": "administrative",
+      "way_area": "0.0397017",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3837914,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3837910,-2751402,-2750874,-192830",
+    "name": "Bamenda 3",
+    "local_name": "Bamenda 3",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bamenda 3",
+      "name:fr": "Bamenda 3",
+      "ref:COG": "NW0107",
+      "boundary": "administrative",
+      "way_area": "0.00568601",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3837913,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3837910,-2751402,-2750874,-192830",
+    "name": "Bamenda 2",
+    "local_name": "Bamenda 2",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bamenda 2",
+      "name:fr": "Bamenda 2",
+      "ref:COG": "NW0106",
+      "boundary": "administrative",
+      "way_area": "0.0141106",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3837911,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3837910,-2751402,-2750874,-192830",
+    "name": "Bamenda I",
+    "local_name": "Bamenda I",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bamenda I",
+      "ref:COG": "NW0101",
+      "alt_name": "Bamenda 1",
+      "boundary": "administrative",
+      "way_area": "0.00714254",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3837904,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2751402,-2750874,-192830",
+    "name": "Santa",
+    "local_name": "Santa",
+    "name_en": null,
+    "all_tags": {
+      "name": "Santa",
+      "ref:COG": "NW0105",
+      "boundary": "administrative",
+      "way_area": "0.0435204",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3837903,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2751402,-2750874,-192830",
+    "name": "Bali",
+    "local_name": "Bali",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bali",
+      "ref:COG": "NW0102",
+      "boundary": "administrative",
+      "way_area": "0.00908916",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3837869,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2751399,-2750874,-192830",
+    "name": "Nkor",
+    "local_name": "Nkor",
+    "name_en": null,
+    "all_tags": {
+      "name": "Nkor",
+      "ref:COG": "NW0205",
+      "boundary": "administrative",
+      "way_area": "0.0253894",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3837865,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2751399,-2750874,-192830",
+    "name": "Elak",
+    "local_name": "Elak",
+    "name_en": null,
+    "all_tags": {
+      "name": "Elak",
+      "ref:COG": "NW0204",
+      "boundary": "administrative",
+      "way_area": "0.0257637",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3837855,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2751399,-2750874,-192830",
+    "name": "Nkum",
+    "local_name": "Nkum",
+    "name_en": null,
+    "all_tags": {
+      "name": "Nkum",
+      "ref:COG": "NW0206",
+      "boundary": "administrative",
+      "way_area": "0.0212751",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3837814,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2751399,-2750874,-192830",
+    "name": "Kumbo",
+    "local_name": "Kumbo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kumbo",
+      "name:ru": "Кумбо",
+      "ref:COG": "NW0201",
+      "boundary": "administrative",
+      "way_area": "0.0185515",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3837810,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2751399,-2750874,-192830",
+    "name": "Mbiame",
+    "local_name": "Mbiame",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mbiame",
+      "ref:COG": "NW0203",
+      "boundary": "administrative",
+      "way_area": "0.0576048",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3837809,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2751399,-2750874,-192830",
+    "name": "Jakiri",
+    "local_name": "Jakiri",
+    "name_en": null,
+    "all_tags": {
+      "name": "Jakiri",
+      "ref:COG": "NW0202",
+      "boundary": "administrative",
+      "way_area": "0.0330297",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3837787,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2751404,-2750874,-192830",
+    "name": "Babessi",
+    "local_name": "Babessi",
+    "name_en": null,
+    "all_tags": {
+      "name": "Babessi",
+      "ref:COG": "NW0702",
+      "boundary": "administrative",
+      "way_area": "0.0303263",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3837753,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2751404,-2750874,-192830",
+    "name": "Ndop",
+    "local_name": "Ndop",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ndop",
+      "ref:COG": "NW0701",
+      "boundary": "administrative",
+      "way_area": "0.0287931",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3837752,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2751404,-2750874,-192830",
+    "name": "Balikumbat",
+    "local_name": "Balikumbat",
+    "name_en": null,
+    "all_tags": {
+      "name": "Balikumbat",
+      "ref:COG": "NW0703",
+      "boundary": "administrative",
+      "way_area": "0.027534",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3837645,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2751222,-6312404,-192830",
+    "name": "Mbouda",
+    "local_name": "Mbouda",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mbouda",
+      "ref:COG": "OU0201",
+      "boundary": "administrative",
+      "way_area": "0.0213364",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3837644,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2751222,-6312404,-192830",
+    "name": "Galim",
+    "local_name": "Galim",
+    "name_en": null,
+    "all_tags": {
+      "name": "Galim",
+      "ref:COG": "OU0203",
+      "boundary": "administrative",
+      "way_area": "0.0411281",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3837643,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2751222,-6312404,-192830",
+    "name": "Babadjou",
+    "local_name": "Babadjou",
+    "name_en": null,
+    "all_tags": {
+      "name": "Babadjou",
+      "ref:COG": "OU0204",
+      "boundary": "administrative",
+      "way_area": "0.0160656",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3837619,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2751222,-6312404,-192830",
+    "name": "Batcham",
+    "local_name": "Batcham",
+    "name_en": null,
+    "all_tags": {
+      "name": "Batcham",
+      "ref:COG": "OU0202",
+      "boundary": "administrative",
+      "way_area": "0.0171832",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3837617,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2751226,-6312404,-192830",
+    "name": "Penka-Michel",
+    "local_name": "Penka-Michel",
+    "name_en": null,
+    "all_tags": {
+      "name": "Penka-Michel",
+      "ref:COG": "OU0502",
+      "boundary": "administrative",
+      "way_area": "0.0220304",
+      "wikidata": "Q771802",
+      "wikipedia": "fr:Penka-Michel",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3837614,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2751226,-6312404,-192830",
+    "name": "Nkong-Zem",
+    "local_name": "Nkong-Zem",
+    "name_en": null,
+    "all_tags": {
+      "name": "Nkong-Zem",
+      "ref:COG": "OU0505",
+      "boundary": "administrative",
+      "way_area": "0.0171971",
+      "wikidata": "Q7042605",
+      "wikipedia": "fr:Nkong-Zem",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3837609,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2751226,-6312404,-192830",
+    "name": "Santchou",
+    "local_name": "Santchou",
+    "name_en": null,
+    "all_tags": {
+      "name": "Santchou",
+      "ref:COG": "OU0503",
+      "boundary": "administrative",
+      "way_area": "0.0295764",
+      "wikipedia": "en:Santchou",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3837608,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2751226,-6312404,-192830",
+    "name": "Fongo-Tongo",
+    "local_name": "Fongo-Tongo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Fongo-Tongo",
+      "ref:COG": "OU0506",
+      "boundary": "administrative",
+      "way_area": "0.0123633",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3837607,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2751226,-6312404,-192830",
+    "name": "Fokoué",
+    "local_name": "Fokoué",
+    "name_en": null,
+    "all_tags": {
+      "name": "Fokoué",
+      "ref:COG": "OU0504",
+      "boundary": "administrative",
+      "way_area": "0.0137932",
+      "wikidata": "Q5464218",
+      "wikipedia": "fr:Fokoué",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3837606,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2751226,-6312404,-192830",
+    "name": "Dschang",
+    "local_name": "Dschang",
+    "name_en": null,
+    "all_tags": {
+      "name": "Dschang",
+      "name:ar": "جان",
+      "ref:COG": "OU0501",
+      "boundary": "administrative",
+      "way_area": "0.0180431",
+      "wikipedia": "en:Dschang",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3837576,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2751223,-6312404,-192830",
+    "name": "Kékem",
+    "local_name": "Kékem",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kékem",
+      "ref:COG": "OU0404",
+      "boundary": "administrative",
+      "way_area": "0.0105282",
+      "wikipedia": "fr:Kekem",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3837575,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2751223,-6312404,-192830",
+    "name": "Banwa",
+    "local_name": "Banwa",
+    "name_en": null,
+    "all_tags": {
+      "name": "Banwa",
+      "ref:COG": "OU0406",
+      "boundary": "administrative",
+      "way_area": "0.00878267",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3837574,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2751223,-6312404,-192830",
+    "name": "Banka",
+    "local_name": "Banka",
+    "name_en": null,
+    "all_tags": {
+      "name": "Banka",
+      "ref:COG": "OU0405",
+      "boundary": "administrative",
+      "way_area": "0.00985951",
+      "wikipedia": "en:Banka, Cameroon",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3837573,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2751223,-6312404,-192830",
+    "name": "Bakou",
+    "local_name": "Bakou",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bakou",
+      "ref:COG": "OU0407",
+      "boundary": "administrative",
+      "way_area": "0.0144134",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3837572,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2751223,-6312404,-192830",
+    "name": "Bafang",
+    "local_name": "Bafang",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bafang",
+      "ref:COG": "OU0401",
+      "boundary": "administrative",
+      "way_area": "0.00871786",
+      "wikipedia": "en:Bafang",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3837548,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2751223,-6312404,-192830",
+    "name": "Bandja",
+    "local_name": "Bandja",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bandja",
+      "ref:COG": "OU0403",
+      "boundary": "administrative",
+      "way_area": "0.0174118",
+      "wikipedia": "en:Bandja",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3837547,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2751223,-6312404,-192830",
+    "name": "Bana",
+    "local_name": "Bana",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bana",
+      "ref:COG": "OU0402",
+      "boundary": "administrative",
+      "way_area": "0.00932017",
+      "wikipedia": "en:Bana, Cameroon",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3837529,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2751224,-6312404,-192830",
+    "name": "Batié",
+    "local_name": "Batié",
+    "name_en": null,
+    "all_tags": {
+      "name": "Batié",
+      "ref:COG": "OU0804",
+      "boundary": "administrative",
+      "way_area": "0.00590051",
+      "wikipedia": "en:Batié, Cameroon",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3837528,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2751224,-6312404,-192830",
+    "name": "Bangou",
+    "local_name": "Bangou",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bangou",
+      "ref:COG": "OU0803",
+      "boundary": "administrative",
+      "way_area": "0.0127076",
+      "wikipedia": "en:Bangou, Cameroon",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3837527,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2751224,-6312404,-192830",
+    "name": "Baham",
+    "local_name": "Baham",
+    "name_en": null,
+    "all_tags": {
+      "name": "Baham",
+      "ref:COG": "OU0801",
+      "boundary": "administrative",
+      "way_area": "0.00620239",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3837509,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2751224,-6312404,-192830",
+    "name": "Bamendjou",
+    "local_name": "Bamendjou",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bamendjou",
+      "ref:COG": "OU0801",
+      "boundary": "administrative",
+      "way_area": "0.0105649",
+      "wikidata": "Q2881815",
+      "wikipedia": "fr:Bamendjou",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3837462,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2751225,-6312404,-192830",
+    "name": "Demding",
+    "local_name": "Demding",
+    "name_en": null,
+    "all_tags": {
+      "name": "Demding",
+      "ref:COG": "OU0703",
+      "boundary": "administrative",
+      "way_area": "0.00997773",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3837461,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2751225,-6312404,-192830",
+    "name": "Bayangam",
+    "local_name": "Bayangam",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bayangam",
+      "ref:COG": "OU0701",
+      "boundary": "administrative",
+      "way_area": "0.00636443",
+      "wikipedia": "en:Bayangam",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3837460,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2751225,-6312404,-192830",
+    "name": "Pete-Bandjoun",
+    "local_name": "Pete-Bandjoun",
+    "name_en": null,
+    "all_tags": {
+      "name": "Pete-Bandjoun",
+      "ref:COG": "OU0702",
+      "boundary": "administrative",
+      "way_area": "0.0117286",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3837421,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-6312405,-6312404,-192830",
+    "name": "Bafoussam III",
+    "local_name": "Bafoussam III",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bafoussam III",
+      "ref:COG": "OU0103",
+      "alt_name": "Bafoussam 3",
+      "boundary": "administrative",
+      "way_area": "0.00739081",
+      "wikidata": "Q106698052",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3837420,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-6312405,-6312404,-192830",
+    "name": "Bafoussam II",
+    "local_name": "Bafoussam II",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bafoussam II",
+      "ref:COG": "OU0102",
+      "alt_name": "Bafoussam 2",
+      "boundary": "administrative",
+      "way_area": "0.0145651",
+      "wikidata": "Q106698080",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3837385,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2751229,-6312404,-192830",
+    "name": "Magba",
+    "local_name": "Magba",
+    "name_en": null,
+    "all_tags": {
+      "name": "Magba",
+      "ref:COG": "OU0303",
+      "boundary": "administrative",
+      "way_area": "0.0959164",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3837384,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2751229,-6312404,-192830",
+    "name": "Njimom",
+    "local_name": "Njimom",
+    "name_en": null,
+    "all_tags": {
+      "name": "Njimom",
+      "ref:COG": "OU0309",
+      "boundary": "administrative",
+      "way_area": "0.0562811",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3837383,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2751229,-6312404,-192830",
+    "name": "Bangourain",
+    "local_name": "Bangourain",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bangourain",
+      "ref:COG": "OU0307",
+      "boundary": "administrative",
+      "way_area": "0.032227",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3837314,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2751229,-6312404,-192830",
+    "name": "Koutaba",
+    "local_name": "Koutaba",
+    "name_en": null,
+    "all_tags": {
+      "name": "Koutaba",
+      "ref:COG": "OU0306",
+      "boundary": "administrative",
+      "way_area": "0.0368174",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3837313,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2751229,-6312404,-192830",
+    "name": "Kouoptamo",
+    "local_name": "Kouoptamo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kouoptamo",
+      "ref:COG": "OU0308",
+      "boundary": "administrative",
+      "way_area": "0.0255033",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3837278,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2751229,-6312404,-192830",
+    "name": "Massangam",
+    "local_name": "Massangam",
+    "name_en": null,
+    "all_tags": {
+      "name": "Massangam",
+      "ref:COG": "OU0305",
+      "boundary": "administrative",
+      "way_area": "0.180182",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3837277,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2751229,-6312404,-192830",
+    "name": "Foumban",
+    "local_name": "Foumban",
+    "name_en": null,
+    "all_tags": {
+      "name": "Foumban",
+      "name:ru": "Фумбан",
+      "ref:COG": "OU0301",
+      "boundary": "administrative",
+      "way_area": "0.0457381",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3837255,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2751229,-6312404,-192830",
+    "name": "Malentouen",
+    "local_name": "Malentouen",
+    "name_en": null,
+    "all_tags": {
+      "name": "Malentouen",
+      "ref:COG": "OU0304",
+      "boundary": "administrative",
+      "way_area": "0.0885213",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3837254,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2751229,-6312404,-192830",
+    "name": "Foumbot",
+    "local_name": "Foumbot",
+    "name_en": null,
+    "all_tags": {
+      "name": "Foumbot",
+      "ref:COG": "OU0302",
+      "boundary": "administrative",
+      "way_area": "0.0619775",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3837212,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2751228,-6312404,-192830",
+    "name": "Bazou",
+    "local_name": "Bazou",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bazou",
+      "ref:COG": "OU0602",
+      "boundary": "administrative",
+      "way_area": "0.0180566",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3837210,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2751228,-6312404,-192830",
+    "name": "Tonga",
+    "local_name": "Tonga",
+    "name_en": null,
+    "all_tags": {
+      "name": "Tonga",
+      "ref:COG": "OU0603",
+      "boundary": "administrative",
+      "way_area": "0.0434523",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3837209,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2751228,-6312404,-192830",
+    "name": "Bangangté",
+    "local_name": "Bangangté",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bangangté",
+      "ref:COG": "OU0601",
+      "boundary": "administrative",
+      "way_area": "0.0675952",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3837019,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2751431,-2750875,-192830",
+    "name": "Wabane",
+    "local_name": "Wabane",
+    "name_en": null,
+    "all_tags": {
+      "name": "Wabane",
+      "ref:COG": "SW0302",
+      "boundary": "administrative",
+      "way_area": "0.0205944",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3837018,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2751431,-2750875,-192830",
+    "name": "Menji",
+    "local_name": "Menji",
+    "name_en": null,
+    "all_tags": {
+      "name": "Menji",
+      "ref:COG": "SW0301",
+      "boundary": "administrative",
+      "way_area": "0.0193113",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3837017,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2751431,-2750875,-192830",
+    "name": "Alou",
+    "local_name": "Alou",
+    "name_en": null,
+    "all_tags": {
+      "name": "Alou",
+      "ref:COG": "SW0303",
+      "boundary": "administrative",
+      "way_area": "0.0124697",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3836990,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2751432,-2750875,-192830",
+    "name": "Akwaya",
+    "local_name": "Akwaya",
+    "name_en": null,
+    "all_tags": {
+      "name": "Akwaya",
+      "ref:COG": "SW0202",
+      "boundary": "administrative",
+      "way_area": "0.300765",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3836953,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2751432,-2750875,-192830",
+    "name": "Tinto",
+    "local_name": "Tinto",
+    "name_en": null,
+    "all_tags": {
+      "name": "Tinto",
+      "ref:COG": "SW0204",
+      "boundary": "administrative",
+      "way_area": "0.0993737",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3836952,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2751432,-2750875,-192830",
+    "name": "Mamfe",
+    "local_name": "Mamfé",
+    "name_en": "Mamfe",
+    "all_tags": {
+      "name": "Mamfé",
+      "name:en": "Mamfe",
+      "name:fr": "Mamfé",
+      "ref:COG": "SW0201",
+      "boundary": "administrative",
+      "way_area": "0.261126",
+      "wikidata": "Q1888230",
+      "wikipedia": "fr:Mamfé",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3836951,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2751432,-2750875,-192830",
+    "name": "Eyumodjock",
+    "local_name": "Eyumodjock",
+    "name_en": null,
+    "all_tags": {
+      "name": "Eyumodjock",
+      "name:fr": "Eyumodjock",
+      "ref:COG": "SW0203",
+      "boundary": "administrative",
+      "way_area": "0.112033",
+      "wikidata": "Q5423051",
+      "wikipedia": "fr:Eyumodjock",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3836468,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2751434,-2750875,-192830",
+    "name": "Ekondo-Titi",
+    "local_name": "Ekondo-Titi",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ekondo-Titi",
+      "ref:COG": "SW0502",
+      "boundary": "administrative",
+      "way_area": "0.0573324",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3836467,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2751434,-2750875,-192830",
+    "name": "Dikome-Balue",
+    "local_name": "Dikome-Balue",
+    "name_en": null,
+    "all_tags": {
+      "name": "Dikome-Balue",
+      "ref:COG": "SW0508",
+      "boundary": "administrative",
+      "way_area": "0.0329924",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3836383,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2751434,-2750875,-192830",
+    "name": "Bamusso",
+    "local_name": "Bamusso",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bamusso",
+      "ref:COG": "SW0503",
+      "boundary": "administrative",
+      "way_area": "0.0546117",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3836366,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2751434,-2750875,-192830",
+    "name": "Kombo-Itindi",
+    "local_name": "Kombo-Itindi",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kombo-Itindi",
+      "ref:COG": "SW0506",
+      "boundary": "administrative",
+      "way_area": "0.0339592",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3836338,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2751434,-2750875,-192830",
+    "name": "Kombo-Abedimo",
+    "local_name": "Kombo-Abedimo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kombo-Abedimo",
+      "ref:COG": "SW0507",
+      "boundary": "administrative",
+      "way_area": "0.021753",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3836337,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2751434,-2750875,-192830",
+    "name": "Idabato",
+    "local_name": "Idabato",
+    "name_en": null,
+    "all_tags": {
+      "name": "Idabato",
+      "ref:COG": "SW0505",
+      "boundary": "administrative",
+      "way_area": "0.0107609",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3836299,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2751434,-2750875,-192830",
+    "name": "Isanguele",
+    "local_name": "Isanguele",
+    "name_en": null,
+    "all_tags": {
+      "name": "Isanguele",
+      "ref:COG": "SW0504",
+      "boundary": "administrative",
+      "way_area": "0.0302414",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3836274,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2751434,-2750875,-192830",
+    "name": "Mudemba",
+    "local_name": "Mudemba",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mudemba",
+      "ref:COG": "SW0501",
+      "boundary": "administrative",
+      "way_area": "0.151458",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3836233,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2751434,-2750875,-192830",
+    "name": "Toko",
+    "local_name": "Toko",
+    "name_en": null,
+    "all_tags": {
+      "name": "Toko",
+      "ref:COG": "SW0509",
+      "boundary": "administrative",
+      "way_area": "0.121709",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3836184,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2751430,-2750875,-192830",
+    "name": "Nguti",
+    "local_name": "Nguti",
+    "name_en": null,
+    "all_tags": {
+      "name": "Nguti",
+      "ref:COG": "SW0602",
+      "boundary": "administrative",
+      "way_area": "0.150985",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3836153,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2751430,-2750875,-192830",
+    "name": "Tombel",
+    "local_name": "Tombel",
+    "name_en": null,
+    "all_tags": {
+      "name": "Tombel",
+      "ref:COG": "SW0603",
+      "boundary": "administrative",
+      "way_area": "0.0839177",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3836152,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2751430,-2750875,-192830",
+    "name": "Bangem",
+    "local_name": "Bangem",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bangem",
+      "ref:COG": "SW0601",
+      "boundary": "administrative",
+      "way_area": "0.046686",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3836143,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2751433,-2750875,-192830",
+    "name": "Konye",
+    "local_name": "Konye",
+    "name_en": null,
+    "all_tags": {
+      "name": "Konye",
+      "ref:COG": "SW0403",
+      "boundary": "administrative",
+      "way_area": "0.079655",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3836118,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3836142,-2751433,-2750875,-192830",
+    "name": "Kumba II",
+    "local_name": "Kumba II",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kumba II",
+      "ref:COG": "SW0404",
+      "alt_name": "Kumba 2",
+      "boundary": "administrative",
+      "way_area": "0.0187386",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3836109,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3836142,-2751433,-2750875,-192830",
+    "name": "Kumba III",
+    "local_name": "Kumba III",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kumba III",
+      "ref:COG": "SW0405",
+      "alt_name": "Kumba 3",
+      "boundary": "administrative",
+      "way_area": "0.033267",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3835989,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3836142,-2751433,-2750875,-192830",
+    "name": "Kumba I",
+    "local_name": "Kumba I",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kumba I",
+      "ref:COG": "SW0401",
+      "alt_name": "Kumba1",
+      "boundary": "administrative",
+      "way_area": "0.0351493",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3834963,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2751429,-2750875,-192830",
+    "name": "Muyuka",
+    "local_name": "Muyuka",
+    "name_en": null,
+    "all_tags": {
+      "name": "Muyuka",
+      "ref:COG": "SW0104",
+      "boundary": "administrative",
+      "way_area": "0.0388041",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3834962,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2751429,-2750875,-192830",
+    "name": "Idenau",
+    "local_name": "Idenau",
+    "name_en": null,
+    "all_tags": {
+      "name": "Idenau",
+      "ref:COG": "SW0107",
+      "boundary": "administrative",
+      "way_area": "0.0248809",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3834929,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2751429,-2750875,-192830",
+    "name": "Buea",
+    "local_name": "Buea",
+    "name_en": null,
+    "all_tags": {
+      "name": "Buea",
+      "name:fr": "Buéa",
+      "name:ru": "Буэа",
+      "ref:COG": "SW0102",
+      "boundary": "administrative",
+      "way_area": "0.0435128",
+      "wikidata": "Q312209",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3834926,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3834924,-2751429,-2750875,-192830",
+    "name": "Limbé II",
+    "local_name": "Limbé II",
+    "name_en": null,
+    "all_tags": {
+      "name": "Limbé II",
+      "ref:COG": "SW0105",
+      "alt_name": "Limbé 2",
+      "boundary": "administrative",
+      "way_area": "0.00475287",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3834925,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3834924,-2751429,-2750875,-192830",
+    "name": "Limbé I",
+    "local_name": "Limbé I",
+    "name_en": null,
+    "all_tags": {
+      "name": "Limbé I",
+      "ref:COG": "SW0101",
+      "alt_name": "Limbé 1",
+      "boundary": "administrative",
+      "way_area": "0.00650739",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3834917,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3834924,-2751429,-2750875,-192830",
+    "name": "Limbé III",
+    "local_name": "Limbé III",
+    "name_en": null,
+    "all_tags": {
+      "name": "Limbé III",
+      "ref:COG": "SW0106",
+      "alt_name": "Limbé 3",
+      "boundary": "administrative",
+      "way_area": "0.00920256",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3834906,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2751429,-2750875,-192830",
+    "name": "Tiko",
+    "local_name": "Tiko",
+    "name_en": null,
+    "all_tags": {
+      "name": "Tiko",
+      "ref:COG": "SW0103",
+      "boundary": "administrative",
+      "way_area": "0.0381927",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3834331,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3834333,-2750981,-2750851,-192830",
+    "name": "Nkongsamba III",
+    "local_name": "Nkongsamba III",
+    "name_en": null,
+    "all_tags": {
+      "name": "Nkongsamba III",
+      "ref:COG": "LT0211",
+      "alt_name": "Nkongsamba 3",
+      "boundary": "administrative",
+      "way_area": "0.00396004",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3834330,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3834333,-2750981,-2750851,-192830",
+    "name": "Nkongsamba II",
+    "local_name": "Nkongsamba II",
+    "name_en": null,
+    "all_tags": {
+      "name": "Nkongsamba II",
+      "ref:COG": "LT0210",
+      "alt_name": "Nkongsamba 2",
+      "boundary": "administrative",
+      "way_area": "0.00207126",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3834329,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3834333,-2750981,-2750851,-192830",
+    "name": "Nkongsamba I",
+    "local_name": "Nkongsamba I",
+    "name_en": null,
+    "all_tags": {
+      "name": "Nkongsamba I",
+      "ref:COG": "LT0201",
+      "alt_name": "Nkongsamba 1",
+      "boundary": "administrative",
+      "way_area": "0.0122689",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3834328,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750981,-2750851,-192830",
+    "name": "Mélong",
+    "local_name": "Mélong",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mélong",
+      "ref:COG": "LT0205",
+      "boundary": "administrative",
+      "way_area": "0.048103",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3834327,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750981,-2750851,-192830",
+    "name": "Baré",
+    "local_name": "Baré",
+    "name_en": null,
+    "all_tags": {
+      "name": "Baré",
+      "ref:COG": "LT0207",
+      "boundary": "administrative",
+      "way_area": "0.0193299",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3834270,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750981,-2750851,-192830",
+    "name": "Ebone",
+    "local_name": "Ebone",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ebone",
+      "ref:COG": "LT0208",
+      "boundary": "administrative",
+      "way_area": "0.0321161",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3834269,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750981,-2750851,-192830",
+    "name": "Manjo",
+    "local_name": "Manjo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Manjo",
+      "ref:COG": "LT0204",
+      "boundary": "administrative",
+      "way_area": "0.0271604",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3834263,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750981,-2750851,-192830",
+    "name": "Penja",
+    "local_name": "Penja",
+    "name_en": null,
+    "all_tags": {
+      "name": "Penja",
+      "ref:COG": "LT0209",
+      "boundary": "administrative",
+      "way_area": "0.0213454",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3834262,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750981,-2750851,-192830",
+    "name": "Mombo",
+    "local_name": "Mombo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mombo",
+      "ref:COG": "LT0213",
+      "boundary": "administrative",
+      "way_area": "0.00955499",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3834261,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750981,-2750851,-192830",
+    "name": "Mbanga",
+    "local_name": "Mbanga",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mbanga",
+      "ref:COG": "LT0202",
+      "boundary": "administrative",
+      "way_area": "0.0368076",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3834260,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750981,-2750851,-192830",
+    "name": "Loum",
+    "local_name": "Loum",
+    "name_en": null,
+    "all_tags": {
+      "name": "Loum",
+      "ref:COG": "LT0206",
+      "boundary": "administrative",
+      "way_area": "0.0230906",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3834259,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750981,-2750851,-192830",
+    "name": "Dibombari",
+    "local_name": "Dibombari",
+    "name_en": null,
+    "all_tags": {
+      "name": "Dibombari",
+      "ref:COG": "LT0203",
+      "boundary": "administrative",
+      "way_area": "0.0348696",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3834258,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750981,-2750851,-192830",
+    "name": "Bonaléa",
+    "local_name": "Bonaléa",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bonaléa",
+      "ref:COG": "LT0212",
+      "boundary": "administrative",
+      "way_area": "0.0457705",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3834178,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750982,-2750851,-192830",
+    "name": "Nkondjock",
+    "local_name": "Nkondjock",
+    "name_en": null,
+    "all_tags": {
+      "name": "Nkondjock",
+      "ref:COG": "LT0304",
+      "boundary": "administrative",
+      "way_area": "0.0788139",
+      "wikipedia": "en:Nkondjock",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3834177,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750982,-2750851,-192830",
+    "name": "Ndobian",
+    "local_name": "Ndobian",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ndobian",
+      "ref:COG": "LT0304",
+      "boundary": "administrative",
+      "way_area": "0.0412122",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3833723,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750982,-2750851,-192830",
+    "name": "Yabassi",
+    "local_name": "Yabassi",
+    "name_en": null,
+    "all_tags": {
+      "name": "Yabassi",
+      "ref:COG": "LT0301",
+      "boundary": "administrative",
+      "way_area": "0.246979",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3833709,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750982,-2750851,-192830",
+    "name": "Yingui",
+    "local_name": "Yingui",
+    "name_en": null,
+    "all_tags": {
+      "name": "Yingui",
+      "ref:COG": "LT0302",
+      "boundary": "administrative",
+      "way_area": "0.134891",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3832062,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3832073,-2750984,-2750851,-192830",
+    "name": "Douala IV",
+    "local_name": "Douala IV",
+    "name_en": null,
+    "all_tags": {
+      "name": "Douala IV",
+      "ref:COG": "LT0104",
+      "alt_name": "Douala 4",
+      "boundary": "administrative",
+      "way_area": "0.0166142",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3832061,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3832073,-2750984,-2750851,-192830",
+    "name": "Douala III",
+    "local_name": "Douala III",
+    "name_en": null,
+    "all_tags": {
+      "name": "Douala III",
+      "ref:COG": "LT0103",
+      "alt_name": "Douala 3",
+      "boundary": "administrative",
+      "way_area": "0.013601",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3831995,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3832073,-2750984,-2750851,-192830",
+    "name": "Douala VI",
+    "local_name": "Douala VI",
+    "name_en": null,
+    "all_tags": {
+      "name": "Douala VI",
+      "ref:COG": "LT0106",
+      "alt_name": "Douala 6",
+      "boundary": "administrative",
+      "old_name": "Manoka",
+      "way_area": "0.032149",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3831370,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750983,-2750851,-192830",
+    "name": "Mouanko",
+    "local_name": "Mouanko",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mouanko",
+      "ref:COG": "LT0406",
+      "boundary": "administrative",
+      "way_area": "0.104588",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3831364,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750983,-2750851,-192830",
+    "name": "Dibamba",
+    "local_name": "Dibamba",
+    "name_en": null,
+    "all_tags": {
+      "name": "Dibamba",
+      "ref:COG": "LT0408",
+      "boundary": "administrative",
+      "way_area": "0.0688864",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3831363,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750983,-2750851,-192830",
+    "name": "Dizangué",
+    "local_name": "Dizangué",
+    "name_en": null,
+    "all_tags": {
+      "name": "Dizangué",
+      "ref:COG": "LT0405",
+      "boundary": "administrative",
+      "way_area": "0.0799986",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3830968,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3831376,-2750983,-2750851,-192830",
+    "name": "Édéa II",
+    "local_name": "Édéa II",
+    "name_en": null,
+    "all_tags": {
+      "name": "Édéa II",
+      "ref:COG": "LT0407",
+      "alt_name": "Édéa 2",
+      "boundary": "administrative",
+      "way_area": "0.0636106",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3830965,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3831376,-2750983,-2750851,-192830",
+    "name": "Édéa I",
+    "local_name": "Édéa I",
+    "name_en": null,
+    "all_tags": {
+      "name": "Édéa I",
+      "ref:COG": "LT0401",
+      "alt_name": "Édéa 1",
+      "boundary": "administrative",
+      "way_area": "0.0819977",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3830950,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750983,-2750851,-192830",
+    "name": "Ngwei",
+    "local_name": "Ngwei",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ngwei",
+      "ref:COG": "LT0409",
+      "boundary": "administrative",
+      "way_area": "0.071281",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3830937,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750983,-2750851,-192830",
+    "name": "Pouma",
+    "local_name": "Pouma",
+    "name_en": null,
+    "all_tags": {
+      "name": "Pouma",
+      "ref:COG": "LT0403",
+      "boundary": "administrative",
+      "way_area": "0.0573398",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3830935,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750983,-2750851,-192830",
+    "name": "Ngambé",
+    "local_name": "Ngambé",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ngambé",
+      "ref:COG": "LT0402",
+      "boundary": "administrative",
+      "way_area": "0.0764672",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3830924,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750983,-2750851,-192830",
+    "name": "Massok",
+    "local_name": "Massok",
+    "name_en": null,
+    "all_tags": {
+      "name": "Massok",
+      "ref:COG": "LT0410",
+      "boundary": "administrative",
+      "way_area": "0.0469601",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3830902,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750983,-2750851,-192830",
+    "name": "Nyanon",
+    "local_name": "Nyanon",
+    "name_en": null,
+    "all_tags": {
+      "name": "Nyanon",
+      "ref:COG": "LT0411",
+      "boundary": "administrative",
+      "way_area": "0.0423558",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3830892,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750983,-2750851,-192830",
+    "name": "Ndom",
+    "local_name": "Ndom",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ndom",
+      "ref:COG": "LT0404",
+      "boundary": "administrative",
+      "way_area": "0.0545993",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3829449,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750836,-2750833,-192830",
+    "name": "Niété",
+    "local_name": "Niété",
+    "name_en": null,
+    "all_tags": {
+      "name": "Niété",
+      "ref:COG": "SU0309",
+      "boundary": "administrative",
+      "way_area": "0.0812509",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3828842,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3828840,-2750836,-2750833,-192830",
+    "name": "Kribi II",
+    "local_name": "Kribi II",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kribi II",
+      "ref:COG": "SU0307",
+      "alt_name": "Kribi 2",
+      "boundary": "administrative",
+      "way_area": "0.00843218",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3828841,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3828840,-2750836,-2750833,-192830",
+    "name": "Kribi I",
+    "local_name": "Kribi I",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kribi I",
+      "ref:COG": "SU0301",
+      "alt_name": "Kribi 1",
+      "boundary": "administrative",
+      "way_area": "0.0165566",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3828807,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750836,-2750833,-192830",
+    "name": "Lokoundjé",
+    "local_name": "Lokoundjé",
+    "name_en": null,
+    "all_tags": {
+      "name": "Lokoundjé",
+      "ref:COG": "SU0308",
+      "boundary": "administrative",
+      "way_area": "0.186443",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3828587,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750836,-2750833,-192830",
+    "name": "Bipindi",
+    "local_name": "Bipindi",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bipindi",
+      "ref:COG": "SU0307",
+      "boundary": "administrative",
+      "way_area": "0.107371",
+      "wikipedia": "en:Bipindi",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3828531,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750836,-2750833,-192830",
+    "name": "Lolodorf",
+    "local_name": "Lolodorf",
+    "name_en": null,
+    "all_tags": {
+      "name": "Lolodorf",
+      "ref:COG": "SU0303",
+      "boundary": "administrative",
+      "way_area": "0.0784755",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3828483,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750836,-2750833,-192830",
+    "name": "Mvengue",
+    "local_name": "Mvengue",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mvengue",
+      "ref:COG": "SU0305",
+      "boundary": "administrative",
+      "way_area": "0.0666488",
+      "wikipedia": "en:Mvengue",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3828430,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750837,-2750833,-192830",
+    "name": "Olamzé",
+    "local_name": "Olamzé",
+    "name_en": null,
+    "all_tags": {
+      "name": "Olamzé",
+      "ref:COG": "SU0403",
+      "boundary": "administrative",
+      "way_area": "0.0418983",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3828427,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750837,-2750833,-192830",
+    "name": "Kyé-Ossi",
+    "local_name": "Kyé-Ossi",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kyé-Ossi",
+      "ref:COG": "SU0404",
+      "boundary": "administrative",
+      "way_area": "0.0206467",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3828426,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750837,-2750833,-192830",
+    "name": "Ambam",
+    "local_name": "Ambam",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ambam",
+      "ref:COG": "SU0401",
+      "boundary": "administrative",
+      "way_area": "0.19917",
+      "wikidata": "Q2841553",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3828238,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750835,-2750833,-192830",
+    "name": "Biwong-Bané",
+    "local_name": "Biwong-Bané",
+    "name_en": null,
+    "all_tags": {
+      "name": "Biwong-Bané",
+      "ref:COG": "SU0104",
+      "boundary": "administrative",
+      "way_area": "0.0374828",
+      "wikipedia": "en:Biwong-Bané",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3828232,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750835,-2750833,-192830",
+    "name": "Efoulan",
+    "local_name": "Efoulan",
+    "name_en": null,
+    "all_tags": {
+      "name": "Efoulan",
+      "ref:COG": "SU0107",
+      "boundary": "administrative",
+      "way_area": "0.0696709",
+      "wikipedia": "en:Efoulan",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3828187,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3828186,-2750835,-2750833,-192830",
+    "name": "Ebolowa I",
+    "local_name": "Ebolowa I",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ebolowa I",
+      "ref:COG": "SU0101",
+      "alt_name": "Ebolowa 1",
+      "boundary": "administrative",
+      "way_area": "0.0597648",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3828131,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750835,-2750833,-192830",
+    "name": "Ngoulémakong",
+    "local_name": "Ngoulémakong",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ngoulémakong",
+      "ref:COG": "SU0102",
+      "boundary": "administrative",
+      "way_area": "0.0561641",
+      "wikipedia": "en:Ngoulémakong",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3828114,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750835,-2750833,-192830",
+    "name": "Mengong",
+    "local_name": "Mengong",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mengong",
+      "ref:COG": "SU0105",
+      "boundary": "administrative",
+      "way_area": "0.0721025",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3828111,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3828186,-2750835,-2750833,-192830",
+    "name": "Ebolowa II",
+    "local_name": "Ebolowa II",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ebolowa II",
+      "ref:COG": "SU0108",
+      "alt_name": "Ebolowa 2",
+      "boundary": "administrative",
+      "way_area": "0.162505",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3828066,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750835,-2750833,-192830",
+    "name": "Biwong-Bulu",
+    "local_name": "Biwong-Bulu",
+    "name_en": null,
+    "all_tags": {
+      "name": "Biwong-Bulu",
+      "ref:COG": "SU0106",
+      "boundary": "administrative",
+      "way_area": "0.0795152",
+      "wikipedia": "en:Biwong-Bulu",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3828061,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750835,-2750833,-192830",
+    "name": "Mvangan",
+    "local_name": "Mvangan",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mvangan",
+      "ref:COG": "SU0103",
+      "boundary": "administrative",
+      "way_area": "0.168892",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3824018,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750834,-2750833,-192830",
+    "name": "Bengbis",
+    "local_name": "Bengbis",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bengbis",
+      "ref:COG": "SU0203",
+      "boundary": "administrative",
+      "way_area": "0.183542",
+      "wikipedia": "en:Bengbis",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3824015,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750834,-2750833,-192830",
+    "name": "Zoétélé",
+    "local_name": "Zoétélé",
+    "name_en": null,
+    "all_tags": {
+      "name": "Zoétélé",
+      "ref:COG": "SU0204",
+      "boundary": "administrative",
+      "way_area": "0.0881253",
+      "wikipedia": "en:Zoétélé",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3824014,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750834,-2750833,-192830",
+    "name": "Meyomessala",
+    "local_name": "Meyomessala",
+    "name_en": null,
+    "all_tags": {
+      "name": "Meyomessala",
+      "ref:COG": "SU0205",
+      "boundary": "administrative",
+      "way_area": "0.172676",
+      "wikidata": "Q6826540",
+      "wikipedia": "fr:Meyomessala",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3824003,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750834,-2750833,-192830",
+    "name": "Sangmélima",
+    "local_name": "Sangmélima",
+    "name_en": null,
+    "all_tags": {
+      "name": "Sangmélima",
+      "ref:COG": "SU0201",
+      "boundary": "administrative",
+      "way_area": "0.157453",
+      "wikipedia": "en:Sangmélima",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3823978,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750834,-2750833,-192830",
+    "name": "Meyomessi",
+    "local_name": "Meyomessi",
+    "name_en": null,
+    "all_tags": {
+      "name": "Meyomessi",
+      "ref:COG": "SU0208",
+      "boundary": "administrative",
+      "way_area": "0.100897",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3823935,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750834,-2750833,-192830",
+    "name": "Oveng",
+    "local_name": "Oveng",
+    "name_en": null,
+    "all_tags": {
+      "name": "Oveng",
+      "ref:COG": "SU0207",
+      "boundary": "administrative",
+      "way_area": "0.143339",
+      "wikipedia": "en:Oveng",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3823822,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750834,-2750833,-192830",
+    "name": "Djoum",
+    "local_name": "Djoum",
+    "name_en": null,
+    "all_tags": {
+      "name": "Djoum",
+      "ref:COG": "SU0202",
+      "boundary": "administrative",
+      "way_area": "0.442388",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3823796,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750834,-2750833,-192830",
+    "name": "Mintom",
+    "local_name": "Mintom",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mintom",
+      "ref:COG": "SU0206",
+      "boundary": "administrative",
+      "way_area": "0.32996",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3823523,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750796,-2750789,-192830",
+    "name": "Éséka",
+    "local_name": "Éséka",
+    "name_en": null,
+    "all_tags": {
+      "name": "Éséka",
+      "ref:COG": "CE0201",
+      "boundary": "administrative",
+      "way_area": "0.0682319",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3823522,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750796,-2750789,-192830",
+    "name": "Messondo",
+    "local_name": "Messondo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Messondo",
+      "ref:COG": "CE0204",
+      "boundary": "administrative",
+      "way_area": "0.158273",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3823521,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750796,-2750789,-192830",
+    "name": "Biyouha",
+    "local_name": "Biyouha",
+    "name_en": null,
+    "all_tags": {
+      "name": "Biyouha",
+      "ref:COG": "CE0208",
+      "boundary": "administrative",
+      "way_area": "0.0165872",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3823495,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750796,-2750789,-192830",
+    "name": "Dibang",
+    "local_name": "Dibang",
+    "name_en": null,
+    "all_tags": {
+      "name": "Dibang",
+      "ref:COG": "CE0207",
+      "boundary": "administrative",
+      "way_area": "0.0380328",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3823474,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750796,-2750789,-192830",
+    "name": "Ngog-Mapubi",
+    "local_name": "Ngog-Mapubi",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ngog-Mapubi",
+      "ref:COG": "CE0205",
+      "boundary": "administrative",
+      "way_area": "0.022094",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3823441,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750796,-2750789,-192830",
+    "name": "Nguibassal",
+    "local_name": "Nguibassal",
+    "name_en": null,
+    "all_tags": {
+      "name": "Nguibassal",
+      "ref:COG": "CE0210",
+      "boundary": "administrative",
+      "way_area": "0.0227348",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3823437,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750796,-2750789,-192830",
+    "name": "Bot-Makak",
+    "local_name": "Bot-Makak",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bot-Makak",
+      "ref:COG": "CE0203",
+      "boundary": "administrative",
+      "way_area": "0.0381539",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3823423,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750796,-2750789,-192830",
+    "name": "Matomb",
+    "local_name": "Matomb",
+    "name_en": null,
+    "all_tags": {
+      "name": "Matomb",
+      "ref:COG": "CE0206",
+      "boundary": "administrative",
+      "way_area": "0.048306",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3823422,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750796,-2750789,-192830",
+    "name": "Bondjock",
+    "local_name": "Bondjock",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bondjock",
+      "ref:COG": "CE0209",
+      "boundary": "administrative",
+      "way_area": "0.0231155",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3823412,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750796,-2750789,-192830",
+    "name": "Makak",
+    "local_name": "Makak",
+    "name_en": null,
+    "all_tags": {
+      "name": "Makak",
+      "ref:COG": "CE0202",
+      "boundary": "administrative",
+      "way_area": "0.0817438",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3823323,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750792,-2750789,-192830",
+    "name": "Ndikiniméki",
+    "local_name": "Ndikiniméki",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ndikiniméki",
+      "ref:COG": "CE0703",
+      "boundary": "administrative",
+      "way_area": "0.148759",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3823322,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750792,-2750789,-192830",
+    "name": "Makenene",
+    "local_name": "Makenene",
+    "name_en": null,
+    "all_tags": {
+      "name": "Makenene",
+      "ref:COG": "CE0706",
+      "boundary": "administrative",
+      "way_area": "0.0573408",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3823219,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750792,-2750789,-192830",
+    "name": "Nitoukou",
+    "local_name": "Nitoukou",
+    "name_en": null,
+    "all_tags": {
+      "name": "Nitoukou",
+      "ref:COG": "CE0709",
+      "boundary": "administrative",
+      "way_area": "0.0139302",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3823213,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750792,-2750789,-192830",
+    "name": "Bokito",
+    "local_name": "Bokito",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bokito",
+      "ref:COG": "CE0702",
+      "boundary": "administrative",
+      "way_area": "0.122967",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3823205,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750792,-2750789,-192830",
+    "name": "Kon-Yambetta",
+    "local_name": "Kon-Yambetta",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kon-Yambetta",
+      "ref:COG": "CE0708",
+      "boundary": "administrative",
+      "way_area": "0.0284928",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3823192,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750792,-2750789,-192830",
+    "name": "pk11",
+    "local_name": "pk11",
+    "name_en": null,
+    "all_tags": {
+      "name": "pk11",
+      "name:ru": "Бафиа",
+      "ref:COG": "CE0701",
+      "boundary": "administrative",
+      "way_area": "0.0194767",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3823178,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750792,-2750789,-192830",
+    "name": "Deuk",
+    "local_name": "Deuk",
+    "name_en": null,
+    "all_tags": {
+      "name": "Deuk",
+      "ref:COG": "CE0705",
+      "boundary": "administrative",
+      "way_area": "0.118025",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3823028,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750791,-2750789,-192830",
+    "name": "Batchenga",
+    "local_name": "Batchenga",
+    "name_en": null,
+    "all_tags": {
+      "name": "Batchenga",
+      "ref:COG": "CE0608",
+      "boundary": "administrative",
+      "way_area": "0.0191432",
+      "wikipedia": "Batchenga",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3823025,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750791,-2750789,-192830",
+    "name": "Obala",
+    "local_name": "Obala",
+    "name_en": null,
+    "all_tags": {
+      "name": "Obala",
+      "ref:COG": "CE0603",
+      "boundary": "administrative",
+      "way_area": "0.0326723",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3823024,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750791,-2750789,-192830",
+    "name": "Elig-Mfomo",
+    "local_name": "Elig-Mfomo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Elig-Mfomo",
+      "ref:COG": "CE0606",
+      "boundary": "administrative",
+      "way_area": "0.0165426",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3823019,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750791,-2750789,-192830",
+    "name": "Ebebda",
+    "local_name": "Ebebda",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ebebda",
+      "ref:COG": "CE0605",
+      "boundary": "administrative",
+      "way_area": "0.0177088",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3823017,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750791,-2750789,-192830",
+    "name": "Sa'a",
+    "local_name": "Sa'a",
+    "name_en": null,
+    "all_tags": {
+      "name": "Sa'a",
+      "ref:COG": "CE0602",
+      "boundary": "administrative",
+      "way_area": "0.0407487",
+      "wikipedia": "en:Sa'a,_Cameroon",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3823014,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750791,-2750789,-192830",
+    "name": "Monatélé",
+    "local_name": "Monatélé",
+    "name_en": null,
+    "all_tags": {
+      "name": "Monatélé",
+      "ref:COG": "CE0601",
+      "boundary": "administrative",
+      "way_area": "0.0338883",
+      "wikipedia": "en:Monatélé",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3822995,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750791,-2750789,-192830",
+    "name": "Evodoula",
+    "local_name": "Evodoula",
+    "name_en": null,
+    "all_tags": {
+      "name": "Evodoula",
+      "ref:COG": "CE0604",
+      "boundary": "administrative",
+      "way_area": "0.0149979",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3822978,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750791,-2750789,-192830",
+    "name": "Okala",
+    "local_name": "Okala",
+    "name_en": null,
+    "all_tags": {
+      "name": "Okala",
+      "ref:COG": "CE0607",
+      "boundary": "administrative",
+      "way_area": "0.0470268",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3822969,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750791,-2750789,-192830",
+    "name": "Lobo",
+    "local_name": "Lobo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Lobo",
+      "ref:COG": "CE0609",
+      "boundary": "administrative",
+      "way_area": "0.024625",
+      "wikipedia": "en:Lobo",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3822961,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750795,-2750789,-192830",
+    "name": "Mbankomo",
+    "local_name": "Mbankomo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mbankomo",
+      "ref:COG": "CE1003",
+      "boundary": "administrative",
+      "way_area": "0.0361638",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3822931,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750795,-2750789,-192830",
+    "name": "Ngoumou",
+    "local_name": "Ngoumou",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ngoumou",
+      "ref:COG": "CE1001",
+      "boundary": "administrative",
+      "way_area": "0.0203262",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3822908,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750795,-2750789,-192830",
+    "name": "Bikok",
+    "local_name": "Bikok",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bikok",
+      "ref:COG": "CE1004",
+      "boundary": "administrative",
+      "way_area": "0.0369709",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3822901,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750798,-2750789,-192830",
+    "name": "Ngomedzap",
+    "local_name": "Ngomedzap",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ngomedzap",
+      "ref:COG": "CE0503",
+      "boundary": "administrative",
+      "way_area": "0.053739",
+      "wikipedia": "en:Ngomedzap",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3822895,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750798,-2750789,-192830",
+    "name": "Mengueme",
+    "local_name": "Mengueme",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mengueme",
+      "ref:COG": "CE0505",
+      "boundary": "administrative",
+      "way_area": "0.0433067",
+      "wikipedia": "en:Menguémé",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3822889,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750798,-2750789,-192830",
+    "name": "Akoéman",
+    "local_name": "Akoéman",
+    "name_en": null,
+    "all_tags": {
+      "name": "Akoéman",
+      "ref:COG": "CE0504",
+      "boundary": "administrative",
+      "way_area": "0.0540265",
+      "wikipedia": "en:Akoéman",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3822882,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750798,-2750789,-192830",
+    "name": "Mbalmayo",
+    "local_name": "Mbalmayo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mbalmayo",
+      "ref:COG": "CE0501",
+      "boundary": "administrative",
+      "way_area": "0.0402236",
+      "wikipedia": "Mbalmayo",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3822632,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750798,-2750789,-192830",
+    "name": "Nkol-Métet",
+    "local_name": "Nkol-Métet",
+    "name_en": null,
+    "all_tags": {
+      "name": "Nkol-Métet",
+      "ref:COG": "CE0506",
+      "boundary": "administrative",
+      "way_area": "0.0388766",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3822623,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750798,-2750789,-192830",
+    "name": "Dzeng",
+    "local_name": "Dzeng",
+    "name_en": null,
+    "all_tags": {
+      "name": "Dzeng",
+      "ref:COG": "CE0502",
+      "boundary": "administrative",
+      "way_area": "0.0616139",
+      "wikipedia": "en:Dzeng",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3822612,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750794,-2750789,-192830",
+    "name": "Mfou",
+    "local_name": "Mfou",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mfou",
+      "ref:COG": "CE0901",
+      "boundary": "administrative",
+      "way_area": "0.0408978",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3822542,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750794,-2750789,-192830",
+    "name": "Nkolafamba",
+    "local_name": "Nkolafamba",
+    "name_en": null,
+    "all_tags": {
+      "name": "Nkolafamba",
+      "ref:COG": "CE0908",
+      "boundary": "administrative",
+      "way_area": "0.0268345",
+      "wikipedia": "en:Nkolafamba",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3822513,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750794,-2750789,-192830",
+    "name": "Soa",
+    "local_name": "Soa",
+    "name_en": null,
+    "all_tags": {
+      "name": "Soa",
+      "ref:COG": "CE0904",
+      "boundary": "administrative",
+      "way_area": "0.0222039",
+      "wikipedia": "en:Soa",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3822512,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750794,-2750789,-192830",
+    "name": "Awaé",
+    "local_name": "Awaé",
+    "name_en": null,
+    "all_tags": {
+      "name": "Awaé",
+      "ref:COG": "CE0903",
+      "boundary": "administrative",
+      "way_area": "0.0433339",
+      "wikipedia": "en:Awaé",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3822442,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750794,-2750789,-192830",
+    "name": "Olanguina",
+    "local_name": "Olanguina",
+    "name_en": null,
+    "all_tags": {
+      "name": "Olanguina",
+      "ref:COG": "CE0906",
+      "boundary": "administrative",
+      "way_area": "0.0187043",
+      "wikipedia": "en:Olanguina",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3822423,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750794,-2750789,-192830",
+    "name": "Afanloum",
+    "local_name": "Afanloum",
+    "name_en": null,
+    "all_tags": {
+      "name": "Afanloum",
+      "ref:COG": "CE0905",
+      "boundary": "administrative",
+      "way_area": "0.0206132",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3822419,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750794,-2750789,-192830",
+    "name": "Esse",
+    "local_name": "Esse",
+    "name_en": null,
+    "all_tags": {
+      "name": "Esse",
+      "ref:COG": "CE0902",
+      "boundary": "administrative",
+      "way_area": "0.0683149",
+      "wikipedia": "en:Esse",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3822403,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750797,-2750789,-192830",
+    "name": "Endom",
+    "local_name": "Endom",
+    "name_en": null,
+    "all_tags": {
+      "name": "Endom",
+      "ref:COG": "CE0403",
+      "boundary": "administrative",
+      "way_area": "0.0682265",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3822398,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750797,-2750789,-192830",
+    "name": "Mengang",
+    "local_name": "Mengang",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mengang",
+      "ref:COG": "CE0405",
+      "boundary": "administrative",
+      "way_area": "0.0413619",
+      "wikipedia": "en:Mengang",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3822397,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750797,-2750789,-192830",
+    "name": "Akonolinga",
+    "local_name": "Akonolinga",
+    "name_en": null,
+    "all_tags": {
+      "name": "Akonolinga",
+      "ref:COG": "CE0401",
+      "boundary": "administrative",
+      "way_area": "0.232261",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3822362,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750797,-2750789,-192830",
+    "name": "Kobdombo",
+    "local_name": "Kobdombo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kobdombo",
+      "ref:COG": "CE0404",
+      "boundary": "administrative",
+      "way_area": "0.0230935",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3822361,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750797,-2750789,-192830",
+    "name": "Ayos",
+    "local_name": "Ayos",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ayos",
+      "ref:COG": "CE0402",
+      "boundary": "administrative",
+      "way_area": "0.134217",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3822320,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750790,-2750789,-192830",
+    "name": "Mbandjock",
+    "local_name": "Mbandjock",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mbandjock",
+      "ref:COG": "CE0303",
+      "boundary": "administrative",
+      "way_area": "0.076385",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3822302,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750790,-2750789,-192830",
+    "name": "Nkoteng",
+    "local_name": "Nkoteng",
+    "name_en": null,
+    "all_tags": {
+      "name": "Nkoteng",
+      "ref:COG": "CE0304",
+      "boundary": "administrative",
+      "way_area": "0.0620852",
+      "wikidata": "Q7042632",
+      "wikipedia": "en:Nkoteng",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3822301,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750790,-2750789,-192830",
+    "name": "Lembe Yezoum",
+    "local_name": "Lembe Yezoum",
+    "name_en": null,
+    "all_tags": {
+      "name": "Lembe Yezoum",
+      "ref:COG": "CE0306",
+      "boundary": "administrative",
+      "way_area": "0.0830463",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3822286,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750790,-2750789,-192830",
+    "name": "Nanga-Eboko",
+    "local_name": "Nanga-Eboko",
+    "name_en": null,
+    "all_tags": {
+      "name": "Nanga-Eboko",
+      "ref:COG": "CE0301",
+      "boundary": "administrative",
+      "way_area": "0.43997",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3822275,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750790,-2750789,-192830",
+    "name": "Nsem",
+    "local_name": "Nsem",
+    "name_en": null,
+    "all_tags": {
+      "name": "Nsem",
+      "ref:COG": "CE0307",
+      "boundary": "administrative",
+      "way_area": "0.0261475",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3822274,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750790,-2750789,-192830",
+    "name": "Bibey",
+    "local_name": "Bibey",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bibey",
+      "ref:COG": "CE0305",
+      "boundary": "administrative",
+      "way_area": "0.100856",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3822263,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750790,-2750789,-192830",
+    "name": "Minta",
+    "local_name": "Minta",
+    "name_en": null,
+    "all_tags": {
+      "name": "Minta",
+      "ref:COG": "CE0302",
+      "boundary": "administrative",
+      "way_area": "0.167764",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3822244,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750793,-2750789,-192830",
+    "name": "Mbangassina",
+    "local_name": "Mbangassina",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mbangassina",
+      "ref:COG": "CE0805",
+      "boundary": "administrative",
+      "way_area": "0.0379247",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3822225,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750793,-2750789,-192830",
+    "name": "Ntui",
+    "local_name": "Ntui",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ntui",
+      "ref:COG": "CE0801",
+      "boundary": "administrative",
+      "way_area": "0.0808677",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3822188,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750793,-2750789,-192830",
+    "name": "Ngoro",
+    "local_name": "Ngoro",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ngoro",
+      "ref:COG": "CE0804",
+      "boundary": "administrative",
+      "way_area": "0.163981",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3820442,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750793,-2750789,-192830",
+    "name": "Ngambé-Tikar",
+    "local_name": "Ngambé-Tikar",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ngambé-Tikar",
+      "ref:COG": "CE0803",
+      "boundary": "administrative",
+      "way_area": "0.56344",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3820431,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750793,-2750789,-192830",
+    "name": "Yoko",
+    "local_name": "Yoko",
+    "name_en": null,
+    "all_tags": {
+      "name": "Yoko",
+      "ref:COG": "CE0802",
+      "boundary": "administrative",
+      "way_area": "1.28035",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3820398,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750740,-2750738,-192830",
+    "name": "Nguelemendouka",
+    "local_name": "Nguelemendouka",
+    "name_en": null,
+    "all_tags": {
+      "name": "Nguelemendouka",
+      "ref:COG": "ES0305",
+      "boundary": "administrative",
+      "way_area": "0.0861233",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3820352,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750740,-2750738,-192830",
+    "name": "Mboma",
+    "local_name": "Mboma",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mboma",
+      "ref:COG": "ES0311",
+      "boundary": "administrative",
+      "way_area": "0.0158821",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3820342,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750740,-2750738,-192830",
+    "name": "Doumé",
+    "local_name": "Doumé",
+    "name_en": null,
+    "all_tags": {
+      "name": "Doumé",
+      "ref:COG": "ES0302",
+      "boundary": "administrative",
+      "way_area": "0.0980392",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3820341,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750740,-2750738,-192830",
+    "name": "Dimako",
+    "local_name": "Dimako",
+    "name_en": null,
+    "all_tags": {
+      "name": "Dimako",
+      "ref:COG": "ES0306",
+      "boundary": "administrative",
+      "way_area": "0.059159",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3820315,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750740,-2750738,-192830",
+    "name": "Doumaintang",
+    "local_name": "Doumaintang",
+    "name_en": null,
+    "all_tags": {
+      "name": "Doumaintang",
+      "ref:COG": "ES0310",
+      "boundary": "administrative",
+      "way_area": "0.15565",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3820308,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750740,-2750738,-192830",
+    "name": "Angossas",
+    "local_name": "Angossas",
+    "name_en": null,
+    "all_tags": {
+      "name": "Angossas",
+      "ref:COG": "ES0308",
+      "boundary": "administrative",
+      "way_area": "0.0330289",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3820298,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750740,-2750738,-192830",
+    "name": "Abong-Mbang",
+    "local_name": "Abong-Mbang",
+    "name_en": null,
+    "all_tags": {
+      "name": "Abong-Mbang",
+      "ref:COG": "ES0301",
+      "boundary": "administrative",
+      "way_area": "0.137882",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3820290,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750740,-2750738,-192830",
+    "name": "Messaména",
+    "local_name": "Messaména",
+    "name_en": null,
+    "all_tags": {
+      "name": "Messaména",
+      "ref:COG": "ES0304",
+      "boundary": "administrative",
+      "way_area": "0.251398",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3820289,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750740,-2750738,-192830",
+    "name": "Atok",
+    "local_name": "Atok",
+    "name_en": null,
+    "all_tags": {
+      "name": "Atok",
+      "ref:COG": "ES0309",
+      "boundary": "administrative",
+      "way_area": "0.0723683",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3820218,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750740,-2750738,-192830",
+    "name": "Mindourou",
+    "local_name": "Mindourou",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mindourou",
+      "ref:COG": "ES0313",
+      "boundary": "administrative",
+      "way_area": "0.435363",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3820212,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750740,-2750738,-192830",
+    "name": "Somalomo",
+    "local_name": "Somalomo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Somalomo",
+      "ref:COG": "ES0314",
+      "boundary": "administrative",
+      "way_area": "0.143841",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3820208,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750740,-2750738,-192830",
+    "name": "Lomié",
+    "local_name": "Lomié",
+    "name_en": null,
+    "all_tags": {
+      "name": "Lomié",
+      "ref:COG": "ES0303",
+      "boundary": "administrative",
+      "way_area": "0.596228",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3820190,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750740,-2750738,-192830",
+    "name": "Messock",
+    "local_name": "Messock",
+    "name_en": null,
+    "all_tags": {
+      "name": "Messock",
+      "ref:COG": "ES0312",
+      "boundary": "administrative",
+      "way_area": "0.214677",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3820118,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750740,-2750738,-192830",
+    "name": "Ngoyla",
+    "local_name": "Ngoyla",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ngoyla",
+      "ref:COG": "ES0307",
+      "boundary": "administrative",
+      "way_area": "0.635348",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3819992,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750739,-2750738,-192830",
+    "name": "Mouloundou",
+    "local_name": "Mouloundou",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mouloundou",
+      "ref:COG": "ES0202",
+      "boundary": "administrative",
+      "way_area": "0.80877",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3819990,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750739,-2750738,-192830",
+    "name": "Salapoumbé",
+    "local_name": "Salapoumbé",
+    "name_en": null,
+    "all_tags": {
+      "name": "Salapoumbé",
+      "ref:COG": "ES0204",
+      "boundary": "administrative",
+      "way_area": "0.448276",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3819989,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750739,-2750738,-192830",
+    "name": "Yokadouma",
+    "local_name": "Yokadouma",
+    "name_en": null,
+    "all_tags": {
+      "name": "Yokadouma",
+      "ref:COG": "ES0201",
+      "boundary": "administrative",
+      "way_area": "1.00155",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3819360,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750739,-2750738,-192830",
+    "name": "Gari-Gombo",
+    "local_name": "Gari-Gombo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Gari-Gombo",
+      "ref:COG": "ES0203",
+      "boundary": "administrative",
+      "way_area": "0.244354",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3819295,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750741,-2750738,-192830",
+    "name": "Nguélébok",
+    "local_name": "Nguélébok",
+    "name_en": null,
+    "all_tags": {
+      "name": "Nguélébok",
+      "ref:COG": "ES0406",
+      "boundary": "administrative",
+      "way_area": "0.120464",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3819294,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750741,-2750738,-192830",
+    "name": "Mbang",
+    "local_name": "Mbang",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mbang",
+      "ref:COG": "ES0405",
+      "boundary": "administrative",
+      "way_area": "0.434268",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3819254,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750741,-2750738,-192830",
+    "name": "Ndélélé",
+    "local_name": "Ndélélé",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ndélélé",
+      "ref:COG": "ES0402",
+      "boundary": "administrative",
+      "way_area": "0.161556",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3818825,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750741,-2750738,-192830",
+    "name": "Kentzou",
+    "local_name": "Kentzou",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kentzou",
+      "ref:COG": "ES0404",
+      "boundary": "administrative",
+      "way_area": "0.0821205",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3818814,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750741,-2750738,-192830",
+    "name": "Batouri",
+    "local_name": "Batouri",
+    "name_en": null,
+    "all_tags": {
+      "name": "Batouri",
+      "ref:COG": "ES0401",
+      "boundary": "administrative",
+      "way_area": "0.301713",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3818807,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750741,-2750738,-192830",
+    "name": "Kétté",
+    "local_name": "Kétté",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kétté",
+      "ref:COG": "ES0403",
+      "boundary": "administrative",
+      "way_area": "0.157313",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3818791,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750741,-2750738,-192830",
+    "name": "Ouli",
+    "local_name": "Ouli",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ouli",
+      "ref:COG": "ES0407",
+      "boundary": "administrative",
+      "way_area": "0.0536659",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3818708,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750742,-2750738,-192830",
+    "name": "Ngoura",
+    "local_name": "Ngoura",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ngoura",
+      "ref:COG": "ES0108",
+      "boundary": "administrative",
+      "way_area": "0.140158",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3818697,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750742,-2750738,-192830",
+    "name": "Diang",
+    "local_name": "Diang",
+    "name_en": null,
+    "all_tags": {
+      "name": "Diang",
+      "ref:COG": "ES0105",
+      "boundary": "administrative",
+      "way_area": "0.0673729",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3818690,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750742,-2750738,-192830",
+    "name": "Bélabo",
+    "local_name": "Bélabo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bélabo",
+      "ref:COG": "ES0103",
+      "boundary": "administrative",
+      "way_area": "0.541992",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3818685,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750742,-2750738,-192830",
+    "name": "Garoua-Boulaï",
+    "local_name": "Garoua-Boulaï",
+    "name_en": null,
+    "all_tags": {
+      "name": "Garoua-Boulaï",
+      "ref:COG": "ES0104",
+      "boundary": "administrative",
+      "way_area": "0.180608",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3818684,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750742,-2750738,-192830",
+    "name": "Bétaré-Oya",
+    "local_name": "Bétaré-Oya",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bétaré-Oya",
+      "ref:COG": "ES0102",
+      "boundary": "administrative",
+      "way_area": "0.959407",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3818562,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750695,-2750694,-192830",
+    "name": "Tabati",
+    "local_name": "Tabati",
+    "name_en": null,
+    "all_tags": {
+      "name": "Tabati",
+      "ref:COG": "AD0401",
+      "boundary": "administrative",
+      "way_area": "0.785168",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3818561,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750695,-2750694,-192830",
+    "name": "Ngaoundal",
+    "local_name": "Ngaoundal",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ngaoundal",
+      "ref:COG": "AD0402",
+      "boundary": "administrative",
+      "way_area": "0.302199",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3818548,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750697,-2750694,-192830",
+    "name": "Mayo-Darlé",
+    "local_name": "Mayo-Darlé",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mayo-Darlé",
+      "ref:COG": "AD0203",
+      "boundary": "administrative",
+      "way_area": "0.0789688",
+      "wikidata": "Q6797477",
+      "wikipedia": "fr:Mayo-Darlé",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3818522,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750697,-2750694,-192830",
+    "name": "Bankim",
+    "local_name": "Bankim",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bankim",
+      "ref:COG": "AD0202",
+      "boundary": "administrative",
+      "way_area": "0.199583",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3818503,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750697,-2750694,-192830",
+    "name": "Banyo",
+    "local_name": "Banyo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Banyo",
+      "ref:COG": "AD0201",
+      "boundary": "administrative",
+      "way_area": "0.414396",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3818437,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750696,-2750694,-192830",
+    "name": "Galim-Tignère",
+    "local_name": "Galim-Tignère",
+    "name_en": null,
+    "all_tags": {
+      "name": "Galim-Tignère",
+      "ref:COG": "AD0503",
+      "boundary": "administrative",
+      "way_area": "0.147794",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3818120,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750696,-2750694,-192830",
+    "name": "Tignère",
+    "local_name": "Tignère",
+    "name_en": null,
+    "all_tags": {
+      "name": "Tignère",
+      "ref:COG": "AD0501",
+      "boundary": "administrative",
+      "way_area": "0.396975",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3818074,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750696,-2750694,-192830",
+    "name": "Mayo-Baléo",
+    "local_name": "Mayo-Baléo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mayo-Baléo",
+      "ref:COG": "AD0502",
+      "boundary": "administrative",
+      "way_area": "0.293362",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3817929,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750696,-2750694,-192830",
+    "name": "Kontcha",
+    "local_name": "Kontcha",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kontcha",
+      "ref:COG": "AD0504",
+      "boundary": "administrative",
+      "way_area": "0.0321939",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3817844,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3823155,-2750699,-2750694,-192830",
+    "name": "Ngaoundéré III",
+    "local_name": "Ngaoundéré III",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ngaoundéré III",
+      "ref:COG": "AD0106",
+      "alt_name": "Ngaoundéré 3",
+      "boundary": "administrative",
+      "way_area": "0.0194348",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3817843,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3823155,-2750699,-2750694,-192830",
+    "name": "Ngaoundéré II",
+    "local_name": "Ngaoundéré II",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ngaoundéré II",
+      "ref:COG": "AD0105",
+      "alt_name": "Ngaoundéré 2",
+      "boundary": "administrative",
+      "way_area": "0.0209215",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3817842,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3823155,-2750699,-2750694,-192830",
+    "name": "Ngaoundéré I",
+    "local_name": "Ngaoundéré I",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ngaoundéré I",
+      "ref:COG": "AD0101",
+      "alt_name": "Ngaoundéré 1",
+      "boundary": "administrative",
+      "way_area": "0.0265761",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3817804,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750699,-2750694,-192830",
+    "name": "Mbé",
+    "local_name": "Mbé",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mbé",
+      "ref:COG": "AD0102",
+      "boundary": "administrative",
+      "way_area": "0.141997",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3817796,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750699,-2750694,-192830",
+    "name": "Martap",
+    "local_name": "Martap",
+    "name_en": null,
+    "all_tags": {
+      "name": "Martap",
+      "ref:COG": "AD0104",
+      "boundary": "administrative",
+      "way_area": "0.380396",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3817738,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750699,-2750694,-192830",
+    "name": "Nyambaka",
+    "local_name": "Nyambaka",
+    "name_en": null,
+    "all_tags": {
+      "name": "Nyambaka",
+      "ref:COG": "AD0108",
+      "boundary": "administrative",
+      "way_area": "0.479764",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3817732,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750699,-2750694,-192830",
+    "name": "Ngan'ha",
+    "local_name": "Ngan'ha",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ngan'ha",
+      "ref:COG": "AD0107",
+      "boundary": "administrative",
+      "way_area": "0.169919",
+      "admin_level": "8",
+      "date:creation": "2007-04-24"
+    }
+  },
+  {
+    "osm_id": -3817731,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750699,-2750694,-192830",
+    "name": "Bélel",
+    "local_name": "Bélel",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bélel",
+      "ref:COG": "AD0103",
+      "boundary": "administrative",
+      "way_area": "0.165785",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3816520,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750698,-2750694,-192830",
+    "name": "Dir",
+    "local_name": "Dir",
+    "name_en": null,
+    "all_tags": {
+      "name": "Dir",
+      "ref:COG": "AD0302",
+      "boundary": "administrative",
+      "way_area": "0.4044",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3816489,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750698,-2750694,-192830",
+    "name": "Meiganga",
+    "local_name": "Meiganga",
+    "name_en": null,
+    "all_tags": {
+      "name": "Meiganga",
+      "name:ru": "Меиганга",
+      "ref:COG": "AD0301",
+      "boundary": "administrative",
+      "way_area": "0.552093",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3765799,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750698,-2750694,-192830",
+    "name": "Ngaoui",
+    "local_name": "Ngaoui",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ngaoui",
+      "ref:COG": "AD0304",
+      "boundary": "administrative",
+      "way_area": "0.0218149",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3765796,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750698,-2750694,-192830",
+    "name": "Djohong",
+    "local_name": "Djohong",
+    "name_en": null,
+    "all_tags": {
+      "name": "Djohong",
+      "ref:COG": "AD0303",
+      "boundary": "administrative",
+      "way_area": "0.202592",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3765762,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750666,-2750662,-192830",
+    "name": "Tcholliré",
+    "local_name": "Tcholliré",
+    "name_en": null,
+    "all_tags": {
+      "name": "Tcholliré",
+      "ref:COG": "NO0401",
+      "boundary": "administrative",
+      "way_area": "1.19814",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3765741,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750666,-2750662,-192830",
+    "name": "Touboro",
+    "local_name": "Touboro",
+    "name_en": null,
+    "all_tags": {
+      "name": "Touboro",
+      "ref:COG": "NO0403",
+      "boundary": "administrative",
+      "way_area": "0.824512",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3765709,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750666,-2750662,-192830",
+    "name": "Madingring",
+    "local_name": "Madingring",
+    "name_en": null,
+    "all_tags": {
+      "name": "Madingring",
+      "ref:COG": "NO0404",
+      "boundary": "administrative",
+      "way_area": "0.252734",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3765369,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750666,-2750662,-192830",
+    "name": "Rey-Bouba",
+    "local_name": "Rey-Bouba",
+    "name_en": null,
+    "all_tags": {
+      "name": "Rey-Bouba",
+      "ref:COG": "NO0402",
+      "boundary": "administrative",
+      "way_area": "0.723941",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3765280,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750664,-2750662,-192830",
+    "name": "Poli",
+    "local_name": "Poli",
+    "name_en": null,
+    "all_tags": {
+      "name": "Poli",
+      "ref:COG": "NO0302",
+      "boundary": "administrative",
+      "way_area": "0.823577",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3765262,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750664,-2750662,-192830",
+    "name": "Béka",
+    "local_name": "Béka",
+    "name_en": null,
+    "all_tags": {
+      "name": "Béka",
+      "ref:COG": "NO0302",
+      "boundary": "administrative",
+      "way_area": "0.135886",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3765178,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3823173,-2750663,-2750662,-192830",
+    "name": "Garoua III",
+    "local_name": "Garoua III",
+    "name_en": null,
+    "all_tags": {
+      "name": "Garoua III",
+      "ref:COG": "NO0108",
+      "alt_name": "Garoua 3",
+      "boundary": "administrative",
+      "way_area": "0.0214166",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3765093,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3823173,-2750663,-2750662,-192830",
+    "name": "Garoua II",
+    "local_name": "Garoua II",
+    "name_en": null,
+    "all_tags": {
+      "name": "Garoua II",
+      "ref:COG": "NO0107",
+      "alt_name": "Garoua 2",
+      "boundary": "administrative",
+      "way_area": "0.0061267",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3765092,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3823173,-2750663,-2750662,-192830",
+    "name": "Garoua I",
+    "local_name": "Garoua I",
+    "name_en": null,
+    "all_tags": {
+      "name": "Garoua I",
+      "ref:COG": "NO0101",
+      "alt_name": "Garoua 1",
+      "boundary": "administrative",
+      "way_area": "0.00739598",
+      "population": "235996",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3765077,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750663,-2750662,-192830",
+    "name": "Gachiga",
+    "local_name": "Gachiga",
+    "name_en": null,
+    "all_tags": {
+      "name": "Gachiga",
+      "ref:COG": "NO0111",
+      "boundary": "administrative",
+      "way_area": "0.046637",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3765070,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750663,-2750662,-192830",
+    "name": "Mayo-Hourna",
+    "local_name": "Mayo-Hourna",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mayo-Hourna",
+      "ref:COG": "NO0109",
+      "boundary": "administrative",
+      "way_area": "0.0786978",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3765066,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750663,-2750662,-192830",
+    "name": "Touroua",
+    "local_name": "Touroua",
+    "name_en": null,
+    "all_tags": {
+      "name": "Touroua",
+      "ref:COG": "NO0112",
+      "boundary": "administrative",
+      "way_area": "0.0903574",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3765056,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750663,-2750662,-192830",
+    "name": "Ngong",
+    "local_name": "Ngong",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ngong",
+      "ref:COG": "NO0106",
+      "boundary": "administrative",
+      "way_area": "0.216545",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3765046,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750663,-2750662,-192830",
+    "name": "Lagdo",
+    "local_name": "Lagdo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Lagdo",
+      "name:ar": "لاغدو",
+      "ref:COG": "NO0104",
+      "boundary": "administrative",
+      "way_area": "0.183383",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3765022,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750663,-2750662,-192830",
+    "name": "Bibemi",
+    "local_name": "Bibemi",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bibemi",
+      "name:ar": "بيبمي",
+      "ref:COG": "NO0102",
+      "boundary": "administrative",
+      "way_area": "0.211085",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3765004,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750663,-2750662,-192830",
+    "name": "Pitoa",
+    "local_name": "Pitoa",
+    "name_en": null,
+    "all_tags": {
+      "name": "Pitoa",
+      "ref:COG": "NO0103",
+      "boundary": "administrative",
+      "way_area": "0.126685",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3764995,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750663,-2750662,-192830",
+    "name": "Dembo",
+    "local_name": "Dembo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Dembo",
+      "ref:COG": "NO0105",
+      "boundary": "administrative",
+      "way_area": "0.0496544",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3764955,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750663,-2750662,-192830",
+    "name": "Baschéo",
+    "local_name": "Baschéo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Baschéo",
+      "ref:COG": "NO0110",
+      "boundary": "administrative",
+      "way_area": "0.0864786",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3753556,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750665,-2750662,-192830",
+    "name": "Mayo-Oulo",
+    "local_name": "Mayo-Oulo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mayo-Oulo",
+      "ref:COG": "NO0203",
+      "boundary": "administrative",
+      "way_area": "0.115023",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3753517,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750665,-2750662,-192830",
+    "name": "Guider",
+    "local_name": "Guider",
+    "name_en": null,
+    "all_tags": {
+      "name": "Guider",
+      "name:ru": "Гидер",
+      "ref:COG": "NO0201",
+      "boundary": "administrative",
+      "way_area": "0.160402",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3753502,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750665,-2750662,-192830",
+    "name": "Figuil",
+    "local_name": "Figuil",
+    "name_en": null,
+    "all_tags": {
+      "name": "Figuil",
+      "ref:COG": "NO0203",
+      "boundary": "administrative",
+      "way_area": "0.0730611",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3753481,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750413,-2749663,-192830",
+    "name": "Kar-Hay",
+    "local_name": "Kar-Hay",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kar-Hay",
+      "ref:COG": "EN0302",
+      "boundary": "administrative",
+      "way_area": "0.023645",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3753480,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750413,-2749663,-192830",
+    "name": "Kalfou",
+    "local_name": "Kalfou",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kalfou",
+      "ref:COG": "EN0305",
+      "boundary": "administrative",
+      "way_area": "0.0594831",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3753472,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750413,-2749663,-192830",
+    "name": "Tchatibali",
+    "local_name": "Tchatibali",
+    "name_en": null,
+    "all_tags": {
+      "name": "Tchatibali",
+      "ref:COG": "EN0310",
+      "boundary": "administrative",
+      "way_area": "0.00797656",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3753464,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750413,-2749663,-192830",
+    "name": "Datchéka",
+    "local_name": "Datchéka",
+    "name_en": null,
+    "all_tags": {
+      "name": "Datchéka",
+      "ref:COG": "EN0309",
+      "boundary": "administrative",
+      "way_area": "0.00988414",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3753454,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750413,-2749663,-192830",
+    "name": "Wina",
+    "local_name": "Wina",
+    "name_en": null,
+    "all_tags": {
+      "name": "Wina",
+      "ref:COG": "EN0306",
+      "boundary": "administrative",
+      "way_area": "0.00791698",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3753446,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750413,-2749663,-192830",
+    "name": "Gobo",
+    "local_name": "Gobo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Gobo",
+      "ref:COG": "EN0308",
+      "boundary": "administrative",
+      "way_area": "0.0494698",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3753373,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750413,-2749663,-192830",
+    "name": "Guéré",
+    "local_name": "Guéré",
+    "name_en": null,
+    "all_tags": {
+      "name": "Guéré",
+      "ref:COG": "EN0303",
+      "boundary": "administrative",
+      "way_area": "0.0219608",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3753363,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750413,-2749663,-192830",
+    "name": "Yagoua",
+    "local_name": "Yagoua",
+    "name_en": null,
+    "all_tags": {
+      "name": "Yagoua",
+      "ref:COG": "EN0301",
+      "boundary": "administrative",
+      "way_area": "0.0625932",
+      "wikidata": "Q523657",
+      "wikipedia": "fr:Yagoua",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3753352,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750413,-2749663,-192830",
+    "name": "Guémé",
+    "local_name": "Guémé",
+    "name_en": null,
+    "all_tags": {
+      "name": "Guémé",
+      "ref:COG": "EN0307",
+      "boundary": "administrative",
+      "way_area": "0.041068",
+      "wikipedia": "fr:Guémé",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3753306,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750413,-2749663,-192830",
+    "name": "Kai-Kai",
+    "local_name": "Kai-Kai",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kai-Kai",
+      "ref:COG": "EN0311",
+      "boundary": "administrative",
+      "way_area": "0.0670133",
+      "wikipedia": "fr:Kai-Kai",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3753298,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750413,-2749663,-192830",
+    "name": "Maga",
+    "local_name": "Maga",
+    "name_en": null,
+    "all_tags": {
+      "name": "Maga",
+      "name:ar": "ماقا",
+      "ref:COG": "EN0304",
+      "boundary": "administrative",
+      "way_area": "0.087614",
+      "wikipedia": "fr:Maga (Cameroun)",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3753283,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750414,-2749663,-192830",
+    "name": "Mindif",
+    "local_name": "Mindif",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mindif",
+      "ref:COG": "EN0402",
+      "boundary": "administrative",
+      "way_area": "0.0821638",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3753268,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750414,-2749663,-192830",
+    "name": "Moutourwa",
+    "local_name": "Moutourwa",
+    "name_en": null,
+    "all_tags": {
+      "name": "Moutourwa",
+      "ref:COG": "EN0405",
+      "boundary": "administrative",
+      "way_area": "0.0450195",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3753231,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750414,-2749663,-192830",
+    "name": "Kaélé",
+    "local_name": "Kaélé",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kaélé",
+      "name:ar": "كايلي",
+      "ref:COG": "EN0401",
+      "boundary": "administrative",
+      "way_area": "0.108563",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3753202,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750414,-2749663,-192830",
+    "name": "Guidiguis",
+    "local_name": "Guidiguis",
+    "name_en": null,
+    "all_tags": {
+      "name": "Guidiguis",
+      "ref:COG": "EN0403",
+      "boundary": "administrative",
+      "way_area": "0.0317848",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3753193,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750414,-2749663,-192830",
+    "name": "Dziguilao",
+    "local_name": "Dziguilao",
+    "name_en": null,
+    "all_tags": {
+      "name": "Dziguilao",
+      "ref:COG": "EN0407",
+      "boundary": "administrative",
+      "way_area": "0.0269762",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3753169,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750414,-2749663,-192830",
+    "name": "Touloum",
+    "local_name": "Touloum",
+    "name_en": null,
+    "all_tags": {
+      "name": "Touloum",
+      "ref:COG": "EN0406",
+      "boundary": "administrative",
+      "way_area": "0.02381",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3753154,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750414,-2749663,-192830",
+    "name": "Moulvoudaye",
+    "local_name": "Moulvoudaye",
+    "name_en": null,
+    "all_tags": {
+      "name": "Moulvoudaye",
+      "ref:COG": "EN0404",
+      "boundary": "administrative",
+      "way_area": "0.0940908",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3750887,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750411,-2749663,-192830",
+    "name": "Gazawa",
+    "local_name": "Gazawa",
+    "name_en": null,
+    "all_tags": {
+      "name": "Gazawa",
+      "ref:COG": "EN0104",
+      "boundary": "administrative",
+      "way_area": "0.0155865",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3750881,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750411,-2749663,-192830",
+    "name": "Ndoukoula",
+    "local_name": "Ndoukoula",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ndoukoula",
+      "name:ar": "اندوكولا",
+      "ref:COG": "EN0109",
+      "boundary": "administrative",
+      "way_area": "0.0414722",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3750804,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750411,-2749663,-192830",
+    "name": "Meri",
+    "local_name": "Meri",
+    "name_en": null,
+    "all_tags": {
+      "name": "Meri",
+      "ref:COG": "EN0102",
+      "boundary": "administrative",
+      "way_area": "0.0536679",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3750800,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3823174,-2750411,-2749663,-192830",
+    "name": "Maroua II",
+    "local_name": "Maroua II",
+    "name_en": null,
+    "all_tags": {
+      "name": "Maroua II",
+      "name:ar": "مروة 2",
+      "ref:COG": "EN0106",
+      "alt_name": "Maroua 2",
+      "boundary": "administrative",
+      "way_area": "0.00353786",
+      "admin_level": "8",
+      "alt_name:ar": "ماروا 2"
+    }
+  },
+  {
+    "osm_id": -3750791,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3823174,-2750411,-2749663,-192830",
+    "name": "Maroua I",
+    "local_name": "Maroua I",
+    "name_en": null,
+    "all_tags": {
+      "name": "Maroua I",
+      "name:ar": "مروة 1",
+      "ref:COG": "EN0101",
+      "alt_name": "Maroua 1",
+      "boundary": "administrative",
+      "way_area": "0.0303665",
+      "admin_level": "8",
+      "alt_name:ar": "ماروا 1"
+    }
+  },
+  {
+    "osm_id": -3750761,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3823174,-2750411,-2749663,-192830",
+    "name": "Maroua III",
+    "local_name": "Maroua III",
+    "name_en": null,
+    "all_tags": {
+      "name": "Maroua III",
+      "ref:COG": "EN0107",
+      "alt_name": "Maroua 3",
+      "boundary": "administrative",
+      "way_area": "0.0600482",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3750760,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750411,-2749663,-192830",
+    "name": "Dargala",
+    "local_name": "Dargala",
+    "name_en": null,
+    "all_tags": {
+      "name": "Dargala",
+      "ref:COG": "EN0108",
+      "boundary": "administrative",
+      "way_area": "0.0321109",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3750726,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750411,-2749663,-192830",
+    "name": "Bogo",
+    "local_name": "Bogo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bogo",
+      "name:ar": "بوقو",
+      "ref:COG": "EN0103",
+      "boundary": "administrative",
+      "way_area": "0.0840206",
+      "admin_level": "8",
+      "alt_name:ar": "بوغو"
+    }
+  },
+  {
+    "osm_id": -3750669,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750411,-2749663,-192830",
+    "name": "Pétté",
+    "local_name": "Pétté",
+    "name_en": null,
+    "all_tags": {
+      "name": "Pétté",
+      "ref:COG": "EN0105",
+      "boundary": "administrative",
+      "way_area": "0.0727975",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3750070,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750416,-2749663,-192830",
+    "name": "Bourha",
+    "local_name": "Bourha",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bourha",
+      "ref:COG": "EN0602",
+      "boundary": "administrative",
+      "way_area": "0.0567095",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3750043,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750416,-2749663,-192830",
+    "name": "Hina",
+    "local_name": "Hina",
+    "name_en": null,
+    "all_tags": {
+      "name": "Hina",
+      "ref:COG": "EN0604",
+      "boundary": "administrative",
+      "way_area": "0.0391636",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3750035,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750416,-2749663,-192830",
+    "name": "Mogodé",
+    "local_name": "Mogodé",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mogodé",
+      "ref:COG": "EN0606",
+      "boundary": "administrative",
+      "way_area": "0.046442",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3749991,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750416,-2749663,-192830",
+    "name": "Mokolo",
+    "local_name": "Mokolo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mokolo",
+      "ref:COG": "EN0601",
+      "boundary": "administrative",
+      "way_area": "0.145933",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3749980,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750416,-2749663,-192830",
+    "name": "Soulèdé-Roua",
+    "local_name": "Soulèdé-Roua",
+    "name_en": null,
+    "all_tags": {
+      "name": "Soulèdé-Roua",
+      "ref:COG": "EN0607",
+      "boundary": "administrative",
+      "way_area": "0.0206678",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3749958,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750416,-2749663,-192830",
+    "name": "Koza",
+    "local_name": "Koza",
+    "name_en": null,
+    "all_tags": {
+      "name": "Koza",
+      "ref:COG": "EN0603",
+      "boundary": "administrative",
+      "way_area": "0.0299558",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3749386,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750416,-2749663,-192830",
+    "name": "Mozogo",
+    "local_name": "Mozogo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mozogo",
+      "ref:COG": "EN0606",
+      "boundary": "administrative",
+      "way_area": "0.0224855",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3749359,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750415,-2749663,-192830",
+    "name": "Tokombéré",
+    "local_name": "Tokombéré",
+    "name_en": null,
+    "all_tags": {
+      "name": "Tokombéré",
+      "ref:COG": "EN0502",
+      "boundary": "administrative",
+      "way_area": "0.0256037",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3749358,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750415,-2749663,-192830",
+    "name": "Kolofata",
+    "local_name": "Kolofata",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kolofata",
+      "ref:COG": "EN0503",
+      "boundary": "administrative",
+      "way_area": "0.0522285",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3749350,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750415,-2749663,-192830",
+    "name": "Mora",
+    "local_name": "Mora",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mora",
+      "name:ar": "مورا",
+      "ref:COG": "EN0501",
+      "boundary": "administrative",
+      "way_area": "0.139878",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3749308,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750412,-2749663,-192830",
+    "name": "Zina",
+    "local_name": "Zina",
+    "name_en": null,
+    "all_tags": {
+      "name": "Zina",
+      "ref:COG": "EN0210",
+      "boundary": "administrative",
+      "way_area": "0.0911547",
+      "wikipedia": "fr:Zina (Cameroun)",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3749304,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750412,-2749663,-192830",
+    "name": "Waza",
+    "local_name": "Waza",
+    "name_en": null,
+    "all_tags": {
+      "name": "Waza",
+      "ref:COG": "EN0205",
+      "boundary": "administrative",
+      "way_area": "0.205703",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3749162,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750412,-2749663,-192830",
+    "name": "Logone-Birni",
+    "local_name": "Logone-Birni",
+    "name_en": null,
+    "all_tags": {
+      "name": "Logone-Birni",
+      "name:ar": "لوقون بيرني",
+      "ref:COG": "EN0203",
+      "boundary": "administrative",
+      "way_area": "0.232338",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3748212,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750412,-2749663,-192830",
+    "name": "Kousséri",
+    "local_name": "Kousséri",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kousséri",
+      "name:ar": "القصور",
+      "ref:COG": "EN0201",
+      "boundary": "administrative",
+      "int_name": "Kousseri",
+      "way_area": "0.0115475",
+      "admin_level": "8",
+      "alt_name:ar": "كوسيري;قصور"
+    }
+  },
+  {
+    "osm_id": -3748190,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750412,-2749663,-192830",
+    "name": "Goulfey",
+    "local_name": "Goulfey قولفي",
+    "name_en": "Goulfey",
+    "all_tags": {
+      "name": "Goulfey قولفي",
+      "name:ar": "قولفي",
+      "name:en": "Goulfey",
+      "name:fr": "Goulfey",
+      "ref:COG": "EN0204",
+      "boundary": "administrative",
+      "way_area": "0.136273",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3748162,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750412,-2749663,-192830",
+    "name": "Makary",
+    "local_name": "Makary",
+    "name_en": null,
+    "all_tags": {
+      "name": "Makary",
+      "name:ar": "ماكاري",
+      "ref:COG": "EN0202",
+      "boundary": "administrative",
+      "way_area": "0.0976016",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3748148,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750412,-2749663,-192830",
+    "name": "Fotokol",
+    "local_name": "Fotokol",
+    "name_en": null,
+    "all_tags": {
+      "name": "Fotokol",
+      "name:ar": "فتكل",
+      "name:fr": "Fotokol",
+      "ref:COG": "EN0207",
+      "boundary": "administrative",
+      "way_area": "0.030378",
+      "wikidata": "Q5473997",
+      "wikipedia": "fr:Fotokol",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3748063,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750412,-2749663,-192830",
+    "name": "Hilé - Alifa",
+    "local_name": "Hilé - Alifa",
+    "name_en": null,
+    "all_tags": {
+      "name": "Hilé - Alifa",
+      "ref:COG": "EN0208",
+      "boundary": "administrative",
+      "way_area": "0.0226331",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3748051,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750412,-2749663,-192830",
+    "name": "Blangoua",
+    "local_name": "Blangoua",
+    "name_en": null,
+    "all_tags": {
+      "name": "Blangoua",
+      "name:ar": "بلانقوا",
+      "ref:COG": "EN0206",
+      "boundary": "administrative",
+      "way_area": "0.0186076",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3748033,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750412,-2749663,-192830",
+    "name": "Darak",
+    "local_name": "Darak",
+    "name_en": null,
+    "all_tags": {
+      "name": "Darak",
+      "ref:COG": "EN0209",
+      "boundary": "administrative",
+      "way_area": "0.156283",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3462085,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750795,-2750789,-192830",
+    "name": "Akono",
+    "local_name": "Akono",
+    "name_en": null,
+    "all_tags": {
+      "name": "Akono",
+      "ref:COG": "CE1002",
+      "boundary": "administrative",
+      "way_area": "0.0151171",
+      "wikipedia": "en:Akono",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3388140,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750794,-2750789,-192830",
+    "name": "Edzendouan",
+    "local_name": "Edzendouan",
+    "name_en": null,
+    "all_tags": {
+      "name": "Edzendouan",
+      "ref:COG": "CE0907",
+      "boundary": "administrative",
+      "way_area": "0.0328754",
+      "wikipedia": "en:Edzendouan",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3096099,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2746229,-2746230,-2750789,-192830",
+    "name": "Yaoundé II",
+    "local_name": "Yaoundé II",
+    "name_en": null,
+    "all_tags": {
+      "name": "Yaoundé II",
+      "ref:COG": "CE0102",
+      "alt_name": "Yaoundé 2",
+      "boundary": "administrative",
+      "way_area": "0.0018668",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3094331,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2746229,-2746230,-2750789,-192830",
+    "name": "Yaoundé V",
+    "local_name": "Yaoundé V",
+    "name_en": null,
+    "all_tags": {
+      "name": "Yaoundé V",
+      "ref:COG": "CE0105",
+      "alt_name": "Yaoundé 5",
+      "boundary": "administrative",
+      "way_area": "0.00209157",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3091996,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2746229,-2746230,-2750789,-192830",
+    "name": "Yaoundé VII",
+    "local_name": "Yaoundé VII",
+    "name_en": null,
+    "all_tags": {
+      "name": "Yaoundé VII",
+      "ref:COG": "CE0107",
+      "alt_name": "Yaoundé 7",
+      "boundary": "administrative",
+      "way_area": "0.00291751",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3070384,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3832073,-2750984,-2750851,-192830",
+    "name": "Douala V",
+    "local_name": "Douala V",
+    "name_en": null,
+    "all_tags": {
+      "name": "Douala V",
+      "ref:COG": "LT0105",
+      "alt_name": "Douala 5",
+      "boundary": "administrative",
+      "way_area": "0.0131173",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3070353,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3832073,-2750984,-2750851,-192830",
+    "name": "Douala II",
+    "local_name": "Douala II",
+    "name_en": null,
+    "all_tags": {
+      "name": "Douala II",
+      "ref:COG": "LT0102",
+      "alt_name": "Douala 2",
+      "boundary": "administrative",
+      "way_area": "0.00131298",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3070352,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3832073,-2750984,-2750851,-192830",
+    "name": "Douala I",
+    "local_name": "Douala I",
+    "name_en": null,
+    "all_tags": {
+      "name": "Douala I",
+      "ref:COG": "LT0101",
+      "alt_name": "Douala 1",
+      "boundary": "administrative",
+      "way_area": "0.00261089",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3070346,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3162916,-2750742,-2750738,-192830",
+    "name": "Bertoua II",
+    "local_name": "Bertoua II",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bertoua II",
+      "ref:COG": "ES0106",
+      "alt_name": "Bertoua 2",
+      "boundary": "administrative",
+      "way_area": "0.00742494",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3070345,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3162916,-2750742,-2750738,-192830",
+    "name": "Bertoua I",
+    "local_name": "Bertoua I",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bertoua I",
+      "ref:COG": "ES0101",
+      "alt_name": "Bertoua 1",
+      "boundary": "administrative",
+      "way_area": "0.0134803",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3070080,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2750836,-2750833,-192830",
+    "name": "Campo",
+    "local_name": "Campo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Campo",
+      "ref:COG": "SU0302",
+      "boundary": "administrative",
+      "way_area": "0.224358",
+      "wikidata": "Q1100812",
+      "wikipedia": "en:Campo, Cameroon",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -2746236,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2746229,-2746230,-2750789,-192830",
+    "name": "Yaoundé VI",
+    "local_name": "Yaoundé VI",
+    "name_en": null,
+    "all_tags": {
+      "name": "Yaoundé VI",
+      "ref:COG": "CE0106",
+      "alt_name": "Yaoundé 6",
+      "boundary": "administrative",
+      "way_area": "0.00180021",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -2746234,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2746229,-2746230,-2750789,-192830",
+    "name": "Yaoundé IV",
+    "local_name": "Yaoundé IV",
+    "name_en": null,
+    "all_tags": {
+      "name": "Yaoundé IV",
+      "ref:COG": "CE0104",
+      "alt_name": "Yaoundé 4",
+      "boundary": "administrative",
+      "way_area": "0.00477971",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -2746233,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2746229,-2746230,-2750789,-192830",
+    "name": "Yaoundé III",
+    "local_name": "Yaoundé III",
+    "name_en": null,
+    "all_tags": {
+      "name": "Yaoundé III",
+      "ref:COG": "CE0103",
+      "alt_name": "Yaoundé 3",
+      "boundary": "administrative",
+      "way_area": "0.00553648",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -2746231,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2746229,-2746230,-2750789,-192830",
+    "name": "Yaoundé I",
+    "local_name": "Yaoundé I",
+    "name_en": null,
+    "all_tags": {
+      "name": "Yaoundé I",
+      "ref:COG": "CE0101",
+      "alt_name": "Yaoundé 1",
+      "boundary": "administrative",
+      "way_area": "0.00455423",
+      "population": "281586",
+      "admin_level": "8",
+      "population:date": "2005"
+    }
+  }
+]

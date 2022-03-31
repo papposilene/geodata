@@ -1,0 +1,96 @@
+[
+  {
+    "osm_id": -10259397,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-11816842,-364078,-364066",
+    "name": "Tashir",
+    "local_name": "Տաշիր",
+    "name_en": "Tashir",
+    "all_tags": {
+      "name": "Տաշիր",
+      "place": "town",
+      "name:de": "Taschir",
+      "name:en": "Tashir",
+      "name:fr": "Tachir",
+      "name:hy": "Տաշիր",
+      "name:ka": "ტაშირი",
+      "name:ru": "Ташир",
+      "boundary": "administrative",
+      "way_area": "0.000879966",
+      "population": "7500",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -10255503,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-11543300,-364081,-364066",
+    "name": "Vayk",
+    "local_name": "Վայք",
+    "name_en": "Vayk",
+    "all_tags": {
+      "name": "Վայք",
+      "is_in": "Armenia, Vayots Dzor",
+      "place": "town",
+      "name:en": "Vayk",
+      "name:hy": "Վայք",
+      "name:ru": "Вайк",
+      "boundary": "administrative",
+      "way_area": "0.000420331",
+      "wikidata": "Q1253628",
+      "wikipedia": "en:Vayk",
+      "population": "5877",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -10248346,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-11788620,-364082,-364066",
+    "name": "Goris",
+    "local_name": "Գորիս",
+    "name_en": "Goris",
+    "all_tags": {
+      "name": "Գորիս",
+      "place": "town",
+      "landuse": "residential",
+      "name:de": "Goris",
+      "name:en": "Goris",
+      "name:fa": "گوریس",
+      "name:hy": "Գորիս",
+      "name:it": "Gorisas",
+      "name:ja": "ゴリス",
+      "name:pl": "Goris",
+      "name:ru": "Горис",
+      "name:uk": "Ґоріс",
+      "boundary": "administrative",
+      "way_area": "0.000575801",
+      "wikidata": "Q319735",
+      "wikipedia": "en:Goris",
+      "population": "20591",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -9330351,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-10852606,-364083,-364066",
+    "name": "Vedi",
+    "local_name": "Վեդի",
+    "name_en": "Vedi",
+    "all_tags": {
+      "name": "Վեդի",
+      "place": "town",
+      "name:en": "Vedi",
+      "name:hy": "Վեդի",
+      "name:ru": "Веди",
+      "boundary": "administrative",
+      "way_area": "0.00050683",
+      "admin_level": "8"
+    }
+  }
+]

@@ -1,0 +1,248 @@
+[
+  {
+    "osm_id": -9244226,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-367988",
+    "name": "St. Brelade",
+    "local_name": "St. Brelade",
+    "name_en": null,
+    "all_tags": {
+      "name": "St. Brelade",
+      "name:fr": "Saint-Brélade",
+      "boundary": "administrative",
+      "way_area": "0.00165441",
+      "wikidata": "Q1835699",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -9241961,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-367988",
+    "name": "St. John",
+    "local_name": "St. John",
+    "name_en": null,
+    "all_tags": {
+      "name": "St. John",
+      "name:fr": "Saint-Jean",
+      "boundary": "administrative",
+      "way_area": "0.00113011",
+      "wikidata": "Q954721",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -9241960,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-367988",
+    "name": "Saint Lawrence",
+    "local_name": "Saint Lawrence",
+    "name_en": "Saint Lawrence",
+    "all_tags": {
+      "name": "Saint Lawrence",
+      "name:en": "Saint Lawrence",
+      "name:fr": "Saint-Laurent",
+      "boundary": "administrative",
+      "way_area": "0.00120983",
+      "wikidata": "Q509090",
+      "short_name": "St. Lawrence",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -9241959,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-367988",
+    "name": "St. Mary",
+    "local_name": "St. Mary",
+    "name_en": null,
+    "all_tags": {
+      "name": "St. Mary",
+      "name:fr": "Sainte-Marie",
+      "boundary": "administrative",
+      "way_area": "0.000804908",
+      "wikidata": "Q2212948",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -9241958,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-367988",
+    "name": "St. Peter",
+    "local_name": "St. Peter",
+    "name_en": null,
+    "all_tags": {
+      "name": "St. Peter",
+      "name:fr": "Saint-Pierre",
+      "boundary": "administrative",
+      "way_area": "0.00144956",
+      "wikidata": "Q3058152",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -9241957,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-367988",
+    "name": "Saint Ouen",
+    "local_name": "Saint Ouen",
+    "name_en": "Saint Ouen",
+    "all_tags": {
+      "name": "Saint Ouen",
+      "name:en": "Saint Ouen",
+      "name:fr": "Saint-Ouen",
+      "boundary": "administrative",
+      "name:nrf": "Saint Ouën",
+      "way_area": "0.00189143",
+      "wikidata": "Q2305318",
+      "short_name": "St. Ouen",
+      "admin_level": "8",
+      "official_name": "Saint Ouen"
+    }
+  },
+  {
+    "osm_id": -9239009,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-367988",
+    "name": "St. Martin",
+    "local_name": "St. Martin",
+    "name_en": null,
+    "all_tags": {
+      "name": "St. Martin",
+      "name:fr": "Saint-Martin",
+      "boundary": "administrative",
+      "way_area": "0.00127399",
+      "wikidata": "Q593645",
+      "wikipedia": "en:Saint Martin, Jersey",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -9239008,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-367988",
+    "name": "Trinity",
+    "local_name": "Trinity",
+    "name_en": null,
+    "all_tags": {
+      "name": "Trinity",
+      "name:fr": "La Trinité",
+      "boundary": "administrative",
+      "way_area": "0.00154258",
+      "wikidata": "Q2594704",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -9238571,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-367988",
+    "name": "Grouville",
+    "local_name": "Grouville",
+    "name_en": null,
+    "all_tags": {
+      "name": "Grouville",
+      "name:fr": "Grouville",
+      "boundary": "administrative",
+      "way_area": "0.00101082",
+      "wikidata": "Q2429741",
+      "check_date": "2021-08-11",
+      "short_name": "Grouville",
+      "admin_level": "8",
+      "survey:date": "2021-08-11",
+      "twinned_with": "Port-Bail, France",
+      "official_name": "Parish of Grouville"
+    }
+  },
+  {
+    "osm_id": -2832049,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-367988",
+    "name": "St. Clement",
+    "local_name": "St. Clement",
+    "name_en": null,
+    "all_tags": {
+      "name": "St. Clement",
+      "name:fr": "Saint-Clément",
+      "boundary": "administrative",
+      "way_area": "0.000534808",
+      "wikidata": "Q3058160",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -2372005,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-367988",
+    "name": "Saint Saviour",
+    "local_name": "Saint Saviour",
+    "name_en": null,
+    "all_tags": {
+      "name": "Saint Saviour",
+      "name:fr": "Saint-Sauveur",
+      "boundary": "administrative",
+      "way_area": "0.00114192",
+      "wikidata": "Q1808243",
+      "short_name": "St. Saviour",
+      "admin_level": "8",
+      "official_name": "Saint Saviour"
+    }
+  },
+  {
+    "osm_id": -2371948,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-367988",
+    "name": "St. Helier",
+    "local_name": "St. Helier",
+    "name_en": "St. Helier",
+    "all_tags": {
+      "name": "St. Helier",
+      "name:ar": "ساينت هيلير",
+      "name:be": "Сент-Хеліер",
+      "name:en": "St. Helier",
+      "name:es": "San Helerio",
+      "name:fa": "سن هلیه",
+      "name:fr": "Saint-Hélier",
+      "name:he": "סנט הלייר",
+      "name:hu": "Saint Helier",
+      "name:it": "Saint Helier",
+      "name:ka": "სენტ-ჰელიერი",
+      "name:ko": "세인트헬리어",
+      "name:lt": "Sent Helieras",
+      "name:mk": "Сент Хелиер",
+      "name:pl": "Saint Helier",
+      "name:pt": "Santo Helério",
+      "name:ru": "Сент-Хелиер",
+      "name:th": "เซนต์เฮลิเยอร์",
+      "name:uk": "Сент-Гелієр",
+      "name:ur": "سینٹ ہیلیر",
+      "name:zh": "聖赫利爾",
+      "boundary": "administrative",
+      "name:nrf": "St. Hélyi",
+      "way_area": "0.00119403",
+      "wikidata": "Q147738",
+      "wikipedia": "en:Saint Helier",
+      "population": "32522",
+      "short_name": "St. Helier",
+      "admin_level": "8",
+      "name:zh-Hans": "圣赫利尔",
+      "name:zh-Hant": "聖赫利爾",
+      "official_name": "Parish of Saint Helier",
+      "population:date": "2011",
+      "official_name:short": "Saint Helier"
+    }
+  }
+]

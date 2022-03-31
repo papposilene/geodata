@@ -1,0 +1,600 @@
+[
+  {
+    "osm_id": -11778434,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-547469",
+    "name": "Inagua",
+    "local_name": "Inagua",
+    "name_en": null,
+    "all_tags": {
+      "name": "Inagua",
+      "boundary": "administrative",
+      "way_area": "0.145277",
+      "wikidata": "Q1353668",
+      "wikipedia": "en:Inagua",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3776687,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-547469",
+    "name": "Green Turtle Cay",
+    "local_name": "Green Turtle Cay",
+    "name_en": null,
+    "all_tags": {
+      "name": "Green Turtle Cay",
+      "boundary": "administrative",
+      "way_area": "0.0457353",
+      "wikidata": "Q3249446",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3776685,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-547469",
+    "name": "West Grand Bahama",
+    "local_name": "West Grand Bahama",
+    "name_en": null,
+    "all_tags": {
+      "name": "West Grand Bahama",
+      "boundary": "administrative",
+      "way_area": "0.426603",
+      "wikidata": "Q2702338",
+      "ISO3166-2": "BS-WG",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3776678,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-547469",
+    "name": "South Andros",
+    "local_name": "South Andros",
+    "name_en": "South Andros",
+    "all_tags": {
+      "name": "South Andros",
+      "name:en": "South Andros",
+      "name:lt": "Pietų Androsas",
+      "boundary": "administrative",
+      "way_area": "0.807115",
+      "wikidata": "Q2408672",
+      "ISO3166-2": "BS-SA",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3776669,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-547469",
+    "name": "Spanish Wells",
+    "local_name": "Spanish Wells",
+    "name_en": null,
+    "all_tags": {
+      "name": "Spanish Wells",
+      "boundary": "administrative",
+      "way_area": "0.105607",
+      "wikidata": "Q1771681",
+      "ISO3166-2": "BS-SW",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3776668,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-547469",
+    "name": "South Eleuthera",
+    "local_name": "South Eleuthera",
+    "name_en": "South Eleuthera",
+    "all_tags": {
+      "name": "South Eleuthera",
+      "name:en": "South Eleuthera",
+      "name:lt": "Pietų Eleutera",
+      "boundary": "administrative",
+      "way_area": "0.311004",
+      "wikidata": "Q2699715",
+      "ISO3166-2": "BS-SE",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3776667,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-547469",
+    "name": "South Abaco",
+    "local_name": "South Abaco",
+    "name_en": null,
+    "all_tags": {
+      "name": "South Abaco",
+      "boundary": "administrative",
+      "way_area": "0.485626",
+      "wikidata": "Q2703192",
+      "ISO3166-2": "BS-SO",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3776666,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-547469",
+    "name": "San Salvador",
+    "local_name": "San Salvador",
+    "name_en": null,
+    "all_tags": {
+      "name": "San Salvador",
+      "boundary": "administrative",
+      "way_area": "0.261989",
+      "wikidata": "Q845540",
+      "ISO3166-2": "BS-SS",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3776665,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-547469",
+    "name": "Rum Cay",
+    "local_name": "Rum Cay",
+    "name_en": null,
+    "all_tags": {
+      "name": "Rum Cay",
+      "boundary": "administrative",
+      "way_area": "0.245066",
+      "wikidata": "Q1859950",
+      "ISO3166-2": "BS-RC",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3776664,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-547469",
+    "name": "Ragged Island",
+    "local_name": "Ragged Island",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ragged Island",
+      "boundary": "administrative",
+      "way_area": "0.542029",
+      "wikidata": "Q1532634",
+      "ISO3166-2": "BS-RI",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3776663,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-547469",
+    "name": "North Eleuthera",
+    "local_name": "North Eleuthera",
+    "name_en": "North Eleuthera",
+    "all_tags": {
+      "name": "North Eleuthera",
+      "name:en": "North Eleuthera",
+      "name:lt": "Šiaurės Eleutera",
+      "boundary": "administrative",
+      "way_area": "0.156492",
+      "wikidata": "Q2705535",
+      "ISO3166-2": "BS-NE",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3776662,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-547469",
+    "name": "North Andros",
+    "local_name": "North Andros",
+    "name_en": "North Andros",
+    "all_tags": {
+      "name": "North Andros",
+      "name:en": "North Andros",
+      "name:lt": "Šiaurės Androsas",
+      "boundary": "administrative",
+      "way_area": "0.791661",
+      "wikidata": "Q2699411",
+      "ISO3166-2": "BS-NS",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3776661,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-547469",
+    "name": "North Abaco",
+    "local_name": "North Abaco",
+    "name_en": null,
+    "all_tags": {
+      "name": "North Abaco",
+      "boundary": "administrative",
+      "way_area": "0.317915",
+      "wikidata": "Q623327",
+      "ISO3166-2": "BS-NO",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3776660,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-547469",
+    "name": "New Providence",
+    "local_name": "New Providence",
+    "name_en": "New Providence",
+    "all_tags": {
+      "name": "New Providence",
+      "name:en": "New Providence",
+      "name:lt": "Naujasis Providensas",
+      "boundary": "administrative",
+      "way_area": "0.426301",
+      "wikidata": "Q858513",
+      "ISO3166-2": "BS-NP",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3776659,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-547469",
+    "name": "Moore's Island",
+    "local_name": "Moore's Island",
+    "name_en": null,
+    "all_tags": {
+      "name": "Moore's Island",
+      "boundary": "administrative",
+      "way_area": "0.109306",
+      "wikidata": "Q2702345",
+      "ISO3166-2": "BS-MI",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3776658,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-547469",
+    "name": "Mangrove Cay",
+    "local_name": "Mangrove Cay",
+    "name_en": "Mangrove Cay",
+    "all_tags": {
+      "name": "Mangrove Cay",
+      "name:en": "Mangrove Cay",
+      "name:lt": "Mangrovės rifas",
+      "boundary": "administrative",
+      "way_area": "0.149451",
+      "wikidata": "Q2702334",
+      "ISO3166-2": "BS-MC",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3776657,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-547469",
+    "name": "Long Island",
+    "local_name": "Long Island",
+    "name_en": null,
+    "all_tags": {
+      "name": "Long Island",
+      "boundary": "administrative",
+      "way_area": "0.616528",
+      "wikidata": "Q890879",
+      "ISO3166-2": "BS-LI",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3776656,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-547469",
+    "name": "Hope Town",
+    "local_name": "Hope Town",
+    "name_en": null,
+    "all_tags": {
+      "name": "Hope Town",
+      "boundary": "administrative",
+      "way_area": "0.140604",
+      "wikidata": "Q2699709",
+      "ISO3166-2": "BS-HT",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3776655,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-547469",
+    "name": "Harbour Island",
+    "local_name": "Harbour Island",
+    "name_en": null,
+    "all_tags": {
+      "name": "Harbour Island",
+      "boundary": "administrative",
+      "way_area": "0.00204831",
+      "wikidata": "Q2357510",
+      "ISO3166-2": "BS-HI",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3776654,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-547469",
+    "name": "Grand Cay",
+    "local_name": "Grand Cay",
+    "name_en": null,
+    "all_tags": {
+      "name": "Grand Cay",
+      "boundary": "administrative",
+      "way_area": "0.336295",
+      "wikidata": "Q2524373",
+      "ISO3166-2": "BS-GC",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3776653,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-547469",
+    "name": "City of Freeport",
+    "local_name": "City of Freeport",
+    "name_en": null,
+    "all_tags": {
+      "name": "City of Freeport",
+      "boundary": "administrative",
+      "way_area": "0.0466775",
+      "wikidata": "Q867573",
+      "ISO3166-2": "BS-FP",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3776652,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-547469",
+    "name": "Exuma",
+    "local_name": "Exuma",
+    "name_en": "Exuma",
+    "all_tags": {
+      "name": "Exuma",
+      "name:en": "Exuma",
+      "name:lt": "Eksuma",
+      "boundary": "administrative",
+      "way_area": "1.66236",
+      "wikidata": "Q1385577",
+      "ISO3166-2": "BS-EX",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3776651,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-547469",
+    "name": "East Grand Bahama",
+    "local_name": "East Grand Bahama",
+    "name_en": null,
+    "all_tags": {
+      "name": "East Grand Bahama",
+      "boundary": "administrative",
+      "way_area": "0.405245",
+      "wikidata": "Q2630334",
+      "ISO3166-2": "BS-EG",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3776650,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-547469",
+    "name": "Central Eleuthera",
+    "local_name": "Central Eleuthera",
+    "name_en": "Central Eleuthera",
+    "all_tags": {
+      "name": "Central Eleuthera",
+      "name:en": "Central Eleuthera",
+      "name:lt": "Centrinė Eleutera",
+      "boundary": "administrative",
+      "way_area": "0.377238",
+      "wikidata": "Q938518",
+      "ISO3166-2": "BS-CE",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3776649,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-547469",
+    "name": "Central Andros",
+    "local_name": "Central Andros",
+    "name_en": "Central Andros",
+    "all_tags": {
+      "name": "Central Andros",
+      "name:en": "Central Andros",
+      "name:lt": "Centrinis Androsas",
+      "boundary": "administrative",
+      "way_area": "0.370975",
+      "wikidata": "Q2096558",
+      "ISO3166-2": "BS-CS",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3776648,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-547469",
+    "name": "Central Abaco",
+    "local_name": "Central Abaco",
+    "name_en": null,
+    "all_tags": {
+      "name": "Central Abaco",
+      "boundary": "administrative",
+      "way_area": "0.14266",
+      "wikidata": "Q2525371",
+      "ISO3166-2": "BS-CO",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3776647,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-547469",
+    "name": "Cat Island",
+    "local_name": "Cat Island",
+    "name_en": "Cat Island",
+    "all_tags": {
+      "name": "Cat Island",
+      "name:en": "Cat Island",
+      "name:lt": "Katės sala",
+      "boundary": "administrative",
+      "way_area": "0.717339",
+      "wikidata": "Q1050154",
+      "ISO3166-2": "BS-CI",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3776646,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-547469",
+    "name": "Black Point",
+    "local_name": "Black Point",
+    "name_en": null,
+    "all_tags": {
+      "name": "Black Point",
+      "boundary": "administrative",
+      "way_area": "0.00208521",
+      "wikidata": "Q2525298",
+      "ISO3166-2": "BS-BP",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3776645,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-547469",
+    "name": "Bimini",
+    "local_name": "Bimini",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bimini",
+      "boundary": "administrative",
+      "way_area": "1.55627",
+      "wikidata": "Q863476",
+      "ISO3166-2": "BS-BI",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3776644,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-547469",
+    "name": "Berry Islands",
+    "local_name": "Berry Islands",
+    "name_en": null,
+    "all_tags": {
+      "name": "Berry Islands",
+      "boundary": "administrative",
+      "way_area": "0.513187",
+      "wikidata": "Q827173",
+      "ISO3166-2": "BS-BY",
+      "wikipedia": "en:Berry Islands",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3775751,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-547469",
+    "name": "Crooked Island and Long Cay",
+    "local_name": "Crooked Island and Long Cay",
+    "name_en": null,
+    "all_tags": {
+      "name": "Crooked Island and Long Cay",
+      "boundary": "administrative",
+      "way_area": "0.484522",
+      "wikidata": "Q1140993",
+      "ISO3166-2": "BS-CK",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3775742,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-547469",
+    "name": "Mayaguana",
+    "local_name": "Mayaguana",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mayaguana",
+      "boundary": "administrative",
+      "way_area": "0.424016",
+      "wikidata": "Q1540098",
+      "ISO3166-2": "BS-MG",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3775740,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-547469",
+    "name": "Inagua",
+    "local_name": "Inagua",
+    "name_en": null,
+    "all_tags": {
+      "name": "Inagua",
+      "boundary": "administrative",
+      "way_area": "0.829459",
+      "wikidata": "Q1353668",
+      "ISO3166-2": "BS-IN",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3772879,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-547469",
+    "name": "Acklins",
+    "local_name": "Acklins",
+    "name_en": null,
+    "all_tags": {
+      "name": "Acklins",
+      "boundary": "administrative",
+      "way_area": "0.43316",
+      "wikidata": "Q341919",
+      "ISO3166-2": "BS-AK",
+      "admin_level": "8"
+    }
+  }
+]

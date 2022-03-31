@@ -1,0 +1,2647 @@
+[
+  {
+    "osm_id": -13757561,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2087229,-3263726,-307787",
+    "name": "Kellia",
+    "local_name": "Κελλιά",
+    "name_en": "Kellia",
+    "all_tags": {
+      "name": "Κελλιά",
+      "name:el": "Κελλιά",
+      "name:en": "Kellia",
+      "boundary": "administrative",
+      "way_area": "0.00123905",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13757555,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2087229,-3263726,-307787",
+    "name": "Dimos Aradippou",
+    "local_name": "Αραδίππου",
+    "name_en": "Dimos Aradippou",
+    "all_tags": {
+      "name": "Αραδίππου",
+      "name:el": "Αραδίππου",
+      "name:en": "Dimos Aradippou",
+      "boundary": "administrative",
+      "way_area": "0.00552197",
+      "wikidata": "Q2009604",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13753739,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2087229,-3263726,-307787",
+    "name": "Kiti",
+    "local_name": "Κίτι",
+    "name_en": "Kiti",
+    "all_tags": {
+      "name": "Κίτι",
+      "name:el": "Κίτι",
+      "name:en": "Kiti",
+      "boundary": "administrative",
+      "way_area": "0.000864242",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13730329,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2087229,-3263726,-307787",
+    "name": "Pervolia",
+    "local_name": "Περβόλια",
+    "name_en": "Pervolia",
+    "all_tags": {
+      "name": "Περβόλια",
+      "name:el": "Περβόλια",
+      "name:en": "Pervolia",
+      "boundary": "administrative",
+      "way_area": "0.000837835",
+      "wikidata": "Q7168940",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13730302,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2087229,-3263726,-307787",
+    "name": "Dromolaxia-Meneou Municipality",
+    "local_name": "Δήμος Δρομολαξιάς-Μενεού",
+    "name_en": "Dromolaxia-Meneou Municipality",
+    "all_tags": {
+      "name": "Δήμος Δρομολαξιάς-Μενεού",
+      "name:el": "Δήμος Δρομολαξιάς-Μενεού",
+      "name:en": "Dromolaxia-Meneou Municipality",
+      "boundary": "administrative",
+      "way_area": "0.00209709",
+      "wikidata": "Q24287419",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13726323,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2087229,-3263726,-307787",
+    "name": "Livadia",
+    "local_name": "Δήμος Λιβαδιών",
+    "name_en": "Livadia",
+    "all_tags": {
+      "name": "Δήμος Λιβαδιών",
+      "name:el": "Δήμος Λιβαδιών",
+      "name:en": "Livadia",
+      "boundary": "administrative",
+      "way_area": "0.000852728",
+      "wikidata": "Q11762209",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13199970,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2087230,-3263726,-307787",
+    "name": "Apsiou",
+    "local_name": "Αψιού",
+    "name_en": "Apsiou",
+    "all_tags": {
+      "name": "Αψιού",
+      "name:en": "Apsiou",
+      "boundary": "administrative",
+      "way_area": "0.00202054",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13199960,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2087230,-3263726,-307787",
+    "name": "Mathikoloni",
+    "local_name": "Μαθηκολώνη",
+    "name_en": "Mathikoloni",
+    "all_tags": {
+      "name": "Μαθηκολώνη",
+      "name:en": "Mathikoloni",
+      "boundary": "administrative",
+      "way_area": "0.00141745",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13199950,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2087230,-3263726,-307787",
+    "name": "Agios Mamas",
+    "local_name": "Άγιος Μάμας",
+    "name_en": "Agios Mamas",
+    "all_tags": {
+      "name": "Άγιος Μάμας",
+      "name:en": "Agios Mamas",
+      "boundary": "administrative",
+      "way_area": "0.00149192",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13199868,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2087230,-3263726,-307787",
+    "name": "Kato Platres",
+    "local_name": "Κάτω Πλάτρες",
+    "name_en": "Kato Platres",
+    "all_tags": {
+      "name": "Κάτω Πλάτρες",
+      "name:en": "Kato Platres",
+      "boundary": "administrative",
+      "way_area": "0.00087619",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13199835,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2087230,-3263726,-307787",
+    "name": "Moniatis",
+    "local_name": "Μονιάτης",
+    "name_en": "Moniatis",
+    "all_tags": {
+      "name": "Μονιάτης",
+      "name:en": "Moniatis",
+      "boundary": "administrative",
+      "way_area": "0.00143946",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13197361,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2087230,-3263726,-307787",
+    "name": "Louvaras",
+    "local_name": "Λουβαράς",
+    "name_en": "Louvaras",
+    "all_tags": {
+      "name": "Λουβαράς",
+      "name:en": "Louvaras",
+      "boundary": "administrative",
+      "way_area": "0.00104604",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13197310,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2087230,-3263726,-307787",
+    "name": "Kalo Chorio Lemesou",
+    "local_name": "Καλό Χωριό Λεμεσού",
+    "name_en": "Kalo Chorio Lemesou",
+    "all_tags": {
+      "name": "Καλό Χωριό Λεμεσού",
+      "name:en": "Kalo Chorio Lemesou",
+      "alt_name": "Kalo Xorio Lemesou",
+      "boundary": "administrative",
+      "way_area": "0.00238876",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13197265,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2087230,-3263726,-307787",
+    "name": "Agios Pavlos",
+    "local_name": "Άγιος Παύλος",
+    "name_en": "Agios Pavlos",
+    "all_tags": {
+      "name": "Άγιος Παύλος",
+      "name:en": "Agios Pavlos",
+      "boundary": "administrative",
+      "way_area": "0.000556701",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13197139,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2087230,-3263726,-307787",
+    "name": "Zoopigi",
+    "local_name": "Ζωοπηγή",
+    "name_en": "Zoopigi",
+    "all_tags": {
+      "name": "Ζωοπηγή",
+      "name:en": "Zoopigi",
+      "boundary": "administrative",
+      "way_area": "0.00106736",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13197052,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2087230,-3263726,-307787",
+    "name": "Dierona",
+    "local_name": "Διερώνα",
+    "name_en": "Dierona",
+    "all_tags": {
+      "name": "Διερώνα",
+      "name:en": "Dierona",
+      "boundary": "administrative",
+      "way_area": "0.00228562",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13056361,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2087230,-3263726,-307787",
+    "name": "Dymes",
+    "local_name": "Δύμες",
+    "name_en": "Dymes",
+    "all_tags": {
+      "name": "Δύμες",
+      "name:en": "Dymes",
+      "boundary": "administrative",
+      "way_area": "0.000595188",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13056360,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2087230,-3263726,-307787",
+    "name": "Potamitissa",
+    "local_name": "Ποταμίτισσα",
+    "name_en": "Potamitissa",
+    "all_tags": {
+      "name": "Ποταμίτισσα",
+      "name:en": "Potamitissa",
+      "boundary": "administrative",
+      "way_area": "0.000449571",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13056359,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2087230,-3263726,-307787",
+    "name": "Pelendri",
+    "local_name": "Πελένδρι",
+    "name_en": "Pelendri",
+    "all_tags": {
+      "name": "Πελένδρι",
+      "name:en": "Pelendri",
+      "boundary": "administrative",
+      "way_area": "0.00316909",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13056263,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2087230,-3263726,-307787",
+    "name": "Vikla",
+    "local_name": "Βίκλα",
+    "name_en": "Vikla",
+    "all_tags": {
+      "name": "Βίκλα",
+      "name:en": "Vikla",
+      "boundary": "administrative",
+      "way_area": "0.000400144",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13056262,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2087230,-3263726,-307787",
+    "name": "Klonari",
+    "local_name": "Κλωνάρι",
+    "name_en": "Klonari",
+    "all_tags": {
+      "name": "Κλωνάρι",
+      "name:en": "Klonari",
+      "boundary": "administrative",
+      "way_area": "0.000318394",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13056261,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2087230,-3263726,-307787",
+    "name": "Kellaki",
+    "local_name": "Κελλάκι",
+    "name_en": "Kellaki",
+    "all_tags": {
+      "name": "Κελλάκι",
+      "name:en": "Kellaki",
+      "boundary": "administrative",
+      "way_area": "0.000913135",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13056260,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2087230,-3263726,-307787",
+    "name": "Prastio Kellakiou",
+    "local_name": "Πραστειό Κελλακίου",
+    "name_en": "Prastio Kellakiou",
+    "all_tags": {
+      "name": "Πραστειό Κελλακίου",
+      "name:en": "Prastio Kellakiou",
+      "boundary": "administrative",
+      "way_area": "0.00175666",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13045893,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2087230,-3263726,-307787",
+    "name": "Pentakomo",
+    "local_name": "Πεντάκωμο",
+    "name_en": "Pentakomo",
+    "all_tags": {
+      "name": "Πεντάκωμο",
+      "name:en": "Pentakomo",
+      "boundary": "administrative",
+      "way_area": "0.00189821",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13045843,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2087230,-3263726,-307787",
+    "name": "Asgata",
+    "local_name": "Ασγάτα",
+    "name_en": "Asgata",
+    "all_tags": {
+      "name": "Ασγάτα",
+      "name:en": "Asgata",
+      "boundary": "administrative",
+      "way_area": "0.00195204",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13045828,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2087230,-3263726,-307787",
+    "name": "Vasa Kellakiou",
+    "local_name": "Βάσα Κελλακίου",
+    "name_en": "Vasa Kellakiou",
+    "all_tags": {
+      "name": "Βάσα Κελλακίου",
+      "name:en": "Vasa Kellakiou",
+      "boundary": "administrative",
+      "way_area": "0.00168062",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13045787,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2087230,-3263726,-307787",
+    "name": "Akapnou",
+    "local_name": "Ακαπνού",
+    "name_en": "Akapnou",
+    "all_tags": {
+      "name": "Ακαπνού",
+      "name:en": "Akapnou",
+      "boundary": "administrative",
+      "way_area": "0.000694673",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13045776,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2087230,-3263726,-307787",
+    "name": "Eptagoneia",
+    "local_name": "Επταγώνια",
+    "name_en": "Eptagoneia",
+    "all_tags": {
+      "name": "Επταγώνια",
+      "name:en": "Eptagoneia",
+      "boundary": "administrative",
+      "way_area": "0.00125195",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13045751,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2087230,-3263726,-307787",
+    "name": "Arakapas",
+    "local_name": "Αρακαπάς",
+    "name_en": "Arakapas",
+    "all_tags": {
+      "name": "Αρακαπάς",
+      "name:en": "Arakapas",
+      "boundary": "administrative",
+      "way_area": "0.00121234",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13044642,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2087230,-3263726,-307787",
+    "name": "Sikopetra",
+    "local_name": "Συκόπετρα",
+    "name_en": "Sikopetra",
+    "all_tags": {
+      "name": "Συκόπετρα",
+      "name:en": "Sikopetra",
+      "boundary": "administrative",
+      "way_area": "0.00143647",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13044627,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2087230,-3263726,-307787",
+    "name": "Agios Konstantinos",
+    "local_name": "Αγιος Κωνσταντίνος",
+    "name_en": "Agios Konstantinos",
+    "all_tags": {
+      "name": "Αγιος Κωνσταντίνος",
+      "name:en": "Agios Konstantinos",
+      "boundary": "administrative",
+      "way_area": "0.000870488",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13044609,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2087230,-3263726,-307787",
+    "name": "Agios Theodoros",
+    "local_name": "Αγιος Θεόδωρος",
+    "name_en": "Agios Theodoros",
+    "all_tags": {
+      "name": "Αγιος Θεόδωρος",
+      "name:en": "Agios Theodoros",
+      "boundary": "administrative",
+      "way_area": "0.00102429",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13044541,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2087230,-3263726,-307787",
+    "name": "Agios Ioannis",
+    "local_name": "Αγιος Ιωάννης Αγρού",
+    "name_en": "Agios Ioannis",
+    "all_tags": {
+      "name": "Αγιος Ιωάννης Αγρού",
+      "name:en": "Agios Ioannis",
+      "boundary": "administrative",
+      "way_area": "0.00078351",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13044533,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2087230,-3263726,-307787",
+    "name": "Kato Mylos",
+    "local_name": "Κάτω Μύλος",
+    "name_en": "Kato Mylos",
+    "all_tags": {
+      "name": "Κάτω Μύλος",
+      "name:en": "Kato Mylos",
+      "boundary": "administrative",
+      "way_area": "0.00023794",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13044401,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2087230,-3263726,-307787",
+    "name": "Agros",
+    "local_name": "Αγρός",
+    "name_en": "Agros",
+    "all_tags": {
+      "name": "Αγρός",
+      "name:en": "Agros",
+      "boundary": "administrative",
+      "way_area": "0.000992927",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13044395,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2087230,-3263726,-307787",
+    "name": "Agridia",
+    "local_name": "Αγρίδια",
+    "name_en": "Agridia",
+    "all_tags": {
+      "name": "Αγρίδια",
+      "name:en": "Agridia",
+      "boundary": "administrative",
+      "way_area": "0.000363674",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13044342,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2087230,-3263726,-307787",
+    "name": "Chandria",
+    "local_name": "Χανδριά",
+    "name_en": "Chandria",
+    "all_tags": {
+      "name": "Χανδριά",
+      "name:en": "Chandria",
+      "boundary": "administrative",
+      "way_area": "0.000311819",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13044261,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2087230,-3263726,-307787",
+    "name": "Kyperounta",
+    "local_name": "Κοινότητα Κυπερούντας",
+    "name_en": "Kyperounta",
+    "all_tags": {
+      "name": "Κοινότητα Κυπερούντας",
+      "name:en": "Kyperounta",
+      "boundary": "administrative",
+      "way_area": "0.000989156",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13044128,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2087230,-3263726,-307787",
+    "name": "Amiantos",
+    "local_name": "Αμίαντος",
+    "name_en": "Amiantos",
+    "all_tags": {
+      "name": "Αμίαντος",
+      "name:en": "Amiantos",
+      "boundary": "administrative",
+      "way_area": "0.000933421",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13044051,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2087230,-3263726,-307787",
+    "name": "Pano Platres",
+    "local_name": "Πάνω Πλάτρες",
+    "name_en": "Pano Platres",
+    "all_tags": {
+      "name": "Πάνω Πλάτρες",
+      "name:en": "Pano Platres",
+      "boundary": "administrative",
+      "way_area": "0.00162877",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13044001,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2087230,-3263726,-307787",
+    "name": "Foini",
+    "local_name": "Κοινότητα Φοινιού",
+    "name_en": "Foini",
+    "all_tags": {
+      "name": "Κοινότητα Φοινιού",
+      "name:en": "Foini",
+      "boundary": "administrative",
+      "way_area": "0.00216659",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13043944,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2087230,-3263726,-307787",
+    "name": "Agios Dimitrios",
+    "local_name": "Κοινότητα Αγίου Δημητρίου",
+    "name_en": "Agios Dimitrios",
+    "all_tags": {
+      "name": "Κοινότητα Αγίου Δημητρίου",
+      "name:en": "Agios Dimitrios",
+      "boundary": "administrative",
+      "way_area": "0.000318106",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13043943,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2087230,-3263726,-307787",
+    "name": "Palaiomylos",
+    "local_name": "Κοινότητα Παλαιόμυλου",
+    "name_en": "Palaiomylos",
+    "all_tags": {
+      "name": "Κοινότητα Παλαιόμυλου",
+      "name:en": "Palaiomylos",
+      "boundary": "administrative",
+      "way_area": "0.000429357",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13043881,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2087230,-3263726,-307787",
+    "name": "Troodos",
+    "local_name": "Κοινότητα Τροόδους",
+    "name_en": "Troodos",
+    "all_tags": {
+      "name": "Κοινότητα Τροόδους",
+      "name:en": "Troodos",
+      "boundary": "administrative",
+      "way_area": "0.00107429",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13043793,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2087230,-3263726,-307787",
+    "name": "Prodromos",
+    "local_name": "Κοινότητα Προδρόμου",
+    "name_en": "Prodromos",
+    "all_tags": {
+      "name": "Κοινότητα Προδρόμου",
+      "name:en": "Prodromos",
+      "boundary": "administrative",
+      "way_area": "0.000768903",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13043645,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2087230,-3263726,-307787",
+    "name": "Lemithou",
+    "local_name": "Κοινότητα Λεμύθου",
+    "name_en": "Lemithou",
+    "all_tags": {
+      "name": "Κοινότητα Λεμύθου",
+      "name:en": "Lemithou",
+      "boundary": "administrative",
+      "way_area": "0.000626865",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13043576,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2087230,-3263726,-307787",
+    "name": "Treis Elies",
+    "local_name": "Κοινότητα Τρεις Ελιές",
+    "name_en": "Treis Elies",
+    "all_tags": {
+      "name": "Κοινότητα Τρεις Ελιές",
+      "name:en": "Treis Elies",
+      "boundary": "administrative",
+      "way_area": "0.000485393",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13042775,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2087230,-3263726,-307787",
+    "name": "Kaminaria",
+    "local_name": "Κοινότητα Καμιναρίων",
+    "name_en": "Kaminaria",
+    "all_tags": {
+      "name": "Κοινότητα Καμιναρίων",
+      "name:en": "Kaminaria",
+      "boundary": "administrative",
+      "way_area": "0.000680627",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13036323,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2087230,-3263726,-307787",
+    "name": "Monagroulli",
+    "local_name": "Monagroulli",
+    "name_en": null,
+    "all_tags": {
+      "name": "Monagroulli",
+      "boundary": "administrative",
+      "way_area": "0.00172614",
+      "wikidata": "Q6897919",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13036131,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2087230,-3263726,-307787",
+    "name": "Κοινότητα Μονής Λεμεσού",
+    "local_name": "Κοινότητα Μονής Λεμεσού",
+    "name_en": null,
+    "all_tags": {
+      "name": "Κοινότητα Μονής Λεμεσού",
+      "boundary": "administrative",
+      "way_area": "0.000774489",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13033864,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2087230,-3263726,-307787",
+    "name": "Σανίδα",
+    "local_name": "Σανίδα",
+    "name_en": null,
+    "all_tags": {
+      "name": "Σανίδα",
+      "boundary": "administrative",
+      "way_area": "0.0010601",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13033863,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2087230,-3263726,-307787",
+    "name": "Κοινότητα Πύργου Λεμεσού",
+    "local_name": "Κοινότητα Πύργου Λεμεσού",
+    "name_en": null,
+    "all_tags": {
+      "name": "Κοινότητα Πύργου Λεμεσού",
+      "boundary": "administrative",
+      "way_area": "0.00141974",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13017401,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2087230,-3263726,-307787",
+    "name": "Pissouri Municipality",
+    "local_name": "Πισσούρι",
+    "name_en": "Pissouri Municipality",
+    "all_tags": {
+      "name": "Πισσούρι",
+      "name:en": "Pissouri Municipality",
+      "boundary": "administrative",
+      "way_area": "0.0037577",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13017400,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2087230,-3263726,-307787",
+    "name": "Avdimou Municipality",
+    "local_name": "Αυδήμου",
+    "name_en": "Avdimou Municipality",
+    "all_tags": {
+      "name": "Αυδήμου",
+      "name:en": "Avdimou Municipality",
+      "boundary": "administrative",
+      "way_area": "0.00139748",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13017399,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2087230,-3263726,-307787",
+    "name": "Paramali Municipality",
+    "local_name": "Παραμάλι",
+    "name_en": "Paramali Municipality",
+    "all_tags": {
+      "name": "Παραμάλι",
+      "name:en": "Paramali Municipality",
+      "boundary": "administrative",
+      "way_area": "0.000851021",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13017398,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2087230,-3263726,-307787",
+    "name": "Sotira Lemesou Municipality",
+    "local_name": "Σωτήρα Λεμεσού",
+    "name_en": "Sotira Lemesou Municipality",
+    "all_tags": {
+      "name": "Σωτήρα Λεμεσού",
+      "name:en": "Sotira Lemesou Municipality",
+      "boundary": "administrative",
+      "way_area": "0.00165512",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13013918,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2087230,-3263726,-307787",
+    "name": "Episkopi Municipality",
+    "local_name": "Επισκοπή",
+    "name_en": "Episkopi Municipality",
+    "all_tags": {
+      "name": "Επισκοπή",
+      "name:en": "Episkopi Municipality",
+      "boundary": "administrative",
+      "way_area": "0.000903449",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13013880,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2087230,-3263726,-307787",
+    "name": "Erimi Municipality",
+    "local_name": "Ερήμη",
+    "name_en": "Erimi Municipality",
+    "all_tags": {
+      "name": "Ερήμη",
+      "name:en": "Erimi Municipality",
+      "boundary": "administrative",
+      "way_area": "0.000570332",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13013879,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2087230,-3263726,-307787",
+    "name": "Kolossi Municipality",
+    "local_name": "Κολόσσι",
+    "name_en": "Kolossi Municipality",
+    "all_tags": {
+      "name": "Κολόσσι",
+      "name:en": "Kolossi Municipality",
+      "boundary": "administrative",
+      "way_area": "0.000403129",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13013878,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2087230,-3263726,-307787",
+    "name": "Ypsonas Municipality",
+    "local_name": "Ύψωνας",
+    "name_en": "Ypsonas Municipality",
+    "all_tags": {
+      "name": "Ύψωνας",
+      "name:en": "Ypsonas Municipality",
+      "boundary": "administrative",
+      "way_area": "0.00237814",
+      "wikidata": "Q3560553",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13008275,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-11974267,-2514541,-307787",
+    "name": "Lefkoşa Türk Belediyesi",
+    "local_name": "Lefkoşa Türk Belediyesi",
+    "name_en": null,
+    "all_tags": {
+      "name": "Lefkoşa Türk Belediyesi",
+      "name:de": "Türkische Gemeinde Nikosia",
+      "name:el": "Δήμος Λεφκόσα",
+      "name:es": "Municipio Turco de Nicosia",
+      "name:fa": "شهرداری لفکوشای ترک",
+      "name:ur": "نیکوسیا ترکی بلدیہ",
+      "boundary": "administrative",
+      "way_area": "0.00294327",
+      "wikidata": "Q7030537",
+      "wikipedia": "tr:Lefkoşa Türk Belediyesi",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -12999019,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3264382,-3263726,-307787",
+    "name": "Synoikismos Anthoupolis",
+    "local_name": "Συνοικισμός Ανθούπολης",
+    "name_en": "Synoikismos Anthoupolis",
+    "all_tags": {
+      "name": "Συνοικισμός Ανθούπολης",
+      "name:en": "Synoikismos Anthoupolis",
+      "boundary": "administrative",
+      "way_area": "4.36103e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -12988218,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2087229,-3263726,-307787",
+    "name": "Pyla Municipality",
+    "local_name": "Πύλα",
+    "name_en": "Pyla Municipality",
+    "all_tags": {
+      "name": "Πύλα",
+      "name:en": "Pyla Municipality",
+      "boundary": "administrative",
+      "way_area": "0.00225208",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -12940463,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3263729,-3263726,-307787",
+    "name": "Kinousa Municipality",
+    "local_name": "Κινούσα",
+    "name_en": "Kinousa Municipality",
+    "all_tags": {
+      "name": "Κινούσα",
+      "name:en": "Kinousa Municipality",
+      "boundary": "administrative",
+      "way_area": "0.00084075",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -12940462,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3263729,-3263726,-307787",
+    "name": "Pelathousa Municipality",
+    "local_name": "Πελαθούσα",
+    "name_en": "Pelathousa Municipality",
+    "all_tags": {
+      "name": "Πελαθούσα",
+      "name:en": "Pelathousa Municipality",
+      "boundary": "administrative",
+      "way_area": "0.000722231",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -12940361,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3264382,-3263726,-307787",
+    "name": "Mylikouri Municipality",
+    "local_name": "Μηλικούρι",
+    "name_en": "Mylikouri Municipality",
+    "all_tags": {
+      "name": "Μηλικούρι",
+      "name:en": "Mylikouri Municipality",
+      "boundary": "administrative",
+      "way_area": "0.00940578",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -12940229,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2087230,-3263726,-307787",
+    "name": "Asomatos Municipality",
+    "local_name": "Ασώματος",
+    "name_en": "Asomatos Municipality",
+    "all_tags": {
+      "name": "Ασώματος",
+      "name:en": "Asomatos Municipality",
+      "boundary": "administrative",
+      "way_area": "0.000202875",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -12940228,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2087230,-3263726,-307787",
+    "name": "Trachoni Municipality",
+    "local_name": "Τραχώνι",
+    "name_en": "Trachoni Municipality",
+    "all_tags": {
+      "name": "Τραχώνι",
+      "name:en": "Trachoni Municipality",
+      "boundary": "administrative",
+      "way_area": "0.000151947",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -12940227,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2087230,-3263726,-307787",
+    "name": "Tserkezoi Municipality",
+    "local_name": "Τσερκέζοι",
+    "name_en": "Tserkezoi Municipality",
+    "all_tags": {
+      "name": "Τσερκέζοι",
+      "name:en": "Tserkezoi Municipality",
+      "boundary": "administrative",
+      "way_area": "0.000264264",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -12474107,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3264382,-3263726,-307787",
+    "name": "Pigenia",
+    "local_name": "Πηγένια",
+    "name_en": "Pigenia",
+    "all_tags": {
+      "name": "Πηγένια",
+      "name:en": "Pigenia",
+      "boundary": "administrative",
+      "way_area": "0.00165785",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -12474106,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3264382,-3263726,-307787",
+    "name": "Άγιος Θεόδωρος Τηλλυρίας",
+    "local_name": "Άγιος Θεόδωρος Τηλλυρίας",
+    "name_en": null,
+    "all_tags": {
+      "name": "Άγιος Θεόδωρος Τηλλυρίας",
+      "boundary": "administrative",
+      "way_area": "0.00101269",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -12474086,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3263729,-3263726,-307787",
+    "name": "Livadi",
+    "local_name": "Λιβάδι",
+    "name_en": "Livadi",
+    "all_tags": {
+      "name": "Λιβάδι",
+      "name:en": "Livadi",
+      "boundary": "administrative",
+      "way_area": "0.00397889",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -12474070,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3263729,-3263726,-307787",
+    "name": "Yialia",
+    "local_name": "Γιαλιά",
+    "name_en": "Yialia",
+    "all_tags": {
+      "name": "Γιαλιά",
+      "name:en": "Yialia",
+      "boundary": "administrative",
+      "way_area": "0.00362695",
+      "admin_level": "8",
+      "alt_name:en": "Gialia"
+    }
+  },
+  {
+    "osm_id": -12474069,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3263729,-3263726,-307787",
+    "name": "Makounta",
+    "local_name": "Μακούντα",
+    "name_en": "Makounta",
+    "all_tags": {
+      "name": "Μακούντα",
+      "name:en": "Makounta",
+      "boundary": "administrative",
+      "way_area": "0.000660429",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -12474068,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3263729,-3263726,-307787",
+    "name": "Argaka",
+    "local_name": "Αργάκα",
+    "name_en": "Argaka",
+    "all_tags": {
+      "name": "Αργάκα",
+      "name:en": "Argaka",
+      "boundary": "administrative",
+      "way_area": "0.00159785",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -12474013,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3264382,-3263726,-307787",
+    "name": "Kato Pyrgos",
+    "local_name": "Κάτω Πύργος",
+    "name_en": "Kato Pyrgos",
+    "all_tags": {
+      "name": "Κάτω Πύργος",
+      "name:en": "Kato Pyrgos",
+      "boundary": "administrative",
+      "way_area": "0.000725241",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -12470124,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3264382,-3263726,-307787",
+    "name": "Mansoura",
+    "local_name": "Μανσούρα",
+    "name_en": "Mansoura",
+    "all_tags": {
+      "name": "Μανσούρα",
+      "name:en": "Mansoura",
+      "boundary": "administrative",
+      "way_area": "8.75948e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -12470123,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3264382,-3263726,-307787",
+    "name": "Mosfilieri",
+    "local_name": "Μοσφίλι",
+    "name_en": "Mosfilieri",
+    "all_tags": {
+      "name": "Μοσφίλι",
+      "name:en": "Mosfilieri",
+      "boundary": "administrative",
+      "way_area": "0.000168322",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -12315151,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3264447,-3263726,-307787",
+    "name": "Avgorou",
+    "local_name": "Αυγόρου",
+    "name_en": "Avgorou",
+    "all_tags": {
+      "name": "Αυγόρου",
+      "name:en": "Avgorou",
+      "boundary": "administrative",
+      "way_area": "0.00320632",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -12315121,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3264447,-3263726,-307787",
+    "name": "Frenaros",
+    "local_name": "Φρέναρος",
+    "name_en": "Frenaros",
+    "all_tags": {
+      "name": "Φρέναρος",
+      "name:en": "Frenaros",
+      "boundary": "administrative",
+      "way_area": "0.00285492",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -12315013,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3264447,-3263726,-307787",
+    "name": "Deryneia",
+    "local_name": "Δερύνεια",
+    "name_en": "Deryneia",
+    "all_tags": {
+      "name": "Δερύνεια",
+      "name:en": "Deryneia",
+      "boundary": "administrative",
+      "way_area": "0.00129848",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -12311700,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3264447,-3263726,-307787",
+    "name": "Liopetri",
+    "local_name": "Λιοπέτρι",
+    "name_en": "Liopetri",
+    "all_tags": {
+      "name": "Λιοπέτρι",
+      "name:en": "Liopetri",
+      "boundary": "administrative",
+      "way_area": "0.00233641",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -12311675,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3264447,-3263726,-307787",
+    "name": "Sotira",
+    "local_name": "Σωτήρα",
+    "name_en": "Sotira",
+    "all_tags": {
+      "name": "Σωτήρα",
+      "name:en": "Sotira",
+      "boundary": "administrative",
+      "way_area": "0.00254088",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -12311643,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3264447,-3263726,-307787",
+    "name": "Ayia Napa",
+    "local_name": "Αγία Νάπα",
+    "name_en": "Ayia Napa",
+    "all_tags": {
+      "name": "Αγία Νάπα",
+      "name:en": "Ayia Napa",
+      "boundary": "administrative",
+      "way_area": "0.00310537",
+      "wikidata": "Q393593",
+      "wikipedia": "en:Ayia Napa",
+      "admin_level": "8",
+      "alt_name:en": "Agia Napa",
+      "postal_code": "5330"
+    }
+  },
+  {
+    "osm_id": -12311602,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3264447,-3263726,-307787",
+    "name": "Paralimni",
+    "local_name": "Παραλίμνι",
+    "name_en": "Paralimni",
+    "all_tags": {
+      "name": "Παραλίμνι",
+      "name:en": "Paralimni",
+      "boundary": "administrative",
+      "way_area": "0.00493637",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -12223155,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-11974267,-2514541,-307787",
+    "name": "Gaziköy",
+    "local_name": "Gaziköy",
+    "name_en": null,
+    "all_tags": {
+      "name": "Gaziköy",
+      "boundary": "administrative",
+      "way_area": "0.00185842",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -12082787,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2087229,-3263726,-307787",
+    "name": "Xylofagou",
+    "local_name": "Ξυλοφάγου",
+    "name_en": "Xylofagou",
+    "all_tags": {
+      "name": "Ξυλοφάγου",
+      "name:el": "Ξυλοφάγου",
+      "name:en": "Xylofagou",
+      "boundary": "administrative",
+      "way_area": "0.000808014",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11572443,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3264382,-3263726,-307787",
+    "name": "Paliometocho",
+    "local_name": "Paliometocho",
+    "name_en": null,
+    "all_tags": {
+      "name": "Paliometocho",
+      "place": "village",
+      "name:el": "Παλιομέτοχο",
+      "boundary": "administrative",
+      "way_area": "0.00340993",
+      "wikidata": "Q3557700",
+      "wikipedia": "en:Paliometocho",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11572442,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3264382,-3263726,-307787",
+    "name": "Agioi Trimithias",
+    "local_name": "Agioi Trimithias",
+    "name_en": null,
+    "all_tags": {
+      "name": "Agioi Trimithias",
+      "place": "village",
+      "boundary": "administrative",
+      "way_area": "0.00202087",
+      "wikidata": "Q9142938",
+      "wikipedia": "en:Agioi Trimithias",
+      "admin_level": "8",
+      "postal_code": "2671"
+    }
+  },
+  {
+    "osm_id": -10142772,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-11974267,-2514541,-307787",
+    "name": "Louroujina/Akıncılar",
+    "local_name": "Akıncılar",
+    "name_en": "Louroujina/Akıncılar",
+    "all_tags": {
+      "name": "Akıncılar",
+      "name:el": "Λουρουτζίνα",
+      "name:en": "Louroujina/Akıncılar",
+      "alt_name": "Lurucina",
+      "boundary": "administrative",
+      "way_area": "0.000890006",
+      "admin_level": "8",
+      "alt_name:el": "Λουρουκίνα"
+    }
+  },
+  {
+    "osm_id": -10059324,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3264382,-3263726,-307787",
+    "name": "Κόκκινα",
+    "local_name": "Κόκκινα",
+    "name_en": null,
+    "all_tags": {
+      "name": "Κόκκινα",
+      "boundary": "administrative",
+      "way_area": "0.000395353",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -10057717,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3264382,-3263726,-307787",
+    "name": "Alevga",
+    "local_name": "Alevkaya / Αλεύγα",
+    "name_en": "Alevga",
+    "all_tags": {
+      "name": "Alevkaya / Αλεύγα",
+      "name:el": "Αλεύγα",
+      "name:en": "Alevga",
+      "name:tr": "Alevkaya",
+      "boundary": "administrative",
+      "way_area": "0.000287075",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -10057716,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3264382,-3263726,-307787",
+    "name": "Selládi tou Appi",
+    "local_name": "Selçuklu / Σελλάδι του Άππη",
+    "name_en": "Selládi tou Appi",
+    "all_tags": {
+      "name": "Selçuklu / Σελλάδι του Άππη",
+      "name:el": "Σελλάδι του Άππη",
+      "name:en": "Selládi tou Appi",
+      "name:tr": "Selçuklu",
+      "boundary": "administrative",
+      "way_area": "0.000435231",
+      "wikidata": "Q9335117",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -10057596,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3263729,-3263726,-307787",
+    "name": "Ayia Marina Chrysochous",
+    "local_name": "Αγία Μαρίνα Χρυσοχούς",
+    "name_en": "Ayia Marina Chrysochous",
+    "all_tags": {
+      "name": "Αγία Μαρίνα Χρυσοχούς",
+      "name:el": "Αγία Μαρίνα Χρυσοχούς",
+      "name:en": "Ayia Marina Chrysochous",
+      "boundary": "administrative",
+      "way_area": "0.00120201",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -10057442,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3263729,-3263726,-307787",
+    "name": "Pomos",
+    "local_name": "Πωμός",
+    "name_en": "Pomos",
+    "all_tags": {
+      "name": "Πωμός",
+      "name:el": "Πωμός",
+      "name:en": "Pomos",
+      "boundary": "administrative",
+      "way_area": "0.00185585",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -10057005,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3264382,-3263726,-307787",
+    "name": "Pachyammos",
+    "local_name": "Παχύαμμος",
+    "name_en": "Pachyammos",
+    "all_tags": {
+      "name": "Παχύαμμος",
+      "place": "village",
+      "name:el": "Παχύαμμος",
+      "name:en": "Pachyammos",
+      "boundary": "administrative",
+      "way_area": "0.000396148",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -10057004,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3263729,-3263726,-307787",
+    "name": "Nea Dhimmata",
+    "local_name": "Νέα Δήμματα",
+    "name_en": "Nea Dhimmata",
+    "all_tags": {
+      "name": "Νέα Δήμματα",
+      "place": "village",
+      "name:el": "Νέα Δήμματα",
+      "name:en": "Nea Dhimmata",
+      "boundary": "administrative",
+      "way_area": "0.000295714",
+      "wikidata": "Q6983929",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -10053768,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3263729,-3263726,-307787",
+    "name": "Kato Akourdaleia",
+    "local_name": "Κάτω Ακουρδάλια",
+    "name_en": "Kato Akourdaleia",
+    "all_tags": {
+      "name": "Κάτω Ακουρδάλια",
+      "name:en": "Kato Akourdaleia",
+      "boundary": "administrative",
+      "way_area": "0.000289378",
+      "wikidata": "Q6377736",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -10053767,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3263729,-3263726,-307787",
+    "name": "Terra",
+    "local_name": "Τέρρα",
+    "name_en": "Terra",
+    "all_tags": {
+      "name": "Τέρρα",
+      "name:en": "Terra",
+      "boundary": "administrative",
+      "way_area": "0.000649842",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -10053241,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3263729,-3263726,-307787",
+    "name": "Agios Isodoros",
+    "local_name": "Άγιος Ισίδωρος",
+    "name_en": "Agios Isodoros",
+    "all_tags": {
+      "name": "Άγιος Ισίδωρος",
+      "name:en": "Agios Isodoros",
+      "boundary": "administrative",
+      "way_area": "0.000120322",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -10053240,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3263729,-3263726,-307787",
+    "name": "Evretou",
+    "local_name": "Ευρέτου",
+    "name_en": "Evretou",
+    "all_tags": {
+      "name": "Ευρέτου",
+      "name:en": "Evretou",
+      "boundary": "administrative",
+      "way_area": "0.000329557",
+      "wikidata": "Q5418792",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -10053239,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3263729,-3263726,-307787",
+    "name": "Loukrounou",
+    "local_name": "Λουκρούνου",
+    "name_en": "Loukrounou",
+    "all_tags": {
+      "name": "Λουκρούνου",
+      "name:en": "Loukrounou",
+      "boundary": "administrative",
+      "way_area": "0.000197055",
+      "wikidata": "Q6689616",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -10049389,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3263729,-3263726,-307787",
+    "name": "Peristerona",
+    "local_name": "Περιστερώνα",
+    "name_en": "Peristerona",
+    "all_tags": {
+      "name": "Περιστερώνα",
+      "name:en": "Peristerona",
+      "boundary": "administrative",
+      "way_area": "0.000596389",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -10049388,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3263729,-3263726,-307787",
+    "name": "Trimithousa",
+    "local_name": "Τριμιθούσα",
+    "name_en": "Trimithousa",
+    "all_tags": {
+      "name": "Τριμιθούσα",
+      "name:en": "Trimithousa",
+      "boundary": "administrative",
+      "way_area": "0.000246267",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -10049387,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3263729,-3263726,-307787",
+    "name": "Skoulli",
+    "local_name": "Σκούλλι",
+    "name_en": "Skoulli",
+    "all_tags": {
+      "name": "Σκούλλι",
+      "name:en": "Skoulli",
+      "boundary": "administrative",
+      "way_area": "0.000185704",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -10046309,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3263729,-3263726,-307787",
+    "name": "Choli",
+    "local_name": "Χόλη",
+    "name_en": "Choli",
+    "all_tags": {
+      "name": "Χόλη",
+      "name:en": "Choli",
+      "boundary": "administrative",
+      "way_area": "0.000160935",
+      "wikidata": "Q389897",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -10026459,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3263729,-3263726,-307787",
+    "name": "Goudi",
+    "local_name": "Γουδί",
+    "name_en": "Goudi",
+    "all_tags": {
+      "name": "Γουδί",
+      "name:en": "Goudi",
+      "boundary": "administrative",
+      "way_area": "0.000504346",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -10026458,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3263729,-3263726,-307787",
+    "name": "Karamoullides",
+    "local_name": "Καραμουλλήδες",
+    "name_en": "Karamoullides",
+    "all_tags": {
+      "name": "Καραμουλλήδες",
+      "name:en": "Karamoullides",
+      "name:tr": "Kervanyolu",
+      "boundary": "administrative",
+      "way_area": "2.93441e-05",
+      "wikidata": "Q6368348",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -10026457,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3263729,-3263726,-307787",
+    "name": "Chrysochou",
+    "local_name": "Χρυσοχού",
+    "name_en": "Chrysochou",
+    "all_tags": {
+      "name": "Χρυσοχού",
+      "name:en": "Chrysochou",
+      "boundary": "administrative",
+      "way_area": "0.00065462",
+      "wikidata": "Q9190933",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -10026456,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3263729,-3263726,-307787",
+    "name": "Steni",
+    "local_name": "Στενή",
+    "name_en": "Steni",
+    "all_tags": {
+      "name": "Στενή",
+      "name:en": "Steni",
+      "boundary": "administrative",
+      "way_area": "0.000777501",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -10023026,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3263729,-3263726,-307787",
+    "name": "Fasli",
+    "local_name": "Φάσλι",
+    "name_en": "Fasli",
+    "all_tags": {
+      "name": "Φάσλι",
+      "name:en": "Fasli",
+      "boundary": "administrative",
+      "way_area": "0.000543477",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -10023025,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3263729,-3263726,-307787",
+    "name": "Drouseia",
+    "local_name": "Δρούσεια",
+    "name_en": "Drouseia",
+    "all_tags": {
+      "name": "Δρούσεια",
+      "name:en": "Drouseia",
+      "boundary": "administrative",
+      "way_area": "0.00351484",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -9502936,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3263729,-3263726,-307787",
+    "name": "Androlikou",
+    "local_name": "Ανδρολύκου",
+    "name_en": "Androlikou",
+    "all_tags": {
+      "name": "Ανδρολύκου",
+      "name:en": "Androlikou",
+      "boundary": "administrative",
+      "way_area": "0.00195616",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -9500328,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3263729,-3263726,-307787",
+    "name": "Neo Chorio",
+    "local_name": "Neo Chorio",
+    "name_en": null,
+    "all_tags": {
+      "name": "Neo Chorio",
+      "name:el": "Νέο Χωριό",
+      "boundary": "administrative",
+      "way_area": "0.00422262",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -9500327,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3263729,-3263726,-307787",
+    "name": "Polis Chrysochous",
+    "local_name": "Πόλις Χρυσοχούς",
+    "name_en": "Polis Chrysochous",
+    "all_tags": {
+      "name": "Πόλις Χρυσοχούς",
+      "name:en": "Polis Chrysochous",
+      "boundary": "administrative",
+      "way_area": "0.00193266",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8446786,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3263729,-3263726,-307787",
+    "name": "Κοινότητα Μανδριών",
+    "local_name": "Κοινότητα Μανδριών",
+    "name_en": null,
+    "all_tags": {
+      "name": "Κοινότητα Μανδριών",
+      "boundary": "administrative",
+      "way_area": "0.000696179",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8446769,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3263729,-3263726,-307787",
+    "name": "Κοινότητα Τίμης",
+    "local_name": "Κοινότητα Τίμης",
+    "name_en": null,
+    "all_tags": {
+      "name": "Κοινότητα Τίμης",
+      "boundary": "administrative",
+      "way_area": "0.00107988",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8439260,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3263729,-3263726,-307787",
+    "name": "Κοινότητα Νικόκλειας",
+    "local_name": "Κοινότητα Νικόκλειας",
+    "name_en": null,
+    "all_tags": {
+      "name": "Κοινότητα Νικόκλειας",
+      "boundary": "administrative",
+      "way_area": "0.000281612",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8438116,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2087230,-3263726,-307787",
+    "name": "Κοινότητα Ακρούντας",
+    "local_name": "Κοινότητα Ακρούντας",
+    "name_en": null,
+    "all_tags": {
+      "name": "Κοινότητα Ακρούντας",
+      "boundary": "administrative",
+      "way_area": "0.00123194",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8438101,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3263729,-3263726,-307787",
+    "name": "Κοινότητα Αχέλειας",
+    "local_name": "Κοινότητα Αχέλειας",
+    "name_en": null,
+    "all_tags": {
+      "name": "Κοινότητα Αχέλειας",
+      "boundary": "administrative",
+      "way_area": "0.000894519",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8438034,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3263729,-3263726,-307787",
+    "name": "Κοινότητα Τάλας",
+    "local_name": "Κοινότητα Τάλας",
+    "name_en": null,
+    "all_tags": {
+      "name": "Κοινότητα Τάλας",
+      "boundary": "administrative",
+      "way_area": "0.000934862",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8437299,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3263729,-3263726,-307787",
+    "name": "Κοινότητα Έμπας",
+    "local_name": "Κοινότητα Έμπας",
+    "name_en": null,
+    "all_tags": {
+      "name": "Κοινότητα Έμπας",
+      "boundary": "administrative",
+      "way_area": "0.000656113",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8434479,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3263729,-3263726,-307787",
+    "name": "Κοινότητα Χλώρακα",
+    "local_name": "Κοινότητα Χλώρακα",
+    "name_en": null,
+    "all_tags": {
+      "name": "Κοινότητα Χλώρακα",
+      "boundary": "administrative",
+      "way_area": "0.000480434",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8434406,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3263729,-3263726,-307787",
+    "name": "Κοινότητα Κισσόνεργας",
+    "local_name": "Κοινότητα Κισσόνεργας",
+    "name_en": null,
+    "all_tags": {
+      "name": "Κοινότητα Κισσόνεργας",
+      "boundary": "administrative",
+      "way_area": "0.000868469",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8434405,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3263729,-3263726,-307787",
+    "name": "Κοινότητα Λέμπας",
+    "local_name": "Κοινότητα Λέμπας",
+    "name_en": null,
+    "all_tags": {
+      "name": "Κοινότητα Λέμπας",
+      "boundary": "administrative",
+      "way_area": "0.00011459",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8433688,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2087230,-3263726,-307787",
+    "name": "Kato Polemidion Municipality",
+    "local_name": "Δήμος Κάτω Πολεμιδίων",
+    "name_en": "Kato Polemidion Municipality",
+    "all_tags": {
+      "name": "Δήμος Κάτω Πολεμιδίων",
+      "name:en": "Kato Polemidion Municipality",
+      "boundary": "administrative",
+      "way_area": "0.00186685",
+      "wikidata": "Q2423938",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8433097,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2087230,-3263726,-307787",
+    "name": "Κοινότητα Παρεκκλησιάς",
+    "local_name": "Κοινότητα Παρεκκλησιάς",
+    "name_en": null,
+    "all_tags": {
+      "name": "Κοινότητα Παρεκκλησιάς",
+      "boundary": "administrative",
+      "way_area": "0.00251259",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8432350,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2087230,-3263726,-307787",
+    "name": "Κοινότητα Φοινικαρίων",
+    "local_name": "Κοινότητα Φοινικαρίων",
+    "name_en": null,
+    "all_tags": {
+      "name": "Κοινότητα Φοινικαρίων",
+      "boundary": "administrative",
+      "way_area": "0.00123872",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8432091,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2087230,-3263726,-307787",
+    "name": "Κοινότητα Αρμενοχωρίου",
+    "local_name": "Κοινότητα Αρμενοχωρίου",
+    "name_en": null,
+    "all_tags": {
+      "name": "Κοινότητα Αρμενοχωρίου",
+      "boundary": "administrative",
+      "way_area": "0.000834385",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8430116,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2087230,-3263726,-307787",
+    "name": "Κοινότητα Αγίου Τύχωνα",
+    "local_name": "Κοινότητα Αγίου Τύχωνα",
+    "name_en": null,
+    "all_tags": {
+      "name": "Κοινότητα Αγίου Τύχωνα",
+      "boundary": "administrative",
+      "way_area": "0.000962781",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8425327,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2087230,-3263726,-307787",
+    "name": "Δήμος Αγίου Αθανασίου",
+    "local_name": "Δήμος Αγίου Αθανασίου",
+    "name_en": null,
+    "all_tags": {
+      "name": "Δήμος Αγίου Αθανασίου",
+      "boundary": "administrative",
+      "way_area": "0.0014116",
+      "wikidata": "Q3606577",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8422878,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2087230,-3263726,-307787",
+    "name": "Κοινότητα Μουτταγιάκας",
+    "local_name": "Κοινότητα Μουτταγιάκας",
+    "name_en": null,
+    "all_tags": {
+      "name": "Κοινότητα Μουτταγιάκας",
+      "boundary": "administrative",
+      "way_area": "0.000473645",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8422793,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2087230,-3263726,-307787",
+    "name": "Δήμος Γερμασόγειας",
+    "local_name": "Δήμος Γερμασόγειας",
+    "name_en": null,
+    "all_tags": {
+      "name": "Δήμος Γερμασόγειας",
+      "name:ar": "بلدية غرمسوغيا",
+      "boundary": "administrative",
+      "way_area": "0.00154775",
+      "wikidata": "Q349340",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8422686,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2087230,-3263726,-307787",
+    "name": "Δήμος Μέσα Γειτονιάς",
+    "local_name": "Δήμος Μέσα Γειτονιάς",
+    "name_en": null,
+    "all_tags": {
+      "name": "Δήμος Μέσα Γειτονιάς",
+      "boundary": "administrative",
+      "way_area": "0.000355591",
+      "wikidata": "Q649368",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8421977,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2087230,-3263726,-307787",
+    "name": "Pano Polemidia Community",
+    "local_name": "Pano Polemidia",
+    "name_en": "Pano Polemidia Community",
+    "all_tags": {
+      "name": "Pano Polemidia",
+      "name:el": "Κοινότητα Πάνω Πολεμιδίων",
+      "name:en": "Pano Polemidia Community",
+      "boundary": "administrative",
+      "way_area": "0.000313665",
+      "wikidata": "Q16269888",
+      "wikipedia": "el:Πάνω Πολεμίδια",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8421354,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3263729,-3263726,-307787",
+    "name": "Kouklia",
+    "local_name": "Κοινότητα Κουκλίων",
+    "name_en": "Kouklia",
+    "all_tags": {
+      "name": "Κοινότητα Κουκλίων",
+      "name:en": "Kouklia",
+      "boundary": "administrative",
+      "way_area": "0.00404329",
+      "wikidata": "Q930838",
+      "wikipedia": "el:Κούκλια",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -5509196,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2087229,-3263726,-307787",
+    "name": "Ormideia",
+    "local_name": "Ορμήδεια",
+    "name_en": "Ormideia",
+    "all_tags": {
+      "name": "Ορμήδεια",
+      "place": "town",
+      "name:el": "Ορμήδεια",
+      "name:en": "Ormideia",
+      "boundary": "administrative",
+      "way_area": "0.000223732",
+      "wikidata": "Q81570",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -5509192,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2087229,-3263726,-307787",
+    "name": "Xylotymbou",
+    "local_name": "Ξυλοτύμβου",
+    "name_en": "Xylotymbou",
+    "all_tags": {
+      "name": "Ξυλοτύμβου",
+      "place": "town",
+      "name:el": "Ξυλοτύμβου",
+      "name:en": "Xylotymbou",
+      "boundary": "administrative",
+      "way_area": "0.000144032",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3278691,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-10090539,-2514541,-307787",
+    "name": "Erenköy/Kokkina",
+    "local_name": "Erenköy",
+    "name_en": "Erenköy/Kokkina",
+    "all_tags": {
+      "name": "Erenköy",
+      "place": "village",
+      "name:el": "Κόκκινα",
+      "name:en": "Erenköy/Kokkina",
+      "name:fr": "Kokkina",
+      "name:ru": "Коккина",
+      "name:tr": "Erenköy",
+      "alt_name": "Erenköy",
+      "boundary": "administrative",
+      "int_name": "Kokkina",
+      "way_area": "0.0002443",
+      "wikidata": "Q202360",
+      "wikipedia": "en:Kokkina exclave",
+      "admin_level": "8",
+      "alt_name:ru": "Эренкёй",
+      "alt_name:tr": "Kokkina"
+    }
+  },
+  {
+    "osm_id": -3263730,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2087230,-3263726,-307787",
+    "name": "Limassol Municipality",
+    "local_name": "Δήμος Λεμεσού",
+    "name_en": "Limassol Municipality",
+    "all_tags": {
+      "name": "Δήμος Λεμεσού",
+      "name:ar": "ليماسول",
+      "name:el": "Δήμος Λεμεσού",
+      "name:en": "Limassol Municipality",
+      "name:fr": "Limassol",
+      "name:hy": "Լիմասոլ",
+      "name:it": "Limisso",
+      "name:ru": "Лимасол",
+      "name:tr": "Limasol",
+      "alt_name": "Lemesos",
+      "boundary": "administrative",
+      "int_name": "Limassol",
+      "way_area": "0.00349891",
+      "wikidata": "Q28870916",
+      "wikipedia": "el:Δήμος Λεμεσού",
+      "admin_level": "8",
+      "alt_name:it": "Limassol",
+      "alt_name:ru": "Лемессос",
+      "alt_name:tr": "Leymosun"
+    }
+  },
+  {
+    "osm_id": -2672302,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3263729,-3263726,-307787",
+    "name": "Peyia",
+    "local_name": "Πέγεια",
+    "name_en": "Peyia",
+    "all_tags": {
+      "name": "Πέγεια",
+      "place": "town",
+      "name:ar": "بيغيا",
+      "name:el": "Πέγεια",
+      "name:en": "Peyia",
+      "name:ru": "Пейя",
+      "boundary": "administrative",
+      "way_area": "0.00419377",
+      "wikidata": "Q2538717",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -2628527,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2628520,-3264382,-3263726,-307787",
+    "name": "Strovolos",
+    "local_name": "Strovolos",
+    "name_en": null,
+    "all_tags": {
+      "name": "Strovolos",
+      "place": "town",
+      "name:ar": "استروفولوس",
+      "name:ru": "Строволос",
+      "boundary": "administrative",
+      "way_area": "0.00250154",
+      "wikidata": "Q668370",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -2628526,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2628520,-3264382,-3263726,-307787",
+    "name": "Latsia",
+    "local_name": "Latsia",
+    "name_en": null,
+    "all_tags": {
+      "name": "Latsia",
+      "place": "town",
+      "name:ru": "Лация",
+      "boundary": "administrative",
+      "way_area": "0.00163617",
+      "wikidata": "Q2430447",
+      "wikipedia": "el:Λατσιά",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -2628525,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2628520,-3264382,-3263726,-307787",
+    "name": "Lakatamia",
+    "local_name": "Lakatamia",
+    "name_en": null,
+    "all_tags": {
+      "name": "Lakatamia",
+      "place": "town",
+      "name:de": "Lakatamia",
+      "name:el": "Λακατάμια",
+      "name:ru": "Лакатамия",
+      "boundary": "administrative",
+      "way_area": "0.00271307",
+      "wikidata": "Q349503",
+      "wikipedia": "el:Λακατάμια",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -2628524,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2628520,-3264382,-3263726,-307787",
+    "name": "Engomi",
+    "local_name": "Engomi",
+    "name_en": null,
+    "all_tags": {
+      "name": "Engomi",
+      "place": "town",
+      "name:ar": "إنغومي",
+      "name:ru": "Энгоми (Тузла)",
+      "boundary": "administrative",
+      "way_area": "0.000938924",
+      "wikidata": "Q2430556",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -2628523,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2628520,-3264382,-3263726,-307787",
+    "name": "Ayios Dhometios Municipality",
+    "local_name": "Δήμος Αγίου Δομετίου",
+    "name_en": "Ayios Dhometios Municipality",
+    "all_tags": {
+      "name": "Δήμος Αγίου Δομετίου",
+      "place": "town",
+      "name:el": "Δήμος Αγίου Δομετίου",
+      "name:en": "Ayios Dhometios Municipality",
+      "name:ru": "Агиос-Дометиос",
+      "boundary": "administrative",
+      "way_area": "0.000300101",
+      "wikidata": "Q2430460",
+      "wikipedia": "el:Άγιος Δομέτιος Λευκωσίας",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -2628522,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2628520,-3264382,-3263726,-307787",
+    "name": "Aglantzia Municipality",
+    "local_name": "Δήμος Αγλαντζιάς",
+    "name_en": "Aglantzia Municipality",
+    "all_tags": {
+      "name": "Δήμος Αγλαντζιάς",
+      "is_in": "Aglantzia",
+      "place": "town",
+      "name:de": "Aglantzia",
+      "name:el": "Δήμος Αγλαντζιάς",
+      "name:en": "Aglantzia Municipality",
+      "name:ru": "Агланция",
+      "boundary": "administrative",
+      "way_area": "0.00163817",
+      "wikidata": "Q2542169",
+      "wikipedia": "el:Αγλαντζιά",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -2628521,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2628520,-3264382,-3263726,-307787",
+    "name": "Nicosia Municipality",
+    "local_name": "Δήμος Λευκωσίας",
+    "name_en": "Nicosia Municipality",
+    "all_tags": {
+      "name": "Δήμος Λευκωσίας",
+      "place": "city",
+      "name:af": "Nicosia",
+      "name:am": "ሌፍኮዚያ",
+      "name:an": "Nicosia",
+      "name:ar": "نيقوسيا",
+      "name:az": "Nikosiya",
+      "name:be": "Нікасія",
+      "name:bg": "Никозия",
+      "name:bn": "নিকোসিয়া",
+      "name:bo": "ནེ་ཁོ་ཤི་ཡ།",
+      "name:br": "Nikozia",
+      "name:bs": "Nikozija",
+      "name:ca": "Nicòsia",
+      "name:cs": "Nikósie",
+      "name:cy": "Nicosia",
+      "name:da": "Nicosia",
+      "name:de": "Nikosia",
+      "name:el": "Δήμος Λευκωσίας",
+      "name:en": "Nicosia Municipality",
+      "name:eo": "Nikozio",
+      "name:es": "Municipio de Nicosia",
+      "name:fa": "نیکوزیا",
+      "name:fr": "Nicosie",
+      "name:ga": "An Leafcóis",
+      "name:gd": "Nicosia",
+      "name:gl": "Nicosia",
+      "name:gv": "Lefkosia",
+      "name:he": "ניקוסיה",
+      "name:hi": "निकोसिया",
+      "name:hr": "Nikozija",
+      "name:ht": "Nikozi",
+      "name:hu": "Nicosia",
+      "name:hy": "Նիկոսիա",
+      "name:is": "Nikósía",
+      "name:it": "Nicosia",
+      "name:ja": "ニコシア",
+      "name:ka": "ნიქოზია",
+      "name:kk": "Никосия",
+      "name:kl": "Nicosia",
+      "name:ko": "니코시아",
+      "name:ky": "Лефкоша",
+      "name:la": "Nicosia",
+      "name:lt": "Nikosija",
+      "name:lv": "Nikosija",
+      "name:mi": "Nicosia",
+      "name:mk": "Левкозија",
+      "name:mr": "निकोसिया",
+      "name:ms": "Nicosia",
+      "name:nl": "Nicosia",
+      "name:oc": "Nicosia",
+      "name:os": "Никоси",
+      "name:pl": "Nikozja",
+      "name:pt": "Nicósia",
+      "name:ro": "Nicosia",
+      "name:ru": "Никосия",
+      "name:rw": "Nikosiya",
+      "name:sh": "Nikozija",
+      "name:sk": "Nikózia",
+      "name:sl": "Nikozija",
+      "name:sq": "Nicosia",
+      "name:sr": "Никозија",
+      "name:sv": "Nicosia",
+      "name:ta": "நிக்கோசியா",
+      "name:tg": "Никосия",
+      "name:th": "นิโคเซีย",
+      "name:tl": "Nicosia",
+      "name:tr": "Lefkoşa Belediyesi",
+      "name:tt": "Никосия",
+      "name:ug": "نىكوسىيە",
+      "name:uk": "Нікосія",
+      "name:ur": "نیکوسیا",
+      "name:vi": "Nicosia",
+      "name:yi": "ניקאסיע",
+      "name:yo": "Nicosia",
+      "name:zh": "尼科西亚",
+      "boundary": "administrative",
+      "int_name": "Nicosia",
+      "name:arz": "نيكوسيا",
+      "name:ckb": "نیکۆسیا",
+      "name:crh": "Lefkoşa",
+      "name:gag": "Lefkoşa",
+      "name:kaa": "Arqa Nikosiya",
+      "name:lad": "Nikosiya",
+      "name:lij": "Nicosia",
+      "name:lmo": "Nicoséa",
+      "name:mdf": "Никосия",
+      "name:mzn": "نیکوزیا",
+      "name:nah": "Nicosia",
+      "name:nan": "Nicosia",
+      "name:nap": "Nicosìa",
+      "name:pms": "Nicosìa",
+      "name:pnb": "نیکوسیا",
+      "name:pnt": "Λευκωσίαν",
+      "name:sah": "Никосия",
+      "name:sco": "Nicosia",
+      "name:stq": "Nicosia",
+      "name:udm": "Никосия",
+      "name:vep": "Nikosii",
+      "name:war": "Nicosia",
+      "way_area": "0.00203102",
+      "wikidata": "Q56037497",
+      "wikipedia": "en:Nicosia Municipality",
+      "population": "310355",
+      "admin_level": "8",
+      "alt_name:ar": "الأفقوسية",
+      "alt_name:ru": "Левкосия",
+      "description": "Municipality",
+      "old_name:ar": "الأفقوسية"
+    }
+  },
+  {
+    "osm_id": -533387,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3263729,-3263726,-307787",
+    "name": "Yeroskipou",
+    "local_name": "Γεροσκήπου",
+    "name_en": "Yeroskipou",
+    "all_tags": {
+      "name": "Γεροσκήπου",
+      "name:el": "Γεροσκήπου",
+      "name:en": "Yeroskipou",
+      "name:ru": "Героскипу",
+      "boundary": "administrative",
+      "way_area": "0.00142639",
+      "wikidata": "Q588760",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -533386,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3263729,-3263726,-307787",
+    "name": "Paphos Municipality",
+    "local_name": "Δήμος Πάφου",
+    "name_en": "Paphos Municipality",
+    "all_tags": {
+      "name": "Δήμος Πάφου",
+      "name:ar": "بافوس",
+      "name:de": "Paphos",
+      "name:el": "Δήμος Πάφου",
+      "name:en": "Paphos Municipality",
+      "name:it": "Pafo",
+      "name:ru": "Пафос",
+      "name:uk": "Пафос",
+      "boundary": "administrative",
+      "way_area": "0.00168802",
+      "wikidata": "Q180918",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -533154,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2087229,-3263726,-307787",
+    "name": "Larnaca Municipality",
+    "local_name": "Δήμος Λάρνακας",
+    "name_en": "Larnaca Municipality",
+    "all_tags": {
+      "name": "Δήμος Λάρνακας",
+      "place": "town",
+      "name:ar": "لارنكا",
+      "name:el": "Δήμος Λάρνακας",
+      "name:en": "Larnaca Municipality",
+      "name:fr": "Larnaca",
+      "name:he": "לרנקה",
+      "name:it": "Larnaca",
+      "name:ku": "Larnaka",
+      "name:lt": "Larnaka",
+      "name:mk": "Ларнака",
+      "name:pl": "Larnaka",
+      "name:ru": "Ларнака",
+      "name:sl": "Larnaka",
+      "name:tr": "Larnaka",
+      "boundary": "administrative",
+      "int_name": "Larnaca",
+      "name:ckb": "لارناکا",
+      "way_area": "0.00323201",
+      "wikidata": "Q171882",
+      "admin_level": "8"
+    }
+  }
+]

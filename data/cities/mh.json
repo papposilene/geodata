@@ -1,0 +1,444 @@
+[
+  {
+    "osm_id": -3825996,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-7240959,-571771",
+    "name": "Enewetak",
+    "local_name": "Ānewetak",
+    "name_en": "Enewetak",
+    "all_tags": {
+      "name": "Ānewetak",
+      "name:en": "Enewetak",
+      "boundary": "administrative",
+      "timezone": "Pacific/Majuro",
+      "way_area": "0.665569",
+      "wikidata": "Q649190",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3825995,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-7240959,-571771",
+    "name": "Wotho",
+    "local_name": "Wōtto",
+    "name_en": "Wotho",
+    "all_tags": {
+      "name": "Wōtto",
+      "name:en": "Wotho",
+      "boundary": "administrative",
+      "timezone": "Pacific/Majuro",
+      "way_area": "1.14394",
+      "wikidata": "Q175931",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3825994,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-7240960,-571771",
+    "name": "Wotje",
+    "local_name": "Wōjjā",
+    "name_en": "Wotje",
+    "all_tags": {
+      "name": "Wōjjā",
+      "name:en": "Wotje",
+      "boundary": "administrative",
+      "timezone": "Pacific/Majuro",
+      "way_area": "1.08024",
+      "wikidata": "Q518210",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3825993,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-7240960,-571771",
+    "name": "Utirik",
+    "local_name": "Utrōk",
+    "name_en": "Utirik",
+    "all_tags": {
+      "name": "Utrōk",
+      "name:en": "Utirik",
+      "boundary": "administrative",
+      "timezone": "Pacific/Majuro",
+      "way_area": "0.94378",
+      "wikidata": "Q700015",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3825992,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-7240959,-571771",
+    "name": "Ujae",
+    "local_name": "Ujae",
+    "name_en": "Ujae",
+    "all_tags": {
+      "name": "Ujae",
+      "name:en": "Ujae",
+      "boundary": "administrative",
+      "timezone": "Pacific/Majuro",
+      "way_area": "0.556693",
+      "wikidata": "Q697802",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3825991,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-7240959,-571771",
+    "name": "Rongelap",
+    "local_name": "Roñḷap",
+    "name_en": "Rongelap",
+    "all_tags": {
+      "name": "Roñḷap",
+      "name:en": "Rongelap",
+      "name:mh": "Roñḷap",
+      "boundary": "administrative",
+      "timezone": "Pacific/Majuro",
+      "way_area": "1.66774",
+      "wikidata": "Q542619",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3825990,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-7240959,-571771",
+    "name": "Namu",
+    "local_name": "Naṃo",
+    "name_en": "Namu",
+    "all_tags": {
+      "name": "Naṃo",
+      "name:en": "Namu",
+      "name:mh": "Naṃo",
+      "boundary": "administrative",
+      "timezone": "Pacific/Majuro",
+      "way_area": "0.698538",
+      "wikidata": "Q703627",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3825989,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-7240959,-571771",
+    "name": "Namdrik",
+    "local_name": "Naṃdik",
+    "name_en": "Namdrik",
+    "all_tags": {
+      "name": "Naṃdik",
+      "name:en": "Namdrik",
+      "name:mh": "Naṃdik",
+      "boundary": "administrative",
+      "timezone": "Pacific/Majuro",
+      "way_area": "0.165804",
+      "wikidata": "Q697819",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3825988,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-7240960,-571771",
+    "name": "Maloelap",
+    "local_name": "Ṃaḷoeḷap",
+    "name_en": "Maloelap",
+    "all_tags": {
+      "name": "Ṃaḷoeḷap",
+      "name:en": "Maloelap",
+      "name:mh": "Ṃaḷoeḷap",
+      "boundary": "administrative",
+      "timezone": "Pacific/Majuro",
+      "way_area": "1.03625",
+      "wikidata": "Q567926",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3825987,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-7240960,-571771",
+    "name": "Majuro",
+    "local_name": "Mājro",
+    "name_en": "Majuro",
+    "all_tags": {
+      "name": "Mājro",
+      "name:en": "Majuro",
+      "name:mh": "Mājro",
+      "boundary": "administrative",
+      "timezone": "Pacific/Majuro",
+      "way_area": "0.647271",
+      "wikidata": "Q12919",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3825986,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-7240960,-571771",
+    "name": "Mejit",
+    "local_name": "Mājej",
+    "name_en": "Mejit",
+    "all_tags": {
+      "name": "Mājej",
+      "name:en": "Mejit",
+      "boundary": "administrative",
+      "timezone": "Pacific/Majuro",
+      "way_area": "0.543986",
+      "wikidata": "Q703543",
+      "wikipedia": "en:Mejit Island",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3825985,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-7240960,-571771",
+    "name": "Mili",
+    "local_name": "Mile",
+    "name_en": "Mili",
+    "all_tags": {
+      "name": "Mile",
+      "name:en": "Mili",
+      "boundary": "administrative",
+      "timezone": "Pacific/Majuro",
+      "way_area": "0.727413",
+      "wikidata": "Q700051",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3825984,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-7240960,-571771",
+    "name": "Likiep",
+    "local_name": "Likiep",
+    "name_en": "Likiep",
+    "all_tags": {
+      "name": "Likiep",
+      "name:en": "Likiep",
+      "boundary": "administrative",
+      "timezone": "Pacific/Majuro",
+      "way_area": "0.647671",
+      "wikidata": "Q518353",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3825983,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-7240959,-571771",
+    "name": "Lae",
+    "local_name": "Lae",
+    "name_en": "Lae",
+    "all_tags": {
+      "name": "Lae",
+      "name:en": "Lae",
+      "boundary": "administrative",
+      "timezone": "Pacific/Majuro",
+      "way_area": "0.548477",
+      "wikidata": "Q741121",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3825982,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-7240959,-571771",
+    "name": "Kili",
+    "local_name": "Kōle",
+    "name_en": "Kili",
+    "all_tags": {
+      "name": "Kōle",
+      "name:de": "Kili",
+      "name:en": "Kili",
+      "boundary": "administrative",
+      "int_name": "Kili",
+      "timezone": "Pacific/Majuro",
+      "way_area": "1.32954",
+      "wikidata": "Q697832",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3825981,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-7240959,-571771",
+    "name": "Kwajalein",
+    "local_name": "Kuwajleen",
+    "name_en": "Kwajalein",
+    "all_tags": {
+      "name": "Kuwajleen",
+      "name:en": "Kwajalein",
+      "boundary": "administrative",
+      "timezone": "Pacific/Kwajalein",
+      "way_area": "1.52908",
+      "wikidata": "Q309172",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3825980,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-7240959,-571771",
+    "name": "Jaluit",
+    "local_name": "Jālwōj",
+    "name_en": "Jaluit",
+    "all_tags": {
+      "name": "Jālwōj",
+      "name:en": "Jaluit",
+      "boundary": "administrative",
+      "timezone": "Pacific/Majuro",
+      "way_area": "0.850149",
+      "wikidata": "Q168576",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3825979,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-7240959,-571771",
+    "name": "Jabat",
+    "local_name": "Jebat",
+    "name_en": "Jabat",
+    "all_tags": {
+      "name": "Jebat",
+      "name:en": "Jabat",
+      "boundary": "administrative",
+      "timezone": "Pacific/Majuro",
+      "way_area": "0.180118",
+      "wikidata": "Q697805",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3825978,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-7240959,-571771",
+    "name": "Lib",
+    "local_name": "Ellep",
+    "name_en": "Lib",
+    "all_tags": {
+      "name": "Ellep",
+      "name:en": "Lib",
+      "boundary": "administrative",
+      "timezone": "Pacific/Majuro",
+      "way_area": "0.414252",
+      "wikidata": "Q376862",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3825901,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-7240959,-571771",
+    "name": "Ebon",
+    "local_name": "Epoon",
+    "name_en": "Ebon",
+    "all_tags": {
+      "name": "Epoon",
+      "name:en": "Ebon",
+      "boundary": "administrative",
+      "timezone": "Pacific/Majuro",
+      "way_area": "0.403954",
+      "wikidata": "Q152754",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3825900,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-7240960,-571771",
+    "name": "Aur",
+    "local_name": "Aur",
+    "name_en": "Aur",
+    "all_tags": {
+      "name": "Aur",
+      "name:en": "Aur",
+      "boundary": "administrative",
+      "timezone": "Pacific/Majuro",
+      "way_area": "0.645768",
+      "wikidata": "Q260549",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3825899,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-7240960,-571771",
+    "name": "Arno",
+    "local_name": "Arṇo",
+    "name_en": "Arno",
+    "all_tags": {
+      "name": "Arṇo",
+      "name:en": "Arno",
+      "name:mh": "Arṇo",
+      "boundary": "administrative",
+      "timezone": "Pacific/Majuro",
+      "way_area": "0.706713",
+      "wikidata": "Q694057",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3825898,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-7240959,-571771",
+    "name": "Ailinglaplap",
+    "local_name": "Aelōñḷapḷap",
+    "name_en": "Ailinglaplap",
+    "all_tags": {
+      "name": "Aelōñḷapḷap",
+      "name:en": "Ailinglaplap",
+      "name:mh": "Aelōñḷapḷap",
+      "boundary": "administrative",
+      "timezone": "Pacific/Majuro",
+      "way_area": "0.793397",
+      "wikidata": "Q405165",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3825897,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-7240960,-571771",
+    "name": "Ailuk",
+    "local_name": "Aelok",
+    "name_en": "Ailuk",
+    "all_tags": {
+      "name": "Aelok",
+      "name:en": "Ailuk",
+      "boundary": "administrative",
+      "timezone": "Pacific/Majuro",
+      "way_area": "0.719892",
+      "wikidata": "Q405378",
+      "admin_level": "8"
+    }
+  }
+]

@@ -1,0 +1,604 @@
+[
+  {
+    "osm_id": -13611990,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-13508035,-2190479,-1656678",
+    "name": "Garbu",
+    "local_name": "Garbu",
+    "name_en": null,
+    "all_tags": {
+      "name": "Garbu",
+      "boundary": "administrative",
+      "way_area": "0.000672055",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13611863,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-13508035,-2190479,-1656678",
+    "name": "Juba Na-Bari",
+    "local_name": "Juba Na-Bari",
+    "name_en": null,
+    "all_tags": {
+      "name": "Juba Na-Bari",
+      "alt_name": "Juba Na Bari",
+      "boundary": "administrative",
+      "way_area": "0.00198471",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13611809,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-13508035,-2190479,-1656678",
+    "name": "Kango",
+    "local_name": "Kango",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kango",
+      "boundary": "administrative",
+      "way_area": "0.000892021",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13611778,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-13508035,-2190479,-1656678",
+    "name": "Gumbo",
+    "local_name": "Gumbo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Gumbo",
+      "boundary": "administrative",
+      "way_area": "0.0014781",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13608559,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-13546413,-13508035,-2190479,-1656678",
+    "name": "Dar-Salam Jebel",
+    "local_name": "Dar-Salam Jebel",
+    "name_en": null,
+    "all_tags": {
+      "name": "Dar-Salam Jebel",
+      "boundary": "administrative",
+      "way_area": "0.000102882",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13608549,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-13546413,-13508035,-2190479,-1656678",
+    "name": "Hai Seminary",
+    "local_name": "Hai Seminary",
+    "name_en": null,
+    "all_tags": {
+      "name": "Hai Seminary",
+      "boundary": "administrative",
+      "way_area": "8.47983e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13608547,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-13546413,-13508035,-2190479,-1656678",
+    "name": "Dar-Salam",
+    "local_name": "Dar-Salam",
+    "name_en": null,
+    "all_tags": {
+      "name": "Dar-Salam",
+      "boundary": "administrative",
+      "way_area": "6.05208e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13608527,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-13546413,-13508035,-2190479,-1656678",
+    "name": "Hai Muna",
+    "local_name": "Hai Muna",
+    "name_en": null,
+    "all_tags": {
+      "name": "Hai Muna",
+      "boundary": "administrative",
+      "way_area": "0.00011688",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13608320,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-13546413,-13508035,-2190479,-1656678",
+    "name": "Nyokuron North",
+    "local_name": "Nyokuron North",
+    "name_en": null,
+    "all_tags": {
+      "name": "Nyokuron North",
+      "boundary": "administrative",
+      "way_area": "4.07774e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13608297,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-13546413,-13508035,-2190479,-1656678",
+    "name": "Nyokuron East",
+    "local_name": "Nyokuron East",
+    "name_en": null,
+    "all_tags": {
+      "name": "Nyokuron East",
+      "boundary": "administrative",
+      "way_area": "2.9964e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13608167,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-13546413,-13508035,-2190479,-1656678",
+    "name": "Nyokuron West",
+    "local_name": "Nyokuron West",
+    "name_en": null,
+    "all_tags": {
+      "name": "Nyokuron West",
+      "boundary": "administrative",
+      "way_area": "0.00103733",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13608009,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-13508035,-2190479,-1656678",
+    "name": "Logo West",
+    "local_name": "Logo West",
+    "name_en": null,
+    "all_tags": {
+      "name": "Logo West",
+      "boundary": "administrative",
+      "way_area": "0.00129643",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13583681,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-13546413,-13508035,-2190479,-1656678",
+    "name": "Nyokuron South",
+    "local_name": "Nyokuron South",
+    "name_en": null,
+    "all_tags": {
+      "name": "Nyokuron South",
+      "boundary": "administrative",
+      "way_area": "0.000594525",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13583324,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-13546325,-13508035,-2190479,-1656678",
+    "name": "Konyo Konyo",
+    "local_name": "Konyo Konyo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Konyo Konyo",
+      "boundary": "administrative",
+      "way_area": "5.42192e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13583314,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-13546325,-13508035,-2190479,-1656678",
+    "name": "Atlabara",
+    "local_name": "Atlabara",
+    "name_en": null,
+    "all_tags": {
+      "name": "Atlabara",
+      "boundary": "administrative",
+      "way_area": "0.000116264",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13583304,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-13546325,-13508035,-2190479,-1656678",
+    "name": "Kator Center",
+    "local_name": "Kator Center",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kator Center",
+      "boundary": "administrative",
+      "way_area": "0.000224485",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13583285,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-13546325,-13508035,-2190479,-1656678",
+    "name": "Lologo",
+    "local_name": "Lologo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Lologo",
+      "boundary": "administrative",
+      "way_area": "0.000284256",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13568834,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-13508035,-2190479,-1656678",
+    "name": "Monanyik",
+    "local_name": "Monanyik",
+    "name_en": null,
+    "all_tags": {
+      "name": "Monanyik",
+      "boundary": "administrative",
+      "way_area": "0.00124408",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13551634,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-13546445,-13508035,-2190479,-1656678",
+    "name": "Hai Neem",
+    "local_name": "Hai Neem",
+    "name_en": null,
+    "all_tags": {
+      "name": "Hai Neem",
+      "boundary": "administrative",
+      "way_area": "2.79653e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13551632,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-13546445,-13508035,-2190479,-1656678",
+    "name": "Nimra Talata",
+    "local_name": "Nimra Talata",
+    "name_en": null,
+    "all_tags": {
+      "name": "Nimra Talata",
+      "boundary": "administrative",
+      "way_area": "2.1738e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13551610,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-13546445,-13508035,-2190479,-1656678",
+    "name": "Hai Negli",
+    "local_name": "Hai Negli",
+    "name_en": null,
+    "all_tags": {
+      "name": "Hai Negli",
+      "boundary": "administrative",
+      "way_area": "4.09331e-06",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13551564,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-13546445,-13508035,-2190479,-1656678",
+    "name": "Dresses Line",
+    "local_name": "Dresses Line",
+    "name_en": null,
+    "all_tags": {
+      "name": "Dresses Line",
+      "boundary": "administrative",
+      "way_area": "4.26492e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13551562,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-13546445,-13508035,-2190479,-1656678",
+    "name": "Hai Commercial",
+    "local_name": "Hai Commercial",
+    "name_en": null,
+    "all_tags": {
+      "name": "Hai Commercial",
+      "boundary": "administrative",
+      "way_area": "5.26751e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13551559,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-13546445,-13508035,-2190479,-1656678",
+    "name": "Hai Buluk",
+    "local_name": "Hai Buluk",
+    "name_en": null,
+    "all_tags": {
+      "name": "Hai Buluk",
+      "boundary": "administrative",
+      "way_area": "5.40329e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13551555,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-13546445,-13508035,-2190479,-1656678",
+    "name": "Hai Zendia",
+    "local_name": "Hai Zendia",
+    "name_en": null,
+    "all_tags": {
+      "name": "Hai Zendia",
+      "boundary": "administrative",
+      "way_area": "9.79577e-06",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13551092,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-13546445,-13508035,-2190479,-1656678",
+    "name": "Hai Soura",
+    "local_name": "Hai Soura",
+    "name_en": null,
+    "all_tags": {
+      "name": "Hai Soura",
+      "boundary": "administrative",
+      "way_area": "3.00827e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13551090,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-13546445,-13508035,-2190479,-1656678",
+    "name": "Hai Nyakama",
+    "local_name": "Hai Nyakama",
+    "name_en": null,
+    "all_tags": {
+      "name": "Hai Nyakama",
+      "boundary": "administrative",
+      "way_area": "4.5127e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13548000,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-13546445,-13508035,-2190479,-1656678",
+    "name": "Hai Malakal",
+    "local_name": "Hai Malakal",
+    "name_en": null,
+    "all_tags": {
+      "name": "Hai Malakal",
+      "boundary": "administrative",
+      "way_area": "8.88724e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13547981,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-13546445,-13508035,-2190479,-1656678",
+    "name": "MTC",
+    "local_name": "MTC",
+    "name_en": null,
+    "all_tags": {
+      "name": "MTC",
+      "boundary": "administrative",
+      "way_area": "7.24977e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13547950,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-13546445,-13508035,-2190479,-1656678",
+    "name": "Hai Cinema",
+    "local_name": "Hai Cinema",
+    "name_en": null,
+    "all_tags": {
+      "name": "Hai Cinema",
+      "boundary": "administrative",
+      "way_area": "1.9334e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13547782,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-13546445,-13508035,-2190479,-1656678",
+    "name": "Hai Orselim",
+    "local_name": "Hai Orselim",
+    "name_en": null,
+    "all_tags": {
+      "name": "Hai Orselim",
+      "boundary": "administrative",
+      "way_area": "3.99311e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13547739,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-13546445,-13508035,-2190479,-1656678",
+    "name": "Juba Quarter Council",
+    "local_name": "Juba Quarter Council",
+    "name_en": null,
+    "all_tags": {
+      "name": "Juba Quarter Council",
+      "boundary": "administrative",
+      "way_area": "6.42706e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13547738,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-13546445,-13508035,-2190479,-1656678",
+    "name": "Hai Gabat",
+    "local_name": "Hai Gabat",
+    "name_en": null,
+    "all_tags": {
+      "name": "Hai Gabat",
+      "boundary": "administrative",
+      "way_area": "7.20896e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13547635,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-13546445,-13508035,-2190479,-1656678",
+    "name": "Hai Juba Nabari",
+    "local_name": "Hai Juba Nabari",
+    "name_en": null,
+    "all_tags": {
+      "name": "Hai Juba Nabari",
+      "boundary": "administrative",
+      "way_area": "4.90283e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13547491,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-13546445,-13508035,-2190479,-1656678",
+    "name": "Tompping",
+    "local_name": "Tompping",
+    "name_en": null,
+    "all_tags": {
+      "name": "Tompping",
+      "boundary": "administrative",
+      "way_area": "0.000770197",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13547421,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-13546413,-13508035,-2190479,-1656678",
+    "name": "Kwuit",
+    "local_name": "Kwuit",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kwuit",
+      "alt_name": "Kuweit",
+      "boundary": "administrative",
+      "way_area": "2.62406e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13547412,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-13546413,-13508035,-2190479,-1656678",
+    "name": "Munuki Island",
+    "local_name": "Munuki Island",
+    "name_en": null,
+    "all_tags": {
+      "name": "Munuki Island",
+      "boundary": "administrative",
+      "way_area": "2.28994e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13547405,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-13546413,-13508035,-2190479,-1656678",
+    "name": "Munuki Block A",
+    "local_name": "Munuki Block A",
+    "name_en": null,
+    "all_tags": {
+      "name": "Munuki Block A",
+      "boundary": "administrative",
+      "way_area": "0.000111795",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13547342,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-13546413,-13508035,-2190479,-1656678",
+    "name": "Munuki Block B",
+    "local_name": "Munuki Block B",
+    "name_en": null,
+    "all_tags": {
+      "name": "Munuki Block B",
+      "boundary": "administrative",
+      "way_area": "0.000109675",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13547262,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-13508035,-2190479,-1656678",
+    "name": "Munuki Block C",
+    "local_name": "Munuki Block C",
+    "name_en": null,
+    "all_tags": {
+      "name": "Munuki Block C",
+      "boundary": "administrative",
+      "way_area": "0.000133816",
+      "admin_level": "8"
+    }
+  }
+]

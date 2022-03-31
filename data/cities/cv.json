@@ -1,0 +1,47 @@
+[
+  {
+    "osm_id": -12847201,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-4021586,-535774",
+    "name": "Achada Grande Trás",
+    "local_name": "Achada Grande Trás",
+    "name_en": null,
+    "all_tags": {
+      "name": "Achada Grande Trás",
+      "boundary": "administrative",
+      "way_area": "0.000171866",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -12846862,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-4021586,-535774",
+    "name": "Ponta Bicuda",
+    "local_name": "Ponta Bicuda",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ponta Bicuda",
+      "boundary": "administrative",
+      "way_area": "6.07354e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -12846393,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-4021586,-535774",
+    "name": "Monte Facho",
+    "local_name": "Monte Facho",
+    "name_en": null,
+    "all_tags": {
+      "name": "Monte Facho",
+      "boundary": "administrative",
+      "way_area": "8.38649e-05",
+      "admin_level": "8"
+    }
+  }
+]

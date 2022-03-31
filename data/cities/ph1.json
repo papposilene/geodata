@@ -1,0 +1,943 @@
+[
+  {
+    "osm_id": -12043405,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-11321467,-273242,-11037662,-147488,-11144278",
+    "name": "Camarin",
+    "local_name": "Camarin",
+    "name_en": null,
+    "all_tags": {
+      "name": "Camarin",
+      "boundary": "administrative",
+      "way_area": "0.000870482",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11915948,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1488071,-1503544,-1552120,-11144278",
+    "name": "Paliparan",
+    "local_name": "Paliparan",
+    "name_en": null,
+    "all_tags": {
+      "name": "Paliparan",
+      "boundary": "administrative",
+      "way_area": "0.00109829",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11915947,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1488071,-1503544,-1552120,-11144278",
+    "name": "Langkaan",
+    "local_name": "Langkaan",
+    "name_en": null,
+    "all_tags": {
+      "name": "Langkaan",
+      "boundary": "administrative",
+      "way_area": "0.00111452",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11915946,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1488071,-1503544,-1552120,-11144278",
+    "name": "San Agustin",
+    "local_name": "San Agustin",
+    "name_en": null,
+    "all_tags": {
+      "name": "San Agustin",
+      "boundary": "administrative",
+      "way_area": "0.000487636",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11915945,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1488071,-1503544,-1552120,-11144278",
+    "name": "Sampaloc",
+    "local_name": "Sampaloc",
+    "name_en": null,
+    "all_tags": {
+      "name": "Sampaloc",
+      "boundary": "administrative",
+      "way_area": "0.00124791",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11915944,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1488071,-1503544,-1552120,-11144278",
+    "name": "Bagong Bayan",
+    "local_name": "Bagong Bayan",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bagong Bayan",
+      "boundary": "administrative",
+      "way_area": "0.000654121",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11915943,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1488071,-1503544,-1552120,-11144278",
+    "name": "Burol",
+    "local_name": "Burol",
+    "name_en": null,
+    "all_tags": {
+      "name": "Burol",
+      "boundary": "administrative",
+      "way_area": "0.000175659",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11915942,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1488071,-1503544,-1552120,-11144278",
+    "name": "Salawag",
+    "local_name": "Salawag",
+    "name_en": null,
+    "all_tags": {
+      "name": "Salawag",
+      "boundary": "administrative",
+      "way_area": "0.00173508",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11915941,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1488071,-1503544,-1552120,-11144278",
+    "name": "Salitran",
+    "local_name": "Salitran",
+    "name_en": null,
+    "all_tags": {
+      "name": "Salitran",
+      "boundary": "administrative",
+      "way_area": "0.000518253",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11915940,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1488071,-1503544,-1552120,-11144278",
+    "name": "San Jose-Sabang",
+    "local_name": "San Jose-Sabang",
+    "name_en": null,
+    "all_tags": {
+      "name": "San Jose-Sabang",
+      "boundary": "administrative",
+      "way_area": "0.000272969",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11915939,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1488071,-1503544,-1552120,-11144278",
+    "name": "Poblacion",
+    "local_name": "Poblacion",
+    "name_en": null,
+    "all_tags": {
+      "name": "Poblacion",
+      "boundary": "administrative",
+      "way_area": "0.000303401",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11810259,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-11810260,-1504427,-1552120,-11144278",
+    "name": "Poblacion",
+    "local_name": "Poblacion",
+    "name_en": null,
+    "all_tags": {
+      "name": "Poblacion",
+      "boundary": "administrative",
+      "way_area": "0.00018101",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11498734,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-7750022,-1504551,-3561455,-11144278",
+    "name": "Poblacion",
+    "local_name": "Poblacion",
+    "name_en": null,
+    "all_tags": {
+      "name": "Poblacion",
+      "boundary": "administrative",
+      "way_area": "0.00028622",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -10719480,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-6118236,-1504427,-1552120,-11144278",
+    "name": "Poblacion",
+    "local_name": "Poblacion",
+    "name_en": null,
+    "all_tags": {
+      "name": "Poblacion",
+      "boundary": "administrative",
+      "way_area": "4.21347e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -10718570,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-6209763,-1504427,-1552120,-11144278",
+    "name": "Poblacion",
+    "local_name": "Poblacion",
+    "name_en": null,
+    "all_tags": {
+      "name": "Poblacion",
+      "boundary": "administrative",
+      "way_area": "0.000145989",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -9405693,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-11321466,-273242,-11037662,-147488,-11144278",
+    "name": "Balintawak",
+    "local_name": "Balintawak",
+    "name_en": null,
+    "all_tags": {
+      "name": "Balintawak",
+      "boundary": "administrative",
+      "way_area": "9.08381e-06",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -9405692,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-11321466,-273242,-11037662,-147488,-11144278",
+    "name": "Grace Park East",
+    "local_name": "Grace Park East",
+    "name_en": null,
+    "all_tags": {
+      "name": "Grace Park East",
+      "boundary": "administrative",
+      "way_area": "0.000187265",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -9405691,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-11321466,-273242,-11037662,-147488,-11144278",
+    "name": "Barrio San Jose",
+    "local_name": "Barrio San Jose",
+    "name_en": null,
+    "all_tags": {
+      "name": "Barrio San Jose",
+      "boundary": "administrative",
+      "way_area": "1.83332e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -9405664,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-11321467,-273242,-11037662,-147488,-11144278",
+    "name": "Morning Breeze Subdivision",
+    "local_name": "Morning Breeze Subdivision",
+    "name_en": null,
+    "all_tags": {
+      "name": "Morning Breeze Subdivision",
+      "boundary": "administrative",
+      "way_area": "3.22189e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -9405663,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-11321467,-273242,-11037662,-147488,-11144278",
+    "name": "Bagong Barrio West",
+    "local_name": "Bagong Barrio West",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bagong Barrio West",
+      "boundary": "administrative",
+      "way_area": "9.60826e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -9405662,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-11321467,-273242,-11037662,-147488,-11144278",
+    "name": "Bagong Barrio East",
+    "local_name": "Bagong Barrio East",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bagong Barrio East",
+      "boundary": "administrative",
+      "way_area": "5.10859e-06",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -9405661,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-11321467,-273242,-11037662,-147488,-11144278",
+    "name": "Libis Baesa/Reparo",
+    "local_name": "Libis Baesa/Reparo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Libis Baesa/Reparo",
+      "boundary": "administrative",
+      "way_area": "0.000152197",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -9405660,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-11321467,-273242,-11037662,-147488,-11144278",
+    "name": "Santa Quiteria/Talipapa",
+    "local_name": "Santa Quiteria/Talipapa",
+    "name_en": null,
+    "all_tags": {
+      "name": "Santa Quiteria/Talipapa",
+      "boundary": "administrative",
+      "way_area": "0.000112221",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -9405597,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-11321466,-273242,-11037662,-147488,-11144278",
+    "name": "Marulas",
+    "local_name": "Marulas",
+    "name_en": null,
+    "all_tags": {
+      "name": "Marulas",
+      "boundary": "administrative",
+      "way_area": "9.066e-06",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -9405596,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-11321466,-273242,-11037662,-147488,-11144278",
+    "name": "Grace Park West",
+    "local_name": "Grace Park West",
+    "name_en": null,
+    "all_tags": {
+      "name": "Grace Park West",
+      "boundary": "administrative",
+      "way_area": "0.000151657",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -9405595,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-11321467,-273242,-11037662,-147488,-11144278",
+    "name": "University Hills",
+    "local_name": "University Hills",
+    "name_en": null,
+    "all_tags": {
+      "name": "University Hills",
+      "boundary": "administrative",
+      "way_area": "4.17602e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -9405507,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-273242,-11037662,-147488,-11144278",
+    "name": "Sangandaan",
+    "local_name": "Sangandaan",
+    "name_en": null,
+    "all_tags": {
+      "name": "Sangandaan",
+      "boundary": "administrative",
+      "way_area": "3.74243e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -9405506,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-11321466,-273242,-11037662,-147488,-11144278",
+    "name": "Dagat-Dagatan",
+    "local_name": "Dagat-Dagatan",
+    "name_en": null,
+    "all_tags": {
+      "name": "Dagat-Dagatan",
+      "boundary": "administrative",
+      "way_area": "0.000121505",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -9405505,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-11321466,-273242,-11037662,-147488,-11144278",
+    "name": "Poblacion",
+    "local_name": "Poblacion",
+    "name_en": null,
+    "all_tags": {
+      "name": "Poblacion",
+      "boundary": "administrative",
+      "way_area": "3.38826e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -9405504,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-11321466,-273242,-11037662,-147488,-11144278",
+    "name": "Kaunlaran (C-3 Area)",
+    "local_name": "Kaunlaran (C-3 Area)",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kaunlaran (C-3 Area)",
+      "boundary": "administrative",
+      "way_area": "4.98133e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -9405503,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-11321466,-273242,-11037662,-147488,-11144278",
+    "name": "Maypajo",
+    "local_name": "Maypajo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Maypajo",
+      "boundary": "administrative",
+      "way_area": "3.98142e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -9110318,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-106569,-11037663,-147488,-11144278",
+    "name": "Project 1",
+    "local_name": "Project 1",
+    "name_en": null,
+    "all_tags": {
+      "name": "Project 1",
+      "boundary": "administrative",
+      "way_area": "0.000134814",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -9110317,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1530604,-106569,-11037663,-147488,-11144278",
+    "name": "Scout Area",
+    "local_name": "Scout Area",
+    "name_en": null,
+    "all_tags": {
+      "name": "Scout Area",
+      "place": "neighbourhood",
+      "alt_name": "Diliman",
+      "boundary": "administrative",
+      "way_area": "0.000243285",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -9110316,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1530604,-106569,-11037663,-147488,-11144278",
+    "name": "Galas",
+    "local_name": "Galas",
+    "name_en": null,
+    "all_tags": {
+      "name": "Galas",
+      "boundary": "administrative",
+      "way_area": "0.000159804",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -9110300,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-106569,-11037663,-147488,-11144278",
+    "name": "Cubao",
+    "local_name": "Cubao",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cubao",
+      "boundary": "administrative",
+      "way_area": "0.000368169",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -9110299,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1553880,-106569,-11037663,-147488,-11144278",
+    "name": "Project 2",
+    "local_name": "Project 2",
+    "name_en": null,
+    "all_tags": {
+      "name": "Project 2",
+      "boundary": "administrative",
+      "way_area": "3.28943e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -9110298,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1553880,-106569,-11037663,-147488,-11144278",
+    "name": "Project 3",
+    "local_name": "Project 3",
+    "name_en": null,
+    "all_tags": {
+      "name": "Project 3",
+      "boundary": "administrative",
+      "way_area": "3.7741e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -9110297,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1553880,-106569,-11037663,-147488,-11144278",
+    "name": "Project 4",
+    "local_name": "Project 4",
+    "name_en": null,
+    "all_tags": {
+      "name": "Project 4",
+      "boundary": "administrative",
+      "way_area": "0.000164976",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -6309134,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-6185647,-1504427,-1552120,-11144278",
+    "name": "Poblacion",
+    "local_name": "Poblacion",
+    "name_en": null,
+    "all_tags": {
+      "name": "Poblacion",
+      "boundary": "administrative",
+      "way_area": "0.000441399",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -6274400,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1693446,-106569,-11037663,-147488,-11144278",
+    "name": "Santa Mesa Heights",
+    "local_name": "Santa Mesa Heights",
+    "name_en": null,
+    "all_tags": {
+      "name": "Santa Mesa Heights",
+      "boundary": "administrative",
+      "way_area": "0.000146632",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -6274399,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1693446,-106569,-11037663,-147488,-11144278",
+    "name": "San Francisco Del Monte",
+    "local_name": "San Francisco Del Monte",
+    "name_en": null,
+    "all_tags": {
+      "name": "San Francisco Del Monte",
+      "boundary": "administrative",
+      "way_area": "0.000204634",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -6274398,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1693446,-106569,-11037663,-147488,-11144278",
+    "name": "La Loma",
+    "local_name": "La Loma",
+    "name_en": null,
+    "all_tags": {
+      "name": "La Loma",
+      "boundary": "administrative",
+      "way_area": "7.17009e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -6274335,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1693446,-106569,-11037663,-147488,-11144278",
+    "name": "Bago Bantay",
+    "local_name": "Bago Bantay",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bago Bantay",
+      "boundary": "administrative",
+      "way_area": "0.00012259",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1570467,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3363082,-11037664,-147488,-11144278",
+    "name": "Santa Cruz",
+    "local_name": "Santa Cruz",
+    "name_en": null,
+    "all_tags": {
+      "ref": "133905000",
+      "name": "Santa Cruz",
+      "boundary": "administrative",
+      "way_area": "0.000327539",
+      "wikidata": "Q3545567",
+      "wikipedia": "en:Santa Cruz, Manila",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -186448,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3363081,-11037664,-147488,-11144278",
+    "name": "Sampaloc",
+    "local_name": "Sampaloc",
+    "name_en": null,
+    "all_tags": {
+      "name": "Sampaloc",
+      "boundary": "administrative",
+      "way_area": "0.000430854",
+      "wikidata": "Q3545565",
+      "wikipedia": "en:Sampaloc, Manila",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -186436,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3365028,-11037664,-147488,-11144278",
+    "name": "Santa Mesa",
+    "local_name": "Santa Mesa",
+    "name_en": null,
+    "all_tags": {
+      "name": "Santa Mesa",
+      "boundary": "administrative",
+      "way_area": "0.000211919",
+      "wikidata": "Q7419776",
+      "wikipedia": "en:Santa Mesa",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -141867,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3363082,-11037664,-147488,-11144278",
+    "name": "Binondo",
+    "local_name": "Binondo",
+    "name_en": null,
+    "all_tags": {
+      "ref": "133902000",
+      "name": "Binondo",
+      "boundary": "administrative",
+      "way_area": "5.57607e-05",
+      "wikidata": "Q1903520",
+      "wikipedia": "en:Binondo",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -131573,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-11037664,-147488,-11144278",
+    "name": "Tondo",
+    "local_name": "Tondo",
+    "name_en": null,
+    "all_tags": {
+      "ref": "133901000",
+      "name": "Tondo",
+      "boundary": "administrative",
+      "way_area": "0.000931762",
+      "wikidata": "Q1287698",
+      "wikipedia": "en:Tondo, Manila",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -104064,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3365027,-11037664,-147488,-11144278",
+    "name": "Port Area",
+    "local_name": "Port Area",
+    "name_en": null,
+    "all_tags": {
+      "ref": "133913000",
+      "name": "Port Area",
+      "boundary": "administrative",
+      "way_area": "0.000158558",
+      "wikidata": "Q21021064",
+      "wikipedia": "en:Port Area, Manila",
+      "admin_level": "8",
+      "postal_code": "1018"
+    }
+  },
+  {
+    "osm_id": -104063,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3363082,-11037664,-147488,-11144278",
+    "name": "San Nicolas",
+    "local_name": "San Nicolas",
+    "name_en": null,
+    "all_tags": {
+      "ref": "133904000",
+      "name": "San Nicolas",
+      "boundary": "administrative",
+      "way_area": "7.80159e-05",
+      "wikidata": "Q7415008",
+      "wikipedia": "en:San Nicolas, Manila",
+      "admin_level": "8",
+      "postal_code": "1010"
+    }
+  },
+  {
+    "osm_id": -104062,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3365028,-11037664,-147488,-11144278",
+    "name": "Pandacan",
+    "local_name": "Pandacan",
+    "name_en": null,
+    "all_tags": {
+      "ref": "133912000",
+      "name": "Pandacan",
+      "boundary": "administrative",
+      "way_area": "0.00010965",
+      "wikidata": "Q3547123",
+      "wikipedia": "en:Pandacan",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -104061,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3363082,-11037664,-147488,-11144278",
+    "name": "Quiapo",
+    "local_name": "Quiapo",
+    "name_en": null,
+    "all_tags": {
+      "ref": "133903000",
+      "name": "Quiapo",
+      "boundary": "administrative",
+      "way_area": "5.1189e-05",
+      "wikidata": "Q1075125",
+      "wikipedia": "en:Quiapo, Manila",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -104060,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3365028,-11037664,-147488,-11144278",
+    "name": "San Miguel",
+    "local_name": "San Miguel",
+    "name_en": null,
+    "all_tags": {
+      "ref": "133907000",
+      "name": "San Miguel",
+      "boundary": "administrative",
+      "way_area": "9.10414e-05",
+      "wikidata": "Q7414941",
+      "wikipedia": "en:San Miguel, Manila",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -104058,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3365027,-11037664,-147488,-11144278",
+    "name": "Paco",
+    "local_name": "Paco",
+    "name_en": null,
+    "all_tags": {
+      "ref": "133911000",
+      "name": "Paco",
+      "boundary": "administrative",
+      "old_name": "Dilao",
+      "way_area": "0.000226565",
+      "wikidata": "Q256494",
+      "wikipedia": "en:Paco, Manila",
+      "admin_level": "8",
+      "postal_code": "1007"
+    }
+  },
+  {
+    "osm_id": -104055,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3365028,-11037664,-147488,-11144278",
+    "name": "Santa Ana",
+    "local_name": "Santa Ana",
+    "name_en": null,
+    "all_tags": {
+      "name": "Santa Ana",
+      "boundary": "administrative",
+      "way_area": "0.000172556",
+      "wikidata": "Q7419141",
+      "wikipedia": "en:Santa Ana, Manila",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -104054,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3365027,-11037664,-147488,-11144278",
+    "name": "San Andres Bukid",
+    "local_name": "San Andres Bukid",
+    "name_en": null,
+    "all_tags": {
+      "name": "San Andres Bukid",
+      "boundary": "administrative",
+      "way_area": "0.0001571",
+      "wikidata": "Q7413236",
+      "wikipedia": "en:San Andres, Manila",
+      "admin_level": "8",
+      "postal_code": "1017"
+    }
+  },
+  {
+    "osm_id": -103707,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3365027,-11037664,-147488,-11144278",
+    "name": "Intramuros",
+    "local_name": "Intramuros",
+    "name_en": null,
+    "all_tags": {
+      "ref": "133909000",
+      "name": "Intramuros",
+      "boundary": "administrative",
+      "way_area": "9.8512e-05",
+      "wikidata": "Q772211",
+      "wikipedia": "en:Intramuros",
+      "population": "6103",
+      "admin_level": "8",
+      "postal_code": "1002",
+      "population:date": "2020-05-01"
+    }
+  },
+  {
+    "osm_id": -103706,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3365027,-11037664,-147488,-11144278",
+    "name": "Ermita",
+    "local_name": "Ermita",
+    "name_en": null,
+    "all_tags": {
+      "ref": "133908000",
+      "name": "Ermita",
+      "boundary": "administrative",
+      "way_area": "0.000214637",
+      "wikidata": "Q1111831",
+      "wikipedia": "en:Ermita",
+      "admin_level": "8",
+      "postal_code": "1000"
+    }
+  },
+  {
+    "osm_id": -103704,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3365027,-11037664,-147488,-11144278",
+    "name": "Malate",
+    "local_name": "Malate",
+    "name_en": null,
+    "all_tags": {
+      "ref": "133910000",
+      "name": "Malate",
+      "boundary": "administrative",
+      "way_area": "0.000246112",
+      "wikidata": "Q3547032",
+      "wikipedia": "en:Malate, Manila",
+      "admin_level": "8",
+      "postal_code": "1004"
+    }
+  }
+]

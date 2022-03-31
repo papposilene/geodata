@@ -1,0 +1,511 @@
+[
+  {
+    "osm_id": -13733479,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-67992,-214704,-1521463",
+    "name": "Zona 15",
+    "local_name": "Zona 15",
+    "name_en": null,
+    "all_tags": {
+      "name": "Zona 15",
+      "boundary": "administrative",
+      "way_area": "0.000504718",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13733478,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-67992,-214704,-1521463",
+    "name": "Zona 14",
+    "local_name": "Zona 14",
+    "name_en": null,
+    "all_tags": {
+      "name": "Zona 14",
+      "boundary": "administrative",
+      "way_area": "0.000388263",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13733477,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-67992,-214704,-1521463",
+    "name": "Zona 10",
+    "local_name": "Zona 10",
+    "name_en": null,
+    "all_tags": {
+      "name": "Zona 10",
+      "boundary": "administrative",
+      "way_area": "0.000467904",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13733411,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-67992,-214704,-1521463",
+    "name": "Zona 16",
+    "local_name": "Zona 16",
+    "name_en": null,
+    "all_tags": {
+      "name": "Zona 16",
+      "boundary": "administrative",
+      "way_area": "0.00164072",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13730388,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-67992,-214704,-1521463",
+    "name": "Zona 5",
+    "local_name": "Zona 5",
+    "name_en": null,
+    "all_tags": {
+      "name": "Zona 5",
+      "boundary": "administrative",
+      "way_area": "0.000455337",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13680910,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-67992,-214704,-1521463",
+    "name": "Zona 9",
+    "local_name": "Zona 9",
+    "name_en": null,
+    "all_tags": {
+      "name": "Zona 9",
+      "boundary": "administrative",
+      "way_area": "0.000198545",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13680538,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-67992,-214704,-1521463",
+    "name": "Zona 13",
+    "local_name": "Zona 13",
+    "name_en": null,
+    "all_tags": {
+      "name": "Zona 13",
+      "boundary": "administrative",
+      "way_area": "0.000674073",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13523302,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-67992,-214704,-1521463",
+    "name": "Zona 12",
+    "local_name": "Zona 12",
+    "name_en": null,
+    "all_tags": {
+      "name": "Zona 12",
+      "boundary": "administrative",
+      "way_area": "0.00101866",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13519873,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-67992,-214704,-1521463",
+    "name": "Zona 11",
+    "local_name": "Zona 11",
+    "name_en": null,
+    "all_tags": {
+      "name": "Zona 11",
+      "boundary": "administrative",
+      "way_area": "0.000954542",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -10414521,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-9599315,-214704,-1521463",
+    "name": "Zona 4 de Villa Nueva",
+    "local_name": "Zona 4 de Villa Nueva",
+    "name_en": null,
+    "all_tags": {
+      "name": "Zona 4 de Villa Nueva",
+      "boundary": "administrative",
+      "way_area": "0.00114176",
+      "wikidata": "Q91149812",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -10414515,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-9599315,-214704,-1521463",
+    "name": "Zona 10 de Villa Nueva",
+    "local_name": "Zona 10 de Villa Nueva",
+    "name_en": null,
+    "all_tags": {
+      "name": "Zona 10 de Villa Nueva",
+      "boundary": "administrative",
+      "way_area": "0.000605272",
+      "wikidata": "Q91150595",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -10414498,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-9599315,-214704,-1521463",
+    "name": "Zona 3 de Villa Nueva",
+    "local_name": "Zona 3 de Villa Nueva",
+    "name_en": null,
+    "all_tags": {
+      "name": "Zona 3 de Villa Nueva",
+      "boundary": "administrative",
+      "way_area": "0.001924",
+      "wikidata": "Q91149651",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -10414496,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-9599315,-214704,-1521463",
+    "name": "Zona 2 de Villa Nueva",
+    "local_name": "Zona 2 de Villa Nueva",
+    "name_en": null,
+    "all_tags": {
+      "name": "Zona 2 de Villa Nueva",
+      "boundary": "administrative",
+      "way_area": "0.00173009",
+      "wikidata": "Q91149109",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -10414481,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-9599315,-214704,-1521463",
+    "name": "Zona 8 de Villa Nueva",
+    "local_name": "Zona 8 de Villa Nueva",
+    "name_en": null,
+    "all_tags": {
+      "name": "Zona 8 de Villa Nueva",
+      "boundary": "administrative",
+      "way_area": "0.0007988",
+      "wikidata": "Q91150383",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -10414477,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-9599315,-214704,-1521463",
+    "name": "Zona 11 de Villa Nueva",
+    "local_name": "Zona 11 de Villa Nueva",
+    "name_en": null,
+    "all_tags": {
+      "name": "Zona 11 de Villa Nueva",
+      "boundary": "administrative",
+      "way_area": "0.000110701",
+      "wikidata": "Q91150875",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -10414462,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-9599315,-214704,-1521463",
+    "name": "Zona 12 de Villa Nueva",
+    "local_name": "Zona 12 de Villa Nueva",
+    "name_en": null,
+    "all_tags": {
+      "name": "Zona 12 de Villa Nueva",
+      "boundary": "administrative",
+      "way_area": "0.000713494",
+      "wikidata": "Q91151155",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -10414453,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-9599315,-214704,-1521463",
+    "name": "Zona 7 de Villa Nueva",
+    "local_name": "Zona 7 de Villa Nueva",
+    "name_en": null,
+    "all_tags": {
+      "name": "Zona 7 de Villa Nueva",
+      "boundary": "administrative",
+      "way_area": "0.000117507",
+      "wikidata": "Q91150048",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -10414447,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-9599315,-214704,-1521463",
+    "name": "Zona 6 de Villa Nueva",
+    "local_name": "Zona 6 de Villa Nueva",
+    "name_en": null,
+    "all_tags": {
+      "name": "Zona 6 de Villa Nueva",
+      "boundary": "administrative",
+      "way_area": "0.000369108",
+      "wikidata": "Q91149830",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -10414424,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-9599315,-214704,-1521463",
+    "name": "Zona 1 de Villa Nueva",
+    "local_name": "Zona 1 de Villa Nueva",
+    "name_en": null,
+    "all_tags": {
+      "name": "Zona 1 de Villa Nueva",
+      "boundary": "administrative",
+      "way_area": "0.000127139",
+      "wikidata": "Q86021701",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -9721162,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-67992,-214704,-1521463",
+    "name": "Zona 21",
+    "local_name": "Zona 21",
+    "name_en": null,
+    "all_tags": {
+      "name": "Zona 21",
+      "boundary": "administrative",
+      "way_area": "0.000461292",
+      "is_in:city": "Ciudad de Guatemala",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -9626635,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-9599315,-214704,-1521463",
+    "name": "Zona 5 de Villa Nueva",
+    "local_name": "Zona 5 de Villa Nueva",
+    "name_en": null,
+    "all_tags": {
+      "name": "Zona 5 de Villa Nueva",
+      "boundary": "administrative",
+      "way_area": "0.000320708",
+      "wikidata": "Q91149821",
+      "is_in:city": "Villa Nueva",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -9305999,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-67992,-214704,-1521463",
+    "name": "Zona 19",
+    "local_name": "Zona 19",
+    "name_en": null,
+    "all_tags": {
+      "name": "Zona 19",
+      "boundary": "administrative",
+      "way_area": "8.92336e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -9286092,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-67992,-214704,-1521463",
+    "name": "Zona 4",
+    "local_name": "Zona 4",
+    "name_en": null,
+    "all_tags": {
+      "name": "Zona 4",
+      "boundary": "administrative",
+      "way_area": "8.45938e-05",
+      "wikidata": "Q110168655",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -9286091,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-67992,-214704,-1521463",
+    "name": "Zona 8",
+    "local_name": "Zona 8",
+    "name_en": null,
+    "all_tags": {
+      "name": "Zona 8",
+      "boundary": "administrative",
+      "way_area": "0.000110951",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -9286045,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-67992,-214704,-1521463",
+    "name": "Zona 7",
+    "local_name": "Zona 7",
+    "name_en": null,
+    "all_tags": {
+      "name": "Zona 7",
+      "boundary": "administrative",
+      "way_area": "0.00106878",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -9286044,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-67992,-214704,-1521463",
+    "name": "Zona 3",
+    "local_name": "Zona 3",
+    "name_en": null,
+    "all_tags": {
+      "name": "Zona 3",
+      "boundary": "administrative",
+      "way_area": "0.000347344",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -9283361,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-67992,-214704,-1521463",
+    "name": "Zona 2",
+    "local_name": "Zona 2",
+    "name_en": null,
+    "all_tags": {
+      "name": "Zona 2",
+      "boundary": "administrative",
+      "way_area": "0.000706839",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -9283360,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-67992,-214704,-1521463",
+    "name": "Zona 1",
+    "local_name": "Zona 1",
+    "name_en": null,
+    "all_tags": {
+      "name": "Zona 1",
+      "boundary": "administrative",
+      "way_area": "0.000538497",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -9282810,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-67992,-214704,-1521463",
+    "name": "Zona 24",
+    "local_name": "Zona 24",
+    "name_en": null,
+    "all_tags": {
+      "name": "Zona 24",
+      "boundary": "administrative",
+      "way_area": "0.00146625",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -9266319,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-67992,-214704,-1521463",
+    "name": "Zona 25",
+    "local_name": "Zona 25",
+    "name_en": null,
+    "all_tags": {
+      "name": "Zona 25",
+      "boundary": "administrative",
+      "way_area": "0.00262475",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -9266318,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-67992,-214704,-1521463",
+    "name": "Zona 17",
+    "local_name": "Zona 17",
+    "name_en": null,
+    "all_tags": {
+      "name": "Zona 17",
+      "boundary": "administrative",
+      "way_area": "0.000839274",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -9266317,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-67992,-214704,-1521463",
+    "name": "Zona 6",
+    "local_name": "Zona 6",
+    "name_en": null,
+    "all_tags": {
+      "name": "Zona 6",
+      "boundary": "administrative",
+      "way_area": "0.000613118",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -9266316,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-67992,-214704,-1521463",
+    "name": "Zona 18",
+    "local_name": "Zona 18",
+    "name_en": null,
+    "all_tags": {
+      "name": "Zona 18",
+      "boundary": "administrative",
+      "way_area": "0.00364172",
+      "admin_level": "8"
+    }
+  }
+]

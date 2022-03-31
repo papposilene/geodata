@@ -1,0 +1,62 @@
+[
+  {
+    "osm_id": -5162627,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2634531,-192790",
+    "name": "Tokoyo",
+    "local_name": "Tokoyo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Tokoyo",
+      "boundary": "administrative",
+      "way_area": "0.000422252",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -5162626,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2634531,-192790",
+    "name": "Maliko",
+    "local_name": "Maliko",
+    "name_en": null,
+    "all_tags": {
+      "name": "Maliko",
+      "boundary": "administrative",
+      "way_area": "0.000757818",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -5162625,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2634531,-192790",
+    "name": "Banguiville",
+    "local_name": "Banguiville",
+    "name_en": null,
+    "all_tags": {
+      "name": "Banguiville",
+      "boundary": "administrative",
+      "way_area": "0.000815289",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3987508,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2954276,-192790",
+    "name": "Mia-Pendé",
+    "local_name": "Mia-Pendé",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mia-Pendé",
+      "boundary": "administrative",
+      "way_area": "0.0803165",
+      "admin_level": "8"
+    }
+  }
+]

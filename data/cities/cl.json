@@ -1,0 +1,6281 @@
+[
+  {
+    "osm_id": -3078387,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3072992,-274991,-167454",
+    "name": "Puqueldón",
+    "local_name": "Puqueldón",
+    "name_en": null,
+    "all_tags": {
+      "name": "Puqueldón",
+      "boundary": "administrative",
+      "way_area": "0.0504036",
+      "wikidata": "Q2118779",
+      "wikipedia": "en:Puqueldón",
+      "admin_level": "8",
+      "dpachile:id": "10206"
+    }
+  },
+  {
+    "osm_id": -3078364,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3072992,-274991,-167454",
+    "name": "Quinchao",
+    "local_name": "Quinchao",
+    "name_en": null,
+    "all_tags": {
+      "name": "Quinchao",
+      "boundary": "administrative",
+      "way_area": "0.112837",
+      "wikidata": "Q56111",
+      "wikipedia": "es:Comuna de Quinchao",
+      "admin_level": "8",
+      "dpachile:id": "10210"
+    }
+  },
+  {
+    "osm_id": -3078354,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3072992,-274991,-167454",
+    "name": "Curaco de Vélez",
+    "local_name": "Curaco de Vélez",
+    "name_en": null,
+    "all_tags": {
+      "name": "Curaco de Vélez",
+      "boundary": "administrative",
+      "way_area": "0.0165638",
+      "wikidata": "Q3888",
+      "admin_level": "8",
+      "dpachile:id": "10204"
+    }
+  },
+  {
+    "osm_id": -3078348,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3072992,-274991,-167454",
+    "name": "Quemchi",
+    "local_name": "Quemchi",
+    "name_en": null,
+    "all_tags": {
+      "name": "Quemchi",
+      "boundary": "administrative",
+      "way_area": "0.244618",
+      "wikidata": "Q51609",
+      "wikipedia": "es:Comuna de Quemchi",
+      "admin_level": "8",
+      "dpachile:id": "10209"
+    }
+  },
+  {
+    "osm_id": -3078203,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3072992,-274991,-167454",
+    "name": "Ancud",
+    "local_name": "Ancud",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ancud",
+      "boundary": "administrative",
+      "way_area": "0.232886",
+      "wikidata": "Q3597",
+      "wikipedia": "es:Comuna de Ancud",
+      "admin_level": "8",
+      "dpachile:id": "10202"
+    }
+  },
+  {
+    "osm_id": -3077688,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3072992,-274991,-167454",
+    "name": "Dalcahue",
+    "local_name": "Dalcahue",
+    "name_en": null,
+    "all_tags": {
+      "name": "Dalcahue",
+      "boundary": "administrative",
+      "way_area": "0.143054",
+      "wikidata": "Q13031",
+      "wikipedia": "es:Comuna de Dalcahue",
+      "admin_level": "8",
+      "dpachile:id": "10205"
+    }
+  },
+  {
+    "osm_id": -3076728,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3072992,-274991,-167454",
+    "name": "Queilén",
+    "local_name": "Queilén",
+    "name_en": null,
+    "all_tags": {
+      "name": "Queilén",
+      "boundary": "administrative",
+      "way_area": "0.12786",
+      "wikidata": "Q51607",
+      "wikipedia": "es:Comuna de Queilén",
+      "admin_level": "8",
+      "dpachile:id": "10207"
+    }
+  },
+  {
+    "osm_id": -3076644,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3072992,-274991,-167454",
+    "name": "Quellón",
+    "local_name": "Quellón",
+    "name_en": null,
+    "all_tags": {
+      "name": "Quellón",
+      "boundary": "administrative",
+      "way_area": "0.941807",
+      "wikidata": "Q51608",
+      "admin_level": "8",
+      "dpachile:id": "10208"
+    }
+  },
+  {
+    "osm_id": -3076208,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3072992,-274991,-167454",
+    "name": "Chonchi",
+    "local_name": "Chonchi",
+    "name_en": null,
+    "all_tags": {
+      "name": "Chonchi",
+      "boundary": "administrative",
+      "way_area": "0.15735",
+      "wikidata": "Q3788",
+      "wikipedia": "es:Comuna de Chonchi",
+      "admin_level": "8",
+      "dpachile:id": "10203"
+    }
+  },
+  {
+    "osm_id": -3076091,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3072992,-274991,-167454",
+    "name": "Castro",
+    "local_name": "Castro",
+    "name_en": null,
+    "all_tags": {
+      "name": "Castro",
+      "name:ru": "Кастру",
+      "boundary": "administrative",
+      "way_area": "0.0759029",
+      "wikidata": "Q23660569",
+      "wikipedia": "es:Comuna de Castro",
+      "admin_level": "8",
+      "dpachile:id": "10201"
+    }
+  },
+  {
+    "osm_id": -3067460,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1820293,-274991,-167454",
+    "name": "Futaleufú",
+    "local_name": "Futaleufú",
+    "name_en": null,
+    "all_tags": {
+      "name": "Futaleufú",
+      "boundary": "administrative",
+      "way_area": "0.136606",
+      "wikidata": "Q13060",
+      "admin_level": "8",
+      "dpachile:id": "10402"
+    }
+  },
+  {
+    "osm_id": -3067455,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1820293,-274991,-167454",
+    "name": "Palena",
+    "local_name": "Palena",
+    "name_en": null,
+    "all_tags": {
+      "name": "Palena",
+      "boundary": "administrative",
+      "way_area": "0.29664",
+      "wikidata": "Q51073",
+      "wikipedia": "en:Palena, Chile",
+      "admin_level": "8",
+      "dpachile:id": "10404"
+    }
+  },
+  {
+    "osm_id": -1982383,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1982386,-305693,-167454",
+    "name": "Aysén",
+    "local_name": "Aysén",
+    "name_en": null,
+    "all_tags": {
+      "name": "Aysén",
+      "boundary": "administrative",
+      "way_area": "5.74633",
+      "wikidata": "Q3651",
+      "wikipedia": "en:Aysén, Chile",
+      "admin_level": "8",
+      "dpachile:id": "11201"
+    }
+  },
+  {
+    "osm_id": -1982362,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1982386,-305693,-167454",
+    "name": "Cisnes",
+    "local_name": "Cisnes",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cisnes",
+      "boundary": "administrative",
+      "way_area": "3.56641",
+      "wikidata": "Q3793",
+      "wikipedia": "en:Cisnes",
+      "admin_level": "8",
+      "dpachile:id": "11202"
+    }
+  },
+  {
+    "osm_id": -1982324,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1982386,-305693,-167454",
+    "name": "Guaitecas",
+    "local_name": "Guaitecas",
+    "name_en": null,
+    "all_tags": {
+      "name": "Guaitecas",
+      "boundary": "administrative",
+      "way_area": "0.46465",
+      "wikidata": "Q13069",
+      "wikipedia": "en:Guaitecas",
+      "admin_level": "8",
+      "dpachile:id": "11203"
+    }
+  },
+  {
+    "osm_id": -1982310,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1982311,-305693,-167454",
+    "name": "Lago Verde",
+    "local_name": "Lago Verde",
+    "name_en": null,
+    "all_tags": {
+      "name": "Lago Verde",
+      "boundary": "administrative",
+      "way_area": "0.61461",
+      "wikidata": "Q14471",
+      "wikipedia": "es:Lago Verde (comuna)",
+      "admin_level": "8",
+      "dpachile:id": "11102"
+    }
+  },
+  {
+    "osm_id": -1982302,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1982311,-305693,-167454",
+    "name": "Coyhaique",
+    "local_name": "Coyhaique",
+    "name_en": null,
+    "all_tags": {
+      "name": "Coyhaique",
+      "boundary": "administrative",
+      "way_area": "0.837295",
+      "wikidata": "Q3810",
+      "wikipedia": "es:Coyhaique",
+      "population": "63567",
+      "admin_level": "8",
+      "dpachile:id": "11101"
+    }
+  },
+  {
+    "osm_id": -1982289,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1982290,-305693,-167454",
+    "name": "Río Ibáñez",
+    "local_name": "Río Ibáñez",
+    "name_en": null,
+    "all_tags": {
+      "name": "Río Ibáñez",
+      "boundary": "administrative",
+      "way_area": "0.704624",
+      "wikidata": "Q56129",
+      "wikipedia": "es:Río Ibáñez (comuna)",
+      "admin_level": "8",
+      "dpachile:id": "11402"
+    }
+  },
+  {
+    "osm_id": -1982287,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1982290,-305693,-167454",
+    "name": "Chile Chico",
+    "local_name": "Chile Chico",
+    "name_en": null,
+    "all_tags": {
+      "name": "Chile Chico",
+      "boundary": "administrative",
+      "way_area": "0.673548",
+      "wikidata": "Q3770",
+      "wikipedia": "es:Chile Chico",
+      "admin_level": "8",
+      "dpachile:id": "11401"
+    }
+  },
+  {
+    "osm_id": -1981561,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1981571,-305693,-167454",
+    "name": "Cochrane",
+    "local_name": "Cochrane",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cochrane",
+      "boundary": "administrative",
+      "way_area": "1.02812",
+      "wikidata": "Q3800",
+      "wikipedia": "en:Cochrane, Chile",
+      "admin_level": "8",
+      "dpachile:id": "11301"
+    }
+  },
+  {
+    "osm_id": -1981462,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1981571,-305693,-167454",
+    "name": "Tortel",
+    "local_name": "Tortel",
+    "name_en": null,
+    "all_tags": {
+      "name": "Tortel",
+      "boundary": "administrative",
+      "way_area": "4.10765",
+      "wikidata": "Q2390232",
+      "wikipedia": "en:Tortel",
+      "admin_level": "8",
+      "dpachile:id": "11303"
+    }
+  },
+  {
+    "osm_id": -1981246,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1981571,-305693,-167454",
+    "name": "O’Higgins",
+    "local_name": "O’Higgins",
+    "name_en": null,
+    "all_tags": {
+      "name": "O’Higgins",
+      "boundary": "administrative",
+      "way_area": "0.988667",
+      "wikidata": "Q51051",
+      "wikipedia": "en:O'Higgins, Chile",
+      "admin_level": "8",
+      "dpachile:id": "11302"
+    }
+  },
+  {
+    "osm_id": -1980641,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1980749,-301542,-167454",
+    "name": "Torres del Paine",
+    "local_name": "Torres del Paine",
+    "name_en": null,
+    "all_tags": {
+      "name": "Torres del Paine",
+      "name:es": "Torres del Paine",
+      "boundary": "administrative",
+      "way_area": "0.834994",
+      "wikidata": "Q200948",
+      "wikipedia": "en:Torres del Paine, Chile",
+      "admin_level": "8",
+      "dpachile:id": "12402"
+    }
+  },
+  {
+    "osm_id": -1980619,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1980749,-301542,-167454",
+    "name": "Natales",
+    "local_name": "Natales",
+    "name_en": null,
+    "all_tags": {
+      "name": "Natales",
+      "boundary": "administrative",
+      "way_area": "10.9519",
+      "wikidata": "Q1001339",
+      "wikipedia": "en:Natales",
+      "admin_level": "8",
+      "dpachile:id": "12401"
+    }
+  },
+  {
+    "osm_id": -1980553,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1980558,-301542,-167454",
+    "name": "Timaukel",
+    "local_name": "Timaukel",
+    "name_en": null,
+    "all_tags": {
+      "name": "Timaukel",
+      "boundary": "administrative",
+      "way_area": "1.91411",
+      "wikidata": "Q188177",
+      "wikipedia": "en:Timaukel",
+      "admin_level": "8",
+      "dpachile:id": "12303"
+    }
+  },
+  {
+    "osm_id": -1980521,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1980558,-301542,-167454",
+    "name": "Primavera",
+    "local_name": "Primavera",
+    "name_en": null,
+    "all_tags": {
+      "name": "Primavera",
+      "boundary": "administrative",
+      "way_area": "0.831051",
+      "wikidata": "Q51586",
+      "wikipedia": "en:Primavera, Chile",
+      "admin_level": "8",
+      "dpachile:id": "12302"
+    }
+  },
+  {
+    "osm_id": -1980517,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1980558,-301542,-167454",
+    "name": "Porvenir",
+    "local_name": "Porvenir",
+    "name_en": null,
+    "all_tags": {
+      "name": "Porvenir",
+      "boundary": "administrative",
+      "way_area": "1.34491",
+      "wikidata": "Q51120",
+      "admin_level": "8",
+      "dpachile:id": "12301"
+    }
+  },
+  {
+    "osm_id": -1980437,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1980481,-301542,-167454",
+    "name": "Río Verde",
+    "local_name": "Río Verde",
+    "name_en": null,
+    "all_tags": {
+      "name": "Río Verde",
+      "boundary": "administrative",
+      "way_area": "1.77569",
+      "wikidata": "Q56131",
+      "wikipedia": "en:Río Verde, Chile",
+      "admin_level": "8",
+      "dpachile:id": "12103"
+    }
+  },
+  {
+    "osm_id": -1980431,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1980481,-301542,-167454",
+    "name": "Laguna Blanca",
+    "local_name": "Laguna Blanca",
+    "name_en": null,
+    "all_tags": {
+      "name": "Laguna Blanca",
+      "boundary": "administrative",
+      "way_area": "0.479903",
+      "wikidata": "Q14474",
+      "admin_level": "8",
+      "dpachile:id": "12102"
+    }
+  },
+  {
+    "osm_id": -1980429,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1980481,-301542,-167454",
+    "name": "San Gregorio",
+    "local_name": "San Gregorio",
+    "name_en": null,
+    "all_tags": {
+      "name": "San Gregorio",
+      "boundary": "administrative",
+      "way_area": "1.1515",
+      "wikidata": "Q187816",
+      "wikipedia": "en:San Gregorio, Chile",
+      "admin_level": "8",
+      "dpachile:id": "12104"
+    }
+  },
+  {
+    "osm_id": -1979467,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1980481,-301542,-167454",
+    "name": "Punta Arenas",
+    "local_name": "Punta Arenas",
+    "name_en": null,
+    "all_tags": {
+      "name": "Punta Arenas",
+      "boundary": "administrative",
+      "way_area": "1.42992",
+      "wikidata": "Q23660255",
+      "admin_level": "8",
+      "dpachile:id": "12101"
+    }
+  },
+  {
+    "osm_id": -1979223,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1974213,-301542,-167454",
+    "name": "Cape Horn",
+    "local_name": "Cabo de Hornos",
+    "name_en": "Cape Horn",
+    "all_tags": {
+      "name": "Cabo de Hornos",
+      "name:de": "Kap Hoorn",
+      "name:en": "Cape Horn",
+      "boundary": "administrative",
+      "old_name": "Navarino",
+      "way_area": "6.49142",
+      "wikidata": "Q3673",
+      "wikipedia": "en:Cabo de Hornos, Chile",
+      "admin_level": "8",
+      "dpachile:id": "12201"
+    }
+  },
+  {
+    "osm_id": -1820338,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1820293,-274991,-167454",
+    "name": "Chaitén",
+    "local_name": "Chaitén",
+    "name_en": null,
+    "all_tags": {
+      "name": "Chaitén",
+      "boundary": "administrative",
+      "way_area": "1.43536",
+      "wikidata": "Q3759",
+      "wikipedia": "en:Chaitén",
+      "admin_level": "8",
+      "dpachile:id": "10401"
+    }
+  },
+  {
+    "osm_id": -1820318,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1820293,-274991,-167454",
+    "name": "Hualaihué",
+    "local_name": "Hualaihué",
+    "name_en": null,
+    "all_tags": {
+      "name": "Hualaihué",
+      "boundary": "administrative",
+      "way_area": "0.438403",
+      "wikidata": "Q13072",
+      "wikipedia": "en:Hualaihué",
+      "admin_level": "8",
+      "dpachile:id": "10403"
+    }
+  },
+  {
+    "osm_id": -1798888,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1796333,-274991,-167454",
+    "name": "Puerto Varas",
+    "local_name": "Puerto Varas",
+    "name_en": null,
+    "all_tags": {
+      "name": "Puerto Varas",
+      "name:ru": "Пуэрто-Варас",
+      "boundary": "administrative",
+      "way_area": "0.429069",
+      "wikidata": "Q51596",
+      "population": "41255",
+      "admin_level": "8",
+      "dpachile:id": "10109"
+    }
+  },
+  {
+    "osm_id": -1798828,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1796333,-274991,-167454",
+    "name": "Cochamó",
+    "local_name": "Cochamó",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cochamó",
+      "boundary": "administrative",
+      "way_area": "0.441238",
+      "wikidata": "Q3797",
+      "admin_level": "8",
+      "dpachile:id": "10103"
+    }
+  },
+  {
+    "osm_id": -1798806,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1796333,-274991,-167454",
+    "name": "Puerto Montt",
+    "local_name": "Puerto Montt",
+    "name_en": null,
+    "all_tags": {
+      "name": "Puerto Montt",
+      "boundary": "administrative",
+      "way_area": "0.239611",
+      "wikidata": "Q36214",
+      "wikipedia": "es:Puerto Montt",
+      "admin_level": "8",
+      "dpachile:id": "10101"
+    }
+  },
+  {
+    "osm_id": -1798800,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1796333,-274991,-167454",
+    "name": "Calbuco",
+    "local_name": "Calbuco",
+    "name_en": null,
+    "all_tags": {
+      "name": "Calbuco",
+      "boundary": "administrative",
+      "way_area": "0.161066",
+      "wikidata": "Q3691",
+      "wikipedia": "en:Calbuco",
+      "admin_level": "8",
+      "dpachile:id": "10102"
+    }
+  },
+  {
+    "osm_id": -1798792,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1796333,-274991,-167454",
+    "name": "Los Muermos",
+    "local_name": "Los Muermos",
+    "name_en": null,
+    "all_tags": {
+      "name": "Los Muermos",
+      "boundary": "administrative",
+      "way_area": "0.132862",
+      "wikidata": "Q16906",
+      "admin_level": "8",
+      "dpachile:id": "10106"
+    }
+  },
+  {
+    "osm_id": -1798791,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1796333,-274991,-167454",
+    "name": "Llanquihue",
+    "local_name": "Llanquihue",
+    "name_en": null,
+    "all_tags": {
+      "name": "Llanquihue",
+      "boundary": "administrative",
+      "way_area": "0.0456222",
+      "wikidata": "Q14500",
+      "wikipedia": "en:Llanquihue, Chile",
+      "admin_level": "8",
+      "dpachile:id": "10107"
+    }
+  },
+  {
+    "osm_id": -1798790,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1796333,-274991,-167454",
+    "name": "Maullín",
+    "local_name": "Maullín",
+    "name_en": null,
+    "all_tags": {
+      "name": "Maullín",
+      "boundary": "administrative",
+      "way_area": "0.156171",
+      "wikidata": "Q16927",
+      "wikipedia": "en:Maullín",
+      "admin_level": "8",
+      "dpachile:id": "10108"
+    }
+  },
+  {
+    "osm_id": -1796410,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1796333,-274991,-167454",
+    "name": "Frutillar",
+    "local_name": "Frutillar",
+    "name_en": null,
+    "all_tags": {
+      "name": "Frutillar",
+      "boundary": "administrative",
+      "way_area": "0.0950274",
+      "wikidata": "Q13058",
+      "admin_level": "8",
+      "dpachile:id": "10105"
+    }
+  },
+  {
+    "osm_id": -1796332,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1796333,-274991,-167454",
+    "name": "Fresia",
+    "local_name": "Fresia",
+    "name_en": null,
+    "all_tags": {
+      "name": "Fresia",
+      "boundary": "administrative",
+      "way_area": "0.136808",
+      "wikidata": "Q13052",
+      "wikipedia": "en:Fresia, Chile",
+      "admin_level": "8",
+      "dpachile:id": "10104"
+    }
+  },
+  {
+    "osm_id": -1795811,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1791815,-274991,-167454",
+    "name": "Purranque",
+    "local_name": "Purranque",
+    "name_en": null,
+    "all_tags": {
+      "name": "Purranque",
+      "boundary": "administrative",
+      "way_area": "0.155233",
+      "wikidata": "Q51601",
+      "wikipedia": "en:Purranque",
+      "admin_level": "8",
+      "dpachile:id": "10303"
+    }
+  },
+  {
+    "osm_id": -1795795,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1791815,-274991,-167454",
+    "name": "Río Negro",
+    "local_name": "Río Negro",
+    "name_en": null,
+    "all_tags": {
+      "name": "Río Negro",
+      "boundary": "administrative",
+      "way_area": "0.134624",
+      "wikidata": "Q56130",
+      "wikipedia": "en:Río Negro, Chile",
+      "admin_level": "8",
+      "dpachile:id": "10305"
+    }
+  },
+  {
+    "osm_id": -1795768,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1791815,-274991,-167454",
+    "name": "Puerto Octay",
+    "local_name": "Puerto Octay",
+    "name_en": null,
+    "all_tags": {
+      "name": "Puerto Octay",
+      "boundary": "administrative",
+      "way_area": "0.192461",
+      "wikidata": "Q51595",
+      "wikipedia": "en:Puerto Octay",
+      "admin_level": "8",
+      "dpachile:id": "10302"
+    }
+  },
+  {
+    "osm_id": -1795049,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1791815,-274991,-167454",
+    "name": "Puyehue",
+    "local_name": "Puyehue",
+    "name_en": null,
+    "all_tags": {
+      "name": "Puyehue",
+      "boundary": "administrative",
+      "way_area": "0.172577",
+      "wikidata": "Q15084",
+      "wikipedia": "en:Puyehue, Chile",
+      "admin_level": "8",
+      "dpachile:id": "10304"
+    }
+  },
+  {
+    "osm_id": -1794711,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1791815,-274991,-167454",
+    "name": "Osorno",
+    "local_name": "Osorno",
+    "name_en": null,
+    "all_tags": {
+      "name": "Osorno",
+      "boundary": "administrative",
+      "way_area": "0.101504",
+      "wikidata": "Q51059",
+      "wikipedia": "es:Osorno",
+      "admin_level": "8",
+      "dpachile:id": "10301"
+    }
+  },
+  {
+    "osm_id": -1791817,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1791815,-274991,-167454",
+    "name": "San Juan de la Costa",
+    "local_name": "San Juan de la Costa",
+    "name_en": null,
+    "all_tags": {
+      "name": "San Juan de la Costa",
+      "boundary": "administrative",
+      "way_area": "0.161972",
+      "wikidata": "Q187856",
+      "wikipedia": "es:San Juan de la Costa",
+      "admin_level": "8",
+      "dpachile:id": "10306"
+    }
+  },
+  {
+    "osm_id": -1791802,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1791815,-274991,-167454",
+    "name": "San Pablo",
+    "local_name": "San Pablo",
+    "name_en": null,
+    "all_tags": {
+      "name": "San Pablo",
+      "boundary": "administrative",
+      "way_area": "0.0668308",
+      "wikidata": "Q187873",
+      "wikipedia": "en:San Pablo, Chile",
+      "admin_level": "8",
+      "dpachile:id": "10307"
+    }
+  },
+  {
+    "osm_id": -1791290,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1785846,-274988,-167454",
+    "name": "Lago Ranco",
+    "local_name": "Lago Ranco",
+    "name_en": null,
+    "all_tags": {
+      "name": "Lago Ranco",
+      "boundary": "administrative",
+      "way_area": "0.187049",
+      "wikidata": "Q14470",
+      "wikipedia": "es:Lago Ranco (comuna)",
+      "admin_level": "8",
+      "dpachile:id": "14203"
+    }
+  },
+  {
+    "osm_id": -1791148,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1785846,-274988,-167454",
+    "name": "Comuna de La Unión",
+    "local_name": "Comuna de La Unión",
+    "name_en": null,
+    "all_tags": {
+      "name": "Comuna de La Unión",
+      "boundary": "administrative",
+      "way_area": "0.225165",
+      "wikidata": "Q23660622",
+      "wikipedia": "es:Comuna de La Unión",
+      "admin_level": "8",
+      "dpachile:id": "14201"
+    }
+  },
+  {
+    "osm_id": -1791147,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1785846,-274988,-167454",
+    "name": "Río Bueno",
+    "local_name": "Río Bueno",
+    "name_en": null,
+    "all_tags": {
+      "name": "Río Bueno",
+      "boundary": "administrative",
+      "way_area": "0.231578",
+      "wikidata": "Q56126",
+      "wikipedia": "es:Río Bueno (comuna)",
+      "admin_level": "8",
+      "dpachile:id": "14204"
+    }
+  },
+  {
+    "osm_id": -1785852,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1769310,-274988,-167454",
+    "name": "Paillaco",
+    "local_name": "Paillaco",
+    "name_en": null,
+    "all_tags": {
+      "name": "Paillaco",
+      "boundary": "administrative",
+      "way_area": "0.0951228",
+      "wikidata": "Q51069",
+      "wikipedia": "es:Paillaco",
+      "admin_level": "8",
+      "dpachile:id": "14107"
+    }
+  },
+  {
+    "osm_id": -1785847,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1785846,-274988,-167454",
+    "name": "Futrono",
+    "local_name": "Futrono",
+    "name_en": null,
+    "all_tags": {
+      "name": "Futrono",
+      "boundary": "administrative",
+      "way_area": "0.220573",
+      "wikidata": "Q13062",
+      "wikipedia": "es:Futrono",
+      "admin_level": "8",
+      "dpachile:id": "14202"
+    }
+  },
+  {
+    "osm_id": -1785707,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1769310,-274988,-167454",
+    "name": "Los Lagos",
+    "local_name": "Los Lagos",
+    "name_en": null,
+    "all_tags": {
+      "name": "Los Lagos",
+      "boundary": "administrative",
+      "way_area": "0.188445",
+      "wikidata": "Q16905",
+      "wikipedia": "es:Los Lagos (Chile)",
+      "admin_level": "8",
+      "dpachile:id": "14104"
+    }
+  },
+  {
+    "osm_id": -1785692,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1769310,-274988,-167454",
+    "name": "Corral",
+    "local_name": "Corral",
+    "name_en": null,
+    "all_tags": {
+      "name": "Corral",
+      "boundary": "administrative",
+      "way_area": "0.0793476",
+      "wikidata": "Q3875",
+      "wikipedia": "es:Corral (Chile)",
+      "admin_level": "8",
+      "dpachile:id": "14102"
+    }
+  },
+  {
+    "osm_id": -1785691,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1769310,-274988,-167454",
+    "name": "Valdivia",
+    "local_name": "Valdivia",
+    "name_en": null,
+    "all_tags": {
+      "name": "Valdivia",
+      "boundary": "administrative",
+      "way_area": "0.107502",
+      "wikidata": "Q160687",
+      "wikipedia": "es:Valdivia",
+      "admin_level": "8",
+      "dpachile:id": "14101"
+    }
+  },
+  {
+    "osm_id": -1785668,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1769310,-274988,-167454",
+    "name": "Máfil",
+    "local_name": "Máfil",
+    "name_en": null,
+    "all_tags": {
+      "name": "Máfil",
+      "boundary": "administrative",
+      "way_area": "0.060831",
+      "wikidata": "Q51038",
+      "wikipedia": "es:Máfil",
+      "admin_level": "8",
+      "dpachile:id": "14105"
+    }
+  },
+  {
+    "osm_id": -1785656,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1769310,-274988,-167454",
+    "name": "Mariquina",
+    "local_name": "Mariquina",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mariquina",
+      "boundary": "administrative",
+      "way_area": "0.138146",
+      "wikidata": "Q16922",
+      "wikipedia": "es:Mariquina (Chile)",
+      "admin_level": "8",
+      "dpachile:id": "14106"
+    }
+  },
+  {
+    "osm_id": -1773341,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1773340,-198847,-167454",
+    "name": "Easter Island",
+    "local_name": "Rapa Nui",
+    "name_en": "Easter Island",
+    "all_tags": {
+      "name": "Rapa Nui",
+      "name:cs": "Velikonoční ostrov",
+      "name:de": "Osterinsel",
+      "name:en": "Easter Island",
+      "name:es": "Isla de Pascua",
+      "name:fr": "Île de Pâques",
+      "name:hy": "Զատկի կղզի (նահանգ)",
+      "name:it": "Isola di Pasqua",
+      "name:ko": "이슬라데파스쿠아 현",
+      "name:pt": "Ilha de Páscoa",
+      "name:ru": "Исла-де-Паскуа",
+      "name:uk": "Острів Пасхи",
+      "name:zh": "復活節島省",
+      "boundary": "administrative",
+      "way_area": "0.0148953",
+      "wikidata": "Q721369",
+      "wikipedia": "es:Provincia de Isla de Pascua",
+      "admin_level": "8",
+      "dpachile:id": "05201"
+    }
+  },
+  {
+    "osm_id": -1773333,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1561037,-198847,-167454",
+    "name": "Juan Fernández",
+    "local_name": "Juan Fernández",
+    "name_en": null,
+    "all_tags": {
+      "name": "Juan Fernández",
+      "boundary": "administrative",
+      "way_area": "0.0101748",
+      "wikidata": "Q14454",
+      "wikipedia": "es:Juan Fernández (comuna)",
+      "admin_level": "8",
+      "dpachile:id": "05104"
+    }
+  },
+  {
+    "osm_id": -1771698,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1769310,-274988,-167454",
+    "name": "Lanco",
+    "local_name": "Lanco",
+    "name_en": null,
+    "all_tags": {
+      "name": "Lanco",
+      "boundary": "administrative",
+      "way_area": "0.0559251",
+      "wikidata": "Q14478",
+      "wikipedia": "es:Lanco",
+      "admin_level": "8",
+      "dpachile:id": "14103"
+    }
+  },
+  {
+    "osm_id": -1769309,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1769310,-274988,-167454",
+    "name": "Panguipulli",
+    "local_name": "Panguipulli",
+    "name_en": null,
+    "all_tags": {
+      "name": "Panguipulli",
+      "boundary": "administrative",
+      "way_area": "0.345958",
+      "wikidata": "Q51076",
+      "wikipedia": "es:Panguipulli",
+      "admin_level": "8",
+      "dpachile:id": "14108"
+    }
+  },
+  {
+    "osm_id": -1769301,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1734788,-296378,-167454",
+    "name": "Gorbea",
+    "local_name": "Gorbea",
+    "name_en": null,
+    "all_tags": {
+      "name": "Gorbea",
+      "boundary": "administrative",
+      "way_area": "0.0717953",
+      "wikidata": "Q13067",
+      "wikipedia": "es:Gorbea (Chile)",
+      "admin_level": "8",
+      "dpachile:id": "09107"
+    }
+  },
+  {
+    "osm_id": -1769297,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1734788,-296378,-167454",
+    "name": "Toltén",
+    "local_name": "Toltén",
+    "name_en": null,
+    "all_tags": {
+      "name": "Toltén",
+      "boundary": "administrative",
+      "way_area": "0.0886747",
+      "wikidata": "Q200926",
+      "wikipedia": "es:Toltén",
+      "admin_level": "8",
+      "dpachile:id": "09118"
+    }
+  },
+  {
+    "osm_id": -1768852,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1734788,-296378,-167454",
+    "name": "Loncoche",
+    "local_name": "Loncoche",
+    "name_en": null,
+    "all_tags": {
+      "name": "Loncoche",
+      "name:ru": "Лонкоче",
+      "boundary": "administrative",
+      "way_area": "0.101494",
+      "wikidata": "Q16900",
+      "wikipedia": "es:Loncoche",
+      "admin_level": "8",
+      "dpachile:id": "09109"
+    }
+  },
+  {
+    "osm_id": -1768825,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1734788,-296378,-167454",
+    "name": "Pitrufquén",
+    "local_name": "Pitrufquén",
+    "name_en": null,
+    "all_tags": {
+      "name": "Pitrufquén",
+      "boundary": "administrative",
+      "way_area": "0.0601663",
+      "wikidata": "Q51115",
+      "wikipedia": "es:Pitrufquén",
+      "admin_level": "8",
+      "dpachile:id": "09114"
+    }
+  },
+  {
+    "osm_id": -1768743,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1734788,-296378,-167454",
+    "name": "Padre Las Casas",
+    "local_name": "Padre Las Casas",
+    "name_en": null,
+    "all_tags": {
+      "name": "Padre Las Casas",
+      "boundary": "administrative",
+      "way_area": "0.0479899",
+      "wikidata": "Q51063",
+      "wikipedia": "es:Padre Las Casas",
+      "admin_level": "8",
+      "dpachile:id": "09112"
+    }
+  },
+  {
+    "osm_id": -1768732,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1734788,-296378,-167454",
+    "name": "Nueva Imperial",
+    "local_name": "Nueva Imperial",
+    "name_en": null,
+    "all_tags": {
+      "name": "Nueva Imperial",
+      "name:ru": "Нуэва-Имперьяль",
+      "boundary": "administrative",
+      "way_area": "0.0796136",
+      "wikidata": "Q51050",
+      "wikipedia": "es:Nueva Imperial",
+      "admin_level": "8",
+      "dpachile:id": "09111"
+    }
+  },
+  {
+    "osm_id": -1767500,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1734788,-296378,-167454",
+    "name": "Cholchol",
+    "local_name": "Cholchol",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cholchol",
+      "boundary": "administrative",
+      "way_area": "0.0411135",
+      "wikidata": "Q3785",
+      "wikipedia": "es:Cholchol",
+      "admin_level": "8",
+      "dpachile:id": "09121"
+    }
+  },
+  {
+    "osm_id": -1767496,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1734788,-296378,-167454",
+    "name": "Freire",
+    "local_name": "Freire",
+    "name_en": null,
+    "all_tags": {
+      "name": "Freire",
+      "boundary": "administrative",
+      "way_area": "0.0910528",
+      "wikidata": "Q13049",
+      "wikipedia": "es:Freire (Chile)",
+      "admin_level": "8",
+      "dpachile:id": "09105"
+    }
+  },
+  {
+    "osm_id": -1767428,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1734788,-296378,-167454",
+    "name": "Teodoro Schmidt",
+    "local_name": "Teodoro Schmidt",
+    "name_en": null,
+    "all_tags": {
+      "name": "Teodoro Schmidt",
+      "boundary": "administrative",
+      "way_area": "0.0679345",
+      "wikidata": "Q188135",
+      "wikipedia": "es:Teodoro Schmidt (comuna)",
+      "admin_level": "8",
+      "dpachile:id": "09117"
+    }
+  },
+  {
+    "osm_id": -1767375,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1734788,-296378,-167454",
+    "name": "Saavedra",
+    "local_name": "Saavedra",
+    "name_en": null,
+    "all_tags": {
+      "name": "Saavedra",
+      "boundary": "administrative",
+      "way_area": "0.0410016",
+      "wikidata": "Q56132",
+      "wikipedia": "es:Saavedra (Chile)",
+      "admin_level": "8",
+      "dpachile:id": "09116"
+    }
+  },
+  {
+    "osm_id": -1767319,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1734788,-296378,-167454",
+    "name": "Galvarino",
+    "local_name": "Galvarino",
+    "name_en": null,
+    "all_tags": {
+      "name": "Galvarino",
+      "boundary": "administrative",
+      "way_area": "0.0586175",
+      "wikidata": "Q13063",
+      "wikipedia": "es:Galvarino (Chile)",
+      "admin_level": "8",
+      "dpachile:id": "09106"
+    }
+  },
+  {
+    "osm_id": -1767300,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1734788,-296378,-167454",
+    "name": "Temuco",
+    "local_name": "Temuco",
+    "name_en": null,
+    "all_tags": {
+      "name": "Temuco",
+      "name:ar": "تيموكو",
+      "boundary": "administrative",
+      "way_area": "0.0480455",
+      "wikidata": "Q82128",
+      "wikipedia": "es:Temuco",
+      "admin_level": "8",
+      "dpachile:id": "09101"
+    }
+  },
+  {
+    "osm_id": -1767210,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1734788,-296378,-167454",
+    "name": "Lautaro",
+    "local_name": "Lautaro",
+    "name_en": null,
+    "all_tags": {
+      "name": "Lautaro",
+      "boundary": "administrative",
+      "way_area": "0.0936896",
+      "wikidata": "Q14486",
+      "wikipedia": "es:Lautaro (Chile)",
+      "admin_level": "8",
+      "dpachile:id": "09108"
+    }
+  },
+  {
+    "osm_id": -1766983,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1735986,-296378,-167454",
+    "name": "Traiguén",
+    "local_name": "Traiguén",
+    "name_en": null,
+    "all_tags": {
+      "name": "Traiguén",
+      "boundary": "administrative",
+      "way_area": "0.0921891",
+      "wikidata": "Q200961",
+      "wikipedia": "es:Traiguén",
+      "admin_level": "8",
+      "dpachile:id": "09210"
+    }
+  },
+  {
+    "osm_id": -1766982,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1734788,-296378,-167454",
+    "name": "Perquenco",
+    "local_name": "Perquenco",
+    "name_en": null,
+    "all_tags": {
+      "name": "Perquenco",
+      "boundary": "administrative",
+      "way_area": "0.0342163",
+      "wikidata": "Q15076",
+      "wikipedia": "es:Perquenco",
+      "admin_level": "8",
+      "dpachile:id": "09113"
+    }
+  },
+  {
+    "osm_id": -1766981,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1735986,-296378,-167454",
+    "name": "Victoria",
+    "local_name": "Victoria",
+    "name_en": null,
+    "all_tags": {
+      "name": "Victoria",
+      "boundary": "administrative",
+      "way_area": "0.129717",
+      "wikidata": "Q200999",
+      "wikipedia": "es:Victoria (Chile)",
+      "admin_level": "8",
+      "dpachile:id": "09211"
+    }
+  },
+  {
+    "osm_id": -1766964,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1735986,-296378,-167454",
+    "name": "Ercilla",
+    "local_name": "Ercilla",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ercilla",
+      "boundary": "administrative",
+      "way_area": "0.0512308",
+      "wikidata": "Q13044",
+      "wikipedia": "es:Ercilla",
+      "admin_level": "8",
+      "dpachile:id": "09204"
+    }
+  },
+  {
+    "osm_id": -1763067,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1735986,-296378,-167454",
+    "name": "Los Sauces",
+    "local_name": "Los Sauces",
+    "name_en": null,
+    "all_tags": {
+      "name": "Los Sauces",
+      "boundary": "administrative",
+      "way_area": "0.087061",
+      "wikidata": "Q16907",
+      "wikipedia": "es:Los Sauces",
+      "admin_level": "8",
+      "dpachile:id": "09206"
+    }
+  },
+  {
+    "osm_id": -1742919,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1735986,-296378,-167454",
+    "name": "Renaico",
+    "local_name": "Renaico",
+    "name_en": null,
+    "all_tags": {
+      "name": "Renaico",
+      "boundary": "administrative",
+      "way_area": "0.0271434",
+      "wikidata": "Q56118",
+      "wikipedia": "es:Renaico",
+      "admin_level": "8",
+      "dpachile:id": "09209"
+    }
+  },
+  {
+    "osm_id": -1742885,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1735986,-296378,-167454",
+    "name": "Angol",
+    "local_name": "Angol",
+    "name_en": null,
+    "all_tags": {
+      "name": "Angol",
+      "boundary": "administrative",
+      "way_area": "0.122449",
+      "wikidata": "Q3608",
+      "wikipedia": "es:Angol",
+      "admin_level": "8",
+      "dpachile:id": "09201"
+    }
+  },
+  {
+    "osm_id": -1742662,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1735986,-296378,-167454",
+    "name": "Purén",
+    "local_name": "Purén",
+    "name_en": null,
+    "all_tags": {
+      "name": "Purén",
+      "boundary": "administrative",
+      "way_area": "0.0478263",
+      "wikidata": "Q51602",
+      "wikipedia": "es:Purén",
+      "admin_level": "8",
+      "dpachile:id": "09208"
+    }
+  },
+  {
+    "osm_id": -1742570,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1735986,-296378,-167454",
+    "name": "Lumaco",
+    "local_name": "Lumaco",
+    "name_en": null,
+    "all_tags": {
+      "name": "Lumaco",
+      "boundary": "administrative",
+      "way_area": "0.114148",
+      "wikidata": "Q16914",
+      "wikipedia": "es:Lumaco",
+      "admin_level": "8",
+      "dpachile:id": "09207"
+    }
+  },
+  {
+    "osm_id": -1742431,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1734788,-296378,-167454",
+    "name": "Carahue",
+    "local_name": "Carahue",
+    "name_en": null,
+    "all_tags": {
+      "name": "Carahue",
+      "name:ru": "Карауэ",
+      "boundary": "administrative",
+      "way_area": "0.13768",
+      "wikidata": "Q3736",
+      "wikipedia": "es:Carahue",
+      "admin_level": "8",
+      "dpachile:id": "09102"
+    }
+  },
+  {
+    "osm_id": -1736040,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1735986,-296378,-167454",
+    "name": "Collipulli",
+    "local_name": "Collipulli",
+    "name_en": null,
+    "all_tags": {
+      "name": "Collipulli",
+      "name:ru": "Кольипульи",
+      "boundary": "administrative",
+      "way_area": "0.134052",
+      "wikidata": "Q3843",
+      "wikipedia": "es:Collipulli",
+      "admin_level": "8",
+      "dpachile:id": "09202"
+    }
+  },
+  {
+    "osm_id": -1736036,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1735986,-296378,-167454",
+    "name": "Curacautín",
+    "local_name": "Curacautín",
+    "name_en": null,
+    "all_tags": {
+      "name": "Curacautín",
+      "boundary": "administrative",
+      "way_area": "0.170778",
+      "wikidata": "Q3880",
+      "wikipedia": "es:Curacautín",
+      "admin_level": "8",
+      "dpachile:id": "09203"
+    }
+  },
+  {
+    "osm_id": -1736001,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1735986,-296378,-167454",
+    "name": "Lonquimay",
+    "local_name": "Lonquimay",
+    "name_en": null,
+    "all_tags": {
+      "name": "Lonquimay",
+      "boundary": "administrative",
+      "way_area": "0.405468",
+      "wikidata": "Q16902",
+      "wikipedia": "es:Lonquimay",
+      "admin_level": "8",
+      "dpachile:id": "09205"
+    }
+  },
+  {
+    "osm_id": -1736000,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1734788,-296378,-167454",
+    "name": "Vilcún",
+    "local_name": "Vilcún",
+    "name_en": null,
+    "all_tags": {
+      "name": "Vilcún",
+      "boundary": "administrative",
+      "way_area": "0.146694",
+      "wikidata": "Q1643896",
+      "wikipedia": "es:Vilcún",
+      "admin_level": "8",
+      "dpachile:id": "09119"
+    }
+  },
+  {
+    "osm_id": -1735968,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1734788,-296378,-167454",
+    "name": "Melipeuco",
+    "local_name": "Melipeuco",
+    "name_en": null,
+    "all_tags": {
+      "name": "Melipeuco",
+      "boundary": "administrative",
+      "way_area": "0.114837",
+      "wikidata": "Q49076",
+      "wikipedia": "es:Melipeuco",
+      "admin_level": "8",
+      "dpachile:id": "09110"
+    }
+  },
+  {
+    "osm_id": -1735940,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1734788,-296378,-167454",
+    "name": "Cunco",
+    "local_name": "Cunco",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cunco",
+      "boundary": "administrative",
+      "way_area": "0.196239",
+      "wikidata": "Q3878",
+      "wikipedia": "es:Cunco (Chile)",
+      "admin_level": "8",
+      "dpachile:id": "09103"
+    }
+  },
+  {
+    "osm_id": -1734921,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1734788,-296378,-167454",
+    "name": "Villarrica",
+    "local_name": "Villarrica",
+    "name_en": null,
+    "all_tags": {
+      "name": "Villarrica",
+      "boundary": "administrative",
+      "way_area": "0.135602",
+      "wikidata": "Q201019",
+      "wikipedia": "es:Villarrica (Chile)",
+      "admin_level": "8",
+      "dpachile:id": "09120"
+    }
+  },
+  {
+    "osm_id": -1734789,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1734788,-296378,-167454",
+    "name": "Curarrehue",
+    "local_name": "Curarrehue",
+    "name_en": null,
+    "all_tags": {
+      "name": "Curarrehue",
+      "boundary": "administrative",
+      "way_area": "0.121632",
+      "wikidata": "Q13025",
+      "wikipedia": "es:Curarrehue",
+      "admin_level": "8",
+      "dpachile:id": "09104"
+    }
+  },
+  {
+    "osm_id": -1734577,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1734788,-296378,-167454",
+    "name": "Pucón",
+    "local_name": "Pucón",
+    "name_en": null,
+    "all_tags": {
+      "name": "Pucón",
+      "boundary": "administrative",
+      "way_area": "0.129626",
+      "wikidata": "Q51590",
+      "wikipedia": "es:Pucón",
+      "admin_level": "8",
+      "dpachile:id": "09115"
+    }
+  },
+  {
+    "osm_id": -1675985,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1661314,-206487,-167454",
+    "name": "Santa Cruz",
+    "local_name": "Santa Cruz",
+    "name_en": null,
+    "all_tags": {
+      "name": "Santa Cruz",
+      "boundary": "administrative",
+      "way_area": "0.0385311",
+      "wikidata": "Q187969",
+      "wikipedia": "es:Santa Cruz (Chile)",
+      "admin_level": "8",
+      "dpachile:id": "06310"
+    }
+  },
+  {
+    "osm_id": -1675976,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1661314,-206487,-167454",
+    "name": "Palmilla",
+    "local_name": "Palmilla",
+    "name_en": null,
+    "all_tags": {
+      "name": "Palmilla",
+      "boundary": "administrative",
+      "way_area": "0.022999",
+      "wikidata": "Q51074",
+      "wikipedia": "es:Palmilla (Colchagua)",
+      "admin_level": "8",
+      "dpachile:id": "06306"
+    }
+  },
+  {
+    "osm_id": -1675973,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1661314,-206487,-167454",
+    "name": "Chimbarongo",
+    "local_name": "Chimbarongo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Chimbarongo",
+      "boundary": "administrative",
+      "way_area": "0.0499565",
+      "wikidata": "Q3782",
+      "wikipedia": "es:Chimbarongo",
+      "admin_level": "8",
+      "dpachile:id": "06303"
+    }
+  },
+  {
+    "osm_id": -1675972,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1661314,-206487,-167454",
+    "name": "San Fernando",
+    "local_name": "San Fernando",
+    "name_en": null,
+    "all_tags": {
+      "name": "San Fernando",
+      "boundary": "administrative",
+      "way_area": "0.228331",
+      "wikidata": "Q187807",
+      "wikipedia": "es:San Fernando (Chile)",
+      "admin_level": "8",
+      "dpachile:id": "06301"
+    }
+  },
+  {
+    "osm_id": -1674868,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1661314,-206487,-167454",
+    "name": "Nancagua",
+    "local_name": "Nancagua",
+    "name_en": null,
+    "all_tags": {
+      "name": "Nancagua",
+      "boundary": "administrative",
+      "way_area": "0.0148516",
+      "wikidata": "Q51042",
+      "wikipedia": "es:Nancagua",
+      "admin_level": "8",
+      "dpachile:id": "06305"
+    }
+  },
+  {
+    "osm_id": -1674793,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1661314,-206487,-167454",
+    "name": "Placilla",
+    "local_name": "Placilla",
+    "name_en": null,
+    "all_tags": {
+      "name": "Placilla",
+      "boundary": "administrative",
+      "way_area": "0.0142263",
+      "wikidata": "Q51117",
+      "wikipedia": "es:Placilla",
+      "admin_level": "8",
+      "dpachile:id": "06308"
+    }
+  },
+  {
+    "osm_id": -1666367,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1561023,-206487,-167454",
+    "name": "San Vicente de Tagua Tagua",
+    "local_name": "San Vicente de Tagua Tagua",
+    "name_en": null,
+    "all_tags": {
+      "name": "San Vicente de Tagua Tagua",
+      "alt_name": "San Vicente",
+      "boundary": "administrative",
+      "way_area": "0.0474825",
+      "wikidata": "Q187936",
+      "wikipedia": "es:San Vicente de Tagua Tagua",
+      "admin_level": "8",
+      "dpachile:id": "06117"
+    }
+  },
+  {
+    "osm_id": -1665551,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1561023,-206487,-167454",
+    "name": "Malloa",
+    "local_name": "Malloa",
+    "name_en": null,
+    "all_tags": {
+      "name": "Malloa",
+      "boundary": "administrative",
+      "way_area": "0.021548",
+      "wikidata": "Q16919",
+      "wikipedia": "es:Malloa",
+      "admin_level": "8",
+      "dpachile:id": "06109"
+    }
+  },
+  {
+    "osm_id": -1665550,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1561023,-206487,-167454",
+    "name": "Quinta de Tilcoco",
+    "local_name": "Quinta de Tilcoco",
+    "name_en": null,
+    "all_tags": {
+      "name": "Quinta de Tilcoco",
+      "boundary": "administrative",
+      "way_area": "0.00844818",
+      "wikidata": "Q56112",
+      "wikipedia": "es:Quinta de Tilcoco",
+      "admin_level": "8",
+      "dpachile:id": "06114"
+    }
+  },
+  {
+    "osm_id": -1665334,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1561023,-206487,-167454",
+    "name": "Rengo",
+    "local_name": "Rengo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Rengo",
+      "boundary": "administrative",
+      "way_area": "0.0574378",
+      "wikidata": "Q56120",
+      "wikipedia": "es:Rengo",
+      "admin_level": "8",
+      "dpachile:id": "06115"
+    }
+  },
+  {
+    "osm_id": -1665248,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1561023,-206487,-167454",
+    "name": "Requínoa",
+    "local_name": "Requínoa",
+    "name_en": null,
+    "all_tags": {
+      "name": "Requínoa",
+      "boundary": "administrative",
+      "way_area": "0.066006",
+      "wikidata": "Q56121",
+      "wikipedia": "es:Requínoa",
+      "admin_level": "8",
+      "dpachile:id": "06116"
+    }
+  },
+  {
+    "osm_id": -1664171,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1561023,-206487,-167454",
+    "name": "Machalí",
+    "local_name": "Machalí",
+    "name_en": null,
+    "all_tags": {
+      "name": "Machalí",
+      "boundary": "administrative",
+      "way_area": "0.254215",
+      "wikidata": "Q16915",
+      "wikipedia": "es:Machalí",
+      "admin_level": "8",
+      "dpachile:id": "06108"
+    }
+  },
+  {
+    "osm_id": -1664153,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1561023,-206487,-167454",
+    "name": "Codegua",
+    "local_name": "Codegua",
+    "name_en": null,
+    "all_tags": {
+      "name": "Codegua",
+      "boundary": "administrative",
+      "way_area": "0.0277865",
+      "wikidata": "Q3804",
+      "wikipedia": "es:Codegua",
+      "admin_level": "8",
+      "dpachile:id": "06102"
+    }
+  },
+  {
+    "osm_id": -1662436,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1561023,-206487,-167454",
+    "name": "Rancagua",
+    "local_name": "Rancagua",
+    "name_en": null,
+    "all_tags": {
+      "name": "Rancagua",
+      "boundary": "administrative",
+      "way_area": "0.0254703",
+      "wikidata": "Q4582",
+      "wikipedia": "es:Rancagua",
+      "admin_level": "8",
+      "dpachile:id": "06101"
+    }
+  },
+  {
+    "osm_id": -1662420,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1561023,-206487,-167454",
+    "name": "Olivar",
+    "local_name": "Olivar",
+    "name_en": null,
+    "all_tags": {
+      "name": "Olivar",
+      "boundary": "administrative",
+      "way_area": "0.00464778",
+      "wikidata": "Q51053",
+      "wikipedia": "es:Olivar (Chile)",
+      "admin_level": "8",
+      "dpachile:id": "06111"
+    }
+  },
+  {
+    "osm_id": -1662398,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1561023,-206487,-167454",
+    "name": "Coinco",
+    "local_name": "Coinco",
+    "name_en": null,
+    "all_tags": {
+      "name": "Coinco",
+      "boundary": "administrative",
+      "way_area": "0.00964919",
+      "wikidata": "Q3833",
+      "wikipedia": "es:Coinco",
+      "admin_level": "8",
+      "dpachile:id": "06103"
+    }
+  },
+  {
+    "osm_id": -1661441,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1661314,-206487,-167454",
+    "name": "Pumanque",
+    "local_name": "Pumanque",
+    "name_en": null,
+    "all_tags": {
+      "name": "Pumanque",
+      "boundary": "administrative",
+      "way_area": "0.0433375",
+      "wikidata": "Q2098355",
+      "wikipedia": "es:Pumanque",
+      "admin_level": "8",
+      "dpachile:id": "06309"
+    }
+  },
+  {
+    "osm_id": -1661304,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1661314,-206487,-167454",
+    "name": "Peralillo",
+    "local_name": "Peralillo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Peralillo",
+      "boundary": "administrative",
+      "way_area": "0.02769",
+      "wikidata": "Q51095",
+      "wikipedia": "es:Peralillo (Chile)",
+      "admin_level": "8",
+      "dpachile:id": "06307"
+    }
+  },
+  {
+    "osm_id": -1661293,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1561023,-206487,-167454",
+    "name": "Pichidegua",
+    "local_name": "Pichidegua",
+    "name_en": null,
+    "all_tags": {
+      "name": "Pichidegua",
+      "boundary": "administrative",
+      "way_area": "0.0314105",
+      "wikidata": "Q51104",
+      "wikipedia": "es:Pichidegua",
+      "admin_level": "8",
+      "dpachile:id": "06113"
+    }
+  },
+  {
+    "osm_id": -1661286,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1561024,-206487,-167454",
+    "name": "La Estrella",
+    "local_name": "La Estrella",
+    "name_en": null,
+    "all_tags": {
+      "name": "La Estrella",
+      "boundary": "administrative",
+      "way_area": "0.0419686",
+      "wikidata": "Q14458",
+      "wikipedia": "es:La Estrella (Chile)",
+      "admin_level": "8",
+      "dpachile:id": "06202"
+    }
+  },
+  {
+    "osm_id": -1661155,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1561024,-206487,-167454",
+    "name": "Marchigüe",
+    "local_name": "Marchigüe",
+    "name_en": null,
+    "all_tags": {
+      "name": "Marchigüe",
+      "alt_name": "Marchihue",
+      "boundary": "administrative",
+      "way_area": "0.0645075",
+      "wikidata": "Q16921",
+      "wikipedia": "es:Marchigüe",
+      "admin_level": "8",
+      "dpachile:id": "06204"
+    }
+  },
+  {
+    "osm_id": -1660973,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1561024,-206487,-167454",
+    "name": "Pichilemu",
+    "local_name": "Pichilemu",
+    "name_en": null,
+    "all_tags": {
+      "name": "Pichilemu",
+      "boundary": "administrative",
+      "way_area": "0.070076",
+      "wikidata": "Q25304",
+      "wikipedia": "es:Pichilemu",
+      "admin_level": "8",
+      "dpachile:id": "06201"
+    }
+  },
+  {
+    "osm_id": -1659044,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1622252,-252891,-167454",
+    "name": "Quilaco",
+    "local_name": "Quilaco",
+    "name_en": null,
+    "all_tags": {
+      "name": "Quilaco",
+      "boundary": "administrative",
+      "way_area": "0.115252",
+      "wikidata": "Q51610",
+      "wikipedia": "es:Quilaco",
+      "admin_level": "8",
+      "dpachile:id": "08308"
+    }
+  },
+  {
+    "osm_id": -1659038,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1622252,-252891,-167454",
+    "name": "Alto Biobío",
+    "local_name": "Alto Biobío",
+    "name_en": null,
+    "all_tags": {
+      "name": "Alto Biobío",
+      "boundary": "administrative",
+      "way_area": "0.217342",
+      "wikidata": "Q2213",
+      "wikipedia": "es:Alto Biobío",
+      "admin_level": "8",
+      "dpachile:id": "08314"
+    }
+  },
+  {
+    "osm_id": -1659037,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1622252,-252891,-167454",
+    "name": "Santa Bárbara",
+    "local_name": "Santa Bárbara",
+    "name_en": null,
+    "all_tags": {
+      "name": "Santa Bárbara",
+      "boundary": "administrative",
+      "way_area": "0.12749",
+      "wikidata": "Q187961",
+      "wikipedia": "es:Santa Bárbara (Chile)",
+      "admin_level": "8",
+      "dpachile:id": "08311"
+    }
+  },
+  {
+    "osm_id": -1659035,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1622252,-252891,-167454",
+    "name": "Quilleco",
+    "local_name": "Quilleco",
+    "name_en": null,
+    "all_tags": {
+      "name": "Quilleco",
+      "boundary": "administrative",
+      "way_area": "0.113945",
+      "wikidata": "Q56107",
+      "wikipedia": "es:Quilleco",
+      "admin_level": "8",
+      "dpachile:id": "08309"
+    }
+  },
+  {
+    "osm_id": -1659003,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1622252,-252891,-167454",
+    "name": "Tucapel",
+    "local_name": "Tucapel",
+    "name_en": null,
+    "all_tags": {
+      "name": "Tucapel",
+      "boundary": "administrative",
+      "way_area": "0.0926349",
+      "wikidata": "Q200965",
+      "wikipedia": "es:Tucapel",
+      "admin_level": "8",
+      "dpachile:id": "08312"
+    }
+  },
+  {
+    "osm_id": -1658517,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1622252,-252891,-167454",
+    "name": "Negrete",
+    "local_name": "Negrete",
+    "name_en": null,
+    "all_tags": {
+      "name": "Negrete",
+      "boundary": "administrative",
+      "way_area": "0.0158938",
+      "wikidata": "Q51046",
+      "wikipedia": "es:Negrete",
+      "admin_level": "8",
+      "dpachile:id": "08307"
+    }
+  },
+  {
+    "osm_id": -1658516,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1622252,-252891,-167454",
+    "name": "Mulchén",
+    "local_name": "Mulchén",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mulchén",
+      "boundary": "administrative",
+      "way_area": "0.19649",
+      "wikidata": "Q51036",
+      "wikipedia": "es:Mulchén",
+      "admin_level": "8",
+      "dpachile:id": "08305"
+    }
+  },
+  {
+    "osm_id": -1658515,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1622252,-252891,-167454",
+    "name": "Los Ángeles",
+    "local_name": "Los Ángeles",
+    "name_en": null,
+    "all_tags": {
+      "name": "Los Ángeles",
+      "boundary": "administrative",
+      "way_area": "0.178066",
+      "wikidata": "Q16910",
+      "wikipedia": "es:Los Ángeles (Chile)",
+      "admin_level": "8",
+      "dpachile:id": "08301"
+    }
+  },
+  {
+    "osm_id": -1656148,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1654883,-252891,-167454",
+    "name": "Contulmo",
+    "local_name": "Contulmo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Contulmo",
+      "boundary": "administrative",
+      "way_area": "0.0653441",
+      "wikidata": "Q3864",
+      "wikipedia": "es:Contulmo",
+      "admin_level": "8",
+      "dpachile:id": "08204"
+    }
+  },
+  {
+    "osm_id": -1656147,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1654883,-252891,-167454",
+    "name": "Tirúa",
+    "local_name": "Tirúa",
+    "name_en": null,
+    "all_tags": {
+      "name": "Tirúa",
+      "boundary": "administrative",
+      "way_area": "0.0646234",
+      "wikidata": "Q188183",
+      "wikipedia": "es:Tirúa",
+      "admin_level": "8",
+      "dpachile:id": "08207"
+    }
+  },
+  {
+    "osm_id": -1656043,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1654883,-252891,-167454",
+    "name": "Cañete",
+    "local_name": "Cañete",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cañete",
+      "boundary": "administrative",
+      "way_area": "0.111453",
+      "wikidata": "Q3753",
+      "wikipedia": "es:Cañete (Chile)",
+      "population": "31270",
+      "admin_level": "8",
+      "dpachile:id": "08203"
+    }
+  },
+  {
+    "osm_id": -1656036,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1654883,-252891,-167454",
+    "name": "Los Álamos",
+    "local_name": "Los Álamos",
+    "name_en": null,
+    "all_tags": {
+      "name": "Los Álamos",
+      "boundary": "administrative",
+      "way_area": "0.061331",
+      "wikidata": "Q16909",
+      "wikipedia": "es:Los Álamos (Chile)",
+      "admin_level": "8",
+      "dpachile:id": "08206"
+    }
+  },
+  {
+    "osm_id": -1655930,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1654883,-252891,-167454",
+    "name": "Curanilahue",
+    "local_name": "Curanilahue",
+    "name_en": null,
+    "all_tags": {
+      "name": "Curanilahue",
+      "boundary": "administrative",
+      "way_area": "0.101695",
+      "wikidata": "Q3892",
+      "wikipedia": "es:Curanilahue",
+      "population": "31943",
+      "admin_level": "8",
+      "dpachile:id": "08205"
+    }
+  },
+  {
+    "osm_id": -1654913,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1654883,-252891,-167454",
+    "name": "Lebu",
+    "local_name": "Lebu",
+    "name_en": null,
+    "all_tags": {
+      "name": "Lebu",
+      "boundary": "administrative",
+      "way_area": "0.0575069",
+      "wikidata": "Q14488",
+      "wikipedia": "es:Lebu",
+      "admin_level": "8",
+      "dpachile:id": "08201"
+    }
+  },
+  {
+    "osm_id": -1654885,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1558891,-252891,-167454",
+    "name": "Lota",
+    "local_name": "Lota",
+    "name_en": null,
+    "all_tags": {
+      "name": "Lota",
+      "boundary": "administrative",
+      "way_area": "0.0116017",
+      "wikidata": "Q16911",
+      "wikipedia": "es:Lota",
+      "admin_level": "8",
+      "dpachile:id": "08106"
+    }
+  },
+  {
+    "osm_id": -1654884,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1654883,-252891,-167454",
+    "name": "Arauco",
+    "local_name": "Arauco",
+    "name_en": null,
+    "all_tags": {
+      "name": "Arauco",
+      "boundary": "administrative",
+      "way_area": "0.0975759",
+      "wikidata": "Q3632",
+      "wikipedia": "es:Arauco (Chile)",
+      "admin_level": "8",
+      "dpachile:id": "08202"
+    }
+  },
+  {
+    "osm_id": -1652478,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-7421029,-7421025,-167454",
+    "name": "Yungay",
+    "local_name": "Yungay",
+    "name_en": null,
+    "all_tags": {
+      "name": "Yungay",
+      "boundary": "administrative",
+      "way_area": "0.0835799",
+      "wikidata": "Q201056",
+      "wikipedia": "es:Yungay (comuna)",
+      "admin_level": "8",
+      "dpachile:id": "16109"
+    }
+  },
+  {
+    "osm_id": -1652379,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1622252,-252891,-167454",
+    "name": "Antuco",
+    "local_name": "Antuco",
+    "name_en": null,
+    "all_tags": {
+      "name": "Antuco",
+      "boundary": "administrative",
+      "way_area": "0.198755",
+      "wikidata": "Q3619",
+      "wikipedia": "es:Antuco",
+      "admin_level": "8",
+      "dpachile:id": "08302"
+    }
+  },
+  {
+    "osm_id": -1652181,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1622252,-252891,-167454",
+    "name": "Cabrero",
+    "local_name": "Cabrero",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cabrero",
+      "boundary": "administrative",
+      "way_area": "0.06651",
+      "wikidata": "Q3678",
+      "wikipedia": "es:Cabrero (Chile)",
+      "admin_level": "8",
+      "dpachile:id": "08303"
+    }
+  },
+  {
+    "osm_id": -1652065,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-7421029,-7421025,-167454",
+    "name": "Pemuco",
+    "local_name": "Pemuco",
+    "name_en": null,
+    "all_tags": {
+      "name": "Pemuco",
+      "boundary": "administrative",
+      "way_area": "0.0568406",
+      "wikidata": "Q51090",
+      "wikipedia": "es:Pemuco",
+      "admin_level": "8",
+      "dpachile:id": "16105"
+    }
+  },
+  {
+    "osm_id": -1632644,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1622252,-252891,-167454",
+    "name": "Laja",
+    "local_name": "Laja",
+    "name_en": null,
+    "all_tags": {
+      "name": "Laja",
+      "boundary": "administrative",
+      "way_area": "0.0349042",
+      "wikidata": "Q14475",
+      "wikipedia": "es:Laja (Chile)",
+      "admin_level": "8",
+      "dpachile:id": "08304"
+    }
+  },
+  {
+    "osm_id": -1632643,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1622252,-252891,-167454",
+    "name": "Nacimiento",
+    "local_name": "Nacimiento",
+    "name_en": null,
+    "all_tags": {
+      "name": "Nacimiento",
+      "boundary": "administrative",
+      "way_area": "0.0927069",
+      "wikidata": "Q51039",
+      "wikipedia": "es:Nacimiento (Chile)",
+      "admin_level": "8",
+      "dpachile:id": "08306"
+    }
+  },
+  {
+    "osm_id": -1626780,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1560883,-198848,-167454",
+    "name": "Calera de Tango",
+    "local_name": "Calera de Tango",
+    "name_en": null,
+    "all_tags": {
+      "name": "Calera de Tango",
+      "boundary": "administrative",
+      "way_area": "0.00709844",
+      "wikidata": "Q3725",
+      "wikipedia": "es:Calera de Tango",
+      "admin_level": "8",
+      "dpachile:id": "13403"
+    }
+  },
+  {
+    "osm_id": -1626706,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1560882,-198848,-167454",
+    "name": "Talagante",
+    "local_name": "Talagante",
+    "name_en": null,
+    "all_tags": {
+      "name": "Talagante",
+      "boundary": "administrative",
+      "way_area": "0.0124732",
+      "wikidata": "Q188038",
+      "wikipedia": "es:Talagante",
+      "admin_level": "8",
+      "dpachile:id": "13601"
+    }
+  },
+  {
+    "osm_id": -1626477,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1560882,-198848,-167454",
+    "name": "Peñaflor",
+    "local_name": "Peñaflor",
+    "name_en": null,
+    "all_tags": {
+      "name": "Peñaflor",
+      "boundary": "administrative",
+      "way_area": "0.00673118",
+      "wikidata": "Q51098",
+      "wikipedia": "es:Peñaflor (Chile)",
+      "admin_level": "8",
+      "dpachile:id": "13605"
+    }
+  },
+  {
+    "osm_id": -1622326,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1558891,-252891,-167454",
+    "name": "San Pedro de la Paz",
+    "local_name": "San Pedro de la Paz",
+    "name_en": null,
+    "all_tags": {
+      "name": "San Pedro de la Paz",
+      "boundary": "administrative",
+      "way_area": "0.0112024",
+      "wikidata": "Q19344",
+      "wikipedia": "es:San Pedro de la Paz",
+      "admin_level": "8",
+      "dpachile:id": "08108"
+    }
+  },
+  {
+    "osm_id": -1622313,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1558891,-252891,-167454",
+    "name": "Coronel",
+    "local_name": "Coronel",
+    "name_en": null,
+    "all_tags": {
+      "name": "Coronel",
+      "boundary": "administrative",
+      "way_area": "0.0282829",
+      "wikidata": "Q3873",
+      "wikipedia": "es:Coronel (Chile)",
+      "admin_level": "8",
+      "dpachile:id": "08102"
+    }
+  },
+  {
+    "osm_id": -1622274,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1558891,-252891,-167454",
+    "name": "Santa Juana",
+    "local_name": "Santa Juana",
+    "name_en": null,
+    "all_tags": {
+      "name": "Santa Juana",
+      "boundary": "administrative",
+      "way_area": "0.0791991",
+      "wikidata": "Q187974",
+      "wikipedia": "es:Santa Juana (Chile)",
+      "admin_level": "8",
+      "dpachile:id": "08109"
+    }
+  },
+  {
+    "osm_id": -1622253,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1622252,-252891,-167454",
+    "name": "San Rosendo",
+    "local_name": "San Rosendo",
+    "name_en": null,
+    "all_tags": {
+      "name": "San Rosendo",
+      "boundary": "administrative",
+      "way_area": "0.00936598",
+      "wikidata": "Q22137",
+      "wikipedia": "es:San Rosendo",
+      "admin_level": "8",
+      "dpachile:id": "08310"
+    }
+  },
+  {
+    "osm_id": -1622204,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1622252,-252891,-167454",
+    "name": "Yumbel",
+    "local_name": "Yumbel",
+    "name_en": null,
+    "all_tags": {
+      "name": "Yumbel",
+      "boundary": "administrative",
+      "way_area": "0.0737947",
+      "wikidata": "Q201050",
+      "wikipedia": "es:Yumbel",
+      "admin_level": "8",
+      "dpachile:id": "08313"
+    }
+  },
+  {
+    "osm_id": -1622109,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1558891,-252891,-167454",
+    "name": "Florida",
+    "local_name": "Florida",
+    "name_en": null,
+    "all_tags": {
+      "name": "Florida",
+      "boundary": "administrative",
+      "way_area": "0.0611949",
+      "wikidata": "Q13048",
+      "wikipedia": "es:Florida (Chile)",
+      "admin_level": "8",
+      "dpachile:id": "08104"
+    }
+  },
+  {
+    "osm_id": -1622086,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1558891,-252891,-167454",
+    "name": "Chiguayante",
+    "local_name": "Chiguayante",
+    "name_en": null,
+    "all_tags": {
+      "name": "Chiguayante",
+      "boundary": "administrative",
+      "way_area": "0.00744412",
+      "wikidata": "Q3765",
+      "wikipedia": "es:Chiguayante",
+      "admin_level": "8",
+      "dpachile:id": "08103"
+    }
+  },
+  {
+    "osm_id": -1620107,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1558891,-252891,-167454",
+    "name": "Hualqui",
+    "local_name": "Hualqui",
+    "name_en": null,
+    "all_tags": {
+      "name": "Hualqui",
+      "boundary": "administrative",
+      "way_area": "0.0543192",
+      "wikidata": "Q13079",
+      "wikipedia": "es:Hualqui",
+      "admin_level": "8",
+      "dpachile:id": "08105"
+    }
+  },
+  {
+    "osm_id": -1620105,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1558891,-252891,-167454",
+    "name": "Concepcion",
+    "local_name": "Concepción",
+    "name_en": "Concepcion",
+    "all_tags": {
+      "name": "Concepción",
+      "name:ab": "Консeпcион",
+      "name:am": "ኮንሴፕሲዮን",
+      "name:ar": "كونثبثيون",
+      "name:az": "Konsepsion",
+      "name:be": "Кансепсьён",
+      "name:bg": "Консепсион",
+      "name:el": "Κονσεπσιόν",
+      "name:en": "Concepcion",
+      "name:eo": "Koncepciono",
+      "name:fa": "کنسپسیون، شیلی",
+      "name:he": "קונספסיון",
+      "name:hi": "कॉन्सेप्सिओन",
+      "name:hy": "Կոնսեպսիոն",
+      "name:ja": "コンセプシオン",
+      "name:ka": "კონსეფსიონი",
+      "name:ko": "콘셉시온",
+      "name:ky": "Консепсьон",
+      "name:lt": "Konsepsjonas",
+      "name:mn": "Консепшон",
+      "name:mr": "कन्सेप्सियान",
+      "name:pa": "ਕਾਂਸੇਪਸਿਉਂ",
+      "name:ru": "Консепсьон",
+      "name:sa": "कान्सेप्सियान्",
+      "name:sd": "ڪونسيپشيون، چلي",
+      "name:sr": "Консепсион",
+      "name:ta": "கன்செப்சியான்",
+      "name:th": "กอนเซปซิออน",
+      "name:tk": "Konsepsion",
+      "name:tt": "Консепсьон",
+      "name:uk": "Консепсьйон",
+      "name:ur": "کونسیپشیون",
+      "name:yi": "קאנסעפסיאן",
+      "boundary": "administrative",
+      "name:ang": "Conþepþeon",
+      "name:arc": "ܩܘܢܣܦܣܝܘܢ",
+      "name:arz": "كونسبسيون",
+      "name:din": "Konsepcion",
+      "name:got": "𐌺𐌰𐌿𐌽𐍄𐍃𐌰𐌹𐍀𐍄𐍃𐌾𐍉𐌽",
+      "way_area": "0.0223077",
+      "wikidata": "Q1880",
+      "wikipedia": "es:Concepción (Chile)",
+      "admin_level": "8",
+      "dpachile:id": "08101"
+    }
+  },
+  {
+    "osm_id": -1617563,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1560882,-198848,-167454",
+    "name": "El Monte",
+    "local_name": "El Monte",
+    "name_en": null,
+    "all_tags": {
+      "name": "El Monte",
+      "boundary": "administrative",
+      "way_area": "0.0112176",
+      "wikidata": "Q13038",
+      "wikipedia": "es:El Monte (Chile)",
+      "admin_level": "8",
+      "dpachile:id": "13602"
+    }
+  },
+  {
+    "osm_id": -1614641,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1558891,-252891,-167454",
+    "name": "Hualpén",
+    "local_name": "Hualpén",
+    "name_en": null,
+    "all_tags": {
+      "name": "Hualpén",
+      "boundary": "administrative",
+      "way_area": "0.0053956",
+      "wikidata": "Q13077",
+      "wikipedia": "es:Hualpén",
+      "admin_level": "8",
+      "dpachile:id": "08112"
+    }
+  },
+  {
+    "osm_id": -1614638,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1558891,-252891,-167454",
+    "name": "Talcahuano",
+    "local_name": "Talcahuano",
+    "name_en": null,
+    "all_tags": {
+      "name": "Talcahuano",
+      "boundary": "administrative",
+      "way_area": "0.0092961",
+      "wikidata": "Q41997",
+      "wikipedia": "es:Talcahuano",
+      "admin_level": "8",
+      "dpachile:id": "08110"
+    }
+  },
+  {
+    "osm_id": -1614637,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1558891,-252891,-167454",
+    "name": "Penco",
+    "local_name": "Penco",
+    "name_en": null,
+    "all_tags": {
+      "name": "Penco",
+      "boundary": "administrative",
+      "way_area": "0.0108538",
+      "wikidata": "Q51093",
+      "wikipedia": "es:Penco",
+      "admin_level": "8",
+      "dpachile:id": "08107"
+    }
+  },
+  {
+    "osm_id": -1597510,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-7421029,-7421025,-167454",
+    "name": "Quillón",
+    "local_name": "Quillón",
+    "name_en": null,
+    "all_tags": {
+      "name": "Quillón",
+      "boundary": "administrative",
+      "way_area": "0.04096",
+      "wikidata": "Q56109",
+      "wikipedia": "es:Quillón (comuna)",
+      "admin_level": "8",
+      "dpachile:id": "16107"
+    }
+  },
+  {
+    "osm_id": -1597490,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-7421029,-7421025,-167454",
+    "name": "Bulnes",
+    "local_name": "Bulnes",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bulnes",
+      "boundary": "administrative",
+      "way_area": "0.0429829",
+      "wikidata": "Q3663",
+      "wikipedia": "es:Bulnes (comuna)",
+      "admin_level": "8",
+      "dpachile:id": "16102"
+    }
+  },
+  {
+    "osm_id": -1591199,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1584131,-231672,-167454",
+    "name": "Illapel",
+    "local_name": "Illapel",
+    "name_en": null,
+    "all_tags": {
+      "name": "Illapel",
+      "boundary": "administrative",
+      "way_area": "0.249442",
+      "wikidata": "Q14434",
+      "wikipedia": "es:Illapel",
+      "admin_level": "8",
+      "dpachile:id": "04201"
+    }
+  },
+  {
+    "osm_id": -1591198,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1584131,-231672,-167454",
+    "name": "Canela",
+    "local_name": "Canela",
+    "name_en": null,
+    "all_tags": {
+      "name": "Canela",
+      "boundary": "administrative",
+      "old_name": "Mincha",
+      "way_area": "0.208136",
+      "wikidata": "Q3735",
+      "wikipedia": "es:Canela (Chile)",
+      "admin_level": "8",
+      "dpachile:id": "04202"
+    }
+  },
+  {
+    "osm_id": -1590028,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1589855,-231672,-167454",
+    "name": "Ovalle",
+    "local_name": "Ovalle",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ovalle",
+      "boundary": "administrative",
+      "way_area": "0.333899",
+      "wikidata": "Q51060",
+      "wikipedia": "es:Ovalle",
+      "admin_level": "8",
+      "dpachile:id": "04301"
+    }
+  },
+  {
+    "osm_id": -1589896,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1589855,-231672,-167454",
+    "name": "Combarbalá",
+    "local_name": "Combarbalá",
+    "name_en": null,
+    "all_tags": {
+      "name": "Combarbalá",
+      "boundary": "administrative",
+      "way_area": "0.217356",
+      "wikidata": "Q3850",
+      "wikipedia": "es:Combarbalá",
+      "admin_level": "8",
+      "dpachile:id": "04302"
+    }
+  },
+  {
+    "osm_id": -1589895,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1589855,-231672,-167454",
+    "name": "Punitaqui",
+    "local_name": "Punitaqui",
+    "name_en": null,
+    "all_tags": {
+      "name": "Punitaqui",
+      "boundary": "administrative",
+      "way_area": "0.102977",
+      "wikidata": "Q51598",
+      "wikipedia": "es:Punitaqui",
+      "admin_level": "8",
+      "dpachile:id": "04304"
+    }
+  },
+  {
+    "osm_id": -1589856,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1589855,-231672,-167454",
+    "name": "Río Hurtado",
+    "local_name": "Río Hurtado",
+    "name_en": null,
+    "all_tags": {
+      "name": "Río Hurtado",
+      "boundary": "administrative",
+      "way_area": "0.207215",
+      "wikidata": "Q56128",
+      "wikipedia": "es:Río Hurtado (comuna)",
+      "admin_level": "8",
+      "dpachile:id": "04305"
+    }
+  },
+  {
+    "osm_id": -1589854,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1589855,-231672,-167454",
+    "name": "Monte Patria",
+    "local_name": "Monte Patria",
+    "name_en": null,
+    "all_tags": {
+      "name": "Monte Patria",
+      "boundary": "administrative",
+      "way_area": "0.396841",
+      "wikidata": "Q51034",
+      "wikipedia": "es:Monte Patria",
+      "admin_level": "8",
+      "dpachile:id": "04303"
+    }
+  },
+  {
+    "osm_id": -1589155,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1588847,-231672,-167454",
+    "name": "Andacollo",
+    "local_name": "Andacollo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Andacollo",
+      "boundary": "administrative",
+      "way_area": "0.0480646",
+      "wikidata": "Q3602",
+      "wikipedia": "es:Andacollo (Chile)",
+      "admin_level": "8",
+      "dpachile:id": "04103"
+    }
+  },
+  {
+    "osm_id": -1588927,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1588847,-231672,-167454",
+    "name": "La Serena",
+    "local_name": "La Serena",
+    "name_en": null,
+    "all_tags": {
+      "name": "La Serena",
+      "boundary": "administrative",
+      "way_area": "0.177645",
+      "wikidata": "Q14467",
+      "wikipedia": "es:La Serena (Chile)",
+      "admin_level": "8",
+      "dpachile:id": "04101"
+    }
+  },
+  {
+    "osm_id": -1588926,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1588847,-231672,-167454",
+    "name": "Coquimbo",
+    "local_name": "Coquimbo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Coquimbo",
+      "boundary": "administrative",
+      "way_area": "0.133577",
+      "wikidata": "Q3871",
+      "wikipedia": "es:Coquimbo",
+      "admin_level": "8",
+      "dpachile:id": "04102"
+    }
+  },
+  {
+    "osm_id": -1588854,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1588847,-231672,-167454",
+    "name": "Paihuano",
+    "local_name": "Paihuano",
+    "name_en": null,
+    "all_tags": {
+      "name": "Paihuano",
+      "alt_name": "Paiguano",
+      "boundary": "administrative",
+      "way_area": "0.140299",
+      "wikidata": "Q51064",
+      "wikipedia": "es:Paihuano",
+      "admin_level": "8",
+      "dpachile:id": "04105"
+    }
+  },
+  {
+    "osm_id": -1588848,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1588847,-231672,-167454",
+    "name": "Vicuña",
+    "local_name": "Vicuña",
+    "name_en": null,
+    "all_tags": {
+      "name": "Vicuña",
+      "boundary": "administrative",
+      "way_area": "0.709728",
+      "wikidata": "Q201007",
+      "wikipedia": "es:Vicuña (Chile)",
+      "admin_level": "8",
+      "dpachile:id": "04106"
+    }
+  },
+  {
+    "osm_id": -1588846,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1588847,-231672,-167454",
+    "name": "La Higuera",
+    "local_name": "La Higuera",
+    "name_en": null,
+    "all_tags": {
+      "name": "La Higuera",
+      "boundary": "administrative",
+      "way_area": "0.386672",
+      "wikidata": "Q14462",
+      "wikipedia": "es:La Higuera (Chile)",
+      "admin_level": "8",
+      "dpachile:id": "04104"
+    }
+  },
+  {
+    "osm_id": -1574063,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1561883,-240932,-167454",
+    "name": "San Pedro de Atacama",
+    "local_name": "San Pedro de Atacama",
+    "name_en": null,
+    "all_tags": {
+      "name": "San Pedro de Atacama",
+      "boundary": "administrative",
+      "way_area": "2.07412",
+      "wikidata": "Q187893",
+      "wikipedia": "es:San Pedro de Atacama",
+      "admin_level": "8",
+      "dpachile:id": "02203"
+    }
+  },
+  {
+    "osm_id": -1572198,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1572118,-271889,-167454",
+    "name": "Freirina",
+    "local_name": "Freirina",
+    "name_en": null,
+    "all_tags": {
+      "name": "Freirina",
+      "boundary": "administrative",
+      "way_area": "0.279831",
+      "wikidata": "Q13051",
+      "wikipedia": "en:Freirina",
+      "admin_level": "8",
+      "dpachile:id": "03303"
+    }
+  },
+  {
+    "osm_id": -1572197,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1572118,-271889,-167454",
+    "name": "Huasco",
+    "local_name": "Huasco",
+    "name_en": null,
+    "all_tags": {
+      "name": "Huasco",
+      "boundary": "administrative",
+      "way_area": "0.165261",
+      "wikidata": "Q14422",
+      "wikipedia": "es:Huasco",
+      "admin_level": "8",
+      "dpachile:id": "03304"
+    }
+  },
+  {
+    "osm_id": -1572124,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1572118,-271889,-167454",
+    "name": "Alto del Carmen",
+    "local_name": "Alto del Carmen",
+    "name_en": null,
+    "all_tags": {
+      "name": "Alto del Carmen",
+      "boundary": "administrative",
+      "way_area": "0.564727",
+      "wikidata": "Q2215",
+      "wikipedia": "es:Alto del Carmen",
+      "admin_level": "8",
+      "dpachile:id": "03302"
+    }
+  },
+  {
+    "osm_id": -1572123,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1572125,-271889,-167454",
+    "name": "Tierra Amarilla",
+    "local_name": "Tierra Amarilla",
+    "name_en": null,
+    "all_tags": {
+      "name": "Tierra Amarilla",
+      "boundary": "administrative",
+      "way_area": "1.03243",
+      "wikidata": "Q188142",
+      "wikipedia": "es:Tierra Amarilla",
+      "admin_level": "8",
+      "dpachile:id": "03103"
+    }
+  },
+  {
+    "osm_id": -1572107,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1572118,-271889,-167454",
+    "name": "Vallenar",
+    "local_name": "Vallenar",
+    "name_en": null,
+    "all_tags": {
+      "name": "Vallenar",
+      "name:ru": "Вальенар",
+      "boundary": "administrative",
+      "way_area": "0.671355",
+      "wikidata": "Q200978",
+      "wikipedia": "es:Vallenar",
+      "admin_level": "8",
+      "dpachile:id": "03301"
+    }
+  },
+  {
+    "osm_id": -1564422,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1561897,-240932,-167454",
+    "name": "Mejillones",
+    "local_name": "Mejillones",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mejillones",
+      "boundary": "administrative",
+      "way_area": "0.315013",
+      "wikidata": "Q16928",
+      "wikipedia": "es:Mejillones",
+      "admin_level": "8",
+      "dpachile:id": "02102"
+    }
+  },
+  {
+    "osm_id": -1562080,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1561884,-240932,-167454",
+    "name": "Tocopilla",
+    "local_name": "Tocopilla",
+    "name_en": null,
+    "all_tags": {
+      "name": "Tocopilla",
+      "boundary": "administrative",
+      "way_area": "0.352734",
+      "wikidata": "Q188192",
+      "wikipedia": "es:Tocopilla",
+      "admin_level": "8",
+      "dpachile:id": "02301"
+    }
+  },
+  {
+    "osm_id": -1561943,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1561942,-238393,-167454",
+    "name": "Pozo Almonte",
+    "local_name": "Pozo Almonte",
+    "name_en": null,
+    "all_tags": {
+      "name": "Pozo Almonte",
+      "boundary": "administrative",
+      "way_area": "1.19532",
+      "wikidata": "Q51585",
+      "wikipedia": "es:Pozo Almonte",
+      "admin_level": "8",
+      "dpachile:id": "01401"
+    }
+  },
+  {
+    "osm_id": -1561899,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1561897,-240932,-167454",
+    "name": "Sierra Gorda",
+    "local_name": "Sierra Gorda",
+    "name_en": null,
+    "all_tags": {
+      "name": "Sierra Gorda",
+      "boundary": "administrative",
+      "way_area": "1.14004",
+      "wikidata": "Q188027",
+      "wikipedia": "es:Sierra Gorda (Chile)",
+      "admin_level": "8",
+      "dpachile:id": "02103"
+    }
+  },
+  {
+    "osm_id": -1561898,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1561897,-240932,-167454",
+    "name": "Antofagasta",
+    "local_name": "Antofagasta",
+    "name_en": null,
+    "all_tags": {
+      "name": "Antofagasta",
+      "boundary": "administrative",
+      "way_area": "2.73559",
+      "wikidata": "Q3612",
+      "wikipedia": "es:Antofagasta",
+      "admin_level": "8",
+      "dpachile:id": "02101"
+    }
+  },
+  {
+    "osm_id": -1561887,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1561884,-240932,-167454",
+    "name": "María Elena",
+    "local_name": "María Elena",
+    "name_en": null,
+    "all_tags": {
+      "name": "María Elena",
+      "boundary": "administrative",
+      "way_area": "1.09006",
+      "wikidata": "Q16923",
+      "wikipedia": "es:María Elena (Chile)",
+      "admin_level": "8",
+      "dpachile:id": "02302"
+    }
+  },
+  {
+    "osm_id": -1561886,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1561883,-240932,-167454",
+    "name": "Calama",
+    "local_name": "Calama",
+    "name_en": null,
+    "all_tags": {
+      "name": "Calama",
+      "boundary": "administrative",
+      "way_area": "1.36686",
+      "wikidata": "Q3685",
+      "wikipedia": "es:Calama",
+      "admin_level": "8",
+      "dpachile:id": "02201"
+    }
+  },
+  {
+    "osm_id": -1561885,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1561883,-240932,-167454",
+    "name": "Ollagüe",
+    "local_name": "Ollagüe",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ollagüe",
+      "boundary": "administrative",
+      "way_area": "0.254545",
+      "wikidata": "Q51055",
+      "wikipedia": "es:Ollagüe",
+      "admin_level": "8",
+      "dpachile:id": "02202"
+    }
+  },
+  {
+    "osm_id": -1560884,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1561023,-206487,-167454",
+    "name": "Graneros",
+    "local_name": "Graneros",
+    "name_en": null,
+    "all_tags": {
+      "name": "Graneros",
+      "boundary": "administrative",
+      "way_area": "0.0109626",
+      "wikidata": "Q13068",
+      "wikipedia": "es:Graneros",
+      "admin_level": "8",
+      "dpachile:id": "06106"
+    }
+  },
+  {
+    "osm_id": -1560012,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-7421029,-7421025,-167454",
+    "name": "El Carmen",
+    "local_name": "El Carmen",
+    "name_en": null,
+    "all_tags": {
+      "name": "El Carmen",
+      "boundary": "administrative",
+      "way_area": "0.067446",
+      "wikidata": "Q17629903",
+      "wikipedia": "es:El Carmen (Chile)",
+      "admin_level": "8",
+      "dpachile:id": "16104"
+    }
+  },
+  {
+    "osm_id": -1558890,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1558891,-252891,-167454",
+    "name": "Tomé",
+    "local_name": "Tomé",
+    "name_en": null,
+    "all_tags": {
+      "name": "Tomé",
+      "boundary": "administrative",
+      "way_area": "0.0498345",
+      "wikidata": "Q200934",
+      "wikipedia": "es:Tomé (Chile)",
+      "admin_level": "8",
+      "dpachile:id": "08111"
+    }
+  },
+  {
+    "osm_id": -1558833,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-7421027,-7421025,-167454",
+    "name": "Ránquil",
+    "local_name": "Ránquil",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ránquil",
+      "boundary": "administrative",
+      "way_area": "0.0248825",
+      "wikidata": "Q56125",
+      "wikipedia": "es:Ránquil",
+      "admin_level": "8",
+      "dpachile:id": "16206"
+    }
+  },
+  {
+    "osm_id": -1558832,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-7421027,-7421025,-167454",
+    "name": "Portezuelo",
+    "local_name": "Portezuelo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Portezuelo",
+      "boundary": "administrative",
+      "way_area": "0.0291441",
+      "wikidata": "Q51119",
+      "wikipedia": "es:Portezuelo (Chile)",
+      "admin_level": "8",
+      "dpachile:id": "16205"
+    }
+  },
+  {
+    "osm_id": -1558759,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-7421026,-7421025,-167454",
+    "name": "San Nicolás",
+    "local_name": "San Nicolás",
+    "name_en": null,
+    "all_tags": {
+      "name": "San Nicolás",
+      "boundary": "administrative",
+      "way_area": "0.05695",
+      "wikidata": "Q187866",
+      "wikipedia": "es:San Nicolás (comuna)",
+      "admin_level": "8",
+      "dpachile:id": "16305"
+    }
+  },
+  {
+    "osm_id": -1558627,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-7421027,-7421025,-167454",
+    "name": "Coelemu",
+    "local_name": "Coelemu",
+    "name_en": null,
+    "all_tags": {
+      "name": "Coelemu",
+      "boundary": "administrative",
+      "way_area": "0.0346081",
+      "wikidata": "Q3807",
+      "wikipedia": "es:Coelemu (comuna)",
+      "admin_level": "8",
+      "dpachile:id": "16203"
+    }
+  },
+  {
+    "osm_id": -1558531,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-7421027,-7421025,-167454",
+    "name": "Treguaco",
+    "local_name": "Treguaco",
+    "name_en": null,
+    "all_tags": {
+      "name": "Treguaco",
+      "alt_name": "Trehuaco",
+      "boundary": "administrative",
+      "way_area": "0.0314606",
+      "wikidata": "Q200963",
+      "wikipedia": "es:Treguaco",
+      "admin_level": "8",
+      "dpachile:id": "16207"
+    }
+  },
+  {
+    "osm_id": -1557251,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1560882,-198848,-167454",
+    "name": "Isla de Maipo",
+    "local_name": "Isla de Maipo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Isla de Maipo",
+      "boundary": "administrative",
+      "way_area": "0.0182277",
+      "wikidata": "Q14445",
+      "wikipedia": "es:Isla de Maipo",
+      "admin_level": "8",
+      "dpachile:id": "13603"
+    }
+  },
+  {
+    "osm_id": -1557209,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1561023,-206487,-167454",
+    "name": "Mostazal",
+    "local_name": "Mostazal",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mostazal",
+      "boundary": "administrative",
+      "way_area": "0.0512641",
+      "wikidata": "Q51035",
+      "wikipedia": "es:Mostazal",
+      "admin_level": "8",
+      "dpachile:id": "06110"
+    }
+  },
+  {
+    "osm_id": -1557208,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1560883,-198848,-167454",
+    "name": "Paine",
+    "local_name": "Paine",
+    "name_en": null,
+    "all_tags": {
+      "name": "Paine",
+      "boundary": "administrative",
+      "way_area": "0.0660867",
+      "wikidata": "Q51070",
+      "wikipedia": "es:Paine",
+      "admin_level": "8",
+      "dpachile:id": "13404"
+    }
+  },
+  {
+    "osm_id": -1557007,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1561023,-206487,-167454",
+    "name": "Doñihue",
+    "local_name": "Doñihue",
+    "name_en": null,
+    "all_tags": {
+      "name": "Doñihue",
+      "boundary": "administrative",
+      "way_area": "0.00782324",
+      "wikidata": "Q13035",
+      "wikipedia": "es:Doñihue",
+      "admin_level": "8",
+      "dpachile:id": "06105"
+    }
+  },
+  {
+    "osm_id": -1556987,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1561023,-206487,-167454",
+    "name": "Peumo",
+    "local_name": "Peumo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Peumo",
+      "boundary": "administrative",
+      "way_area": "0.015123",
+      "wikidata": "Q51097",
+      "wikipedia": "es:Peumo",
+      "admin_level": "8",
+      "dpachile:id": "06112"
+    }
+  },
+  {
+    "osm_id": -1556980,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1561023,-206487,-167454",
+    "name": "Las Cabras",
+    "local_name": "Las Cabras",
+    "name_en": null,
+    "all_tags": {
+      "name": "Las Cabras",
+      "boundary": "administrative",
+      "way_area": "0.0736307",
+      "wikidata": "Q14480",
+      "wikipedia": "es:Las Cabras",
+      "admin_level": "8",
+      "dpachile:id": "06107"
+    }
+  },
+  {
+    "osm_id": -1556979,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1561023,-206487,-167454",
+    "name": "Coltauco",
+    "local_name": "Coltauco",
+    "name_en": null,
+    "all_tags": {
+      "name": "Coltauco",
+      "boundary": "administrative",
+      "way_area": "0.0217137",
+      "wikidata": "Q3847",
+      "wikipedia": "es:Coltauco",
+      "admin_level": "8",
+      "dpachile:id": "06104"
+    }
+  },
+  {
+    "osm_id": -1556895,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1561024,-206487,-167454",
+    "name": "Litueche",
+    "local_name": "Litueche",
+    "name_en": null,
+    "all_tags": {
+      "name": "Litueche",
+      "boundary": "administrative",
+      "way_area": "0.059747",
+      "wikidata": "Q14496",
+      "wikipedia": "es:Litueche",
+      "admin_level": "8",
+      "dpachile:id": "06203"
+    }
+  },
+  {
+    "osm_id": -1556894,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1561024,-206487,-167454",
+    "name": "Navidad",
+    "local_name": "Navidad",
+    "name_en": null,
+    "all_tags": {
+      "name": "Navidad",
+      "boundary": "administrative",
+      "way_area": "0.0293203",
+      "wikidata": "Q51045",
+      "wikipedia": "es:Navidad (Chile)",
+      "admin_level": "8",
+      "dpachile:id": "06205"
+    }
+  },
+  {
+    "osm_id": -1556873,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1560881,-198848,-167454",
+    "name": "Alhué",
+    "local_name": "Alhué",
+    "name_en": null,
+    "all_tags": {
+      "name": "Alhué",
+      "boundary": "administrative",
+      "way_area": "0.0823696",
+      "wikidata": "Q2208",
+      "wikipedia": "es:Alhué",
+      "admin_level": "8",
+      "dpachile:id": "13502"
+    }
+  },
+  {
+    "osm_id": -660816,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1560883,-198848,-167454",
+    "name": "Buin",
+    "local_name": "Buin",
+    "name_en": null,
+    "all_tags": {
+      "name": "Buin",
+      "boundary": "administrative",
+      "way_area": "0.0211758",
+      "wikidata": "Q3656",
+      "wikipedia": "es:Buin (Chile)",
+      "admin_level": "8",
+      "dpachile:id": "13402"
+    }
+  },
+  {
+    "osm_id": -660810,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1560883,-198848,-167454",
+    "name": "San Bernardo",
+    "local_name": "San Bernardo",
+    "name_en": null,
+    "all_tags": {
+      "name": "San Bernardo",
+      "boundary": "administrative",
+      "way_area": "0.0148597",
+      "wikidata": "Q56136",
+      "wikipedia": "es:San Bernardo (Chile)",
+      "admin_level": "8",
+      "dpachile:id": "13401"
+    }
+  },
+  {
+    "osm_id": -546213,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-546186,-239882,-167454",
+    "name": "San Clemente",
+    "local_name": "San Clemente",
+    "name_en": null,
+    "all_tags": {
+      "name": "San Clemente",
+      "boundary": "administrative",
+      "way_area": "0.449665",
+      "wikidata": "Q56138",
+      "wikipedia": "es:San Clemente (Chile)",
+      "admin_level": "8",
+      "dpachile:id": "07109"
+    }
+  },
+  {
+    "osm_id": -545905,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-545521,-239882,-167454",
+    "name": "Yerbas Buenas",
+    "local_name": "Yerbas Buenas",
+    "name_en": null,
+    "all_tags": {
+      "name": "Yerbas Buenas",
+      "boundary": "administrative",
+      "way_area": "0.0257556",
+      "wikidata": "Q201046",
+      "wikipedia": "es:Yerbas Buenas",
+      "admin_level": "8",
+      "dpachile:id": "07408"
+    }
+  },
+  {
+    "osm_id": -545904,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-545521,-239882,-167454",
+    "name": "Villa Alegre",
+    "local_name": "Villa Alegre",
+    "name_en": null,
+    "all_tags": {
+      "name": "Villa Alegre",
+      "boundary": "administrative",
+      "way_area": "0.0188946",
+      "wikidata": "Q201015",
+      "wikipedia": "es:Villa Alegre",
+      "admin_level": "8",
+      "dpachile:id": "07407"
+    }
+  },
+  {
+    "osm_id": -544839,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-546186,-239882,-167454",
+    "name": "Río Claro",
+    "local_name": "Río Claro",
+    "name_en": null,
+    "all_tags": {
+      "name": "Río Claro",
+      "boundary": "administrative",
+      "way_area": "0.0428204",
+      "wikidata": "Q56127",
+      "wikipedia": "es:Río Claro (comuna)",
+      "admin_level": "8",
+      "dpachile:id": "07108"
+    }
+  },
+  {
+    "osm_id": -544819,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-546193,-239882,-167454",
+    "name": "Curicó",
+    "local_name": "Curicó",
+    "name_en": null,
+    "all_tags": {
+      "name": "Curicó",
+      "boundary": "administrative",
+      "way_area": "0.131931",
+      "wikidata": "Q13030",
+      "wikipedia": "es:Curicó",
+      "admin_level": "8",
+      "dpachile:id": "07301"
+    }
+  },
+  {
+    "osm_id": -544818,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-546193,-239882,-167454",
+    "name": "Romeral",
+    "local_name": "Romeral",
+    "name_en": null,
+    "all_tags": {
+      "name": "Romeral",
+      "boundary": "administrative",
+      "way_area": "0.158433",
+      "wikidata": "Q56124",
+      "wikipedia": "es:Romeral (Chile)",
+      "admin_level": "8",
+      "dpachile:id": "07306"
+    }
+  },
+  {
+    "osm_id": -544817,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-546193,-239882,-167454",
+    "name": "Teno",
+    "local_name": "Teno",
+    "name_en": null,
+    "all_tags": {
+      "name": "Teno",
+      "boundary": "administrative",
+      "way_area": "0.0616492",
+      "wikidata": "Q2383688",
+      "wikipedia": "es:Teno (Chile)",
+      "admin_level": "8",
+      "dpachile:id": "07308"
+    }
+  },
+  {
+    "osm_id": -541848,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-545521,-239882,-167454",
+    "name": "San Javier",
+    "local_name": "San Javier",
+    "name_en": null,
+    "all_tags": {
+      "name": "San Javier",
+      "alt_name": "San Javier de Loncomilla",
+      "boundary": "administrative",
+      "way_area": "0.130432",
+      "wikidata": "Q187831",
+      "wikipedia": "es:San Javier de Loncomilla",
+      "admin_level": "8",
+      "dpachile:id": "07406"
+    }
+  },
+  {
+    "osm_id": -541831,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-546186,-239882,-167454",
+    "name": "Maule",
+    "local_name": "Maule",
+    "name_en": null,
+    "all_tags": {
+      "name": "Maule",
+      "boundary": "administrative",
+      "way_area": "0.0243621",
+      "wikidata": "Q16926",
+      "wikipedia": "es:Maule (Chile)",
+      "admin_level": "8",
+      "dpachile:id": "07105"
+    }
+  },
+  {
+    "osm_id": -541830,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-546186,-239882,-167454",
+    "name": "Pencahue",
+    "local_name": "Pencahue",
+    "name_en": null,
+    "all_tags": {
+      "name": "Pencahue",
+      "boundary": "administrative",
+      "way_area": "0.0945628",
+      "wikidata": "Q51091",
+      "wikipedia": "es:Pencahue",
+      "admin_level": "8",
+      "dpachile:id": "07107"
+    }
+  },
+  {
+    "osm_id": -541829,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-546193,-239882,-167454",
+    "name": "Sagrada Familia",
+    "local_name": "Sagrada Familia",
+    "name_en": null,
+    "all_tags": {
+      "name": "Sagrada Familia",
+      "boundary": "administrative",
+      "way_area": "0.0541968",
+      "wikidata": "Q56133",
+      "wikipedia": "es:Sagrada Familia (Chile)",
+      "admin_level": "8",
+      "dpachile:id": "07307"
+    }
+  },
+  {
+    "osm_id": -541828,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-546193,-239882,-167454",
+    "name": "Molina",
+    "local_name": "Molina",
+    "name_en": null,
+    "all_tags": {
+      "name": "Molina",
+      "boundary": "administrative",
+      "way_area": "0.150495",
+      "wikidata": "Q51033",
+      "wikipedia": "es:Molina (Chile)",
+      "admin_level": "8",
+      "dpachile:id": "07304"
+    }
+  },
+  {
+    "osm_id": -541816,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-546186,-239882,-167454",
+    "name": "San Rafael",
+    "local_name": "San Rafael",
+    "name_en": null,
+    "all_tags": {
+      "name": "San Rafael",
+      "boundary": "administrative",
+      "way_area": "0.026064",
+      "wikidata": "Q187898",
+      "wikipedia": "es:San Rafael (Chile)",
+      "admin_level": "8",
+      "dpachile:id": "07110"
+    }
+  },
+  {
+    "osm_id": -541799,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-546186,-239882,-167454",
+    "name": "Pelarco",
+    "local_name": "Pelarco",
+    "name_en": null,
+    "all_tags": {
+      "name": "Pelarco",
+      "boundary": "administrative",
+      "way_area": "0.032856",
+      "wikidata": "Q51085",
+      "wikipedia": "es:Pelarco",
+      "admin_level": "8",
+      "dpachile:id": "07106"
+    }
+  },
+  {
+    "osm_id": -541797,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-546186,-239882,-167454",
+    "name": "Talca",
+    "local_name": "Talca",
+    "name_en": null,
+    "all_tags": {
+      "name": "Talca",
+      "boundary": "administrative",
+      "way_area": "0.0229615",
+      "wikidata": "Q4469",
+      "wikipedia": "es:Talca",
+      "admin_level": "8",
+      "dpachile:id": "07101"
+    }
+  },
+  {
+    "osm_id": -406185,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1568616,-238392,-167454",
+    "name": "Camarones",
+    "local_name": "Camarones",
+    "name_en": null,
+    "all_tags": {
+      "name": "Camarones",
+      "boundary": "administrative",
+      "way_area": "0.330646",
+      "wikidata": "Q3729",
+      "wikipedia": "es:Camarones (comuna)",
+      "admin_level": "8",
+      "dpachile:id": "15102"
+    }
+  },
+  {
+    "osm_id": -406176,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1568630,-238392,-167454",
+    "name": "Putre",
+    "local_name": "Putre",
+    "name_en": null,
+    "all_tags": {
+      "name": "Putre",
+      "boundary": "administrative",
+      "way_area": "0.503282",
+      "wikidata": "Q51605",
+      "wikipedia": "es:Putre",
+      "admin_level": "8",
+      "dpachile:id": "15201"
+    }
+  },
+  {
+    "osm_id": -406175,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1568630,-238392,-167454",
+    "name": "General Lagos",
+    "local_name": "General Lagos",
+    "name_en": null,
+    "all_tags": {
+      "name": "General Lagos",
+      "boundary": "administrative",
+      "way_area": "0.192406",
+      "wikidata": "Q13065",
+      "wikipedia": "es:General Lagos (comuna)",
+      "admin_level": "8",
+      "dpachile:id": "15202"
+    }
+  },
+  {
+    "osm_id": -296844,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1561031,-198847,-167454",
+    "name": "Algarrobo",
+    "local_name": "Algarrobo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Algarrobo",
+      "boundary": "administrative",
+      "way_area": "0.0189602",
+      "wikidata": "Q2206",
+      "wikipedia": "es:Algarrobo (Chile)",
+      "admin_level": "8",
+      "dpachile:id": "05602"
+    }
+  },
+  {
+    "osm_id": -296843,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1561031,-198847,-167454",
+    "name": "El Quisco",
+    "local_name": "El Quisco",
+    "name_en": null,
+    "all_tags": {
+      "name": "El Quisco",
+      "boundary": "administrative",
+      "way_area": "0.00497228",
+      "wikidata": "Q13040",
+      "wikipedia": "es:El Quisco",
+      "admin_level": "8",
+      "dpachile:id": "05604"
+    }
+  },
+  {
+    "osm_id": -296841,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1561031,-198847,-167454",
+    "name": "El Tabo",
+    "local_name": "El Tabo",
+    "name_en": null,
+    "all_tags": {
+      "name": "El Tabo",
+      "boundary": "administrative",
+      "way_area": "0.00964821",
+      "wikidata": "Q13041",
+      "wikipedia": "es:El Tabo",
+      "admin_level": "8",
+      "dpachile:id": "05605"
+    }
+  },
+  {
+    "osm_id": -296839,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1560881,-198848,-167454",
+    "name": "María Pinto",
+    "local_name": "María Pinto",
+    "name_en": null,
+    "all_tags": {
+      "name": "María Pinto",
+      "boundary": "administrative",
+      "way_area": "0.0382966",
+      "wikidata": "Q16925",
+      "wikipedia": "es:María Pinto",
+      "admin_level": "8",
+      "dpachile:id": "13504"
+    }
+  },
+  {
+    "osm_id": -296836,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1560881,-198848,-167454",
+    "name": "San Pedro",
+    "local_name": "San Pedro",
+    "name_en": null,
+    "all_tags": {
+      "name": "San Pedro",
+      "boundary": "administrative",
+      "way_area": "0.0774795",
+      "wikidata": "Q187885",
+      "wikipedia": "es:San Pedro (Chile)",
+      "admin_level": "8",
+      "dpachile:id": "13505"
+    }
+  },
+  {
+    "osm_id": -296835,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1560881,-198848,-167454",
+    "name": "Melipilla",
+    "local_name": "Melipilla",
+    "name_en": null,
+    "all_tags": {
+      "name": "Melipilla",
+      "boundary": "administrative",
+      "way_area": "0.130617",
+      "wikidata": "Q51032",
+      "wikipedia": "es:Melipilla",
+      "admin_level": "8",
+      "dpachile:id": "13501"
+    }
+  },
+  {
+    "osm_id": -296823,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1561031,-198847,-167454",
+    "name": "Cartagena",
+    "local_name": "Cartagena",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cartagena",
+      "boundary": "administrative",
+      "way_area": "0.0236619",
+      "wikidata": "Q3738",
+      "wikipedia": "es:Cartagena (Chile)",
+      "population": "16875",
+      "admin_level": "8",
+      "dpachile:id": "05603"
+    }
+  },
+  {
+    "osm_id": -296816,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1561031,-198847,-167454",
+    "name": "San Antonio",
+    "local_name": "San Antonio",
+    "name_en": null,
+    "all_tags": {
+      "name": "San Antonio",
+      "boundary": "administrative",
+      "way_area": "0.0396837",
+      "wikidata": "Q56135",
+      "wikipedia": "es:San Antonio (Chile)",
+      "admin_level": "8",
+      "dpachile:id": "05601"
+    }
+  },
+  {
+    "osm_id": -296814,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1561031,-198847,-167454",
+    "name": "Santo Domingo",
+    "local_name": "Santo Domingo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Santo Domingo",
+      "boundary": "administrative",
+      "way_area": "0.0518097",
+      "wikidata": "Q188011",
+      "wikipedia": "es:Santo Domingo (Chile)",
+      "admin_level": "8",
+      "dpachile:id": "05606"
+    }
+  },
+  {
+    "osm_id": -296369,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-546186,-239882,-167454",
+    "name": "Constitución",
+    "local_name": "Constitución",
+    "name_en": null,
+    "all_tags": {
+      "name": "Constitución",
+      "boundary": "administrative",
+      "way_area": "0.132586",
+      "wikidata": "Q3862",
+      "wikipedia": "es:Constitución (Chile)",
+      "admin_level": "8",
+      "dpachile:id": "07102"
+    }
+  },
+  {
+    "osm_id": -296368,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-546186,-239882,-167454",
+    "name": "Empedrado",
+    "local_name": "Empedrado",
+    "name_en": null,
+    "all_tags": {
+      "name": "Empedrado",
+      "boundary": "administrative",
+      "way_area": "0.0560937",
+      "wikidata": "Q13042",
+      "wikipedia": "es:Empedrado (Chile)",
+      "admin_level": "8",
+      "dpachile:id": "07104"
+    }
+  },
+  {
+    "osm_id": -296342,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-546158,-239882,-167454",
+    "name": "Chanco",
+    "local_name": "Chanco",
+    "name_en": null,
+    "all_tags": {
+      "name": "Chanco",
+      "boundary": "administrative",
+      "way_area": "0.0524781",
+      "wikidata": "Q3762",
+      "wikipedia": "es:Chanco",
+      "admin_level": "8",
+      "dpachile:id": "07202"
+    }
+  },
+  {
+    "osm_id": -296296,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-7421027,-7421025,-167454",
+    "name": "Ninhue",
+    "local_name": "Ninhue",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ninhue",
+      "boundary": "administrative",
+      "way_area": "0.0404373",
+      "wikidata": "Q51048",
+      "wikipedia": "es:Ninhue",
+      "admin_level": "8",
+      "dpachile:id": "16204"
+    }
+  },
+  {
+    "osm_id": -296295,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-7421027,-7421025,-167454",
+    "name": "Quirihue",
+    "local_name": "Quirihue",
+    "name_en": null,
+    "all_tags": {
+      "name": "Quirihue",
+      "boundary": "administrative",
+      "way_area": "0.0590798",
+      "wikidata": "Q56115",
+      "wikipedia": "es:Quirihue",
+      "admin_level": "8",
+      "dpachile:id": "16201"
+    }
+  },
+  {
+    "osm_id": -296294,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-7421027,-7421025,-167454",
+    "name": "Cobquecura",
+    "local_name": "Cobquecura",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cobquecura",
+      "boundary": "administrative",
+      "way_area": "0.0571221",
+      "wikidata": "Q3796",
+      "wikipedia": "es:Cobquecura (comuna)",
+      "admin_level": "8",
+      "dpachile:id": "16202"
+    }
+  },
+  {
+    "osm_id": -296293,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-546158,-239882,-167454",
+    "name": "Pelluhue",
+    "local_name": "Pelluhue",
+    "name_en": null,
+    "all_tags": {
+      "name": "Pelluhue",
+      "boundary": "administrative",
+      "way_area": "0.0368741",
+      "wikidata": "Q51086",
+      "wikipedia": "es:Pelluhue",
+      "admin_level": "8",
+      "dpachile:id": "07203"
+    }
+  },
+  {
+    "osm_id": -295922,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1572125,-271889,-167454",
+    "name": "Copiapó",
+    "local_name": "Copiapó",
+    "name_en": null,
+    "all_tags": {
+      "name": "Copiapó",
+      "boundary": "administrative",
+      "way_area": "1.60729",
+      "wikidata": "Q3868",
+      "wikipedia": "es:Copiapó",
+      "admin_level": "8",
+      "dpachile:id": "03101"
+    }
+  },
+  {
+    "osm_id": -295912,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1572125,-271889,-167454",
+    "name": "Caldera",
+    "local_name": "Caldera",
+    "name_en": null,
+    "all_tags": {
+      "name": "Caldera",
+      "boundary": "administrative",
+      "way_area": "0.336002",
+      "wikidata": "Q3708",
+      "wikipedia": "es:Caldera (Chile)",
+      "admin_level": "8",
+      "dpachile:id": "03102"
+    }
+  },
+  {
+    "osm_id": -295905,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1573477,-271889,-167454",
+    "name": "Chañaral",
+    "local_name": "Chañaral",
+    "name_en": null,
+    "all_tags": {
+      "name": "Chañaral",
+      "boundary": "administrative",
+      "way_area": "0.519078",
+      "wikidata": "Q3763",
+      "wikipedia": "es:Chañaral",
+      "admin_level": "8",
+      "dpachile:id": "03201"
+    }
+  },
+  {
+    "osm_id": -295896,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1573477,-271889,-167454",
+    "name": "Diego de Almagro",
+    "local_name": "Diego de Almagro",
+    "name_en": null,
+    "all_tags": {
+      "name": "Diego de Almagro",
+      "boundary": "administrative",
+      "way_area": "1.7285",
+      "wikidata": "Q13033",
+      "wikipedia": "es:Diego de Almagro (Chile)",
+      "admin_level": "8",
+      "dpachile:id": "03202"
+    }
+  },
+  {
+    "osm_id": -295883,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1561897,-240932,-167454",
+    "name": "Taltal",
+    "local_name": "Taltal",
+    "name_en": null,
+    "all_tags": {
+      "name": "Taltal",
+      "boundary": "administrative",
+      "way_area": "1.82669",
+      "wikidata": "Q188049",
+      "wikipedia": "es:Taltal",
+      "admin_level": "8",
+      "dpachile:id": "02104"
+    }
+  },
+  {
+    "osm_id": -269826,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1568616,-238392,-167454",
+    "name": "Arica",
+    "local_name": "Arica",
+    "name_en": null,
+    "all_tags": {
+      "name": "Arica",
+      "boundary": "administrative",
+      "way_area": "0.408748",
+      "wikidata": "Q2203",
+      "wikipedia": "es:Arica",
+      "admin_level": "8",
+      "dpachile:id": "15101"
+    }
+  },
+  {
+    "osm_id": -269390,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-7421029,-7421025,-167454",
+    "name": "Chillán Viejo",
+    "local_name": "Chillán Viejo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Chillán Viejo",
+      "boundary": "administrative",
+      "way_area": "0.0265373",
+      "wikidata": "Q3779",
+      "wikipedia": "es:Chillán Viejo",
+      "population": "26172",
+      "admin_level": "8",
+      "dpachile:id": "16103"
+    }
+  },
+  {
+    "osm_id": -269388,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-7421029,-7421025,-167454",
+    "name": "San Ignacio",
+    "local_name": "San Ignacio",
+    "name_en": null,
+    "all_tags": {
+      "name": "San Ignacio",
+      "boundary": "administrative",
+      "way_area": "0.0366461",
+      "wikidata": "Q20022194",
+      "wikipedia": "es:San Ignacio (Chile)",
+      "admin_level": "8",
+      "dpachile:id": "16108"
+    }
+  },
+  {
+    "osm_id": -269309,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-7421029,-7421025,-167454",
+    "name": "Pinto",
+    "local_name": "Pinto",
+    "name_en": null,
+    "all_tags": {
+      "name": "Pinto",
+      "boundary": "administrative",
+      "way_area": "0.111462",
+      "wikidata": "Q51106",
+      "wikipedia": "es:Pinto (Chile)",
+      "admin_level": "8",
+      "dpachile:id": "16106"
+    }
+  },
+  {
+    "osm_id": -255374,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-546158,-239882,-167454",
+    "name": "Cauquenes",
+    "local_name": "Cauquenes",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cauquenes",
+      "boundary": "administrative",
+      "way_area": "0.212216",
+      "wikidata": "Q3749",
+      "wikipedia": "es:Cauquenes",
+      "admin_level": "8",
+      "dpachile:id": "07201"
+    }
+  },
+  {
+    "osm_id": -255340,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-7421029,-7421025,-167454",
+    "name": "Chillán",
+    "local_name": "Chillán",
+    "name_en": null,
+    "all_tags": {
+      "name": "Chillán",
+      "boundary": "administrative",
+      "way_area": "0.0478141",
+      "wikidata": "Q3774",
+      "wikipedia": "es:Chillán",
+      "admin_level": "8",
+      "dpachile:id": "16101"
+    }
+  },
+  {
+    "osm_id": -255339,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-7421026,-7421025,-167454",
+    "name": "San Carlos",
+    "local_name": "San Carlos",
+    "name_en": null,
+    "all_tags": {
+      "name": "San Carlos",
+      "boundary": "administrative",
+      "way_area": "0.088039",
+      "wikidata": "Q6118518",
+      "wikipedia": "es:San Carlos (Chile)",
+      "admin_level": "8",
+      "dpachile:id": "16301"
+    }
+  },
+  {
+    "osm_id": -255335,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-7421026,-7421025,-167454",
+    "name": "Ñiquén",
+    "local_name": "Ñiquén",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ñiquén",
+      "boundary": "administrative",
+      "way_area": "0.049421",
+      "wikidata": "Q201070",
+      "wikipedia": "es:Ñiquén",
+      "admin_level": "8",
+      "dpachile:id": "16303"
+    }
+  },
+  {
+    "osm_id": -255333,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-545521,-239882,-167454",
+    "name": "Retiro",
+    "local_name": "Retiro",
+    "name_en": null,
+    "all_tags": {
+      "name": "Retiro",
+      "boundary": "administrative",
+      "way_area": "0.0827067",
+      "wikidata": "Q56122",
+      "wikipedia": "es:Retiro (Chile)",
+      "admin_level": "8",
+      "dpachile:id": "07405"
+    }
+  },
+  {
+    "osm_id": -255309,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-545521,-239882,-167454",
+    "name": "Linares",
+    "local_name": "Linares",
+    "name_en": null,
+    "all_tags": {
+      "name": "Linares",
+      "boundary": "administrative",
+      "way_area": "0.146792",
+      "wikidata": "Q14494",
+      "wikipedia": "es:Linares (Chile)",
+      "admin_level": "8",
+      "dpachile:id": "07401"
+    }
+  },
+  {
+    "osm_id": -255308,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-545521,-239882,-167454",
+    "name": "Longaví",
+    "local_name": "Longaví",
+    "name_en": null,
+    "all_tags": {
+      "name": "Longaví",
+      "boundary": "administrative",
+      "way_area": "0.144551",
+      "wikidata": "Q16901",
+      "wikipedia": "es:Longaví",
+      "admin_level": "8",
+      "dpachile:id": "07403"
+    }
+  },
+  {
+    "osm_id": -255307,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-545521,-239882,-167454",
+    "name": "Colbún",
+    "local_name": "Colbún",
+    "name_en": null,
+    "all_tags": {
+      "name": "Colbún",
+      "boundary": "administrative",
+      "way_area": "0.291089",
+      "wikidata": "Q3836",
+      "wikipedia": "es:Colbún",
+      "admin_level": "8",
+      "dpachile:id": "07402"
+    }
+  },
+  {
+    "osm_id": -255306,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-545521,-239882,-167454",
+    "name": "Parral",
+    "local_name": "Parral",
+    "name_en": null,
+    "all_tags": {
+      "name": "Parral",
+      "boundary": "administrative",
+      "way_area": "0.164894",
+      "wikidata": "Q51083",
+      "wikipedia": "es:Parral (Chile)",
+      "admin_level": "8",
+      "dpachile:id": "07404"
+    }
+  },
+  {
+    "osm_id": -255296,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-7421026,-7421025,-167454",
+    "name": "San Fabián",
+    "local_name": "San Fabián",
+    "name_en": null,
+    "all_tags": {
+      "name": "San Fabián",
+      "boundary": "administrative",
+      "way_area": "0.15523",
+      "wikidata": "Q187795",
+      "wikipedia": "es:San Fabián (Chile)",
+      "admin_level": "8",
+      "dpachile:id": "16304"
+    }
+  },
+  {
+    "osm_id": -255295,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-7421026,-7421025,-167454",
+    "name": "Coihueco",
+    "local_name": "Coihueco",
+    "name_en": null,
+    "all_tags": {
+      "name": "Coihueco",
+      "boundary": "administrative",
+      "way_area": "0.178608",
+      "wikidata": "Q3814",
+      "wikipedia": "es:Coihueco (comuna)",
+      "admin_level": "8",
+      "dpachile:id": "16302"
+    }
+  },
+  {
+    "osm_id": -252837,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-546193,-239882,-167454",
+    "name": "Licantén",
+    "local_name": "Licantén",
+    "name_en": null,
+    "all_tags": {
+      "name": "Licantén",
+      "boundary": "administrative",
+      "way_area": "0.0271059",
+      "wikidata": "Q14490",
+      "wikipedia": "es:Licantén",
+      "admin_level": "8",
+      "dpachile:id": "07303"
+    }
+  },
+  {
+    "osm_id": -252836,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-546186,-239882,-167454",
+    "name": "Curepto",
+    "local_name": "Curepto",
+    "name_en": null,
+    "all_tags": {
+      "name": "Curepto",
+      "boundary": "administrative",
+      "way_area": "0.105629",
+      "wikidata": "Q13026",
+      "wikipedia": "es:Curepto",
+      "admin_level": "8",
+      "dpachile:id": "07103"
+    }
+  },
+  {
+    "osm_id": -252817,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1661314,-206487,-167454",
+    "name": "Lolol",
+    "local_name": "Lolol",
+    "name_en": null,
+    "all_tags": {
+      "name": "Lolol",
+      "boundary": "administrative",
+      "way_area": "0.0587516",
+      "wikidata": "Q16899",
+      "wikipedia": "es:Lolol",
+      "admin_level": "8",
+      "dpachile:id": "06304"
+    }
+  },
+  {
+    "osm_id": -252816,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1661314,-206487,-167454",
+    "name": "Chépica",
+    "local_name": "Chépica",
+    "name_en": null,
+    "all_tags": {
+      "name": "Chépica",
+      "boundary": "administrative",
+      "way_area": "0.0472412",
+      "wikidata": "Q3790",
+      "wikipedia": "es:Chépica (Chile)",
+      "admin_level": "8",
+      "dpachile:id": "06302"
+    }
+  },
+  {
+    "osm_id": -252815,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-546193,-239882,-167454",
+    "name": "Rauco",
+    "local_name": "Rauco",
+    "name_en": null,
+    "all_tags": {
+      "name": "Rauco",
+      "boundary": "administrative",
+      "way_area": "0.0305337",
+      "wikidata": "Q56116",
+      "wikipedia": "es:Rauco",
+      "admin_level": "8",
+      "dpachile:id": "07305"
+    }
+  },
+  {
+    "osm_id": -252814,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-546193,-239882,-167454",
+    "name": "Hualañé",
+    "local_name": "Hualañé",
+    "name_en": null,
+    "all_tags": {
+      "name": "Hualañé",
+      "boundary": "administrative",
+      "way_area": "0.0620908",
+      "wikidata": "Q13074",
+      "wikipedia": "es:Hualañé",
+      "admin_level": "8",
+      "dpachile:id": "07302"
+    }
+  },
+  {
+    "osm_id": -252813,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1561024,-206487,-167454",
+    "name": "Paredones",
+    "local_name": "Paredones",
+    "name_en": null,
+    "all_tags": {
+      "name": "Paredones",
+      "boundary": "administrative",
+      "way_area": "0.0563033",
+      "wikidata": "Q51082",
+      "wikipedia": "es:Paredones",
+      "admin_level": "8",
+      "dpachile:id": "06206"
+    }
+  },
+  {
+    "osm_id": -252792,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-546193,-239882,-167454",
+    "name": "Vichuquén",
+    "local_name": "Vichuquén",
+    "name_en": null,
+    "all_tags": {
+      "name": "Vichuquén",
+      "boundary": "administrative",
+      "way_area": "0.044368",
+      "wikidata": "Q200992",
+      "wikipedia": "es:Vichuquén",
+      "admin_level": "8",
+      "dpachile:id": "07309"
+    }
+  },
+  {
+    "osm_id": -239461,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1561810,-238393,-167454",
+    "name": "Alto Hospicio",
+    "local_name": "Alto Hospicio",
+    "name_en": null,
+    "all_tags": {
+      "name": "Alto Hospicio",
+      "boundary": "administrative",
+      "way_area": "0.0492208",
+      "wikidata": "Q2217",
+      "wikipedia": "es:Alto Hospicio",
+      "admin_level": "8",
+      "dpachile:id": "01107"
+    }
+  },
+  {
+    "osm_id": -239456,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1561810,-238393,-167454",
+    "name": "Iquique",
+    "local_name": "Iquique",
+    "name_en": null,
+    "all_tags": {
+      "name": "Iquique",
+      "boundary": "administrative",
+      "way_area": "0.1991",
+      "wikidata": "Q14440",
+      "wikipedia": "es:Iquique",
+      "admin_level": "8",
+      "dpachile:id": "01101"
+    }
+  },
+  {
+    "osm_id": -239424,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1561942,-238393,-167454",
+    "name": "Pica",
+    "local_name": "Pica",
+    "name_en": null,
+    "all_tags": {
+      "name": "Pica",
+      "boundary": "administrative",
+      "way_area": "0.777158",
+      "wikidata": "Q51102",
+      "wikipedia": "es:Pica (Chile)",
+      "admin_level": "8",
+      "dpachile:id": "01405"
+    }
+  },
+  {
+    "osm_id": -239349,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1561942,-238393,-167454",
+    "name": "Huara",
+    "local_name": "Huara",
+    "name_en": null,
+    "all_tags": {
+      "name": "Huara",
+      "boundary": "administrative",
+      "way_area": "0.908902",
+      "wikidata": "Q13081",
+      "wikipedia": "es:Huara",
+      "admin_level": "8",
+      "dpachile:id": "01404"
+    }
+  },
+  {
+    "osm_id": -239348,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1561942,-238393,-167454",
+    "name": "Colchane",
+    "local_name": "Colchane",
+    "name_en": null,
+    "all_tags": {
+      "name": "Colchane",
+      "boundary": "administrative",
+      "way_area": "0.342929",
+      "wikidata": "Q3839",
+      "wikipedia": "es:Colchane",
+      "admin_level": "8",
+      "dpachile:id": "01403"
+    }
+  },
+  {
+    "osm_id": -239347,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1561942,-238393,-167454",
+    "name": "Camiña",
+    "local_name": "Camiña",
+    "name_en": null,
+    "all_tags": {
+      "name": "Camiña",
+      "boundary": "administrative",
+      "way_area": "0.194616",
+      "wikidata": "Q3731",
+      "wikipedia": "es:Camiña",
+      "admin_level": "8",
+      "dpachile:id": "01402"
+    }
+  },
+  {
+    "osm_id": -238959,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1664191,-198848,-167454",
+    "name": "Pirque",
+    "local_name": "Pirque",
+    "name_en": null,
+    "all_tags": {
+      "name": "Pirque",
+      "boundary": "administrative",
+      "way_area": "0.0432768",
+      "wikidata": "Q51113",
+      "wikipedia": "es:Pirque",
+      "admin_level": "8",
+      "dpachile:id": "13202"
+    }
+  },
+  {
+    "osm_id": -231954,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1584131,-231672,-167454",
+    "name": "Los Vilos",
+    "local_name": "Los Vilos",
+    "name_en": null,
+    "all_tags": {
+      "name": "Los Vilos",
+      "boundary": "administrative",
+      "way_area": "0.177284",
+      "wikidata": "Q16908",
+      "wikipedia": "es:Los Vilos",
+      "admin_level": "8",
+      "dpachile:id": "04203"
+    }
+  },
+  {
+    "osm_id": -231953,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1586777,-198847,-167454",
+    "name": "Petorca",
+    "local_name": "Petorca",
+    "name_en": null,
+    "all_tags": {
+      "name": "Petorca",
+      "boundary": "administrative",
+      "way_area": "0.144744",
+      "wikidata": "Q51096",
+      "wikipedia": "es:Petorca",
+      "admin_level": "8",
+      "dpachile:id": "05404"
+    }
+  },
+  {
+    "osm_id": -231952,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1584131,-231672,-167454",
+    "name": "Salamanca",
+    "local_name": "Salamanca",
+    "name_en": null,
+    "all_tags": {
+      "name": "Salamanca",
+      "boundary": "administrative",
+      "way_area": "0.32849",
+      "wikidata": "Q56134",
+      "wikipedia": "es:Salamanca (Chile)",
+      "admin_level": "8",
+      "dpachile:id": "04204"
+    }
+  },
+  {
+    "osm_id": -231949,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1671231,-198847,-167454",
+    "name": "Santa María",
+    "local_name": "Santa María",
+    "name_en": null,
+    "all_tags": {
+      "name": "Santa María",
+      "boundary": "administrative",
+      "way_area": "0.0159823",
+      "wikidata": "Q187991",
+      "wikipedia": "es:Santa María (Chile)",
+      "admin_level": "8",
+      "dpachile:id": "05706"
+    }
+  },
+  {
+    "osm_id": -231879,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1671299,-198847,-167454",
+    "name": "San Esteban",
+    "local_name": "San Esteban",
+    "name_en": null,
+    "all_tags": {
+      "name": "San Esteban",
+      "boundary": "administrative",
+      "way_area": "0.131695",
+      "wikidata": "Q187784",
+      "wikipedia": "es:San Esteban (Chile)",
+      "admin_level": "8",
+      "dpachile:id": "05304"
+    }
+  },
+  {
+    "osm_id": -224590,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1674530,-198848,-167454",
+    "name": "La Florida",
+    "local_name": "La Florida",
+    "name_en": null,
+    "all_tags": {
+      "name": "La Florida",
+      "boundary": "administrative",
+      "way_area": "0.00690423",
+      "wikidata": "Q14460",
+      "wikipedia": "es:La Florida (Chile)",
+      "admin_level": "8",
+      "dpachile:id": "13110"
+    }
+  },
+  {
+    "osm_id": -191220,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1674530,-198848,-167454",
+    "name": "La Granja",
+    "local_name": "La Granja",
+    "name_en": null,
+    "all_tags": {
+      "name": "La Granja",
+      "boundary": "administrative",
+      "way_area": "0.000976186",
+      "wikidata": "Q14461",
+      "wikipedia": "es:La Granja (Chile)",
+      "admin_level": "8",
+      "dpachile:id": "13111"
+    }
+  },
+  {
+    "osm_id": -191216,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1674530,-198848,-167454",
+    "name": "La Pintana",
+    "local_name": "La Pintana",
+    "name_en": null,
+    "all_tags": {
+      "name": "La Pintana",
+      "boundary": "administrative",
+      "way_area": "0.00296598",
+      "wikidata": "Q14464",
+      "wikipedia": "es:La Pintana",
+      "admin_level": "8",
+      "dpachile:id": "13112"
+    }
+  },
+  {
+    "osm_id": -191203,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1674530,-198848,-167454",
+    "name": "El Bosque",
+    "local_name": "El Bosque",
+    "name_en": null,
+    "all_tags": {
+      "name": "El Bosque",
+      "boundary": "administrative",
+      "way_area": "0.00138471",
+      "wikidata": "Q13036",
+      "wikipedia": "es:Comuna de El Bosque",
+      "admin_level": "8",
+      "dpachile:id": "13105"
+    }
+  },
+  {
+    "osm_id": -191201,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1674530,-198848,-167454",
+    "name": "San Ramón",
+    "local_name": "San Ramón",
+    "name_en": null,
+    "all_tags": {
+      "name": "San Ramón",
+      "boundary": "administrative",
+      "way_area": "0.000612782",
+      "wikidata": "Q187919",
+      "wikipedia": "es:Comuna de San Ramón",
+      "admin_level": "8",
+      "dpachile:id": "13131"
+    }
+  },
+  {
+    "osm_id": -191200,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1674530,-198848,-167454",
+    "name": "La Cisterna",
+    "local_name": "La Cisterna",
+    "name_en": null,
+    "all_tags": {
+      "name": "La Cisterna",
+      "boundary": "administrative",
+      "way_area": "0.000972127",
+      "wikidata": "Q14456",
+      "wikipedia": "es:La Cisterna",
+      "admin_level": "8",
+      "dpachile:id": "13109"
+    }
+  },
+  {
+    "osm_id": -191193,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1674530,-198848,-167454",
+    "name": "Lo Espejo",
+    "local_name": "Lo Espejo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Lo Espejo",
+      "boundary": "administrative",
+      "way_area": "0.000795284",
+      "wikidata": "Q14503",
+      "wikipedia": "es:Lo Espejo",
+      "admin_level": "8",
+      "dpachile:id": "13116"
+    }
+  },
+  {
+    "osm_id": -191190,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1674530,-198848,-167454",
+    "name": "Macul",
+    "local_name": "Macul",
+    "name_en": null,
+    "all_tags": {
+      "name": "Macul",
+      "boundary": "administrative",
+      "way_area": "0.00124574",
+      "wikidata": "Q16916",
+      "wikipedia": "es:Macul",
+      "admin_level": "8",
+      "dpachile:id": "13118"
+    }
+  },
+  {
+    "osm_id": -190910,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1674530,-198848,-167454",
+    "name": "Conchalí",
+    "local_name": "Conchalí",
+    "name_en": null,
+    "all_tags": {
+      "name": "Conchalí",
+      "boundary": "administrative",
+      "way_area": "0.0010645",
+      "wikidata": "Q3851",
+      "wikipedia": "es:Conchalí",
+      "admin_level": "8",
+      "dpachile:id": "13104"
+    }
+  },
+  {
+    "osm_id": -176538,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1671231,-198847,-167454",
+    "name": "Putaendo",
+    "local_name": "Putaendo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Putaendo",
+      "boundary": "administrative",
+      "way_area": "0.138778",
+      "wikidata": "Q51604",
+      "wikipedia": "es:Putaendo",
+      "admin_level": "8",
+      "dpachile:id": "05705"
+    }
+  },
+  {
+    "osm_id": -176529,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1671299,-198847,-167454",
+    "name": "Calle Larga",
+    "local_name": "Calle Larga",
+    "name_en": null,
+    "all_tags": {
+      "name": "Calle Larga",
+      "boundary": "administrative",
+      "way_area": "0.0306412",
+      "wikidata": "Q3728",
+      "wikipedia": "es:Calle Larga",
+      "admin_level": "8",
+      "dpachile:id": "05302"
+    }
+  },
+  {
+    "osm_id": -176528,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1671231,-198847,-167454",
+    "name": "San Felipe",
+    "local_name": "San Felipe",
+    "name_en": null,
+    "all_tags": {
+      "name": "San Felipe",
+      "boundary": "administrative",
+      "way_area": "0.017532",
+      "wikidata": "Q187802",
+      "wikipedia": "es:San Felipe (Chile)",
+      "admin_level": "8",
+      "dpachile:id": "05701"
+    }
+  },
+  {
+    "osm_id": -175949,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1671299,-198847,-167454",
+    "name": "Rinconada",
+    "local_name": "Rinconada",
+    "name_en": null,
+    "all_tags": {
+      "name": "Rinconada",
+      "boundary": "administrative",
+      "way_area": "0.0118652",
+      "wikidata": "Q56123",
+      "wikipedia": "es:Rinconada (Los Andes)",
+      "admin_level": "8",
+      "dpachile:id": "05303"
+    }
+  },
+  {
+    "osm_id": -175944,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1671231,-198847,-167454",
+    "name": "Panquehue",
+    "local_name": "Panquehue",
+    "name_en": null,
+    "all_tags": {
+      "name": "Panquehue",
+      "boundary": "administrative",
+      "way_area": "0.011671",
+      "wikidata": "Q51078",
+      "wikipedia": "es:Panquehue (Chile)",
+      "admin_level": "8",
+      "dpachile:id": "05704"
+    }
+  },
+  {
+    "osm_id": -175943,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1671231,-198847,-167454",
+    "name": "Llay-Llay",
+    "local_name": "Llay-Llay",
+    "name_en": null,
+    "all_tags": {
+      "name": "Llay-Llay",
+      "boundary": "administrative",
+      "way_area": "0.0335148",
+      "wikidata": "Q14498",
+      "wikipedia": "es:Llay-Llay",
+      "admin_level": "8",
+      "dpachile:id": "05703"
+    }
+  },
+  {
+    "osm_id": -175918,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1671213,-198847,-167454",
+    "name": "Hijuelas",
+    "local_name": "Hijuelas",
+    "name_en": null,
+    "all_tags": {
+      "name": "Hijuelas",
+      "boundary": "administrative",
+      "way_area": "0.0258501",
+      "wikidata": "Q13071",
+      "wikipedia": "es:Hijuelas",
+      "admin_level": "8",
+      "dpachile:id": "05503"
+    }
+  },
+  {
+    "osm_id": -175894,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1673446,-198848,-167454",
+    "name": "Tiltil",
+    "local_name": "Tiltil",
+    "name_en": null,
+    "all_tags": {
+      "name": "Tiltil",
+      "alt_name": "Til Til",
+      "boundary": "administrative",
+      "way_area": "0.0632344",
+      "wikidata": "Q188170",
+      "wikipedia": "es:Til Til",
+      "admin_level": "8",
+      "dpachile:id": "13303"
+    }
+  },
+  {
+    "osm_id": -175820,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1560882,-198848,-167454",
+    "name": "Padre Hurtado",
+    "local_name": "Padre Hurtado",
+    "name_en": null,
+    "all_tags": {
+      "name": "Padre Hurtado",
+      "boundary": "administrative",
+      "way_area": "0.00788487",
+      "wikidata": "Q51062",
+      "wikipedia": "es:Padre Hurtado (comuna)",
+      "admin_level": "8",
+      "dpachile:id": "13604"
+    }
+  },
+  {
+    "osm_id": -168297,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1560881,-198848,-167454",
+    "name": "Curacaví",
+    "local_name": "Curacaví",
+    "name_en": null,
+    "all_tags": {
+      "name": "Curacaví",
+      "boundary": "administrative",
+      "way_area": "0.0672213",
+      "wikidata": "Q3885",
+      "wikipedia": "es:Curacaví",
+      "admin_level": "8",
+      "dpachile:id": "13503"
+    }
+  },
+  {
+    "osm_id": -168295,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1673446,-198848,-167454",
+    "name": "Lampa",
+    "local_name": "Lampa",
+    "name_en": null,
+    "all_tags": {
+      "name": "Lampa",
+      "boundary": "administrative",
+      "way_area": "0.0435413",
+      "wikidata": "Q14477",
+      "wikipedia": "es:Lampa (Chile)",
+      "admin_level": "8",
+      "dpachile:id": "13302"
+    }
+  },
+  {
+    "osm_id": -168271,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1674530,-198848,-167454",
+    "name": "Cerro Navia",
+    "local_name": "Cerro Navia",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cerro Navia",
+      "boundary": "administrative",
+      "way_area": "0.0010821",
+      "wikidata": "Q3756",
+      "wikipedia": "es:Cerro Navia",
+      "admin_level": "8",
+      "dpachile:id": "13103"
+    }
+  },
+  {
+    "osm_id": -168269,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1674530,-198848,-167454",
+    "name": "Pudahuel",
+    "local_name": "Pudahuel",
+    "name_en": null,
+    "all_tags": {
+      "name": "Pudahuel",
+      "boundary": "administrative",
+      "way_area": "0.0191432",
+      "wikidata": "Q51591",
+      "wikipedia": "es:Pudahuel",
+      "admin_level": "8",
+      "dpachile:id": "13124"
+    }
+  },
+  {
+    "osm_id": -168268,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1674530,-198848,-167454",
+    "name": "Lo Prado",
+    "local_name": "Lo Prado",
+    "name_en": null,
+    "all_tags": {
+      "name": "Lo Prado",
+      "boundary": "administrative",
+      "way_area": "0.000637339",
+      "wikidata": "Q14504",
+      "wikipedia": "es:Lo Prado",
+      "admin_level": "8",
+      "dpachile:id": "13117"
+    }
+  },
+  {
+    "osm_id": -168260,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1674530,-198848,-167454",
+    "name": "Cerrillos",
+    "local_name": "Cerrillos",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cerrillos",
+      "boundary": "administrative",
+      "way_area": "0.00163913",
+      "wikidata": "Q3755",
+      "wikipedia": "es:Comuna de Cerrillos",
+      "admin_level": "8",
+      "dpachile:id": "13102"
+    }
+  },
+  {
+    "osm_id": -168259,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1674530,-198848,-167454",
+    "name": "Maipú",
+    "local_name": "Maipú",
+    "name_en": null,
+    "all_tags": {
+      "name": "Maipú",
+      "boundary": "administrative",
+      "way_area": "0.013358",
+      "wikidata": "Q16918",
+      "wikipedia": "es:Maipú (Chile)",
+      "admin_level": "8",
+      "dpachile:id": "13119"
+    }
+  },
+  {
+    "osm_id": -168060,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1674530,-198848,-167454",
+    "name": "Independencia",
+    "local_name": "Independencia",
+    "name_en": null,
+    "all_tags": {
+      "name": "Independencia",
+      "boundary": "administrative",
+      "way_area": "0.00070651",
+      "wikidata": "Q14437",
+      "wikipedia": "es:Independencia (Chile)",
+      "admin_level": "8",
+      "dpachile:id": "13108"
+    }
+  },
+  {
+    "osm_id": -168059,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1674530,-198848,-167454",
+    "name": "Quinta Normal",
+    "local_name": "Quinta Normal",
+    "name_en": null,
+    "all_tags": {
+      "name": "Quinta Normal",
+      "boundary": "administrative",
+      "way_area": "0.00114892",
+      "wikidata": "Q56113",
+      "wikipedia": "es:Quinta Normal",
+      "admin_level": "8",
+      "dpachile:id": "13126"
+    }
+  },
+  {
+    "osm_id": -168058,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1674530,-198848,-167454",
+    "name": "Estación Central",
+    "local_name": "Estación Central",
+    "name_en": null,
+    "all_tags": {
+      "name": "Estación Central",
+      "boundary": "administrative",
+      "way_area": "0.00138615",
+      "wikidata": "Q13045",
+      "wikipedia": "es:Estación Central",
+      "admin_level": "8",
+      "dpachile:id": "13106"
+    }
+  },
+  {
+    "osm_id": -168057,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1674530,-198848,-167454",
+    "name": "Pedro Aguirre Cerda",
+    "local_name": "Pedro Aguirre Cerda",
+    "name_en": null,
+    "all_tags": {
+      "name": "Pedro Aguirre Cerda",
+      "boundary": "administrative",
+      "way_area": "0.000839538",
+      "wikidata": "Q51084",
+      "wikipedia": "es:Pedro Aguirre Cerda (comuna)",
+      "admin_level": "8",
+      "dpachile:id": "13121"
+    }
+  },
+  {
+    "osm_id": -168056,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1674530,-198848,-167454",
+    "name": "San Miguel",
+    "local_name": "San Miguel",
+    "name_en": null,
+    "all_tags": {
+      "name": "San Miguel",
+      "boundary": "administrative",
+      "way_area": "0.000933628",
+      "wikidata": "Q187862",
+      "wikipedia": "es:San Miguel (Chile)",
+      "admin_level": "8",
+      "dpachile:id": "13130"
+    }
+  },
+  {
+    "osm_id": -168055,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1674530,-198848,-167454",
+    "name": "San Joaquín",
+    "local_name": "San Joaquín",
+    "name_en": null,
+    "all_tags": {
+      "name": "San Joaquín",
+      "boundary": "administrative",
+      "way_area": "0.000964263",
+      "wikidata": "Q187838",
+      "wikipedia": "es:San Joaquín (Chile)",
+      "admin_level": "8",
+      "dpachile:id": "13129"
+    }
+  },
+  {
+    "osm_id": -166571,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1664191,-198848,-167454",
+    "name": "Puente Alto",
+    "local_name": "Puente Alto",
+    "name_en": "Puente Alto",
+    "all_tags": {
+      "name": "Puente Alto",
+      "name:en": "Puente Alto",
+      "boundary": "administrative",
+      "way_area": "0.00856216",
+      "wikidata": "Q51594",
+      "wikipedia": "es:Puente Alto",
+      "admin_level": "8",
+      "dpachile:id": "13201"
+    }
+  },
+  {
+    "osm_id": -166557,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1671299,-198847,-167454",
+    "name": "Los Andes",
+    "local_name": "Los Andes",
+    "name_en": null,
+    "all_tags": {
+      "name": "Los Andes",
+      "boundary": "administrative",
+      "way_area": "0.119523",
+      "wikidata": "Q16903",
+      "wikipedia": "es:Los Andes (Chile)",
+      "admin_level": "8",
+      "dpachile:id": "05301"
+    }
+  },
+  {
+    "osm_id": -166556,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1664191,-198848,-167454",
+    "name": "San José de Maipo",
+    "local_name": "San José de Maipo",
+    "name_en": null,
+    "all_tags": {
+      "name": "San José de Maipo",
+      "boundary": "administrative",
+      "way_area": "0.485436",
+      "wikidata": "Q187847",
+      "wikipedia": "es:San José de Maipo",
+      "admin_level": "8",
+      "dpachile:id": "13203"
+    }
+  },
+  {
+    "osm_id": -164609,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1674530,-198848,-167454",
+    "name": "Santiago",
+    "local_name": "Santiago",
+    "name_en": "Santiago",
+    "all_tags": {
+      "name": "Santiago",
+      "name:en": "Santiago",
+      "boundary": "administrative",
+      "way_area": "0.00225688",
+      "wikidata": "Q2887",
+      "wikipedia": "en:Santiago",
+      "admin_level": "8",
+      "dpachile:id": "13101"
+    }
+  },
+  {
+    "osm_id": -164137,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1674530,-198848,-167454",
+    "name": "Peñalolén",
+    "local_name": "Peñalolén",
+    "name_en": null,
+    "all_tags": {
+      "name": "Peñalolén",
+      "boundary": "administrative",
+      "way_area": "0.00520238",
+      "wikidata": "Q51100",
+      "wikipedia": "es:Peñalolén",
+      "admin_level": "8",
+      "dpachile:id": "13122"
+    }
+  },
+  {
+    "osm_id": -164102,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1674530,-198848,-167454",
+    "name": "Quilicura",
+    "local_name": "Quilicura",
+    "name_en": null,
+    "all_tags": {
+      "name": "Quilicura",
+      "boundary": "administrative",
+      "way_area": "0.00552488",
+      "wikidata": "Q51612",
+      "wikipedia": "es:Quilicura",
+      "admin_level": "8",
+      "dpachile:id": "13125"
+    }
+  },
+  {
+    "osm_id": -164101,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1673446,-198848,-167454",
+    "name": "Colina",
+    "local_name": "Colina",
+    "name_en": null,
+    "all_tags": {
+      "name": "Colina",
+      "boundary": "administrative",
+      "way_area": "0.0939197",
+      "wikidata": "Q3841",
+      "wikipedia": "es:Colina (Chile)",
+      "admin_level": "8",
+      "dpachile:id": "13301"
+    }
+  },
+  {
+    "osm_id": -164091,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1674530,-198848,-167454",
+    "name": "Huechuraba",
+    "local_name": "Huechuraba",
+    "name_en": null,
+    "all_tags": {
+      "name": "Huechuraba",
+      "boundary": "administrative",
+      "way_area": "0.00435732",
+      "wikidata": "Q14433",
+      "wikipedia": "es:Huechuraba",
+      "admin_level": "8",
+      "dpachile:id": "13107"
+    }
+  },
+  {
+    "osm_id": -164090,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1674530,-198848,-167454",
+    "name": "Lo Barnechea",
+    "local_name": "Lo Barnechea",
+    "name_en": null,
+    "all_tags": {
+      "name": "Lo Barnechea",
+      "boundary": "administrative",
+      "way_area": "0.098982",
+      "wikidata": "Q14502",
+      "wikipedia": "es:Lo Barnechea",
+      "admin_level": "8",
+      "dpachile:id": "13115"
+    }
+  },
+  {
+    "osm_id": -162993,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1674530,-198848,-167454",
+    "name": "Ñuñoa",
+    "local_name": "Ñuñoa",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ñuñoa",
+      "boundary": "administrative",
+      "way_area": "0.00163955",
+      "wikidata": "Q201076",
+      "wikipedia": "es:Ñuñoa",
+      "admin_level": "8",
+      "dpachile:id": "13120"
+    }
+  },
+  {
+    "osm_id": -162992,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1674530,-198848,-167454",
+    "name": "La Reina",
+    "local_name": "La Reina",
+    "name_en": null,
+    "all_tags": {
+      "name": "La Reina",
+      "boundary": "administrative",
+      "way_area": "0.00229268",
+      "wikidata": "Q14466",
+      "wikipedia": "es:La Reina",
+      "admin_level": "8",
+      "dpachile:id": "13113"
+    }
+  },
+  {
+    "osm_id": -162991,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1674530,-198848,-167454",
+    "name": "Las Condes",
+    "local_name": "Las Condes",
+    "name_en": null,
+    "all_tags": {
+      "name": "Las Condes",
+      "boundary": "administrative",
+      "way_area": "0.00959399",
+      "wikidata": "Q14484",
+      "wikipedia": "es:Las Condes",
+      "admin_level": "8",
+      "dpachile:id": "13114"
+    }
+  },
+  {
+    "osm_id": -162990,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1674530,-198848,-167454",
+    "name": "Vitacura",
+    "local_name": "Vitacura",
+    "name_en": null,
+    "all_tags": {
+      "name": "Vitacura",
+      "boundary": "administrative",
+      "way_area": "0.00274227",
+      "wikidata": "Q201036",
+      "wikipedia": "es:Vitacura",
+      "admin_level": "8",
+      "dpachile:id": "13132"
+    }
+  },
+  {
+    "osm_id": -162984,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1674530,-198848,-167454",
+    "name": "Recoleta",
+    "local_name": "Recoleta",
+    "name_en": null,
+    "all_tags": {
+      "name": "Recoleta",
+      "boundary": "administrative",
+      "way_area": "0.00153697",
+      "wikidata": "Q56117",
+      "wikipedia": "es:Recoleta (Chile)",
+      "admin_level": "8",
+      "dpachile:id": "13127"
+    }
+  },
+  {
+    "osm_id": -162983,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1674530,-198848,-167454",
+    "name": "Providencia",
+    "local_name": "Providencia",
+    "name_en": null,
+    "all_tags": {
+      "name": "Providencia",
+      "boundary": "administrative",
+      "way_area": "0.00139939",
+      "wikidata": "Q51587",
+      "wikipedia": "es:Providencia (Chile)",
+      "admin_level": "8",
+      "dpachile:id": "13123"
+    }
+  },
+  {
+    "osm_id": -113227,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1671231,-198847,-167454",
+    "name": "Catemu",
+    "local_name": "Catemu",
+    "name_en": null,
+    "all_tags": {
+      "name": "Catemu",
+      "boundary": "administrative",
+      "way_area": "0.0352319",
+      "wikidata": "Q3747",
+      "wikipedia": "es:Catemu",
+      "admin_level": "8",
+      "dpachile:id": "05702"
+    }
+  },
+  {
+    "osm_id": -113226,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1671213,-198847,-167454",
+    "name": "La Calera",
+    "local_name": "La Calera",
+    "name_en": null,
+    "all_tags": {
+      "name": "La Calera",
+      "boundary": "administrative",
+      "way_area": "0.00721179",
+      "wikidata": "Q3713",
+      "wikipedia": "es:La Calera (Chile)",
+      "admin_level": "8",
+      "dpachile:id": "05502"
+    }
+  },
+  {
+    "osm_id": -113204,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1586777,-198847,-167454",
+    "name": "Cabildo",
+    "local_name": "Cabildo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cabildo",
+      "boundary": "administrative",
+      "way_area": "0.14018",
+      "wikidata": "Q3668",
+      "wikipedia": "es:Cabildo (Chile)",
+      "admin_level": "8",
+      "dpachile:id": "05402"
+    }
+  },
+  {
+    "osm_id": -113203,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1586777,-198847,-167454",
+    "name": "Papudo",
+    "local_name": "Papudo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Papudo",
+      "boundary": "administrative",
+      "way_area": "0.0159446",
+      "wikidata": "Q51079",
+      "wikipedia": "es:Papudo",
+      "admin_level": "8",
+      "dpachile:id": "05403"
+    }
+  },
+  {
+    "osm_id": -113201,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1586777,-198847,-167454",
+    "name": "La Ligua",
+    "local_name": "La Ligua",
+    "name_en": null,
+    "all_tags": {
+      "name": "La Ligua",
+      "name:ru": "Ла-Лигуа",
+      "boundary": "administrative",
+      "way_area": "0.111422",
+      "wikidata": "Q14463",
+      "wikipedia": "es:La Ligua",
+      "admin_level": "8",
+      "dpachile:id": "05401"
+    }
+  },
+  {
+    "osm_id": -113199,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1671213,-198847,-167454",
+    "name": "Nogales",
+    "local_name": "Nogales",
+    "name_en": null,
+    "all_tags": {
+      "name": "Nogales",
+      "boundary": "administrative",
+      "way_area": "0.0376302",
+      "wikidata": "Q51049",
+      "wikipedia": "es:Nogales (Chile)",
+      "admin_level": "8",
+      "dpachile:id": "05506"
+    }
+  },
+  {
+    "osm_id": -113197,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1671213,-198847,-167454",
+    "name": "La Cruz",
+    "local_name": "La Cruz",
+    "name_en": null,
+    "all_tags": {
+      "name": "La Cruz",
+      "boundary": "administrative",
+      "way_area": "0.00745768",
+      "wikidata": "Q14457",
+      "wikipedia": "es:La Cruz (Chile)",
+      "admin_level": "8",
+      "dpachile:id": "05504"
+    }
+  },
+  {
+    "osm_id": -113196,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1671213,-198847,-167454",
+    "name": "Quillota",
+    "local_name": "Quillota",
+    "name_en": null,
+    "all_tags": {
+      "name": "Quillota",
+      "boundary": "administrative",
+      "way_area": "0.0289944",
+      "wikidata": "Q56108",
+      "wikipedia": "es:Quillota",
+      "admin_level": "8",
+      "dpachile:id": "05501"
+    }
+  },
+  {
+    "osm_id": -113185,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1561140,-198847,-167454",
+    "name": "Olmué",
+    "local_name": "Olmué",
+    "name_en": null,
+    "all_tags": {
+      "name": "Olmué",
+      "boundary": "administrative",
+      "way_area": "0.0223725",
+      "wikidata": "Q51058",
+      "wikipedia": "es:Olmué",
+      "admin_level": "8",
+      "dpachile:id": "05803"
+    }
+  },
+  {
+    "osm_id": -113178,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1561140,-198847,-167454",
+    "name": "Limache",
+    "local_name": "Limache",
+    "name_en": null,
+    "all_tags": {
+      "name": "Limache",
+      "boundary": "administrative",
+      "way_area": "0.0285285",
+      "wikidata": "Q14493",
+      "wikipedia": "es:Limache",
+      "admin_level": "8",
+      "dpachile:id": "05802"
+    }
+  },
+  {
+    "osm_id": -112799,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1561140,-198847,-167454",
+    "name": "Villa Alemana",
+    "local_name": "Villa Alemana",
+    "name_en": null,
+    "all_tags": {
+      "name": "Villa Alemana",
+      "boundary": "administrative",
+      "way_area": "0.00929011",
+      "wikidata": "Q174744",
+      "wikipedia": "es:Villa Alemana",
+      "admin_level": "8",
+      "dpachile:id": "05804"
+    }
+  },
+  {
+    "osm_id": -112129,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1561037,-198847,-167454",
+    "name": "Casablanca",
+    "local_name": "Casablanca",
+    "name_en": null,
+    "all_tags": {
+      "name": "Casablanca",
+      "boundary": "administrative",
+      "way_area": "0.0899986",
+      "wikidata": "Q3742",
+      "wikipedia": "es:Casablanca (Chile)",
+      "admin_level": "8",
+      "dpachile:id": "05102"
+    }
+  },
+  {
+    "osm_id": -110808,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1561037,-198847,-167454",
+    "name": "Valparaíso",
+    "local_name": "Valparaíso",
+    "name_en": null,
+    "all_tags": {
+      "name": "Valparaíso",
+      "boundary": "administrative",
+      "way_area": "0.0310176",
+      "wikidata": "Q33986",
+      "wikipedia": "es:Valparaíso",
+      "admin_level": "8",
+      "dpachile:id": "05101"
+    }
+  },
+  {
+    "osm_id": -110807,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1561140,-198847,-167454",
+    "name": "Quilpué",
+    "local_name": "Quilpué",
+    "name_en": null,
+    "all_tags": {
+      "name": "Quilpué",
+      "boundary": "administrative",
+      "way_area": "0.0516835",
+      "wikidata": "Q56110",
+      "wikipedia": "es:Quilpué",
+      "admin_level": "8",
+      "dpachile:id": "05801"
+    }
+  },
+  {
+    "osm_id": -110804,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1561037,-198847,-167454",
+    "name": "Viña del Mar",
+    "local_name": "Viña del Mar",
+    "name_en": null,
+    "all_tags": {
+      "name": "Viña del Mar",
+      "name:ar": "فينيا ديل مار",
+      "boundary": "administrative",
+      "way_area": "0.0116225",
+      "wikidata": "Q184345",
+      "wikipedia": "es:Viña del Mar",
+      "admin_level": "8",
+      "alt_name:ar": "فينا دل مار",
+      "dpachile:id": "05109"
+    }
+  },
+  {
+    "osm_id": -110722,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1561037,-198847,-167454",
+    "name": "Concón",
+    "local_name": "Concón",
+    "name_en": null,
+    "all_tags": {
+      "name": "Concón",
+      "boundary": "administrative",
+      "way_area": "0.00726648",
+      "wikidata": "Q3860",
+      "wikipedia": "es:Concón",
+      "admin_level": "8",
+      "dpachile:id": "05103"
+    }
+  },
+  {
+    "osm_id": -110719,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1561037,-198847,-167454",
+    "name": "Quintero",
+    "local_name": "Quintero",
+    "name_en": null,
+    "all_tags": {
+      "name": "Quintero",
+      "boundary": "administrative",
+      "way_area": "0.01404",
+      "wikidata": "Q56114",
+      "wikipedia": "es:Quintero",
+      "admin_level": "8",
+      "dpachile:id": "05107"
+    }
+  },
+  {
+    "osm_id": -110713,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1586777,-198847,-167454",
+    "name": "Zapallar",
+    "local_name": "Zapallar",
+    "name_en": null,
+    "all_tags": {
+      "name": "Zapallar",
+      "boundary": "administrative",
+      "way_area": "0.027889",
+      "wikidata": "Q201064",
+      "wikipedia": "es:Zapallar",
+      "admin_level": "8",
+      "dpachile:id": "05405"
+    }
+  },
+  {
+    "osm_id": -110710,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1561037,-198847,-167454",
+    "name": "Puchuncaví",
+    "local_name": "Puchuncaví",
+    "name_en": null,
+    "all_tags": {
+      "name": "Puchuncaví",
+      "boundary": "administrative",
+      "way_area": "0.0288442",
+      "wikidata": "Q51588",
+      "wikipedia": "es:Puchuncaví",
+      "admin_level": "8",
+      "dpachile:id": "05105"
+    }
+  },
+  {
+    "osm_id": -109577,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1674530,-198848,-167454",
+    "name": "Renca",
+    "local_name": "Renca",
+    "name_en": null,
+    "all_tags": {
+      "name": "Renca",
+      "boundary": "administrative",
+      "way_area": "0.00229669",
+      "wikidata": "Q56119",
+      "wikipedia": "es:Renca (Chile)",
+      "admin_level": "8",
+      "dpachile:id": "13128"
+    }
+  }
+]

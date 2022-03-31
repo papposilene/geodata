@@ -55,7 +55,7 @@ class GeodataServiceProvider extends ServiceProvider
         $this->publishes([
             __DIR__ . '/../data/countries/all_countries.json' => storage_path('data/geodata/countries/countries.json'),
             __DIR__ . '/../data/administrative-levels' => storage_path('data/geodata/administrative-levels'),
-            __DIR__ . '/../data/cities/default' => storage_path('data/geodata/cities'),
+            __DIR__ . '/../data/cities' => storage_path('data/geodata/cities'),
             __DIR__ . '/../data/flags' => public_path('img/svg/flags'),
         ], 'geodata-data');
     }

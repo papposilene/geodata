@@ -1,0 +1,140 @@
+[
+  {
+    "osm_id": -13731297,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-10743276,-2932285,-2108121",
+    "name": "Ulu Kelang",
+    "local_name": "Ulu Kelang",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ulu Kelang",
+      "alt_name": "Mukim Ulu Kelang",
+      "boundary": "administrative",
+      "way_area": "0.00851833",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13731296,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-10743276,-2932285,-2108121",
+    "name": "Ampang",
+    "local_name": "Ampang",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ampang",
+      "alt_name": "Mukim Ampang",
+      "boundary": "administrative",
+      "way_area": "0.00280356",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -12573878,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-12573879,-4444411,-2108121",
+    "name": "Pulau Redang",
+    "local_name": "Pulau Redang",
+    "name_en": null,
+    "all_tags": {
+      "name": "Pulau Redang",
+      "boundary": "administrative",
+      "way_area": "0.00236333",
+      "wikidata": "Q7392309",
+      "wikipedia": "ms:Mukim Pulau Redang",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -12499931,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-12499933,-4445076,-2108121",
+    "name": "Hulu Bernam Barat",
+    "local_name": "Hulu Bernam Barat",
+    "name_en": null,
+    "all_tags": {
+      "name": "Hulu Bernam Barat",
+      "alt_name": "Ulu Bernam Barat",
+      "boundary": "administrative",
+      "way_area": "0.0130019",
+      "wikidata": "Q12698347",
+      "wikipedia": "ms:Mukim Hulu Bernam Barat",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -12333027,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-10744374,-4444595,-2108121",
+    "name": "Tioman",
+    "local_name": "Tioman",
+    "name_en": null,
+    "all_tags": {
+      "name": "Tioman",
+      "boundary": "administrative",
+      "way_area": "0.0118218",
+      "wikidata": "Q20461824",
+      "wikipedia": "ms:Mukim Tioman",
+      "admin_level": "8",
+      "official_name": "Mukim Tioman"
+    }
+  },
+  {
+    "osm_id": -12226928,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-7374838,-4447619,-4445131,-2108121",
+    "name": "Mukim 16",
+    "local_name": "Mukim 16",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mukim 16",
+      "alt_name": "Mukim 16, Seberang Perai Selatan;Mukim Enam Belas",
+      "boundary": "administrative",
+      "way_area": "9.21823e-05",
+      "wikidata": "Q12698257",
+      "wikipedia": "ms:Mukim 16, Daerah Seberang Perai Selatan",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11277900,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2108121",
+    "name": "Cheras",
+    "local_name": "Cheras",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cheras",
+      "name:zh": "蕉赖",
+      "boundary": "administrative",
+      "way_area": "0.00633664",
+      "wikidata": "Q1087831",
+      "wikipedia": "en:Cheras, Kuala Lumpur",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -10043206,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-10743315,-2932285,-2108121",
+    "name": "Cyberjaya",
+    "local_name": "Cyberjaya",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cyberjaya",
+      "boundary": "administrative",
+      "way_area": "0.00222157",
+      "wikidata": "Q1147163",
+      "wikipedia": "en:Cyberjaya",
+      "admin_level": "8"
+    }
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "osm_id": -13389181,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-13392622,-3338140,-9721653,-192798",
+    "name": "Kegogi",
+    "local_name": "Kegogi",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kegogi",
+      "boundary": "administrative",
+      "way_area": "0.00176204",
+      "wikidata": "Q6418658",
+      "land_area": "administrative",
+      "wikipedia": "en:Kitutu Chache Constituency",
+      "start_date": "2017-11-03",
+      "admin_level": "8",
+      "border_type": "ward",
+      "is_in:county": "Kisii",
+      "admin_type:KE": "ward",
+      "is_in:subcounty": "Kitutu Chache North"
+    }
+  },
+  {
+    "osm_id": -13389180,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-13392622,-3338140,-9721653,-192798",
+    "name": "Ngenyi",
+    "local_name": "Ngenyi",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ngenyi",
+      "boundary": "administrative",
+      "way_area": "0.00318847",
+      "land_area": "administrative",
+      "wikipedia": "en:Kitutu Chache Constituency",
+      "start_date": "2017-11-03",
+      "admin_level": "8",
+      "border_type": "ward",
+      "is_in:county": "Kisii",
+      "admin_type:KE": "ward",
+      "is_in:subcounty": "Kitutu Chache North"
+    }
+  }
+]

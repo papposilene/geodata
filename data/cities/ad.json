@@ -1,0 +1,40 @@
+[
+  {
+    "osm_id": -3657694,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2804753,-9407",
+    "name": "Santa Coloma",
+    "local_name": "Santa Coloma",
+    "name_en": null,
+    "all_tags": {
+      "name": "Santa Coloma",
+      "name:ca": "Santa Coloma",
+      "name:ru": "Санта-Колома",
+      "boundary": "administrative",
+      "way_area": "7.24911e-05",
+      "wikidata": "Q24597",
+      "wikipedia": "ca:Santa Coloma d'Andorra",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3657693,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2804753,-9407",
+    "name": "Andorra la Vella",
+    "local_name": "Andorra la Vella",
+    "name_en": null,
+    "all_tags": {
+      "name": "Andorra la Vella",
+      "name:ca": "Andorra la Vella",
+      "name:ru": "Андорра-ла-Велья",
+      "boundary": "administrative",
+      "way_area": "0.000183299",
+      "wikidata": "Q1863",
+      "wikipedia": "ca:Andorra la Vella",
+      "admin_level": "8"
+    }
+  }
+]

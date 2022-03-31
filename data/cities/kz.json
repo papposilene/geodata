@@ -1,0 +1,2180 @@
+[
+  {
+    "osm_id": -13277735,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3397458,-215683,-214665",
+    "name": "Жиренкопинський сільський округ",
+    "local_name": "Жиренкопинський сільський округ",
+    "name_en": null,
+    "all_tags": {
+      "name": "Жиренкопинський сільський округ",
+      "boundary": "administrative",
+      "way_area": "0.124998",
+      "wikidata": "Q20098404",
+      "wikipedia": "uk:Жиренкопинський сільський округ",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13277484,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3397458,-215683,-214665",
+    "name": "Согалинський сільський округ",
+    "local_name": "Согалинський сільський округ",
+    "name_en": null,
+    "all_tags": {
+      "name": "Согалинський сільський округ",
+      "boundary": "administrative",
+      "way_area": "0.0754041",
+      "wikidata": "Q22201953",
+      "wikipedia": "uk:Согалинський сільський округ",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13196453,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3395769,-215699,-214665",
+    "name": "Куйбышевский сельский округ",
+    "local_name": "Куйбышевский сельский округ",
+    "name_en": null,
+    "all_tags": {
+      "name": "Куйбышевский сельский округ",
+      "name:ru": "Куйбышевский сельский округ",
+      "boundary": "administrative",
+      "way_area": "0.0439427",
+      "addr:region": "Восточно-Казахстанская область",
+      "admin_level": "8",
+      "addr:country": "KZ",
+      "addr:district": "Глубоковский район"
+    }
+  },
+  {
+    "osm_id": -13196452,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3395769,-215699,-214665",
+    "name": "Секисовский сельский округ",
+    "local_name": "Секисовский сельский округ",
+    "name_en": null,
+    "all_tags": {
+      "name": "Секисовский сельский округ",
+      "name:ru": "Секисовский сельский округ",
+      "boundary": "administrative",
+      "way_area": "0.0310038",
+      "addr:region": "Восточно-Казахстанская область",
+      "admin_level": "8",
+      "addr:country": "KZ",
+      "addr:district": "Глубоковский район"
+    }
+  },
+  {
+    "osm_id": -13166778,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3395769,-215699,-214665",
+    "name": "Черемшанский сельский округ",
+    "local_name": "Черемшанский сельский округ",
+    "name_en": null,
+    "all_tags": {
+      "name": "Черемшанский сельский округ",
+      "name:ru": "Черемшанский сельский округ",
+      "boundary": "administrative",
+      "way_area": "0.116909",
+      "addr:region": "Восточно-Казахстанская область",
+      "admin_level": "8",
+      "addr:country": "KZ",
+      "addr:district": "Глубоковский район"
+    }
+  },
+  {
+    "osm_id": -13166777,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3395769,-215699,-214665",
+    "name": "Малоубинский сельский округ",
+    "local_name": "Малоубинский сельский округ",
+    "name_en": null,
+    "all_tags": {
+      "name": "Малоубинский сельский округ",
+      "name:ru": "Малоубинский сельский округ",
+      "boundary": "administrative",
+      "way_area": "0.376291",
+      "addr:region": "Восточно-Казахстанская область",
+      "admin_level": "8",
+      "addr:country": "KZ",
+      "addr:district": "Глубоковский район"
+    }
+  },
+  {
+    "osm_id": -13139771,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3395769,-215699,-214665",
+    "name": "Тарханский сельский округ",
+    "local_name": "Тарханский сельский округ",
+    "name_en": null,
+    "all_tags": {
+      "name": "Тарханский сельский округ",
+      "name:ru": "Тарханский сельский округ",
+      "alt_name": "Фрунзенский сельский округ",
+      "boundary": "administrative",
+      "old_name": "Фрунзенский сельский округ",
+      "way_area": "0.134394",
+      "addr:region": "Восточно-Казахстанская область",
+      "admin_level": "8",
+      "old_name:ru": "Фрунзенский сельский округ",
+      "addr:country": "KZ",
+      "addr:district": "Глубоковский район"
+    }
+  },
+  {
+    "osm_id": -10956369,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3395778,-215699,-214665",
+    "name": "Шемонаихинская городская администрация",
+    "local_name": "Шемонаихинская городская администрация",
+    "name_en": null,
+    "all_tags": {
+      "name": "Шемонаихинская городская администрация",
+      "name:ru": "Шемонаихинская городская администрация",
+      "boundary": "administrative",
+      "way_area": "0.00774941",
+      "addr:region": "Восточно-Казахстанская область",
+      "admin_level": "8",
+      "addr:country": "KZ",
+      "addr:district": "Шемонаихинский район"
+    }
+  },
+  {
+    "osm_id": -9713930,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3389552,-215699,-214665",
+    "name": "Мурат",
+    "local_name": "Мурат",
+    "name_en": null,
+    "all_tags": {
+      "name": "Мурат",
+      "boundary": "administrative",
+      "way_area": "5.81923e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -9210129,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2830447,-215760,-214665",
+    "name": "сельский округ Шагалалы",
+    "local_name": "сельский округ Шагалалы",
+    "name_en": null,
+    "all_tags": {
+      "name": "сельский округ Шагалалы",
+      "name:ru": "сельский округ Шагалалы",
+      "boundary": "administrative",
+      "way_area": "0.0404316",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -9210072,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2830447,-215760,-214665",
+    "name": "Полтавский сельский округ",
+    "local_name": "Полтавский сельский округ",
+    "name_en": null,
+    "all_tags": {
+      "name": "Полтавский сельский округ",
+      "name:ru": "Полтавский сельский округ",
+      "boundary": "administrative",
+      "way_area": "0.0582948",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -9210071,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2830447,-215760,-214665",
+    "name": "Ивановский сельский округ",
+    "local_name": "Ивановский сельский округ",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ивановский сельский округ",
+      "name:ru": "Ивановский сельский округ",
+      "boundary": "administrative",
+      "way_area": "0.0637247",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8487582,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3395771,-215699,-214665",
+    "name": "Goluboj zaliv",
+    "local_name": "Голубой Залив",
+    "name_en": "Goluboj zaliv",
+    "all_tags": {
+      "name": "Голубой Залив",
+      "place": "village",
+      "landuse": "residential",
+      "leisure": "resort",
+      "name:en": "Goluboj zaliv",
+      "name:kk": "Көгілдіршығанақ демалыс үйі",
+      "name:ru": "Голубой Залив",
+      "boundary": "administrative",
+      "way_area": "4.06186e-05",
+      "wikidata": "Q19615106",
+      "wikipedia": "kk:Көгілдір шығанақ демалыс үйі",
+      "population": "59",
+      "addr:region": "Восточно-Казахстанская область",
+      "admin_level": "8",
+      "addr:country": "KZ",
+      "addr:district": "Алтайский район"
+    }
+  },
+  {
+    "osm_id": -8133760,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3395778,-215699,-214665",
+    "name": "Верх-Убинский сельский округ",
+    "local_name": "Верх-Убинский сельский округ",
+    "name_en": null,
+    "all_tags": {
+      "name": "Верх-Убинский сельский округ",
+      "name:ru": "Верх-Убинский сельский округ",
+      "boundary": "administrative",
+      "way_area": "0.0305726",
+      "addr:region": "Восточно-Казахстанская область",
+      "admin_level": "8",
+      "addr:country": "KZ",
+      "addr:district": "Шемонаихинский район"
+    }
+  },
+  {
+    "osm_id": -8133759,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3395778,-215699,-214665",
+    "name": "Первомайский сельский округ",
+    "local_name": "Первомайский сельский округ",
+    "name_en": null,
+    "all_tags": {
+      "name": "Первомайский сельский округ",
+      "name:ru": "Первомайский сельский округ",
+      "alt_name": "Первомайский поселковый округ",
+      "boundary": "administrative",
+      "way_area": "0.0224876",
+      "addr:region": "Восточно-Казахстанская область",
+      "admin_level": "8",
+      "addr:country": "KZ",
+      "addr:district": "Шемонаихинский район"
+    }
+  },
+  {
+    "osm_id": -8133758,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3395778,-215699,-214665",
+    "name": "Зевакинский сельский округ",
+    "local_name": "Зевакинский сельский округ",
+    "name_en": null,
+    "all_tags": {
+      "name": "Зевакинский сельский округ",
+      "name:ru": "Зевакинский сельский округ",
+      "boundary": "administrative",
+      "way_area": "0.0493345",
+      "addr:region": "Восточно-Казахстанская область",
+      "admin_level": "8",
+      "addr:country": "KZ",
+      "addr:district": "Шемонаихинский район"
+    }
+  },
+  {
+    "osm_id": -8133757,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3395778,-215699,-214665",
+    "name": "Выдрихинский сельский округ",
+    "local_name": "Выдрихинский сельский округ",
+    "name_en": null,
+    "all_tags": {
+      "name": "Выдрихинский сельский округ",
+      "name:ru": "Выдрихинский сельский округ",
+      "boundary": "administrative",
+      "way_area": "0.0480857",
+      "addr:region": "Восточно-Казахстанская область",
+      "admin_level": "8",
+      "addr:country": "KZ",
+      "addr:district": "Шемонаихинский район"
+    }
+  },
+  {
+    "osm_id": -8133756,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3395778,-215699,-214665",
+    "name": "Каменевский сельский округ",
+    "local_name": "Каменевский сельский округ",
+    "name_en": null,
+    "all_tags": {
+      "name": "Каменевский сельский округ",
+      "name:ru": "Каменевский сельский округ",
+      "boundary": "administrative",
+      "way_area": "0.0485851",
+      "addr:region": "Восточно-Казахстанская область",
+      "admin_level": "8",
+      "addr:country": "KZ",
+      "addr:district": "Шемонаихинский район"
+    }
+  },
+  {
+    "osm_id": -8133755,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3395778,-215699,-214665",
+    "name": "Усть-Таловский поселковый округ",
+    "local_name": "Усть-Таловский поселковый округ",
+    "name_en": null,
+    "all_tags": {
+      "name": "Усть-Таловский поселковый округ",
+      "name:ru": "Усть-Таловский поселковый округ",
+      "alt_name": "Усть-Таловский сельский округ",
+      "boundary": "administrative",
+      "way_area": "0.0131155",
+      "addr:region": "Восточно-Казахстанская область",
+      "admin_level": "8",
+      "addr:country": "KZ",
+      "addr:district": "Шемонаихинский район"
+    }
+  },
+  {
+    "osm_id": -8133754,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3395778,-215699,-214665",
+    "name": "Вавилонский сельский округ",
+    "local_name": "Вавилонский сельский округ",
+    "name_en": null,
+    "all_tags": {
+      "name": "Вавилонский сельский округ",
+      "name:ru": "Вавилонский сельский округ",
+      "boundary": "administrative",
+      "way_area": "0.0330974",
+      "addr:region": "Восточно-Казахстанская область",
+      "admin_level": "8",
+      "addr:country": "KZ",
+      "addr:district": "Шемонаихинский район"
+    }
+  },
+  {
+    "osm_id": -8133753,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3395778,-215699,-214665",
+    "name": "Октябрьский сельский округ",
+    "local_name": "Октябрьский сельский округ",
+    "name_en": null,
+    "all_tags": {
+      "name": "Октябрьский сельский округ",
+      "name:ru": "Октябрьский сельский округ",
+      "boundary": "administrative",
+      "way_area": "0.0228692",
+      "addr:region": "Восточно-Казахстанская область",
+      "admin_level": "8",
+      "addr:country": "KZ",
+      "addr:district": "Шемонаихинский район"
+    }
+  },
+  {
+    "osm_id": -8133752,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3395778,-215699,-214665",
+    "name": "Разинский сельский округ",
+    "local_name": "Разинский сельский округ",
+    "name_en": null,
+    "all_tags": {
+      "name": "Разинский сельский округ",
+      "name:ru": "Разинский сельский округ",
+      "boundary": "administrative",
+      "way_area": "0.0338561",
+      "addr:region": "Восточно-Казахстанская область",
+      "admin_level": "8",
+      "addr:country": "KZ",
+      "addr:district": "Шемонаихинский район"
+    }
+  },
+  {
+    "osm_id": -8133751,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3395778,-215699,-214665",
+    "name": "Волчанский сельский округ",
+    "local_name": "Волчанский сельский округ",
+    "name_en": null,
+    "all_tags": {
+      "name": "Волчанский сельский округ",
+      "name:ru": "Волчанский сельский округ",
+      "boundary": "administrative",
+      "way_area": "0.197445",
+      "addr:region": "Восточно-Казахстанская область",
+      "admin_level": "8",
+      "addr:country": "KZ",
+      "addr:district": "Шемонаихинский район"
+    }
+  },
+  {
+    "osm_id": -6196387,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3403954,-215743,-214665",
+    "name": "Никольский сельский округ",
+    "local_name": "Никольский сельский округ",
+    "name_en": null,
+    "all_tags": {
+      "name": "Никольский сельский округ",
+      "boundary": "administrative",
+      "way_area": "0.033451",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -6196386,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3403954,-215743,-214665",
+    "name": "Капитоновский сельский округ",
+    "local_name": "Капитоновский сельский округ",
+    "name_en": null,
+    "all_tags": {
+      "name": "Капитоновский сельский округ",
+      "boundary": "administrative",
+      "way_area": "0.0622791",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -6196385,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3403954,-215743,-214665",
+    "name": "Даниловский сельский округ",
+    "local_name": "Даниловский сельский округ",
+    "name_en": null,
+    "all_tags": {
+      "name": "Даниловский сельский округ",
+      "boundary": "administrative",
+      "way_area": "0.0696748",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -6195581,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3403954,-215743,-214665",
+    "name": "Журавлевский сельский округ",
+    "local_name": "Журавлевский сельский округ",
+    "name_en": null,
+    "all_tags": {
+      "name": "Журавлевский сельский округ",
+      "boundary": "administrative",
+      "way_area": "0.0731395",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -6195580,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3403954,-215743,-214665",
+    "name": "Новобратский сельский округ",
+    "local_name": "Новобратский сельский округ",
+    "name_en": null,
+    "all_tags": {
+      "name": "Новобратский сельский округ",
+      "boundary": "administrative",
+      "way_area": "0.0527789",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -6195579,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3403954,-215743,-214665",
+    "name": "Карамышевский сельский округ",
+    "local_name": "Карамышевский сельский округ",
+    "name_en": null,
+    "all_tags": {
+      "name": "Карамышевский сельский округ",
+      "boundary": "administrative",
+      "way_area": "0.0897442",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -6195578,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3403954,-215743,-214665",
+    "name": "Амангельдинский сельский округ",
+    "local_name": "Амангельдинский сельский округ",
+    "name_en": null,
+    "all_tags": {
+      "name": "Амангельдинский сельский округ",
+      "boundary": "administrative",
+      "way_area": "0.0490952",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -6195577,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3403954,-215743,-214665",
+    "name": "Айнакольский сельский округ",
+    "local_name": "Айнакольский сельский округ",
+    "name_en": null,
+    "all_tags": {
+      "name": "Айнакольский сельский округ",
+      "boundary": "administrative",
+      "way_area": "0.037494",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -6190681,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3403954,-215743,-214665",
+    "name": "Ергольский сельский округ",
+    "local_name": "Ергольский сельский округ",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ергольский сельский округ",
+      "boundary": "administrative",
+      "way_area": "0.0655231",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -6190680,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3403954,-215743,-214665",
+    "name": "Вознесенский сельский округ",
+    "local_name": "Вознесенский сельский округ",
+    "name_en": null,
+    "all_tags": {
+      "name": "Вознесенский сельский округ",
+      "boundary": "administrative",
+      "way_area": "0.0527974",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -6187891,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3403954,-215743,-214665",
+    "name": "Караузекский сельский округ",
+    "local_name": "Караузекский сельский округ",
+    "name_en": null,
+    "all_tags": {
+      "name": "Караузекский сельский округ",
+      "boundary": "administrative",
+      "way_area": "0.0210541",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -6122771,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3403954,-215743,-214665",
+    "name": "Makinsk",
+    "local_name": "Макинск",
+    "name_en": "Makinsk",
+    "all_tags": {
+      "name": "Макинск",
+      "place": "town",
+      "name:en": "Makinsk",
+      "name:kk": "Макинск",
+      "name:ru": "Макинск",
+      "boundary": "administrative",
+      "way_area": "0.00641673",
+      "addr:region": "Акмолинская область",
+      "admin_level": "8",
+      "addr:country": "KZ",
+      "addr:district": "Буландынский район",
+      "addr:postcode": "020500"
+    }
+  },
+  {
+    "osm_id": -5536529,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2068946,-1288730,-214665",
+    "name": "Качарская поселковая администрация",
+    "local_name": "Качарская поселковая администрация",
+    "name_en": null,
+    "all_tags": {
+      "name": "Качарская поселковая администрация",
+      "name:kk": "Қашар кенттік әкімшілік",
+      "name:ru": "Качарская поселковая администрация",
+      "boundary": "administrative",
+      "way_area": "0.0170739",
+      "addr:region": "Костанайская область",
+      "admin_level": "8",
+      "addr:country": "KZ",
+      "addr:district": "Рудный Г.А."
+    }
+  },
+  {
+    "osm_id": -5536528,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2068946,-1288730,-214665",
+    "name": "Горняцкая поселковая администрация",
+    "local_name": "Горняцкая поселковая администрация",
+    "name_en": null,
+    "all_tags": {
+      "name": "Горняцкая поселковая администрация",
+      "name:kk": "Горняк кенттік әкімшілік",
+      "name:ru": "Горняцкая поселковая администрация",
+      "boundary": "administrative",
+      "way_area": "0.00239118",
+      "addr:region": "Костанайская область",
+      "admin_level": "8",
+      "addr:country": "KZ",
+      "addr:district": "Рудный Г.А."
+    }
+  },
+  {
+    "osm_id": -5524713,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2067328,-1288730,-214665",
+    "name": "Житикара",
+    "local_name": "Житикара",
+    "name_en": null,
+    "all_tags": {
+      "name": "Житикара",
+      "place": "town",
+      "name:kk": "Жітіқара",
+      "name:ru": "Житикара",
+      "boundary": "administrative",
+      "way_area": "0.0138856",
+      "wikidata": "Q1018868",
+      "wikipedia": "kk:Жітіқара",
+      "addr:region": "Костанайская область",
+      "admin_level": "8",
+      "addr:country": "KZ",
+      "addr:district": "Житикаринский район",
+      "addr:postcode": "110700"
+    }
+  },
+  {
+    "osm_id": -5522657,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2068896,-1288730,-214665",
+    "name": "Шилинский сельский округ",
+    "local_name": "Шилинский сельский округ",
+    "name_en": null,
+    "all_tags": {
+      "name": "Шилинский сельский округ",
+      "name:kk": "Шилі селолық округ",
+      "name:ru": "Шилинский сельский округ",
+      "boundary": "administrative",
+      "way_area": "0.0937243",
+      "addr:region": "Костанайская область",
+      "admin_level": "8",
+      "addr:country": "KZ",
+      "addr:district": "Наурзумский район"
+    }
+  },
+  {
+    "osm_id": -5522656,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2068896,-1288730,-214665",
+    "name": "Улендинская сельская администрация",
+    "local_name": "Улендинская сельская администрация",
+    "name_en": null,
+    "all_tags": {
+      "name": "Улендинская сельская администрация",
+      "name:kk": "Өлеңді селолық әкімшілік",
+      "name:ru": "Улендинская сельская администрация",
+      "boundary": "administrative",
+      "way_area": "0.220679",
+      "addr:region": "Костанайская область",
+      "admin_level": "8",
+      "addr:country": "KZ",
+      "addr:district": "Наурзумский район"
+    }
+  },
+  {
+    "osm_id": -5522655,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2068896,-1288730,-214665",
+    "name": "Кожинская сельская администрация",
+    "local_name": "Кожинская сельская администрация",
+    "name_en": null,
+    "all_tags": {
+      "name": "Кожинская сельская администрация",
+      "name:kk": "Қожа селолық әкімшілік",
+      "name:ru": "Кожинская сельская администрация",
+      "boundary": "administrative",
+      "way_area": "0.294697",
+      "addr:region": "Костанайская область",
+      "admin_level": "8",
+      "addr:country": "KZ",
+      "addr:district": "Наурзумский район"
+    }
+  },
+  {
+    "osm_id": -5522647,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2068896,-1288730,-214665",
+    "name": "Дамдинский сельский округ",
+    "local_name": "Дамдинский сельский округ",
+    "name_en": null,
+    "all_tags": {
+      "name": "Дамдинский сельский округ",
+      "name:kk": "Дәмді селолық округ",
+      "name:ru": "Дамдинский сельский округ",
+      "boundary": "administrative",
+      "way_area": "0.356572",
+      "addr:region": "Костанайская область",
+      "admin_level": "8",
+      "addr:country": "KZ",
+      "addr:district": "Наурзумский район"
+    }
+  },
+  {
+    "osm_id": -5522646,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2068896,-1288730,-214665",
+    "name": "Буревестнинская сельская администрация",
+    "local_name": "Буревестнинская сельская администрация",
+    "name_en": null,
+    "all_tags": {
+      "name": "Буревестнинская сельская администрация",
+      "name:kk": "Буревестник селолық әкімшілік",
+      "name:ru": "Буревестнинская сельская администрация",
+      "boundary": "administrative",
+      "way_area": "0.568505",
+      "addr:region": "Костанайская область",
+      "admin_level": "8",
+      "addr:country": "KZ",
+      "addr:district": "Наурзумский район"
+    }
+  },
+  {
+    "osm_id": -5522632,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2068896,-1288730,-214665",
+    "name": "Шолаксайская сельская администрация",
+    "local_name": "Шолаксайская сельская администрация",
+    "name_en": null,
+    "all_tags": {
+      "name": "Шолаксайская сельская администрация",
+      "name:kk": "Шолақсай селолық әкімшілік",
+      "name:ru": "Шолаксайская сельская администрация",
+      "boundary": "administrative",
+      "way_area": "0.121408",
+      "addr:region": "Костанайская область",
+      "admin_level": "8",
+      "addr:country": "KZ",
+      "addr:district": "Наурзумский район"
+    }
+  },
+  {
+    "osm_id": -5522631,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2068896,-1288730,-214665",
+    "name": "Раздольный сельский округ",
+    "local_name": "Раздольный сельский округ",
+    "name_en": null,
+    "all_tags": {
+      "name": "Раздольный сельский округ",
+      "name:kk": "Раздольный селолық округ",
+      "name:ru": "Раздольный сельский округ",
+      "boundary": "administrative",
+      "way_area": "0.175707",
+      "addr:region": "Костанайская область",
+      "admin_level": "8",
+      "addr:country": "KZ",
+      "addr:district": "Наурзумский район"
+    }
+  },
+  {
+    "osm_id": -5522630,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2068896,-1288730,-214665",
+    "name": "Карамендинский сельский округ",
+    "local_name": "Карамендинский сельский округ",
+    "name_en": null,
+    "all_tags": {
+      "name": "Карамендинский сельский округ",
+      "name:kk": "Қарамеңді селолық округ",
+      "name:ru": "Карамендинский сельский округ",
+      "boundary": "administrative",
+      "way_area": "0.150087",
+      "addr:region": "Костанайская область",
+      "admin_level": "8",
+      "addr:country": "KZ",
+      "addr:district": "Наурзумский район"
+    }
+  },
+  {
+    "osm_id": -5515518,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-222955,-215686,-214665",
+    "name": "Форт-Шевченко",
+    "local_name": "Форт-Шевченко",
+    "name_en": null,
+    "all_tags": {
+      "name": "Форт-Шевченко",
+      "name:kk": "Форт-Шевченко",
+      "name:ru": "Форт-Шевченко",
+      "boundary": "administrative",
+      "way_area": "0.0492135",
+      "addr:region": "Мангистауская область",
+      "admin_level": "8",
+      "addr:country": "KZ",
+      "addr:district": "Тупкараганский район"
+    }
+  },
+  {
+    "osm_id": -5511640,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-5511683,-215776,-214665",
+    "name": "Abay",
+    "local_name": "Абайская г.а.",
+    "name_en": "Abay",
+    "all_tags": {
+      "name": "Абайская г.а.",
+      "name:en": "Abay",
+      "name:kk": "Абай қ.ә.",
+      "name:ru": "Абайская г.а.",
+      "boundary": "administrative",
+      "way_area": "0.00598639",
+      "wikidata": "Q304827",
+      "wikipedia": "ru:Абай (Абайский район)",
+      "population": "25550",
+      "addr:region": "Карагандинская область",
+      "admin_level": "8",
+      "addr:country": "KZ",
+      "addr:district": "Абайский район"
+    }
+  },
+  {
+    "osm_id": -5510865,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-5509366,-215727,-214665",
+    "name": "Казалинская г.а.",
+    "local_name": "Казалинская г.а.",
+    "name_en": null,
+    "all_tags": {
+      "name": "Казалинская г.а.",
+      "name:kk": "Қазалы қ.ә.",
+      "name:ru": "Казалинская г.а.",
+      "boundary": "administrative",
+      "way_area": "0.00489833",
+      "addr:region": "Кызылординская область",
+      "admin_level": "8",
+      "addr:country": "KZ",
+      "addr:district": "Казалинский район"
+    }
+  },
+  {
+    "osm_id": -5460116,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2830447,-215760,-214665",
+    "name": "Смирновский сельский округ",
+    "local_name": "Смирновский сельский округ",
+    "name_en": null,
+    "all_tags": {
+      "name": "Смирновский сельский округ",
+      "name:ru": "Смирновский сельский округ",
+      "boundary": "administrative",
+      "way_area": "0.0114903",
+      "addr:region": "Северо-Казахстанская область",
+      "admin_level": "8",
+      "addr:country": "KZ",
+      "addr:district": "Аккайынский район"
+    }
+  },
+  {
+    "osm_id": -5460115,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2830451,-215760,-214665",
+    "name": "Мамлютская г.а.",
+    "local_name": "Мамлютская г.а.",
+    "name_en": null,
+    "all_tags": {
+      "name": "Мамлютская г.а.",
+      "name:ru": "Мамлютская г.а.",
+      "boundary": "administrative",
+      "way_area": "0.00484814",
+      "addr:region": "Северо-Казахстанская область",
+      "admin_level": "8",
+      "addr:country": "KZ",
+      "addr:district": "Мамлютский район",
+      "addr:postcode": "150900"
+    }
+  },
+  {
+    "osm_id": -5140481,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2830451,-215760,-214665",
+    "name": "Становский сельский округ",
+    "local_name": "Становский сельский округ",
+    "name_en": null,
+    "all_tags": {
+      "name": "Становский сельский округ",
+      "boundary": "administrative",
+      "way_area": "0.0435301",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -5140480,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2830451,-215760,-214665",
+    "name": "Пригородный сельский округ",
+    "local_name": "Пригородный сельский округ",
+    "name_en": null,
+    "all_tags": {
+      "name": "Пригородный сельский округ",
+      "boundary": "administrative",
+      "way_area": "0.0348686",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -5140479,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2830451,-215760,-214665",
+    "name": "Новомихайловский сельский округ",
+    "local_name": "Новомихайловский сельский округ",
+    "name_en": null,
+    "all_tags": {
+      "name": "Новомихайловский сельский округ",
+      "boundary": "administrative",
+      "way_area": "0.0748749",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -5140478,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2830451,-215760,-214665",
+    "name": "Ленинский сельский округ",
+    "local_name": "Ленинский сельский округ",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ленинский сельский округ",
+      "boundary": "administrative",
+      "way_area": "0.0347952",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -5140477,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2830451,-215760,-214665",
+    "name": "Леденевский сельский округ",
+    "local_name": "Леденевский сельский округ",
+    "name_en": null,
+    "all_tags": {
+      "name": "Леденевский сельский округ",
+      "boundary": "administrative",
+      "way_area": "0.0299262",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -5140476,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2830451,-215760,-214665",
+    "name": "Кызыласкерский сельский округ",
+    "local_name": "Кызыласкерский сельский округ",
+    "name_en": null,
+    "all_tags": {
+      "name": "Кызыласкерский сельский округ",
+      "boundary": "administrative",
+      "way_area": "0.0469105",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -5140475,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2830451,-215760,-214665",
+    "name": "Краснозаменный сельский округ",
+    "local_name": "Краснозаменный сельский округ",
+    "name_en": null,
+    "all_tags": {
+      "name": "Краснозаменный сельский округ",
+      "boundary": "administrative",
+      "way_area": "0.0485477",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -5140474,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2830451,-215760,-214665",
+    "name": "Дубровинский сельский округ",
+    "local_name": "Дубровинский сельский округ",
+    "name_en": null,
+    "all_tags": {
+      "name": "Дубровинский сельский округ",
+      "boundary": "administrative",
+      "way_area": "0.069599",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -5140473,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2830451,-215760,-214665",
+    "name": "Воскресеновский сельский округ",
+    "local_name": "Воскресеновский сельский округ",
+    "name_en": null,
+    "all_tags": {
+      "name": "Воскресеновский сельский округ",
+      "boundary": "administrative",
+      "way_area": "0.0462565",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -5140472,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2830451,-215760,-214665",
+    "name": "Беловский сельский округ",
+    "local_name": "Беловский сельский округ",
+    "name_en": null,
+    "all_tags": {
+      "name": "Беловский сельский округ",
+      "boundary": "administrative",
+      "way_area": "0.0939219",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -5140471,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2830451,-215760,-214665",
+    "name": "Андреевский сельский округ",
+    "local_name": "Андреевский сельский округ",
+    "name_en": null,
+    "all_tags": {
+      "name": "Андреевский сельский округ",
+      "boundary": "administrative",
+      "way_area": "0.0422163",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3429007,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3395777,-215699,-214665",
+    "name": "Бахтинский сельский округ",
+    "local_name": "Бахтинский сельский округ",
+    "name_en": null,
+    "all_tags": {
+      "kato": "636441000",
+      "name": "Бахтинский сельский округ",
+      "boundary": "administrative",
+      "way_area": "0.000236295",
+      "addr:region": "Восточно-Казахстанская область",
+      "admin_level": "8",
+      "addr:country": "KZ",
+      "addr:district": "Урджарский район"
+    }
+  },
+  {
+    "osm_id": -3421666,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3395777,-215699,-214665",
+    "name": "Жогаргы Егинсуский сельский округ",
+    "local_name": "Жогаргы Егинсуский сельский округ",
+    "name_en": null,
+    "all_tags": {
+      "kato": "636477000",
+      "name": "Жогаргы Егинсуский сельский округ",
+      "name:kk": "Жоғарғы Егінсу а.о.",
+      "name:ru": "Жогаргы Егинсуский сельский округ",
+      "boundary": "administrative",
+      "way_area": "0.000166758",
+      "addr:region": "Восточно-Казахстанская область",
+      "admin_level": "8",
+      "addr:country": "KZ",
+      "addr:district": "Урджарский район"
+    }
+  },
+  {
+    "osm_id": -3406249,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3395777,-215699,-214665",
+    "name": "Makanchi",
+    "local_name": "Маканчи",
+    "name_en": "Makanchi",
+    "all_tags": {
+      "kato": "636473100",
+      "name": "Маканчи",
+      "place": "village",
+      "landuse": "residential",
+      "name:en": "Makanchi",
+      "name:kk": "Маканчи",
+      "name:ru": "Маканчи",
+      "boundary": "administrative",
+      "int_name": "Makanchi",
+      "way_area": "0.00117655",
+      "wikidata": "Q4275242",
+      "wikipedia": "ru:Маканчи",
+      "population": "35000",
+      "addr:region": "Восточно-Казахстанская область",
+      "admin_level": "8",
+      "addr:country": "KZ",
+      "addr:district": "Урджарский район",
+      "addr:subdistrict": "Маканчинский сельский округ"
+    }
+  },
+  {
+    "osm_id": -3404829,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3403895,-215743,-214665",
+    "name": "с.а. Селетинский",
+    "local_name": "с.а. Селетинский",
+    "name_en": null,
+    "all_tags": {
+      "name": "с.а. Селетинский",
+      "name:kk": "с.а. Сілеті",
+      "name:ru": "с.а. Селетинский",
+      "boundary": "administrative",
+      "way_area": "0.258545",
+      "addr:region": "Акмолинская область",
+      "admin_level": "8",
+      "addr:country": "KZ",
+      "addr:district": "Ерейментауский район"
+    }
+  },
+  {
+    "osm_id": -3404828,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3403895,-215743,-214665",
+    "name": "с.а. Изобильный",
+    "local_name": "с.а. Изобильный",
+    "name_en": null,
+    "all_tags": {
+      "name": "с.а. Изобильный",
+      "name:kk": "с.а. Изобильный",
+      "name:ru": "с.а. Изобильный",
+      "boundary": "administrative",
+      "was:name": "Изобильненский сельский округ",
+      "way_area": "0.190462",
+      "addr:region": "Акмолинская область",
+      "admin_level": "8",
+      "addr:country": "KZ",
+      "addr:district": "Степногорск Г.А.",
+      "was:addr:district": "Ерейментауский район"
+    }
+  },
+  {
+    "osm_id": -3404732,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3403437,-215743,-214665",
+    "name": "сельская администрация Кырыккудык",
+    "local_name": "сельская администрация Кырыккудык",
+    "name_en": null,
+    "all_tags": {
+      "name": "сельская администрация Кырыккудык",
+      "name:kk": "Қырыққұдық а.ә.",
+      "name:ru": "сельская администрация Кырыккудык",
+      "boundary": "administrative",
+      "was:name": "Черняковский сельский округ",
+      "way_area": "0.103135",
+      "addr:region": "Акмолинская область",
+      "admin_level": "8",
+      "addr:country": "KZ",
+      "addr:district": "Степногорск Г.А."
+    }
+  },
+  {
+    "osm_id": -3404731,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3404209,-215743,-214665",
+    "name": "Заводская поселковая администрация",
+    "local_name": "Заводская поселковая администрация",
+    "name_en": null,
+    "all_tags": {
+      "name": "Заводская поселковая администрация",
+      "name:kk": "Зауыт кенттік әкімшілік",
+      "name:ru": "Заводская поселковая администрация",
+      "boundary": "administrative",
+      "way_area": "0.0143191",
+      "addr:region": "Акмолинская область",
+      "admin_level": "8",
+      "addr:country": "KZ",
+      "addr:district": "Степногорск Г.А."
+    }
+  },
+  {
+    "osm_id": -3404730,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3403437,-215743,-214665",
+    "name": "Богембайский сельский округ",
+    "local_name": "Богембайский сельский округ",
+    "name_en": null,
+    "all_tags": {
+      "name": "Богембайский сельский округ",
+      "name:kk": "Бөгембай а.о.",
+      "name:ru": "Богембайский сельский округ",
+      "boundary": "administrative",
+      "way_area": "0.162493",
+      "addr:region": "Акмолинская область",
+      "admin_level": "8",
+      "addr:country": "KZ",
+      "addr:district": "Степногорск Г.А."
+    }
+  },
+  {
+    "osm_id": -3404729,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3404209,-215743,-214665",
+    "name": "Бестобинская поселковая администрация",
+    "local_name": "Бестобинская поселковая администрация",
+    "name_en": null,
+    "all_tags": {
+      "name": "Бестобинская поселковая администрация",
+      "name:kk": "Бестөбе к.ә.",
+      "name:ru": "Бестобинская поселковая администрация",
+      "boundary": "administrative",
+      "way_area": "0.0253599",
+      "addr:region": "Акмолинская область",
+      "admin_level": "8",
+      "addr:country": "KZ",
+      "addr:district": "Степногорск Г.А."
+    }
+  },
+  {
+    "osm_id": -3404728,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3404209,-215743,-214665",
+    "name": "Аксуская поселковая администрация",
+    "local_name": "Аксуская поселковая администрация",
+    "name_en": null,
+    "all_tags": {
+      "name": "Аксуская поселковая администрация",
+      "name:kk": "Ақсу к.ә.",
+      "name:ru": "Аксуская поселковая администрация",
+      "boundary": "administrative",
+      "way_area": "0.0103397",
+      "addr:region": "Акмолинская область",
+      "admin_level": "8",
+      "addr:country": "KZ",
+      "addr:district": "Степногорск Г.А."
+    }
+  },
+  {
+    "osm_id": -3404599,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3404209,-215743,-214665",
+    "name": "Карабулакская сельская администрация",
+    "local_name": "Карабулакская сельская администрация",
+    "name_en": null,
+    "all_tags": {
+      "name": "Карабулакская сельская администрация",
+      "name:kk": "Қарабұлақ  с.ә.",
+      "name:ru": "Карабулакская сельская администрация",
+      "boundary": "administrative",
+      "way_area": "0.149103",
+      "addr:region": "Акмолинская область",
+      "admin_level": "8",
+      "addr:country": "KZ",
+      "addr:district": "Степногорск Г.А."
+    }
+  },
+  {
+    "osm_id": -3392136,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3392135,-215718,-214665",
+    "name": "Еркинский сельский округ",
+    "local_name": "Еркинский сельский округ",
+    "name_en": null,
+    "all_tags": {
+      "name": "Еркинский сельский округ",
+      "boundary": "administrative",
+      "way_area": "0.000340013",
+      "addr:region": "Алматинская область",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3390993,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-5518210,-215718,-214665",
+    "name": "Каскеленская городская администрация",
+    "local_name": "Каскеленская городская администрация",
+    "name_en": null,
+    "all_tags": {
+      "kato": "195220000",
+      "name": "Каскеленская городская администрация",
+      "boundary": "administrative",
+      "way_area": "0.00202384",
+      "addr:region": "Алматинская область",
+      "admin_level": "8",
+      "addr:country": "KZ",
+      "addr:district": "Карасайский район"
+    }
+  },
+  {
+    "osm_id": -3389570,
+    "boundary": "historic",
+    "admin_level": 8,
+    "parents": "-3389569,-215699,-214665",
+    "name": "Меновновский сельский округ",
+    "local_name": "Меновновский сельский округ",
+    "name_en": null,
+    "all_tags": {
+      "name": "Меновновский сельский округ",
+      "name:ru": "Меновновский сельский округ",
+      "boundary": "historic",
+      "way_area": "0.0223469",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3388710,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3767383,-215441,-214665",
+    "name": "Oral",
+    "local_name": "Уральск",
+    "name_en": "Oral",
+    "all_tags": {
+      "name": "Уральск",
+      "place": "city",
+      "name:de": "Oral",
+      "name:en": "Oral",
+      "name:fr": "Oural",
+      "name:ja": "オラル",
+      "name:kk": "Орал",
+      "name:lt": "Oralas",
+      "name:ru": "Уральск",
+      "name:uk": "Уральськ",
+      "alt_name": "Орал",
+      "boundary": "administrative",
+      "int_name": "Uralsk",
+      "old_name": "Яик",
+      "way_area": "0.00949732",
+      "population": "211116",
+      "addr:region": "Западно-Казахстанская область",
+      "admin_level": "8",
+      "addr:country": "KZ",
+      "addr:district": "Уральск Г.А."
+    }
+  },
+  {
+    "osm_id": -3068164,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-5503599,-215718,-214665",
+    "name": "Панфилово",
+    "local_name": "Панфилово",
+    "name_en": null,
+    "all_tags": {
+      "name": "Панфилово",
+      "place": "village",
+      "boundary": "administrative",
+      "old_name": "имени Панфилова",
+      "way_area": "0.000523356",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3067836,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-215718,-214665",
+    "name": "Панфиловский сельский округ",
+    "local_name": "Панфиловский сельский округ",
+    "name_en": null,
+    "all_tags": {
+      "name": "Панфиловский сельский округ",
+      "boundary": "administrative",
+      "way_area": "0.0106669",
+      "addr:region": "Алматинская область",
+      "admin_level": "8",
+      "addr:country": "KZ",
+      "addr:district": "Талгарский район"
+    }
+  },
+  {
+    "osm_id": -2927232,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2830450,-215760,-214665",
+    "name": "Бескольский сельский округ",
+    "local_name": "Бескольский сельский округ",
+    "name_en": null,
+    "all_tags": {
+      "name": "Бескольский сельский округ",
+      "boundary": "administrative",
+      "way_area": "0.00455409",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -2911591,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2830450,-215760,-214665",
+    "name": "Якорский сельский округ",
+    "local_name": "Якорский сельский округ",
+    "name_en": null,
+    "all_tags": {
+      "name": "Якорский сельский округ",
+      "boundary": "administrative",
+      "way_area": "0.0290504",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -2911590,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2830450,-215760,-214665",
+    "name": "Светлопольский сельский округ",
+    "local_name": "Светлопольский сельский округ",
+    "name_en": null,
+    "all_tags": {
+      "name": "Светлопольский сельский округ",
+      "boundary": "administrative",
+      "way_area": "0.0452881",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -2911589,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2830450,-215760,-214665",
+    "name": "Рощинский сельский округ",
+    "local_name": "Рощинский сельский округ",
+    "name_en": null,
+    "all_tags": {
+      "name": "Рощинский сельский округ",
+      "boundary": "administrative",
+      "way_area": "0.027807",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -2911588,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2830450,-215760,-214665",
+    "name": "Прибрежный сельский округ",
+    "local_name": "Прибрежный сельский округ",
+    "name_en": null,
+    "all_tags": {
+      "name": "Прибрежный сельский округ",
+      "boundary": "administrative",
+      "way_area": "0.0415639",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -2911587,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2830450,-215760,-214665",
+    "name": "Петерфельдский сельский округ",
+    "local_name": "Петерфельдский сельский округ",
+    "name_en": null,
+    "all_tags": {
+      "name": "Петерфельдский сельский округ",
+      "boundary": "administrative",
+      "way_area": "0.0291762",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -2911586,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2830450,-215760,-214665",
+    "name": "Кызылжарский сельский округ",
+    "local_name": "Кызылжарский сельский округ",
+    "name_en": null,
+    "all_tags": {
+      "name": "Кызылжарский сельский округ",
+      "boundary": "administrative",
+      "way_area": "0.0574706",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -2911584,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2830450,-215760,-214665",
+    "name": "Асановский сельский округ",
+    "local_name": "Асановский сельский округ",
+    "name_en": null,
+    "all_tags": {
+      "name": "Асановский сельский округ",
+      "boundary": "administrative",
+      "way_area": "0.0398186",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -2911583,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2830450,-215760,-214665",
+    "name": "Архангельский сельский округ",
+    "local_name": "Архангельский сельский округ",
+    "name_en": null,
+    "all_tags": {
+      "name": "Архангельский сельский округ",
+      "boundary": "administrative",
+      "way_area": "0.0336861",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -2911490,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2830450,-215760,-214665",
+    "name": "Рассветский сельский округ",
+    "local_name": "Рассветский сельский округ",
+    "name_en": null,
+    "all_tags": {
+      "name": "Рассветский сельский округ",
+      "boundary": "administrative",
+      "way_area": "0.0486738",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -2911489,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2830450,-215760,-214665",
+    "name": "Новоникольский сельский округ",
+    "local_name": "Новоникольский сельский округ",
+    "name_en": null,
+    "all_tags": {
+      "name": "Новоникольский сельский округ",
+      "boundary": "administrative",
+      "way_area": "0.0441334",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -2911488,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2830450,-215760,-214665",
+    "name": "Куйбышевский сельский округ",
+    "local_name": "Куйбышевский сельский округ",
+    "name_en": null,
+    "all_tags": {
+      "name": "Куйбышевский сельский округ",
+      "boundary": "administrative",
+      "way_area": "0.0510158",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -2911437,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2830450,-215760,-214665",
+    "name": "Бугровский сельский округ",
+    "local_name": "Бугровский сельский округ",
+    "name_en": null,
+    "all_tags": {
+      "name": "Бугровский сельский округ",
+      "boundary": "administrative",
+      "way_area": "0.13071",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -2911432,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2830450,-215760,-214665",
+    "name": "Долматовский сельский округ",
+    "local_name": "Долматовский сельский округ",
+    "name_en": null,
+    "all_tags": {
+      "name": "Долматовский сельский округ",
+      "boundary": "administrative",
+      "way_area": "0.0235049",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -2911431,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2830450,-215760,-214665",
+    "name": "Вагулинский сельский округ",
+    "local_name": "Вагулинский сельский округ",
+    "name_en": null,
+    "all_tags": {
+      "name": "Вагулинский сельский округ",
+      "boundary": "administrative",
+      "way_area": "0.0516834",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -2911430,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2830450,-215760,-214665",
+    "name": "Березовский сельский округ",
+    "local_name": "Березовский сельский округ",
+    "name_en": null,
+    "all_tags": {
+      "name": "Березовский сельский округ",
+      "boundary": "administrative",
+      "way_area": "0.0497879",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -2911424,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2830450,-215760,-214665",
+    "name": "Соколовский сельский округ",
+    "local_name": "Соколовский сельский округ",
+    "name_en": null,
+    "all_tags": {
+      "name": "Соколовский сельский округ",
+      "boundary": "administrative",
+      "way_area": "0.00330043",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -2911423,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2830450,-215760,-214665",
+    "name": "Лесной сельский округ",
+    "local_name": "Лесной сельский округ",
+    "name_en": null,
+    "all_tags": {
+      "name": "Лесной сельский округ",
+      "boundary": "administrative",
+      "way_area": "0.0311596",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -2911407,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2830450,-215760,-214665",
+    "name": "Налобинский сельский округ",
+    "local_name": "Налобинский сельский округ",
+    "name_en": null,
+    "all_tags": {
+      "name": "Налобинский сельский округ",
+      "boundary": "administrative",
+      "way_area": "0.0588879",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -2911406,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2830450,-215760,-214665",
+    "name": "Виноградовский сельский округ",
+    "local_name": "Виноградовский сельский округ",
+    "name_en": null,
+    "all_tags": {
+      "name": "Виноградовский сельский округ",
+      "boundary": "administrative",
+      "way_area": "0.0493742",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -2837548,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2830448,-215760,-214665",
+    "name": "Ясновский сельский округ",
+    "local_name": "Ясновский сельский округ",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ясновский сельский округ",
+      "boundary": "administrative",
+      "old_name": "Аралагашский сельский округ",
+      "way_area": "0.0370514",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -2837547,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2830448,-215760,-214665",
+    "name": "Явленский сельский округ",
+    "local_name": "Явленский сельский округ",
+    "name_en": null,
+    "all_tags": {
+      "name": "Явленский сельский округ",
+      "boundary": "administrative",
+      "way_area": "0.00699217",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -2837546,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2830448,-215760,-214665",
+    "name": "Тарангульский сельский округ",
+    "local_name": "Тарангульский сельский округ",
+    "name_en": null,
+    "all_tags": {
+      "name": "Тарангульский сельский округ",
+      "boundary": "administrative",
+      "way_area": "0.0375875",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -2837545,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2830448,-215760,-214665",
+    "name": "Спасовский сельский округ",
+    "local_name": "Спасовский сельский округ",
+    "name_en": null,
+    "all_tags": {
+      "name": "Спасовский сельский округ",
+      "boundary": "administrative",
+      "way_area": "0.0404898",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -2837544,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2830448,-215760,-214665",
+    "name": "Покровский сельский округ",
+    "local_name": "Покровский сельский округ",
+    "name_en": null,
+    "all_tags": {
+      "name": "Покровский сельский округ",
+      "boundary": "administrative",
+      "way_area": "0.0424107",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -2837543,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2830448,-215760,-214665",
+    "name": "Петровский сельский округ",
+    "local_name": "Петровский сельский округ",
+    "name_en": null,
+    "all_tags": {
+      "name": "Петровский сельский округ",
+      "boundary": "administrative",
+      "way_area": "0.0662564",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -2837542,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2830448,-215760,-214665",
+    "name": "Николаевский сельский округ",
+    "local_name": "Николаевский сельский округ",
+    "name_en": null,
+    "all_tags": {
+      "name": "Николаевский сельский округ",
+      "boundary": "administrative",
+      "way_area": "0.0438301",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -2837541,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2830448,-215760,-214665",
+    "name": "Корнеевский сельский округ",
+    "local_name": "Корнеевский сельский округ",
+    "name_en": null,
+    "all_tags": {
+      "name": "Корнеевский сельский округ",
+      "boundary": "administrative",
+      "way_area": "0.0779076",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -2837540,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2830448,-215760,-214665",
+    "name": "Ильинский сельский округ",
+    "local_name": "Ильинский сельский округ",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ильинский сельский округ",
+      "boundary": "administrative",
+      "way_area": "0.049389",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -2837539,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2830448,-215760,-214665",
+    "name": "Заречный сельский округ",
+    "local_name": "Заречный сельский округ",
+    "name_en": null,
+    "all_tags": {
+      "name": "Заречный сельский округ",
+      "boundary": "administrative",
+      "way_area": "0.0798308",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -2837538,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2830448,-215760,-214665",
+    "name": "Заградовский сельский округ",
+    "local_name": "Заградовский сельский округ",
+    "name_en": null,
+    "all_tags": {
+      "name": "Заградовский сельский округ",
+      "boundary": "administrative",
+      "way_area": "0.0474272",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -2837537,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2830448,-215760,-214665",
+    "name": "Волошинский сельский округ",
+    "local_name": "Волошинский сельский округ",
+    "name_en": null,
+    "all_tags": {
+      "name": "Волошинский сельский округ",
+      "boundary": "administrative",
+      "way_area": "0.0401193",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -2837536,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2830448,-215760,-214665",
+    "name": "Булакский сельский округ",
+    "local_name": "Булакский сельский округ",
+    "name_en": null,
+    "all_tags": {
+      "name": "Булакский сельский округ",
+      "boundary": "administrative",
+      "way_area": "0.0391105",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -2837535,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2830448,-215760,-214665",
+    "name": "Бескудукский сельский округ",
+    "local_name": "Бескудукский сельский округ",
+    "name_en": null,
+    "all_tags": {
+      "name": "Бескудукский сельский округ",
+      "boundary": "administrative",
+      "way_area": "0.0423262",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -2837534,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2830448,-215760,-214665",
+    "name": "Амангельдинский сельский округ",
+    "local_name": "Амангельдинский сельский округ",
+    "name_en": null,
+    "all_tags": {
+      "name": "Амангельдинский сельский округ",
+      "boundary": "administrative",
+      "way_area": "0.0396428",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -2837533,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2830448,-215760,-214665",
+    "name": "Алматинский сельский округ",
+    "local_name": "Алматинский сельский округ",
+    "name_en": null,
+    "all_tags": {
+      "name": "Алматинский сельский округ",
+      "boundary": "administrative",
+      "way_area": "0.0382632",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -2832763,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2830447,-215760,-214665",
+    "name": "Лесной сельский округ",
+    "local_name": "Лесной сельский округ",
+    "name_en": null,
+    "all_tags": {
+      "name": "Лесной сельский округ",
+      "boundary": "administrative",
+      "way_area": "0.043079",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -2832762,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2830447,-215760,-214665",
+    "name": "Григорьевский сельский округ",
+    "local_name": "Григорьевский сельский округ",
+    "name_en": null,
+    "all_tags": {
+      "name": "Григорьевский сельский округ",
+      "name:ru": "Григорьевский сельский округ",
+      "boundary": "administrative",
+      "way_area": "0.0572636",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -2832761,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2830447,-215760,-214665",
+    "name": "Астраханский сельский округ",
+    "local_name": "Астраханский сельский округ",
+    "name_en": null,
+    "all_tags": {
+      "name": "Астраханский сельский округ",
+      "boundary": "administrative",
+      "way_area": "0.0410745",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -2832760,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2830447,-215760,-214665",
+    "name": "Аралагашский сельский округ",
+    "local_name": "Аралагашский сельский округ",
+    "name_en": null,
+    "all_tags": {
+      "name": "Аралагашский сельский округ",
+      "boundary": "administrative",
+      "way_area": "0.0937705",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -2832722,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2830447,-215760,-214665",
+    "name": "Власовский сельский округ",
+    "local_name": "Власовский сельский округ",
+    "name_en": null,
+    "all_tags": {
+      "name": "Власовский сельский округ",
+      "name:ru": "Власовский сельский округ",
+      "boundary": "administrative",
+      "way_area": "0.0345709",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -2832720,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2830447,-215760,-214665",
+    "name": "Черкасский сельский округ",
+    "local_name": "Черкасский сельский округ",
+    "name_en": null,
+    "all_tags": {
+      "name": "Черкасский сельский округ",
+      "name:ru": "Черкасский сельский округ",
+      "boundary": "administrative",
+      "way_area": "0.0829049",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -2832719,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2830447,-215760,-214665",
+    "name": "Киялинский сельский округ",
+    "local_name": "Киялинский сельский округ",
+    "name_en": null,
+    "all_tags": {
+      "name": "Киялинский сельский округ",
+      "boundary": "administrative",
+      "way_area": "0.0693282",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -2832690,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2830447,-215760,-214665",
+    "name": "Токушинский сельский округ",
+    "local_name": "Токушинский сельский округ",
+    "name_en": null,
+    "all_tags": {
+      "name": "Токушинский сельский округ",
+      "name:ru": "Токушинский сельский округ",
+      "boundary": "administrative",
+      "way_area": "0.0603403",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -2501342,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3389552,-215699,-214665",
+    "name": "Дачный поселок",
+    "local_name": "Дачный поселок",
+    "name_en": null,
+    "all_tags": {
+      "name": "Дачный поселок",
+      "place": "allotments",
+      "landuse": "allotments",
+      "boundary": "administrative",
+      "way_area": "0.000422477",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -2498788,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-5517787,-215718,-214665",
+    "name": "Каргалинский сельский округ",
+    "local_name": "Каргалинский сельский округ",
+    "name_en": null,
+    "all_tags": {
+      "name": "Каргалинский сельский округ",
+      "name:ru": "Каргалинский сельский округ",
+      "boundary": "administrative",
+      "way_area": "0.00137892",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -2461648,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3388762,-215722,-214665",
+    "name": "Бауыржан Момышулы сельский округ",
+    "local_name": "Бауыржан Момышулы сельский округ",
+    "name_en": null,
+    "all_tags": {
+      "name": "Бауыржан Момышулы сельский округ",
+      "name:kk": "Бауыржан Момышұлы атын. а.о.",
+      "name:ru": "Бауыржан Момышулы сельский округ",
+      "alt_name": "Б.Момышулы сельский округ",
+      "boundary": "administrative",
+      "way_area": "0.00112744",
+      "admin_level": "8"
+    }
+  }
+]

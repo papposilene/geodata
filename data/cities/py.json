@@ -1,0 +1,1985 @@
+[
+  {
+    "osm_id": -13468962,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-389896,-389881,-287077",
+    "name": "San Juan Bautista",
+    "local_name": "San Juan Bautista",
+    "name_en": null,
+    "all_tags": {
+      "name": "San Juan Bautista",
+      "place": "town",
+      "boundary": "administrative",
+      "way_area": "0.000409191",
+      "wikidata": "Q530895",
+      "wikipedia": "es:San Juan Bautista (Paraguay)",
+      "admin_level": "8",
+      "is_in:region": "Misiones",
+      "is_in:country": "Paraguay",
+      "official_name": "San Juan Bautista de las Misiones",
+      "is_in:district": "San Juan Bautista de las Misiones"
+    }
+  },
+  {
+    "osm_id": -12529459,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-389898,-389881,-287077",
+    "name": "Pirapó",
+    "local_name": "Pirapó",
+    "name_en": null,
+    "all_tags": {
+      "name": "Pirapó",
+      "boundary": "administrative",
+      "way_area": "0.076149",
+      "wikidata": "Q547894",
+      "wikipedia": "en:Pirapó, Paraguay",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11806232,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-389898,-389881,-287077",
+    "name": "José Leandro Oviedo",
+    "local_name": "José Leandro Oviedo",
+    "name_en": null,
+    "all_tags": {
+      "name": "José Leandro Oviedo",
+      "boundary": "administrative",
+      "way_area": "0.00875616",
+      "wikidata": "Q431581",
+      "wikipedia": "es:José Leandro Oviedo",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11800652,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-389898,-389881,-287077",
+    "name": "San Pedro del Paraná",
+    "local_name": "San Pedro del Paraná",
+    "name_en": null,
+    "all_tags": {
+      "name": "San Pedro del Paraná",
+      "boundary": "administrative",
+      "way_area": "0.112333",
+      "wikidata": "Q2445863",
+      "wikipedia": "es:San Pedro del Paraná",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11800375,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-389898,-389881,-287077",
+    "name": "Hohenau",
+    "local_name": "Hohenau",
+    "name_en": null,
+    "all_tags": {
+      "name": "Hohenau",
+      "boundary": "administrative",
+      "way_area": "0.0161525",
+      "wikidata": "Q1984240",
+      "wikipedia": "es:Hohenau",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11800269,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-389898,-389881,-287077",
+    "name": "La Paz",
+    "local_name": "La Paz",
+    "name_en": null,
+    "all_tags": {
+      "name": "La Paz",
+      "boundary": "administrative",
+      "way_area": "0.0279894",
+      "wikidata": "Q1799007",
+      "wikipedia": "es:La Paz (Paraguay)",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11191298,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-389895,-389881,-287077",
+    "name": "Cerrito",
+    "local_name": "Cerrito",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cerrito",
+      "landuse": "residential",
+      "boundary": "administrative",
+      "way_area": "0.000253972",
+      "wikidata": "Q2723843",
+      "wikipedia": "es:Cerrito (Paraguay)",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11172485,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-389896,-389881,-287077",
+    "name": "Santa Rosa de Lima",
+    "local_name": "Santa Rosa de Lima",
+    "name_en": null,
+    "all_tags": {
+      "name": "Santa Rosa de Lima",
+      "landuse": "residential",
+      "boundary": "administrative",
+      "way_area": "0.000402489",
+      "wikidata": "Q2411012",
+      "wikipedia": "es:Santa Rosa de Lima (Paraguay)",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11009338,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-389898,-389881,-287077",
+    "name": "Mayor Julio Otaño",
+    "local_name": "Mayor Julio Otaño",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mayor Julio Otaño",
+      "boundary": "administrative",
+      "way_area": "0.0262533",
+      "wikidata": "Q1914490",
+      "wikipedia": "es:Mayor Julio Dionisio Otaño",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11009264,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-389898,-389881,-287077",
+    "name": "Jesús de Tavarangüé",
+    "local_name": "Jesús de Tavarangüé",
+    "name_en": null,
+    "all_tags": {
+      "name": "Jesús de Tavarangüé",
+      "boundary": "administrative",
+      "way_area": "0.0117308",
+      "wikidata": "Q1688403",
+      "wikipedia": "es:Jesús de Tavarangüé (Paraguay)",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11009263,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-389898,-389881,-287077",
+    "name": "Trinidad",
+    "local_name": "Trinidad",
+    "name_en": null,
+    "all_tags": {
+      "name": "Trinidad",
+      "boundary": "administrative",
+      "way_area": "0.0191383",
+      "wikidata": "Q1779583",
+      "wikipedia": "es:Trinidad (Paraguay)",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11008954,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-389898,-389881,-287077",
+    "name": "Cambyretá",
+    "local_name": "Cambyretá",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cambyretá",
+      "landuse": "residential",
+      "boundary": "administrative",
+      "way_area": "0.00234745",
+      "wikidata": "Q3651213",
+      "wikipedia": "es:Cambyretá",
+      "admin_level": "8",
+      "description": "Zona Urbana de Cambyretá"
+    }
+  },
+  {
+    "osm_id": -11002306,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2263837,-389897,-389881,-287077",
+    "name": "Buena Vista",
+    "local_name": "Buena Vista",
+    "name_en": null,
+    "all_tags": {
+      "name": "Buena Vista",
+      "landuse": "residential",
+      "boundary": "administrative",
+      "way_area": "0.000211345",
+      "wikidata": "Q2475384",
+      "wikipedia": "es:Buena Vista (Paraguay)",
+      "admin_level": "8",
+      "description": "Casco Urbano de Buena Vista"
+    }
+  },
+  {
+    "osm_id": -10706062,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-389886,-389881,-287077",
+    "name": "Karapaí",
+    "local_name": "Karapaí",
+    "name_en": null,
+    "all_tags": {
+      "name": "Karapaí",
+      "boundary": "administrative",
+      "way_area": "0.0594789",
+      "wikidata": "Q16893141",
+      "wikipedia": "en:Karapaí",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -10103795,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-389888,-389881,-287077",
+    "name": "Nueva Durango",
+    "local_name": "Nueva Durango",
+    "name_en": null,
+    "all_tags": {
+      "name": "Nueva Durango",
+      "boundary": "administrative",
+      "way_area": "0.0123355",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -10077584,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-389898,-389881,-287077",
+    "name": "Arquitecto Tomás Romero Pereira",
+    "local_name": "Arquitecto Tomás Romero Pereira",
+    "name_en": null,
+    "all_tags": {
+      "name": "Arquitecto Tomás Romero Pereira",
+      "alt_name": "Tomás Romero Pereira",
+      "boundary": "administrative",
+      "way_area": "0.0572182",
+      "wikidata": "Q369121",
+      "wikipedia": "es:Tomás Romero Pereira (Paraguay)",
+      "admin_level": "8",
+      "capital_city": "María Auxiliadora"
+    }
+  },
+  {
+    "osm_id": -10021232,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-389898,-389881,-287077",
+    "name": "Fram",
+    "local_name": "Fram",
+    "name_en": null,
+    "all_tags": {
+      "name": "Fram",
+      "boundary": "administrative",
+      "way_area": "0.0261493",
+      "wikidata": "Q1440631",
+      "wikipedia": "es:Fram (Paraguay)",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -10021227,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-389898,-389881,-287077",
+    "name": "Capitán Miranda",
+    "local_name": "Capitán Miranda",
+    "name_en": null,
+    "all_tags": {
+      "name": "Capitán Miranda",
+      "boundary": "administrative",
+      "way_area": "0.0206176",
+      "wikidata": "Q1984703",
+      "wikipedia": "es:Capitán Miranda",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -10021199,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-389898,-389881,-287077",
+    "name": "Nueva Alborada",
+    "local_name": "Nueva Alborada",
+    "name_en": null,
+    "all_tags": {
+      "name": "Nueva Alborada",
+      "boundary": "administrative",
+      "way_area": "0.0162077",
+      "wikidata": "Q1754733",
+      "wikipedia": "es:Nueva Alborada",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -10021175,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-389898,-389881,-287077",
+    "name": "Carmen del Paraná",
+    "local_name": "Carmen del Paraná",
+    "name_en": null,
+    "all_tags": {
+      "name": "Carmen del Paraná",
+      "boundary": "administrative",
+      "way_area": "0.0235608",
+      "wikidata": "Q1043738",
+      "wikipedia": "es:Carmen del Paraná",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -9884789,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-389898,-389881,-287077",
+    "name": "Cambyretá",
+    "local_name": "Cambyretá",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cambyretá",
+      "boundary": "administrative",
+      "way_area": "0.0180338",
+      "wikidata": "Q3651213",
+      "wikipedia": "es:Cambyretá",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -9884784,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-389898,-389881,-287077",
+    "name": "Encarnación",
+    "local_name": "Encarnación",
+    "name_en": null,
+    "all_tags": {
+      "name": "Encarnación",
+      "boundary": "administrative",
+      "way_area": "0.0277049",
+      "wikidata": "Q47138",
+      "wikipedia": "es:Encarnación (Paraguay)",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -9884772,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-389898,-389881,-287077",
+    "name": "San Juan del Paraná",
+    "local_name": "San Juan del Paraná",
+    "name_en": null,
+    "all_tags": {
+      "name": "San Juan del Paraná",
+      "boundary": "administrative",
+      "way_area": "0.00559255",
+      "wikidata": "Q1984960",
+      "wikipedia": "es:San Juan del Paraná",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -9396782,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-389898,-389881,-287077",
+    "name": "Encarnación",
+    "local_name": "Encarnación",
+    "name_en": null,
+    "all_tags": {
+      "name": "Encarnación",
+      "landuse": "residential",
+      "boundary": "administrative",
+      "way_area": "0.00529364",
+      "wikidata": "Q47138",
+      "wikipedia": "es:Encarnación (Paraguay)",
+      "admin_level": "8",
+      "description": "Casco Urbano de Encarnación"
+    }
+  },
+  {
+    "osm_id": -9177710,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-6613489,-389888,-389881,-287077",
+    "name": "Ciudad de Corpus Christi",
+    "local_name": "Ciudad de Corpus Christi",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ciudad de Corpus Christi",
+      "is_in": "Paraguay, South America",
+      "landuse": "residential",
+      "boundary": "administrative",
+      "way_area": "0.000207731",
+      "wikipedia": "es:Corpus Christi (Paraguay)",
+      "admin_level": "8",
+      "is_in:state": "Canindeyú",
+      "is_in:country": "Paraguay",
+      "is_in:continent": "South America",
+      "is_in:country_code": "PY"
+    }
+  },
+  {
+    "osm_id": -6614170,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-389886,-389881,-287077",
+    "name": "Zanja Pytá",
+    "local_name": "Zanja Pytá",
+    "name_en": null,
+    "all_tags": {
+      "name": "Zanja Pytá",
+      "boundary": "administrative",
+      "way_area": "0.0461276",
+      "wikidata": "Q17781865",
+      "wikipedia": "en:Zanja Pytá",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -6614169,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-389886,-389881,-287077",
+    "name": "Pedro Juan Caballero",
+    "local_name": "Pedro Juan Caballero",
+    "name_en": null,
+    "all_tags": {
+      "name": "Pedro Juan Caballero",
+      "boundary": "administrative",
+      "way_area": "0.415053",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -6614168,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-389886,-389881,-287077",
+    "name": "Capitán Bado",
+    "local_name": "Capitán Bado",
+    "name_en": null,
+    "all_tags": {
+      "name": "Capitán Bado",
+      "boundary": "administrative",
+      "way_area": "0.259513",
+      "wikidata": "Q2717429",
+      "wikipedia": "en:Capitán Bado",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -6614167,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-389886,-389881,-287077",
+    "name": "Bella Vista",
+    "local_name": "Bella Vista",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bella Vista",
+      "boundary": "administrative",
+      "way_area": "0.324087",
+      "wikidata": "Q815785",
+      "wikipedia": "en:Bella Vista Norte",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -6613499,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-389888,-389881,-287077",
+    "name": "Ypejhú",
+    "local_name": "Ypejhú",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ypejhú",
+      "boundary": "administrative",
+      "way_area": "0.0753906",
+      "wikidata": "Q578964",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -6613498,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-389888,-389881,-287077",
+    "name": "Ybyrarobaná",
+    "local_name": "Ybyrarobaná",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ybyrarobaná",
+      "boundary": "administrative",
+      "way_area": "0.0974066",
+      "wikidata": "Q16648760",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -6613497,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-389888,-389881,-287077",
+    "name": "Yasy Cañy",
+    "local_name": "Yasy Cañy",
+    "name_en": null,
+    "all_tags": {
+      "name": "Yasy Cañy",
+      "boundary": "administrative",
+      "way_area": "0.0671101",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -6613496,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-389888,-389881,-287077",
+    "name": "Villa Ygatimí",
+    "local_name": "Villa Ygatimí",
+    "name_en": null,
+    "all_tags": {
+      "name": "Villa Ygatimí",
+      "boundary": "administrative",
+      "way_area": "0.180259",
+      "wikidata": "Q1987369",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -6613494,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-389888,-389881,-287077",
+    "name": "Nueva Esperanza",
+    "local_name": "Nueva Esperanza",
+    "name_en": null,
+    "all_tags": {
+      "name": "Nueva Esperanza",
+      "boundary": "administrative",
+      "way_area": "0.119631",
+      "wikidata": "Q3879288",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -6613493,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-389888,-389881,-287077",
+    "name": "La Paloma",
+    "local_name": "La Paloma",
+    "name_en": null,
+    "all_tags": {
+      "name": "La Paloma",
+      "boundary": "administrative",
+      "way_area": "0.05647",
+      "wikidata": "Q893080",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -6613492,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-389888,-389881,-287077",
+    "name": "Katueté",
+    "local_name": "Katueté",
+    "name_en": null,
+    "all_tags": {
+      "name": "Katueté",
+      "boundary": "administrative",
+      "way_area": "0.0521123",
+      "wikidata": "Q1986659",
+      "wikipedia": "en:Katueté",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -6613491,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-389888,-389881,-287077",
+    "name": "Itanará",
+    "local_name": "Itanará",
+    "name_en": null,
+    "all_tags": {
+      "name": "Itanará",
+      "boundary": "administrative",
+      "way_area": "0.0784631",
+      "wikidata": "Q1986095",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -6613490,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-389888,-389881,-287077",
+    "name": "Curuguaty",
+    "local_name": "Curuguaty",
+    "name_en": null,
+    "all_tags": {
+      "name": "Curuguaty",
+      "boundary": "administrative",
+      "way_area": "0.264607",
+      "wikidata": "Q1093456",
+      "wikipedia": "en:Curuguaty",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -6604970,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-389891,-389881,-287077",
+    "name": "Ñacunday",
+    "local_name": "Ñacunday",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ñacunday",
+      "boundary": "administrative",
+      "way_area": "0.0773802",
+      "wikidata": "Q2445774",
+      "wikipedia": "es:Ñacunday (Paraguay)",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -6604969,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-389891,-389881,-287077",
+    "name": "Santa Rosa del Monday",
+    "local_name": "Santa Rosa del Monday",
+    "name_en": null,
+    "all_tags": {
+      "name": "Santa Rosa del Monday",
+      "boundary": "administrative",
+      "way_area": "0.056088",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -6604968,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-389891,-389881,-287077",
+    "name": "Santa Rita",
+    "local_name": "Santa Rita",
+    "name_en": null,
+    "all_tags": {
+      "name": "Santa Rita",
+      "boundary": "administrative",
+      "way_area": "0.053945",
+      "wikidata": "Q375265",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -6604967,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-389891,-389881,-287077",
+    "name": "San Cristóbal",
+    "local_name": "San Cristóbal",
+    "name_en": null,
+    "all_tags": {
+      "name": "San Cristóbal",
+      "boundary": "administrative",
+      "way_area": "0.0922935",
+      "wikidata": "Q2445832",
+      "wikipedia": "en:San Cristóbal District, Paraguay",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -6604966,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-389891,-389881,-287077",
+    "name": "Presidente Franco",
+    "local_name": "Presidente Franco",
+    "name_en": null,
+    "all_tags": {
+      "name": "Presidente Franco",
+      "boundary": "administrative",
+      "way_area": "0.0112477",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -6604965,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-389891,-389881,-287077",
+    "name": "Naranjal",
+    "local_name": "Naranjal",
+    "name_en": null,
+    "all_tags": {
+      "name": "Naranjal",
+      "boundary": "administrative",
+      "way_area": "0.0692693",
+      "wikidata": "Q748292",
+      "wikipedia": "es:Naranjal (Paraguay)",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -6604964,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-389891,-389881,-287077",
+    "name": "Los Cedrales",
+    "local_name": "Los Cedrales",
+    "name_en": null,
+    "all_tags": {
+      "name": "Los Cedrales",
+      "boundary": "administrative",
+      "way_area": "0.0362175",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -6604963,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-389891,-389881,-287077",
+    "name": "Juan Emilio O'Leary",
+    "local_name": "Juan Emilio O'Leary",
+    "name_en": null,
+    "all_tags": {
+      "name": "Juan Emilio O'Leary",
+      "boundary": "administrative",
+      "way_area": "0.020191",
+      "wikidata": "Q2445762",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -6604962,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-389891,-389881,-287077",
+    "name": "Iruña",
+    "local_name": "Iruña",
+    "name_en": null,
+    "all_tags": {
+      "name": "Iruña",
+      "boundary": "administrative",
+      "way_area": "0.0478608",
+      "wikidata": "Q596950",
+      "wikipedia": "es:Iruña (Paraguay)",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -6604961,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-389891,-389881,-287077",
+    "name": "Domingo Martínez de Irala",
+    "local_name": "Domingo Martínez de Irala",
+    "name_en": null,
+    "all_tags": {
+      "name": "Domingo Martínez de Irala",
+      "boundary": "administrative",
+      "way_area": "0.0305558",
+      "wikidata": "Q1987175",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -6601487,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-389892,-389881,-287077",
+    "name": "Ñemby",
+    "local_name": "Ñemby",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ñemby",
+      "landuse": "residential",
+      "boundary": "administrative",
+      "way_area": "0.0026012",
+      "wikidata": "Q47056",
+      "admin_level": "8",
+      "official_name:es": "San Lorenzo de la Frontera"
+    }
+  },
+  {
+    "osm_id": -6601486,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-389892,-389881,-287077",
+    "name": "Ypané",
+    "local_name": "Ypané",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ypané",
+      "boundary": "administrative",
+      "way_area": "0.00467396",
+      "wikidata": "Q2717436",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -6601485,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-389892,-389881,-287077",
+    "name": "Ypacarai",
+    "local_name": "Ypacarai",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ypacarai",
+      "boundary": "administrative",
+      "way_area": "0.00853439",
+      "wikidata": "Q643576",
+      "old_name_1": "Guazú Virá",
+      "old_name_2": "Tacuaral",
+      "admin_level": "8",
+      "alt_name:es": "Ipacarai",
+      "official_name:es": "Ypacarai"
+    }
+  },
+  {
+    "osm_id": -6601484,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-389892,-389881,-287077",
+    "name": "Villeta",
+    "local_name": "Villeta",
+    "name_en": null,
+    "all_tags": {
+      "name": "Villeta",
+      "boundary": "administrative",
+      "way_area": "0.0781288",
+      "wikidata": "Q1093439",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -6601483,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-389892,-389881,-287077",
+    "name": "San Antonio",
+    "local_name": "San Antonio",
+    "name_en": null,
+    "all_tags": {
+      "name": "San Antonio",
+      "landuse": "residential",
+      "boundary": "administrative",
+      "way_area": "0.00193347",
+      "wikidata": "Q1093479",
+      "wikipedia": "es:San Antonio (Paraguay)",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -6601482,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-389892,-389881,-287077",
+    "name": "Nueva Italia",
+    "local_name": "Nueva Italia",
+    "name_en": null,
+    "all_tags": {
+      "name": "Nueva Italia",
+      "boundary": "administrative",
+      "way_area": "0.033326",
+      "wikidata": "Q2453244",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -6601481,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-389892,-389881,-287077",
+    "name": "Julián Augusto Saldívar",
+    "local_name": "Julián Augusto Saldívar",
+    "name_en": null,
+    "all_tags": {
+      "name": "Julián Augusto Saldívar",
+      "boundary": "administrative",
+      "way_area": "0.00288206",
+      "wikidata": "Q2717412",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -6601480,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-389892,-389881,-287077",
+    "name": "Itá",
+    "local_name": "Itá",
+    "name_en": null,
+    "all_tags": {
+      "name": "Itá",
+      "boundary": "administrative",
+      "way_area": "0.0164166",
+      "wikidata": "Q1093448",
+      "wikipedia": "en:Itá, Paraguay",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -6601479,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-389892,-389881,-287077",
+    "name": "Guarambaré",
+    "local_name": "Guarambaré",
+    "name_en": null,
+    "all_tags": {
+      "name": "Guarambaré",
+      "boundary": "administrative",
+      "way_area": "0.00267193",
+      "wikidata": "Q2717421",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -6590579,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-389884,-389880,-287077",
+    "name": "Pinasco",
+    "local_name": "Pinasco",
+    "name_en": null,
+    "all_tags": {
+      "name": "Pinasco",
+      "boundary": "administrative",
+      "way_area": "1.33139",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -6590353,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-389884,-389880,-287077",
+    "name": "Villa Hayes",
+    "local_name": "Villa Hayes",
+    "name_en": null,
+    "all_tags": {
+      "name": "Villa Hayes",
+      "boundary": "administrative",
+      "way_area": "1.57127",
+      "wikidata": "Q135953",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -6590352,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-389884,-389880,-287077",
+    "name": "Teniente Esteban Martínez",
+    "local_name": "Teniente Esteban Martínez",
+    "name_en": null,
+    "all_tags": {
+      "name": "Teniente Esteban Martínez",
+      "place": "district",
+      "boundary": "administrative",
+      "way_area": "0.70748",
+      "wikidata": "Q6141584",
+      "wikipedia": "es:Teniente Esteban Martínez",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -6590351,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-389884,-389880,-287077",
+    "name": "Teniente 1° Manuel Irala Fernández",
+    "local_name": "Teniente 1° Manuel Irala Fernández",
+    "name_en": null,
+    "all_tags": {
+      "name": "Teniente 1° Manuel Irala Fernández",
+      "boundary": "administrative",
+      "way_area": "1.1813",
+      "wikidata": "Q6141593",
+      "wikipedia": "en:Teniente Primero Manuel Irala Fernández",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -6590350,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-389884,-389880,-287077",
+    "name": "Nanawa",
+    "local_name": "Nanawa",
+    "name_en": null,
+    "all_tags": {
+      "name": "Nanawa",
+      "boundary": "administrative",
+      "way_area": "0.000420961",
+      "wikidata": "Q541522",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -6590349,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-389884,-389880,-287077",
+    "name": "José Falcón",
+    "local_name": "José Falcón",
+    "name_en": null,
+    "all_tags": {
+      "name": "José Falcón",
+      "boundary": "administrative",
+      "way_area": "0.164365",
+      "wikidata": "Q2475375",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -6590348,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-389884,-389880,-287077",
+    "name": "General Jose Maria Bruguez",
+    "local_name": "General Jose Maria Bruguez",
+    "name_en": null,
+    "all_tags": {
+      "name": "General Jose Maria Bruguez",
+      "place": "district",
+      "boundary": "administrative",
+      "way_area": "0.581899",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -6590347,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-389884,-389880,-287077",
+    "name": "Benjamín Aceval",
+    "local_name": "Benjamín Aceval",
+    "name_en": null,
+    "all_tags": {
+      "name": "Benjamín Aceval",
+      "boundary": "administrative",
+      "way_area": "0.978672",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -6585929,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-389882,-389880,-287077",
+    "name": "Puerto Casado",
+    "local_name": "Puerto Casado",
+    "name_en": null,
+    "all_tags": {
+      "name": "Puerto Casado",
+      "boundary": "administrative",
+      "way_area": "1.5042",
+      "wikidata": "Q2636535",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -6585928,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-389882,-389880,-287077",
+    "name": "Fuerte Olimpo",
+    "local_name": "Fuerte Olimpo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Fuerte Olimpo",
+      "boundary": "administrative",
+      "way_area": "1.6933",
+      "wikidata": "Q136498",
+      "wikipedia": "en:Fuerte Olimpo",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -6585927,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-389882,-389880,-287077",
+    "name": "Carmelo Peralta",
+    "local_name": "Carmelo Peralta",
+    "name_en": null,
+    "all_tags": {
+      "name": "Carmelo Peralta",
+      "boundary": "administrative",
+      "way_area": "0.458699",
+      "wikidata": "Q15958259",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -6585926,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-389882,-389880,-287077",
+    "name": "Bahía Negra",
+    "local_name": "Bahía Negra",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bahía Negra",
+      "boundary": "administrative",
+      "way_area": "3.15066",
+      "wikidata": "Q3321191",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -6584436,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-389883,-389880,-287077",
+    "name": "Mariscal Estigarribia",
+    "local_name": "Mariscal Estigarribia",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mariscal Estigarribia",
+      "boundary": "administrative",
+      "way_area": "6.31386",
+      "wikidata": "Q1093167",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -6584435,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-389883,-389880,-287077",
+    "name": "Loma Plata",
+    "local_name": "Loma Plata",
+    "name_en": null,
+    "all_tags": {
+      "name": "Loma Plata",
+      "boundary": "administrative",
+      "way_area": "0.157777",
+      "wikidata": "Q1704617",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -6584434,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-389883,-389880,-287077",
+    "name": "Filadelfia",
+    "local_name": "Filadelfia",
+    "name_en": null,
+    "all_tags": {
+      "name": "Filadelfia",
+      "boundary": "administrative",
+      "way_area": "1.24417",
+      "wikidata": "Q733744",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -6552056,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-389891,-389881,-287077",
+    "name": "Yguazú",
+    "local_name": "Yguazú",
+    "name_en": null,
+    "all_tags": {
+      "name": "Yguazú",
+      "boundary": "administrative",
+      "way_area": "0.0718815",
+      "wikidata": "Q2639179",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -6552055,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-389891,-389881,-287077",
+    "name": "Santa Fe del Paraná",
+    "local_name": "Santa Fe del Paraná",
+    "name_en": null,
+    "all_tags": {
+      "name": "Santa Fe del Paraná",
+      "boundary": "administrative",
+      "way_area": "0.0724322",
+      "wikidata": "Q9074059",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -6552054,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-389891,-389881,-287077",
+    "name": "San Alberto",
+    "local_name": "San Alberto",
+    "name_en": null,
+    "all_tags": {
+      "name": "San Alberto",
+      "boundary": "administrative",
+      "way_area": "0.0933772",
+      "wikidata": "Q2445785",
+      "wikipedia": "en:San Alberto, Paraguay",
+      "admin_level": "8",
+      "postal_code": "7310"
+    }
+  },
+  {
+    "osm_id": -6552053,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-389891,-389881,-287077",
+    "name": "Minga Porá",
+    "local_name": "Minga Porá",
+    "name_en": null,
+    "all_tags": {
+      "name": "Minga Porá",
+      "boundary": "administrative",
+      "way_area": "0.0786222",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -6552050,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-389891,-389881,-287077",
+    "name": "Minga Guazú",
+    "local_name": "Minga Guazú",
+    "name_en": null,
+    "all_tags": {
+      "name": "Minga Guazú",
+      "boundary": "administrative",
+      "way_area": "0.0437301",
+      "wikidata": "Q650191",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -6552049,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-389891,-389881,-287077",
+    "name": "Mbaracayú",
+    "local_name": "Mbaracayú",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mbaracayú",
+      "boundary": "administrative",
+      "way_area": "0.10053",
+      "admin_level": "8",
+      "postal_code": "7300"
+    }
+  },
+  {
+    "osm_id": -6552048,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-389891,-389881,-287077",
+    "name": "Itakyry",
+    "local_name": "Itakyry",
+    "name_en": null,
+    "all_tags": {
+      "name": "Itakyry",
+      "boundary": "administrative",
+      "way_area": "0.177683",
+      "wikidata": "Q2445898",
+      "wikipedia": "en:Itakyry",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -6552047,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-389891,-389881,-287077",
+    "name": "Hernandarias",
+    "local_name": "Hernandarias",
+    "name_en": null,
+    "all_tags": {
+      "name": "Hernandarias",
+      "boundary": "administrative",
+      "way_area": "0.0663337",
+      "wikidata": "Q2271787",
+      "admin_level": "8",
+      "postal_code": "7220"
+    }
+  },
+  {
+    "osm_id": -6552046,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-389891,-389881,-287077",
+    "name": "Doctor Juan León Mallorquín",
+    "local_name": "Doctor Juan León Mallorquín",
+    "name_en": null,
+    "all_tags": {
+      "name": "Doctor Juan León Mallorquín",
+      "boundary": "administrative",
+      "way_area": "0.0239691",
+      "wikidata": "Q2445886",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -6552045,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-389891,-389881,-287077",
+    "name": "Ciudad del Este",
+    "local_name": "Ciudad del Este",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ciudad del Este",
+      "boundary": "administrative",
+      "way_area": "0.0132007",
+      "wikidata": "Q192235",
+      "wikipedia": "en:Ciudad del Este",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -6002474,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-389892,-389881,-287077",
+    "name": "Luque",
+    "local_name": "Luque",
+    "name_en": null,
+    "all_tags": {
+      "name": "Luque",
+      "boundary": "administrative",
+      "way_area": "0.0136841",
+      "admin_level": "8",
+      "official_name:es": "Nuestra Señora del Rosario de Luque"
+    }
+  },
+  {
+    "osm_id": -5183631,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-389898,-389881,-287077",
+    "name": "José Leandro Oviedo",
+    "local_name": "José Leandro Oviedo",
+    "name_en": null,
+    "all_tags": {
+      "name": "José Leandro Oviedo",
+      "place": "village",
+      "landuse": "residential",
+      "boundary": "administrative",
+      "way_area": "3.6744e-05",
+      "wikidata": "Q431581",
+      "admin_level": "8",
+      "is_in:region": "Itapúa",
+      "is_in:country": "Paraguay",
+      "is_in:district": "José Leandro Oviedo"
+    }
+  },
+  {
+    "osm_id": -5183624,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-389898,-389881,-287077",
+    "name": "Carmen del Paraná",
+    "local_name": "Carmen del Paraná",
+    "name_en": null,
+    "all_tags": {
+      "name": "Carmen del Paraná",
+      "place": "town",
+      "landuse": "residential",
+      "boundary": "administrative",
+      "way_area": "0.000372979",
+      "wikidata": "Q1043738",
+      "wikipedia": "es:Carmen del Paraná",
+      "admin_level": "8",
+      "is_in:country": "Paraguay"
+    }
+  },
+  {
+    "osm_id": -5172193,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-389895,-389881,-287077",
+    "name": "Tacuaras",
+    "local_name": "Tacuaras",
+    "name_en": null,
+    "all_tags": {
+      "name": "Tacuaras",
+      "place": "village",
+      "landuse": "residential",
+      "boundary": "administrative",
+      "way_area": "2.38664e-05",
+      "wikidata": "Q1750366",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -5166835,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-389895,-389881,-287077",
+    "name": "Isla Umbú",
+    "local_name": "Isla Umbú",
+    "name_en": null,
+    "all_tags": {
+      "name": "Isla Umbú",
+      "place": "village",
+      "landuse": "residential",
+      "boundary": "administrative",
+      "way_area": "4.80966e-05",
+      "wikidata": "Q2411034",
+      "admin_level": "8",
+      "is_in:region": "Ñeembucú",
+      "is_in:country": "Paraguay",
+      "is_in:district": "Isla Umbú"
+    }
+  },
+  {
+    "osm_id": -5166821,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-389895,-389881,-287077",
+    "name": "Pilar",
+    "local_name": "Pilar",
+    "name_en": null,
+    "all_tags": {
+      "name": "Pilar",
+      "place": "town",
+      "boundary": "administrative",
+      "way_area": "0.00175889",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -5166667,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-389890,-389881,-287077",
+    "name": "Caaguazú",
+    "local_name": "Caaguazú",
+    "name_en": null,
+    "all_tags": {
+      "name": "Caaguazú",
+      "place": "city",
+      "boundary": "administrative",
+      "way_area": "0.00331863",
+      "wikidata": "Q858120",
+      "wikipedia": "en:Caaguazú, Paraguay",
+      "admin_level": "8",
+      "description": "Ciudad de Caaguazú"
+    }
+  },
+  {
+    "osm_id": -5166524,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-389887,-389881,-287077",
+    "name": "Nautica Cardenal",
+    "local_name": "Nautica Cardenal",
+    "name_en": null,
+    "all_tags": {
+      "name": "Nautica Cardenal",
+      "place": "village",
+      "landuse": "residential",
+      "boundary": "administrative",
+      "way_area": "8.81915e-06",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -5166404,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-389885,-389881,-287077",
+    "name": "Yby Yaú",
+    "local_name": "Yby Yaú",
+    "name_en": null,
+    "all_tags": {
+      "name": "Yby Yaú",
+      "place": "town",
+      "landuse": "residential",
+      "boundary": "administrative",
+      "way_area": "0.000181973",
+      "wikidata": "Q1996327",
+      "admin_level": "8",
+      "is_in:region": "Concepción",
+      "is_in:country": "Paraguay",
+      "is_in:district": "Yby Yaú"
+    }
+  },
+  {
+    "osm_id": -5166403,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-389885,-389881,-287077",
+    "name": "Villa Torales",
+    "local_name": "Villa Torales",
+    "name_en": null,
+    "all_tags": {
+      "name": "Villa Torales",
+      "place": "village",
+      "landuse": "residential",
+      "boundary": "administrative",
+      "way_area": "8.08716e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -5158507,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-389898,-389881,-287077",
+    "name": "San Rafael",
+    "local_name": "San Rafael",
+    "name_en": null,
+    "all_tags": {
+      "name": "San Rafael",
+      "place": "village",
+      "boundary": "administrative",
+      "way_area": "0.000147365",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -5158503,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-389898,-389881,-287077",
+    "name": "Yatytay",
+    "local_name": "Yatytay",
+    "name_en": null,
+    "all_tags": {
+      "name": "Yatytay",
+      "place": "town",
+      "landuse": "residential",
+      "boundary": "administrative",
+      "way_area": "0.000158068",
+      "wikidata": "Q771945",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -5158458,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-389898,-389881,-287077",
+    "name": "Natalio",
+    "local_name": "Natalio",
+    "name_en": null,
+    "all_tags": {
+      "name": "Natalio",
+      "place": "town",
+      "landuse": "residential",
+      "boundary": "administrative",
+      "way_area": "0.000173044",
+      "wikidata": "Q1985044",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -5158457,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-389898,-389881,-287077",
+    "name": "Hohenau",
+    "local_name": "Hohenau",
+    "name_en": null,
+    "all_tags": {
+      "name": "Hohenau",
+      "place": "town",
+      "boundary": "administrative",
+      "way_area": "0.000410726",
+      "wikidata": "Q1984240",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -5158168,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-389888,-389881,-287077",
+    "name": "Salto del Guairá",
+    "local_name": "Salto del Guairá",
+    "name_en": null,
+    "all_tags": {
+      "name": "Salto del Guairá",
+      "place": "town",
+      "boundary": "administrative",
+      "way_area": "0.155599",
+      "wikidata": "Q135983",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -5158167,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-389888,-389881,-287077",
+    "name": "General Francisco Caballero Álvarez",
+    "local_name": "General Francisco Caballero Álvarez",
+    "name_en": null,
+    "all_tags": {
+      "name": "General Francisco Caballero Álvarez",
+      "boundary": "administrative",
+      "way_area": "0.0654468",
+      "wikidata": "Q1986518",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3809767,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-389896,-389881,-287077",
+    "name": "San Ignacio Guazú",
+    "local_name": "San Ignacio Guazú",
+    "name_en": null,
+    "all_tags": {
+      "name": "San Ignacio Guazú",
+      "place": "town",
+      "boundary": "administrative",
+      "way_area": "0.00074418",
+      "wikidata": "Q2571376",
+      "wikipedia": "es:San Ignacio (Paraguay)",
+      "admin_level": "8",
+      "is_in:region": "Misiones"
+    }
+  },
+  {
+    "osm_id": -3763106,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-389898,-389881,-287077",
+    "name": "Trinidad",
+    "local_name": "Trinidad",
+    "name_en": null,
+    "all_tags": {
+      "name": "Trinidad",
+      "place": "village",
+      "boundary": "administrative",
+      "way_area": "0.000216233",
+      "wikidata": "Q1779583",
+      "wikipedia": "es:Trinidad (Paraguay)",
+      "admin_level": "8",
+      "is_in:region": "Itapúa",
+      "is_in:country": "Paraguay"
+    }
+  },
+  {
+    "osm_id": -3762870,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-389898,-389881,-287077",
+    "name": "Obligado",
+    "local_name": "Obligado",
+    "name_en": null,
+    "all_tags": {
+      "name": "Obligado",
+      "boundary": "administrative",
+      "way_area": "0.0385169",
+      "wikidata": "Q375095",
+      "wikipedia": "es:Obligado (Paraguay)",
+      "admin_level": "8",
+      "is_in:region": "Itapúa",
+      "is_in:country": "Paraguay"
+    }
+  },
+  {
+    "osm_id": -3762455,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-389898,-389881,-287077",
+    "name": "Bella Vista",
+    "local_name": "Bella Vista",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bella Vista",
+      "boundary": "administrative",
+      "way_area": "0.0272538",
+      "wikidata": "Q1986203",
+      "wikipedia": "es:Bella Vista (Itapúa)",
+      "admin_level": "8",
+      "is_in:region": "Itapúa"
+    }
+  },
+  {
+    "osm_id": -3749894,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-389891,-389881,-287077",
+    "name": "Tavapy",
+    "local_name": "Tavapy",
+    "name_en": null,
+    "all_tags": {
+      "name": "Tavapy",
+      "boundary": "administrative",
+      "way_area": "0.0392118",
+      "wikidata": "Q2743960",
+      "wikipedia": "es:Tavapy (Paraguay)",
+      "admin_level": "8",
+      "is_in:region": "Alto Paraná"
+    }
+  },
+  {
+    "osm_id": -3731173,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-389894,-389881,-287077",
+    "name": "Villarrica",
+    "local_name": "Villarrica",
+    "name_en": null,
+    "all_tags": {
+      "name": "Villarrica",
+      "place": "city",
+      "boundary": "administrative",
+      "way_area": "0.00152817",
+      "wikidata": "Q288685",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3720096,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-389892,-389881,-287077",
+    "name": "San Lorenzo",
+    "local_name": "San Lorenzo",
+    "name_en": null,
+    "all_tags": {
+      "name": "San Lorenzo",
+      "boundary": "administrative",
+      "way_area": "0.00486679",
+      "wikidata": "Q938739",
+      "wikipedia": "es:San Lorenzo (Paraguay)",
+      "admin_level": "8",
+      "is_in:region": "Central",
+      "official_name:es": "San Lorenzo del Campo Grande"
+    }
+  },
+  {
+    "osm_id": -3710875,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-389892,-389881,-287077",
+    "name": "Itauguá",
+    "local_name": "Itauguá",
+    "name_en": null,
+    "all_tags": {
+      "name": "Itauguá",
+      "place": "town",
+      "boundary": "administrative",
+      "way_area": "0.0104631",
+      "wikidata": "Q1093634",
+      "wikipedia": "es:Itauguá (Paraguay)",
+      "admin_level": "8",
+      "is_in:region": "Central",
+      "is_in:country": "Paraguay",
+      "is_in:district": "Itauguá",
+      "official_name:es": "Nuestra Señora del Rosario de Itauguá"
+    }
+  },
+  {
+    "osm_id": -3710869,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-389892,-389881,-287077",
+    "name": "Capiatá",
+    "local_name": "Capiatá",
+    "name_en": null,
+    "all_tags": {
+      "name": "Capiatá",
+      "place": "town",
+      "boundary": "administrative",
+      "way_area": "0.00788125",
+      "wikidata": "Q723811",
+      "wikipedia": "es:Capiatá",
+      "admin_level": "8",
+      "is_in:region": "Central",
+      "is_in:country": "Paraguay",
+      "is_in:district": "Capiatá",
+      "official_name:es": "Nuestra Señora Santa María de la Candelaria de Capiatá"
+    }
+  },
+  {
+    "osm_id": -3706499,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-389892,-389881,-287077",
+    "name": "Areguá",
+    "local_name": "Areguá",
+    "name_en": null,
+    "all_tags": {
+      "name": "Areguá",
+      "boundary": "administrative",
+      "way_area": "0.00943749",
+      "wikidata": "Q135975",
+      "wikipedia": "es:Areguá",
+      "admin_level": "8",
+      "is_in:state": "Central",
+      "is_in:country": "Paraguay",
+      "is_in:district": "Areguá"
+    }
+  },
+  {
+    "osm_id": -3698016,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-389892,-389881,-287077",
+    "name": "Limpio",
+    "local_name": "Limpio",
+    "name_en": null,
+    "all_tags": {
+      "name": "Limpio",
+      "name:eo": "Limpio",
+      "boundary": "administrative",
+      "way_area": "0.00990395",
+      "wikidata": "Q47058",
+      "wikipedia": "es:Limpio (Paraguay)",
+      "admin_level": "8",
+      "is_in:region": "Central",
+      "is_in:country": "Paraguay",
+      "is_in:district": "Limpio",
+      "official_name:es": "San José de los Campos Limpios de Tapúa"
+    }
+  },
+  {
+    "osm_id": -3691623,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-389892,-389881,-287077",
+    "name": "Mariano Roque Alonso",
+    "local_name": "Mariano Roque Alonso",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mariano Roque Alonso",
+      "capital": "8",
+      "boundary": "administrative",
+      "way_area": "0.00359614",
+      "wikidata": "Q37557",
+      "wikipedia": "es:Mariano Roque Alonso (Paraguay)",
+      "admin_level": "8",
+      "is_in:region": "Central",
+      "is_in:country": "Paraguay",
+      "is_in:district": "Mariano Roque Alonso",
+      "official_name:es": "Mariano Roque Alonso"
+    }
+  },
+  {
+    "osm_id": -3681127,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-389892,-389881,-287077",
+    "name": "Fernando de la Mora",
+    "local_name": "Fernando de la Mora",
+    "name_en": null,
+    "all_tags": {
+      "area": "yes",
+      "name": "Fernando de la Mora",
+      "boundary": "administrative",
+      "way_area": "0.00186103",
+      "wikidata": "Q47062",
+      "wikipedia": "es:Fernando de la Mora (Paraguay)",
+      "admin_level": "8",
+      "old_name:gn": "Zavala Cué",
+      "is_in:region": "Central",
+      "official_name:es": "Fernando de la Mora"
+    }
+  },
+  {
+    "osm_id": -3680237,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-389892,-389881,-287077",
+    "name": "Villa Elisa",
+    "local_name": "Villa Elisa",
+    "name_en": null,
+    "all_tags": {
+      "area": "yes",
+      "name": "Villa Elisa",
+      "boundary": "administrative",
+      "way_area": "0.00164859",
+      "wikidata": "Q952896",
+      "wikipedia": "es:Villa Elisa (Paraguay)",
+      "admin_level": "8",
+      "is_in:region": "Central",
+      "is_in:district": "Villa Elisa"
+    }
+  },
+  {
+    "osm_id": -3678799,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-389892,-389881,-287077",
+    "name": "Lambaré",
+    "local_name": "Lambaré",
+    "name_en": null,
+    "all_tags": {
+      "name": "Lambaré",
+      "website": "https://www.lambare.gov.py",
+      "boundary": "administrative",
+      "way_area": "0.00241489",
+      "wikidata": "Q47052",
+      "wikipedia": "es:Lambaré (Paraguay)",
+      "admin_level": "8",
+      "is_in:region": "Central",
+      "official_name:es": "Lambaré"
+    }
+  },
+  {
+    "osm_id": -3654543,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-12556624,-389881,-287077",
+    "name": "Asunción",
+    "local_name": "Asunción",
+    "name_en": null,
+    "all_tags": {
+      "ref": "ASU",
+      "name": "Asunción",
+      "name:gl": "Asunción",
+      "boundary": "administrative",
+      "way_area": "0.0111895",
+      "wikidata": "Q2723419",
+      "ISO3166-2": "PY-ASU",
+      "wikipedia": "pt:Distrito Capital (Paraguai)",
+      "admin_level": "8",
+      "alt_name:es": "La Muy Noble y Leal Ciudad de Nuestra Señora Santa María de la Asunción",
+      "is_in:country": "Paraguay"
+    }
+  }
+]

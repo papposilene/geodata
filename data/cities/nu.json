@@ -1,0 +1,204 @@
+[
+  {
+    "osm_id": -1558555,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1558556",
+    "name": "Lakepa",
+    "local_name": "Lakepa",
+    "name_en": null,
+    "all_tags": {
+      "name": "Lakepa",
+      "boundary": "administrative",
+      "way_area": "0.00176076",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1558554,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1558556",
+    "name": "Toi",
+    "local_name": "Toi",
+    "name_en": null,
+    "all_tags": {
+      "name": "Toi",
+      "boundary": "administrative",
+      "way_area": "0.0004175",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1558553,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1558556",
+    "name": "Liku",
+    "local_name": "Liku",
+    "name_en": null,
+    "all_tags": {
+      "name": "Liku",
+      "boundary": "administrative",
+      "way_area": "0.00348041",
+      "wikidata": "Q2570188",
+      "wikipedia": "en:Liku",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1558552,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1558556",
+    "name": "Namukulu",
+    "local_name": "Namukulu",
+    "name_en": null,
+    "all_tags": {
+      "name": "Namukulu",
+      "boundary": "administrative",
+      "way_area": "0.000103081",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1558551,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1558556",
+    "name": "Avatele",
+    "local_name": "Avatele",
+    "name_en": null,
+    "all_tags": {
+      "name": "Avatele",
+      "boundary": "administrative",
+      "way_area": "0.00127123",
+      "wikidata": "Q2552943",
+      "wikipedia": "en:Avatele",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1558550,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1558556",
+    "name": "Tamakautoga",
+    "local_name": "Tamakautoga",
+    "name_en": null,
+    "all_tags": {
+      "name": "Tamakautoga",
+      "boundary": "administrative",
+      "way_area": "0.00114325",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1558549,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1558556",
+    "name": "Alofi",
+    "local_name": "Alofi",
+    "name_en": null,
+    "all_tags": {
+      "name": "Alofi",
+      "boundary": "administrative",
+      "way_area": "0.00407374",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1558548,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1558556",
+    "name": "Tuapa",
+    "local_name": "Tuapa",
+    "name_en": null,
+    "all_tags": {
+      "name": "Tuapa",
+      "boundary": "administrative",
+      "way_area": "0.00107977",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1558547,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1558556",
+    "name": "Makefu",
+    "local_name": "Makefu",
+    "name_en": null,
+    "all_tags": {
+      "name": "Makefu",
+      "boundary": "administrative",
+      "way_area": "0.00150612",
+      "wikidata": "Q2354077",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1558546,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1558556",
+    "name": "Hikutavake",
+    "local_name": "Hikutavake",
+    "name_en": null,
+    "all_tags": {
+      "name": "Hikutavake",
+      "boundary": "administrative",
+      "way_area": "0.000808301",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1558545,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1558556",
+    "name": "Vaiea",
+    "local_name": "Vaiea",
+    "name_en": null,
+    "all_tags": {
+      "name": "Vaiea",
+      "boundary": "administrative",
+      "way_area": "0.000497024",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1558544,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1558556",
+    "name": "Mutalau",
+    "local_name": "Mutalau",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mutalau",
+      "boundary": "administrative",
+      "way_area": "0.00209971",
+      "wikidata": "Q2552363",
+      "wikipedia": "en:Mutalau",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1558543,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1558556",
+    "name": "Hakupu",
+    "local_name": "Hakupu",
+    "name_en": null,
+    "all_tags": {
+      "name": "Hakupu",
+      "boundary": "administrative",
+      "way_area": "0.00418399",
+      "admin_level": "8"
+    }
+  }
+]

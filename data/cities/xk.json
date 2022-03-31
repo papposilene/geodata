@@ -1,0 +1,2432 @@
+[
+  {
+    "osm_id": -12404404,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332162,-2088990",
+    "name": "Petroc",
+    "local_name": "Petroc",
+    "name_en": null,
+    "all_tags": {
+      "name": "Petroc",
+      "name:sq": "Petroc",
+      "name:sr": "Петровце",
+      "boundary": "administrative",
+      "way_area": "0.000394932",
+      "admin_level": "8",
+      "alt_name:sq": "Petrit",
+      "name:sr-Latn": "Petrovce"
+    }
+  },
+  {
+    "osm_id": -10993547,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332180,-2088990",
+    "name": "Sopotnicë",
+    "local_name": "Sopotnicë",
+    "name_en": null,
+    "all_tags": {
+      "name": "Sopotnicë",
+      "boundary": "administrative",
+      "way_area": "0.000488178",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -10993546,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332180,-2088990",
+    "name": "Dubravë Vataj",
+    "local_name": "Dubravë Vataj",
+    "name_en": null,
+    "all_tags": {
+      "name": "Dubravë Vataj",
+      "boundary": "administrative",
+      "way_area": "0.000344851",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -10993545,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332180,-2088990",
+    "name": "Rekë",
+    "local_name": "Rekë",
+    "name_en": null,
+    "all_tags": {
+      "name": "Rekë",
+      "boundary": "administrative",
+      "way_area": "0.000237475",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -10993432,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332180,-2088990",
+    "name": "Blerana",
+    "local_name": "Blerana",
+    "name_en": null,
+    "all_tags": {
+      "name": "Blerana",
+      "boundary": "administrative",
+      "way_area": "0.00232257",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -10990916,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332180,-2088990",
+    "name": "Doganaj",
+    "local_name": "Doganaj",
+    "name_en": null,
+    "all_tags": {
+      "name": "Doganaj",
+      "boundary": "administrative",
+      "way_area": "0.000259779",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -10990852,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332180,-2088990",
+    "name": "Gërlicë e epërme",
+    "local_name": "Gërlicë e epërme",
+    "name_en": null,
+    "all_tags": {
+      "name": "Gërlicë e epërme",
+      "boundary": "administrative",
+      "way_area": "0.000157617",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -10990823,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332180,-2088990",
+    "name": "Duraj",
+    "local_name": "Duraj",
+    "name_en": null,
+    "all_tags": {
+      "name": "Duraj",
+      "boundary": "administrative",
+      "way_area": "0.000185301",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -10990801,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332180,-2088990",
+    "name": "Elezaj",
+    "local_name": "Elezaj",
+    "name_en": null,
+    "all_tags": {
+      "name": "Elezaj",
+      "boundary": "administrative",
+      "way_area": "0.000302153",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -10990797,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332180,-2088990",
+    "name": "Bajnicë",
+    "local_name": "Bajnicë",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bajnicë",
+      "boundary": "administrative",
+      "way_area": "0.000350766",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -10990774,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332180,-2088990",
+    "name": "Semajë",
+    "local_name": "Semajë",
+    "name_en": null,
+    "all_tags": {
+      "name": "Semajë",
+      "boundary": "administrative",
+      "way_area": "0.000284104",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -10990762,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332180,-2088990",
+    "name": "Koxhë Malla",
+    "local_name": "Koxhë Malla",
+    "name_en": null,
+    "all_tags": {
+      "name": "Koxhë Malla",
+      "boundary": "administrative",
+      "way_area": "0.000321881",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -10978503,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332180,-2088990",
+    "name": "Nikaj",
+    "local_name": "Nikaj",
+    "name_en": null,
+    "all_tags": {
+      "name": "Nikaj",
+      "boundary": "administrative",
+      "way_area": "0.000375469",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -10978344,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332180,-2088990",
+    "name": "Biqec",
+    "local_name": "Biqec",
+    "name_en": null,
+    "all_tags": {
+      "name": "Biqec",
+      "boundary": "administrative",
+      "way_area": "0.00107077",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -10975940,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332180,-2088990",
+    "name": "Kaçanik i Vjetër",
+    "local_name": "Kaçanik i Vjetër",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kaçanik i Vjetër",
+      "boundary": "administrative",
+      "way_area": "0.00108727",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -10975909,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332180,-2088990",
+    "name": "Begracë",
+    "local_name": "Begracë",
+    "name_en": null,
+    "all_tags": {
+      "name": "Begracë",
+      "boundary": "administrative",
+      "way_area": "0.00124298",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -10975853,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332180,-2088990",
+    "name": "Stagovë",
+    "local_name": "Stagovë",
+    "name_en": null,
+    "all_tags": {
+      "name": "Stagovë",
+      "boundary": "administrative",
+      "way_area": "0.00131537",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -10975817,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332180,-2088990",
+    "name": "Runjevë",
+    "local_name": "Runjevë",
+    "name_en": null,
+    "all_tags": {
+      "name": "Runjevë",
+      "boundary": "administrative",
+      "way_area": "0.00062374",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -10969161,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332197,-2088990",
+    "name": "Dimcë",
+    "local_name": "Dimcë",
+    "name_en": null,
+    "all_tags": {
+      "name": "Dimcë",
+      "boundary": "administrative",
+      "way_area": "0.000227256",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -10969150,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332197,-2088990",
+    "name": "Dromjak",
+    "local_name": "Dromjak",
+    "name_en": null,
+    "all_tags": {
+      "name": "Dromjak",
+      "boundary": "administrative",
+      "way_area": "0.000672243",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -10969136,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332197,-2088990",
+    "name": "Niçevc",
+    "local_name": "Niçevc",
+    "name_en": null,
+    "all_tags": {
+      "name": "Niçevc",
+      "boundary": "administrative",
+      "way_area": "0.000476765",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -10969096,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332197,-2088990",
+    "name": "Vërtomica",
+    "local_name": "Vërtomica",
+    "name_en": null,
+    "all_tags": {
+      "name": "Vërtomica",
+      "boundary": "administrative",
+      "way_area": "0.000481574",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -10969083,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332197,-2088990",
+    "name": "Paldenicë",
+    "local_name": "Paldenicë",
+    "name_en": null,
+    "all_tags": {
+      "name": "Paldenicë",
+      "boundary": "administrative",
+      "way_area": "0.000441778",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -10969015,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332180,-2088990",
+    "name": "Kurbalia",
+    "local_name": "Kurbalia",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kurbalia",
+      "boundary": "administrative",
+      "way_area": "0.00170591",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -10968981,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332180,-2088990",
+    "name": "Nikoc",
+    "local_name": "Nikoc",
+    "name_en": null,
+    "all_tags": {
+      "name": "Nikoc",
+      "boundary": "administrative",
+      "way_area": "0.000545023",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -10968968,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332180,-2088990",
+    "name": "Drenogllavë",
+    "local_name": "Drenogllavë",
+    "name_en": null,
+    "all_tags": {
+      "name": "Drenogllavë",
+      "boundary": "administrative",
+      "way_area": "0.000388595",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -10968899,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332197,-2088990",
+    "name": "Krivenik",
+    "local_name": "Krivenik",
+    "name_en": null,
+    "all_tags": {
+      "name": "Krivenik",
+      "boundary": "administrative",
+      "way_area": "0.00133946",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -10968890,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332197,-2088990",
+    "name": "Rezhancë",
+    "local_name": "Rezhancë",
+    "name_en": null,
+    "all_tags": {
+      "name": "Rezhancë",
+      "boundary": "administrative",
+      "way_area": "0.000927085",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -10968859,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332197,-2088990",
+    "name": "Seqishtë",
+    "local_name": "Seqishtë",
+    "name_en": null,
+    "all_tags": {
+      "name": "Seqishtë",
+      "name:mk": "Сечиште",
+      "boundary": "administrative",
+      "way_area": "0.000911263",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -10968557,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332197,-2088990",
+    "name": "Pustenik",
+    "local_name": "Pustenik",
+    "name_en": null,
+    "all_tags": {
+      "name": "Pustenik",
+      "boundary": "administrative",
+      "way_area": "0.00118571",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -10967389,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332197,-2088990",
+    "name": "Gurana",
+    "local_name": "Gurana",
+    "name_en": null,
+    "all_tags": {
+      "name": "Gurana",
+      "boundary": "administrative",
+      "way_area": "0.00226195",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -10966982,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332180,-2088990",
+    "name": "Bob",
+    "local_name": "Bob",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bob",
+      "boundary": "administrative",
+      "way_area": "0.000473546",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -10961233,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332178,-2088990",
+    "name": "Dobrosellë",
+    "local_name": "Dobrosellë",
+    "name_en": null,
+    "all_tags": {
+      "name": "Dobrosellë",
+      "boundary": "administrative",
+      "way_area": "0.000257997",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -10952700,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332180,-2088990",
+    "name": "Qafëshqipja",
+    "local_name": "Qafëshqipja",
+    "name_en": null,
+    "all_tags": {
+      "name": "Qafëshqipja",
+      "boundary": "administrative",
+      "way_area": "0.00153434",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -10952652,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332180,-2088990",
+    "name": "Kotlinë",
+    "local_name": "Kotlinë",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kotlinë",
+      "boundary": "administrative",
+      "way_area": "0.0011724",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -10952636,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332180,-2088990",
+    "name": "Shtrazë",
+    "local_name": "Shtrazë",
+    "name_en": null,
+    "all_tags": {
+      "name": "Shtrazë",
+      "boundary": "administrative",
+      "way_area": "0.00126282",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -10952601,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332180,-2088990",
+    "name": "Gjurgjedell",
+    "local_name": "Gjurgjedell",
+    "name_en": null,
+    "all_tags": {
+      "name": "Gjurgjedell",
+      "boundary": "administrative",
+      "way_area": "0.00125921",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -10952598,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332180,-2088990",
+    "name": "Kaçanik",
+    "local_name": "Kaçanik",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kaçanik",
+      "boundary": "administrative",
+      "way_area": "0.00190257",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -10952595,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332180,-2088990",
+    "name": "Gajre",
+    "local_name": "Gajre",
+    "name_en": null,
+    "all_tags": {
+      "name": "Gajre",
+      "boundary": "administrative",
+      "way_area": "0.000415492",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -10952593,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332180,-2088990",
+    "name": "Ivajë",
+    "local_name": "Ivajë",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ivajë",
+      "boundary": "administrative",
+      "way_area": "0.000805204",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -10952592,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332180,-2088990",
+    "name": "Kovaçec",
+    "local_name": "Kovaçec",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kovaçec",
+      "boundary": "administrative",
+      "way_area": "0.000605992",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -9186240,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332164,-2088990",
+    "name": "Vushtrri",
+    "local_name": "Vushtrri",
+    "name_en": null,
+    "all_tags": {
+      "name": "Vushtrri",
+      "name:mk": "Вучитрн",
+      "boundary": "administrative",
+      "way_area": "0.00203415",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -9050068,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332172,-2088990",
+    "name": "Livoç i Poshtëm",
+    "local_name": "Livoç i Poshtëm",
+    "name_en": null,
+    "all_tags": {
+      "name": "Livoç i Poshtëm",
+      "boundary": "administrative",
+      "way_area": "0.000886434",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -9050012,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-6901841,-2088990",
+    "name": "Grnčare",
+    "local_name": "Grnčare",
+    "name_en": null,
+    "all_tags": {
+      "name": "Grnčare",
+      "name:sq": "Gërnçar",
+      "boundary": "administrative",
+      "way_area": "0.000623232",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -9050011,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-6901841,-2088990",
+    "name": "Vrbovac - Vërboc",
+    "local_name": "Vrbovac - Vërboc",
+    "name_en": null,
+    "all_tags": {
+      "name": "Vrbovac - Vërboc",
+      "name:sq": "Vërboc",
+      "boundary": "administrative",
+      "way_area": "0.000361033",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -9050010,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-6901841,-2088990",
+    "name": "Mogillë - Mogila",
+    "local_name": "Mogillë - Mogila",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mogillë - Mogila",
+      "name:sq": "Mogillë",
+      "boundary": "administrative",
+      "way_area": "0.000938038",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -9050009,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-6901841,-2088990",
+    "name": "Klokot - Kllokot",
+    "local_name": "Klokot - Kllokot",
+    "name_en": null,
+    "all_tags": {
+      "name": "Klokot - Kllokot",
+      "name:mk": "Клокот",
+      "name:sq": "Kllokot",
+      "boundary": "administrative",
+      "way_area": "0.000633628",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -9049658,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-6901844,-2088990",
+    "name": "Pasjane",
+    "local_name": "Pasjane",
+    "name_en": null,
+    "all_tags": {
+      "name": "Pasjane",
+      "name:sq": "Pasjan",
+      "boundary": "administrative",
+      "way_area": "0.00167164",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -9049656,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-6901844,-2088990",
+    "name": "Donja Budriga",
+    "local_name": "Donja Budriga",
+    "name_en": null,
+    "all_tags": {
+      "name": "Donja Budriga",
+      "name:sq": "Budrikë e Poshtme",
+      "boundary": "administrative",
+      "way_area": "0.000581281",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -9049655,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-6901844,-2088990",
+    "name": "Parteš",
+    "local_name": "Parteš",
+    "name_en": null,
+    "all_tags": {
+      "name": "Parteš",
+      "name:mk": "Пертеш",
+      "name:sq": "Partesh",
+      "boundary": "administrative",
+      "way_area": "0.000882548",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -9046423,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332172,-2088990",
+    "name": "Gjilan",
+    "local_name": "Gjilan",
+    "name_en": null,
+    "all_tags": {
+      "name": "Gjilan",
+      "name:mk": "Гнилане",
+      "name:sr": "Гњилане",
+      "boundary": "administrative",
+      "way_area": "0.00185707",
+      "admin_level": "8",
+      "name:sr-Latn": "Gnjilane"
+    }
+  },
+  {
+    "osm_id": -8832862,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332197,-2088990",
+    "name": "Elez Han",
+    "local_name": "Han i Elezit",
+    "name_en": "Elez Han",
+    "all_tags": {
+      "name": "Han i Elezit",
+      "name:de": "Han i Elezit",
+      "name:en": "Elez Han",
+      "name:mk": "Генерал Јанковиќ",
+      "name:sq": "Han i Elezit",
+      "name:sr": "Ђенерал Јакновић",
+      "boundary": "administrative",
+      "way_area": "0.000128021",
+      "admin_level": "8",
+      "name:sr-Latn": "Elez Han",
+      "old_name:sr:1914-2012": "Ђенерал Јанковић",
+      "old_name:sr-Latn:1914-2012": "Đeneral Janković"
+    }
+  },
+  {
+    "osm_id": -8832388,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332167,-2088990",
+    "name": "Suhodoll i Poshtëm",
+    "local_name": "Suhodoll i Poshtëm",
+    "name_en": null,
+    "all_tags": {
+      "name": "Suhodoll i Poshtëm",
+      "name:sq": "Suhodoll i Poshtëm",
+      "name:sr": "Доњи Суви До",
+      "boundary": "administrative",
+      "way_area": "0.000157031",
+      "admin_level": "8",
+      "name:sr-Latn": "Donji Suvi Do"
+    }
+  },
+  {
+    "osm_id": -8832387,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-7426353,-2088990",
+    "name": "Gornji Suvi Do / Suhodoll i Epërm",
+    "local_name": "Gornji Suvi Do / Suhodoll i Epërm",
+    "name_en": null,
+    "all_tags": {
+      "name": "Gornji Suvi Do / Suhodoll i Epërm",
+      "name:sq": "Suhodoll i Epërm",
+      "name:sr": "Горњи Суви До",
+      "boundary": "administrative",
+      "way_area": "0.000234156",
+      "admin_level": "8",
+      "name:sr-Latn": "Gornji Suvi Do"
+    }
+  },
+  {
+    "osm_id": -8832386,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-7426353,-2088990",
+    "name": "Donji Suvi Do",
+    "local_name": "Donji Suvi Do",
+    "name_en": null,
+    "all_tags": {
+      "name": "Donji Suvi Do",
+      "name:sq": "Suhodoll i Poshtëm",
+      "name:sr": "Доњи Суви До",
+      "boundary": "administrative",
+      "way_area": "8.35358e-05",
+      "admin_level": "8",
+      "name:sr-Latn": "Donji Suvi Do"
+    }
+  },
+  {
+    "osm_id": -8813451,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-6901830,-2088990",
+    "name": "Badoc",
+    "local_name": "Badoc",
+    "name_en": null,
+    "all_tags": {
+      "name": "Badoc",
+      "name:sq": "Badoc",
+      "boundary": "administrative",
+      "way_area": "0.000414233",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8767107,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332188,-2088990",
+    "name": "Janjevë",
+    "local_name": "Janjevë",
+    "name_en": null,
+    "all_tags": {
+      "name": "Janjevë",
+      "name:sq": "Janjevë",
+      "boundary": "administrative",
+      "way_area": "0.00119117",
+      "admin_level": "8",
+      "postal_code": "14050",
+      "name:sr-Latn": "Janjevo"
+    }
+  },
+  {
+    "osm_id": -8758369,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332188,-2088990",
+    "name": "Teqe",
+    "local_name": "Teqe",
+    "name_en": null,
+    "all_tags": {
+      "name": "Teqe",
+      "name:sq": "Teqe",
+      "boundary": "administrative",
+      "way_area": "0.000121479",
+      "admin_level": "8",
+      "name:sr-Latn": "Teća"
+    }
+  },
+  {
+    "osm_id": -8758348,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-6901830,-2088990",
+    "name": "Donja Gušterica",
+    "local_name": "Donja Gušterica",
+    "name_en": null,
+    "all_tags": {
+      "name": "Donja Gušterica",
+      "name:sq": "Gushtericë e Poshtme",
+      "name:sr": "Donja Gušterica",
+      "boundary": "administrative",
+      "way_area": "0.00124248",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8758346,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-6901830,-2088990",
+    "name": "Gornja Gušterica",
+    "local_name": "Gornja Gušterica",
+    "name_en": null,
+    "all_tags": {
+      "name": "Gornja Gušterica",
+      "name:sq": "Gushtërice e Epërme",
+      "name:sr": "Gornja Gušterica",
+      "boundary": "administrative",
+      "way_area": "0.000696154",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8758327,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-6901830,-2088990",
+    "name": "Sushicë - Sušica",
+    "local_name": "Sushicë - Sušica",
+    "name_en": null,
+    "all_tags": {
+      "name": "Sushicë - Sušica",
+      "name:sq": "Sushicë",
+      "name:sr": "Sušica",
+      "boundary": "administrative",
+      "way_area": "0.0010904",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8758324,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-6901830,-2088990",
+    "name": "Livađe",
+    "local_name": "Livađe",
+    "name_en": null,
+    "all_tags": {
+      "name": "Livađe",
+      "name:sq": "Livaxhë",
+      "name:sr": "Livađe",
+      "boundary": "administrative",
+      "way_area": "0.001131",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8757310,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-6901830,-2088990",
+    "name": "Dobrotin",
+    "local_name": "Dobrotin",
+    "name_en": null,
+    "all_tags": {
+      "name": "Dobrotin",
+      "name:sq": "Dobratin",
+      "boundary": "administrative",
+      "way_area": "0.00087443",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8757270,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-6901830,-2088990",
+    "name": "Laplje Selo",
+    "local_name": "Laplje Selo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Laplje Selo",
+      "name:sq": "Llapnasellë",
+      "boundary": "administrative",
+      "way_area": "0.00122518",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8753677,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-6901830,-2088990",
+    "name": "Gračanica",
+    "local_name": "Gračanica",
+    "name_en": null,
+    "all_tags": {
+      "name": "Gračanica",
+      "name:mk": "Грачаница",
+      "name:sq": "Graçanicë",
+      "name:sr": "Грачаница",
+      "boundary": "administrative",
+      "way_area": "0.00144927",
+      "admin_level": "8",
+      "postal_code": "10500"
+    }
+  },
+  {
+    "osm_id": -8634555,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-6901830,-2088990",
+    "name": "Preoce",
+    "local_name": "Preoce",
+    "name_en": null,
+    "all_tags": {
+      "name": "Preoce",
+      "name:sq": "Preocë",
+      "name:sr": "Preoce",
+      "boundary": "administrative",
+      "way_area": "0.000857283",
+      "admin_level": "8",
+      "name:sr-Latn": "Preoce"
+    }
+  },
+  {
+    "osm_id": -8634517,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-6901830,-2088990",
+    "name": "Suvi Do - Suhadoll",
+    "local_name": "Suvi Do - Suhadoll",
+    "name_en": null,
+    "all_tags": {
+      "name": "Suvi Do - Suhadoll",
+      "name:sq": "Suhadoll",
+      "name:sr": "Suvi Do",
+      "boundary": "administrative",
+      "way_area": "0.00133673",
+      "admin_level": "8",
+      "name:sr-Latn": "Suvi Do"
+    }
+  },
+  {
+    "osm_id": -8634502,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-6901830,-2088990",
+    "name": "Skulanevo",
+    "local_name": "Skulanevo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Skulanevo",
+      "name:sq": "Skullan",
+      "name:sr": "Skulanevo",
+      "boundary": "administrative",
+      "way_area": "0.000656674",
+      "admin_level": "8",
+      "name:sr-Latn": "Skulanevo"
+    }
+  },
+  {
+    "osm_id": -8634492,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-6901830,-2088990",
+    "name": "Radevo - Radevë",
+    "local_name": "Radevo - Radevë",
+    "name_en": null,
+    "all_tags": {
+      "name": "Radevo - Radevë",
+      "name:sq": "Radevë",
+      "name:sr": "Radevo - Radevë",
+      "boundary": "administrative",
+      "way_area": "0.000381078",
+      "admin_level": "8",
+      "name:sr-Latn": "Radevo"
+    }
+  },
+  {
+    "osm_id": -8634476,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-6901830,-2088990",
+    "name": "Lepina - Lepi",
+    "local_name": "Lepina - Lepi",
+    "name_en": null,
+    "all_tags": {
+      "name": "Lepina - Lepi",
+      "name:sq": "Lepi",
+      "name:sr": "Lepina",
+      "boundary": "administrative",
+      "way_area": "0.000543214",
+      "admin_level": "8",
+      "name:sr-Latn": "Lepina"
+    }
+  },
+  {
+    "osm_id": -8634475,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-6901830,-2088990",
+    "name": "Batuse - Batushë",
+    "local_name": "Batuse - Batushë",
+    "name_en": null,
+    "all_tags": {
+      "name": "Batuse - Batushë",
+      "name:sq": "Batushë",
+      "name:sr": "Batuse",
+      "boundary": "administrative",
+      "way_area": "0.00049833",
+      "admin_level": "8",
+      "name:sr-Latn": "Batuse"
+    }
+  },
+  {
+    "osm_id": -8634464,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332188,-2088990",
+    "name": "Llugë",
+    "local_name": "Llugë",
+    "name_en": null,
+    "all_tags": {
+      "name": "Llugë",
+      "boundary": "administrative",
+      "way_area": "0.000192262",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8634456,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332188,-2088990",
+    "name": "Dobrajë e Vogël",
+    "local_name": "Dobrajë e Vogël",
+    "name_en": null,
+    "all_tags": {
+      "name": "Dobrajë e Vogël",
+      "boundary": "administrative",
+      "way_area": "0.000139886",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8634448,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332188,-2088990",
+    "name": "Medvec",
+    "local_name": "Medvec",
+    "name_en": null,
+    "all_tags": {
+      "name": "Medvec",
+      "boundary": "administrative",
+      "way_area": "0.000397569",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8634444,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332188,-2088990",
+    "name": "Magurë",
+    "local_name": "Magurë",
+    "name_en": null,
+    "all_tags": {
+      "name": "Magurë",
+      "boundary": "administrative",
+      "way_area": "0.000356473",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8634249,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332188,-2088990",
+    "name": "Dobrajë e Madhe",
+    "local_name": "Dobrajë e Madhe",
+    "name_en": null,
+    "all_tags": {
+      "name": "Dobrajë e Madhe",
+      "boundary": "administrative",
+      "way_area": "0.000706477",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8634210,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332188,-2088990",
+    "name": "Poturoc",
+    "local_name": "Poturoc",
+    "name_en": null,
+    "all_tags": {
+      "name": "Poturoc",
+      "boundary": "administrative",
+      "way_area": "0.00034511",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8634209,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332188,-2088990",
+    "name": "Qylagë",
+    "local_name": "Qylagë",
+    "name_en": null,
+    "all_tags": {
+      "name": "Qylagë",
+      "boundary": "administrative",
+      "way_area": "0.000339054",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8634181,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332188,-2088990",
+    "name": "Torinë",
+    "local_name": "Torinë",
+    "name_en": null,
+    "all_tags": {
+      "name": "Torinë",
+      "boundary": "administrative",
+      "way_area": "0.000153934",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8634165,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332188,-2088990",
+    "name": "Hallaç i Madh",
+    "local_name": "Hallaç i Madh",
+    "name_en": null,
+    "all_tags": {
+      "name": "Hallaç i Madh",
+      "boundary": "administrative",
+      "way_area": "0.000449592",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8634161,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332188,-2088990",
+    "name": "Rufc i Vjetër",
+    "local_name": "Rufc i Vjetër",
+    "name_en": null,
+    "all_tags": {
+      "name": "Rufc i Vjetër",
+      "boundary": "administrative",
+      "way_area": "0.000320916",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8634157,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332188,-2088990",
+    "name": "Rufc i Ri",
+    "local_name": "Rufc i Ri",
+    "name_en": null,
+    "all_tags": {
+      "name": "Rufc i Ri",
+      "boundary": "administrative",
+      "way_area": "0.000320611",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8634135,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332188,-2088990",
+    "name": "Ribar i Vogël",
+    "local_name": "Ribar i Vogël",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ribar i Vogël",
+      "boundary": "administrative",
+      "way_area": "0.000218018",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8634122,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332188,-2088990",
+    "name": "Ribar i Madh",
+    "local_name": "Ribar i Madh",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ribar i Madh",
+      "boundary": "administrative",
+      "way_area": "0.00127346",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8634112,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332188,-2088990",
+    "name": "Varigoc",
+    "local_name": "Varigoc",
+    "name_en": null,
+    "all_tags": {
+      "name": "Varigoc",
+      "boundary": "administrative",
+      "way_area": "0.000203192",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8634109,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332188,-2088990",
+    "name": "Kraishtë",
+    "local_name": "Kraishtë",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kraishtë",
+      "boundary": "administrative",
+      "way_area": "0.00107703",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8600255,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332198,-2088990",
+    "name": "Dragaš - Dragash",
+    "local_name": "Dragaš - Dragash",
+    "name_en": null,
+    "all_tags": {
+      "name": "Dragaš - Dragash",
+      "boundary": "administrative",
+      "way_area": "0.000392742",
+      "wikidata": "Q59074",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8598829,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-7426353,-2088990",
+    "name": "Severna Kosovska Mitrovica / Mitrovicë Veriore",
+    "local_name": "Severna Kosovska Mitrovica / Mitrovicë Veriore",
+    "name_en": null,
+    "all_tags": {
+      "name": "Severna Kosovska Mitrovica / Mitrovicë Veriore",
+      "name:sq": "Mitrovicë Veriore",
+      "name:sr": "Северна Косовска Митровица",
+      "boundary": "administrative",
+      "way_area": "0.000284314",
+      "admin_level": "8",
+      "alt_name:sq": "Mitrovica e Veriut",
+      "alt_name:sr": "Северна Митровица",
+      "name:sr-Latn": "Severna Kosovska Mitrovica",
+      "alt_name:sr-Latn": "Severna Mitrovica"
+    }
+  },
+  {
+    "osm_id": -8598789,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332174,-2088990",
+    "name": "Mamuša",
+    "local_name": "Mamuşa - Mamushë",
+    "name_en": "Mamuša",
+    "all_tags": {
+      "name": "Mamuşa - Mamushë",
+      "name:de": "Mamusha",
+      "name:en": "Mamuša",
+      "name:mk": "Мамуша",
+      "name:sq": "Mamushë",
+      "name:sr": "Мамуша",
+      "name:tr": "Mamuşa",
+      "boundary": "administrative",
+      "way_area": "0.00119556",
+      "admin_level": "8",
+      "postal_code": "20520",
+      "name:sr-Latn": "Mamuša"
+    }
+  },
+  {
+    "osm_id": -8598644,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332192,-2088990",
+    "name": "Ferizaj",
+    "local_name": "Ferizaj",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ferizaj",
+      "name:cs": "Uroševac",
+      "name:hr": "Uroševac",
+      "name:mk": "Урошевац",
+      "name:sr": "Урошевац",
+      "boundary": "administrative",
+      "way_area": "0.00128584",
+      "admin_level": "8",
+      "name:sr-Latn": "Uroševac"
+    }
+  },
+  {
+    "osm_id": -8429381,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332188,-2088990",
+    "name": "Zllakuqan",
+    "local_name": "Zllakuqan",
+    "name_en": null,
+    "all_tags": {
+      "name": "Zllakuqan",
+      "boundary": "administrative",
+      "way_area": "0.000124711",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8423054,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332188,-2088990",
+    "name": "Mirenë",
+    "local_name": "Mirenë",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mirenë",
+      "boundary": "administrative",
+      "way_area": "0.000644934",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8423052,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332188,-2088990",
+    "name": "Leletiq",
+    "local_name": "Leletiq",
+    "name_en": null,
+    "all_tags": {
+      "name": "Leletiq",
+      "boundary": "administrative",
+      "way_area": "0.000438824",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8423022,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332188,-2088990",
+    "name": "Vrellë e Goleshit",
+    "local_name": "Vrellë e Goleshit",
+    "name_en": null,
+    "all_tags": {
+      "name": "Vrellë e Goleshit",
+      "boundary": "administrative",
+      "way_area": "0.00130744",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8420254,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332188,-2088990",
+    "name": "Bregu i Zi",
+    "local_name": "Bregu i Zi",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bregu i Zi",
+      "boundary": "administrative",
+      "way_area": "0.000207068",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8420253,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332188,-2088990",
+    "name": "Bujan",
+    "local_name": "Bujan",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bujan",
+      "boundary": "administrative",
+      "way_area": "0.000245829",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8420217,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332188,-2088990",
+    "name": "Grackë e Vjetër - Staro Gracko",
+    "local_name": "Grackë e Vjetër - Staro Gracko",
+    "name_en": null,
+    "all_tags": {
+      "name": "Grackë e Vjetër - Staro Gracko",
+      "name:sq": "Grackë e Vjetër",
+      "name:sr": "Staro Gracko",
+      "boundary": "administrative",
+      "way_area": "0.000519329",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8416762,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332188,-2088990",
+    "name": "Grackë e Vogël",
+    "local_name": "Grackë e Vogël",
+    "name_en": null,
+    "all_tags": {
+      "name": "Grackë e Vogël",
+      "boundary": "administrative",
+      "way_area": "0.000176673",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8416753,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332188,-2088990",
+    "name": "Ruboc - Rabovce",
+    "local_name": "Ruboc - Rabovce",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ruboc - Rabovce",
+      "name:sq": "Ruboc",
+      "boundary": "administrative",
+      "way_area": "0.000756191",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8416742,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332188,-2088990",
+    "name": "Gumnasellë",
+    "local_name": "Gumnasellë",
+    "name_en": null,
+    "all_tags": {
+      "name": "Gumnasellë",
+      "boundary": "administrative",
+      "way_area": "0.000273104",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8416458,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332188,-2088990",
+    "name": "Gllogoc",
+    "local_name": "Gllogoc",
+    "name_en": null,
+    "all_tags": {
+      "name": "Gllogoc",
+      "boundary": "administrative",
+      "way_area": "0.000600487",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8411593,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332188,-2088990",
+    "name": "Kojskë",
+    "local_name": "Kojskë",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kojskë",
+      "boundary": "administrative",
+      "way_area": "0.000250823",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8411575,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332188,-2088990",
+    "name": "Topliqan",
+    "local_name": "Topliqan",
+    "name_en": null,
+    "all_tags": {
+      "name": "Topliqan",
+      "boundary": "administrative",
+      "way_area": "0.000810528",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8180570,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332178,-2088990",
+    "name": "Palaj - Crkvena Vodica",
+    "local_name": "Palaj - Crkvena Vodica",
+    "name_en": null,
+    "all_tags": {
+      "name": "Palaj - Crkvena Vodica",
+      "name:sq": "Palaj",
+      "alt_name": "Caravadicë",
+      "boundary": "administrative",
+      "way_area": "0.000774853",
+      "admin_level": "8",
+      "name:sr-Latn": "Crkvena Vodica"
+    }
+  },
+  {
+    "osm_id": -8180560,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332178,-2088990",
+    "name": "Leshkoshiq",
+    "local_name": "Leshkoshiq",
+    "name_en": null,
+    "all_tags": {
+      "name": "Leshkoshiq",
+      "boundary": "administrative",
+      "way_area": "0.000404716",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8180548,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332178,-2088990",
+    "name": "Plemetin - Plemetina",
+    "local_name": "Plemetin - Plemetina",
+    "name_en": null,
+    "all_tags": {
+      "name": "Plemetin - Plemetina",
+      "name:sq": "Plemetin",
+      "boundary": "administrative",
+      "way_area": "0.000627733",
+      "admin_level": "8",
+      "name:sr-Latn": "Plemetina"
+    }
+  },
+  {
+    "osm_id": -8180500,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332178,-2088990",
+    "name": "Obiliq",
+    "local_name": "Obiliq",
+    "name_en": null,
+    "all_tags": {
+      "name": "Obiliq",
+      "name:mk": "Обилиќ",
+      "boundary": "administrative",
+      "way_area": "0.00137751",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8153653,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332178,-2088990",
+    "name": "Mazgit",
+    "local_name": "Mazgit",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mazgit",
+      "boundary": "administrative",
+      "way_area": "0.000701078",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8153555,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332178,-2088990",
+    "name": "Llazarevë",
+    "local_name": "Llazarevë",
+    "name_en": null,
+    "all_tags": {
+      "name": "Llazarevë",
+      "boundary": "administrative",
+      "way_area": "0.000230982",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8152767,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332178,-2088990",
+    "name": "Kryshevc",
+    "local_name": "Kryshevc",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kryshevc",
+      "boundary": "administrative",
+      "way_area": "0.00072969",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8152600,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332178,-2088990",
+    "name": "Bakshi",
+    "local_name": "Bakshi",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bakshi",
+      "boundary": "administrative",
+      "way_area": "0.00022476",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8152599,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332178,-2088990",
+    "name": "Raskovë",
+    "local_name": "Raskovë",
+    "name_en": null,
+    "all_tags": {
+      "name": "Raskovë",
+      "boundary": "administrative",
+      "way_area": "9.92333e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8152524,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332178,-2088990",
+    "name": "Milloshevë",
+    "local_name": "Milloshevë",
+    "name_en": null,
+    "all_tags": {
+      "name": "Milloshevë",
+      "boundary": "administrative",
+      "way_area": "0.000806254",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8152418,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332178,-2088990",
+    "name": "Babimoc - Babin Most",
+    "local_name": "Babimoc - Babin Most",
+    "name_en": null,
+    "all_tags": {
+      "name": "Babimoc - Babin Most",
+      "name:sq": "Babimoc",
+      "boundary": "administrative",
+      "way_area": "0.000883628",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8152417,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332178,-2088990",
+    "name": "Breznicë",
+    "local_name": "Breznicë",
+    "name_en": null,
+    "all_tags": {
+      "name": "Breznicë",
+      "boundary": "administrative",
+      "way_area": "0.00157615",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8134584,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332188,-2088990",
+    "name": "Marec",
+    "local_name": "Marec",
+    "name_en": null,
+    "all_tags": {
+      "name": "Marec",
+      "boundary": "administrative",
+      "way_area": "0.000328147",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8123581,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332188,-2088990",
+    "name": "Smallushë",
+    "local_name": "Smallushë",
+    "name_en": null,
+    "all_tags": {
+      "name": "Smallushë",
+      "boundary": "administrative",
+      "way_area": "0.000944281",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8122826,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332188,-2088990",
+    "name": "Sllovi",
+    "local_name": "Sllovi",
+    "name_en": null,
+    "all_tags": {
+      "name": "Sllovi",
+      "boundary": "administrative",
+      "way_area": "0.00247818",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8122825,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332181,-2088990",
+    "name": "Shashkoc",
+    "local_name": "Shashkoc",
+    "name_en": null,
+    "all_tags": {
+      "name": "Shashkoc",
+      "name:sr": "Шашковац",
+      "boundary": "administrative",
+      "way_area": "0.000256894",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8090242,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332188,-2088990",
+    "name": "Hallaç i Vogël",
+    "local_name": "Hallaç i Vogël",
+    "name_en": null,
+    "all_tags": {
+      "name": "Hallaç i Vogël",
+      "boundary": "administrative",
+      "way_area": "0.000159433",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8090207,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332188,-2088990",
+    "name": "Lipjan",
+    "local_name": "Lipjan",
+    "name_en": null,
+    "all_tags": {
+      "name": "Lipjan",
+      "boundary": "administrative",
+      "way_area": "0.00103085",
+      "wikidata": "Q994730",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8082202,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332188,-2088990",
+    "name": "Llugaxhi",
+    "local_name": "Llugaxhi",
+    "name_en": null,
+    "all_tags": {
+      "name": "Llugaxhi",
+      "name:sr": "Лугаџија",
+      "boundary": "administrative",
+      "way_area": "0.000370344",
+      "admin_level": "8",
+      "name:sr-Latn": "Lugadžija"
+    }
+  },
+  {
+    "osm_id": -8059250,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332181,-2088990",
+    "name": "Matiqan",
+    "local_name": "Matiqan",
+    "name_en": null,
+    "all_tags": {
+      "name": "Matiqan",
+      "boundary": "administrative",
+      "way_area": "0.000794123",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8057663,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332181,-2088990",
+    "name": "Hajvalia",
+    "local_name": "Hajvalia",
+    "name_en": null,
+    "all_tags": {
+      "name": "Hajvalia",
+      "boundary": "administrative",
+      "way_area": "0.000837861",
+      "admin_level": "8",
+      "postal_code": "10510"
+    }
+  },
+  {
+    "osm_id": -8057621,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-6901830,-2088990",
+    "name": "Čaglavica (Gračanica)",
+    "local_name": "Čaglavica (Gračanica)",
+    "name_en": null,
+    "all_tags": {
+      "name": "Čaglavica (Gračanica)",
+      "name:sq": "Çagllavicë (Graçanicë)",
+      "name:sr": "Чаглавица (Грачаница)",
+      "boundary": "administrative",
+      "way_area": "0.000307592",
+      "admin_level": "8",
+      "name:sr-Latn": "Čaglavica (Gračanica)"
+    }
+  },
+  {
+    "osm_id": -8057545,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332181,-2088990",
+    "name": "Çagllavicë (Prishtinë)",
+    "local_name": "Çagllavicë (Prishtinë)",
+    "name_en": null,
+    "all_tags": {
+      "name": "Çagllavicë (Prishtinë)",
+      "name:sq": "Çagllavicë (Prishtinë)",
+      "name:sr": "Чаглавица  (Приштина)",
+      "boundary": "administrative",
+      "way_area": "0.000976923",
+      "admin_level": "8",
+      "name:sr-Latn": "Čaglavica (Priština)"
+    }
+  },
+  {
+    "osm_id": -8057528,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-6901830,-2088990",
+    "name": "Uglarë - Ugljare",
+    "local_name": "Uglarë - Ugljare",
+    "name_en": null,
+    "all_tags": {
+      "name": "Uglarë - Ugljare",
+      "name:sq": "Uglarë",
+      "boundary": "administrative",
+      "way_area": "0.000720731",
+      "admin_level": "8",
+      "name:sr-Latn": "Ugljare"
+    }
+  },
+  {
+    "osm_id": -8053729,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332181,-2088990",
+    "name": "Shkabaj",
+    "local_name": "Shkabaj",
+    "name_en": null,
+    "all_tags": {
+      "name": "Shkabaj",
+      "boundary": "administrative",
+      "way_area": "0.000201147",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8027734,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332188,-2088990",
+    "name": "Banullë",
+    "local_name": "Banullë",
+    "name_en": null,
+    "all_tags": {
+      "name": "Banullë",
+      "boundary": "administrative",
+      "way_area": "0.00042573",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8024895,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332187,-2088990",
+    "name": "Haxhaj",
+    "local_name": "Haxhaj",
+    "name_en": null,
+    "all_tags": {
+      "name": "Haxhaj",
+      "boundary": "administrative",
+      "way_area": "0.000618582",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8024894,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332187,-2088990",
+    "name": "Joshanicë / Stankaj",
+    "local_name": "Joshanicë / Stankaj",
+    "name_en": null,
+    "all_tags": {
+      "name": "Joshanicë / Stankaj",
+      "boundary": "administrative",
+      "way_area": "0.0011094",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8024893,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332187,-2088990",
+    "name": "Kuqishtë",
+    "local_name": "Kuqishtë",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kuqishtë",
+      "boundary": "administrative",
+      "way_area": "0.00131617",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7979546,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332178,-2088990",
+    "name": "Hamidi",
+    "local_name": "Hamidi",
+    "name_en": null,
+    "all_tags": {
+      "name": "Hamidi",
+      "boundary": "administrative",
+      "way_area": "0.000191076",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7979545,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332178,-2088990",
+    "name": "Hade",
+    "local_name": "Hade",
+    "name_en": null,
+    "all_tags": {
+      "name": "Hade",
+      "boundary": "administrative",
+      "way_area": "0.000539387",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7979544,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332178,-2088990",
+    "name": "Shipitullë",
+    "local_name": "Shipitullë",
+    "name_en": null,
+    "all_tags": {
+      "name": "Shipitullë",
+      "boundary": "administrative",
+      "way_area": "0.000328079",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7978030,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332178,-2088990",
+    "name": "Siboc",
+    "local_name": "Siboc",
+    "name_en": null,
+    "all_tags": {
+      "name": "Siboc",
+      "boundary": "administrative",
+      "way_area": "0.000823177",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7978029,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332178,-2088990",
+    "name": "Graboc i Epërm",
+    "local_name": "Graboc i Epërm",
+    "name_en": null,
+    "all_tags": {
+      "name": "Graboc i Epërm",
+      "boundary": "administrative",
+      "way_area": "0.000945208",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7519177,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332188,-2088990",
+    "name": "Konjuh",
+    "local_name": "Konjuh",
+    "name_en": null,
+    "all_tags": {
+      "name": "Konjuh",
+      "boundary": "administrative",
+      "way_area": "0.000447707",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7461374,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332190,-2088990",
+    "name": "Graboc i Poshtëm",
+    "local_name": "Graboc i Poshtëm",
+    "name_en": null,
+    "all_tags": {
+      "name": "Graboc i Poshtëm",
+      "boundary": "administrative",
+      "way_area": "0.000883899",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7461373,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332190,-2088990",
+    "name": "Bardh i Madh",
+    "local_name": "Bardh i Madh",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bardh i Madh",
+      "boundary": "administrative",
+      "way_area": "0.00124934",
+      "admin_level": "8",
+      "postal_code": "12060"
+    }
+  },
+  {
+    "osm_id": -7461307,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332190,-2088990",
+    "name": "Pomazotin",
+    "local_name": "Pomazotin",
+    "name_en": null,
+    "all_tags": {
+      "name": "Pomazotin",
+      "boundary": "administrative",
+      "way_area": "0.000305008",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7461306,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332190,-2088990",
+    "name": "Bardh i Vogël",
+    "local_name": "Bardh i Vogël",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bardh i Vogël",
+      "boundary": "administrative",
+      "way_area": "0.000174006",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7461305,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332190,-2088990",
+    "name": "Sllatinë e Vogël",
+    "local_name": "Sllatinë e Vogël",
+    "name_en": null,
+    "all_tags": {
+      "name": "Sllatinë e Vogël",
+      "boundary": "administrative",
+      "way_area": "0.000276856",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7461250,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332190,-2088990",
+    "name": "Sllatinë e Madhe",
+    "local_name": "Sllatinë e Madhe",
+    "name_en": null,
+    "all_tags": {
+      "name": "Sllatinë e Madhe",
+      "boundary": "administrative",
+      "way_area": "0.00117351",
+      "admin_level": "8",
+      "postal_code": "12050"
+    }
+  },
+  {
+    "osm_id": -7461249,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332190,-2088990",
+    "name": "Harilaq",
+    "local_name": "Harilaq",
+    "name_en": null,
+    "all_tags": {
+      "name": "Harilaq",
+      "boundary": "administrative",
+      "way_area": "0.000823254",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7461229,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332190,-2088990",
+    "name": "Fushë Kosovë",
+    "local_name": "Fushë Kosovë",
+    "name_en": null,
+    "all_tags": {
+      "name": "Fushë Kosovë",
+      "name:mk": "Косово Поле",
+      "name:sr": "Косово Поље",
+      "boundary": "administrative",
+      "way_area": "0.00144837",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7461222,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332190,-2088990",
+    "name": "Miradi e Epërme",
+    "local_name": "Miradi e Epërme",
+    "name_en": null,
+    "all_tags": {
+      "name": "Miradi e Epërme",
+      "boundary": "administrative",
+      "way_area": "0.000830326",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7461221,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332190,-2088990",
+    "name": "Miradi e Poshtme",
+    "local_name": "Miradi e Poshtme",
+    "name_en": null,
+    "all_tags": {
+      "name": "Miradi e Poshtme",
+      "boundary": "administrative",
+      "way_area": "0.000449497",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7461220,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332190,-2088990",
+    "name": "Henc",
+    "local_name": "Henc",
+    "name_en": null,
+    "all_tags": {
+      "name": "Henc",
+      "boundary": "administrative",
+      "way_area": "0.000301919",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7461219,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332190,-2088990",
+    "name": "Vragoli",
+    "local_name": "Vragoli",
+    "name_en": null,
+    "all_tags": {
+      "name": "Vragoli",
+      "boundary": "administrative",
+      "way_area": "0.000306338",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7461218,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332190,-2088990",
+    "name": "Kuzmin",
+    "local_name": "Kuzmin",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kuzmin",
+      "boundary": "administrative",
+      "way_area": "0.000471111",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7435962,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332190,-2088990",
+    "name": "Lismir",
+    "local_name": "Lismir",
+    "name_en": null,
+    "all_tags": {
+      "name": "Lismir",
+      "boundary": "administrative",
+      "way_area": "0.000535057",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7118787,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1332181,-2088990",
+    "name": "Pristina",
+    "local_name": "Prishtinë",
+    "name_en": "Pristina",
+    "all_tags": {
+      "name": "Prishtinë",
+      "capital": "yes",
+      "name:be": "Прышціна",
+      "name:de": "Pristina",
+      "name:en": "Pristina",
+      "name:fr": "Pristina",
+      "name:it": "Pristina",
+      "name:mk": "Приштина",
+      "name:sk": "Priština",
+      "name:sl": "Priština",
+      "name:sq": "Prishtinë",
+      "name:tr": "Priştine",
+      "boundary": "administrative",
+      "way_area": "0.00335246",
+      "wikidata": "Q25270",
+      "wikipedia": "sq:Prishtina",
+      "population": "145149",
+      "admin_level": "8",
+      "name:sr-Latn": "Priština"
+    }
+  }
+]

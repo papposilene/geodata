@@ -1,0 +1,1959 @@
+[
+  {
+    "osm_id": -6361182,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3729316,-52939",
+    "name": "Svínoy",
+    "local_name": "Svínoy",
+    "name_en": null,
+    "all_tags": {
+      "name": "Svínoy",
+      "boundary": "administrative",
+      "way_area": "0.00477641",
+      "wikidata": "Q1416487",
+      "admin_level": "8",
+      "postal_code": "765"
+    }
+  },
+  {
+    "osm_id": -2529871,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3731148,-52939",
+    "name": "Æðuvík",
+    "local_name": "Æðuvík",
+    "name_en": null,
+    "all_tags": {
+      "name": "Æðuvík",
+      "boundary": "administrative",
+      "way_area": "0.000425407",
+      "wikidata": "Q272323",
+      "admin_level": "8",
+      "addr:postcode": "645"
+    }
+  },
+  {
+    "osm_id": -2529870,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3731148,-52939",
+    "name": "Undir Gøtueiði",
+    "local_name": "Undir Gøtueiði",
+    "name_en": null,
+    "all_tags": {
+      "name": "Undir Gøtueiði",
+      "boundary": "administrative",
+      "way_area": "0.000393906",
+      "wikidata": "Q1078870",
+      "admin_level": "8",
+      "addr:postcode": "666"
+    }
+  },
+  {
+    "osm_id": -2529869,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3731148,-52939",
+    "name": "Toftir",
+    "local_name": "Toftir",
+    "name_en": null,
+    "all_tags": {
+      "name": "Toftir",
+      "boundary": "administrative",
+      "way_area": "0.000440017",
+      "wikidata": "Q840631",
+      "admin_level": "8",
+      "addr:postcode": "650"
+    }
+  },
+  {
+    "osm_id": -2529868,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3731148,-52939",
+    "name": "Søldarfjørður",
+    "local_name": "Søldarfjørður",
+    "name_en": null,
+    "all_tags": {
+      "name": "Søldarfjørður",
+      "boundary": "administrative",
+      "way_area": "0.000670104",
+      "wikidata": "Q1094343",
+      "admin_level": "8",
+      "addr:postcode": "660"
+    }
+  },
+  {
+    "osm_id": -2529867,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3731148,-52939",
+    "name": "Syðrugøta",
+    "local_name": "Syðrugøta",
+    "name_en": null,
+    "all_tags": {
+      "name": "Syðrugøta",
+      "boundary": "administrative",
+      "way_area": "0.00086471",
+      "wikidata": "Q1025144",
+      "admin_level": "8",
+      "addr:postcode": "513"
+    }
+  },
+  {
+    "osm_id": -2529866,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3731148,-52939",
+    "name": "Skipanes",
+    "local_name": "Skipanes",
+    "name_en": null,
+    "all_tags": {
+      "name": "Skipanes",
+      "boundary": "administrative",
+      "way_area": "0.000125054",
+      "wikidata": "Q1079313",
+      "admin_level": "8",
+      "addr:postcode": "665"
+    }
+  },
+  {
+    "osm_id": -2529865,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3731148,-52939",
+    "name": "Saltnes",
+    "local_name": "Saltnes",
+    "name_en": null,
+    "all_tags": {
+      "name": "Saltnes",
+      "boundary": "administrative",
+      "way_area": "2.59091e-05",
+      "admin_level": "8",
+      "addr:postcode": "656"
+    }
+  },
+  {
+    "osm_id": -2529864,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3731148,-52939",
+    "name": "Saltangará",
+    "local_name": "Saltangará",
+    "name_en": null,
+    "all_tags": {
+      "name": "Saltangará",
+      "boundary": "administrative",
+      "way_area": "0.00108044",
+      "wikidata": "Q1025146",
+      "admin_level": "8",
+      "addr:postcode": "600"
+    }
+  },
+  {
+    "osm_id": -2529863,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3731148,-52939",
+    "name": "Runavík",
+    "local_name": "Runavík",
+    "name_en": null,
+    "all_tags": {
+      "name": "Runavík",
+      "boundary": "administrative",
+      "way_area": "0.000399916",
+      "wikidata": "Q754664",
+      "admin_level": "8",
+      "addr:postcode": "620"
+    }
+  },
+  {
+    "osm_id": -2529862,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3731148,-52939",
+    "name": "Rituvík",
+    "local_name": "Rituvík",
+    "name_en": null,
+    "all_tags": {
+      "name": "Rituvík",
+      "boundary": "administrative",
+      "way_area": "0.00111452",
+      "wikidata": "Q1194895",
+      "admin_level": "8",
+      "addr:postcode": "640"
+    }
+  },
+  {
+    "osm_id": -2529861,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3731148,-52939",
+    "name": "Nes, Eysturoy",
+    "local_name": "Nes, Eysturoy",
+    "name_en": null,
+    "all_tags": {
+      "name": "Nes, Eysturoy",
+      "boundary": "administrative",
+      "way_area": "0.000594631",
+      "wikidata": "Q1079297",
+      "admin_level": "8",
+      "addr:postcode": "655"
+    }
+  },
+  {
+    "osm_id": -2529860,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3731148,-52939",
+    "name": "Glyvrar",
+    "local_name": "Glyvrar",
+    "name_en": null,
+    "all_tags": {
+      "name": "Glyvrar",
+      "boundary": "administrative",
+      "way_area": "0.00040391",
+      "wikidata": "Q1011161",
+      "admin_level": "8",
+      "addr:postcode": "625"
+    }
+  },
+  {
+    "osm_id": -2527986,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3731148,-52939",
+    "name": "Strendur",
+    "local_name": "Strendur",
+    "name_en": null,
+    "all_tags": {
+      "name": "Strendur",
+      "boundary": "administrative",
+      "way_area": "0.000968029",
+      "wikidata": "Q1025132",
+      "admin_level": "8",
+      "addr:postcode": "490"
+    }
+  },
+  {
+    "osm_id": -2527985,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3731148,-52939",
+    "name": "Skálabotnur",
+    "local_name": "Skálabotnur",
+    "name_en": null,
+    "all_tags": {
+      "name": "Skálabotnur",
+      "boundary": "administrative",
+      "way_area": "0.00401157",
+      "wikidata": "Q1079334",
+      "admin_level": "8",
+      "addr:postcode": "485"
+    }
+  },
+  {
+    "osm_id": -2527984,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3731148,-52939",
+    "name": "Skála",
+    "local_name": "Skála",
+    "name_en": null,
+    "all_tags": {
+      "name": "Skála",
+      "boundary": "administrative",
+      "way_area": "0.00180273",
+      "wikidata": "Q1025359",
+      "admin_level": "8",
+      "addr:postcode": "480"
+    }
+  },
+  {
+    "osm_id": -2527983,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3731148,-52939",
+    "name": "Selatrað",
+    "local_name": "Selatrað",
+    "name_en": null,
+    "all_tags": {
+      "name": "Selatrað",
+      "boundary": "administrative",
+      "way_area": "0.00329145",
+      "wikidata": "Q1187370",
+      "admin_level": "8",
+      "addr:postcode": "497"
+    }
+  },
+  {
+    "osm_id": -2527982,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3731148,-52939",
+    "name": "Oyri",
+    "local_name": "Oyri",
+    "name_en": null,
+    "all_tags": {
+      "name": "Oyri",
+      "boundary": "administrative",
+      "way_area": "0.00130067",
+      "wikidata": "Q977969",
+      "admin_level": "8",
+      "addr:postcode": "450"
+    }
+  },
+  {
+    "osm_id": -2527981,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3731148,-52939",
+    "name": "Oyrarbakki",
+    "local_name": "Oyrarbakki",
+    "name_en": null,
+    "all_tags": {
+      "name": "Oyrarbakki",
+      "boundary": "administrative",
+      "way_area": "0.000946808",
+      "wikidata": "Q1093197",
+      "admin_level": "8",
+      "addr:postcode": "400"
+    }
+  },
+  {
+    "osm_id": -2527980,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3731148,-52939",
+    "name": "Oyndarfjørður",
+    "local_name": "Oyndarfjørður",
+    "name_en": null,
+    "all_tags": {
+      "name": "Oyndarfjørður",
+      "boundary": "administrative",
+      "way_area": "0.00203934",
+      "wikidata": "Q730352",
+      "admin_level": "8",
+      "addr:postcode": "690"
+    }
+  },
+  {
+    "osm_id": -2527979,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3731148,-52939",
+    "name": "Norðskáli",
+    "local_name": "Norðskáli",
+    "name_en": null,
+    "all_tags": {
+      "name": "Norðskáli",
+      "boundary": "administrative",
+      "way_area": "0.00110447",
+      "wikidata": "Q1094638",
+      "admin_level": "8",
+      "addr:postcode": "460"
+    }
+  },
+  {
+    "osm_id": -2527978,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3731148,-52939",
+    "name": "Norðragøta",
+    "local_name": "Norðragøta",
+    "name_en": null,
+    "all_tags": {
+      "name": "Norðragøta",
+      "boundary": "administrative",
+      "way_area": "0.00199764",
+      "wikidata": "Q676532",
+      "admin_level": "8",
+      "addr:postcode": "512"
+    }
+  },
+  {
+    "osm_id": -2527977,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3731148,-52939",
+    "name": "Morskranes",
+    "local_name": "Morskranes",
+    "name_en": null,
+    "all_tags": {
+      "name": "Morskranes",
+      "boundary": "administrative",
+      "way_area": "0.00030006",
+      "wikidata": "Q1093208",
+      "admin_level": "8",
+      "addr:postcode": "457"
+    }
+  },
+  {
+    "osm_id": -2527976,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3731148,-52939",
+    "name": "Leirvík",
+    "local_name": "Leirvík",
+    "name_en": null,
+    "all_tags": {
+      "name": "Leirvík",
+      "boundary": "administrative",
+      "way_area": "0.00181866",
+      "wikidata": "Q840634",
+      "admin_level": "8",
+      "addr:postcode": "520"
+    }
+  },
+  {
+    "osm_id": -2527975,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3731148,-52939",
+    "name": "Kolbanargjógv",
+    "local_name": "Kolbanargjógv",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kolbanargjógv",
+      "boundary": "administrative",
+      "way_area": "0.000905102",
+      "wikidata": "Q1062950",
+      "admin_level": "8",
+      "addr:postcode": "495"
+    }
+  },
+  {
+    "osm_id": -2527974,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3731148,-52939",
+    "name": "Innan Glyvur",
+    "local_name": "Innan Glyvur",
+    "name_en": null,
+    "all_tags": {
+      "name": "Innan Glyvur",
+      "boundary": "administrative",
+      "way_area": "0.000268608",
+      "wikidata": "Q536891",
+      "admin_level": "8",
+      "addr:postcode": "494"
+    }
+  },
+  {
+    "osm_id": -2527973,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3731148,-52939",
+    "name": "Hellurnar",
+    "local_name": "Hellurnar",
+    "name_en": null,
+    "all_tags": {
+      "name": "Hellurnar",
+      "boundary": "administrative",
+      "way_area": "0.00101049",
+      "wikidata": "Q1035161",
+      "admin_level": "8",
+      "addr:postcode": "698"
+    }
+  },
+  {
+    "osm_id": -2527972,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3731148,-52939",
+    "name": "Gøtugjógv",
+    "local_name": "Gøtugjógv",
+    "name_en": null,
+    "all_tags": {
+      "name": "Gøtugjógv",
+      "boundary": "administrative",
+      "way_area": "0.000315099",
+      "wikidata": "Q1031808",
+      "admin_level": "8",
+      "addr:postcode": "511"
+    }
+  },
+  {
+    "osm_id": -2527971,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3731148,-52939",
+    "name": "Funningsfjørður",
+    "local_name": "Funningsfjørður",
+    "name_en": null,
+    "all_tags": {
+      "name": "Funningsfjørður",
+      "boundary": "administrative",
+      "way_area": "0.00353951",
+      "wikidata": "Q542954",
+      "admin_level": "8",
+      "addr:postcode": "477"
+    }
+  },
+  {
+    "osm_id": -2527970,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3731148,-52939",
+    "name": "Fuglafjørður",
+    "local_name": "Fuglafjørður",
+    "name_en": null,
+    "all_tags": {
+      "name": "Fuglafjørður",
+      "boundary": "administrative",
+      "way_area": "0.00294749",
+      "wikidata": "Q731990",
+      "admin_level": "8",
+      "addr:postcode": "530"
+    }
+  },
+  {
+    "osm_id": -2527969,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3731148,-52939",
+    "name": "Elduvík",
+    "local_name": "Elduvík",
+    "name_en": null,
+    "all_tags": {
+      "name": "Elduvík",
+      "boundary": "administrative",
+      "way_area": "0.00134196",
+      "wikidata": "Q222955",
+      "admin_level": "8",
+      "addr:postcode": "478"
+    }
+  },
+  {
+    "osm_id": -2527931,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1423027,-52939",
+    "name": "Skálavík",
+    "local_name": "Skálavík",
+    "name_en": null,
+    "all_tags": {
+      "name": "Skálavík",
+      "boundary": "administrative",
+      "way_area": "0.00494235",
+      "wikidata": "Q1093560",
+      "admin_level": "8",
+      "addr:postcode": "220"
+    }
+  },
+  {
+    "osm_id": -2527930,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1423027,-52939",
+    "name": "Skopun",
+    "local_name": "Skopun",
+    "name_en": null,
+    "all_tags": {
+      "name": "Skopun",
+      "boundary": "administrative",
+      "way_area": "0.00147897",
+      "wikidata": "Q944256",
+      "admin_level": "8",
+      "addr:postcode": "240"
+    }
+  },
+  {
+    "osm_id": -2527929,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1423027,-52939",
+    "name": "Skarvanes",
+    "local_name": "Skarvanes",
+    "name_en": null,
+    "all_tags": {
+      "name": "Skarvanes",
+      "boundary": "administrative",
+      "way_area": "0.0011004",
+      "wikidata": "Q616761",
+      "admin_level": "8",
+      "addr:postcode": "236"
+    }
+  },
+  {
+    "osm_id": -2527928,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1423027,-52939",
+    "name": "Sandur",
+    "local_name": "Sandur",
+    "name_en": null,
+    "all_tags": {
+      "name": "Sandur",
+      "boundary": "administrative",
+      "way_area": "0.0080809",
+      "wikidata": "Q842901",
+      "admin_level": "8",
+      "addr:postcode": "210"
+    }
+  },
+  {
+    "osm_id": -2527927,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1423027,-52939",
+    "name": "Húsavík",
+    "local_name": "Húsavík",
+    "name_en": null,
+    "all_tags": {
+      "name": "Húsavík",
+      "name:lt": "Husavikas",
+      "name:ru": "Хусавик",
+      "boundary": "administrative",
+      "way_area": "0.00155271",
+      "wikidata": "Q1025376",
+      "admin_level": "8",
+      "addr:postcode": "230"
+    }
+  },
+  {
+    "osm_id": -2527926,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1423027,-52939",
+    "name": "Dalur",
+    "local_name": "Dalur",
+    "name_en": null,
+    "all_tags": {
+      "name": "Dalur",
+      "boundary": "administrative",
+      "way_area": "0.00178278",
+      "wikidata": "Q519723",
+      "admin_level": "8",
+      "addr:postcode": "235"
+    }
+  },
+  {
+    "osm_id": -2402127,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3731148,-52939",
+    "name": "Svínáir",
+    "local_name": "Svínáir",
+    "name_en": null,
+    "all_tags": {
+      "name": "Svínáir",
+      "boundary": "administrative",
+      "way_area": "0.00107912",
+      "wikidata": "Q946327",
+      "admin_level": "8",
+      "addr:postcode": "465"
+    }
+  },
+  {
+    "osm_id": -2402126,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3731148,-52939",
+    "name": "Ljósá",
+    "local_name": "Ljósá",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ljósá",
+      "boundary": "administrative",
+      "way_area": "0.00143817",
+      "wikidata": "Q733544",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -2402125,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3731148,-52939",
+    "name": "Gjógv",
+    "local_name": "Gjógv",
+    "name_en": null,
+    "all_tags": {
+      "name": "Gjógv",
+      "boundary": "administrative",
+      "way_area": "0.00249689",
+      "wikidata": "Q939708",
+      "admin_level": "8",
+      "addr:postcode": "476"
+    }
+  },
+  {
+    "osm_id": -2402124,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3731148,-52939",
+    "name": "Funningur",
+    "local_name": "Funningur",
+    "name_en": null,
+    "all_tags": {
+      "name": "Funningur",
+      "boundary": "administrative",
+      "way_area": "0.00195613",
+      "wikidata": "Q585236",
+      "admin_level": "8",
+      "addr:postcode": "475"
+    }
+  },
+  {
+    "osm_id": -2402123,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3731148,-52939",
+    "name": "Eiði",
+    "local_name": "Eiði",
+    "name_en": null,
+    "all_tags": {
+      "name": "Eiði",
+      "boundary": "administrative",
+      "way_area": "0.00381532",
+      "wikidata": "Q691775",
+      "admin_level": "8",
+      "addr:postcode": "470"
+    }
+  },
+  {
+    "osm_id": -2359155,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3729316,-52939",
+    "name": "Árnafjørður",
+    "local_name": "Árnafjørður",
+    "name_en": null,
+    "all_tags": {
+      "name": "Árnafjørður",
+      "boundary": "administrative",
+      "way_area": "0.00286864",
+      "wikidata": "Q252240",
+      "admin_level": "8",
+      "addr:postcode": "727"
+    }
+  },
+  {
+    "osm_id": -2359154,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3729316,-52939",
+    "name": "Ánirnar",
+    "local_name": "Ánirnar",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ánirnar",
+      "boundary": "administrative",
+      "way_area": "0.00260266",
+      "wikidata": "Q252128",
+      "admin_level": "8",
+      "addr:postcode": "726"
+    }
+  },
+  {
+    "osm_id": -2359153,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3729316,-52939",
+    "name": "Norðtoftir",
+    "local_name": "Norðtoftir",
+    "name_en": null,
+    "all_tags": {
+      "name": "Norðtoftir",
+      "boundary": "administrative",
+      "way_area": "0.00129741",
+      "wikidata": "Q967227",
+      "admin_level": "8",
+      "addr:postcode": "736"
+    }
+  },
+  {
+    "osm_id": -2359152,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3729316,-52939",
+    "name": "Norðoyri",
+    "local_name": "Norðoyri",
+    "name_en": null,
+    "all_tags": {
+      "name": "Norðoyri",
+      "boundary": "administrative",
+      "way_area": "0.0017953",
+      "wikidata": "Q255015",
+      "admin_level": "8",
+      "addr:postcode": "725"
+    }
+  },
+  {
+    "osm_id": -2359151,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3729316,-52939",
+    "name": "Norðdepil",
+    "local_name": "Norðdepil",
+    "name_en": null,
+    "all_tags": {
+      "name": "Norðdepil",
+      "boundary": "administrative",
+      "way_area": "0.00058359",
+      "wikidata": "Q931144",
+      "admin_level": "8",
+      "addr:postcode": "730"
+    }
+  },
+  {
+    "osm_id": -2359150,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3729316,-52939",
+    "name": "Múli",
+    "local_name": "Múli",
+    "name_en": null,
+    "all_tags": {
+      "name": "Múli",
+      "boundary": "administrative",
+      "way_area": "0.00127443",
+      "wikidata": "Q1194908",
+      "admin_level": "8",
+      "addr:postcode": "737"
+    }
+  },
+  {
+    "osm_id": -2359149,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3729316,-52939",
+    "name": "Klaksvik",
+    "local_name": "Klaksvik",
+    "name_en": null,
+    "all_tags": {
+      "name": "Klaksvik",
+      "boundary": "administrative",
+      "way_area": "0.00536008",
+      "wikidata": "Q189361",
+      "admin_level": "8",
+      "addr:postcode": "700"
+    }
+  },
+  {
+    "osm_id": -2359148,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3729316,-52939",
+    "name": "Depil",
+    "local_name": "Depil",
+    "name_en": null,
+    "all_tags": {
+      "name": "Depil",
+      "boundary": "administrative",
+      "way_area": "0.000649861",
+      "wikidata": "Q904087",
+      "admin_level": "8",
+      "addr:postcode": "735"
+    }
+  },
+  {
+    "osm_id": -2296582,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3729316,-52939",
+    "name": "Viðareiði",
+    "local_name": "Viðareiði",
+    "name_en": null,
+    "all_tags": {
+      "name": "Viðareiði",
+      "boundary": "administrative",
+      "way_area": "0.00527355",
+      "wikidata": "Q901774",
+      "admin_level": "8",
+      "addr:postcode": "750"
+    }
+  },
+  {
+    "osm_id": -2296581,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3729316,-52939",
+    "name": "Trøllanes",
+    "local_name": "Trøllanes",
+    "name_en": null,
+    "all_tags": {
+      "name": "Trøllanes",
+      "boundary": "administrative",
+      "way_area": "0.000726586",
+      "wikidata": "Q1093572",
+      "admin_level": "8",
+      "addr:postcode": "798"
+    }
+  },
+  {
+    "osm_id": -2296580,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3729316,-52939",
+    "name": "Mikladalur",
+    "local_name": "Mikladalur",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mikladalur",
+      "boundary": "administrative",
+      "way_area": "0.0017267",
+      "wikidata": "Q635350",
+      "admin_level": "8",
+      "addr:postcode": "797"
+    }
+  },
+  {
+    "osm_id": -2296579,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3729316,-52939",
+    "name": "Kunoy",
+    "local_name": "Kunoy",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kunoy",
+      "boundary": "administrative",
+      "way_area": "0.00323497",
+      "wikidata": "Q1093548",
+      "admin_level": "8",
+      "addr:postcode": "780"
+    }
+  },
+  {
+    "osm_id": -2296578,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3729316,-52939",
+    "name": "Kirkja",
+    "local_name": "Kirkja",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kirkja",
+      "boundary": "administrative",
+      "way_area": "0.00089161",
+      "wikidata": "Q375415",
+      "admin_level": "8",
+      "addr:postcode": "766"
+    }
+  },
+  {
+    "osm_id": -2296577,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3729316,-52939",
+    "name": "Hvannasund",
+    "local_name": "Hvannasund",
+    "name_en": null,
+    "all_tags": {
+      "name": "Hvannasund",
+      "boundary": "administrative",
+      "way_area": "0.00178914",
+      "wikidata": "Q933117",
+      "admin_level": "8",
+      "addr:postcode": "740"
+    }
+  },
+  {
+    "osm_id": -2296576,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3729316,-52939",
+    "name": "Hattarvík",
+    "local_name": "Hattarvík",
+    "name_en": null,
+    "all_tags": {
+      "name": "Hattarvík",
+      "boundary": "administrative",
+      "way_area": "0.00102354",
+      "wikidata": "Q615780",
+      "admin_level": "8",
+      "addr:postcode": "767"
+    }
+  },
+  {
+    "osm_id": -2296575,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3729316,-52939",
+    "name": "Haraldssund",
+    "local_name": "Haraldssund",
+    "name_en": null,
+    "all_tags": {
+      "name": "Haraldssund",
+      "boundary": "administrative",
+      "way_area": "0.00289369",
+      "wikidata": "Q1025148",
+      "admin_level": "8",
+      "addr:postcode": "785"
+    }
+  },
+  {
+    "osm_id": -2181489,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3729247,-52939",
+    "name": "Víkarbyrgi",
+    "local_name": "Víkarbyrgi",
+    "name_en": null,
+    "all_tags": {
+      "name": "Víkarbyrgi",
+      "boundary": "administrative",
+      "way_area": "0.00110674",
+      "wikidata": "Q1025383",
+      "admin_level": "8",
+      "addr:postcode": "928"
+    }
+  },
+  {
+    "osm_id": -2181488,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3729247,-52939",
+    "name": "Vágur",
+    "local_name": "Vágur",
+    "name_en": null,
+    "all_tags": {
+      "name": "Vágur",
+      "boundary": "administrative",
+      "way_area": "0.00316",
+      "wikidata": "Q754670",
+      "admin_level": "8",
+      "addr:postcode": "900"
+    }
+  },
+  {
+    "osm_id": -2181487,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3729247,-52939",
+    "name": "Sumba",
+    "local_name": "Sumba",
+    "name_en": null,
+    "all_tags": {
+      "name": "Sumba",
+      "boundary": "administrative",
+      "way_area": "0.00229528",
+      "wikidata": "Q901784",
+      "admin_level": "8",
+      "addr:postcode": "970"
+    }
+  },
+  {
+    "osm_id": -2181486,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3729247,-52939",
+    "name": "Porkeri",
+    "local_name": "Porkeri",
+    "name_en": null,
+    "all_tags": {
+      "name": "Porkeri",
+      "boundary": "administrative",
+      "way_area": "0.00225783",
+      "wikidata": "Q943723",
+      "admin_level": "8",
+      "addr:postcode": "950"
+    }
+  },
+  {
+    "osm_id": -2181485,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3729247,-52939",
+    "name": "Nes",
+    "local_name": "Nes",
+    "name_en": null,
+    "all_tags": {
+      "name": "Nes",
+      "boundary": "administrative",
+      "way_area": "0.000346191",
+      "wikidata": "Q1062936",
+      "admin_level": "8",
+      "addr:postcode": "925"
+    }
+  },
+  {
+    "osm_id": -2181484,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3729247,-52939",
+    "name": "Lopra",
+    "local_name": "Lopra",
+    "name_en": null,
+    "all_tags": {
+      "name": "Lopra",
+      "boundary": "administrative",
+      "way_area": "0.000450918",
+      "wikidata": "Q369892",
+      "admin_level": "8",
+      "addr:postcode": "926"
+    }
+  },
+  {
+    "osm_id": -2181483,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3729247,-52939",
+    "name": "Akrar",
+    "local_name": "Akrar",
+    "name_en": null,
+    "all_tags": {
+      "name": "Akrar",
+      "boundary": "administrative",
+      "way_area": "0.000352574",
+      "wikidata": "Q420746",
+      "admin_level": "8",
+      "addr:postcode": "927"
+    }
+  },
+  {
+    "osm_id": -2178543,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3729247,-52939",
+    "name": "Ørðavík",
+    "local_name": "Ørðavík",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ørðavík",
+      "boundary": "administrative",
+      "way_area": "0.00187062",
+      "wikidata": "Q285039",
+      "admin_level": "8",
+      "addr:postcode": "827"
+    }
+  },
+  {
+    "osm_id": -2178542,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3729247,-52939",
+    "name": "Tvøroyri",
+    "local_name": "Tvøroyri",
+    "name_en": null,
+    "all_tags": {
+      "name": "Tvøroyri",
+      "boundary": "administrative",
+      "way_area": "0.000856088",
+      "wikidata": "Q754666",
+      "admin_level": "8",
+      "addr:postcode": "800"
+    }
+  },
+  {
+    "osm_id": -2178541,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3729247,-52939",
+    "name": "Trongisvágur",
+    "local_name": "Trongisvágur",
+    "name_en": null,
+    "all_tags": {
+      "name": "Trongisvágur",
+      "boundary": "administrative",
+      "way_area": "0.00292944",
+      "wikidata": "Q247637",
+      "admin_level": "8",
+      "addr:postcode": "826"
+    }
+  },
+  {
+    "osm_id": -2178540,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3729247,-52939",
+    "name": "Sandvík",
+    "local_name": "Sandvík",
+    "name_en": null,
+    "all_tags": {
+      "name": "Sandvík",
+      "boundary": "administrative",
+      "way_area": "0.00194981",
+      "wikidata": "Q1025816",
+      "admin_level": "8",
+      "addr:postcode": "860"
+    }
+  },
+  {
+    "osm_id": -2178539,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3729247,-52939",
+    "name": "Hvalba",
+    "local_name": "Hvalba",
+    "name_en": null,
+    "all_tags": {
+      "name": "Hvalba",
+      "boundary": "administrative",
+      "way_area": "0.0048496",
+      "wikidata": "Q666627",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -2178538,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3729247,-52939",
+    "name": "Hov",
+    "local_name": "Hov",
+    "name_en": null,
+    "all_tags": {
+      "name": "Hov",
+      "boundary": "administrative",
+      "way_area": "0.00176466",
+      "wikidata": "Q1025136",
+      "admin_level": "8",
+      "addr:postcode": "960"
+    }
+  },
+  {
+    "osm_id": -2178537,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3729247,-52939",
+    "name": "Fámjin",
+    "local_name": "Fámjin",
+    "name_en": null,
+    "all_tags": {
+      "name": "Fámjin",
+      "boundary": "administrative",
+      "way_area": "0.00225743",
+      "wikidata": "Q932433",
+      "admin_level": "8",
+      "addr:postcode": "870"
+    }
+  },
+  {
+    "osm_id": -2178536,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3729247,-52939",
+    "name": "Froðba",
+    "local_name": "Froðba",
+    "name_en": null,
+    "all_tags": {
+      "name": "Froðba",
+      "boundary": "administrative",
+      "way_area": "0.00155744",
+      "wikidata": "Q301686",
+      "admin_level": "8",
+      "addr:postcode": "825"
+    }
+  },
+  {
+    "osm_id": -2154111,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3729300,-52939",
+    "name": "Vatnsoyrar",
+    "local_name": "Vatnsoyrar",
+    "name_en": null,
+    "all_tags": {
+      "name": "Vatnsoyrar",
+      "boundary": "administrative",
+      "way_area": "0.00535661",
+      "wikidata": "Q478452",
+      "admin_level": "8",
+      "addr:postcode": "385"
+    }
+  },
+  {
+    "osm_id": -2154110,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3729300,-52939",
+    "name": "Sørvágur",
+    "local_name": "Sørvágur",
+    "name_en": null,
+    "all_tags": {
+      "name": "Sørvágur",
+      "boundary": "administrative",
+      "way_area": "0.00679254",
+      "wikidata": "Q906365",
+      "admin_level": "8",
+      "addr:postcode": "380"
+    }
+  },
+  {
+    "osm_id": -2154109,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3729300,-52939",
+    "name": "Sandavágur",
+    "local_name": "Sandavágur",
+    "name_en": null,
+    "all_tags": {
+      "name": "Sandavágur",
+      "boundary": "administrative",
+      "way_area": "0.00966552",
+      "wikidata": "Q845272",
+      "admin_level": "8",
+      "addr:postcode": "360"
+    }
+  },
+  {
+    "osm_id": -2154108,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3729300,-52939",
+    "name": "Miðvágur",
+    "local_name": "Miðvágur",
+    "name_en": null,
+    "all_tags": {
+      "name": "Miðvágur",
+      "boundary": "administrative",
+      "way_area": "0.00266936",
+      "wikidata": "Q855785",
+      "admin_level": "8",
+      "addr:postcode": "370"
+    }
+  },
+  {
+    "osm_id": -2154107,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3729300,-52939",
+    "name": "Gásadalur",
+    "local_name": "Gásadalur",
+    "name_en": null,
+    "all_tags": {
+      "name": "Gásadalur",
+      "boundary": "administrative",
+      "way_area": "0.00293543",
+      "wikidata": "Q226056",
+      "admin_level": "8",
+      "addr:postcode": "387"
+    }
+  },
+  {
+    "osm_id": -2154106,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3729300,-52939",
+    "name": "Bøur",
+    "local_name": "Bøur",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bøur",
+      "boundary": "administrative",
+      "way_area": "0.00294739",
+      "wikidata": "Q855276",
+      "admin_level": "8",
+      "addr:postcode": "386"
+    }
+  },
+  {
+    "osm_id": -2135807,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3729343,-52939",
+    "name": "Tjørnuvík",
+    "local_name": "Tjørnuvík",
+    "name_en": null,
+    "all_tags": {
+      "name": "Tjørnuvík",
+      "boundary": "administrative",
+      "way_area": "0.00280513",
+      "wikidata": "Q1093578",
+      "admin_level": "8",
+      "addr:postcode": "445"
+    }
+  },
+  {
+    "osm_id": -2135806,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3729316,-52939",
+    "name": "Syðradalur, Kal.",
+    "local_name": "Syðradalur, Kal.",
+    "name_en": null,
+    "all_tags": {
+      "name": "Syðradalur, Kal.",
+      "boundary": "administrative",
+      "way_area": "0.00107361",
+      "wikidata": "Q635006",
+      "admin_level": "8",
+      "addr:postcode": "795"
+    }
+  },
+  {
+    "osm_id": -2135805,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3729343,-52939",
+    "name": "Streymnes",
+    "local_name": "Streymnes",
+    "name_en": null,
+    "all_tags": {
+      "name": "Streymnes",
+      "boundary": "administrative",
+      "way_area": "0.00124511",
+      "wikidata": "Q610017",
+      "admin_level": "8",
+      "addr:postcode": "435"
+    }
+  },
+  {
+    "osm_id": -2135804,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3729343,-52939",
+    "name": "Saksun",
+    "local_name": "Saksun",
+    "name_en": null,
+    "all_tags": {
+      "name": "Saksun",
+      "boundary": "administrative",
+      "way_area": "0.00551261",
+      "wikidata": "Q928875",
+      "admin_level": "8",
+      "addr:postcode": "436"
+    }
+  },
+  {
+    "osm_id": -2135803,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3729343,-52939",
+    "name": "Nesvík",
+    "local_name": "Nesvík",
+    "name_en": null,
+    "all_tags": {
+      "name": "Nesvík",
+      "boundary": "administrative",
+      "way_area": "0.00102998",
+      "wikidata": "Q1079427",
+      "admin_level": "8",
+      "addr:postcode": "437"
+    }
+  },
+  {
+    "osm_id": -2135802,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3729343,-52939",
+    "name": "Langasandur",
+    "local_name": "Langasandur",
+    "name_en": null,
+    "all_tags": {
+      "name": "Langasandur",
+      "boundary": "administrative",
+      "way_area": "0.000891275",
+      "wikidata": "Q774649",
+      "admin_level": "8",
+      "addr:postcode": "438"
+    }
+  },
+  {
+    "osm_id": -2135801,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3729316,-52939",
+    "name": "Húsar",
+    "local_name": "Húsar",
+    "name_en": null,
+    "all_tags": {
+      "name": "Húsar",
+      "boundary": "administrative",
+      "way_area": "0.00174326",
+      "wikidata": "Q933144",
+      "admin_level": "8",
+      "addr:postcode": "796"
+    }
+  },
+  {
+    "osm_id": -2135800,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3729343,-52939",
+    "name": "Hvalvík",
+    "local_name": "Hvalvík",
+    "name_en": null,
+    "all_tags": {
+      "name": "Hvalvík",
+      "boundary": "administrative",
+      "way_area": "0.00446514",
+      "wikidata": "Q585244",
+      "admin_level": "8",
+      "addr:postcode": "430"
+    }
+  },
+  {
+    "osm_id": -2135799,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3729343,-52939",
+    "name": "Haldórsvík",
+    "local_name": "Haldórsvík",
+    "name_en": null,
+    "all_tags": {
+      "name": "Haldórsvík",
+      "boundary": "administrative",
+      "way_area": "0.0030345",
+      "wikidata": "Q1032883",
+      "admin_level": "8",
+      "addr:postcode": "440"
+    }
+  },
+  {
+    "osm_id": -2113995,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3729343,-52939",
+    "name": "Válur",
+    "local_name": "Válur",
+    "name_en": null,
+    "all_tags": {
+      "name": "Válur",
+      "boundary": "administrative",
+      "way_area": "0.00102241",
+      "wikidata": "Q1093565",
+      "admin_level": "8",
+      "addr:postcode": "358"
+    }
+  },
+  {
+    "osm_id": -2113994,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3729343,-52939",
+    "name": "Vestmanna",
+    "local_name": "Vestmanna",
+    "name_en": null,
+    "all_tags": {
+      "name": "Vestmanna",
+      "boundary": "administrative",
+      "way_area": "0.00881139",
+      "wikidata": "Q608352",
+      "admin_level": "8",
+      "addr:postcode": "350"
+    }
+  },
+  {
+    "osm_id": -2113993,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3729343,-52939",
+    "name": "Stykkið",
+    "local_name": "Stykkið",
+    "name_en": null,
+    "all_tags": {
+      "name": "Stykkið",
+      "boundary": "administrative",
+      "way_area": "0.00119549",
+      "wikidata": "Q747454",
+      "admin_level": "8",
+      "addr:postcode": "330"
+    }
+  },
+  {
+    "osm_id": -2113992,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3729343,-52939",
+    "name": "Skælingur",
+    "local_name": "Skælingur",
+    "name_en": null,
+    "all_tags": {
+      "name": "Skælingur",
+      "boundary": "administrative",
+      "way_area": "0.00142338",
+      "wikidata": "Q845935",
+      "admin_level": "8",
+      "addr:postcode": "336"
+    }
+  },
+  {
+    "osm_id": -2113991,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3729343,-52939",
+    "name": "Signabøur",
+    "local_name": "Signabøur",
+    "name_en": null,
+    "all_tags": {
+      "name": "Signabøur",
+      "boundary": "administrative",
+      "way_area": "0.000986293",
+      "wikidata": "Q980127",
+      "admin_level": "8",
+      "addr:postcode": "416"
+    }
+  },
+  {
+    "osm_id": -2113990,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3729343,-52939",
+    "name": "Oyrareingir",
+    "local_name": "Oyrareingir",
+    "name_en": null,
+    "all_tags": {
+      "name": "Oyrareingir",
+      "boundary": "administrative",
+      "way_area": "0.000627257",
+      "wikidata": "Q1062967",
+      "admin_level": "8",
+      "addr:postcode": "415"
+    }
+  },
+  {
+    "osm_id": -2113989,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3729343,-52939",
+    "name": "Leynar",
+    "local_name": "Leynar",
+    "name_en": null,
+    "all_tags": {
+      "name": "Leynar",
+      "boundary": "administrative",
+      "way_area": "0.00107728",
+      "wikidata": "Q587264",
+      "admin_level": "8",
+      "addr:postcode": "335"
+    }
+  },
+  {
+    "osm_id": -2113988,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3729343,-52939",
+    "name": "Kvívík",
+    "local_name": "Kvívík",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kvívík",
+      "boundary": "administrative",
+      "way_area": "0.00368031",
+      "wikidata": "Q933130",
+      "admin_level": "8",
+      "addr:postcode": "340"
+    }
+  },
+  {
+    "osm_id": -2113987,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3729343,-52939",
+    "name": "Kollafjørður",
+    "local_name": "Kollafjørður",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kollafjørður",
+      "boundary": "administrative",
+      "way_area": "0.00500287",
+      "wikidata": "Q266643",
+      "admin_level": "8",
+      "addr:postcode": "410"
+    }
+  },
+  {
+    "osm_id": -2113986,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3729343,-52939",
+    "name": "Kaldbaksbotnur",
+    "local_name": "Kaldbaksbotnur",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kaldbaksbotnur",
+      "boundary": "administrative",
+      "way_area": "0.001476",
+      "wikidata": "Q925121",
+      "admin_level": "8",
+      "addr:postcode": "185"
+    }
+  },
+  {
+    "osm_id": -2113985,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3729343,-52939",
+    "name": "Kaldbak",
+    "local_name": "Kaldbak",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kaldbak",
+      "boundary": "administrative",
+      "way_area": "0.00330261",
+      "wikidata": "Q1025151",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -2113984,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3729343,-52939",
+    "name": "Hósvík",
+    "local_name": "Hósvík",
+    "name_en": null,
+    "all_tags": {
+      "name": "Hósvík",
+      "boundary": "administrative",
+      "way_area": "0.0018217",
+      "wikidata": "Q740111",
+      "admin_level": "8",
+      "addr:postcode": "420"
+    }
+  },
+  {
+    "osm_id": -2098986,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3729343,-52939",
+    "name": "Velbastaður",
+    "local_name": "Velbastaður",
+    "name_en": null,
+    "all_tags": {
+      "name": "Velbastaður",
+      "boundary": "administrative",
+      "way_area": "0.00289639",
+      "wikidata": "Q1194901",
+      "admin_level": "8",
+      "addr:postcode": "176"
+    }
+  },
+  {
+    "osm_id": -2098985,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3729343,-52939",
+    "name": "Tórshavn",
+    "local_name": "Tórshavn",
+    "name_en": null,
+    "all_tags": {
+      "name": "Tórshavn",
+      "name:da": "Thorshavn",
+      "name:la": "Thori Portus",
+      "name:ru": "Торсхавн",
+      "boundary": "administrative",
+      "way_area": "0.00265754",
+      "wikidata": "Q10704",
+      "wikipedia": "fo:Tórshavn",
+      "admin_level": "8",
+      "addr:postcode": "100"
+    }
+  },
+  {
+    "osm_id": -2098984,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3729343,-52939",
+    "name": "Syðradalur",
+    "local_name": "Syðradalur",
+    "name_en": null,
+    "all_tags": {
+      "name": "Syðradalur",
+      "boundary": "administrative",
+      "way_area": "0.000692383",
+      "wikidata": "Q1062976",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -2098983,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3729343,-52939",
+    "name": "Sund",
+    "local_name": "Sund",
+    "name_en": null,
+    "all_tags": {
+      "name": "Sund",
+      "boundary": "administrative",
+      "way_area": "0.00122915",
+      "wikidata": "Q734190",
+      "admin_level": "8",
+      "addr:postcode": "186"
+    }
+  },
+  {
+    "osm_id": -2098982,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3729343,-52939",
+    "name": "Norðadalur",
+    "local_name": "Norðadalur",
+    "name_en": null,
+    "all_tags": {
+      "name": "Norðadalur",
+      "boundary": "administrative",
+      "way_area": "0.00177547",
+      "wikidata": "Q978702",
+      "admin_level": "8",
+      "addr:postcode": "178"
+    }
+  },
+  {
+    "osm_id": -2098981,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3729343,-52939",
+    "name": "Kirkjubøur",
+    "local_name": "Kirkjubøur",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kirkjubøur",
+      "boundary": "administrative",
+      "way_area": "0.00157238",
+      "wikidata": "Q578732",
+      "admin_level": "8",
+      "addr:postcode": "175"
+    }
+  },
+  {
+    "osm_id": -2098980,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3729343,-52939",
+    "name": "Hvítanes",
+    "local_name": "Hvítanes",
+    "name_en": null,
+    "all_tags": {
+      "name": "Hvítanes",
+      "boundary": "administrative",
+      "way_area": "0.000108541",
+      "admin_level": "8",
+      "addr:postcode": "187"
+    }
+  },
+  {
+    "osm_id": -2098979,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3729343,-52939",
+    "name": "Hoyvík",
+    "local_name": "Hoyvík",
+    "name_en": null,
+    "all_tags": {
+      "name": "Hoyvík",
+      "boundary": "administrative",
+      "way_area": "0.00198353",
+      "wikidata": "Q677723",
+      "admin_level": "8",
+      "addr:postcode": "188"
+    }
+  },
+  {
+    "osm_id": -2098978,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3729343,-52939",
+    "name": "Argir",
+    "local_name": "Argir",
+    "name_en": null,
+    "all_tags": {
+      "name": "Argir",
+      "boundary": "administrative",
+      "way_area": "0.00227365",
+      "wikidata": "Q647534",
+      "admin_level": "8",
+      "addr:postcode": "160"
+    }
+  },
+  {
+    "osm_id": -2066802,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1423027,-52939",
+    "name": "Stóra Dímun",
+    "local_name": "Stóra Dímun",
+    "name_en": null,
+    "all_tags": {
+      "name": "Stóra Dímun",
+      "boundary": "administrative",
+      "way_area": "0.000457619",
+      "wikidata": "Q9249099",
+      "wikipedia": "en:Stóra Dímun",
+      "admin_level": "8",
+      "postal_code": "286"
+    }
+  },
+  {
+    "osm_id": -2066801,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3729343,-52939",
+    "name": "Nólsoy",
+    "local_name": "Nólsoy",
+    "name_en": null,
+    "all_tags": {
+      "name": "Nólsoy",
+      "boundary": "administrative",
+      "way_area": "0.00175782",
+      "wikidata": "Q946470",
+      "admin_level": "8",
+      "postal_code": "270"
+    }
+  },
+  {
+    "osm_id": -2066800,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3729300,-52939",
+    "name": "Mykines",
+    "local_name": "Mykines",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mykines",
+      "boundary": "administrative",
+      "way_area": "0.00166543",
+      "wikidata": "Q1180285",
+      "admin_level": "8",
+      "postal_code": "388"
+    }
+  },
+  {
+    "osm_id": -2066799,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3729343,-52939",
+    "name": "Koltur",
+    "local_name": "Koltur",
+    "name_en": null,
+    "all_tags": {
+      "name": "Koltur",
+      "place": "island",
+      "boundary": "administrative",
+      "way_area": "0.000393384",
+      "wikidata": "Q746837",
+      "admin_level": "8",
+      "postal_code": "285"
+    }
+  },
+  {
+    "osm_id": -2066798,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3729343,-52939",
+    "name": "Hestur",
+    "local_name": "Hestur",
+    "name_en": null,
+    "all_tags": {
+      "name": "Hestur",
+      "boundary": "administrative",
+      "way_area": "0.00101358",
+      "wikidata": "Q1035832",
+      "admin_level": "8",
+      "postal_code": "280"
+    }
+  },
+  {
+    "osm_id": -2015438,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1423027,-52939",
+    "name": "Skúvoy",
+    "local_name": "Skúvoy",
+    "name_en": null,
+    "all_tags": {
+      "name": "Skúvoy",
+      "boundary": "administrative",
+      "way_area": "0.00172817",
+      "wikidata": "Q6274717",
+      "admin_level": "8",
+      "postal_code": "260"
+    }
+  }
+]

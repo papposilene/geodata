@@ -1,0 +1,67 @@
+[
+  {
+    "osm_id": -4601906,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1637039,-555017",
+    "name": "Ramble",
+    "local_name": "Ramble",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ramble",
+      "place": "village",
+      "boundary": "administrative",
+      "way_area": "0.00010394",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -4600634,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-319362,-1637039,-555017",
+    "name": "Trinity Ville",
+    "local_name": "Trinity Ville",
+    "name_en": null,
+    "all_tags": {
+      "name": "Trinity Ville",
+      "place": "village",
+      "boundary": "administrative",
+      "way_area": "0.00142545",
+      "wikipedia": "en:Trinity Ville, Jamaica",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -4600633,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-319362,-1637039,-555017",
+    "name": "Seaforth",
+    "local_name": "Seaforth",
+    "name_en": null,
+    "all_tags": {
+      "name": "Seaforth",
+      "place": "village",
+      "boundary": "administrative",
+      "way_area": "0.000460049",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -4600632,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-319362,-1637039,-555017",
+    "name": "Hillside",
+    "local_name": "Hillside",
+    "name_en": null,
+    "all_tags": {
+      "name": "Hillside",
+      "place": "village",
+      "boundary": "administrative",
+      "way_area": "8.02726e-05",
+      "admin_level": "8"
+    }
+  }
+]

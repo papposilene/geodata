@@ -1,0 +1,66 @@
+[
+  {
+    "osm_id": -12225086,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3936841,-3936842,-11144440",
+    "name": "Agdao",
+    "local_name": "Agdao",
+    "name_en": null,
+    "all_tags": {
+      "name": "Agdao",
+      "boundary": "administrative",
+      "way_area": "0.000425526",
+      "admin_level": "8",
+      "admin_type:PH": "district"
+    }
+  },
+  {
+    "osm_id": -11957757,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3936841,-3936842,-11144440",
+    "name": "Paquibato",
+    "local_name": "Paquibato",
+    "name_en": null,
+    "all_tags": {
+      "name": "Paquibato",
+      "boundary": "administrative",
+      "way_area": "0.0477465",
+      "admin_level": "8",
+      "admin_type:PH": "district"
+    }
+  },
+  {
+    "osm_id": -11932068,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3936841,-3936842,-11144440",
+    "name": "Marilog",
+    "local_name": "Marilog",
+    "name_en": null,
+    "all_tags": {
+      "name": "Marilog",
+      "boundary": "administrative",
+      "way_area": "0.0474941",
+      "admin_level": "8",
+      "admin_type:PH": "district"
+    }
+  },
+  {
+    "osm_id": -11313478,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3936841,-3936842,-11144440",
+    "name": "Poblacion",
+    "local_name": "Poblacion",
+    "name_en": null,
+    "all_tags": {
+      "name": "Poblacion",
+      "boundary": "administrative",
+      "way_area": "0.000967676",
+      "admin_level": "8",
+      "admin_type:PH": "district"
+    }
+  }
+]

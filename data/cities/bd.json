@@ -1,0 +1,61 @@
+[
+  {
+    "osm_id": -10986467,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3824578,-3824588,-184640",
+    "name": "Rohingya Refugee Camp in Bangladesh",
+    "local_name": "Rohingya Refugee Camp in Bangladesh",
+    "name_en": null,
+    "all_tags": {
+      "name": "Rohingya Refugee Camp in Bangladesh",
+      "is_in": "Cox's Bazar District",
+      "amenity": "refugee_site",
+      "name:zh": "孟加拉羅興亞難民營",
+      "boundary": "administrative",
+      "way_area": "0.00185718",
+      "population": "860356",
+      "admin_level": "8",
+      "wikipedia:en": "Rohingya_refugees_in_Bangladesh",
+      "population:date": "2020-06-30"
+    }
+  },
+  {
+    "osm_id": -9548033,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-9432386,-9452227,-3921211,-184640",
+    "name": "Balapara Union",
+    "local_name": "বালাপাড়া ইউনিয়ন",
+    "name_en": "Balapara Union",
+    "all_tags": {
+      "name": "বালাপাড়া ইউনিয়ন",
+      "name:bn": "বালাপাড়া ইউনিয়ন",
+      "name:en": "Balapara Union",
+      "alt_name": "২নং বালাপাড়া ইউনিয়ন পরিষদ",
+      "boundary": "administrative",
+      "way_area": "0.00350132",
+      "wikidata": "Q13151782",
+      "wikipedia": "bn:বালাপাড়া ইউনিয়ন",
+      "admin_level": "8",
+      "border_type": "Union",
+      "addr:postcode": "5351"
+    }
+  },
+  {
+    "osm_id": -4628163,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-4628009,-4631898,-3921298,-184640",
+    "name": "Pirojpur Municipality",
+    "local_name": "পিরোজপুর পৌরসভা",
+    "name_en": "Pirojpur Municipality",
+    "all_tags": {
+      "name": "পিরোজপুর পৌরসভা",
+      "name:en": "Pirojpur Municipality",
+      "boundary": "administrative",
+      "way_area": "0.0012466",
+      "admin_level": "8"
+    }
+  }
+]

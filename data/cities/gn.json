@@ -1,0 +1,313 @@
+[
+  {
+    "osm_id": -9321460,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3403911,-192778",
+    "name": "Kintinian",
+    "local_name": "Kintinian",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kintinian",
+      "boundary": "administrative",
+      "way_area": "0.129635",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -9275304,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3309644,-192778",
+    "name": "Kamsar",
+    "local_name": "Kamsar",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kamsar",
+      "name:ar": "كامسار",
+      "boundary": "administrative",
+      "way_area": "0.0351831",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -9256802,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3309644,-192778",
+    "name": "Boké-Centre",
+    "local_name": "Boké-Centre",
+    "name_en": null,
+    "all_tags": {
+      "name": "Boké-Centre",
+      "boundary": "administrative",
+      "way_area": "0.022711",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8836174,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3308838,-3308839,-192778",
+    "name": "Linsansaran",
+    "local_name": "Linsansaran",
+    "name_en": null,
+    "all_tags": {
+      "name": "Linsansaran",
+      "alt_name": "Linsan-Saran",
+      "boundary": "administrative",
+      "way_area": "0.0413836",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8836173,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3308838,-3308839,-192778",
+    "name": "Manda",
+    "local_name": "Manda",
+    "name_en": null,
+    "all_tags": {
+      "name": "Manda",
+      "alt_name": "Manda-Saran",
+      "boundary": "administrative",
+      "way_area": "0.00525696",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8836172,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3308838,-3308839,-192778",
+    "name": "Tyanguel-bori",
+    "local_name": "Tyanguel-bori",
+    "name_en": null,
+    "all_tags": {
+      "name": "Tyanguel-bori",
+      "alt_name": "Tianguel-Bori",
+      "boundary": "administrative",
+      "way_area": "0.031517",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8836171,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3308838,-3308839,-192778",
+    "name": "Lafou",
+    "local_name": "Lafou",
+    "name_en": null,
+    "all_tags": {
+      "name": "Lafou",
+      "boundary": "administrative",
+      "way_area": "0.0173032",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7682886,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3403911,-192778",
+    "name": "Kankan-Centre",
+    "local_name": "Kankan-Centre",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kankan-Centre",
+      "boundary": "administrative",
+      "way_area": "0.00957175",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7657167,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3308837,-3308839,-192778",
+    "name": "Labé-Centre",
+    "local_name": "Labé-Centre",
+    "name_en": null,
+    "all_tags": {
+      "name": "Labé-Centre",
+      "boundary": "administrative",
+      "way_area": "0.0158759",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7445392,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3401661,-3399113,-192778",
+    "name": "Gueckedou Centre",
+    "local_name": "Gueckedou Centre",
+    "name_en": null,
+    "all_tags": {
+      "name": "Gueckedou Centre",
+      "boundary": "administrative",
+      "way_area": "0.00420828",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -6251938,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3309805,-192778",
+    "name": "Dubréka",
+    "local_name": "Dubréka",
+    "name_en": null,
+    "all_tags": {
+      "name": "Dubréka",
+      "boundary": "administrative",
+      "way_area": "0.0125932",
+      "wikidata": "Q1263263",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -6202900,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3309805,-192778",
+    "name": "Coyah",
+    "local_name": "Coyah",
+    "name_en": null,
+    "all_tags": {
+      "name": "Coyah",
+      "boundary": "administrative",
+      "way_area": "0.0025481",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -5582747,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3731500,-192778",
+    "name": "Dixinn",
+    "local_name": "Dixinn",
+    "name_en": null,
+    "all_tags": {
+      "name": "Dixinn",
+      "boundary": "administrative",
+      "way_area": "0.00062344",
+      "wikidata": "Q3032606",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -5582367,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3731500,-192778",
+    "name": "Kaloum",
+    "local_name": "Kaloum",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kaloum",
+      "boundary": "administrative",
+      "way_area": "0.000376271",
+      "wikidata": "Q3192252",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -5579276,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3402448,-3399113,-192778",
+    "name": "N'Zérékoré-Centre",
+    "local_name": "N'Zérékoré-Centre",
+    "name_en": null,
+    "all_tags": {
+      "name": "N'Zérékoré-Centre",
+      "name2": "N'Zérékoré",
+      "boundary": "administrative",
+      "way_area": "0.00271312",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -5576858,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3731500,-192778",
+    "name": "Ratoma",
+    "local_name": "Ratoma",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ratoma",
+      "boundary": "administrative",
+      "way_area": "0.00476143",
+      "wikidata": "Q3420127",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -5574479,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3731500,-192778",
+    "name": "Matoto",
+    "local_name": "Matoto",
+    "name_en": null,
+    "all_tags": {
+      "name": "Matoto",
+      "boundary": "administrative",
+      "way_area": "0.00347089",
+      "wikidata": "Q3299209",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -5567238,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3731500,-192778",
+    "name": "Matam",
+    "local_name": "Matam",
+    "name_en": null,
+    "all_tags": {
+      "name": "Matam",
+      "boundary": "administrative",
+      "way_area": "0.000508299",
+      "wikidata": "Q3298195",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3212272,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3212273,-3308839,-192778",
+    "name": "Balaki",
+    "local_name": "Balaki",
+    "name_en": null,
+    "all_tags": {
+      "name": "Balaki",
+      "boundary": "administrative",
+      "way_area": "0.227973",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -2697025,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3308997,-3309644,-192778",
+    "name": "Gaoual",
+    "local_name": "Gaoual",
+    "name_en": null,
+    "all_tags": {
+      "name": "Gaoual",
+      "boundary": "administrative",
+      "way_area": "0.000544615",
+      "admin_level": "8"
+    }
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "osm_id": -6870533,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-6870523,-3279616,-214626",
+    "name": "Chagam Jamoat",
+    "local_name": "Ҷамоати Чагам",
+    "name_en": "Chagam Jamoat",
+    "all_tags": {
+      "name": "Ҷамоати Чагам",
+      "name:en": "Chagam Jamoat",
+      "name:ru": "Чагамский джамоат",
+      "name:tg": "Ҷамоати Чагам",
+      "boundary": "administrative",
+      "way_area": "0.00754323",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -6870530,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-6870523,-3279616,-214626",
+    "name": "Doghiston Jamoat",
+    "local_name": "Ҷамоати Доғистон",
+    "name_en": "Doghiston Jamoat",
+    "all_tags": {
+      "name": "Ҷамоати Доғистон",
+      "name:en": "Doghiston Jamoat",
+      "name:ru": "Догистонский джаомат",
+      "name:tg": "Ҷамоати Доғистон",
+      "boundary": "administrative",
+      "way_area": "0.0142077",
+      "wikipedia": "tg:Доғистон (н. Ш. Шоҳин)",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -6870529,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-6870523,-3279616,-214626",
+    "name": "Shuro-obod Jamoat",
+    "local_name": "Ҷамоати Шурабад",
+    "name_en": "Shuro-obod Jamoat",
+    "all_tags": {
+      "name": "Ҷамоати Шурабад",
+      "name:en": "Shuro-obod Jamoat",
+      "name:ru": "Шурабадский джамоат",
+      "name:tg": "Ҷамоати Шурабад",
+      "boundary": "administrative",
+      "way_area": "0.0209836",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -6870528,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-6870523,-3279616,-214626",
+    "name": "Sarichashma Jamoat",
+    "local_name": "Ҷамоати Сари чашма",
+    "name_en": "Sarichashma Jamoat",
+    "all_tags": {
+      "name": "Ҷамоати Сари чашма",
+      "name:en": "Sarichashma Jamoat",
+      "name:ru": "Саричашмский джамоат",
+      "name:tg": "Ҷамоати Сари чашма",
+      "boundary": "administrative",
+      "way_area": "0.0520622",
+      "wikipedia": "tg:Сари чашма",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -6870527,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-6870523,-3279616,-214626",
+    "name": "Dashti-Jum Jamoat",
+    "local_name": "Деҳоти Дашти Ҷум",
+    "name_en": "Dashti-Jum Jamoat",
+    "all_tags": {
+      "name": "Деҳоти Дашти Ҷум",
+      "name:en": "Dashti-Jum Jamoat",
+      "name:ru": "Даштиджумсий джаомат",
+      "name:tg": "Деҳоти Дашти Ҷум",
+      "boundary": "administrative",
+      "way_area": "0.0244006",
+      "wikidata": "Q16048112",
+      "wikipedia": "tg:Деҳоти Дашти Ҷум",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -6870526,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-6870523,-3279616,-214626",
+    "name": "Jol Jamoat",
+    "local_name": "Ҷамоати Йол",
+    "name_en": "Jol Jamoat",
+    "all_tags": {
+      "name": "Ҷамоати Йол",
+      "name:en": "Jol Jamoat",
+      "name:ru": "Йолский джаомат",
+      "name:tg": "Ҷамоати Йол",
+      "boundary": "administrative",
+      "way_area": "0.052019",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -6870524,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-6870523,-3279616,-214626",
+    "name": "Langardara Jamoat",
+    "local_name": "Ҷамоати Лангардара",
+    "name_en": "Langardara Jamoat",
+    "all_tags": {
+      "name": "Ҷамоати Лангардара",
+      "name:en": "Langardara Jamoat",
+      "name:ru": "Лангардарский джаомат",
+      "name:tg": "Ҷамоати Лангардара",
+      "boundary": "administrative",
+      "way_area": "0.0479337",
+      "admin_level": "8"
+    }
+  }
+]

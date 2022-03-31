@@ -1,0 +1,741 @@
+[
+  {
+    "osm_id": -11372901,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-4541253,-2133870,-556706",
+    "name": "Te Hiku Community",
+    "local_name": "Te Hiku Community",
+    "name_en": null,
+    "all_tags": {
+      "name": "Te Hiku Community",
+      "boundary": "administrative",
+      "way_area": "0.248641",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11372900,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-4541253,-2133870,-556706",
+    "name": "Bay of Islands-Whangaroa Community",
+    "local_name": "Bay of Islands-Whangaroa Community",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bay of Islands-Whangaroa Community",
+      "boundary": "administrative",
+      "way_area": "0.235209",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11372899,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-4541253,-2133870,-556706",
+    "name": "Kaikohe-Hokianga Community",
+    "local_name": "Kaikohe-Hokianga Community",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kaikohe-Hokianga Community",
+      "boundary": "administrative",
+      "way_area": "0.241428",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11294422,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-4555779,-1640159,-556706",
+    "name": "Stewart Island/Rakiura Community",
+    "local_name": "Stewart Island/Rakiura Community",
+    "name_en": null,
+    "all_tags": {
+      "name": "Stewart Island/Rakiura Community",
+      "boundary": "administrative",
+      "way_area": "0.198655",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11288795,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-4555779,-1640159,-556706",
+    "name": "Fiordland Community",
+    "local_name": "Fiordland Community",
+    "name_en": null,
+    "all_tags": {
+      "name": "Fiordland Community",
+      "boundary": "administrative",
+      "way_area": "1.42642",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11288786,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-4555779,-1640159,-556706",
+    "name": "Tuatapere Te Waewae Community",
+    "local_name": "Tuatapere Te Waewae Community",
+    "name_en": null,
+    "all_tags": {
+      "name": "Tuatapere Te Waewae Community",
+      "boundary": "administrative",
+      "way_area": "0.536931",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11288777,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-4555779,-1640159,-556706",
+    "name": "Wallace Takitimu Community",
+    "local_name": "Wallace Takitimu Community",
+    "name_en": null,
+    "all_tags": {
+      "name": "Wallace Takitimu Community",
+      "boundary": "administrative",
+      "way_area": "0.161056",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11286845,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-4555779,-1640159,-556706",
+    "name": "Waihopai Toetoe Community",
+    "local_name": "Waihopai Toetoe Community",
+    "name_en": null,
+    "all_tags": {
+      "name": "Waihopai Toetoe Community",
+      "boundary": "administrative",
+      "way_area": "0.279106",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11286821,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-4555779,-1640159,-556706",
+    "name": "Ardlussa Community",
+    "local_name": "Ardlussa Community",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ardlussa Community",
+      "boundary": "administrative",
+      "way_area": "0.282964",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11286820,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-4555779,-1640159,-556706",
+    "name": "Oreti Community",
+    "local_name": "Oreti Community",
+    "name_en": null,
+    "all_tags": {
+      "name": "Oreti Community",
+      "boundary": "administrative",
+      "way_area": "0.190638",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11286819,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-4555779,-1640159,-556706",
+    "name": "Northern Community",
+    "local_name": "Northern Community",
+    "name_en": null,
+    "all_tags": {
+      "name": "Northern Community",
+      "boundary": "administrative",
+      "way_area": "0.302632",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11282933,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-4427029,-1640138,-556706",
+    "name": "Cromwell Community",
+    "local_name": "Cromwell Community",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cromwell Community",
+      "boundary": "administrative",
+      "way_area": "0.332524",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11282917,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-4427029,-1640138,-556706",
+    "name": "Vincent Community",
+    "local_name": "Vincent Community",
+    "name_en": null,
+    "all_tags": {
+      "name": "Vincent Community",
+      "boundary": "administrative",
+      "way_area": "0.349223",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11282916,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-4427029,-1640138,-556706",
+    "name": "Maniototo Community",
+    "local_name": "Maniototo Community",
+    "name_en": null,
+    "all_tags": {
+      "name": "Maniototo Community",
+      "boundary": "administrative",
+      "way_area": "0.306407",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11282915,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-4427029,-1640138,-556706",
+    "name": "Teviot Valley Community",
+    "local_name": "Teviot Valley Community",
+    "name_en": null,
+    "all_tags": {
+      "name": "Teviot Valley Community",
+      "boundary": "administrative",
+      "way_area": "0.151421",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11282498,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-4266616,-1638991,-556706",
+    "name": "Martinborough Community",
+    "local_name": "Martinborough Community",
+    "name_en": null,
+    "all_tags": {
+      "name": "Martinborough Community",
+      "boundary": "administrative",
+      "way_area": "0.187617",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11282497,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-4266616,-1638991,-556706",
+    "name": "Greytown Community",
+    "local_name": "Greytown Community",
+    "name_en": null,
+    "all_tags": {
+      "name": "Greytown Community",
+      "boundary": "administrative",
+      "way_area": "0.0292696",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11282496,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-4266616,-1638991,-556706",
+    "name": "Featherston Community",
+    "local_name": "Featherston Community",
+    "name_en": null,
+    "all_tags": {
+      "name": "Featherston Community",
+      "boundary": "administrative",
+      "way_area": "0.0473211",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11282310,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2730349,-1640137,-556706",
+    "name": "Coastal-Burwood Community",
+    "local_name": "Coastal-Burwood Community",
+    "name_en": null,
+    "all_tags": {
+      "name": "Coastal-Burwood Community",
+      "boundary": "administrative",
+      "way_area": "0.00650184",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11282294,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2730349,-1640137,-556706",
+    "name": "Papanui-Innes Community",
+    "local_name": "Papanui-Innes Community",
+    "name_en": null,
+    "all_tags": {
+      "name": "Papanui-Innes Community",
+      "boundary": "administrative",
+      "way_area": "0.00584127",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11282291,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1640161,-1640137,-556706",
+    "name": "Banks Peninsula Community",
+    "local_name": "Banks Peninsula Community",
+    "name_en": null,
+    "all_tags": {
+      "name": "Banks Peninsula Community",
+      "boundary": "administrative",
+      "way_area": "0.129929",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11282281,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1640161,-1640137,-556706",
+    "name": "Spreydon-Cashmere Community",
+    "local_name": "Spreydon-Cashmere Community",
+    "name_en": null,
+    "all_tags": {
+      "name": "Spreydon-Cashmere Community",
+      "boundary": "administrative",
+      "way_area": "0.00378785",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11282276,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1640161,-1640137,-556706",
+    "name": "Linwood-Central-Heathcote Community",
+    "local_name": "Linwood-Central-Heathcote Community",
+    "name_en": null,
+    "all_tags": {
+      "name": "Linwood-Central-Heathcote Community",
+      "boundary": "administrative",
+      "way_area": "0.00789363",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11282275,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2730349,-1640137,-556706",
+    "name": "Fendalton-Waimari-Harewood Community",
+    "local_name": "Fendalton-Waimari-Harewood Community",
+    "name_en": null,
+    "all_tags": {
+      "name": "Fendalton-Waimari-Harewood Community",
+      "boundary": "administrative",
+      "way_area": "0.0148148",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11282274,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2730349,-1640137,-556706",
+    "name": "Halswell-Hornby-Riccarton Community",
+    "local_name": "Halswell-Hornby-Riccarton Community",
+    "name_en": null,
+    "all_tags": {
+      "name": "Halswell-Hornby-Riccarton Community",
+      "boundary": "administrative",
+      "way_area": "0.0114356",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -4430236,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2094141,-556706",
+    "name": "Franklin",
+    "local_name": "Franklin",
+    "name_en": null,
+    "all_tags": {
+      "name": "Franklin",
+      "name:mk": "Френклин",
+      "boundary": "administrative",
+      "way_area": "0.231328",
+      "population": "78700",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -2684671,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2094141,-556706",
+    "name": "Aotea Great Barrier",
+    "local_name": "Aotea Great Barrier",
+    "name_en": null,
+    "all_tags": {
+      "name": "Aotea Great Barrier",
+      "boundary": "administrative",
+      "way_area": "0.448935",
+      "population": "990",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -2684668,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2094141,-556706",
+    "name": "Waiheke",
+    "local_name": "Waiheke",
+    "name_en": null,
+    "all_tags": {
+      "name": "Waiheke",
+      "name:ar": "واهيكي",
+      "name:mi": "Waiheke",
+      "name:mk": "Ваихеке",
+      "boundary": "administrative",
+      "way_area": "0.136554",
+      "population": "9330",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -2684619,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2094141,-556706",
+    "name": "Rodney",
+    "local_name": "Rodney",
+    "name_en": null,
+    "all_tags": {
+      "name": "Rodney",
+      "name:mk": "Родни",
+      "boundary": "administrative",
+      "way_area": "0.583817",
+      "population": "70400",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -2684618,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2094141,-556706",
+    "name": "Henderson-Massey",
+    "local_name": "Henderson-Massey",
+    "name_en": null,
+    "all_tags": {
+      "name": "Henderson-Massey",
+      "name:mk": "Хендерсон-Меси",
+      "boundary": "administrative",
+      "way_area": "0.00652956",
+      "population": "123300",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -2684617,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2094141,-556706",
+    "name": "Waitakere Ranges",
+    "local_name": "Waitākere Ranges",
+    "name_en": "Waitakere Ranges",
+    "all_tags": {
+      "name": "Waitākere Ranges",
+      "name:en": "Waitakere Ranges",
+      "name:mk": "Венец Ваитакере",
+      "boundary": "administrative",
+      "way_area": "0.0954886",
+      "population": "54000",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -2104485,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2094141,-556706",
+    "name": "Manurewa",
+    "local_name": "Manurewa",
+    "name_en": null,
+    "all_tags": {
+      "name": "Manurewa",
+      "name:mk": "Манурева",
+      "boundary": "administrative",
+      "way_area": "0.00437694",
+      "population": "100300",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -2104484,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2094141,-556706",
+    "name": "Papakura",
+    "local_name": "Papakura",
+    "name_en": null,
+    "all_tags": {
+      "name": "Papakura",
+      "name:mi": "Papakura",
+      "name:mk": "Папакура",
+      "boundary": "administrative",
+      "loc_name": "Kura",
+      "way_area": "0.00462363",
+      "wikidata": "Q1014616",
+      "population": "61700",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -2104476,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2094141,-556706",
+    "name": "Hibiscus and Bays",
+    "local_name": "Hibiscus and Bays",
+    "name_en": null,
+    "all_tags": {
+      "name": "Hibiscus and Bays",
+      "name:mk": "Хибискус и Заливи",
+      "boundary": "administrative",
+      "way_area": "0.0458126",
+      "population": "109900",
+      "admin_level": "8",
+      "alt_name:mk": "Хибискус и Бејс"
+    }
+  },
+  {
+    "osm_id": -2104449,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2094141,-556706",
+    "name": "Upper Harbour",
+    "local_name": "Upper Harbour",
+    "name_en": null,
+    "all_tags": {
+      "name": "Upper Harbour",
+      "name:mk": "Апер Харбор",
+      "boundary": "administrative",
+      "way_area": "0.00835502",
+      "population": "66900",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -2099959,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2094141,-556706",
+    "name": "Albert-Eden",
+    "local_name": "Albert-Eden",
+    "name_en": null,
+    "all_tags": {
+      "name": "Albert-Eden",
+      "name:mk": "Алберт-Идн",
+      "boundary": "administrative",
+      "way_area": "0.00333668",
+      "population": "101600",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -2099951,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2094141,-556706",
+    "name": "Whau",
+    "local_name": "Whau",
+    "name_en": null,
+    "all_tags": {
+      "name": "Whau",
+      "name:mk": "Фау",
+      "boundary": "administrative",
+      "way_area": "0.0049866",
+      "population": "82600",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -2099950,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2094141,-556706",
+    "name": "Puketāpapa",
+    "local_name": "Puketāpapa",
+    "name_en": null,
+    "all_tags": {
+      "name": "Puketāpapa",
+      "name:mk": "Пукетапапа",
+      "boundary": "administrative",
+      "way_area": "0.0029329",
+      "population": "59000",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -2098359,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2094141,-556706",
+    "name": "Howick",
+    "local_name": "Howick",
+    "name_en": null,
+    "all_tags": {
+      "name": "Howick",
+      "name:mk": "Хауик",
+      "boundary": "administrative",
+      "way_area": "0.00964093",
+      "population": "146800",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -2097016,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2094141,-556706",
+    "name": "Devonport-Takapuna",
+    "local_name": "Devonport-Takapuna",
+    "name_en": null,
+    "all_tags": {
+      "name": "Devonport-Takapuna",
+      "name:mk": "Девонпорт-Такапуна",
+      "boundary": "administrative",
+      "way_area": "0.00563687",
+      "population": "59700",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -2094148,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2094141,-556706",
+    "name": "Ōtara-Papatoetoe",
+    "local_name": "Ōtara-Papatoetoe",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ōtara-Papatoetoe",
+      "name:mk": "Отара-Папатоетое",
+      "boundary": "administrative",
+      "way_area": "0.00442889",
+      "population": "89000",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -2094147,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2094141,-556706",
+    "name": "Ōrākei",
+    "local_name": "Ōrākei",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ōrākei",
+      "name:mk": "Оракеи",
+      "boundary": "administrative",
+      "way_area": "0.00509081",
+      "population": "87200",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -2094146,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2094141,-556706",
+    "name": "Māngere-Ōtāhuhu",
+    "local_name": "Māngere-Ōtāhuhu",
+    "name_en": null,
+    "all_tags": {
+      "name": "Māngere-Ōtāhuhu",
+      "name:mk": "Мангере-Отахуху",
+      "boundary": "administrative",
+      "way_area": "0.0117468",
+      "population": "81900",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -2094145,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2094141,-556706",
+    "name": "Kaipātiki",
+    "local_name": "Kaipātiki",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kaipātiki",
+      "name:mk": "Каипатики",
+      "boundary": "administrative",
+      "way_area": "0.0049659",
+      "population": "92000",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -2093020,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2094141,-556706",
+    "name": "Waitematā",
+    "local_name": "Waitematā",
+    "name_en": null,
+    "all_tags": {
+      "name": "Waitematā",
+      "name:mk": "Ваитемата",
+      "boundary": "administrative",
+      "way_area": "0.00282258",
+      "population": "87100",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1638974,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2094141,-556706",
+    "name": "Maungakiekie-Tāmaki",
+    "local_name": "Maungakiekie-Tāmaki",
+    "name_en": null,
+    "all_tags": {
+      "name": "Maungakiekie-Tāmaki",
+      "name:mk": "Маунгакиекие-Тамаки",
+      "boundary": "administrative",
+      "way_area": "0.00430684",
+      "land_area": "administrative",
+      "population": "79500",
+      "admin_level": "8"
+    }
+  }
+]

@@ -1,0 +1,2521 @@
+[
+  {
+    "osm_id": -5457537,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-393379,-391963,-307829",
+    "name": "Commune de La Pointe",
+    "local_name": "Commune de La Pointe",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune de La Pointe",
+      "boundary": "administrative",
+      "way_area": "0.00173805",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -5450815,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-393437,-391700,-307829",
+    "name": "Commune de Marfranc",
+    "local_name": "Commune de Marfranc",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune de Marfranc",
+      "boundary": "administrative",
+      "way_area": "0.0025698",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -5450814,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-392364,-392238,-307829",
+    "name": "Commune de Liancourt",
+    "local_name": "Commune de Liancourt",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune de Liancourt",
+      "boundary": "administrative",
+      "way_area": "0.00287378",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -411107,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-387318,-386871,-307829",
+    "name": "Commune de Tabarre",
+    "local_name": "Commune de Tabarre",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune de Tabarre",
+      "boundary": "administrative",
+      "ref:IHSI": "0118",
+      "way_area": "0.00228685",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -411106,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-387318,-386871,-307829",
+    "name": "Commune Cité Soleil",
+    "local_name": "Commune Cité Soleil",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune Cité Soleil",
+      "boundary": "administrative",
+      "ref:IHSI": "0117",
+      "way_area": "0.00202723",
+      "population": "241055",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -407578,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-393320,-391834,-307829",
+    "name": "Commune Fonds-des-Nègres",
+    "local_name": "Commune Fonds-des-Nègres",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune Fonds-des-Nègres",
+      "name:ht": "Fondènèg",
+      "boundary": "administrative",
+      "ref:IHSI": "1013",
+      "way_area": "0.0072293",
+      "wikidata": "Q2235386",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -407575,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-393320,-391834,-307829",
+    "name": "Commune Paillant",
+    "local_name": "Commune Paillant",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune Paillant",
+      "boundary": "administrative",
+      "ref:IHSI": "1014",
+      "way_area": "0.00574738",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -407283,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-393324,-391834,-307829",
+    "name": "Commune Plaisance du Sud",
+    "local_name": "Commune Plaisance du Sud",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune Plaisance du Sud",
+      "boundary": "administrative",
+      "ref:IHSI": "1025",
+      "way_area": "0.00781092",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -407271,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-393324,-391834,-307829",
+    "name": "Arnaud",
+    "local_name": "Arnaud",
+    "name_en": null,
+    "all_tags": {
+      "name": "Arnaud",
+      "is_in": "Arrondissement Anse-à-Veau, Nippes",
+      "boundary": "administrative",
+      "ref:IHSI": "1024",
+      "way_area": "0.00613097",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -407254,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-407263,-391834,-307829",
+    "name": "Commune Grand Boucan",
+    "local_name": "Commune Grand Boucan",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune Grand Boucan",
+      "boundary": "administrative",
+      "ref:IHSI": "1032",
+      "way_area": "0.00387596",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -392211,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-394452,-392189,-307829",
+    "name": "Commune Perches",
+    "local_name": "Commune Perches",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune Perches",
+      "boundary": "administrative",
+      "ref:IHSI": "0413",
+      "way_area": "0.00347662",
+      "population": "9016",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -392163,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-393492,-392213,-307829",
+    "name": "Commune Saut-d'Eau",
+    "local_name": "Commune Saut-d'Eau",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune Saut-d'Eau",
+      "boundary": "administrative",
+      "ref:IHSI": "0622",
+      "way_area": "0.0147078",
+      "population": "30499",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -392119,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-392364,-392238,-307829",
+    "name": "Commune La Chapelle",
+    "local_name": "Commune La Chapelle",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune La Chapelle",
+      "boundary": "administrative",
+      "ref:IHSI": "0533",
+      "way_area": "0.0125506",
+      "population": "23986",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -392116,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-392364,-392238,-307829",
+    "name": "Commune de Verrettes",
+    "local_name": "Commune de Verrettes",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune de Verrettes",
+      "boundary": "administrative",
+      "ref:IHSI": "0532",
+      "way_area": "0.026984",
+      "id_commune": "532",
+      "population": "109474",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -392115,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-392354,-392238,-307829",
+    "name": "Commune Petite Rivière de l'Artibonite",
+    "local_name": "Commune Petite Rivière de l'Artibonite",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune Petite Rivière de l'Artibonite",
+      "boundary": "administrative",
+      "ref:IHSI": "0542",
+      "way_area": "0.0434933",
+      "population": "129360",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -392110,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-392354,-392238,-307829",
+    "name": "Commune de Dessalines",
+    "local_name": "Commune de Dessalines",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune de Dessalines",
+      "boundary": "administrative",
+      "ref:IHSI": "0541",
+      "way_area": "0.040316",
+      "population": "138451",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -392109,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-392354,-392238,-307829",
+    "name": "Commune Grand Saline",
+    "local_name": "Commune Grand Saline",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune Grand Saline",
+      "boundary": "administrative",
+      "ref:IHSI": "0543",
+      "way_area": "0.00439084",
+      "population": "17656",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -392108,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-392359,-392238,-307829",
+    "name": "Commune L'Estere",
+    "local_name": "Commune L'Estere",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune L'Estere",
+      "boundary": "administrative",
+      "ref:IHSI": "0513",
+      "way_area": "0.0149582",
+      "population": "33860",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -392107,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-392354,-392238,-307829",
+    "name": "Commune Desdunes",
+    "local_name": "Commune Desdunes",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune Desdunes",
+      "boundary": "administrative",
+      "ref:IHSI": "0544",
+      "way_area": "0.00867439",
+      "population": "37027",
+      "admin_level": "8",
+      "population:date": "2015"
+    }
+  },
+  {
+    "osm_id": -392099,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-393492,-392213,-307829",
+    "name": "Commune Boucan Carré",
+    "local_name": "Commune Boucan Carré",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune Boucan Carré",
+      "boundary": "administrative",
+      "ref:IHSI": "0623",
+      "way_area": "0.0304439",
+      "population": "43813",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -392098,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-392359,-392238,-307829",
+    "name": "Commune des Gonaïves",
+    "local_name": "Commune des Gonaïves",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune des Gonaïves",
+      "boundary": "administrative",
+      "ref:IHSI": "0511",
+      "way_area": "0.0489464",
+      "population": "263716",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -392092,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-393488,-392213,-307829",
+    "name": "Commune Belladère",
+    "local_name": "Commune Belladère",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune Belladère",
+      "boundary": "administrative",
+      "ref:IHSI": "0632",
+      "way_area": "0.0257506",
+      "population": "67526",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -392088,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-393488,-392213,-307829",
+    "name": "Commune Lascahobas",
+    "local_name": "Commune Lascahobas",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune Lascahobas",
+      "boundary": "administrative",
+      "ref:IHSI": "0631",
+      "way_area": "0.0125438",
+      "population": "48665",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -392087,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-393486,-392213,-307829",
+    "name": "Commune Thomonde",
+    "local_name": "Commune Thomonde",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune Thomonde",
+      "boundary": "administrative",
+      "ref:IHSI": "0613",
+      "way_area": "0.0310374",
+      "population": "35307",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -392083,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-392359,-392238,-307829",
+    "name": "Commune d’Ennery",
+    "local_name": "Commune d’Ennery",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune d’Ennery",
+      "boundary": "administrative",
+      "ref:IHSI": "0512",
+      "way_area": "0.0182988",
+      "population": "39104",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -392081,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-394494,-392028,-307829",
+    "name": "Commune Plaisance",
+    "local_name": "Commune Plaisance",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune Plaisance",
+      "boundary": "administrative",
+      "ref:IHSI": "0371",
+      "way_area": "0.0104942",
+      "population": "53665",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -392079,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-392363,-392238,-307829",
+    "name": "Commune de Saint Michel de l'Attalaye",
+    "local_name": "Commune de Saint Michel de l'Attalaye",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune de Saint Michel de l'Attalaye",
+      "boundary": "administrative",
+      "ref:IHSI": "0551",
+      "way_area": "0.051808",
+      "population": "114175",
+      "short_name": "STM",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -392074,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-393486,-392213,-307829",
+    "name": "Commune Maissade",
+    "local_name": "Commune Maissade",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune Maissade",
+      "boundary": "administrative",
+      "ref:IHSI": "0612",
+      "way_area": "0.0253937",
+      "population": "45869",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -392072,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-393486,-392213,-307829",
+    "name": "Commune Hinche",
+    "local_name": "Commune Hinche",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune Hinche",
+      "boundary": "administrative",
+      "ref:IHSI": "0611",
+      "way_area": "0.0500214",
+      "population": "93899",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -392071,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-393483,-392213,-307829",
+    "name": "Commune Thomassique",
+    "local_name": "Commune Thomassique",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune Thomassique",
+      "boundary": "administrative",
+      "ref:IHSI": "0642",
+      "way_area": "0.0202546",
+      "population": "49242",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -392070,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-395432,-392028,-307829",
+    "name": "Commune Pignon",
+    "local_name": "Commune Pignon",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune Pignon",
+      "boundary": "administrative",
+      "ref:IHSI": "0344",
+      "way_area": "0.0123964",
+      "population": "33366",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -392069,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-393483,-392213,-307829",
+    "name": "Commune Cerca la Source",
+    "local_name": "Commune Cerca la Source",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune Cerca la Source",
+      "boundary": "administrative",
+      "ref:IHSI": "0641",
+      "way_area": "0.0314253",
+      "population": "44129",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -392068,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-393486,-392213,-307829",
+    "name": "Commune Cerca Carvajal",
+    "local_name": "Commune Cerca Carvajal",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune Cerca Carvajal",
+      "is_in": "Centre",
+      "boundary": "administrative",
+      "ref:IHSI": "0614",
+      "way_area": "0.0134115",
+      "population": "18102",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -392062,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-395432,-392028,-307829",
+    "name": "Commune La Victoire",
+    "local_name": "Commune La Victoire",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune La Victoire",
+      "boundary": "administrative",
+      "ref:IHSI": "0345",
+      "way_area": "0.00260914",
+      "population": "8129",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -392056,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-394460,-392189,-307829",
+    "name": "Commune Mombin Crochu",
+    "local_name": "Commune Mombin Crochu",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune Mombin Crochu",
+      "is_in": "Nord-Est",
+      "boundary": "administrative",
+      "ref:IHSI": "0443",
+      "way_area": "0.0172415",
+      "population": "27458",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -392053,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-395432,-392028,-307829",
+    "name": "Commune Ranquitte",
+    "local_name": "Commune Ranquitte",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune Ranquitte",
+      "boundary": "administrative",
+      "ref:IHSI": "0343",
+      "way_area": "0.00692447",
+      "population": "21366",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -392048,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-394456,-392189,-307829",
+    "name": "Commune Capotille",
+    "local_name": "Commune Capotille",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune Capotille",
+      "boundary": "administrative",
+      "ref:IHSI": "0422",
+      "way_area": "0.00524605",
+      "population": "15390",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -392047,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-394456,-392189,-307829",
+    "name": "Commune Ouanaminthe",
+    "local_name": "Commune Ouanaminthe",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune Ouanaminthe",
+      "boundary": "administrative",
+      "ref:IHSI": "0421",
+      "way_area": "0.0174631",
+      "population": "82549",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -392046,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-394460,-392189,-307829",
+    "name": "Commune Carice",
+    "local_name": "Commune Carice",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune Carice",
+      "boundary": "administrative",
+      "ref:IHSI": "0442",
+      "way_area": "0.00481172",
+      "population": "10709",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -392036,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-392363,-392238,-307829",
+    "name": "Commune Marmelade",
+    "local_name": "Commune Marmelade",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune Marmelade",
+      "boundary": "administrative",
+      "ref:IHSI": "0552",
+      "way_area": "0.00966009",
+      "population": "28872",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -392034,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-394463,-392028,-307829",
+    "name": "Commune d'Acul-du-Nord",
+    "local_name": "Commune d'Acul-du-Nord",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune d'Acul-du-Nord",
+      "boundary": "administrative",
+      "ref:IHSI": "0321",
+      "way_area": "0.01616",
+      "wikidata": "Q2710854",
+      "wikipedia": "fr:Acul-du-Nord",
+      "population": "43118",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -392030,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-394456,-392189,-307829",
+    "name": "Commune Mont Organisé",
+    "local_name": "Commune Mont Organisé",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune Mont Organisé",
+      "boundary": "administrative",
+      "ref:IHSI": "0423",
+      "way_area": "0.008763",
+      "population": "16562",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -392026,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-394460,-392189,-307829",
+    "name": "Commune Vallières",
+    "local_name": "Commune Vallières",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune Vallières",
+      "boundary": "administrative",
+      "ref:IHSI": "0441",
+      "way_area": "0.0133997",
+      "population": "18620",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -392025,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-393379,-391963,-307829",
+    "name": "Île de La Tortue",
+    "local_name": "Île de La Tortue",
+    "name_en": null,
+    "all_tags": {
+      "name": "Île de La Tortue",
+      "boundary": "administrative",
+      "ref:IHSI": "0912",
+      "way_area": "0.0154256",
+      "wikidata": "Q208345",
+      "population": "28499",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -392017,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-394488,-392028,-307829",
+    "name": "Commune Bahon",
+    "local_name": "Commune Bahon",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune Bahon",
+      "boundary": "administrative",
+      "ref:IHSI": "0332",
+      "way_area": "0.00681625",
+      "population": "17932",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -392015,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-395432,-392028,-307829",
+    "name": "Commune Saint-Raphaël",
+    "local_name": "Commune Saint-Raphaël",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune Saint-Raphaël",
+      "boundary": "administrative",
+      "ref:IHSI": "0341",
+      "way_area": "0.0157911",
+      "population": "41458",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -392014,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-395432,-392028,-307829",
+    "name": "Commune Dondon",
+    "local_name": "Commune Dondon",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune Dondon",
+      "boundary": "administrative",
+      "ref:IHSI": "0342",
+      "way_area": "0.0103615",
+      "population": "26688",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -392007,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-394467,-392028,-307829",
+    "name": "Commune Cap-Haïtien",
+    "local_name": "Commune Cap-Haïtien",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune Cap-Haïtien",
+      "boundary": "administrative",
+      "ref:IHSI": "0311",
+      "way_area": "0.00466468",
+      "population": "211630",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -392004,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-394463,-392028,-307829",
+    "name": "Commune Plaine du Nord",
+    "local_name": "Commune Plaine du Nord",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune Plaine du Nord",
+      "boundary": "administrative",
+      "ref:IHSI": "0322",
+      "way_area": "0.00867224",
+      "population": "31817",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -391999,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-394488,-392028,-307829",
+    "name": "Commune Grande-Rivière-Du-Nord",
+    "local_name": "Commune Grande-Rivière-Du-Nord",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune Grande-Rivière-Du-Nord",
+      "boundary": "administrative",
+      "ref:IHSI": "0331",
+      "way_area": "0.010883",
+      "population": "31900",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -391997,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-394467,-392028,-307829",
+    "name": "Commune Quartier-Morin",
+    "local_name": "Commune Quartier-Morin",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune Quartier-Morin",
+      "boundary": "administrative",
+      "ref:IHSI": "0312",
+      "way_area": "0.00514464",
+      "population": "21100",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -391996,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-392360,-392238,-307829",
+    "name": "Commune Gros Morne",
+    "local_name": "Commune Gros Morne",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune Gros Morne",
+      "boundary": "administrative",
+      "ref:IHSI": "0521",
+      "way_area": "0.0342453",
+      "population": "118163",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -391995,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-392360,-392238,-307829",
+    "name": "Commune Terre Neuve",
+    "local_name": "Commune Terre Neuve",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune Terre Neuve",
+      "boundary": "administrative",
+      "ref:IHSI": "0522",
+      "way_area": "0.015599",
+      "population": "23920",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -391994,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-393379,-391963,-307829",
+    "name": "Commune Bassin Bleu",
+    "local_name": "Commune Bassin Bleu",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune Bassin Bleu",
+      "boundary": "administrative",
+      "ref:IHSI": "0913",
+      "way_area": "0.0184349",
+      "population": "46458",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -391993,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-393381,-391963,-307829",
+    "name": "Commune Saint-Louis du Nord",
+    "local_name": "Commune Saint-Louis du Nord",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune Saint-Louis du Nord",
+      "boundary": "administrative",
+      "ref:IHSI": "0921",
+      "way_area": "0.00974967",
+      "population": "84661",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -391989,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-394459,-392189,-307829",
+    "name": "Commune Sainte-Suzanne",
+    "local_name": "Commune Sainte-Suzanne",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune Sainte-Suzanne",
+      "boundary": "administrative",
+      "ref:IHSI": "0432",
+      "way_area": "0.0110423",
+      "population": "22242",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -391984,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-394459,-392189,-307829",
+    "name": "Commune Caracol",
+    "local_name": "Commune Caracol",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune Caracol",
+      "boundary": "administrative",
+      "ref:IHSI": "0434",
+      "way_area": "0.00623315",
+      "population": "6051",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -391983,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-393379,-391963,-307829",
+    "name": "Commune Chansolme",
+    "local_name": "Commune Chansolme",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune Chansolme",
+      "boundary": "administrative",
+      "ref:IHSI": "0914",
+      "way_area": "0.00463295",
+      "population": "12594",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -391982,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-394459,-392189,-307829",
+    "name": "Commune Trou-Du-Nord",
+    "local_name": "Commune Trou-Du-Nord",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune Trou-Du-Nord",
+      "boundary": "administrative",
+      "ref:IHSI": "0431",
+      "way_area": "0.0111699",
+      "population": "38225",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -391935,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-394452,-392189,-307829",
+    "name": "Commune Fort-Liberté",
+    "local_name": "Commune Fort-Liberté",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune Fort-Liberté",
+      "boundary": "administrative",
+      "ref:IHSI": "0411",
+      "way_area": "0.0205019",
+      "population": "26679",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -391934,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-394452,-392189,-307829",
+    "name": "Commune Ferrier",
+    "local_name": "Commune Ferrier",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune Ferrier",
+      "boundary": "administrative",
+      "ref:IHSI": "0412",
+      "way_area": "0.00588851",
+      "population": "11410",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -391927,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-393374,-391963,-307829",
+    "name": "Commune Baie de Henne",
+    "local_name": "Commune Baie de Henne",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune Baie de Henne",
+      "boundary": "administrative",
+      "ref:IHSI": "0932",
+      "way_area": "0.0176971",
+      "population": "19985",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -391926,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-393374,-391963,-307829",
+    "name": "Commune Jean Rabel",
+    "local_name": "Commune Jean Rabel",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune Jean Rabel",
+      "boundary": "administrative",
+      "ref:IHSI": "0934",
+      "way_area": "0.0415469",
+      "population": "108738",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -391674,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-393488,-392213,-307829",
+    "name": "Commune Savanette",
+    "local_name": "Commune Savanette",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune Savanette",
+      "boundary": "administrative",
+      "ref:IHSI": "0633",
+      "way_area": "0.0142404",
+      "population": "28260",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -391428,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-393329,-386871,-307829",
+    "name": "Commune Cornillon",
+    "local_name": "Commune Cornillon",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune Cornillon",
+      "boundary": "administrative",
+      "ref:IHSI": "0134",
+      "way_area": "0.0192444",
+      "population": "47504",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -391427,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-393329,-386871,-307829",
+    "name": "Commune Ganthier",
+    "local_name": "Commune Ganthier",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune Ganthier",
+      "boundary": "administrative",
+      "ref:IHSI": "0133",
+      "way_area": "0.0419328",
+      "population": "49793",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -391409,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-394505,-391953,-307829",
+    "name": "Commune Anse-à-Pitres",
+    "local_name": "Commune Anse-à-Pitres",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune Anse-à-Pitres",
+      "boundary": "administrative",
+      "ref:IHSI": "0234",
+      "way_area": "0.0156647",
+      "population": "22884",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -391401,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-393329,-386871,-307829",
+    "name": "Commune Fonds-Verettes",
+    "local_name": "Commune Fonds-Verettes",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune Fonds-Verettes",
+      "boundary": "administrative",
+      "ref:IHSI": "0135",
+      "way_area": "0.0245357",
+      "population": "39831",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -391386,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-394516,-391953,-307829",
+    "name": "Commune Jacmel",
+    "local_name": "Commune Jacmel",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune Jacmel",
+      "boundary": "administrative",
+      "ref:IHSI": "0211",
+      "way_area": "0.0398689",
+      "population": "148207",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -391380,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-394516,-391953,-307829",
+    "name": "Commune La Vallée de Jacmel",
+    "local_name": "Commune La Vallée de Jacmel",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune La Vallée de Jacmel",
+      "boundary": "administrative",
+      "ref:IHSI": "0214",
+      "way_area": "0.00686165",
+      "population": "28014",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -391377,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-394518,-2744350,-307829",
+    "name": "Commune Camp Perrin",
+    "local_name": "Commune Camp Perrin",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune Camp Perrin",
+      "boundary": "administrative",
+      "ref:IHSI": "0714",
+      "way_area": "0.0111193",
+      "wikidata": "Q2281419",
+      "wikipedia": "fr:Camp-Perrin",
+      "population": "36124",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -391375,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-393324,-391834,-307829",
+    "name": "Commune Petit Trou de Nippes",
+    "local_name": "Commune Petit Trou de Nippes",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune Petit Trou de Nippes",
+      "boundary": "administrative",
+      "ref:IHSI": "1022",
+      "way_area": "0.0132005",
+      "population": "41832",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -391374,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-393320,-391834,-307829",
+    "name": "Commune Petite Rivière de Nippes",
+    "local_name": "Commune Petite Rivière de Nippes",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune Petite Rivière de Nippes",
+      "boundary": "administrative",
+      "ref:IHSI": "1012",
+      "way_area": "0.00770219",
+      "population": "22211",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -391371,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-393324,-391834,-307829",
+    "name": "Commune Anse-à-Veau",
+    "local_name": "Commune Anse-à-Veau",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune Anse-à-Veau",
+      "boundary": "administrative",
+      "ref:IHSI": "1021",
+      "way_area": "0.00943477",
+      "population": "52432",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -391246,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-394504,-391953,-307829",
+    "name": "Commune Côte-de-Fer",
+    "local_name": "Commune Côte-de-Fer",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune Côte-de-Fer",
+      "boundary": "administrative",
+      "ref:IHSI": "0222",
+      "way_area": "0.0150984",
+      "population": "37694",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -391241,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-393320,-391834,-307829",
+    "name": "Commune Miragoâne",
+    "local_name": "Commune Miragoâne",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune Miragoâne",
+      "boundary": "administrative",
+      "ref:IHSI": "1011",
+      "way_area": "0.0136309",
+      "population": "78108",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -391229,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-394517,-2744350,-307829",
+    "name": "Commune d’Aquin",
+    "local_name": "Commune d’Aquin",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune d’Aquin",
+      "boundary": "administrative",
+      "ref:IHSI": "0731",
+      "way_area": "0.0549952",
+      "population": "83525",
+      "admin_level": "8",
+      "border_type": "Commune",
+      "is_in:country": "Haiti",
+      "is_in:department": "Sud"
+    }
+  },
+  {
+    "osm_id": -391218,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-394518,-2744350,-307829",
+    "name": "Commune Île à Vache",
+    "local_name": "Commune Île à Vache",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune Île à Vache",
+      "boundary": "administrative",
+      "ref:IHSI": "0716",
+      "way_area": "0.0039055",
+      "population": "12341",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -391199,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-394519,-2744350,-307829",
+    "name": "Commune Les Anglais",
+    "local_name": "Commune Les Anglais",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune Les Anglais",
+      "boundary": "administrative",
+      "ref:IHSI": "0752",
+      "way_area": "0.0103342",
+      "population": "23840",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -391195,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-393437,-391700,-307829",
+    "name": "Commune Chambellan",
+    "local_name": "Commune Chambellan",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune Chambellan",
+      "boundary": "administrative",
+      "ref:IHSI": "0815",
+      "way_area": "0.00629108",
+      "population": "20564",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -391193,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-393437,-391700,-307829",
+    "name": "Commune Abricots",
+    "local_name": "Commune Abricots",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune Abricots",
+      "boundary": "administrative",
+      "ref:IHSI": "0812",
+      "way_area": "0.00884139",
+      "wikidata": "Q946128",
+      "wikipedia": "fr:Abricots (Haïti)",
+      "population": "29396",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -390552,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-393437,-391700,-307829",
+    "name": "Commune Bonbon",
+    "local_name": "Commune Bonbon",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune Bonbon",
+      "is_in": "Grand'Anse",
+      "boundary": "administrative",
+      "ref:IHSI": "0813",
+      "way_area": "0.0029563",
+      "population": "6688",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -390550,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-393437,-391700,-307829",
+    "name": "Commune de Jérémie",
+    "local_name": "Commune de Jérémie",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune de Jérémie",
+      "is_in": "Grand'Anse",
+      "boundary": "administrative",
+      "ref:IHSI": "0811",
+      "way_area": "0.0333184",
+      "wikidata": "Q986301",
+      "wikipedia": "fr:Jérémie (Haïti)",
+      "population": "103889",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -390549,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-393435,-391700,-307829",
+    "name": "Commune Roseaux",
+    "local_name": "Commune Roseaux",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune Roseaux",
+      "boundary": "administrative",
+      "ref:IHSI": "0832",
+      "way_area": "0.0183285",
+      "population": "27881",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -390544,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-393435,-391700,-307829",
+    "name": "Commune Beaumont",
+    "local_name": "Commune Beaumont",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune Beaumont",
+      "boundary": "administrative",
+      "ref:IHSI": "0833",
+      "way_area": "0.0143414",
+      "population": "15257",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -390452,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-394521,-2744350,-307829",
+    "name": "Commune Roche-à-Bateau",
+    "local_name": "Commune Roche-à-Bateau",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune Roche-à-Bateau",
+      "boundary": "administrative",
+      "ref:IHSI": "0743",
+      "way_area": "0.00429571",
+      "population": "14719",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -390451,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-394518,-2744350,-307829",
+    "name": "Commune Chantal",
+    "local_name": "Commune Chantal",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune Chantal",
+      "boundary": "administrative",
+      "ref:IHSI": "0713",
+      "way_area": "0.0129115",
+      "wikidata": "Q2636470",
+      "wikipedia": "fr:Chantal (ville)",
+      "population": "27350",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -390426,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-394521,-2744350,-307829",
+    "name": "Commune Port-à-Piment",
+    "local_name": "Commune Port-à-Piment",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune Port-à-Piment",
+      "boundary": "administrative",
+      "ref:IHSI": "0742",
+      "way_area": "0.00498497",
+      "population": "15040",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -390418,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-394518,-2744350,-307829",
+    "name": "Commune Torbeck",
+    "local_name": "Commune Torbeck",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune Torbeck",
+      "boundary": "administrative",
+      "ref:IHSI": "0712",
+      "way_area": "0.016264",
+      "population": "61080",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -390402,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-394518,-2744350,-307829",
+    "name": "Commune Les Cayes",
+    "local_name": "Commune Les Cayes",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune Les Cayes",
+      "boundary": "administrative",
+      "ref:IHSI": "0711",
+      "way_area": "0.0184687",
+      "wikidata": "Q984786",
+      "population": "132406",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -390394,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-407263,-391834,-307829",
+    "name": "Commune Baraderès",
+    "local_name": "Commune Baraderès",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune Baraderès",
+      "boundary": "administrative",
+      "ref:IHSI": "1031",
+      "way_area": "0.0159382",
+      "population": "36558",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -390390,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-393435,-391700,-307829",
+    "name": "Commune Pestel",
+    "local_name": "Commune Pestel",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune Pestel",
+      "boundary": "administrative",
+      "ref:IHSI": "0834",
+      "way_area": "0.0250057",
+      "population": "34780",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -390386,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-393435,-391700,-307829",
+    "name": "Commune Corail",
+    "local_name": "Commune Corail",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune Corail",
+      "boundary": "administrative",
+      "ref:IHSI": "0831",
+      "way_area": "0.00929498",
+      "population": "24460",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -389869,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-394494,-392028,-307829",
+    "name": "Commune Pilate",
+    "local_name": "Commune Pilate",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune Pilate",
+      "boundary": "administrative",
+      "ref:IHSI": "0372",
+      "way_area": "0.0116851",
+      "wikidata": "Q2430177",
+      "wikipedia": "en:Pilate",
+      "population": "41685",
+      "admin_level": "8",
+      "border_type": "municipality"
+    }
+  },
+  {
+    "osm_id": -389868,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-394465,-392028,-307829",
+    "name": "Commune Borgne",
+    "local_name": "Commune Borgne",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune Borgne",
+      "is_in": "Borgne Arrondissement, Nord Department, Haiti",
+      "boundary": "administrative",
+      "ref:IHSI": "0351",
+      "way_area": "0.0158639",
+      "wikidata": "Q2638014",
+      "wikipedia": "en:Borgne",
+      "population": "51612",
+      "admin_level": "8",
+      "border_type": "municipality"
+    }
+  },
+  {
+    "osm_id": -389658,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-393379,-391963,-307829",
+    "name": "Commune de Port-de-Paix",
+    "local_name": "Commune de Port-de-Paix",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune de Port-de-Paix",
+      "boundary": "administrative",
+      "ref:IHSI": "0911",
+      "way_area": "0.0293004",
+      "wikidata": "Q951602",
+      "wikipedia": "fr:Port-de-Paix",
+      "population": "157032",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -389656,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-393381,-391963,-307829",
+    "name": "Commune Anse-à-Foleur",
+    "local_name": "Commune Anse-à-Foleur",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune Anse-à-Foleur",
+      "boundary": "administrative",
+      "ref:IHSI": "0922",
+      "way_area": "0.00615135",
+      "population": "22052",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -389653,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-394463,-392028,-307829",
+    "name": "Commune de Milot",
+    "local_name": "Commune de Milot",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune de Milot",
+      "boundary": "administrative",
+      "ref:IHSI": "0323",
+      "way_area": "0.00605169",
+      "population": "24673",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -389623,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-394467,-392028,-307829",
+    "name": "Commune Limonade",
+    "local_name": "Commune Limonade",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune Limonade",
+      "boundary": "administrative",
+      "ref:IHSI": "0313",
+      "way_area": "0.0114044",
+      "population": "42350",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -389621,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-394459,-392189,-307829",
+    "name": "Commune Terrier Rouge",
+    "local_name": "Commune Terrier Rouge",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune Terrier Rouge",
+      "boundary": "administrative",
+      "ref:IHSI": "0433",
+      "way_area": "0.0148382",
+      "population": "23474",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -389619,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-392364,-392238,-307829",
+    "name": "Commune de Saint-Marc",
+    "local_name": "Commune de Saint-Marc",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune de Saint-Marc",
+      "boundary": "administrative",
+      "ref:IHSI": "0531",
+      "way_area": "0.04785",
+      "population": "199124",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -389613,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-392360,-392238,-307829",
+    "name": "Commune Anse Rouge",
+    "local_name": "Commune Anse Rouge",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune Anse Rouge",
+      "boundary": "administrative",
+      "ref:IHSI": "0523",
+      "way_area": "0.0373012",
+      "population": "32271",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -389610,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-393374,-391963,-307829",
+    "name": "Commune Môle-Saint-Nicolas",
+    "local_name": "Commune Môle-Saint-Nicolas",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune Môle-Saint-Nicolas",
+      "boundary": "administrative",
+      "ref:IHSI": "0931",
+      "way_area": "0.0201853",
+      "population": "24787",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -389607,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-393374,-391963,-307829",
+    "name": "Commune Bombardopolis",
+    "local_name": "Commune Bombardopolis",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune Bombardopolis",
+      "is_in": "Haiti, Nord-Ouest",
+      "boundary": "administrative",
+      "ref:IHSI": "0933",
+      "way_area": "0.0160807",
+      "population": "26392",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -389600,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-394505,-391953,-307829",
+    "name": "Commune Thiotte",
+    "local_name": "Commune Thiotte",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune Thiotte",
+      "boundary": "administrative",
+      "ref:IHSI": "0233",
+      "way_area": "0.0104292",
+      "population": "26722",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -389584,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-394505,-391953,-307829",
+    "name": "Commune de Grand Gosier",
+    "local_name": "Commune de Grand Gosier",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune de Grand Gosier",
+      "boundary": "administrative",
+      "ref:IHSI": "0232",
+      "way_area": "0.00680968",
+      "population": "13067",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -389559,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-394516,-391953,-307829",
+    "name": "Commune Cayes-Jacmel",
+    "local_name": "Commune Cayes-Jacmel",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune Cayes-Jacmel",
+      "boundary": "administrative",
+      "ref:IHSI": "0213",
+      "way_area": "0.00505888",
+      "population": "25730",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -389554,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-394504,-391953,-307829",
+    "name": "Commune Bainet",
+    "local_name": "Commune Bainet",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune Bainet",
+      "boundary": "administrative",
+      "ref:IHSI": "0221",
+      "way_area": "0.0261326",
+      "population": "66694",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -389537,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-394518,-2744350,-307829",
+    "name": "Commune Maniche",
+    "local_name": "Commune Maniche",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune Maniche",
+      "boundary": "administrative",
+      "ref:IHSI": "0715",
+      "way_area": "0.0111504",
+      "population": "6973",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -389526,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-394522,-2744350,-307829",
+    "name": "Commune Arniquet",
+    "local_name": "Commune Arniquet",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune Arniquet",
+      "boundary": "administrative",
+      "ref:IHSI": "0723",
+      "way_area": "0.00429755",
+      "population": "8751",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -389513,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-394522,-2744350,-307829",
+    "name": "Commune Saint-Jean-du-Sud",
+    "local_name": "Commune Saint-Jean-du-Sud",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune Saint-Jean-du-Sud",
+      "boundary": "administrative",
+      "ref:IHSI": "0722",
+      "way_area": "0.00619296",
+      "population": "20539",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -389511,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-394522,-2744350,-307829",
+    "name": "Commune Port-Salut",
+    "local_name": "Commune Port-Salut",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune Port-Salut",
+      "boundary": "administrative",
+      "ref:IHSI": "0721",
+      "way_area": "0.00508798",
+      "population": "29987",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -389509,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-394521,-2744350,-307829",
+    "name": "Commune Coteaux",
+    "local_name": "Commune Coteaux",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune Coteaux",
+      "boundary": "administrative",
+      "ref:IHSI": "0741",
+      "way_area": "0.00615634",
+      "population": "16987",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -389508,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-394519,-2744350,-307829",
+    "name": "Commune Chardonnieres",
+    "local_name": "Commune Chardonnieres",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune Chardonnieres",
+      "boundary": "administrative",
+      "ref:IHSI": "0751",
+      "way_area": "0.0098803",
+      "population": "20126",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -389507,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-394519,-2744350,-307829",
+    "name": "Tiburon",
+    "local_name": "Tiburon",
+    "name_en": null,
+    "all_tags": {
+      "name": "Tiburon",
+      "boundary": "administrative",
+      "ref:IHSI": "0753",
+      "way_area": "0.0127323",
+      "population": "18525",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -389506,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-393437,-391700,-307829",
+    "name": "Commune Moron",
+    "local_name": "Commune Moron",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune Moron",
+      "boundary": "administrative",
+      "ref:IHSI": "0814",
+      "way_area": "0.0154793",
+      "population": "24255",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -389326,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-393396,-391700,-307829",
+    "name": "Commune Anse-d'Hainault",
+    "local_name": "Commune Anse-d'Hainault",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune Anse-d'Hainault",
+      "boundary": "administrative",
+      "ref:IHSI": "0821",
+      "way_area": "0.00840466",
+      "population": "28125",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -389275,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-393324,-391834,-307829",
+    "name": "L'Asile",
+    "local_name": "L'Asile",
+    "name_en": null,
+    "all_tags": {
+      "name": "L'Asile",
+      "boundary": "administrative",
+      "ref:IHSI": "1023",
+      "way_area": "0.013432",
+      "population": "32410",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -389274,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-394517,-2744350,-307829",
+    "name": "Commune Cavaillon",
+    "local_name": "Commune Cavaillon",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune Cavaillon",
+      "boundary": "administrative",
+      "ref:IHSI": "0733",
+      "way_area": "0.0197415",
+      "population": "41476",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -389273,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-394517,-2744350,-307829",
+    "name": "Commune de Saint Louis du Sud",
+    "local_name": "Commune de Saint Louis du Sud",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune de Saint Louis du Sud",
+      "boundary": "administrative",
+      "ref:IHSI": "0732",
+      "way_area": "0.0161617",
+      "population": "51862",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -388824,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-393396,-391700,-307829",
+    "name": "Commune Les Irois",
+    "local_name": "Commune Les Irois",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune Les Irois",
+      "boundary": "administrative",
+      "ref:IHSI": "0823",
+      "way_area": "0.0109017",
+      "population": "18072",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -388823,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-393396,-391700,-307829",
+    "name": "Commune Dame-Marie",
+    "local_name": "Commune Dame-Marie",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune Dame-Marie",
+      "boundary": "administrative",
+      "ref:IHSI": "0822",
+      "way_area": "0.00874229",
+      "population": "30010",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -388721,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-393492,-392213,-307829",
+    "name": "Commune Mirebalais",
+    "local_name": "Commune Mirebalais",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune Mirebalais",
+      "boundary": "administrative",
+      "ref:IHSI": "0621",
+      "way_area": "0.0279909",
+      "population": "76194",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -388625,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-394493,-392028,-307829",
+    "name": "Commune Limbé",
+    "local_name": "Commune Limbé",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune Limbé",
+      "is_in": "Limbé Arrondissement, Nord Department, Haiti",
+      "boundary": "administrative",
+      "ref:IHSI": "0361",
+      "way_area": "0.0102456",
+      "wikidata": "Q2229438",
+      "wikipedia": "en:Limbé, Nord",
+      "population": "65788",
+      "admin_level": "8",
+      "border_type": "municipality"
+    }
+  },
+  {
+    "osm_id": -388624,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-394465,-392028,-307829",
+    "name": "Commune Port-Margot",
+    "local_name": "Commune Port-Margot",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune Port-Margot",
+      "is_in": "Borgne Arrondissement, Nord Department, Haiti",
+      "boundary": "administrative",
+      "ref:IHSI": "0352",
+      "way_area": "0.0106583",
+      "wikidata": "Q2380764",
+      "wikipedia": "en:Port Margot",
+      "population": "38468",
+      "admin_level": "8",
+      "border_type": "municipality"
+    }
+  },
+  {
+    "osm_id": -388595,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-394493,-392028,-307829",
+    "name": "Commune Bas-Limbé",
+    "local_name": "Commune Bas-Limbé",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune Bas-Limbé",
+      "is_in": "Limbé Arrondissement, Nord Department, Haiti",
+      "boundary": "administrative",
+      "ref:IHSI": "0362",
+      "way_area": "0.00458462",
+      "wikidata": "Q2187748",
+      "wikipedia": "en:Bas-Limbé",
+      "population": "16118",
+      "admin_level": "8",
+      "border_type": "municipality"
+    }
+  },
+  {
+    "osm_id": -387731,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-393329,-386871,-307829",
+    "name": "Commune Thomazeau",
+    "local_name": "Commune Thomazeau",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune Thomazeau",
+      "boundary": "administrative",
+      "ref:IHSI": "0132",
+      "way_area": "0.0254068",
+      "population": "42169",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -387721,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-393329,-386871,-307829",
+    "name": "Commune Croix-des-Bouquets",
+    "local_name": "Commune Croix-des-Bouquets",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune Croix-des-Bouquets",
+      "boundary": "administrative",
+      "ref:IHSI": "0131",
+      "way_area": "0.0546309",
+      "population": "198764",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -387680,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-387690,-386871,-307829",
+    "name": "Commune Cabaret",
+    "local_name": "Commune Cabaret",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune Cabaret",
+      "is_in": "Arrondissement d'Arcahaie",
+      "boundary": "administrative",
+      "ref:IHSI": "0142",
+      "way_area": "0.0181299",
+      "population": "54339",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -387668,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-387690,-386871,-307829",
+    "name": "Commune Arcahaie",
+    "local_name": "Commune Arcahaie",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune Arcahaie",
+      "boundary": "administrative",
+      "ref:IHSI": "0141",
+      "way_area": "0.0345896",
+      "id_commune": "141",
+      "population": "103756",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -387594,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-387650,-386871,-307829",
+    "name": "Commune Petit-Goâve",
+    "local_name": "Commune Petit-Goâve",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune Petit-Goâve",
+      "boundary": "administrative",
+      "ref:IHSI": "0122",
+      "way_area": "0.0336784",
+      "population": "137722",
+      "admin_level": "8",
+      "border_type": "municipality"
+    }
+  },
+  {
+    "osm_id": -387565,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-387650,-386871,-307829",
+    "name": "Commune Grand-Goâve",
+    "local_name": "Commune Grand-Goâve",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune Grand-Goâve",
+      "boundary": "administrative",
+      "ref:IHSI": "0123",
+      "way_area": "0.0212096",
+      "population": "108688",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -387138,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-387318,-386871,-307829",
+    "name": "Petyonvil",
+    "local_name": "Petyonvil",
+    "name_en": null,
+    "all_tags": {
+      "name": "Petyonvil",
+      "name:fr": "Pétionville",
+      "name:ht": "Petyonvil",
+      "name:ko": "페티옹빌",
+      "name:ru": "Петьонвиль",
+      "name:zh": "佩蒂翁維爾",
+      "alt_name": "Pétion-Ville",
+      "boundary": "administrative",
+      "ref:IHSI": "0114",
+      "way_area": "0.0133481",
+      "population": "280241",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -387137,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-387650,-386871,-307829",
+    "name": "Commune Léogâne",
+    "local_name": "Commune Léogâne",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune Léogâne",
+      "name:ht": "Leyogàn",
+      "boundary": "administrative",
+      "ref:IHSI": "0121",
+      "way_area": "0.0328086",
+      "population": "157221",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -387134,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-387318,-386871,-307829",
+    "name": "Commune Gressier",
+    "local_name": "Commune Gressier",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune Gressier",
+      "boundary": "administrative",
+      "ref:IHSI": "0116",
+      "way_area": "0.00753544",
+      "population": "28086",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -387125,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-394516,-391953,-307829",
+    "name": "Commune Marigot",
+    "local_name": "Commune Marigot",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune Marigot",
+      "boundary": "administrative",
+      "ref:IHSI": "0212",
+      "way_area": "0.0162689",
+      "population": "57311",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -387124,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-394505,-391953,-307829",
+    "name": "Commune Belle Anse",
+    "local_name": "Commune Belle Anse",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune Belle Anse",
+      "boundary": "administrative",
+      "ref:IHSI": "0231",
+      "way_area": "0.0329541",
+      "population": "58352",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -387116,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-387318,-386871,-307829",
+    "name": "Commune Kenscoff",
+    "local_name": "Commune Kenscoff",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune Kenscoff",
+      "boundary": "administrative",
+      "ref:IHSI": "0115",
+      "way_area": "0.0174841",
+      "population": "45731",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -387087,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-387093,-386871,-307829",
+    "name": "Commune Pointe-à-Raquette",
+    "local_name": "Commune Pointe-à-Raquette",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune Pointe-à-Raquette",
+      "boundary": "administrative",
+      "ref:IHSI": "0152",
+      "way_area": "0.0266045",
+      "population": "19522",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -387083,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-387093,-386871,-307829",
+    "name": "Commune Anse-à-Galet",
+    "local_name": "Commune Anse-à-Galet",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune Anse-à-Galet",
+      "boundary": "administrative",
+      "ref:IHSI": "0151",
+      "way_area": "0.0321275",
+      "population": "49812",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -387042,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-387318,-386871,-307829",
+    "name": "Delmas, Ouest",
+    "local_name": "Commune de Delmas",
+    "name_en": "Delmas, Ouest",
+    "all_tags": {
+      "name": "Commune de Delmas",
+      "name:da": "Delmas",
+      "name:de": "Delmas",
+      "name:en": "Delmas, Ouest",
+      "name:ht": "Dèlma",
+      "name:it": "Delmas",
+      "name:ko": "델마스",
+      "name:nl": "Delmas",
+      "name:nn": "Delmas",
+      "name:no": "Delmas",
+      "name:pl": "Delmas",
+      "name:pt": "Delmas",
+      "name:zh": "德爾馬斯",
+      "boundary": "administrative",
+      "ref:IHSI": "0112",
+      "way_area": "0.00222808",
+      "wikidata": "Q997821",
+      "wikipedia": "fr:Delmas (Haïti)",
+      "population": "604211",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -387041,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-387318,-386871,-307829",
+    "name": "Kafou",
+    "local_name": "Kafou",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kafou",
+      "name:fr": "Carrefour",
+      "name:ht": "Kafou",
+      "name:ja": "カルフール",
+      "name:ko": "카레푸르",
+      "name:ru": "Карфур",
+      "name:zh": "卡勒富爾",
+      "boundary": "administrative",
+      "ref:IHSI": "0113",
+      "way_area": "0.0142126",
+      "wikidata": "Q32124919",
+      "population": "392986",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -387039,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-387318,-386871,-307829",
+    "name": "Pòtoprens",
+    "local_name": "Pòtoprens",
+    "name_en": null,
+    "all_tags": {
+      "name": "Pòtoprens",
+      "name:af": "Port-au-Prince",
+      "name:am": "ፖርቶፕሪንስ",
+      "name:ar": "بورت أو برانس",
+      "name:ay": "Port-au-Prince",
+      "name:az": "Port-o-Prins",
+      "name:be": "Порт-о-Прэнс",
+      "name:bg": "Порт о Пренс",
+      "name:bn": "পোর্ট-অ-প্রিন্স",
+      "name:bo": "པོ་རོ་ཊི་ཨའུ་པི་རིན་སི།",
+      "name:br": "Port-au-Prince",
+      "name:bs": "Port-au-Prince",
+      "name:ca": "Port-au-Prince",
+      "name:ce": "Порт-о-Пренс",
+      "name:cs": "Port-au-Prince",
+      "name:cy": "Port-au-Prince",
+      "name:eo": "Portoprinco",
+      "name:es": "Puerto Príncipe",
+      "name:fr": "Port-au-Prince",
+      "name:ht": "Pòtoprens",
+      "name:ja": "ポルトープランス",
+      "name:ru": "Порт-о-Пренс",
+      "boundary": "administrative",
+      "ref:IHSI": "0111",
+      "way_area": "0.00305287",
+      "population": "736618",
+      "admin_level": "8",
+      "name:be-tarask": "Порт-о-Прэнс"
+    }
+  }
+]

@@ -1,0 +1,527 @@
+[
+  {
+    "osm_id": -8004327,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-4001294,-3320773,-192780",
+    "name": "Zone 8",
+    "local_name": "Zone 8",
+    "name_en": null,
+    "all_tags": {
+      "name": "Zone 8",
+      "place": "zone",
+      "boundary": "administrative",
+      "way_area": "0.000404109",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8004326,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-4001294,-3320773,-192780",
+    "name": "Zone 9",
+    "local_name": "Zone 9",
+    "name_en": null,
+    "all_tags": {
+      "name": "Zone 9",
+      "place": "zone",
+      "boundary": "administrative",
+      "way_area": "0.00035564",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8004325,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-4001294,-3320773,-192780",
+    "name": "Zone 2",
+    "local_name": "Zone 2",
+    "name_en": null,
+    "all_tags": {
+      "name": "Zone 2",
+      "place": "zone",
+      "boundary": "administrative",
+      "way_area": "0.000130253",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7770839,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-4001373,-3315297,-192780",
+    "name": "Zone 8",
+    "local_name": "Zone 8",
+    "name_en": null,
+    "all_tags": {
+      "name": "Zone 8",
+      "is_in": "Zwedru",
+      "place": "zone",
+      "boundary": "administrative",
+      "way_area": "0.00200517",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7770838,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-4001373,-3315297,-192780",
+    "name": "Zone 9",
+    "local_name": "Zone 9",
+    "name_en": null,
+    "all_tags": {
+      "name": "Zone 9",
+      "is_in": "Zwedru",
+      "place": "zone",
+      "boundary": "administrative",
+      "way_area": "0.00157143",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7718794,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-4001373,-3315297,-192780",
+    "name": "PTP Refugee Camp 4",
+    "local_name": "PTP Refugee Camp 4",
+    "name_en": null,
+    "all_tags": {
+      "name": "PTP Refugee Camp 4",
+      "place": "suburb",
+      "refugee": "yes",
+      "boundary": "administrative",
+      "way_area": "5.52909e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7717850,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-4001373,-3315297,-192780",
+    "name": "PTP Refugee Camp 3",
+    "local_name": "PTP Refugee Camp 3",
+    "name_en": null,
+    "all_tags": {
+      "name": "PTP Refugee Camp 3",
+      "place": "suburb",
+      "refugee": "yes",
+      "boundary": "administrative",
+      "way_area": "5.26443e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7717576,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-4001373,-3315297,-192780",
+    "name": "PTP Refugee Camp 1",
+    "local_name": "PTP Refugee Camp 1",
+    "name_en": null,
+    "all_tags": {
+      "name": "PTP Refugee Camp 1",
+      "place": "suburb",
+      "refugee": "yes",
+      "boundary": "administrative",
+      "way_area": "8.10069e-06",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7717282,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-4001373,-3315297,-192780",
+    "name": "PTP Refugee Camp 2",
+    "local_name": "PTP Refugee Camp 2",
+    "name_en": null,
+    "all_tags": {
+      "name": "PTP Refugee Camp 2",
+      "place": "suburb",
+      "refugee": "yes",
+      "boundary": "administrative",
+      "way_area": "4.5521e-06",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7679896,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-4001294,-3320773,-192780",
+    "name": "Zone 6",
+    "local_name": "Zone 6",
+    "name_en": null,
+    "all_tags": {
+      "name": "Zone 6",
+      "place": "zone",
+      "boundary": "administrative",
+      "way_area": "0.000792852",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7679895,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-4001294,-3320773,-192780",
+    "name": "Zone 7",
+    "local_name": "Zone 7",
+    "name_en": null,
+    "all_tags": {
+      "name": "Zone 7",
+      "place": "zone",
+      "boundary": "administrative",
+      "way_area": "0.000320576",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7679865,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-4001294,-3320773,-192780",
+    "name": "Zone 5",
+    "local_name": "Zone 5",
+    "name_en": null,
+    "all_tags": {
+      "name": "Zone 5",
+      "place": "zone",
+      "boundary": "administrative",
+      "way_area": "0.000697912",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7679834,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-4001294,-3320773,-192780",
+    "name": "Zone 3",
+    "local_name": "Zone 3",
+    "name_en": null,
+    "all_tags": {
+      "name": "Zone 3",
+      "place": "zone",
+      "boundary": "administrative",
+      "way_area": "0.000144142",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7679833,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-4001294,-3320773,-192780",
+    "name": "Zone 4",
+    "local_name": "Zone 4",
+    "name_en": null,
+    "all_tags": {
+      "name": "Zone 4",
+      "place": "zone",
+      "boundary": "administrative",
+      "way_area": "0.000309748",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7679791,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-4001294,-3320773,-192780",
+    "name": "Zone 1",
+    "local_name": "Zone 1",
+    "name_en": null,
+    "all_tags": {
+      "name": "Zone 1",
+      "place": "zone",
+      "boundary": "administrative",
+      "way_area": "9.67564e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7679536,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-4001318,-3320949,-192780",
+    "name": "Zone 8",
+    "local_name": "Zone 8",
+    "name_en": null,
+    "all_tags": {
+      "name": "Zone 8",
+      "place": "zone",
+      "boundary": "administrative",
+      "way_area": "0.000618178",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7679535,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-4001318,-3320949,-192780",
+    "name": "Zone 9",
+    "local_name": "Zone 9",
+    "name_en": null,
+    "all_tags": {
+      "name": "Zone 9",
+      "place": "zone",
+      "boundary": "administrative",
+      "way_area": "0.000699402",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7679500,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-4001318,-3320949,-192780",
+    "name": "Zone 5",
+    "local_name": "Zone 5",
+    "name_en": null,
+    "all_tags": {
+      "name": "Zone 5",
+      "place": "zone",
+      "boundary": "administrative",
+      "way_area": "0.000709351",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7679499,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-4001318,-3320949,-192780",
+    "name": "Zone 6",
+    "local_name": "Zone 6",
+    "name_en": null,
+    "all_tags": {
+      "name": "Zone 6",
+      "place": "zone",
+      "boundary": "administrative",
+      "way_area": "0.000755111",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7679498,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-4001318,-3320949,-192780",
+    "name": "Zone 7",
+    "local_name": "Zone 7",
+    "name_en": null,
+    "all_tags": {
+      "name": "Zone 7",
+      "place": "zone",
+      "boundary": "administrative",
+      "way_area": "0.000232267",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7679415,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-4001318,-3320949,-192780",
+    "name": "Zone 1",
+    "local_name": "Zone 1",
+    "name_en": null,
+    "all_tags": {
+      "name": "Zone 1",
+      "place": "zone",
+      "boundary": "administrative",
+      "way_area": "0.000724687",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7679414,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-4001318,-3320949,-192780",
+    "name": "Zone 2",
+    "local_name": "Zone 2",
+    "name_en": null,
+    "all_tags": {
+      "name": "Zone 2",
+      "place": "zone",
+      "boundary": "administrative",
+      "way_area": "0.000442389",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7679413,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-4001318,-3320949,-192780",
+    "name": "Zone 3",
+    "local_name": "Zone 3",
+    "name_en": null,
+    "all_tags": {
+      "name": "Zone 3",
+      "place": "zone",
+      "boundary": "administrative",
+      "way_area": "8.46605e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7679412,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-4001318,-3320949,-192780",
+    "name": "Zone 4",
+    "local_name": "Zone 4",
+    "name_en": null,
+    "all_tags": {
+      "name": "Zone 4",
+      "place": "zone",
+      "boundary": "administrative",
+      "way_area": "0.000550995",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7677853,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3315297,-192780",
+    "name": "Zone 6",
+    "local_name": "Zone 6",
+    "name_en": null,
+    "all_tags": {
+      "name": "Zone 6",
+      "is_in": "Zwedru",
+      "place": "zone",
+      "boundary": "administrative",
+      "way_area": "0.00206887",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7677706,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-4001373,-3315297,-192780",
+    "name": "Zone 5",
+    "local_name": "Zone 5",
+    "name_en": null,
+    "all_tags": {
+      "name": "Zone 5",
+      "is_in": "Zwedru",
+      "place": "zone",
+      "boundary": "administrative",
+      "way_area": "0.000641392",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7642976,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-4001373,-3315297,-192780",
+    "name": "Zone 4",
+    "local_name": "Zone 4",
+    "name_en": null,
+    "all_tags": {
+      "name": "Zone 4",
+      "is_in": "Zwedru",
+      "place": "zone",
+      "boundary": "administrative",
+      "way_area": "0.00252294",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7642958,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-4001373,-3315297,-192780",
+    "name": "Zone 7",
+    "local_name": "Zone 7",
+    "name_en": null,
+    "all_tags": {
+      "name": "Zone 7",
+      "is_in": "Zwedru",
+      "place": "zone",
+      "boundary": "administrative",
+      "way_area": "8.66984e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7642956,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-4001373,-3315297,-192780",
+    "name": "Zone 3",
+    "local_name": "Zone 3",
+    "name_en": null,
+    "all_tags": {
+      "name": "Zone 3",
+      "is_in": "Zwedru",
+      "place": "zone",
+      "boundary": "administrative",
+      "way_area": "6.73689e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7642718,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-4001373,-3315297,-192780",
+    "name": "Zone 2",
+    "local_name": "Zone 2",
+    "name_en": null,
+    "all_tags": {
+      "name": "Zone 2",
+      "is_in": "Zwedru",
+      "place": "zone",
+      "boundary": "administrative",
+      "way_area": "9.70107e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7641187,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-4001373,-3315297,-192780",
+    "name": "Zone 1",
+    "local_name": "Zone 1",
+    "name_en": null,
+    "all_tags": {
+      "name": "Zone 1",
+      "is_in": "Zwedru",
+      "place": "zone",
+      "boundary": "administrative",
+      "way_area": "4.96005e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": 818978823,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-4001387,-3320773,-192780",
+    "name": "Lugbleh",
+    "local_name": "Lugbleh",
+    "name_en": null,
+    "all_tags": {
+      "area": "yes",
+      "name": "Lugbleh",
+      "boundary": "administrative",
+      "way_area": "1.86538e-05",
+      "admin_level": "8"
+    }
+  }
+]

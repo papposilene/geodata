@@ -1,0 +1,56 @@
+[
+  {
+    "osm_id": -13703334,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2186600",
+    "name": "Atafu",
+    "local_name": "Atafu",
+    "name_en": "Atafu",
+    "all_tags": {
+      "name": "Atafu",
+      "name:en": "Atafu",
+      "name:ru": "Атафу",
+      "boundary": "administrative",
+      "way_area": "0.163249",
+      "wikidata": "Q642787",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13703333,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2186600",
+    "name": "Fakaofo",
+    "local_name": "Fakaofo",
+    "name_en": "Fakaofo",
+    "all_tags": {
+      "name": "Fakaofo",
+      "name:en": "Fakaofo",
+      "name:ru": "Факаофо",
+      "boundary": "administrative",
+      "way_area": "0.193926",
+      "wikidata": "Q650847",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13703332,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2186600",
+    "name": "Nukunonu",
+    "local_name": "Nukunonu",
+    "name_en": "Nukunonu",
+    "all_tags": {
+      "name": "Nukunonu",
+      "name:en": "Nukunonu",
+      "name:ru": "Нукунону",
+      "boundary": "administrative",
+      "way_area": "0.213316",
+      "wikidata": "Q656709",
+      "admin_level": "8"
+    }
+  }
+]

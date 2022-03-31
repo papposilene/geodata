@@ -1,0 +1,65 @@
+[
+  {
+    "osm_id": -9713955,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3499101,-3589982,-11144337",
+    "name": "Mandurriao",
+    "local_name": "Mandurriao",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mandurriao",
+      "place": "town",
+      "boundary": "administrative",
+      "way_area": "0.00116344",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -9713954,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3589982,-11144337",
+    "name": "Jaro",
+    "local_name": "Jaro",
+    "name_en": null,
+    "all_tags": {
+      "name": "Jaro",
+      "place": "town",
+      "boundary": "administrative",
+      "way_area": "0.00253123",
+      "wikidata": "Q1683558",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -6201191,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3499101,-3589982,-11144337",
+    "name": "Villa de Arevalo",
+    "local_name": "Villa de Arevalo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Villa de Arevalo",
+      "boundary": "administrative",
+      "way_area": "0.000584167",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -6194342,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3499101,-3589982,-11144337",
+    "name": "Molo",
+    "local_name": "Molo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Molo",
+      "boundary": "administrative",
+      "way_area": "0.000447126",
+      "admin_level": "8"
+    }
+  }
+]
