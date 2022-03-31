@@ -33,6 +33,8 @@ class CitiesSeeder extends Seeder
                 $region = Region::whereIn('osm_place_id', explode(',', $data['parents']))
                     ->orderBy('admin_level', 'desc')->first();
 
+                if(is_null($region)) { continue; }
+
                 $translations = [];
                 $getNames = $data['all_tags'];
                 $getFiltered = array_filter($getNames, function($key) {
@@ -48,7 +50,7 @@ class CitiesSeeder extends Seeder
                     'region_uuid' => (!empty($region) ? $region->uuid : null),
                     'osm_place_id' => intval($data['osm_id']),
                     'admin_level' => intval($data['admin_level']),
-                    'type' => (!is_null($data['boundary']) ? $data['boundary'] : $data['unknown']),
+                    'type' => (!is_null($data['boundary']) ? Str::slug($data['boundary'], '_') : $data['unknown']),
                     'name_loc' => $data['local_name'],
                     'name_eng' => (!is_null($data['name_en']) ? $data['name_en'] : $data['name']),
                     'name_translations' => json_encode($translations, JSON_FORCE_OBJECT),
