@@ -7,6 +7,7 @@ use Illuminate\Support\Facades\DB;
 use Illuminate\Support\Facades\File;
 use Papposilene\Geodata\Models\City;
 use Papposilene\Geodata\Models\Country;
+use Papposilene\Geodata\Models\Region;
 
 class CitiesSeeder extends Seeder
 {
@@ -32,10 +33,17 @@ class CitiesSeeder extends Seeder
             foreach ($json as $data) {
                 $cca3 = $replaceCca3[$data->cca3] ?? $data->cca3;
                 $country = Country::where('cca3', strtolower($cca3))->first();
+                $region = Region::where([
+                        [
+                            'country_cca3' => strtolower($cca3),
+                            'name' => $name,
+                        ]
+                    ])
+                    ->first();
 
                 City::create([
                     'country_cca3' => $country->cca3,
-                    'state' => ($data->adm1name ? $data->adm1name : null),
+                    'region_uuid' => ($region ? $region->uuid : null),
                     'name' => $data->name,
                     'lat' => (float) $data->latitude,
                     'lon' => (float) $data->longitude,
