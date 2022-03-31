@@ -1,0 +1,42 @@
+[
+  {
+    "osm_id": -2649885,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-4579480,-305099",
+    "name": "Jabriya - Block 12",
+    "local_name": "الجابرية - قطعة 12",
+    "name_en": "Jabriya - Block 12",
+    "all_tags": {
+      "ref": "12",
+      "name": "الجابرية - قطعة 12",
+      "place": "neighbourhood",
+      "name:ar": "الجابرية - قطعة 12",
+      "name:en": "Jabriya - Block 12",
+      "boundary": "administrative",
+      "way_area": "3.99717e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -2649754,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-4579480,-305099",
+    "name": "Jabriya",
+    "local_name": "الجابرية",
+    "name_en": "Jabriya",
+    "all_tags": {
+      "name": "الجابرية",
+      "place": "city",
+      "name:ar": "الجابرية",
+      "name:en": "Jabriya",
+      "boundary": "administrative",
+      "way_area": "0.0005451",
+      "wikidata": "Q4115240",
+      "wikipedia": "en:Jabriya",
+      "admin_level": "8",
+      "wikipedia:ar": "الجابرية (الكويت)"
+    }
+  }
+]

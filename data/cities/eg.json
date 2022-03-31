@@ -1,0 +1,170 @@
+[
+  {
+    "osm_id": -3608407,
+    "boundary": "administrative",
+    "admin_level": 9,
+    "parents": "-3584607,-1473947",
+    "name": "Kafr Shaban",
+    "local_name": "كفر شعبان",
+    "name_en": "Kafr Shaban",
+    "all_tags": {
+      "name": "كفر شعبان",
+      "name:ar": "كفر شعبان",
+      "name:de": "Kafr Shaban",
+      "name:en": "Kafr Shaban",
+      "name:fr": "Kafr Shaban",
+      "boundary": "administrative",
+      "int_name": "Kafr Shaban",
+      "name:ar1": "كفر شعبان",
+      "way_area": "0.000161542",
+      "admin_level": "9"
+    }
+  },
+  {
+    "osm_id": -3608214,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3584607,-1473947",
+    "name": "Birma",
+    "local_name": "برما",
+    "name_en": "Birma",
+    "all_tags": {
+      "name": "برما",
+      "name:ar": "برما",
+      "name:de": "Birma",
+      "name:en": "Birma",
+      "name:fr": "Birma",
+      "boundary": "administrative",
+      "int_name": "Birma",
+      "name:ar1": "برما",
+      "way_area": "0.0029985",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3605484,
+    "boundary": "administrative",
+    "admin_level": 9,
+    "parents": "-3584607,-1473947",
+    "name": "Shobar",
+    "local_name": "شوبر",
+    "name_en": "Shobar",
+    "all_tags": {
+      "name": "شوبر",
+      "name:ar": "شوبر",
+      "name:de": "Shobar",
+      "name:en": "Shobar",
+      "name:fr": "Shobar",
+      "boundary": "administrative",
+      "int_name": "Shobar",
+      "name:ar1": "شوبر",
+      "way_area": "0.000501382",
+      "admin_level": "9"
+    }
+  },
+  {
+    "osm_id": -3605393,
+    "boundary": "administrative",
+    "admin_level": 9,
+    "parents": "-3584607,-1473947",
+    "name": "Kafr Isam",
+    "local_name": "كفر عصام",
+    "name_en": "Kafr Isam",
+    "all_tags": {
+      "name": "كفر عصام",
+      "name:ar": "كفر عصام",
+      "name:de": "Kafr Isam",
+      "name:en": "Kafr Isam",
+      "name:fr": "Kafr Isam",
+      "boundary": "administrative",
+      "int_name": "Kafr Isam",
+      "name:ar1": "كفر عصام",
+      "way_area": "0.000727991",
+      "admin_level": "9"
+    }
+  },
+  {
+    "osm_id": -3603506,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3584607,-1473947",
+    "name": "Tanta",
+    "local_name": "طنطا",
+    "name_en": "Tanta",
+    "all_tags": {
+      "name": "طنطا",
+      "name:de": "Tanta",
+      "name:en": "Tanta",
+      "name:eo": "Tanta",
+      "name:fr": "Tanta",
+      "name:pl": "Tanta",
+      "name:ru": "Танта",
+      "boundary": "administrative",
+      "int_name": "Tanta",
+      "way_area": "0.0034832",
+      "population": "429503",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3588686,
+    "boundary": "administrative",
+    "admin_level": 9,
+    "parents": "-3584607,-1473947",
+    "name": "Bureik al Hagar",
+    "local_name": "بريك الحجر",
+    "name_en": "Bureik al Hagar",
+    "all_tags": {
+      "name": "بريك الحجر",
+      "name:ar": "بريك الحجر",
+      "name:de": "Bureik al Hagar",
+      "name:en": "Bureik al Hagar",
+      "name:fr": "Bureik al Hagar",
+      "boundary": "administrative",
+      "int_name": "Bureik al Hagar",
+      "name:ar1": "بريك الحجر",
+      "way_area": "0.000606661",
+      "admin_level": "9"
+    }
+  },
+  {
+    "osm_id": -3587035,
+    "boundary": "administrative",
+    "admin_level": 9,
+    "parents": "-3584607,-1473947",
+    "name": "Mit al Sudan",
+    "local_name": "ميت السودان",
+    "name_en": "Mit al Sudan",
+    "all_tags": {
+      "name": "ميت السودان",
+      "name:ar": "ميت السودان",
+      "name:de": "Mit al Sudan",
+      "name:en": "Mit al Sudan",
+      "name:fr": "Mit al Sudan",
+      "boundary": "administrative",
+      "int_name": "Mit al Sudan",
+      "way_area": "0.000724006",
+      "admin_level": "9"
+    }
+  },
+  {
+    "osm_id": -3578930,
+    "boundary": "administrative",
+    "admin_level": 9,
+    "parents": "-3585231,-3584607,-1473947",
+    "name": "Sibirbai",
+    "local_name": "سبرباي",
+    "name_en": "Sibirbai",
+    "all_tags": {
+      "name": "سبرباي",
+      "name:ar": "سبرباي",
+      "name:de": "Sibirbai",
+      "name:en": "Sibirbai",
+      "name:fr": "Sibirbai",
+      "boundary": "administrative",
+      "int_name": "Sibirbai",
+      "way_area": "0.000123874",
+      "admin_level": "9"
+    }
+  }
+]

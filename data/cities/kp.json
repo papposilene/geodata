@@ -1,0 +1,544 @@
+[
+  {
+    "osm_id": -13578595,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2637105,-356443,-192734",
+    "name": "Unha Dong",
+    "local_name": "운하동",
+    "name_en": "Unha Dong",
+    "all_tags": {
+      "name": "운하동",
+      "name:en": "Unha Dong",
+      "name:fr": "Quartier Unha",
+      "name:ko": "운하동",
+      "boundary": "administrative",
+      "way_area": "0.000185838",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13506290,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2636972,-356443,-192734",
+    "name": "Sochang-dong",
+    "local_name": "서창동",
+    "name_en": "Sochang-dong",
+    "all_tags": {
+      "name": "서창동",
+      "name:en": "Sochang-dong",
+      "name:ko": "서창동",
+      "name:ru": "Сочхандон",
+      "boundary": "administrative",
+      "way_area": "3.83437e-05",
+      "admin_level": "8",
+      "name:ko-Hani": "西蒼洞"
+    }
+  },
+  {
+    "osm_id": -13506289,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2636972,-356443,-192734",
+    "name": "Tonhung-dong",
+    "local_name": "동흥동",
+    "name_en": "Tonhung-dong",
+    "all_tags": {
+      "name": "동흥동",
+      "name:en": "Tonhung-dong",
+      "name:ko": "동흥동",
+      "name:ru": "Тонхындон",
+      "boundary": "administrative",
+      "way_area": "3.66629e-05",
+      "admin_level": "8",
+      "name:ko-Hani": "東興洞"
+    }
+  },
+  {
+    "osm_id": -13312310,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2636972,-356443,-192734",
+    "name": "Oesong-dong",
+    "local_name": "외성동",
+    "name_en": "Oesong-dong",
+    "all_tags": {
+      "name": "외성동",
+      "name:en": "Oesong-dong",
+      "name:ko": "외성동",
+      "name:ru": "Весондон",
+      "boundary": "administrative",
+      "way_area": "2.19258e-05",
+      "admin_level": "8",
+      "name:ko-Hani": "外城洞"
+    }
+  },
+  {
+    "osm_id": -13312081,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2636972,-356443,-192734",
+    "name": "Ryusong-dong",
+    "local_name": "류성동",
+    "name_en": "Ryusong-dong",
+    "all_tags": {
+      "name": "류성동",
+      "place": "subdistrict",
+      "name:en": "Ryusong-dong",
+      "name:ko": "류성동",
+      "name:ru": "Юсондон",
+      "boundary": "administrative",
+      "way_area": "0.000236528",
+      "admin_level": "8",
+      "name:ko-Hani": "柳城洞"
+    }
+  },
+  {
+    "osm_id": -13308763,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2636972,-356443,-192734",
+    "name": "Otan-dong",
+    "local_name": "오탄동",
+    "name_en": "Otan-dong",
+    "all_tags": {
+      "name": "오탄동",
+      "name:en": "Otan-dong",
+      "name:ko": "오탄동",
+      "name:ru": "Отхандон",
+      "boundary": "administrative",
+      "way_area": "6.70195e-05",
+      "admin_level": "8",
+      "name:ko-Hani": "烏灘洞"
+    }
+  },
+  {
+    "osm_id": -13308628,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2636972,-356443,-192734",
+    "name": "Kyongrim-dong",
+    "local_name": "경림동",
+    "name_en": "Kyongrim-dong",
+    "all_tags": {
+      "name": "경림동",
+      "name:en": "Kyongrim-dong",
+      "name:ko": "경림동",
+      "name:ru": "Кённимдон",
+      "boundary": "administrative",
+      "way_area": "4.87564e-05",
+      "admin_level": "8",
+      "name:ko-Hani": "敬臨洞"
+    }
+  },
+  {
+    "osm_id": -13308627,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2636972,-356443,-192734",
+    "name": "Chungsong-dong",
+    "local_name": "중성동",
+    "name_en": "Chungsong-dong",
+    "all_tags": {
+      "name": "중성동",
+      "name:en": "Chungsong-dong",
+      "name:ko": "중성동",
+      "name:ru": "Чунсондон",
+      "boundary": "administrative",
+      "way_area": "7.05749e-05",
+      "admin_level": "8",
+      "name:ko-Hani": "中城洞"
+    }
+  },
+  {
+    "osm_id": -13308598,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2636972,-356443,-192734",
+    "name": "Haebangsan-dong",
+    "local_name": "해방산동",
+    "name_en": "Haebangsan-dong",
+    "all_tags": {
+      "name": "해방산동",
+      "name:en": "Haebangsan-dong",
+      "name:ko": "해방산동",
+      "name:ru": "Хэбансандон",
+      "boundary": "administrative",
+      "way_area": "7.07659e-05",
+      "admin_level": "8",
+      "name:ko-Hani": "解放山洞"
+    }
+  },
+  {
+    "osm_id": -13308597,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2636972,-356443,-192734",
+    "name": "Tongsong-dong",
+    "local_name": "동성동",
+    "name_en": "Tongsong-dong",
+    "all_tags": {
+      "name": "동성동",
+      "name:en": "Tongsong-dong",
+      "name:ko": "동성동",
+      "name:ru": "Тонсондон",
+      "boundary": "administrative",
+      "way_area": "3.20391e-05",
+      "admin_level": "8",
+      "name:ko-Hani": "東城洞"
+    }
+  },
+  {
+    "osm_id": -13308596,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2636972,-356443,-192734",
+    "name": "Changgwang-dong",
+    "local_name": "창광동",
+    "name_en": "Changgwang-dong",
+    "all_tags": {
+      "name": "창광동",
+      "name:en": "Changgwang-dong",
+      "name:ko": "창광동",
+      "name:ru": "Чхангвандон",
+      "boundary": "administrative",
+      "way_area": "3.63961e-05",
+      "admin_level": "8",
+      "name:ko-Hani": "蒼光洞"
+    }
+  },
+  {
+    "osm_id": -13308595,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2636972,-356443,-192734",
+    "name": "Somun-dong",
+    "local_name": "서문동",
+    "name_en": "Somun-dong",
+    "all_tags": {
+      "name": "서문동",
+      "name:en": "Somun-dong",
+      "name:ko": "서문동",
+      "name:ru": "Сомундон",
+      "boundary": "administrative",
+      "way_area": "3.00227e-05",
+      "admin_level": "8",
+      "name:ko-Hani": "西門洞"
+    }
+  },
+  {
+    "osm_id": -13303948,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2636972,-356443,-192734",
+    "name": "Chongno-dong",
+    "local_name": "종로동",
+    "name_en": "Chongno-dong",
+    "all_tags": {
+      "name": "종로동",
+      "name:en": "Chongno-dong",
+      "name:ko": "종로동",
+      "name:ru": "Чоннодон",
+      "boundary": "administrative",
+      "way_area": "1.7894e-05",
+      "admin_level": "8",
+      "name:ko-Hani": "鐘路洞"
+    }
+  },
+  {
+    "osm_id": -13303947,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2636972,-356443,-192734",
+    "name": "Potongmun-dong",
+    "local_name": "보통문동",
+    "name_en": "Potongmun-dong",
+    "all_tags": {
+      "name": "보통문동",
+      "name:en": "Potongmun-dong",
+      "name:ko": "보통문동",
+      "name:ru": "Потхонмундон",
+      "boundary": "administrative",
+      "way_area": "6.0548e-05",
+      "admin_level": "8",
+      "name:ko-Hani": "普通門洞"
+    }
+  },
+  {
+    "osm_id": -13303946,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2636972,-356443,-192734",
+    "name": "Kyongru-dong",
+    "local_name": "경루동",
+    "name_en": "Kyongru-dong",
+    "all_tags": {
+      "name": "경루동",
+      "name:en": "Kyongru-dong",
+      "name:ko": "경루동",
+      "boundary": "administrative",
+      "way_area": "2.08884e-05",
+      "admin_level": "8",
+      "description": "2021년 9월 11일 최고인민회의 상임위원회 정령을 통해 보통강 강안 다락식 주택구의 행정구역을 \"경루동\"이라고 한다고 조선중앙통신, 노동신문 등이 밝힘.",
+      "name:ko-Hani": "琼楼洞",
+      "name:ko-Latn": "Kyŏngru-dong"
+    }
+  },
+  {
+    "osm_id": -13303945,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2636972,-356443,-192734",
+    "name": "Mansu-dong",
+    "local_name": "만수동",
+    "name_en": "Mansu-dong",
+    "all_tags": {
+      "name": "만수동",
+      "name:en": "Mansu-dong",
+      "name:ko": "만수동",
+      "name:ru": "Мансудон",
+      "boundary": "administrative",
+      "way_area": "5.61447e-05",
+      "admin_level": "8",
+      "name:ko-Hani": "萬壽洞"
+    }
+  },
+  {
+    "osm_id": -13303944,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2636972,-356443,-192734",
+    "name": "Taedongmun-dong",
+    "local_name": "대동문동",
+    "name_en": "Taedongmun-dong",
+    "all_tags": {
+      "name": "대동문동",
+      "name:en": "Taedongmun-dong",
+      "name:ko": "대동문동",
+      "name:ru": "Тэдонмундон",
+      "name:vi": "Phường Đại Đồng Môn",
+      "boundary": "administrative",
+      "way_area": "2.69123e-05",
+      "admin_level": "8",
+      "name:ko-Hani": "大同門洞"
+    }
+  },
+  {
+    "osm_id": -13299905,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2636972,-356443,-192734",
+    "name": "Kyongsang-dong",
+    "local_name": "경상동",
+    "name_en": "Kyongsang-dong",
+    "all_tags": {
+      "name": "경상동",
+      "place": "subdistrict",
+      "name:en": "Kyongsang-dong",
+      "name:ko": "경상동",
+      "name:ru": "Кёнсандон",
+      "boundary": "administrative",
+      "way_area": "0.000369112",
+      "admin_level": "8",
+      "name:ko-Hani": "慶上洞"
+    }
+  },
+  {
+    "osm_id": -13042607,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-8400379,-356386,-192734",
+    "name": "Raeil Workers' District",
+    "local_name": "래일로동자구",
+    "name_en": "Raeil Workers' District",
+    "all_tags": {
+      "name": "래일로동자구",
+      "name:en": "Raeil Workers' District",
+      "name:ko": "래일로동자구",
+      "boundary": "administrative",
+      "way_area": "0.0080294",
+      "admin_level": "8",
+      "alt_name:ko": "내일노동자구",
+      "name:ko-Hani": "來日勞動者區"
+    }
+  },
+  {
+    "osm_id": -6336483,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2637105,-356443,-192734",
+    "name": "Ponghwa-dong",
+    "local_name": "봉화동",
+    "name_en": "Ponghwa-dong",
+    "all_tags": {
+      "name": "봉화동",
+      "name:en": "Ponghwa-dong",
+      "name:ko": "봉화동",
+      "name:ru": "Понхвадон",
+      "name:zh": "烽火洞",
+      "boundary": "administrative",
+      "way_area": "0.000114903",
+      "admin_level": "8",
+      "name:ko-Hani": "烽火洞"
+    }
+  },
+  {
+    "osm_id": -6336482,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2637105,-356443,-192734",
+    "name": "Rakwon-dong",
+    "local_name": "락원동",
+    "name_en": "Rakwon-dong",
+    "all_tags": {
+      "name": "락원동",
+      "name:en": "Rakwon-dong",
+      "name:ko": "락원동",
+      "name:ru": "Наквондон",
+      "name:zh": "乐园洞",
+      "boundary": "administrative",
+      "way_area": "9.70853e-05",
+      "admin_level": "8",
+      "name:ko-Hani": "樂園洞"
+    }
+  },
+  {
+    "osm_id": -6334713,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2637105,-356443,-192734",
+    "name": "Ryugyong 1-dong",
+    "local_name": "류경1동",
+    "name_en": "Ryugyong 1-dong",
+    "all_tags": {
+      "name": "류경1동",
+      "name:en": "Ryugyong 1-dong",
+      "name:ko": "류경1동",
+      "name:ru": "Югён-Ильдон",
+      "name:zh": "柳京1洞",
+      "boundary": "administrative",
+      "way_area": "1.4413e-05",
+      "admin_level": "8",
+      "name:ko-Hani": "柳京1洞"
+    }
+  },
+  {
+    "osm_id": -6334711,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2637105,-356443,-192734",
+    "name": "Potonggang 1-dong",
+    "local_name": "보통강1동",
+    "name_en": "Potonggang 1-dong",
+    "all_tags": {
+      "name": "보통강1동",
+      "name:en": "Potonggang 1-dong",
+      "name:ko": "보통강1동",
+      "name:ru": "Потхонган-Ильдон",
+      "boundary": "administrative",
+      "way_area": "1.92562e-05",
+      "admin_level": "8",
+      "name:ko-Hani": "普通江1洞"
+    }
+  },
+  {
+    "osm_id": -6334710,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2637105,-356443,-192734",
+    "name": "Potonggang 2-dong",
+    "local_name": "보통강2동",
+    "name_en": "Potonggang 2-dong",
+    "all_tags": {
+      "name": "보통강2동",
+      "name:en": "Potonggang 2-dong",
+      "name:ko": "보통강2동",
+      "name:ru": "Потхонган-Идон",
+      "name:zh": "普通江2洞",
+      "boundary": "administrative",
+      "way_area": "2.97404e-05",
+      "admin_level": "8",
+      "name:ko-Hani": "普通江2洞"
+    }
+  },
+  {
+    "osm_id": -6334680,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2637105,-356443,-192734",
+    "name": "Taebo-dong",
+    "local_name": "대보동",
+    "name_en": "Taebo-dong",
+    "all_tags": {
+      "name": "대보동",
+      "name:en": "Taebo-dong",
+      "name:ko": "대보동",
+      "name:ru": "Тэбодон",
+      "boundary": "administrative",
+      "way_area": "9.04874e-06",
+      "admin_level": "8",
+      "name:ko-Hani": "大寶洞"
+    }
+  },
+  {
+    "osm_id": -6334679,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2637105,-356443,-192734",
+    "name": "Sokam-dong",
+    "local_name": "석암동",
+    "name_en": "Sokam-dong",
+    "all_tags": {
+      "name": "석암동",
+      "name:en": "Sokam-dong",
+      "name:ko": "석암동",
+      "name:ru": "Сокамдон",
+      "name:zh": "石岩洞",
+      "boundary": "administrative",
+      "way_area": "2.91985e-05",
+      "admin_level": "8",
+      "name:ko-Hani": "石岩洞"
+    }
+  },
+  {
+    "osm_id": -6334678,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2637105,-356443,-192734",
+    "name": "Sojang-dong",
+    "local_name": "서장동",
+    "name_en": "Sojang-dong",
+    "all_tags": {
+      "name": "서장동",
+      "name:en": "Sojang-dong",
+      "name:ko": "서장동",
+      "name:ru": "Соджандон",
+      "name:zh": "西将洞",
+      "boundary": "administrative",
+      "way_area": "8.53503e-05",
+      "admin_level": "8",
+      "name:ko-Hani": "西將洞"
+    }
+  },
+  {
+    "osm_id": -6334677,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2637105,-356443,-192734",
+    "name": "Sinwon-dong",
+    "local_name": "신원동",
+    "name_en": "Sinwon-dong",
+    "all_tags": {
+      "name": "신원동",
+      "name:en": "Sinwon-dong",
+      "name:ko": "신원동",
+      "name:ru": "Синвондон",
+      "name:zh": "新原洞",
+      "boundary": "administrative",
+      "way_area": "2.93858e-05",
+      "admin_level": "8",
+      "name:ko-Hani": "新原洞"
+    }
+  }
+]

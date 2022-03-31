@@ -1,0 +1,283 @@
+[
+  {
+    "osm_id": -11158759,
+    "boundary": "administrative",
+    "admin_level": 9,
+    "parents": "-11155460,-6525275,-3624100,-1520612",
+    "name": "Colonia San Luis",
+    "local_name": "Colonia San Luis",
+    "name_en": null,
+    "all_tags": {
+      "name": "Colonia San Luis",
+      "place": "suburb",
+      "boundary": "administrative",
+      "way_area": "1.34521e-05",
+      "admin_level": "9"
+    }
+  },
+  {
+    "osm_id": -11158754,
+    "boundary": "administrative",
+    "admin_level": 9,
+    "parents": "-11155460,-6525275,-3624100,-1520612",
+    "name": "Colonia Buenos Aires",
+    "local_name": "Colonia Buenos Aires",
+    "name_en": null,
+    "all_tags": {
+      "name": "Colonia Buenos Aires",
+      "place": "suburb",
+      "boundary": "administrative",
+      "way_area": "3.13366e-05",
+      "admin_level": "9"
+    }
+  },
+  {
+    "osm_id": -11158563,
+    "boundary": "administrative",
+    "admin_level": 9,
+    "parents": "-11155460,-6525275,-3624100,-1520612",
+    "name": "Colonia Guadalupe",
+    "local_name": "Colonia Guadalupe",
+    "name_en": null,
+    "all_tags": {
+      "name": "Colonia Guadalupe",
+      "place": "suburb",
+      "boundary": "administrative",
+      "way_area": "2.42479e-05",
+      "admin_level": "9"
+    }
+  },
+  {
+    "osm_id": -11158561,
+    "boundary": "administrative",
+    "admin_level": 9,
+    "parents": "-11155460,-6525275,-3624100,-1520612",
+    "name": "Colonia Montecristo",
+    "local_name": "Colonia Montecristo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Colonia Montecristo",
+      "place": "neighbourhood",
+      "boundary": "administrative",
+      "way_area": "8.9005e-06",
+      "admin_level": "9"
+    }
+  },
+  {
+    "osm_id": -11158560,
+    "boundary": "administrative",
+    "admin_level": 9,
+    "parents": "-11155460,-6525275,-3624100,-1520612",
+    "name": "Colonia La Esperanza",
+    "local_name": "Colonia La Esperanza",
+    "name_en": null,
+    "all_tags": {
+      "name": "Colonia La Esperanza",
+      "place": "neighbourhood",
+      "boundary": "administrative",
+      "way_area": "6.02646e-06",
+      "admin_level": "9"
+    }
+  },
+  {
+    "osm_id": -11155532,
+    "boundary": "administrative",
+    "admin_level": 9,
+    "parents": "-11155460,-6525275,-3624100,-1520612",
+    "name": "Barrio Pacheco",
+    "local_name": "Barrio Pacheco",
+    "name_en": null,
+    "all_tags": {
+      "name": "Barrio Pacheco",
+      "place": "neighbourhood",
+      "boundary": "administrative",
+      "way_area": "1.42764e-06",
+      "admin_level": "9"
+    }
+  },
+  {
+    "osm_id": -11155531,
+    "boundary": "administrative",
+    "admin_level": 9,
+    "parents": "-11155460,-6525275,-3624100,-1520612",
+    "name": "Barrio Las Flores",
+    "local_name": "Barrio Las Flores",
+    "name_en": null,
+    "all_tags": {
+      "name": "Barrio Las Flores",
+      "place": "suburb",
+      "boundary": "administrative",
+      "way_area": "9.5095e-06",
+      "admin_level": "9"
+    }
+  },
+  {
+    "osm_id": -11155508,
+    "boundary": "administrative",
+    "admin_level": 9,
+    "parents": "-11155460,-6525275,-3624100,-1520612",
+    "name": "Barrio Santa Cruz",
+    "local_name": "Barrio Santa Cruz",
+    "name_en": null,
+    "all_tags": {
+      "name": "Barrio Santa Cruz",
+      "place": "suburb",
+      "boundary": "administrative",
+      "way_area": "1.39939e-05",
+      "admin_level": "9"
+    }
+  },
+  {
+    "osm_id": -11155483,
+    "boundary": "administrative",
+    "admin_level": 9,
+    "parents": "-11155460,-6525275,-3624100,-1520612",
+    "name": "Barrio Nuevo",
+    "local_name": "Barrio Nuevo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Barrio Nuevo",
+      "place": "suburb",
+      "boundary": "administrative",
+      "way_area": "5.71332e-06",
+      "admin_level": "9"
+    }
+  },
+  {
+    "osm_id": -11155482,
+    "boundary": "administrative",
+    "admin_level": 9,
+    "parents": "-11155460,-6525275,-3624100,-1520612",
+    "name": "Barrio El Calvario",
+    "local_name": "Barrio El Calvario",
+    "name_en": null,
+    "all_tags": {
+      "name": "Barrio El Calvario",
+      "place": "suburb",
+      "boundary": "administrative",
+      "way_area": "1.41386e-05",
+      "admin_level": "9"
+    }
+  },
+  {
+    "osm_id": -11155475,
+    "boundary": "administrative",
+    "admin_level": 9,
+    "parents": "-11155460,-6525275,-3624100,-1520612",
+    "name": "Barrio San Pedro",
+    "local_name": "Barrio San Pedro",
+    "name_en": null,
+    "all_tags": {
+      "name": "Barrio San Pedro",
+      "place": "suburb",
+      "boundary": "administrative",
+      "way_area": "1.34692e-05",
+      "admin_level": "9"
+    }
+  },
+  {
+    "osm_id": -8008605,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-6462027,-3624436,-1520612",
+    "name": "Centro Histórico",
+    "local_name": "Centro Histórico",
+    "name_en": null,
+    "all_tags": {
+      "name": "Centro Histórico",
+      "boundary": "administrative",
+      "way_area": "0.000236041",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8008604,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-6462027,-3624436,-1520612",
+    "name": "Distrito Municipal 6",
+    "local_name": "Distrito Municipal 6",
+    "name_en": null,
+    "all_tags": {
+      "name": "Distrito Municipal 6",
+      "boundary": "administrative",
+      "way_area": "0.000261362",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8008600,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-6462027,-3624436,-1520612",
+    "name": "Distrito Municipal 5",
+    "local_name": "Distrito Municipal 5",
+    "name_en": null,
+    "all_tags": {
+      "name": "Distrito Municipal 5",
+      "boundary": "administrative",
+      "way_area": "0.00152303",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8008597,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-6462027,-3624436,-1520612",
+    "name": "Distrito Municipal 4",
+    "local_name": "Distrito Municipal 4",
+    "name_en": null,
+    "all_tags": {
+      "name": "Distrito Municipal 4",
+      "boundary": "administrative",
+      "way_area": "0.00105352",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8008563,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-6462027,-3624436,-1520612",
+    "name": "Distrito Municipal 3",
+    "local_name": "Distrito Municipal 3",
+    "name_en": null,
+    "all_tags": {
+      "name": "Distrito Municipal 3",
+      "boundary": "administrative",
+      "way_area": "0.00147523",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8008561,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-6462027,-3624436,-1520612",
+    "name": "Distrito Municipal 2",
+    "local_name": "Distrito Municipal 2",
+    "name_en": null,
+    "all_tags": {
+      "name": "Distrito Municipal 2",
+      "boundary": "administrative",
+      "way_area": "0.000936434",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8008521,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-6462027,-3624436,-1520612",
+    "name": "Distrito Municipal 1",
+    "local_name": "Distrito Municipal 1",
+    "name_en": null,
+    "all_tags": {
+      "name": "Distrito Municipal 1",
+      "boundary": "administrative",
+      "way_area": "0.000478698",
+      "admin_level": "8"
+    }
+  }
+]

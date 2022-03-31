@@ -1,0 +1,5143 @@
+[
+  {
+    "osm_id": -13710054,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-85827,-58974",
+    "name": "Cojușna",
+    "local_name": "Cojușna",
+    "name_en": "Cojușna",
+    "all_tags": {
+      "name": "Cojușna",
+      "place": "village",
+      "name:en": "Cojușna",
+      "name:ro": "Cojușna",
+      "name:ru": "Кожушна",
+      "boundary": "administrative",
+      "way_area": "0.000522379",
+      "wikidata": "Q2392547",
+      "wikipedia": "ro:Cojușna, Strășeni",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13710042,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-58991,-58974",
+    "name": "Feteasca",
+    "local_name": "Feteasca",
+    "name_en": null,
+    "all_tags": {
+      "name": "Feteasca",
+      "place": "village",
+      "name:ru": "Фетяска",
+      "boundary": "administrative",
+      "way_area": "2.28815e-05",
+      "wikidata": "Q4483336",
+      "wikipedia": "ro:Feteasca, Hîncești",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13710041,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-58991,-58974",
+    "name": "Coroliovca",
+    "local_name": "Coroliovca",
+    "name_en": null,
+    "all_tags": {
+      "name": "Coroliovca",
+      "place": "village",
+      "name:ru": "Королевка",
+      "boundary": "administrative",
+      "way_area": "1.86451e-05",
+      "wikidata": "Q4233925",
+      "wikipedia": "ro:Coroliovca, Hîncești",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13710040,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-58991,-58974",
+    "name": "Negrea",
+    "local_name": "Negrea",
+    "name_en": null,
+    "all_tags": {
+      "name": "Negrea",
+      "place": "village",
+      "name:ru": "Негря",
+      "boundary": "administrative",
+      "int_name": "Negrea",
+      "old_name": "Negrea",
+      "way_area": "0.00026042",
+      "wikidata": "Q1091723",
+      "wikipedia": "ro:Negrea, Hîncești",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13710039,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-58991,-58974",
+    "name": "Sofia",
+    "local_name": "Sofia",
+    "name_en": null,
+    "all_tags": {
+      "name": "Sofia",
+      "is_in": "Hîncești",
+      "place": "village",
+      "name:ru": "София",
+      "boundary": "administrative",
+      "way_area": "0.000168063",
+      "wikidata": "Q1985430",
+      "wikipedia": "ro:Sofia, Hîncești",
+      "admin_level": "8",
+      "is_in:country": "Moldova;MD"
+    }
+  },
+  {
+    "osm_id": -13710038,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-58991,-58974",
+    "name": "Bălceana",
+    "local_name": "Bălceana",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bălceana",
+      "is_in": "Hîncești",
+      "place": "village",
+      "name:ru": "Болчаны",
+      "boundary": "administrative",
+      "int_name": "Balceana",
+      "way_area": "0.000184798",
+      "wikidata": "Q1985883",
+      "wikipedia": "ro:Bălceana, Hîncești",
+      "admin_level": "8",
+      "is_in:country": "Moldova;MD"
+    }
+  },
+  {
+    "osm_id": -13014026,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1691800,-58974",
+    "name": "Milestii Mici",
+    "local_name": "Mileștii Mici",
+    "name_en": "Milestii Mici",
+    "all_tags": {
+      "name": "Mileștii Mici",
+      "place": "municipality",
+      "name:en": "Milestii Mici",
+      "boundary": "administrative",
+      "place:ro": "comună",
+      "way_area": "0.00257334",
+      "wikidata": "Q2167130",
+      "wikipedia": "ro:Mileștii Mici, Ialoveni",
+      "admin_level": "8",
+      "name:prefix": "Comuna",
+      "official_name": "Comuna Mileștii Mici"
+    }
+  },
+  {
+    "osm_id": -12496855,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-65343,-58974",
+    "name": "Coșcalia",
+    "local_name": "Coșcalia",
+    "name_en": null,
+    "all_tags": {
+      "name": "Coșcalia",
+      "boundary": "administrative",
+      "way_area": "0.0054542",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -12496854,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-65343,-58974",
+    "name": "Comuna Pervomaiscoe",
+    "local_name": "Comuna Pervomaiscoe",
+    "name_en": null,
+    "all_tags": {
+      "name": "Comuna Pervomaiscoe",
+      "boundary": "administrative",
+      "way_area": "0.00428771",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -12496853,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1692078,-58974",
+    "name": "Comuna Ochiul Roș",
+    "local_name": "Comuna Ochiul Roș",
+    "name_en": null,
+    "all_tags": {
+      "name": "Comuna Ochiul Roș",
+      "boundary": "administrative",
+      "way_area": "0.00199874",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -12496852,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1692078,-58974",
+    "name": "Comuna Geamăna",
+    "local_name": "Comuna Geamăna",
+    "name_en": null,
+    "all_tags": {
+      "name": "Comuna Geamăna",
+      "name:ru": "Коммуна Джамана",
+      "boundary": "administrative",
+      "way_area": "0.00585317",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -12496851,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1692078,-58974",
+    "name": "Comuna Chetrosu",
+    "local_name": "Comuna Chetrosu",
+    "name_en": null,
+    "all_tags": {
+      "name": "Comuna Chetrosu",
+      "boundary": "administrative",
+      "way_area": "0.00575946",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -12496850,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1692078,-58974",
+    "name": "Comuna Țînțăreni",
+    "local_name": "Comuna Țînțăreni",
+    "name_en": null,
+    "all_tags": {
+      "name": "Comuna Țînțăreni",
+      "boundary": "administrative",
+      "way_area": "0.00464061",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -12496849,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1692078,-58974",
+    "name": "Anenii Noi",
+    "local_name": "Anenii Noi",
+    "name_en": null,
+    "all_tags": {
+      "name": "Anenii Noi",
+      "name:ru": "Новые Анены",
+      "boundary": "administrative",
+      "way_area": "0.00612694",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -12496672,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1692078,-58974",
+    "name": "Gura Bîcului",
+    "local_name": "Gura Bîcului",
+    "name_en": null,
+    "all_tags": {
+      "name": "Gura Bîcului",
+      "boundary": "administrative",
+      "way_area": "0.0046043",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -12496671,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1692078,-58974",
+    "name": "Comuna Calfa",
+    "local_name": "Comuna Calfa",
+    "name_en": null,
+    "all_tags": {
+      "name": "Comuna Calfa",
+      "boundary": "administrative",
+      "way_area": "0.00254198",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -12496670,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1692078,-58974",
+    "name": "Roșcani",
+    "local_name": "Roșcani",
+    "name_en": null,
+    "all_tags": {
+      "name": "Roșcani",
+      "boundary": "administrative",
+      "way_area": "0.00193289",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -12496669,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1692078,-58974",
+    "name": "Bulboaca",
+    "local_name": "Bulboaca",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bulboaca",
+      "boundary": "administrative",
+      "way_area": "0.00359572",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -12496668,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1692078,-58974",
+    "name": "Comuna Ciobanovca",
+    "local_name": "Comuna Ciobanovca",
+    "name_en": null,
+    "all_tags": {
+      "name": "Comuna Ciobanovca",
+      "name:ru": "Коммуна Чобановка",
+      "boundary": "administrative",
+      "way_area": "0.00561426",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -12496667,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1692078,-58974",
+    "name": "Comuna Telița",
+    "local_name": "Comuna Telița",
+    "name_en": null,
+    "all_tags": {
+      "name": "Comuna Telița",
+      "boundary": "administrative",
+      "way_area": "0.00256353",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -12496666,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1692078,-58974",
+    "name": "Speia",
+    "local_name": "Speia",
+    "name_en": null,
+    "all_tags": {
+      "name": "Speia",
+      "boundary": "administrative",
+      "way_area": "0.00285391",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -12463612,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-65343,-58974",
+    "name": "Comuna Cîrnăţenii Noi",
+    "local_name": "Comuna Cîrnăţenii Noi",
+    "name_en": null,
+    "all_tags": {
+      "name": "Comuna Cîrnăţenii Noi",
+      "boundary": "administrative",
+      "way_area": "0.00388748",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -12463379,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-9581354,-65335,-58974",
+    "name": "Бендеры",
+    "local_name": "Бендеры",
+    "name_en": null,
+    "all_tags": {
+      "name": "Бендеры",
+      "name:md": "Бендер",
+      "name:ro": "Bender",
+      "name:ru": "Бендеры",
+      "name:uk": "Бендери",
+      "boundary": "administrative",
+      "way_area": "0.00217943",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -12463378,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-9581354,-65335,-58974",
+    "name": "Протягайловка",
+    "local_name": "Протягайловка",
+    "name_en": null,
+    "all_tags": {
+      "name": "Протягайловка",
+      "name:ro": "Proteagailovca",
+      "name:ru": "Протягайловка",
+      "name:uk": "Протягайлівка",
+      "boundary": "administrative",
+      "way_area": "0.00213429",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -12463200,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-65343,-58974",
+    "name": "Comuna Fîrlădeni",
+    "local_name": "Comuna Fîrlădeni",
+    "name_en": null,
+    "all_tags": {
+      "name": "Comuna Fîrlădeni",
+      "boundary": "administrative",
+      "way_area": "0.00614888",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -12462735,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-65343,-58974",
+    "name": "Comuna Tănătarii Noi",
+    "local_name": "Comuna Tănătarii Noi",
+    "name_en": null,
+    "all_tags": {
+      "name": "Comuna Tănătarii Noi",
+      "boundary": "administrative",
+      "way_area": "0.00149951",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -12462734,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-65343,-58974",
+    "name": "Tănătari",
+    "local_name": "Tănătari",
+    "name_en": null,
+    "all_tags": {
+      "name": "Tănătari",
+      "boundary": "administrative",
+      "way_area": "0.00446009",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -12462200,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-65343,-58974",
+    "name": "Sălcuţa",
+    "local_name": "Sălcuţa",
+    "name_en": null,
+    "all_tags": {
+      "name": "Sălcuţa",
+      "boundary": "administrative",
+      "way_area": "0.00902915",
+      "wikidata": "Q1982177",
+      "wikipedia": "ro:Sălcuța, Căușeni",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -12462199,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-65343,-58974",
+    "name": "Tocuz",
+    "local_name": "Tocuz",
+    "name_en": null,
+    "all_tags": {
+      "name": "Tocuz",
+      "boundary": "administrative",
+      "way_area": "0.00707636",
+      "wikidata": "Q1982140",
+      "wikipedia": "ro:Tocuz, Căușeni",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -12462198,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-65343,-58974",
+    "name": "Comuna Zaim",
+    "local_name": "Comuna Zaim",
+    "name_en": null,
+    "all_tags": {
+      "name": "Comuna Zaim",
+      "boundary": "administrative",
+      "way_area": "0.0079664",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -12462197,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-65343,-58974",
+    "name": "Opaci",
+    "local_name": "Opaci",
+    "name_en": null,
+    "all_tags": {
+      "name": "Opaci",
+      "boundary": "administrative",
+      "way_area": "0.00685291",
+      "wikidata": "Q2438023",
+      "wikipedia": "ro:Opaci, Căușeni",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -12459799,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-65343,-58974",
+    "name": "Căuşeni",
+    "local_name": "Căuşeni",
+    "name_en": null,
+    "all_tags": {
+      "name": "Căuşeni",
+      "place": "town",
+      "boundary": "administrative",
+      "way_area": "0.00976961",
+      "admin_level": "8",
+      "name:prefix": "Orașul"
+    }
+  },
+  {
+    "osm_id": -12459563,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-65343,-58974",
+    "name": "Plop-Ştiubei",
+    "local_name": "Plop-Ştiubei",
+    "name_en": null,
+    "all_tags": {
+      "name": "Plop-Ştiubei",
+      "boundary": "administrative",
+      "way_area": "0.00384966",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -12459562,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-65343,-58974",
+    "name": "Comuna Grădiniţa",
+    "local_name": "Comuna Grădiniţa",
+    "name_en": null,
+    "all_tags": {
+      "name": "Comuna Grădiniţa",
+      "boundary": "administrative",
+      "way_area": "0.00285739",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -12215667,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-944727,-65335,-58974",
+    "name": "Gîsca",
+    "local_name": "Gîsca",
+    "name_en": null,
+    "all_tags": {
+      "name": "Gîsca",
+      "name:ru": "Гиска",
+      "boundary": "administrative",
+      "way_area": "0.00366121",
+      "admin_level": "8",
+      "alt_name:ru": "Гыска"
+    }
+  },
+  {
+    "osm_id": -12209989,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-58985,-58974",
+    "name": "Florițoaia Veche",
+    "local_name": "Florițoaia Veche",
+    "name_en": null,
+    "all_tags": {
+      "name": "Florițoaia Veche",
+      "name:ru": "Флорицоая Веке",
+      "boundary": "administrative",
+      "way_area": "0.00348823",
+      "admin_level": "8",
+      "alt_name:ru": "Старая Флорицоая",
+      "postal_code": "MD-3626"
+    }
+  },
+  {
+    "osm_id": -12207955,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-58983,-58974",
+    "name": "Bălți",
+    "local_name": "Bălți",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bălți",
+      "name:ru": "Бэлць",
+      "name:uk": "Бєльці",
+      "boundary": "administrative",
+      "way_area": "0.00518881",
+      "admin_level": "8",
+      "alt_name:ru": "Бельцы",
+      "name:prefix": "Orașul"
+    }
+  },
+  {
+    "osm_id": -10629206,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-65343,-58974",
+    "name": "Săiți",
+    "local_name": "Săiți",
+    "name_en": null,
+    "all_tags": {
+      "name": "Săiți",
+      "boundary": "administrative",
+      "way_area": "0.00421712",
+      "wikidata": "Q2438089",
+      "wikipedia": "ro:Săiți, Căușeni",
+      "admin_level": "8",
+      "name:prefix": "Comuna"
+    }
+  },
+  {
+    "osm_id": -10629205,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-65343,-58974",
+    "name": "Ucrainca",
+    "local_name": "Ucrainca",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ucrainca",
+      "boundary": "administrative",
+      "way_area": "0.00765049",
+      "wikidata": "Q20858872",
+      "wikipedia": "ro:Comuna Ucrainca, Căușeni",
+      "admin_level": "8",
+      "name:prefix": "Comuna"
+    }
+  },
+  {
+    "osm_id": -10629204,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-65343,-58974",
+    "name": "Cîrnățeni",
+    "local_name": "Cîrnățeni",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cîrnățeni",
+      "boundary": "administrative",
+      "way_area": "0.00373638",
+      "admin_level": "8",
+      "name:prefix": "Comuna"
+    }
+  },
+  {
+    "osm_id": -10629203,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-65343,-58974",
+    "name": "Taraclia",
+    "local_name": "Taraclia",
+    "name_en": null,
+    "all_tags": {
+      "name": "Taraclia",
+      "boundary": "administrative",
+      "way_area": "0.00767348",
+      "wikidata": "Q1982525",
+      "wikipedia": "ro:Taraclia, Căușeni",
+      "admin_level": "8",
+      "name:prefix": "Comuna"
+    }
+  },
+  {
+    "osm_id": -10629202,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-65343,-58974",
+    "name": "Baimaclia",
+    "local_name": "Baimaclia",
+    "name_en": null,
+    "all_tags": {
+      "name": "Baimaclia",
+      "boundary": "administrative",
+      "way_area": "0.00436708",
+      "admin_level": "8",
+      "name:prefix": "Comuna"
+    }
+  },
+  {
+    "osm_id": -10629201,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-65343,-58974",
+    "name": "Ciuflești",
+    "local_name": "Ciuflești",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ciuflești",
+      "boundary": "administrative",
+      "way_area": "0.00275107",
+      "wikidata": "Q1982134",
+      "wikipedia": "ro:Ciuflești, Căușeni",
+      "admin_level": "8",
+      "name:prefix": "Comuna"
+    }
+  },
+  {
+    "osm_id": -10629200,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-65343,-58974",
+    "name": "Chircăieștii Noi",
+    "local_name": "Chircăieștii Noi",
+    "name_en": null,
+    "all_tags": {
+      "name": "Chircăieștii Noi",
+      "boundary": "administrative",
+      "way_area": "0.00336268",
+      "wikidata": "Q20858577",
+      "wikipedia": "ro:Comuna Chircăieștii Noi, Căușeni",
+      "admin_level": "8",
+      "name:prefix": "Comuna"
+    }
+  },
+  {
+    "osm_id": -10629199,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-65343,-58974",
+    "name": "Căinari",
+    "local_name": "Căinari",
+    "name_en": null,
+    "all_tags": {
+      "name": "Căinari",
+      "boundary": "administrative",
+      "way_area": "0.0050553",
+      "admin_level": "8",
+      "name:prefix": "Orașul"
+    }
+  },
+  {
+    "osm_id": -10629151,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1699033,-58974",
+    "name": "Corten",
+    "local_name": "Corten",
+    "name_en": null,
+    "all_tags": {
+      "name": "Corten",
+      "boundary": "administrative",
+      "way_area": "0.00659754",
+      "wikidata": "Q2452122",
+      "wikipedia": "ro:Corten, Taraclia",
+      "admin_level": "8",
+      "name:prefix": "Comuna"
+    }
+  },
+  {
+    "osm_id": -10629150,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1706979,-1699032,-58974",
+    "name": "Cazaclia",
+    "local_name": "Cazaclia",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cazaclia",
+      "boundary": "administrative",
+      "way_area": "0.0124895",
+      "admin_level": "8",
+      "name:prefix": "Comuna"
+    }
+  },
+  {
+    "osm_id": -10629149,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1699033,-58974",
+    "name": "Albota de Sus",
+    "local_name": "Albota de Sus",
+    "name_en": null,
+    "all_tags": {
+      "name": "Albota de Sus",
+      "boundary": "administrative",
+      "way_area": "0.00762557",
+      "admin_level": "8",
+      "name:prefix": "Comuna"
+    }
+  },
+  {
+    "osm_id": -10629148,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1699033,-58974",
+    "name": "Cealîc",
+    "local_name": "Cealîc",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cealîc",
+      "boundary": "administrative",
+      "way_area": "0.00153825",
+      "admin_level": "8",
+      "name:prefix": "Comuna"
+    }
+  },
+  {
+    "osm_id": -10629147,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1706979,-1699032,-58974",
+    "name": "Baurci",
+    "local_name": "Baurci",
+    "name_en": null,
+    "all_tags": {
+      "name": "Baurci",
+      "boundary": "administrative",
+      "way_area": "0.00890496",
+      "admin_level": "8",
+      "name:prefix": "Comuna"
+    }
+  },
+  {
+    "osm_id": -10629146,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1699033,-58974",
+    "name": "Valea Perjei",
+    "local_name": "Valea Perjei",
+    "name_en": null,
+    "all_tags": {
+      "name": "Valea Perjei",
+      "boundary": "administrative",
+      "way_area": "0.010037",
+      "wikidata": "Q2452085",
+      "wikipedia": "ro:Valea Perjei, Taraclia",
+      "admin_level": "8",
+      "name:prefix": "Comuna"
+    }
+  },
+  {
+    "osm_id": -10629145,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1699033,-58974",
+    "name": "Tvardița",
+    "local_name": "Tvardița",
+    "name_en": null,
+    "all_tags": {
+      "name": "Tvardița",
+      "boundary": "administrative",
+      "way_area": "0.0095028",
+      "wikidata": "Q2631126",
+      "wikipedia": "ro:Tvardița",
+      "admin_level": "8",
+      "name:prefix": "Orașul"
+    }
+  },
+  {
+    "osm_id": -10629109,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1706979,-1699032,-58974",
+    "name": "Copceac",
+    "local_name": "Copceac",
+    "name_en": null,
+    "all_tags": {
+      "name": "Copceac",
+      "boundary": "administrative",
+      "way_area": "0.0120603",
+      "wikidata": "Q2638544",
+      "wikipedia": "ro:Copceac, Găgăuzia",
+      "admin_level": "8",
+      "name:prefix": "Comuna"
+    }
+  },
+  {
+    "osm_id": -10629108,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-7103068,-1699032,-58974",
+    "name": "Carbalia",
+    "local_name": "Carbalia",
+    "name_en": null,
+    "all_tags": {
+      "name": "Carbalia",
+      "name:ru": "Карбалия",
+      "boundary": "administrative",
+      "way_area": "0.00281046",
+      "admin_level": "8",
+      "name:prefix": "Comuna"
+    }
+  },
+  {
+    "osm_id": -10629107,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1699033,-58974",
+    "name": "Budăi",
+    "local_name": "Budăi",
+    "name_en": null,
+    "all_tags": {
+      "name": "Budăi",
+      "name:ru": "Будей",
+      "boundary": "administrative",
+      "way_area": "0.0035712",
+      "admin_level": "8",
+      "name:prefix": "Comuna"
+    }
+  },
+  {
+    "osm_id": -10629054,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-7103068,-1699032,-58974",
+    "name": "Vulcănești",
+    "local_name": "Vulcănești",
+    "name_en": null,
+    "all_tags": {
+      "name": "Vulcănești",
+      "boundary": "administrative",
+      "way_area": "0.0175363",
+      "wikidata": "Q1012868",
+      "wikipedia": "ro:Vulcănești",
+      "admin_level": "8",
+      "name:prefix": "Orașul"
+    }
+  },
+  {
+    "osm_id": -10629053,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-7103068,-1699032,-58974",
+    "name": "Cișmichioi",
+    "local_name": "Cișmichioi",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cișmichioi",
+      "boundary": "administrative",
+      "way_area": "0.010901",
+      "wikidata": "Q2639050",
+      "wikipedia": "ro:Cișmichioi, Găgăuzia",
+      "admin_level": "8",
+      "name:prefix": "Comuna"
+    }
+  },
+  {
+    "osm_id": -10629052,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-7103068,-1699032,-58974",
+    "name": "Etulia",
+    "local_name": "Etulia",
+    "name_en": null,
+    "all_tags": {
+      "name": "Etulia",
+      "name:ru": "Етулия",
+      "boundary": "administrative",
+      "name:gag": "Tülüküü",
+      "way_area": "0.00718039",
+      "wikidata": "Q20858659",
+      "wikipedia": "ro:Comuna Etulia, Găgăuzia",
+      "admin_level": "8",
+      "name:prefix": "Comuna"
+    }
+  },
+  {
+    "osm_id": -10628914,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1699034,-58974",
+    "name": "Cîșlița-Prut",
+    "local_name": "Cîșlița-Prut",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cîșlița-Prut",
+      "boundary": "administrative",
+      "way_area": "0.00393348",
+      "admin_level": "8",
+      "name:prefix": "Comuna"
+    }
+  },
+  {
+    "osm_id": -10628913,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1699034,-58974",
+    "name": "Văleni",
+    "local_name": "Văleni",
+    "name_en": null,
+    "all_tags": {
+      "name": "Văleni",
+      "boundary": "administrative",
+      "way_area": "0.00584454",
+      "admin_level": "8",
+      "name:prefix": "Comuna"
+    }
+  },
+  {
+    "osm_id": -10628912,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1699034,-58974",
+    "name": "Slobozia Mare",
+    "local_name": "Slobozia Mare",
+    "name_en": null,
+    "all_tags": {
+      "name": "Slobozia Mare",
+      "boundary": "administrative",
+      "way_area": "0.0125881",
+      "admin_level": "8",
+      "name:prefix": "Comuna"
+    }
+  },
+  {
+    "osm_id": -10628911,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1699034,-58974",
+    "name": "Alexandru Ioan Cuza",
+    "local_name": "Alexandru Ioan Cuza",
+    "name_en": null,
+    "all_tags": {
+      "name": "Alexandru Ioan Cuza",
+      "boundary": "administrative",
+      "way_area": "0.00699132",
+      "wikidata": "Q2437637",
+      "wikipedia": "ro:Alexandru Ioan Cuza, Cahul",
+      "admin_level": "8",
+      "name:prefix": "Satul"
+    }
+  },
+  {
+    "osm_id": -10628910,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1699033,-58974",
+    "name": "Musaitu",
+    "local_name": "Musaitu",
+    "name_en": null,
+    "all_tags": {
+      "name": "Musaitu",
+      "boundary": "administrative",
+      "way_area": "0.00325748",
+      "admin_level": "8",
+      "name:prefix": "Comuna"
+    }
+  },
+  {
+    "osm_id": -10628909,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1699033,-58974",
+    "name": "Vinogradovca",
+    "local_name": "Vinogradovca",
+    "name_en": null,
+    "all_tags": {
+      "name": "Vinogradovca",
+      "boundary": "administrative",
+      "way_area": "0.00416604",
+      "wikidata": "Q20433233",
+      "wikipedia": "ro:Comuna Vinogradovca, Taraclia",
+      "admin_level": "8",
+      "name:prefix": "Comuna"
+    }
+  },
+  {
+    "osm_id": -10628843,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-58993,-58974",
+    "name": "Ratuș",
+    "local_name": "Ratuș",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ratuș",
+      "boundary": "administrative",
+      "way_area": "0.00252048",
+      "admin_level": "8",
+      "name:prefix": "Comuna"
+    }
+  },
+  {
+    "osm_id": -10628842,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-58993,-58974",
+    "name": "Sărătenii Vechi",
+    "local_name": "Sărătenii Vechi",
+    "name_en": null,
+    "all_tags": {
+      "name": "Sărătenii Vechi",
+      "boundary": "administrative",
+      "way_area": "0.00413883",
+      "admin_level": "8",
+      "name:prefix": "Comuna"
+    }
+  },
+  {
+    "osm_id": -10628841,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-58993,-58974",
+    "name": "Codrul Nou",
+    "local_name": "Codrul Nou",
+    "name_en": null,
+    "all_tags": {
+      "name": "Codrul Nou",
+      "boundary": "administrative",
+      "way_area": "0.000784239",
+      "admin_level": "8",
+      "name:prefix": "Comuna"
+    }
+  },
+  {
+    "osm_id": -10628840,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1693560,-58974",
+    "name": "Ștefănești",
+    "local_name": "Ștefănești",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ștefănești",
+      "boundary": "administrative",
+      "way_area": "0.00421913",
+      "admin_level": "8",
+      "name:prefix": "Comuna"
+    }
+  },
+  {
+    "osm_id": -10628824,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-58996,-58974",
+    "name": "Sîngerei",
+    "local_name": "Sîngerei",
+    "name_en": null,
+    "all_tags": {
+      "name": "Sîngerei",
+      "boundary": "administrative",
+      "way_area": "0.00991671",
+      "admin_level": "8",
+      "name:prefix": "Orașul"
+    }
+  },
+  {
+    "osm_id": -10628823,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-58996,-58974",
+    "name": "Drăgănești",
+    "local_name": "Drăgănești",
+    "name_en": null,
+    "all_tags": {
+      "name": "Drăgănești",
+      "boundary": "administrative",
+      "way_area": "0.00510224",
+      "admin_level": "8",
+      "name:prefix": "Comuna"
+    }
+  },
+  {
+    "osm_id": -10628820,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1693908,-58974",
+    "name": "Zăicani",
+    "local_name": "Zăicani",
+    "name_en": null,
+    "all_tags": {
+      "name": "Zăicani",
+      "boundary": "administrative",
+      "way_area": "0.00545001",
+      "admin_level": "8",
+      "name:prefix": "Comuna"
+    }
+  },
+  {
+    "osm_id": -10628819,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1693908,-58974",
+    "name": "Vasileuți",
+    "local_name": "Vasileuți",
+    "name_en": null,
+    "all_tags": {
+      "name": "Vasileuți",
+      "name:ru": "Василеуцы",
+      "boundary": "administrative",
+      "way_area": "0.00581879",
+      "admin_level": "8",
+      "name:prefix": "Comuna"
+    }
+  },
+  {
+    "osm_id": -10628818,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1693908,-58974",
+    "name": "Mihăileni",
+    "local_name": "Mihăileni",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mihăileni",
+      "boundary": "administrative",
+      "way_area": "0.00742681",
+      "admin_level": "8",
+      "name:prefix": "Comuna"
+    }
+  },
+  {
+    "osm_id": -10628808,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1693874,-58974",
+    "name": "Petrunea",
+    "local_name": "Petrunea",
+    "name_en": null,
+    "all_tags": {
+      "name": "Petrunea",
+      "boundary": "administrative",
+      "way_area": "0.00309672",
+      "admin_level": "8",
+      "name:prefix": "Comuna"
+    }
+  },
+  {
+    "osm_id": -10628807,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1693874,-58974",
+    "name": "Iabloana",
+    "local_name": "Iabloana",
+    "name_en": null,
+    "all_tags": {
+      "name": "Iabloana",
+      "boundary": "administrative",
+      "way_area": "0.00698789",
+      "admin_level": "8",
+      "name:prefix": "Comuna"
+    }
+  },
+  {
+    "osm_id": -10628806,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1693874,-58974",
+    "name": "Danu",
+    "local_name": "Danu",
+    "name_en": null,
+    "all_tags": {
+      "name": "Danu",
+      "boundary": "administrative",
+      "way_area": "0.00591487",
+      "admin_level": "8",
+      "name:prefix": "Comuna"
+    }
+  },
+  {
+    "osm_id": -10628805,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1693874,-58974",
+    "name": "Hîjdieni",
+    "local_name": "Hîjdieni",
+    "name_en": null,
+    "all_tags": {
+      "name": "Hîjdieni",
+      "boundary": "administrative",
+      "way_area": "0.00506458",
+      "admin_level": "8",
+      "name:prefix": "Comuna"
+    }
+  },
+  {
+    "osm_id": -10628804,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1693874,-58974",
+    "name": "Camenca",
+    "local_name": "Camenca",
+    "name_en": null,
+    "all_tags": {
+      "name": "Camenca",
+      "boundary": "administrative",
+      "way_area": "0.00442217",
+      "admin_level": "8",
+      "name:prefix": "Comuna"
+    }
+  },
+  {
+    "osm_id": -10628803,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1693874,-58974",
+    "name": "Cajba",
+    "local_name": "Cajba",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cajba",
+      "boundary": "administrative",
+      "way_area": "0.00315212",
+      "admin_level": "8",
+      "name:prefix": "Comuna"
+    }
+  },
+  {
+    "osm_id": -10628802,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1693874,-58974",
+    "name": "Balatina",
+    "local_name": "Balatina",
+    "name_en": null,
+    "all_tags": {
+      "name": "Balatina",
+      "boundary": "administrative",
+      "way_area": "0.00939276",
+      "admin_level": "8",
+      "name:prefix": "Comuna"
+    }
+  },
+  {
+    "osm_id": -10628801,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1693874,-58974",
+    "name": "Cobani",
+    "local_name": "Cobani",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cobani",
+      "boundary": "administrative",
+      "way_area": "0.00435521",
+      "admin_level": "8",
+      "name:prefix": "Comuna"
+    }
+  },
+  {
+    "osm_id": -10628695,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1693874,-58974",
+    "name": "Sturzovca",
+    "local_name": "Sturzovca",
+    "name_en": null,
+    "all_tags": {
+      "name": "Sturzovca",
+      "boundary": "administrative",
+      "way_area": "0.00852593",
+      "admin_level": "8",
+      "name:prefix": "Comuna"
+    }
+  },
+  {
+    "osm_id": -10628694,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1693874,-58974",
+    "name": "Fundurii Vechi",
+    "local_name": "Fundurii Vechi",
+    "name_en": null,
+    "all_tags": {
+      "name": "Fundurii Vechi",
+      "boundary": "administrative",
+      "way_area": "0.0042307",
+      "admin_level": "8",
+      "name:prefix": "Comuna"
+    }
+  },
+  {
+    "osm_id": -10628693,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1693874,-58974",
+    "name": "Fundurii Noi",
+    "local_name": "Fundurii Noi",
+    "name_en": null,
+    "all_tags": {
+      "name": "Fundurii Noi",
+      "boundary": "administrative",
+      "way_area": "0.00224946",
+      "admin_level": "8",
+      "name:prefix": "Comuna"
+    }
+  },
+  {
+    "osm_id": -10628692,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1693874,-58974",
+    "name": "Limbenii Noi",
+    "local_name": "Limbenii Noi",
+    "name_en": null,
+    "all_tags": {
+      "name": "Limbenii Noi",
+      "boundary": "administrative",
+      "way_area": "0.00254847",
+      "admin_level": "8",
+      "name:prefix": "Comuna"
+    }
+  },
+  {
+    "osm_id": -10628691,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1693874,-58974",
+    "name": "Limbenii Vechi",
+    "local_name": "Limbenii Vechi",
+    "name_en": null,
+    "all_tags": {
+      "name": "Limbenii Vechi",
+      "boundary": "administrative",
+      "way_area": "0.00295689",
+      "admin_level": "8",
+      "name:prefix": "Comuna"
+    }
+  },
+  {
+    "osm_id": -10628690,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1693874,-58974",
+    "name": "Ustia",
+    "local_name": "Ustia",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ustia",
+      "boundary": "administrative",
+      "way_area": "0.00362371",
+      "admin_level": "8",
+      "name:prefix": "Comuna"
+    }
+  },
+  {
+    "osm_id": -10628689,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1693874,-58974",
+    "name": "Ciuciulea",
+    "local_name": "Ciuciulea",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ciuciulea",
+      "boundary": "administrative",
+      "way_area": "0.00605354",
+      "admin_level": "8",
+      "name:prefix": "Comuna"
+    }
+  },
+  {
+    "osm_id": -10628688,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1693874,-58974",
+    "name": "Dușmani",
+    "local_name": "Dușmani",
+    "name_en": null,
+    "all_tags": {
+      "name": "Dușmani",
+      "boundary": "administrative",
+      "way_area": "0.00348605",
+      "admin_level": "8",
+      "name:prefix": "Comuna"
+    }
+  },
+  {
+    "osm_id": -10628687,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1693874,-58974",
+    "name": "Viișoara",
+    "local_name": "Viișoara",
+    "name_en": null,
+    "all_tags": {
+      "name": "Viișoara",
+      "boundary": "administrative",
+      "way_area": "0.00454247",
+      "admin_level": "8",
+      "name:prefix": "Comuna"
+    }
+  },
+  {
+    "osm_id": -10628686,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1693874,-58974",
+    "name": "Cuhnești",
+    "local_name": "Cuhnești",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cuhnești",
+      "boundary": "administrative",
+      "way_area": "0.00629677",
+      "admin_level": "8",
+      "name:prefix": "Comuna"
+    }
+  },
+  {
+    "osm_id": -10628645,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-58983,-58974",
+    "name": "Sadovoe",
+    "local_name": "Sadovoe",
+    "name_en": null,
+    "all_tags": {
+      "name": "Sadovoe",
+      "name:ru": "Садовое",
+      "boundary": "administrative",
+      "way_area": "0.0011697",
+      "admin_level": "8",
+      "name:prefix": "Comuna"
+    }
+  },
+  {
+    "osm_id": -10628644,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-58983,-58974",
+    "name": "Elizaveta",
+    "local_name": "Elizaveta",
+    "name_en": null,
+    "all_tags": {
+      "name": "Elizaveta",
+      "boundary": "administrative",
+      "way_area": "0.00318483",
+      "admin_level": "8",
+      "name:prefix": "Comuna"
+    }
+  },
+  {
+    "osm_id": -10628637,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-58984,-58974",
+    "name": "Răuțel",
+    "local_name": "Răuțel",
+    "name_en": null,
+    "all_tags": {
+      "name": "Răuțel",
+      "boundary": "administrative",
+      "way_area": "0.00224023",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -10628636,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-58984,-58974",
+    "name": "Pîrlița",
+    "local_name": "Pîrlița",
+    "name_en": null,
+    "all_tags": {
+      "name": "Pîrlița",
+      "name:ru": "Пырлица",
+      "boundary": "administrative",
+      "way_area": "0.00383049",
+      "admin_level": "8",
+      "name:prefix": "Comuna"
+    }
+  },
+  {
+    "osm_id": -10628626,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-58984,-58974",
+    "name": "Pompa",
+    "local_name": "Pompa",
+    "name_en": null,
+    "all_tags": {
+      "name": "Pompa",
+      "name:ru": "Помпа",
+      "boundary": "administrative",
+      "way_area": "0.00340078",
+      "admin_level": "8",
+      "name:prefix": "Comuna"
+    }
+  },
+  {
+    "osm_id": -10628625,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-58984,-58974",
+    "name": "Natalievca",
+    "local_name": "Natalievca",
+    "name_en": null,
+    "all_tags": {
+      "name": "Natalievca",
+      "name:ru": "Натальевка",
+      "boundary": "administrative",
+      "way_area": "0.00600506",
+      "admin_level": "8",
+      "name:prefix": "Comuna"
+    }
+  },
+  {
+    "osm_id": -10628620,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-58984,-58974",
+    "name": "Călugăr",
+    "local_name": "Călugăr",
+    "name_en": null,
+    "all_tags": {
+      "name": "Călugăr",
+      "name:ru": "Калугэр",
+      "boundary": "administrative",
+      "way_area": "0.00374728",
+      "admin_level": "8",
+      "name:prefix": "Comuna"
+    }
+  },
+  {
+    "osm_id": -10628619,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-58984,-58974",
+    "name": "Făleștii Noi",
+    "local_name": "Făleștii Noi",
+    "name_en": null,
+    "all_tags": {
+      "name": "Făleștii Noi",
+      "name:ro": "Făleștii Noi",
+      "boundary": "administrative",
+      "way_area": "0.0026435",
+      "admin_level": "8",
+      "name:prefix": "Comuna"
+    }
+  },
+  {
+    "osm_id": -10628618,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-58984,-58974",
+    "name": "Catranîc",
+    "local_name": "Catranîc",
+    "name_en": null,
+    "all_tags": {
+      "name": "Catranîc",
+      "boundary": "administrative",
+      "way_area": "0.00234986",
+      "admin_level": "8",
+      "name:prefix": "Comuna"
+    }
+  },
+  {
+    "osm_id": -10628617,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-58984,-58974",
+    "name": "Egorovca",
+    "local_name": "Egorovca",
+    "name_en": null,
+    "all_tags": {
+      "name": "Egorovca",
+      "boundary": "administrative",
+      "way_area": "0.00306875",
+      "admin_level": "8",
+      "name:prefix": "Comuna"
+    }
+  },
+  {
+    "osm_id": -10628616,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-58984,-58974",
+    "name": "Mărăndeni",
+    "local_name": "Mărăndeni",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mărăndeni",
+      "name:ru": "Марандены",
+      "boundary": "administrative",
+      "way_area": "0.00518075",
+      "admin_level": "8",
+      "name:prefix": "Comuna"
+    }
+  },
+  {
+    "osm_id": -10628594,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-58984,-58974",
+    "name": "Fălești",
+    "local_name": "Fălești",
+    "name_en": null,
+    "all_tags": {
+      "name": "Fălești",
+      "name:ro": "Fălești",
+      "boundary": "administrative",
+      "way_area": "0.00245096",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -10628520,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-58984,-58974",
+    "name": "Albinețul Vechi Commune",
+    "local_name": "Comuna Albinețul Vechi",
+    "name_en": "Albinețul Vechi Commune",
+    "all_tags": {
+      "name": "Comuna Albinețul Vechi",
+      "name:en": "Albinețul Vechi Commune",
+      "name:mo": "Comuna Albinețul Vechi",
+      "name:ru": "Коммуна Албинецул Веки",
+      "boundary": "administrative",
+      "way_area": "0.00409714",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -10628519,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-58984,-58974",
+    "name": "Musteața",
+    "local_name": "Musteața",
+    "name_en": null,
+    "all_tags": {
+      "name": "Musteața",
+      "boundary": "administrative",
+      "way_area": "0.00236483",
+      "admin_level": "8",
+      "name:prefix": "Comuna"
+    }
+  },
+  {
+    "osm_id": -10624608,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-58985,-58974",
+    "name": "Cornești",
+    "local_name": "Cornești",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cornești",
+      "boundary": "administrative",
+      "way_area": "0.000468988",
+      "admin_level": "8",
+      "name:prefix": "Comuna"
+    }
+  },
+  {
+    "osm_id": -10624607,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-58985,-58974",
+    "name": "Cornești",
+    "local_name": "Cornești",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cornești",
+      "place": "town",
+      "boundary": "administrative",
+      "way_area": "0.00534626",
+      "admin_level": "8",
+      "name:prefix": "Orașul"
+    }
+  },
+  {
+    "osm_id": -10624606,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-58985,-58974",
+    "name": "Boghenii Noi",
+    "local_name": "Boghenii Noi",
+    "name_en": null,
+    "all_tags": {
+      "name": "Boghenii Noi",
+      "boundary": "administrative",
+      "way_area": "0.00399321",
+      "admin_level": "8",
+      "name:prefix": "Comuna"
+    }
+  },
+  {
+    "osm_id": -10624605,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-58985,-58974",
+    "name": "Teșcureni",
+    "local_name": "Teșcureni",
+    "name_en": null,
+    "all_tags": {
+      "name": "Teșcureni",
+      "boundary": "administrative",
+      "way_area": "0.00269672",
+      "admin_level": "8",
+      "name:prefix": "Comuna"
+    }
+  },
+  {
+    "osm_id": -10624604,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-58985,-58974",
+    "name": "Măgurele",
+    "local_name": "Măgurele",
+    "name_en": null,
+    "all_tags": {
+      "name": "Măgurele",
+      "boundary": "administrative",
+      "way_area": "0.00245028",
+      "admin_level": "8",
+      "name:prefix": "Comuna"
+    }
+  },
+  {
+    "osm_id": -10624569,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-58985,-58974",
+    "name": "Valea Mare",
+    "local_name": "Valea Mare",
+    "name_en": null,
+    "all_tags": {
+      "name": "Valea Mare",
+      "boundary": "administrative",
+      "way_area": "0.00596511",
+      "admin_level": "8",
+      "name:prefix": "Comuna"
+    }
+  },
+  {
+    "osm_id": -10624568,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-58985,-58974",
+    "name": "Morenii Noi",
+    "local_name": "Morenii Noi",
+    "name_en": null,
+    "all_tags": {
+      "name": "Morenii Noi",
+      "boundary": "administrative",
+      "way_area": "0.00151995",
+      "admin_level": "8",
+      "name:prefix": "Comuna"
+    }
+  },
+  {
+    "osm_id": -10624567,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-58985,-58974",
+    "name": "Mănoilești",
+    "local_name": "Mănoilești",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mănoilești",
+      "boundary": "administrative",
+      "way_area": "0.0093012",
+      "admin_level": "8",
+      "name:prefix": "Comuna"
+    }
+  },
+  {
+    "osm_id": -9679382,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1702218,-65335,-58974",
+    "name": "Краснянский посёлковый совет",
+    "local_name": "Краснянский посёлковый совет",
+    "name_en": null,
+    "all_tags": {
+      "name": "Краснянский посёлковый совет",
+      "name:ru": "Краснянский посёлковый совет",
+      "name:uk": "Краснянська селищна рада",
+      "boundary": "administrative",
+      "way_area": "0.000246001",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -9660049,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1702217,-2607033,-65335,-58974",
+    "name": "Выхватинецкий сельский совет",
+    "local_name": "Выхватинецкий сельский совет",
+    "name_en": null,
+    "all_tags": {
+      "name": "Выхватинецкий сельский совет",
+      "name:md": "Советул сэтеск Офатинць",
+      "name:ro": "Sovetul sătesc Ofatinți",
+      "name:ru": "Выхватинецкий сельский совет",
+      "name:uk": "Вихватинська сільська рада",
+      "boundary": "administrative",
+      "way_area": "0.00697359",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -9659979,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1702217,-2607033,-65335,-58974",
+    "name": "Рыбницкий городской совет",
+    "local_name": "Рыбницкий городской совет",
+    "name_en": null,
+    "all_tags": {
+      "name": "Рыбницкий городской совет",
+      "name:md": "Советул орэшенеск Рыбница",
+      "name:ro": "Sovetul orășenesc Rîbnița",
+      "name:ru": "Рыбницкий городской совет",
+      "name:uk": "Рибницька міська рада",
+      "boundary": "administrative",
+      "way_area": "0.00258274",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -9659794,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1702217,-2607033,-65335,-58974",
+    "name": "Ержовский сельский совет",
+    "local_name": "Ержовский сельский совет",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ержовский сельский совет",
+      "name:md": "Советул сэтеск Хыржэу",
+      "name:ro": "Sovetul sătesc Hîrjău",
+      "name:ru": "Ержовский сельский совет",
+      "name:uk": "Єржовська сільська рада",
+      "boundary": "administrative",
+      "way_area": "0.00648363",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -9659709,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1702217,-2607033,-65335,-58974",
+    "name": "Колбаснянский сельский совет",
+    "local_name": "Колбаснянский сельский совет",
+    "name_en": null,
+    "all_tags": {
+      "name": "Колбаснянский сельский совет",
+      "name:md": "Советул сэтеск Кобасна",
+      "name:ro": "Sovetul sătesc Cobasna",
+      "name:ru": "Колбаснянский сельский совет",
+      "name:uk": "Колбаснянська сільська рада",
+      "boundary": "administrative",
+      "way_area": "0.00625016",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -9656413,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1702217,-2607033,-65335,-58974",
+    "name": "Больше-Молокишский сельский совет",
+    "local_name": "Больше-Молокишский сельский совет",
+    "name_en": null,
+    "all_tags": {
+      "name": "Больше-Молокишский сельский совет",
+      "name:md": "Советул сэтеск Молокишул Маре",
+      "name:ro": "Sovetul sătesc Molochișul Mare",
+      "name:ru": "Больше-Молокишский сельский совет",
+      "boundary": "administrative",
+      "way_area": "0.00544573",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -9656364,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1702217,-2607033,-65335,-58974",
+    "name": "Красненьский сельский совет",
+    "local_name": "Красненьский сельский совет",
+    "name_en": null,
+    "all_tags": {
+      "name": "Красненьский сельский совет",
+      "name:md": "Советул сэтеск Красненкое",
+      "name:ro": "Sovetul sătesc Crasnencoe",
+      "name:ru": "Красненьский сельский совет",
+      "name:uk": "Красненська сільська рада",
+      "boundary": "administrative",
+      "way_area": "0.00600306",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -9656324,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1702217,-2607033,-65335,-58974",
+    "name": "Гарабский сельский совет",
+    "local_name": "Гарабский сельский совет",
+    "name_en": null,
+    "all_tags": {
+      "name": "Гарабский сельский совет",
+      "name:md": "Советул сэтеск Хараба",
+      "name:ro": "Sovetul sătesc",
+      "name:ru": "Гарабский сельский совет",
+      "name:uk": "Гарабська сільська рада",
+      "boundary": "administrative",
+      "way_area": "0.00413886",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -9622330,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-58984,-58974",
+    "name": "Taxobeni Commune",
+    "local_name": "Comuna Taxobeni",
+    "name_en": "Taxobeni Commune",
+    "all_tags": {
+      "name": "Comuna Taxobeni",
+      "name:en": "Taxobeni Commune",
+      "name:ru": "Коммуна Таксобень",
+      "boundary": "administrative",
+      "way_area": "0.00272498",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -9365681,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1699034,-58974",
+    "name": "Comuna Burlăceni",
+    "local_name": "Comuna Burlăceni",
+    "name_en": null,
+    "all_tags": {
+      "name": "Comuna Burlăceni",
+      "name:ru": "Коммуна Бурлачены",
+      "boundary": "administrative",
+      "way_area": "0.00398429",
+      "wikidata": "Q19704157",
+      "wikipedia": "ro:Comuna Burlăceni, Cahul",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -9365680,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1699034,-58974",
+    "name": "Comuna Iujnoe",
+    "local_name": "Comuna Iujnoe",
+    "name_en": null,
+    "all_tags": {
+      "name": "Comuna Iujnoe",
+      "name:ru": "Коммуна Южное",
+      "boundary": "administrative",
+      "way_area": "0.0020025",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -9365671,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1699034,-58974",
+    "name": "Comuna Alexanderfeld",
+    "local_name": "Comuna Alexanderfeld",
+    "name_en": null,
+    "all_tags": {
+      "name": "Comuna Alexanderfeld",
+      "name:ru": "Коммуна Александерфелд",
+      "boundary": "administrative",
+      "way_area": "0.0072008",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -9365644,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1699034,-58974",
+    "name": "Comuna Colibași",
+    "local_name": "Comuna Colibași",
+    "name_en": null,
+    "all_tags": {
+      "name": "Comuna Colibași",
+      "name:ru": "Коммуна Колибашь",
+      "boundary": "administrative",
+      "way_area": "0.00797022",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -9365629,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1699034,-58974",
+    "name": "Comuna Brînza",
+    "local_name": "Comuna Brînza",
+    "name_en": null,
+    "all_tags": {
+      "name": "Comuna Brînza",
+      "name:ru": "Коммуна Брынза",
+      "boundary": "administrative",
+      "way_area": "0.00336077",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -9357284,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-58984,-58974",
+    "name": "Glinjeni",
+    "local_name": "Glinjeni",
+    "name_en": null,
+    "all_tags": {
+      "name": "Glinjeni",
+      "name:ru": "Глинжены",
+      "boundary": "administrative",
+      "way_area": "0.00747496",
+      "population": "3210",
+      "admin_level": "8",
+      "is_in:country": "Moldova"
+    }
+  },
+  {
+    "osm_id": -9301464,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1702214,-2607033,-65335,-58974",
+    "name": "Григориопольский городской совет",
+    "local_name": "Григориопольский городской совет",
+    "name_en": null,
+    "all_tags": {
+      "name": "Григориопольский городской совет",
+      "name:md": "Советул орэшенеск Григориопол",
+      "name:ro": "Sovetul orășenesc Grigoriopol",
+      "name:ru": "Григориопольский городской совет",
+      "name:uk": "Григоріопольська міська рада",
+      "boundary": "administrative",
+      "way_area": "0.0147151",
+      "short_name": "Григориополь",
+      "admin_level": "8",
+      "short_name:md": "Григориопол",
+      "short_name:ro": "Grigoriopol",
+      "short_name:ru": "Григориополь",
+      "short_name:uk": "Григоріополь"
+    }
+  },
+  {
+    "osm_id": -9301463,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1702214,-2607033,-65335,-58974",
+    "name": "Глинойский поселковый совет",
+    "local_name": "Глинойский поселковый совет",
+    "name_en": null,
+    "all_tags": {
+      "name": "Глинойский поселковый совет",
+      "name:ru": "Глинойский поселковый совет",
+      "name:uk": "Глиннівська селищна рада",
+      "boundary": "administrative",
+      "way_area": "0.00695212",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -9300562,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-58984,-58974",
+    "name": "Scumpia Commune",
+    "local_name": "Comuna Scumpia",
+    "name_en": "Scumpia Commune",
+    "all_tags": {
+      "name": "Comuna Scumpia",
+      "name:en": "Scumpia Commune",
+      "name:ru": "Коммуна Скумпия",
+      "boundary": "administrative",
+      "way_area": "0.00504396",
+      "population": "3243",
+      "admin_level": "8",
+      "is_in:country": "Moldova",
+      "population:date": "2014"
+    }
+  },
+  {
+    "osm_id": -9294122,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1702217,-2607033,-65335,-58974",
+    "name": "Гидиримский сельский совет",
+    "local_name": "Гидиримский сельский совет",
+    "name_en": null,
+    "all_tags": {
+      "name": "Гидиримский сельский совет",
+      "name:md": "Советул сэтеск Гидирим",
+      "name:ro": "Sovetul sătesc Ghidirim",
+      "name:ru": "Гидиримский сельский совет",
+      "name:uk": "Гідірімська сільська рада",
+      "boundary": "administrative",
+      "way_area": "0.00387445",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -9289143,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-58984,-58974",
+    "name": "Sărata Veche Commune",
+    "local_name": "Comuna Sărata Veche",
+    "name_en": "Sărata Veche Commune",
+    "all_tags": {
+      "name": "Comuna Sărata Veche",
+      "name:en": "Sărata Veche Commune",
+      "name:ru": "Коммуна Сэрата Веке",
+      "boundary": "administrative",
+      "way_area": "0.00615856",
+      "population": "4329",
+      "admin_level": "8",
+      "is_in:country": "MD"
+    }
+  },
+  {
+    "osm_id": -9288756,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1702215,-65335,-58974",
+    "name": "Красновиноградарский сельский совет",
+    "local_name": "Красновиноградарский сельский совет",
+    "name_en": null,
+    "all_tags": {
+      "name": "Красновиноградарский сельский совет",
+      "name:md": "Советул сэтеск Красный Виноградарь",
+      "name:ro": "Sovetul sătesc Crasnîi Vinogradari",
+      "name:ru": "Красновиноградарский сельский совет",
+      "name:uk": "Красновиноградарська сільська рада",
+      "boundary": "administrative",
+      "way_area": "0.00546859",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -9288722,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1702215,-65335,-58974",
+    "name": "Новокомиссаровский сельский совет",
+    "local_name": "Новокомиссаровский сельский совет",
+    "name_en": null,
+    "all_tags": {
+      "name": "Новокомиссаровский сельский совет",
+      "name:md": "Советул сэтеск Комисаровка Ноуэ",
+      "name:ro": "Sovetul sătesc Comisarovca Nouă",
+      "name:ru": "Новокомиссаровский сельский совет",
+      "name:uk": "Новокомісарівська сільська рада",
+      "boundary": "administrative",
+      "way_area": "0.0068594",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -9288287,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1702215,-65335,-58974",
+    "name": "Dubăsari town council",
+    "local_name": "Дубоссарский городской совет",
+    "name_en": "Dubăsari town council",
+    "all_tags": {
+      "name": "Дубоссарский городской совет",
+      "name:en": "Dubăsari town council",
+      "name:md": "Советул орэшенеск Дубэсарь",
+      "name:ro": "Sovetul orășenesc Dubăsari",
+      "name:ru": "Дубоссарский городской совет",
+      "name:uk": "Дубосарська міська рада",
+      "boundary": "administrative",
+      "way_area": "0.0101537",
+      "short_name": "Дубоссары",
+      "admin_level": "8",
+      "short_name:de": "Dubossary",
+      "short_name:en": "Dubăsari",
+      "short_name:md": "Дубэсарь",
+      "short_name:ro": "Dubăsari",
+      "short_name:ru": "Дубоссары",
+      "short_name:uk": "Дубосари"
+    }
+  },
+  {
+    "osm_id": -9288158,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1702215,-65335,-58974",
+    "name": "Дзержинский сельский совет",
+    "local_name": "Дзержинский сельский совет",
+    "name_en": null,
+    "all_tags": {
+      "name": "Дзержинский сельский совет",
+      "name:md": "Советул сэтеск Дзержинское",
+      "name:ro": "Sovetul sătesc Dzerjinscoe",
+      "name:ru": "Дзержинский сельский совет",
+      "name:uk": "Дзержинська сільська рада",
+      "boundary": "administrative",
+      "way_area": "0.000730779",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -9288110,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1702214,-2607033,-65335,-58974",
+    "name": "Гыртопский сельский совет",
+    "local_name": "Гыртопский сельский совет",
+    "name_en": null,
+    "all_tags": {
+      "name": "Гыртопский сельский совет",
+      "name:md": "Советул сэтеск Хыртоп",
+      "name:ro": "Sovetul sătesc Hîrtop",
+      "name:ru": "Гыртопский сельский совет",
+      "name:uk": "Гиртопська сільська рада",
+      "boundary": "administrative",
+      "way_area": "0.00576597",
+      "wikidata": "Q20858699",
+      "wikipedia": "ro:Comuna Hîrtop, Stînga Nistrului",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -9288026,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1702214,-2607033,-65335,-58974",
+    "name": "Кармановский поселковый совет",
+    "local_name": "Кармановский поселковый совет",
+    "name_en": null,
+    "all_tags": {
+      "name": "Кармановский поселковый совет",
+      "name:md": "Советул сэтеск Карманова",
+      "name:ro": "Sovetul sătesc Carmanova",
+      "name:ru": "Кармановский поселковый совет",
+      "name:uk": "Карманівська селищна рада",
+      "boundary": "administrative",
+      "way_area": "0.00916255",
+      "wikidata": "Q20858568",
+      "wikipedia": "ro:Comuna Carmanova, Stînga Nistrului",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -9286287,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-58984,-58974",
+    "name": "Ișcălău Commune",
+    "local_name": "Comuna Ișcălău",
+    "name_en": "Ișcălău Commune",
+    "all_tags": {
+      "name": "Comuna Ișcălău",
+      "place": "village",
+      "name:en": "Ișcălău Commune",
+      "name:ru": "Коммуна Ишкэлэу",
+      "boundary": "administrative",
+      "way_area": "0.00419802",
+      "population": "2441",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -9192133,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-58984,-58974",
+    "name": "Ciolacu Nou Commune",
+    "local_name": "Comuna Ciolacu Nou",
+    "name_en": "Ciolacu Nou Commune",
+    "all_tags": {
+      "name": "Comuna Ciolacu Nou",
+      "name:en": "Ciolacu Nou Commune",
+      "name:ru": "Коммуна Чолаку Ноу",
+      "boundary": "administrative",
+      "way_area": "0.00628428",
+      "population": "2958",
+      "admin_level": "8",
+      "is_in:country": "MD",
+      "population:date": "2014"
+    }
+  },
+  {
+    "osm_id": -9192105,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-58984,-58974",
+    "name": "Comuna Pietrosu",
+    "local_name": "Comuna Pietrosu",
+    "name_en": null,
+    "all_tags": {
+      "name": "Comuna Pietrosu",
+      "name:ru": "Коммуна Петросу",
+      "boundary": "administrative",
+      "way_area": "0.00260214",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -9191731,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-58984,-58974",
+    "name": "Bocani",
+    "local_name": "Bocani",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bocani",
+      "place": "village",
+      "name:ru": "Бокань",
+      "boundary": "administrative",
+      "way_area": "0.00284344",
+      "population": "1135",
+      "admin_level": "8",
+      "name:prefix": "Satul",
+      "old_name:ru": "Боканы",
+      "postal_code": "MD-5912"
+    }
+  },
+  {
+    "osm_id": -8726395,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1702214,-2607033,-65335,-58974",
+    "name": "Шипкинский сельский совет",
+    "local_name": "Шипкинский сельский совет",
+    "name_en": null,
+    "all_tags": {
+      "name": "Шипкинский сельский совет",
+      "name:md": "Советул сэтеск Шипка",
+      "name:ro": "Sovetul sătesc Șipca",
+      "name:ru": "Шипкинский сельский совет",
+      "name:uk": "Шипкинська сільська рада",
+      "boundary": "administrative",
+      "way_area": "0.0101957",
+      "wikidata": "Q20858900",
+      "wikipedia": "ro:Comuna Șipca, Stînga Nistrului",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8710724,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1702216,-2607033,-65335,-58974",
+    "name": "Слобода-Рашковский сельский совет",
+    "local_name": "Слобода-Рашковский сельский совет",
+    "name_en": null,
+    "all_tags": {
+      "name": "Слобода-Рашковский сельский совет",
+      "name:md": "Советул сэтеск Слобозия-Рашков",
+      "name:ro": "Sovetul sătesc Slobozia-Rașcov",
+      "name:ru": "Слобода-Рашковский сельский совет",
+      "name:uk": "Слобода-Рашківська сільська рада",
+      "boundary": "administrative",
+      "way_area": "0.00124186",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8688504,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1702217,-2607033,-65335,-58974",
+    "name": "Броштянский сельский совет",
+    "local_name": "Броштянский сельский совет",
+    "name_en": null,
+    "all_tags": {
+      "name": "Броштянский сельский совет",
+      "name:md": "Советул сэтеск Броштень",
+      "name:ro": "Sovetul sătesc Broșteni",
+      "name:ru": "Броштянский сельский совет",
+      "name:uk": "Броштянська сільська рада",
+      "boundary": "administrative",
+      "way_area": "0.00180272",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8539525,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1702214,-2607033,-65335,-58974",
+    "name": "Колосовский сельский совет",
+    "local_name": "Колосовский сельский совет",
+    "name_en": null,
+    "all_tags": {
+      "name": "Колосовский сельский совет",
+      "name:md": "Советул сэтеск Колосова",
+      "name:ro": "Sovetul sătesc Colosova",
+      "name:ru": "Колосовский сельский совет",
+      "name:uk": "Колосовська сільська рада",
+      "boundary": "administrative",
+      "way_area": "0.00666509",
+      "wikidata": "Q20858597",
+      "wikipedia": "ro:Comuna Colosova, Stînga Nistrului",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8539257,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1702214,-2607033,-65335,-58974",
+    "name": "Маякский поселковый совет",
+    "local_name": "Маякский поселковый совет",
+    "name_en": null,
+    "all_tags": {
+      "name": "Маякский поселковый совет",
+      "name:ru": "Маякский поселковый совет",
+      "name:uk": "Маякська селищна рада",
+      "boundary": "administrative",
+      "way_area": "0.000120544",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8349338,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1702217,-2607033,-65335,-58974",
+    "name": "Попенский сельский совет",
+    "local_name": "Попенский сельский совет",
+    "name_en": null,
+    "all_tags": {
+      "name": "Попенский сельский совет",
+      "name:md": "Советул сэтеск Попенку",
+      "name:ro": "Sovetul sătesc Popencu",
+      "name:ru": "Попенский сельский совет",
+      "name:uk": "Попенська сільська рада",
+      "boundary": "administrative",
+      "way_area": "0.00735556",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8349307,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1702217,-2607033,-65335,-58974",
+    "name": "Мокрянский сельский совет",
+    "local_name": "Мокрянский сельский совет",
+    "name_en": null,
+    "all_tags": {
+      "name": "Мокрянский сельский совет",
+      "name:md": "Советул сэтеск Мокра",
+      "name:ro": "Sovetul sătesc Mocra",
+      "name:ru": "Мокрянский сельский совет",
+      "name:uk": "Мокрянська сільська рада",
+      "boundary": "administrative",
+      "way_area": "0.00587077",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8349094,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1702217,-2607033,-65335,-58974",
+    "name": "Журский сельский совет",
+    "local_name": "Журский сельский совет",
+    "name_en": null,
+    "all_tags": {
+      "name": "Журский сельский совет",
+      "name:md": "Советул сэтеск Жура",
+      "name:ro": "Sovetul sătesc Jura",
+      "name:ru": "Журский сельский совет",
+      "name:uk": "Журська сільська рада",
+      "boundary": "administrative",
+      "way_area": "0.00381205",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8349093,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1702217,-2607033,-65335,-58974",
+    "name": "Бутучанский сельский совет",
+    "local_name": "Бутучанский сельский совет",
+    "name_en": null,
+    "all_tags": {
+      "name": "Бутучанский сельский совет",
+      "name:md": "Советул сэтеск Бутучень",
+      "name:ro": "Sovetul sătesc Butuceni",
+      "name:ru": "Бутучанский сельский совет",
+      "name:uk": "Бутучанська сільська рада",
+      "boundary": "administrative",
+      "way_area": "0.00461332",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8349059,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1702217,-2607033,-65335,-58974",
+    "name": "Ленинский сельский совет",
+    "local_name": "Ленинский сельский совет",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ленинский сельский совет",
+      "name:md": "Советул сэтеск Ленин",
+      "name:ro": "Sovetul sătesc Lenin",
+      "name:ru": "Ленинский сельский совет",
+      "name:uk": "Ленінська сільська рада",
+      "boundary": "administrative",
+      "way_area": "0.0037996",
+      "wikidata": "Q20858721",
+      "wikipedia": "ro:Comuna Lenin, Stînga Nistrului",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8349002,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1702215,-65335,-58974",
+    "name": "Дубовский сельский совет",
+    "local_name": "Дубовский сельский совет",
+    "name_en": null,
+    "all_tags": {
+      "name": "Дубовский сельский совет",
+      "name:md": "Советул сэтеск Дубэу",
+      "name:ro": "Sovetul sătesc Dubău",
+      "name:ru": "Дубовский сельский совет",
+      "name:uk": "Дубівська сільська рада",
+      "boundary": "administrative",
+      "way_area": "0.00279675",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8348920,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1702215,-65335,-58974",
+    "name": "Гармацкий сельский совет",
+    "local_name": "Гармацкий сельский совет",
+    "name_en": null,
+    "all_tags": {
+      "name": "Гармацкий сельский совет",
+      "name:md": "Советул сэтеск Хармацка",
+      "name:ro": "Sovetul sătesc Harmațca",
+      "name:ru": "Гармацкий сельский совет",
+      "name:uk": "Гармацька сільська рада",
+      "boundary": "administrative",
+      "way_area": "0.00316341",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8348909,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1702217,-2607033,-65335,-58974",
+    "name": "Михайловский сельский совет",
+    "local_name": "Михайловский сельский совет",
+    "name_en": null,
+    "all_tags": {
+      "name": "Михайловский сельский совет",
+      "name:md": "Советул сэтеск Михайловка",
+      "name:ro": "Sovetul sătesc Mihailovca",
+      "name:ru": "Михайловский сельский совет",
+      "name:uk": "Михайлівська сільська рада",
+      "boundary": "administrative",
+      "way_area": "0.00318696",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8348646,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1702214,-2607033,-65335,-58974",
+    "name": "Спейский сельский совет",
+    "local_name": "Спейский сельский совет",
+    "name_en": null,
+    "all_tags": {
+      "name": "Спейский сельский совет",
+      "name:md": "Советул сэтеск Спея",
+      "name:ro": "Sovetul sătesc Speia",
+      "name:ru": "Спейский сельский совет",
+      "name:uk": "Спейська сільська рада",
+      "boundary": "administrative",
+      "way_area": "0.00520058",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8348625,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1702214,-2607033,-65335,-58974",
+    "name": "Буторский сельский совет",
+    "local_name": "Буторский сельский совет",
+    "name_en": null,
+    "all_tags": {
+      "name": "Буторский сельский совет",
+      "name:md": "Советул сэтеск Бутор",
+      "name:ro": "Sovetul sătesc Butor",
+      "name:ru": "Буторский сельский совет",
+      "name:uk": "Буторська сільська рада",
+      "boundary": "administrative",
+      "way_area": "0.00681622",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8348605,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1702214,-2607033,-65335,-58974",
+    "name": "Ташлыкский сельский совет",
+    "local_name": "Ташлыкский сельский совет",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ташлыкский сельский совет",
+      "name:md": "Советул сэтеск Ташлык",
+      "name:ro": "Sovetul sătesc Tașlîc",
+      "name:ru": "Ташлыкский сельский совет",
+      "name:uk": "Ташлицька сільська рада",
+      "boundary": "administrative",
+      "way_area": "0.00724753",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8292909,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1702216,-2607033,-65335,-58974",
+    "name": "Окницкий сельский совет",
+    "local_name": "Окницкий сельский совет",
+    "name_en": null,
+    "all_tags": {
+      "name": "Окницкий сельский совет",
+      "name:md": "Советул сэтеск Окница",
+      "name:ro": "Sovetul sătesc Ocnița",
+      "name:ru": "Окницкий сельский совет",
+      "name:uk": "Окницька сільська рада",
+      "boundary": "administrative",
+      "way_area": "0.00301007",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8292898,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1702216,-2607033,-65335,-58974",
+    "name": "Грушковский сельский совет",
+    "local_name": "Грушковский сельский совет",
+    "name_en": null,
+    "all_tags": {
+      "name": "Грушковский сельский совет",
+      "name:md": "Советул сэтеск Хрушка",
+      "name:ro": "Sovetul sătesc Hruşca",
+      "name:ru": "Грушковский сельский совет",
+      "name:uk": "Грушківська сільська рада",
+      "boundary": "administrative",
+      "way_area": "0.0049668",
+      "admin_level": "8",
+      "addr:country": "MD"
+    }
+  },
+  {
+    "osm_id": -8292891,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1702214,-2607033,-65335,-58974",
+    "name": "Малаештский сельский совет",
+    "local_name": "Малаештский сельский совет",
+    "name_en": null,
+    "all_tags": {
+      "name": "Малаештский сельский совет",
+      "name:md": "Советул сэтеск Мэлэешть",
+      "name:ro": "Sovetul sătesc Mălăiești",
+      "name:ru": "Малаештский сельский совет",
+      "name:uk": "Малаєштська сільська рада",
+      "boundary": "administrative",
+      "way_area": "0.0123563",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8292878,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1702218,-65335,-58974",
+    "name": "Терновский сельский совет",
+    "local_name": "Терновский сельский совет",
+    "name_en": null,
+    "all_tags": {
+      "name": "Терновский сельский совет",
+      "name:md": "Советул сэтеск Тырнаука",
+      "name:ro": "Sovetul sătesc Tîrnauca",
+      "name:ru": "Терновский сельский совет",
+      "name:uk": "Тернівська сільська рада",
+      "boundary": "administrative",
+      "way_area": "0.00455577",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8291058,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1702218,-65335,-58974",
+    "name": "Глинойский сельский совет",
+    "local_name": "Глинойский сельский совет",
+    "name_en": null,
+    "all_tags": {
+      "name": "Глинойский сельский совет",
+      "name:md": "Советул сэтеск Хлиная",
+      "name:ro": "Sovetul sătesc Hlinaia",
+      "name:ru": "Глинойский сельский совет",
+      "name:uk": "Глинойська сільська рада",
+      "boundary": "administrative",
+      "way_area": "0.00885828",
+      "short_name": "Глиное",
+      "admin_level": "8",
+      "short_name:de": "Glinoje",
+      "short_name:en": "Glinoye",
+      "short_name:md": "Хлиная",
+      "short_name:ro": "Hlinaia",
+      "short_name:ru": "Глиное",
+      "short_name:uk": "Глинне"
+    }
+  },
+  {
+    "osm_id": -8291057,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1702218,-65335,-58974",
+    "name": "Коротнянский сельский совет",
+    "local_name": "Коротнянский сельский совет",
+    "name_en": null,
+    "all_tags": {
+      "name": "Коротнянский сельский совет",
+      "name:md": "Советул сэтеск Коротна",
+      "name:ro": "Sovetul sătesc Corotna",
+      "name:ru": "Коротнянский сельский совет",
+      "name:uk": "Коротнянська сільська рада",
+      "boundary": "administrative",
+      "way_area": "0.00526489",
+      "short_name": "Коротное",
+      "admin_level": "8",
+      "short_name:de": "Korotnoje",
+      "short_name:en": "Korotnoye",
+      "short_name:md": "Коротна",
+      "short_name:ro": "Corotna",
+      "short_name:ru": "Коротное",
+      "short_name:uk": "Коротне"
+    }
+  },
+  {
+    "osm_id": -8290934,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1702218,-65335,-58974",
+    "name": "Незавертайловский сельский совет",
+    "local_name": "Незавертайловский сельский совет",
+    "name_en": null,
+    "all_tags": {
+      "name": "Незавертайловский сельский совет",
+      "name:md": "Советул сэтеск Незавертайловка",
+      "name:ro": "Sovetul sătesc Nezavertailovca",
+      "name:ru": "Незавертайловский сельский совет",
+      "name:uk": "Незавертайлівська сільська рада",
+      "boundary": "administrative",
+      "way_area": "0.0105823",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8290877,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1702218,-65335,-58974",
+    "name": "Первомайский поселковый совет",
+    "local_name": "Первомайский поселковый совет",
+    "name_en": null,
+    "all_tags": {
+      "name": "Первомайский поселковый совет",
+      "name:ru": "Первомайский поселковый совет",
+      "name:uk": "Первомайська селищна рада",
+      "boundary": "administrative",
+      "way_area": "0.00853618",
+      "admin_level": "8",
+      "alt_name:uk": "Першотравнева селищна рада"
+    }
+  },
+  {
+    "osm_id": -8290840,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1702219,-2607033,-65335,-58974",
+    "name": "Dnestrovsk",
+    "local_name": "Днестровск",
+    "name_en": "Dnestrovsk",
+    "all_tags": {
+      "name": "Днестровск",
+      "name:de": "Dnestrowsk",
+      "name:en": "Dnestrovsk",
+      "name:md": "Днестровск",
+      "name:ro": "Dnestrovsc",
+      "name:ru": "Днестровск",
+      "name:uk": "Дністровськ",
+      "website": "http://dnestrovsk.name",
+      "boundary": "administrative",
+      "way_area": "0.000165646",
+      "wikidata": "Q219547",
+      "wikipedia": "ru:Днестровск",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8289751,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1702218,-65335,-58974",
+    "name": "Slobozia town council",
+    "local_name": "Слободзейский городской совет",
+    "name_en": "Slobozia town council",
+    "all_tags": {
+      "name": "Слободзейский городской совет",
+      "name:en": "Slobozia town council",
+      "name:md": "Советул орэшенеск дин Слобозия",
+      "name:ro": "Sovietul orășenesc din Slobozia",
+      "name:ru": "Слободзейский городской совет",
+      "name:uk": "Слободзейська міська рада",
+      "boundary": "administrative",
+      "way_area": "0.0129075",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8289727,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1702218,-65335,-58974",
+    "name": "Чобручский сельский совет",
+    "local_name": "Чобручский сельский совет",
+    "name_en": null,
+    "all_tags": {
+      "name": "Чобручский сельский совет",
+      "name:md": "Советул сэтеск Чобурчиу",
+      "name:ro": "Sovetul sătesc Cioburciu",
+      "name:ru": "Чобручский сельский совет",
+      "name:uk": "Чобручська сільська рада",
+      "boundary": "administrative",
+      "way_area": "0.00801669",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8289594,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1702218,-65335,-58974",
+    "name": "Карагашский сельский совет",
+    "local_name": "Карагашский сельский совет",
+    "name_en": null,
+    "all_tags": {
+      "name": "Карагашский сельский совет",
+      "name:md": "Советул сэтеск Карагаш",
+      "name:ro": "Sovetul sătesc Caragaș",
+      "name:ru": "Карагашский сельский совет",
+      "name:uk": "Карагашська сільська рада",
+      "boundary": "administrative",
+      "way_area": "0.00462719",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8289510,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1692078,-58974",
+    "name": "Varnița",
+    "local_name": "Varnița",
+    "name_en": null,
+    "all_tags": {
+      "name": "Varnița",
+      "name:ro": "Varnița",
+      "name:ru": "Варница",
+      "name:uk": "Варниця",
+      "boundary": "administrative",
+      "way_area": "0.00325646",
+      "wikidata": "Q2331113",
+      "wikipedia": "ro:Varnița, Anenii Noi",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7948694,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-58988,-58974",
+    "name": "Bahmut",
+    "local_name": "Bahmut",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bahmut",
+      "name:ru": "Бахмут",
+      "boundary": "administrative",
+      "way_area": "0.00181282",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7810314,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1699034,-58974",
+    "name": "Giurgiulești",
+    "local_name": "Giurgiulești",
+    "name_en": null,
+    "all_tags": {
+      "name": "Giurgiulești",
+      "name:ru": "Джурджулешты",
+      "boundary": "administrative",
+      "way_area": "0.00544905",
+      "wikidata": "Q1528087",
+      "wikipedia": "ro:Giurgiulești, Cahul",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7468791,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1702218,-65335,-58974",
+    "name": "Суклейский сельский совет",
+    "local_name": "Суклейский сельский совет",
+    "name_en": null,
+    "all_tags": {
+      "name": "Суклейский сельский совет",
+      "name:md": "Советул сэтеск Суклея",
+      "name:ro": "Sovetul sătesc Sucleia",
+      "name:ru": "Суклейский сельский совет",
+      "name:uk": "Суклейська сільська рада",
+      "boundary": "administrative",
+      "way_area": "0.00670027",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7468724,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1702218,-65335,-58974",
+    "name": "Ближнехуторской сельский совет",
+    "local_name": "Ближнехуторской сельский совет",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ближнехуторской сельский совет",
+      "name:md": "Советул сэтеск Ближний Хутор",
+      "name:ro": "Sovetul sătesc Blijnii Hutor",
+      "name:ru": "Ближнехуторской сельский совет",
+      "name:uk": "Ближньохутірська сільська рада",
+      "boundary": "administrative",
+      "way_area": "0.00665558",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7432700,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1702214,-2607033,-65335,-58974",
+    "name": "Винограднянский сельский совет",
+    "local_name": "Винограднянский сельский совет",
+    "name_en": null,
+    "all_tags": {
+      "name": "Винограднянский сельский совет",
+      "name:ro": "Comuna Vinogradnoe",
+      "name:ru": "Винограднянский сельский совет",
+      "name:uk": "Виноградненська сільська рада",
+      "boundary": "administrative",
+      "way_area": "0.00197372",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7432662,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1702214,-2607033,-65335,-58974",
+    "name": "Тейский сельский совет",
+    "local_name": "Тейский сельский совет",
+    "name_en": null,
+    "all_tags": {
+      "name": "Тейский сельский совет",
+      "name:md": "Советул сэтеск Тею",
+      "name:ro": "Sovetul sătesc Teiu",
+      "name:ru": "Тейский сельский совет",
+      "name:uk": "Тейська сільська рада",
+      "boundary": "administrative",
+      "way_area": "0.00454149",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7432661,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1702214,-2607033,-65335,-58974",
+    "name": "Красногорский сельский совет",
+    "local_name": "Красногорский сельский совет",
+    "name_en": null,
+    "all_tags": {
+      "name": "Красногорский сельский совет",
+      "name:md": "Советул сэтеск Красногорка",
+      "name:ro": "Sovetul sătesc Crasnogorca",
+      "name:ru": "Красногорский сельский совет",
+      "name:uk": "Красногірська сільська рада",
+      "boundary": "administrative",
+      "way_area": "0.00269765",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7431263,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1702218,-65335,-58974",
+    "name": "Парканский сельский совет",
+    "local_name": "Парканский сельский совет",
+    "name_en": null,
+    "all_tags": {
+      "name": "Парканский сельский совет",
+      "name:md": "Советул сэтеск Паркань",
+      "name:ro": "Sovetul sătesc Parcani",
+      "name:ru": "Парканский сельский совет",
+      "name:uk": "Парканська сільська рада",
+      "boundary": "administrative",
+      "way_area": "0.00980329",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7431238,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1702214,-2607033,-65335,-58974",
+    "name": "Бычковский сельский совет",
+    "local_name": "Бычковский сельский совет",
+    "name_en": null,
+    "all_tags": {
+      "name": "Бычковский сельский совет",
+      "name:md": "Советул сэтеск Бычок",
+      "name:ro": "Sovetul sătesc Bîcioc",
+      "name:ru": "Бычковский сельский совет",
+      "name:uk": "Бичківська сільська рада",
+      "boundary": "administrative",
+      "way_area": "0.00250937",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7427680,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1702218,-65335,-58974",
+    "name": "Фрунзенский сельский совет",
+    "local_name": "Фрунзенский сельский совет",
+    "name_en": null,
+    "all_tags": {
+      "name": "Фрунзенский сельский совет",
+      "name:md": "Советул сэтеск Фрунзэ",
+      "name:ro": "Sovetul sătesc Frunză",
+      "name:ru": "Фрунзенский сельский совет",
+      "name:uk": "Фрунзенська сільська рада",
+      "boundary": "administrative",
+      "way_area": "0.00627879",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7427669,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1702218,-65335,-58974",
+    "name": "Владимировский сельский совет",
+    "local_name": "Владимировский сельский совет",
+    "name_en": null,
+    "all_tags": {
+      "name": "Владимировский сельский совет",
+      "name:md": "Советул сэтеск Владимировка",
+      "name:ro": "Sovetul sătesc Vladimirovca",
+      "name:ru": "Владимировский сельский совет",
+      "name:uk": "Володимирівська сільська рада",
+      "boundary": "administrative",
+      "way_area": "0.00399918",
+      "wikidata": "Q20858883",
+      "wikipedia": "ro:Comuna Vladimirovca, Stînga Nistrului",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -6879649,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1702218,-65335,-58974",
+    "name": "Кицканский сельский совет",
+    "local_name": "Кицканский сельский совет",
+    "name_en": null,
+    "all_tags": {
+      "name": "Кицканский сельский совет",
+      "name:md": "Советул сэтеск Кицкань",
+      "name:ro": "Sovetul sătesc Chițcani",
+      "name:ru": "Кицканский сельский совет",
+      "name:uk": "Кіцканська сільська рада",
+      "boundary": "administrative",
+      "way_area": "0.00865787",
+      "short_name": "Кицканы",
+      "admin_level": "8",
+      "short_name:de": "Kizkany",
+      "short_name:en": "Kitskany",
+      "short_name:md": "Кицкань",
+      "short_name:ro": "Chițcani",
+      "short_name:ru": "Кицканы",
+      "short_name:uk": "Кіцкани"
+    }
+  },
+  {
+    "osm_id": -6697109,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1692172,-58974",
+    "name": "Brăviceni",
+    "local_name": "Brăviceni",
+    "name_en": null,
+    "all_tags": {
+      "name": "Brăviceni",
+      "name:ru": "Бравичены",
+      "boundary": "administrative",
+      "way_area": "0.00364476",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -5736380,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1693874,-58974",
+    "name": "Glodeni",
+    "local_name": "Glodeni",
+    "name_en": null,
+    "all_tags": {
+      "name": "Glodeni",
+      "place": "town",
+      "name:ru": "Глодяны",
+      "boundary": "administrative",
+      "way_area": "0.00374753",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -5736377,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1691800,-58974",
+    "name": "Ialoveni",
+    "local_name": "Ialoveni",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ialoveni",
+      "place": "town",
+      "name:ru": "Яловены",
+      "boundary": "administrative",
+      "way_area": "0.00375089",
+      "population": "15300",
+      "admin_level": "8",
+      "is_in:country": "Moldova;MD"
+    }
+  },
+  {
+    "osm_id": -5736333,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-58993,-58974",
+    "name": "Telenești",
+    "local_name": "Telenești",
+    "name_en": null,
+    "all_tags": {
+      "name": "Telenești",
+      "is_in": "Moldova",
+      "place": "town",
+      "name:lt": "Teleneštis",
+      "name:ru": "Теленешть",
+      "boundary": "administrative",
+      "way_area": "0.00565092",
+      "admin_level": "8",
+      "is_in:country": "Moldova;MD"
+    }
+  },
+  {
+    "osm_id": -5647776,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-59002,-58974",
+    "name": "Briceni",
+    "local_name": "Briceni",
+    "name_en": null,
+    "all_tags": {
+      "name": "Briceni",
+      "place": "town",
+      "name:ka": "ბრიჩენი",
+      "name:md": "Бричень",
+      "name:pl": "Bryczany",
+      "name:ru": "Бричаны",
+      "name:uk": "Бричани",
+      "boundary": "administrative",
+      "way_area": "0.00114591",
+      "wikidata": "Q2019727",
+      "wikipedia": "ro:Briceni",
+      "admin_level": "8",
+      "old_name:de": "Britschany",
+      "old_name:en": "Brichany"
+    }
+  },
+  {
+    "osm_id": -2024852,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-85827,-58974",
+    "name": "Lozova",
+    "local_name": "Lozova",
+    "name_en": null,
+    "all_tags": {
+      "name": "Lozova",
+      "name:ru": "Лозова",
+      "boundary": "administrative",
+      "way_area": "0.0110693",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1813319,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1813297,-1691801,-58974",
+    "name": "Condrița",
+    "local_name": "Condrița",
+    "name_en": null,
+    "all_tags": {
+      "name": "Condrița",
+      "name:ru": "Кондрица",
+      "boundary": "administrative",
+      "way_area": "0.000227176",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1811555,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-65344,-58974",
+    "name": "Talmaza",
+    "local_name": "Talmaza",
+    "name_en": null,
+    "all_tags": {
+      "name": "Talmaza",
+      "name:ru": "Талмазы",
+      "boundary": "administrative",
+      "way_area": "0.0130326",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1811554,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-65344,-58974",
+    "name": "Răscăieți",
+    "local_name": "Răscăieți",
+    "name_en": null,
+    "all_tags": {
+      "name": "Răscăieți",
+      "name:ru": "Раскаецы",
+      "boundary": "administrative",
+      "way_area": "0.00561429",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1811553,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-65344,-58974",
+    "name": "Feștilița",
+    "local_name": "Feștilița",
+    "name_en": null,
+    "all_tags": {
+      "name": "Feștilița",
+      "name:ru": "Фештелица",
+      "boundary": "administrative",
+      "way_area": "0.00356856",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1811552,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-65344,-58974",
+    "name": "Cioburciu",
+    "local_name": "Cioburciu",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cioburciu",
+      "name:ru": "Чобручи",
+      "boundary": "administrative",
+      "way_area": "0.00645274",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1811533,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-65344,-58974",
+    "name": "Purcari",
+    "local_name": "Purcari",
+    "name_en": "Purcari",
+    "all_tags": {
+      "name": "Purcari",
+      "name:be": "Пуркарь",
+      "name:de": "Purcari",
+      "name:en": "Purcari",
+      "name:es": "Purcari",
+      "name:fr": "Purcari",
+      "name:it": "Purcari",
+      "name:pt": "Purcari",
+      "name:ro": "Purcari",
+      "name:ru": "Пуркарь",
+      "name:uk": "Пуркарь",
+      "boundary": "administrative",
+      "way_area": "0.00502047",
+      "wikidata": "Q20858796",
+      "wikipedia": "ro:Comuna Purcari, Ștefan Vodă",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1811532,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-65344,-58974",
+    "name": "Olănești",
+    "local_name": "Olănești",
+    "name_en": null,
+    "all_tags": {
+      "name": "Olănești",
+      "name:ka": "ოლენეშტი",
+      "name:pl": "Olaneszty",
+      "name:ru": "Оланешты",
+      "name:uk": "Оленешть",
+      "boundary": "administrative",
+      "way_area": "0.00625148",
+      "wikidata": "Q527946",
+      "wikipedia": "ro:Olănești, Ștefan Vodă",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1811531,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-65344,-58974",
+    "name": "Antonești",
+    "local_name": "Antonești",
+    "name_en": null,
+    "all_tags": {
+      "name": "Antonești",
+      "name:ru": "Антоновка",
+      "boundary": "administrative",
+      "way_area": "0.0029963",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1782040,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1813316,-1691801,-58974",
+    "name": "Ciorescu",
+    "local_name": "Ciorescu",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ciorescu",
+      "name:ru": "Чореску",
+      "boundary": "administrative",
+      "way_area": "0.000729932",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1782039,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1813316,-1691801,-58974",
+    "name": "Cricova",
+    "local_name": "Cricova",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cricova",
+      "name:ru": "Крикова",
+      "boundary": "administrative",
+      "way_area": "0.000913442",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1782038,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1813316,-1691801,-58974",
+    "name": "Grătiești Commune",
+    "local_name": "Comuna Grătiești",
+    "name_en": "Grătiești Commune",
+    "all_tags": {
+      "name": "Comuna Grătiești",
+      "name:en": "Grătiești Commune",
+      "name:mo": "Comuna Grătiești",
+      "name:ro": "Comuna Grătiești",
+      "name:ru": "Коммуна Гратиешты",
+      "boundary": "administrative",
+      "way_area": "0.00334782",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1782011,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1813316,-1691801,-58974",
+    "name": "Stăuceni Commune",
+    "local_name": "Comuna Stăuceni",
+    "name_en": "Stăuceni Commune",
+    "all_tags": {
+      "name": "Comuna Stăuceni",
+      "name:en": "Stăuceni Commune",
+      "name:mo": "Comuna Stăuceni",
+      "name:ru": "Коммуна Ставчены",
+      "boundary": "administrative",
+      "way_area": "0.00323673",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1772685,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-59000,-58974",
+    "name": "Risipeni",
+    "local_name": "Risipeni",
+    "name_en": null,
+    "all_tags": {
+      "name": "Risipeni",
+      "name:ru": "Рисипень",
+      "boundary": "administrative",
+      "way_area": "0.0068847",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1768341,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1813297,-1691801,-58974",
+    "name": "Ghidighici",
+    "local_name": "Ghidighici",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ghidighici",
+      "name:ru": "Гидигич",
+      "boundary": "administrative",
+      "way_area": "0.00279965",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1768340,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1813297,-1691801,-58974",
+    "name": "Vatra",
+    "local_name": "Vatra",
+    "name_en": null,
+    "all_tags": {
+      "name": "Vatra",
+      "name:ru": "Ватра",
+      "boundary": "administrative",
+      "way_area": "0.00157065",
+      "population": "3400",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1759186,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1813297,-1691801,-58974",
+    "name": "Trușeni Commune",
+    "local_name": "Comuna Trușeni",
+    "name_en": "Trușeni Commune",
+    "all_tags": {
+      "name": "Comuna Trușeni",
+      "name:en": "Trușeni Commune",
+      "name:ro": "Comuna Trușeni",
+      "name:ru": "Коммуна Трушены",
+      "boundary": "administrative",
+      "way_area": "0.00528543",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1759185,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1813297,-1691801,-58974",
+    "name": "Durlești",
+    "local_name": "Durlești",
+    "name_en": null,
+    "all_tags": {
+      "name": "Durlești",
+      "place": "town",
+      "name:ro": "Durlești",
+      "name:ru": "Дурлешты",
+      "boundary": "administrative",
+      "way_area": "0.00364823",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1759154,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1813315,-1691801,-58974",
+    "name": "Cruzești Commune",
+    "local_name": "Comuna Cruzești",
+    "name_en": "Cruzești Commune",
+    "all_tags": {
+      "name": "Comuna Cruzești",
+      "name:en": "Cruzești Commune",
+      "name:ro": "Comuna Cruzești",
+      "name:ru": "Коммуна Крузешты",
+      "boundary": "administrative",
+      "way_area": "0.00145696",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1759153,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1813315,-1691801,-58974",
+    "name": "Budești",
+    "local_name": "Budești",
+    "name_en": null,
+    "all_tags": {
+      "name": "Budești",
+      "name:ru": "Будешты",
+      "boundary": "administrative",
+      "way_area": "0.00336903",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1752811,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1813315,-1691801,-58974",
+    "name": "Vadul lui Vodă",
+    "local_name": "Vadul lui Vodă",
+    "name_en": null,
+    "all_tags": {
+      "name": "Vadul lui Vodă",
+      "name:ru": "Вадул-луй-Водэ",
+      "boundary": "administrative",
+      "way_area": "0.00216242",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1752520,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1813315,-1691801,-58974",
+    "name": "Tohatin Commune",
+    "local_name": "Comuna Tohatin",
+    "name_en": "Tohatin Commune",
+    "all_tags": {
+      "name": "Comuna Tohatin",
+      "name:en": "Tohatin Commune",
+      "name:ro": "Comuna Tohatin",
+      "name:ru": "Коммуна Тохатин",
+      "boundary": "administrative",
+      "way_area": "0.0018041",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1752519,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1813315,-1691801,-58974",
+    "name": "Colonița",
+    "local_name": "Colonița",
+    "name_en": null,
+    "all_tags": {
+      "name": "Colonița",
+      "name:ro": "Colonița",
+      "name:ru": "Колоница",
+      "boundary": "administrative",
+      "way_area": "0.00311037",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1751297,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-58512,-1691801,-58974",
+    "name": "Codru",
+    "local_name": "Codru",
+    "name_en": null,
+    "all_tags": {
+      "name": "Codru",
+      "place": "town",
+      "name:ru": "Кодру",
+      "boundary": "administrative",
+      "way_area": "0.00318097",
+      "wikidata": "Q642008",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1751286,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1813315,-1691801,-58974",
+    "name": "Bubuieci Commune",
+    "local_name": "Comuna Bubuieci",
+    "name_en": "Bubuieci Commune",
+    "all_tags": {
+      "name": "Comuna Bubuieci",
+      "name:en": "Bubuieci Commune",
+      "name:ro": "Comuna Bubuieci",
+      "name:ru": "Коммуна Бубуечь",
+      "boundary": "administrative",
+      "way_area": "0.0032772",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1748491,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1813306,-1691801,-58974",
+    "name": "Sîngera",
+    "local_name": "Sîngera",
+    "name_en": null,
+    "all_tags": {
+      "name": "Sîngera",
+      "name:ru": "Сынжера",
+      "boundary": "administrative",
+      "way_area": "0.00583973",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1748490,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1691801,-58974",
+    "name": "Chișinau",
+    "local_name": "Chișinău",
+    "name_en": "Chișinau",
+    "all_tags": {
+      "name": "Chișinău",
+      "place": "city",
+      "capital": "yes",
+      "name:af": "Chișinău",
+      "name:am": "ኪሺንው",
+      "name:ar": "كيشيناو",
+      "name:az": "Kişinyov",
+      "name:be": "Кішынёў",
+      "name:bg": "Кишинев",
+      "name:bo": "ཅི་སི་ནའུ།",
+      "name:br": "Chișinău",
+      "name:bs": "Kišinjev",
+      "name:co": "Chișinău",
+      "name:cs": "Kišiněv",
+      "name:cv": "Кишинёв",
+      "name:cy": "Chișinău",
+      "name:de": "Kischinau",
+      "name:el": "Κισινάου",
+      "name:en": "Chișinau",
+      "name:eo": "Kiŝinevo",
+      "name:es": "Chisinau",
+      "name:eu": "Chisinau",
+      "name:fa": "کیشیناو",
+      "name:fo": "Chișinău",
+      "name:fr": "Chișinău",
+      "name:ga": "Císineá",
+      "name:gd": "Chișinău",
+      "name:gl": "Chișinău",
+      "name:he": "קישינב",
+      "name:hi": "चिशिनाउ",
+      "name:hr": "Kišinjev",
+      "name:ht": "Chisinaou",
+      "name:hu": "Kisinyov",
+      "name:hy": "Քիշնև",
+      "name:id": "Kishinev",
+      "name:io": "Chisinau",
+      "name:is": "Kisínev",
+      "name:ja": "キシナウ",
+      "name:jv": "Chișinău",
+      "name:ka": "კიშინიოვი",
+      "name:kk": "Кишинев",
+      "name:kn": "ಕಿಶಿನೆವ್",
+      "name:ko": "키시너우",
+      "name:kv": "Кишинёв",
+      "name:la": "Chisla Nova",
+      "name:lb": "Chișinău",
+      "name:lt": "Kišiniovas",
+      "name:lv": "Kišiņeva",
+      "name:mi": "Chișinău",
+      "name:mk": "Кишињев",
+      "name:mr": "चिशिनाउ",
+      "name:nl": "Chisinau",
+      "name:nn": "Chișinău",
+      "name:no": "Chișinău",
+      "name:oc": "Chișinău",
+      "name:os": "Кишинёв",
+      "name:pl": "Kiszyniów",
+      "name:pt": "Chişinău",
+      "name:qu": "Chişinău",
+      "name:ro": "Chișinău",
+      "name:ru": "Кишинёв",
+      "name:sa": "चिशिनौ",
+      "name:sh": "Kišinjev",
+      "name:sk": "Kišiňov",
+      "name:sl": "Kišinjev",
+      "name:sq": "Kishinau",
+      "name:sr": "Кишињев",
+      "name:sv": "Chisinau",
+      "name:sw": "Kishineu",
+      "name:ta": "சிஷினோ",
+      "name:tg": "Кишинёв",
+      "name:th": "คีชีเนา",
+      "name:tl": "Chișinău",
+      "name:tr": "Kişinev",
+      "name:ug": "كىشىنېۋ",
+      "name:uk": "Кишинів",
+      "name:ur": "کیشیناو",
+      "name:vi": "Chișinău",
+      "name:yi": "קעשענעוו",
+      "name:yo": "Chișinău",
+      "name:zh": "基希訥烏",
+      "boundary": "administrative",
+      "name:als": "Kischinau",
+      "name:ast": "Quixináu",
+      "name:ckb": "کیشیناو",
+      "name:crh": "Kișineu",
+      "name:diq": "Kișinew",
+      "name:gag": "Kișinöv",
+      "name:hif": "Chișinău",
+      "name:hsb": "Kišinjow",
+      "name:lij": "Chișinău",
+      "name:lmo": "Chișinău",
+      "name:nan": "Chișinău",
+      "name:nov": "Kishinau",
+      "name:pms": "Chișinău",
+      "name:pnb": "کشینیف",
+      "name:sah": "Кишинев",
+      "name:scn": "Chișinău",
+      "name:sco": "Chișinău",
+      "name:udm": "Кишинёв",
+      "name:vec": "Chișinău",
+      "name:vep": "Kišinöv",
+      "way_area": "0.0144435",
+      "wikidata": "Q21197",
+      "wikipedia": "en:Chișinău",
+      "population": "750000",
+      "admin_level": "8",
+      "alt_name:de": "Kischinjow",
+      "alt_name:en": "Kishinev",
+      "name:simple": "Chișinău",
+      "old_name:de": "Kischinew;Kischenau",
+      "name:bat-smg": "Kišėniuovs",
+      "name:cbk-zam": "Chisinau",
+      "wikipedia:ru": "Кишинёв",
+      "is_in:country": "Moldova",
+      "name:be-tarask": "Кішынёў",
+      "is_in:continent": "Europe",
+      "capital_ISO3166-1": "yes",
+      "is_in:country_code": "MD"
+    }
+  },
+  {
+    "osm_id": -1748489,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1813306,-1691801,-58974",
+    "name": "Băcioi Commune",
+    "local_name": "Comuna Băcioi",
+    "name_en": "Băcioi Commune",
+    "all_tags": {
+      "name": "Comuna Băcioi",
+      "name:en": "Băcioi Commune",
+      "name:ro": "Comuna Băcioi",
+      "name:ru": "Коммуна Бачой",
+      "boundary": "administrative",
+      "way_area": "0.00766013",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1709500,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1692078,-58974",
+    "name": "Zolotievca",
+    "local_name": "Zolotievca",
+    "name_en": null,
+    "all_tags": {
+      "name": "Zolotievca",
+      "name:ru": "Золотиевка",
+      "boundary": "administrative",
+      "way_area": "0.00524606",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1706633,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-65344,-58974",
+    "name": "Ștefan Vodă",
+    "local_name": "Ștefan Vodă",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ștefan Vodă",
+      "name:ru": "Штефан-Водэ",
+      "boundary": "administrative",
+      "way_area": "0.00267304",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1706632,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-65344,-58974",
+    "name": "Tudora",
+    "local_name": "Tudora",
+    "name_en": null,
+    "all_tags": {
+      "name": "Tudora",
+      "name:ru": "Тудорово",
+      "boundary": "administrative",
+      "way_area": "0.00359671",
+      "wikidata": "Q2447341",
+      "wikipedia": "ro:Tudora, Ștefan Vodă",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1706631,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-65344,-58974",
+    "name": "Slobozia",
+    "local_name": "Slobozia",
+    "name_en": null,
+    "all_tags": {
+      "name": "Slobozia",
+      "name:ru": "Слобозия",
+      "boundary": "administrative",
+      "way_area": "0.00503287",
+      "wikidata": "Q1992257",
+      "wikipedia": "ro:Slobozia, Ștefan Vodă",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1706630,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-65344,-58974",
+    "name": "Popovca",
+    "local_name": "Popovca",
+    "name_en": null,
+    "all_tags": {
+      "name": "Popovca",
+      "name:ru": "Поповка",
+      "boundary": "administrative",
+      "way_area": "0.00445728",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1706629,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-65344,-58974",
+    "name": "Palanca",
+    "local_name": "Palanca",
+    "name_en": null,
+    "all_tags": {
+      "name": "Palanca",
+      "name:ru": "Паланка",
+      "boundary": "administrative",
+      "way_area": "0.00456866",
+      "wikidata": "Q2379856",
+      "wikipedia": "ru:Паланка (Штефан-Водский район)",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1706628,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-65344,-58974",
+    "name": "Marianca de Jos",
+    "local_name": "Marianca de Jos",
+    "name_en": null,
+    "all_tags": {
+      "name": "Marianca de Jos",
+      "name:ru": "Нижняя Марьяновка",
+      "boundary": "administrative",
+      "way_area": "0.00152079",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1706627,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-65344,-58974",
+    "name": "Căplani",
+    "local_name": "Căplani",
+    "name_en": null,
+    "all_tags": {
+      "name": "Căplani",
+      "name:ru": "Капланы",
+      "boundary": "administrative",
+      "way_area": "0.00623775",
+      "wikidata": "Q1991116",
+      "wikipedia": "ro:Căplani, Ștefan Vodă",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1706626,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-65344,-58974",
+    "name": "Crocmaz",
+    "local_name": "Crocmaz",
+    "name_en": null,
+    "all_tags": {
+      "name": "Crocmaz",
+      "name:ru": "Крокмаз",
+      "boundary": "administrative",
+      "way_area": "0.00560786",
+      "wikidata": "Q1267101",
+      "wikipedia": "ro:Crocmaz, Ștefan Vodă",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1706625,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-65344,-58974",
+    "name": "Carahasani",
+    "local_name": "Carahasani",
+    "name_en": "Carahasani",
+    "all_tags": {
+      "name": "Carahasani",
+      "name:en": "Carahasani",
+      "name:ru": "Карагасаны",
+      "boundary": "administrative",
+      "way_area": "0.00455862",
+      "wikidata": "Q2443242",
+      "wikipedia": "ro:Carahasani, Ștefan Vodă",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1706624,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-65344,-58974",
+    "name": "Alava",
+    "local_name": "Alava",
+    "name_en": null,
+    "all_tags": {
+      "name": "Alava",
+      "name:ru": "Алава",
+      "boundary": "administrative",
+      "way_area": "0.00201797",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1706595,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-65344,-58974",
+    "name": "Ștefănești",
+    "local_name": "Ștefănești",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ștefănești",
+      "name:ru": "Штефанешты",
+      "boundary": "administrative",
+      "way_area": "0.00283251",
+      "wikidata": "Q1991678",
+      "wikipedia": "ro:Ștefănești, Ștefan Vodă",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1706594,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-65344,-58974",
+    "name": "Volintiri",
+    "local_name": "Volintiri",
+    "name_en": null,
+    "all_tags": {
+      "name": "Volintiri",
+      "name:ru": "Волонтировка",
+      "boundary": "administrative",
+      "way_area": "0.0106118",
+      "wikidata": "Q932440",
+      "wikipedia": "ro:Volintiri, Ștefan Vodă",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1706593,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-65344,-58974",
+    "name": "Ermoclia",
+    "local_name": "Ermoclia",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ermoclia",
+      "name:ru": "Ермоклия",
+      "boundary": "administrative",
+      "way_area": "0.00654897",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1692524,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-58984,-58974",
+    "name": "Pînzăreni",
+    "local_name": "Pînzăreni",
+    "name_en": null,
+    "all_tags": {
+      "name": "Pînzăreni",
+      "name:ru": "Пынзэрень",
+      "boundary": "administrative",
+      "way_area": "0.00274428",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1692523,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-58984,-58974",
+    "name": "Pruteni",
+    "local_name": "Pruteni",
+    "name_en": null,
+    "all_tags": {
+      "name": "Pruteni",
+      "name:ru": "Прутень",
+      "boundary": "administrative",
+      "way_area": "0.00703814",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1692522,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-58984,-58974",
+    "name": "Obreja Veche",
+    "local_name": "Obreja Veche",
+    "name_en": null,
+    "all_tags": {
+      "name": "Obreja Veche",
+      "name:ru": "Обрежа Веке",
+      "boundary": "administrative",
+      "way_area": "0.00530902",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1692521,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-58984,-58974",
+    "name": "Năvîrneț",
+    "local_name": "Năvîrneț",
+    "name_en": null,
+    "all_tags": {
+      "name": "Năvîrneț",
+      "name:ru": "Нэвырнец",
+      "boundary": "administrative",
+      "way_area": "0.00437517",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1692520,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-58984,-58974",
+    "name": "Logofteni",
+    "local_name": "Logofteni",
+    "name_en": null,
+    "all_tags": {
+      "name": "Logofteni",
+      "name:ru": "Логофтень",
+      "boundary": "administrative",
+      "way_area": "0.00345564",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1692519,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-58984,-58974",
+    "name": "Ilenuța",
+    "local_name": "Ilenuța",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ilenuța",
+      "name:ro": "Ilenuța",
+      "name:ru": "Иленуца",
+      "boundary": "administrative",
+      "way_area": "0.00228188",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1692518,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-58984,-58974",
+    "name": "Hîncești",
+    "local_name": "Hîncești",
+    "name_en": null,
+    "all_tags": {
+      "name": "Hîncești",
+      "name:ru": "Хынчешты",
+      "boundary": "administrative",
+      "way_area": "0.00360475",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1692517,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-58984,-58974",
+    "name": "Hiliuți",
+    "local_name": "Hiliuți",
+    "name_en": null,
+    "all_tags": {
+      "name": "Hiliuți",
+      "name:ru": "Хилиуць",
+      "boundary": "administrative",
+      "way_area": "0.00324564",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1692516,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-58984,-58974",
+    "name": "Călinești",
+    "local_name": "Călinești",
+    "name_en": null,
+    "all_tags": {
+      "name": "Călinești",
+      "name:ru": "Кэлинешть",
+      "boundary": "administrative",
+      "way_area": "0.00560387",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1692515,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-58984,-58974",
+    "name": "Chetriș",
+    "local_name": "Chetriș",
+    "name_en": null,
+    "all_tags": {
+      "name": "Chetriș",
+      "name:ru": "Кетриш",
+      "boundary": "administrative",
+      "way_area": "0.00220732",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1692450,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-58984,-58974",
+    "name": "Risipeni Commune",
+    "local_name": "Comuna Risipeni",
+    "name_en": "Risipeni Commune",
+    "all_tags": {
+      "name": "Comuna Risipeni",
+      "name:en": "Risipeni Commune",
+      "name:ru": "Коммуна Рисипень",
+      "boundary": "administrative",
+      "way_area": "0.00384737",
+      "population": "1913",
+      "admin_level": "8",
+      "is_in:country": "Moldova",
+      "population:date": "2014"
+    }
+  },
+  {
+    "osm_id": -1692449,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-58984,-58974",
+    "name": "Izvoare",
+    "local_name": "Izvoare",
+    "name_en": null,
+    "all_tags": {
+      "name": "Izvoare",
+      "name:ru": "Изворы",
+      "boundary": "administrative",
+      "way_area": "0.00271244",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1692448,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-58984,-58974",
+    "name": "Horești Commune",
+    "local_name": "Comuna Horești",
+    "name_en": "Horești Commune",
+    "all_tags": {
+      "name": "Comuna Horești",
+      "name:en": "Horești Commune",
+      "name:ru": "Коммуна Хорешть",
+      "boundary": "administrative",
+      "way_area": "0.00309897",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1661217,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-58985,-58974",
+    "name": "Pîrlița",
+    "local_name": "Pîrlița",
+    "name_en": null,
+    "all_tags": {
+      "name": "Pîrlița",
+      "name:ru": "Пырлица",
+      "boundary": "administrative",
+      "way_area": "0.00478748",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1661215,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-58985,-58974",
+    "name": "Todirești",
+    "local_name": "Todirești",
+    "name_en": null,
+    "all_tags": {
+      "name": "Todirești",
+      "name:ru": "Тодирешты",
+      "boundary": "administrative",
+      "way_area": "0.00538594",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1661173,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-58985,-58974",
+    "name": "Costuleni",
+    "local_name": "Costuleni",
+    "name_en": null,
+    "all_tags": {
+      "name": "Costuleni",
+      "name:ru": "Костулень",
+      "boundary": "administrative",
+      "way_area": "0.00354572",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1661171,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-58985,-58974",
+    "name": "Măcărești",
+    "local_name": "Măcărești",
+    "name_en": null,
+    "all_tags": {
+      "name": "Măcărești",
+      "name:ru": "Мекерешть",
+      "boundary": "administrative",
+      "way_area": "0.00503891",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1661058,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-58985,-58974",
+    "name": "Sinești",
+    "local_name": "Sinești",
+    "name_en": null,
+    "all_tags": {
+      "name": "Sinești",
+      "name:ru": "Синешть",
+      "boundary": "administrative",
+      "way_area": "0.00371549",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1661057,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-58985,-58974",
+    "name": "Hîrcești",
+    "local_name": "Hîrcești",
+    "name_en": null,
+    "all_tags": {
+      "name": "Hîrcești",
+      "name:ru": "Хырчешть",
+      "boundary": "administrative",
+      "way_area": "0.00524988",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1661055,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-58985,-58974",
+    "name": "Năpădeni",
+    "local_name": "Năpădeni",
+    "name_en": null,
+    "all_tags": {
+      "name": "Năpădeni",
+      "name:ro": "Năpădeni",
+      "name:ru": "Нэпэдень",
+      "boundary": "administrative",
+      "way_area": "0.00411736",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1661050,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-58985,-58974",
+    "name": "Cornova",
+    "local_name": "Cornova",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cornova",
+      "name:ru": "Корнова",
+      "boundary": "administrative",
+      "way_area": "0.00171873",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1661040,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-58985,-58974",
+    "name": "Rădenii Vechi",
+    "local_name": "Rădenii Vechi",
+    "name_en": null,
+    "all_tags": {
+      "name": "Rădenii Vechi",
+      "name:ru": "Рэдений Веки",
+      "boundary": "administrative",
+      "way_area": "0.0104217",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1661038,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-58985,-58974",
+    "name": "Condrătești",
+    "local_name": "Condrătești",
+    "name_en": null,
+    "all_tags": {
+      "name": "Condrătești",
+      "name:ru": "Кондрэтешть",
+      "boundary": "administrative",
+      "way_area": "0.00261936",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1661035,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-58985,-58974",
+    "name": "Unțești",
+    "local_name": "Unțești",
+    "name_en": null,
+    "all_tags": {
+      "name": "Unțești",
+      "name:ru": "Унцешть",
+      "boundary": "administrative",
+      "way_area": "0.00218406",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1661034,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-58985,-58974",
+    "name": "Cetireni",
+    "local_name": "Cetireni",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cetireni",
+      "name:ru": "Четирень",
+      "boundary": "administrative",
+      "way_area": "0.00397897",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1661027,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-58985,-58974",
+    "name": "Bumbăta",
+    "local_name": "Bumbăta",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bumbăta",
+      "name:ru": "Бумбата",
+      "boundary": "administrative",
+      "way_area": "0.00289636",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1660998,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-58985,-58974",
+    "name": "Alexeevca",
+    "local_name": "Alexeevca",
+    "name_en": null,
+    "all_tags": {
+      "name": "Alexeevca",
+      "name:ru": "Алексеевка",
+      "boundary": "administrative",
+      "way_area": "0.00275619",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1660993,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-58985,-58974",
+    "name": "Agronomovca",
+    "local_name": "Agronomovca",
+    "name_en": null,
+    "all_tags": {
+      "name": "Agronomovca",
+      "name:ru": "Агрономовка",
+      "boundary": "administrative",
+      "way_area": "0.00251482",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1643269,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-58985,-58974",
+    "name": "Petrești",
+    "local_name": "Petrești",
+    "name_en": null,
+    "all_tags": {
+      "name": "Petrești",
+      "name:ru": "Петрешть",
+      "boundary": "administrative",
+      "way_area": "0.00538841",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1643249,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-58985,-58974",
+    "name": "Sculeni Commune",
+    "local_name": "Comuna Sculeni",
+    "name_en": "Sculeni Commune",
+    "all_tags": {
+      "name": "Comuna Sculeni",
+      "name:en": "Sculeni Commune",
+      "name:ru": "Коммуна Скулень",
+      "boundary": "administrative",
+      "way_area": "0.00678111",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1643223,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-58985,-58974",
+    "name": "Cioropcani Commune",
+    "local_name": "Comuna Cioropcani",
+    "name_en": "Cioropcani Commune",
+    "all_tags": {
+      "name": "Comuna Cioropcani",
+      "name:en": "Cioropcani Commune",
+      "name:ru": "Коммуна Чоропкань",
+      "boundary": "administrative",
+      "way_area": "0.00423842",
+      "admin_level": "8",
+      "is_in:country": "Moldova"
+    }
+  },
+  {
+    "osm_id": -1643217,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-58985,-58974",
+    "name": "Buciumeni",
+    "local_name": "Buciumeni",
+    "name_en": null,
+    "all_tags": {
+      "name": "Buciumeni",
+      "name:ru": "Бучумень",
+      "boundary": "administrative",
+      "way_area": "0.00242475",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1643211,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-58985,-58974",
+    "name": "Chirileni",
+    "local_name": "Chirileni",
+    "name_en": null,
+    "all_tags": {
+      "name": "Chirileni",
+      "name:ru": "Кирилень",
+      "boundary": "administrative",
+      "way_area": "0.00341419",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1643042,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-58985,-58974",
+    "name": "Bușila",
+    "local_name": "Bușila",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bușila",
+      "name:ru": "Бушила",
+      "boundary": "administrative",
+      "way_area": "0.00295544",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1643003,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-58985,-58974",
+    "name": "Negurenii Vechi",
+    "local_name": "Negurenii Vechi",
+    "name_en": null,
+    "all_tags": {
+      "name": "Negurenii Vechi",
+      "name:ru": "Негурений Веки",
+      "boundary": "administrative",
+      "way_area": "0.00569694",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1376945,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1692078,-58974",
+    "name": "Hîrbovăț",
+    "local_name": "Hîrbovăț",
+    "name_en": null,
+    "all_tags": {
+      "name": "Hîrbovăț",
+      "name:ru": "Гырбовец",
+      "boundary": "administrative",
+      "way_area": "0.0102473",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1346662,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1699033,-58974",
+    "name": "Cairaclia",
+    "local_name": "Cairaclia",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cairaclia",
+      "name:bg": "Кайраклия",
+      "name:ru": "Кайраклия",
+      "boundary": "administrative",
+      "way_area": "0.00471997",
+      "wikidata": "Q2451576",
+      "wikipedia": "ro:Cairaclia, Taraclia",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1303701,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-65344,-58974",
+    "name": "Semionovca",
+    "local_name": "Semionovca",
+    "name_en": null,
+    "all_tags": {
+      "name": "Semionovca",
+      "name:ru": "Семёновка",
+      "boundary": "administrative",
+      "way_area": "0.00380352",
+      "wikidata": "Q1992267",
+      "wikipedia": "ru:Семёновка (Штефан-Водский район)",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1303141,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-65344,-58974",
+    "name": "Brezoaia",
+    "local_name": "Brezoaia",
+    "name_en": null,
+    "all_tags": {
+      "name": "Brezoaia",
+      "place": "village",
+      "name:ru": "Брезоая",
+      "boundary": "administrative",
+      "way_area": "0.00412699",
+      "wikidata": "Q1990712",
+      "wikipedia": "ro:Brezoaia, Ștefan Vodă",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1301117,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-65344,-58974",
+    "name": "Copceac",
+    "local_name": "Copceac",
+    "name_en": null,
+    "all_tags": {
+      "name": "Copceac",
+      "name:ru": "Копчак",
+      "boundary": "administrative",
+      "way_area": "0.00597441",
+      "wikidata": "Q1992285",
+      "wikipedia": "ro:Copceac, Ștefan Vodă",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1216706,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1702218,-65335,-58974",
+    "name": "Kremenchug",
+    "local_name": "Кременчуг",
+    "name_en": "Kremenchug",
+    "all_tags": {
+      "name": "Кременчуг",
+      "place": "village",
+      "name:de": "Krementschug",
+      "name:en": "Kremenchug",
+      "name:md": "Кременчуг",
+      "name:ro": "Cremenciug",
+      "name:ru": "Кременчуг",
+      "name:uk": "Кременчуг",
+      "boundary": "administrative",
+      "way_area": "0.00292541",
+      "wikidata": "Q2438065",
+      "wikipedia": "ru:Кременчуг (Приднестровье)",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1216705,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-65343,-58974",
+    "name": "Copanca",
+    "local_name": "Copanca",
+    "name_en": null,
+    "all_tags": {
+      "name": "Copanca",
+      "place": "village",
+      "name:md": "Копанка",
+      "name:ro": "Copanca",
+      "name:ru": "Копанка",
+      "boundary": "administrative",
+      "way_area": "0.00424668",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1167594,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-65343,-58974",
+    "name": "Grigorievca",
+    "local_name": "Grigorievca",
+    "name_en": null,
+    "all_tags": {
+      "name": "Grigorievca",
+      "name:ru": "Григорьевка",
+      "boundary": "administrative",
+      "way_area": "0.0033705",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1167568,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-65343,-58974",
+    "name": "Baccealia",
+    "local_name": "Baccealia",
+    "name_en": null,
+    "all_tags": {
+      "name": "Baccealia",
+      "name:ru": "Бакчалия",
+      "boundary": "administrative",
+      "way_area": "0.00630436",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1140441,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-65343,-58974",
+    "name": "Ursoaia",
+    "local_name": "Ursoaia",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ursoaia",
+      "name:ru": "Урсоая",
+      "boundary": "administrative",
+      "way_area": "0.00379954",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -1104135,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1104136,-58974",
+    "name": "Bașcalia",
+    "local_name": "Bașcalia",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bașcalia",
+      "name:ru": "Башкалия",
+      "boundary": "administrative",
+      "way_area": "0.00686851",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -538671,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-58990,-58974",
+    "name": "Bălăurești",
+    "local_name": "Bălăurești",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bălăurești",
+      "is_in": "Nisporeni",
+      "name:ru": "Бэлэурешть",
+      "boundary": "administrative",
+      "way_area": "0.00197107",
+      "admin_level": "8",
+      "is_in:country": "Moldova;MD"
+    }
+  },
+  {
+    "osm_id": -532456,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-1699023,-58974",
+    "name": "Leova",
+    "local_name": "Leova",
+    "name_en": null,
+    "all_tags": {
+      "name": "Leova",
+      "name:ru": "Леова",
+      "boundary": "administrative",
+      "way_area": "0.00398427",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -530648,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-59002,-58974",
+    "name": "Larga",
+    "local_name": "Larga",
+    "name_en": null,
+    "all_tags": {
+      "name": "Larga",
+      "name:ru": "Ларга",
+      "boundary": "administrative",
+      "way_area": "0.00677162",
+      "wikidata": "Q20858719",
+      "wikipedia": "ro:Comuna Larga, Briceni",
+      "admin_level": "8",
+      "is_in:country": "Moldova",
+      "is_in:country_code": "MD"
+    }
+  },
+  {
+    "osm_id": -455187,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-59002,-58974",
+    "name": "Medveja",
+    "local_name": "Medveja",
+    "name_en": null,
+    "all_tags": {
+      "name": "Medveja",
+      "name:ru": "Медвежа",
+      "boundary": "administrative",
+      "way_area": "0.00301365",
+      "wikidata": "Q20858731",
+      "wikipedia": "ro:Comuna Medveja, Briceni",
+      "admin_level": "8",
+      "is_in:country": "Moldova",
+      "is_in:country_code": "MD"
+    }
+  },
+  {
+    "osm_id": -452800,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-59002,-58974",
+    "name": "Lipcani",
+    "local_name": "Lipcani",
+    "name_en": null,
+    "all_tags": {
+      "name": "Lipcani",
+      "name:ru": "Липканы",
+      "boundary": "administrative",
+      "way_area": "0.00128928",
+      "wikidata": "Q1827367",
+      "wikipedia": "ro:Lipcani",
+      "admin_level": "8",
+      "is_in:country": "Moldova",
+      "is_in:country_code": "MD"
+    }
+  },
+  {
+    "osm_id": -452797,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-59002,-58974",
+    "name": "Drepcăuți",
+    "local_name": "Drepcăuți",
+    "name_en": null,
+    "all_tags": {
+      "name": "Drepcăuți",
+      "name:ru": "Дрепкауцы",
+      "boundary": "administrative",
+      "way_area": "0.00738685",
+      "wikidata": "Q2437676",
+      "wikipedia": "ro:Drepcăuți, Briceni",
+      "admin_level": "8",
+      "is_in:country": "Moldova",
+      "is_in:country_code": "MD"
+    }
+  },
+  {
+    "osm_id": -451947,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-59002,-58974",
+    "name": "Bogdănești",
+    "local_name": "Bogdănești",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bogdănești",
+      "name:ru": "Богданешты",
+      "boundary": "administrative",
+      "way_area": "0.00242978",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -450646,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-59002,-58974",
+    "name": "Criva",
+    "local_name": "Criva",
+    "name_en": null,
+    "all_tags": {
+      "name": "Criva",
+      "name:ru": "Крива",
+      "boundary": "administrative",
+      "way_area": "0.0030509",
+      "wikidata": "Q2711656",
+      "wikipedia": "ro:Criva, Briceni",
+      "admin_level": "8",
+      "is_in:country": "Moldova",
+      "is_in:country_code": "MD"
+    }
+  },
+  {
+    "osm_id": -448023,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-65343,-58974",
+    "name": "Hagimus",
+    "local_name": "Hagimus",
+    "name_en": null,
+    "all_tags": {
+      "name": "Hagimus",
+      "name:ru": "Хаджимус",
+      "boundary": "administrative",
+      "way_area": "0.00382757",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -448022,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-65343,-58974",
+    "name": "Chircăiești",
+    "local_name": "Chircăiești",
+    "name_en": null,
+    "all_tags": {
+      "name": "Chircăiești",
+      "name:ru": "Киркаешты",
+      "boundary": "administrative",
+      "way_area": "0.00577667",
+      "admin_level": "8"
+    }
+  }
+]

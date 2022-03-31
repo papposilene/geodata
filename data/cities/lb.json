@@ -1,0 +1,2702 @@
+[
+  {
+    "osm_id": -12301103,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3074296,-316552,-184843",
+    "name": "Zarif",
+    "local_name": "الظريف",
+    "name_en": "Zarif",
+    "all_tags": {
+      "ref": "40",
+      "name": "الظريف",
+      "name:ar": "الظريف",
+      "name:en": "Zarif",
+      "name:fr": "Zarif",
+      "boundary": "administrative",
+      "way_area": "2.64302e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -12301065,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3074296,-316552,-184843",
+    "name": "Sanayeh",
+    "local_name": "الصنايع",
+    "name_en": "Sanayeh",
+    "all_tags": {
+      "ref": "41",
+      "name": "الصنايع",
+      "name:ar": "الصنايع",
+      "name:en": "Sanayeh",
+      "name:fr": "Sanayeh",
+      "boundary": "administrative",
+      "way_area": "2.35494e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -12279806,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-12009806,-317238,-318161,-184843",
+    "name": "Fadous",
+    "local_name": "فدعوس",
+    "name_en": "Fadous",
+    "all_tags": {
+      "name": "فدعوس",
+      "name:ar": "فدعوس",
+      "name:en": "Fadous",
+      "name:fr": "Fadous",
+      "boundary": "administrative",
+      "way_area": "2.75069e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -12170370,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-317238,-318161,-184843",
+    "name": "Mrah Shdid",
+    "local_name": "مراح شديد",
+    "name_en": "Mrah Shdid",
+    "all_tags": {
+      "name": "مراح شديد",
+      "name:ar": "مراح شديد",
+      "name:en": "Mrah Shdid",
+      "name:fr": "Mrah Chdid",
+      "boundary": "administrative",
+      "way_area": "0.000167721",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -12170307,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-317238,-318161,-184843",
+    "name": "Basbina",
+    "local_name": "بسبينا",
+    "name_en": "Basbina",
+    "all_tags": {
+      "name": "بسبينا",
+      "name:ar": "بسبينا",
+      "name:en": "Basbina",
+      "name:fr": "Basbina",
+      "boundary": "administrative",
+      "way_area": "0.000188252",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -12170224,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-317238,-318161,-184843",
+    "name": "Ghouma",
+    "local_name": "غوما",
+    "name_en": "Ghouma",
+    "all_tags": {
+      "name": "غوما",
+      "name:ar": "غوما",
+      "name:en": "Ghouma",
+      "name:fr": "Ghouma",
+      "boundary": "administrative",
+      "way_area": "0.000156658",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -12164842,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-317238,-318161,-184843",
+    "name": "Jrane",
+    "local_name": "جران",
+    "name_en": "Jrane",
+    "all_tags": {
+      "name": "جران",
+      "name:ar": "جران",
+      "name:en": "Jrane",
+      "name:fr": "Jrane",
+      "boundary": "administrative",
+      "way_area": "0.000181499",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -12164805,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-317238,-318161,-184843",
+    "name": "Smar Jbayl",
+    "local_name": "سمار جبيل",
+    "name_en": "Smar Jbayl",
+    "all_tags": {
+      "name": "سمار جبيل",
+      "name:ar": "سمار جبيل",
+      "name:en": "Smar Jbayl",
+      "name:fr": "Smar Jbayl",
+      "boundary": "administrative",
+      "way_area": "0.000179985",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -12164791,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-317238,-318161,-184843",
+    "name": "Rashana",
+    "local_name": "راشانا",
+    "name_en": "Rashana",
+    "all_tags": {
+      "name": "راشانا",
+      "name:ar": "راشانا",
+      "name:en": "Rashana",
+      "name:fr": "Rachana",
+      "boundary": "administrative",
+      "way_area": "0.000121092",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -12043660,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-317263,-318174,-184843",
+    "name": "Anjar",
+    "local_name": "عنجر",
+    "name_en": "Anjar",
+    "all_tags": {
+      "name": "عنجر",
+      "name:ar": "عنجر",
+      "name:en": "Anjar",
+      "name:fr": "Anjar",
+      "boundary": "administrative",
+      "way_area": "0.00158189",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -12040071,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-317263,-318174,-184843",
+    "name": "Nani Aila",
+    "local_name": "نبي ايلا",
+    "name_en": "Nani Aila",
+    "all_tags": {
+      "name": "نبي ايلا",
+      "name:ar": "نبي ايلا",
+      "name:en": "Nani Aila",
+      "name:fr": "Nabi Aila",
+      "boundary": "administrative",
+      "way_area": "0.000157112",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -12040021,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-317263,-318174,-184843",
+    "name": "Ablah",
+    "local_name": "ابلح",
+    "name_en": "Ablah",
+    "all_tags": {
+      "name": "ابلح",
+      "name:ar": "ابلح",
+      "name:en": "Ablah",
+      "name:fr": "Ablah",
+      "boundary": "administrative",
+      "way_area": "0.00054943",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -12039916,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-317263,-318174,-184843",
+    "name": "Fourzol",
+    "local_name": "فرزل",
+    "name_en": "Fourzol",
+    "all_tags": {
+      "name": "فرزل",
+      "name:ar": "فرزل",
+      "name:en": "Fourzol",
+      "name:fr": "Fourzol",
+      "boundary": "administrative",
+      "way_area": "0.00183721",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11895678,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-317230,-318194,-184843",
+    "name": "Dhour El Choueir",
+    "local_name": "ضهور الشوير",
+    "name_en": "Dhour El Choueir",
+    "all_tags": {
+      "name": "ضهور الشوير",
+      "name:ar": "ضهور الشوير",
+      "name:en": "Dhour El Choueir",
+      "name:fr": "Dhour El Choueir",
+      "boundary": "administrative",
+      "way_area": "0.000310496",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11877484,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-7276833,-317230,-318194,-184843",
+    "name": "Waterfront City",
+    "local_name": "مدينة الواجهة البحرية",
+    "name_en": "Waterfront City",
+    "all_tags": {
+      "name": "مدينة الواجهة البحرية",
+      "phone": "+9614444145",
+      "name:ar": "مدينة الواجهة البحرية",
+      "name:en": "Waterfront City",
+      "name:fr": "Waterfront City",
+      "name:he": "ווטרפרונט סיטי",
+      "website": "https://www.waterfrontcity.com",
+      "boundary": "administrative",
+      "way_area": "4.88814e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11683683,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-317317,-12903506,-184843",
+    "name": "Laqlouq",
+    "local_name": "اللقلوق",
+    "name_en": "Laqlouq",
+    "all_tags": {
+      "name": "اللقلوق",
+      "name:ar": "اللقلوق",
+      "name:en": "Laqlouq",
+      "name:fr": "Laqlouq",
+      "boundary": "administrative",
+      "way_area": "0.000180108",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11678957,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-317321,-318161,-184843",
+    "name": "Markabta",
+    "local_name": "مركبتا",
+    "name_en": "Markabta",
+    "all_tags": {
+      "name": "مركبتا",
+      "name:ar": "مركبتا",
+      "name:en": "Markabta",
+      "boundary": "administrative",
+      "way_area": "0.000751525",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11561178,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-316373,-318194,-184843",
+    "name": "Furn Ech-Chebbak",
+    "local_name": "فرن الشباك",
+    "name_en": "Furn Ech-Chebbak",
+    "all_tags": {
+      "name": "فرن الشباك",
+      "name:ar": "فرن الشباك",
+      "name:en": "Furn Ech-Chebbak",
+      "name:fr": "Furn Ech-Chebbak",
+      "boundary": "administrative",
+      "way_area": "0.000106686",
+      "admin_level": "8",
+      "alt_name:en": "Forn el Chebbak"
+    }
+  },
+  {
+    "osm_id": -11374697,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-318114,-318161,-184843",
+    "name": "Ras Masqa",
+    "local_name": "راس مسقا",
+    "name_en": "Ras Masqa",
+    "all_tags": {
+      "name": "راس مسقا",
+      "name:ar": "راس مسقا",
+      "name:en": "Ras Masqa",
+      "name:fr": "Ras Masqa",
+      "boundary": "administrative",
+      "way_area": "0.000862218",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11340727,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-317263,-318174,-184843",
+    "name": "Bouarej",
+    "local_name": "بوارج",
+    "name_en": "Bouarej",
+    "all_tags": {
+      "name": "بوارج",
+      "name:ar": "بوارج",
+      "name:en": "Bouarej",
+      "name:fr": "Bouarej",
+      "boundary": "administrative",
+      "way_area": "0.000364126",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11332745,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-317263,-318174,-184843",
+    "name": "Mazraat Er-Remtaniyeh",
+    "local_name": "الرمطانية",
+    "name_en": "Mazraat Er-Remtaniyeh",
+    "all_tags": {
+      "name": "الرمطانية",
+      "name:ar": "الرمطانية",
+      "name:en": "Mazraat Er-Remtaniyeh",
+      "name:fr": "Mazraat Er-Remtaniyeh",
+      "boundary": "administrative",
+      "way_area": "0.000986098",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11302539,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-317320,-318161,-184843",
+    "name": "Boussit",
+    "local_name": "بوسيط",
+    "name_en": "Boussit",
+    "all_tags": {
+      "name": "بوسيط",
+      "name:ar": "بوسيط",
+      "name:en": "Boussit",
+      "name:fr": "Boussit",
+      "boundary": "administrative",
+      "way_area": "0.000457558",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11302519,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-317321,-318161,-184843",
+    "name": "Nabi Youcheaa",
+    "local_name": "النبي يوشع",
+    "name_en": "Nabi Youcheaa",
+    "all_tags": {
+      "name": "النبي يوشع",
+      "name:ar": "النبي يوشع",
+      "name:en": "Nabi Youcheaa",
+      "name:fr": "Nabi Youcheaa",
+      "boundary": "administrative",
+      "way_area": "0.000342904",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11300294,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-317320,-318161,-184843",
+    "name": "Hraiqis",
+    "local_name": "حريقص",
+    "name_en": "Hraiqis",
+    "all_tags": {
+      "name": "حريقص",
+      "name:ar": "حريقص",
+      "name:en": "Hraiqis",
+      "name:fr": "Hraiqis",
+      "boundary": "administrative",
+      "way_area": "7.5302e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11300267,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-317321,-318161,-184843",
+    "name": "Deir Aammar",
+    "local_name": "دير عمار",
+    "name_en": "Deir Aammar",
+    "all_tags": {
+      "name": "دير عمار",
+      "name:ar": "دير عمار",
+      "name:en": "Deir Aammar",
+      "name:fr": "Deir Aammar",
+      "boundary": "administrative",
+      "way_area": "0.000340583",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11300249,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-317321,-318161,-184843",
+    "name": "Beddaoui",
+    "local_name": "بداوي",
+    "name_en": "Beddaoui",
+    "all_tags": {
+      "name": "بداوي",
+      "name:ar": "بداوي",
+      "name:en": "Beddaoui",
+      "name:fr": "Beddaoui",
+      "boundary": "administrative",
+      "way_area": "0.000494837",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11300184,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-317320,-318161,-184843",
+    "name": "Danha",
+    "local_name": "دنها",
+    "name_en": "Danha",
+    "all_tags": {
+      "name": "دنها",
+      "name:ar": "دنها",
+      "name:en": "Danha",
+      "name:fr": "Danha",
+      "boundary": "administrative",
+      "way_area": "0.000162137",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11295284,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-317320,-318161,-184843",
+    "name": "Mzraat Kefraya",
+    "local_name": "كفريا زغرتا",
+    "name_en": "Mzraat Kefraya",
+    "all_tags": {
+      "name": "كفريا زغرتا",
+      "name:ar": "كفريا زغرتا",
+      "name:en": "Mzraat Kefraya",
+      "name:fr": "Mzraat Kefraya",
+      "boundary": "administrative",
+      "way_area": "0.000268711",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11292451,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-317321,-318161,-184843",
+    "name": "Terbol-Miniyeh",
+    "local_name": "تربل المنيه",
+    "name_en": "Terbol-Miniyeh",
+    "all_tags": {
+      "name": "تربل المنيه",
+      "name:ar": "تربل المنيه",
+      "name:en": "Terbol-Miniyeh",
+      "name:fr": "Terbol-Miniyeh",
+      "boundary": "administrative",
+      "way_area": "0.00035601",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11156651,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-317263,-318174,-184843",
+    "name": "Majdel Aanjar",
+    "local_name": "مجدل عنجر",
+    "name_en": "Majdel Aanjar",
+    "all_tags": {
+      "name": "مجدل عنجر",
+      "name:ar": "مجدل عنجر",
+      "name:en": "Majdel Aanjar",
+      "name:fr": "Majdel Aanjar",
+      "boundary": "administrative",
+      "way_area": "0.002557",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11134594,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-317243,-318194,-184843",
+    "name": "Mazboud",
+    "local_name": "مزبود",
+    "name_en": "Mazboud",
+    "all_tags": {
+      "name": "مزبود",
+      "name:ar": "مزبود",
+      "name:en": "Mazboud",
+      "name:fr": "Mazboud",
+      "boundary": "administrative",
+      "way_area": "0.000409656",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -10650927,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-317244,-318194,-184843",
+    "name": "Qmatiyeh",
+    "local_name": "قماطية",
+    "name_en": "Qmatiyeh",
+    "all_tags": {
+      "name": "قماطية",
+      "name:ar": "قماطية",
+      "name:en": "Qmatiyeh",
+      "name:fr": "Qmatiyeh",
+      "boundary": "administrative",
+      "way_area": "9.23165e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -10646957,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-316373,-318194,-184843",
+    "name": "Aaraiya",
+    "local_name": "عاريا",
+    "name_en": "Aaraiya",
+    "all_tags": {
+      "name": "عاريا",
+      "name:ar": "عاريا",
+      "name:en": "Aaraiya",
+      "name:fr": "Aaraiya",
+      "boundary": "administrative",
+      "way_area": "0.000308762",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -10642576,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-316373,-318194,-184843",
+    "name": "Aabadiyeh",
+    "local_name": "عبادية",
+    "name_en": "Aabadiyeh",
+    "all_tags": {
+      "name": "عبادية",
+      "name:ar": "عبادية",
+      "name:en": "Aabadiyeh",
+      "name:fr": "Aabadiyeh",
+      "boundary": "administrative",
+      "way_area": "0.000856403",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -10620697,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-317244,-318194,-184843",
+    "name": "Rejmeh",
+    "local_name": "الرجمة",
+    "name_en": "Rejmeh",
+    "all_tags": {
+      "name": "الرجمة",
+      "name:ar": "الرجمة",
+      "name:en": "Rejmeh",
+      "name:fr": "Rejmeh",
+      "boundary": "administrative",
+      "way_area": "0.000117892",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -10605904,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-317244,-318194,-184843",
+    "name": "Aley",
+    "local_name": "عاليه",
+    "name_en": "Aley",
+    "all_tags": {
+      "name": "عاليه",
+      "name:ar": "عاليه",
+      "name:en": "Aley",
+      "name:fr": "Aley",
+      "boundary": "administrative",
+      "way_area": "0.000869581",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -10578167,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-317292,-318309,-184843",
+    "name": "Odaisseh",
+    "local_name": "عديسة",
+    "name_en": "Odaisseh",
+    "all_tags": {
+      "ele": "700",
+      "name": "عديسة",
+      "name:ar": "عديسة",
+      "name:de": "Odaisseh",
+      "name:en": "Odaisseh",
+      "name:es": "Odaisseh",
+      "name:fr": "Odaisseh",
+      "name:he": "אל-עדיסה",
+      "alt_name": "عديسة",
+      "boundary": "administrative",
+      "religion": "muslim",
+      "way_area": "0.000528631",
+      "wikidata": "Q3355793",
+      "wikipedia": "ar:عديسة (قرية)",
+      "admin_level": "8",
+      "denomination": "shia"
+    }
+  },
+  {
+    "osm_id": -10573026,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-11561050,-317319,-318309,-184843",
+    "name": "Wazzani",
+    "local_name": "וזאני",
+    "name_en": "Wazzani",
+    "all_tags": {
+      "name": "וזאני",
+      "name:ar": "الوزاني",
+      "name:en": "Wazzani",
+      "name:fr": "Wazzani",
+      "name:he": "וזאני",
+      "boundary": "administrative",
+      "religion": "muslim",
+      "way_area": "1.96749e-05",
+      "wikidata": "Q7976962",
+      "wikipedia": "he:וזאני",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -10418452,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-317230,-318194,-184843",
+    "name": "Mtaileb",
+    "local_name": "المطيلب",
+    "name_en": "Mtaileb",
+    "all_tags": {
+      "name": "المطيلب",
+      "name:ar": "المطيلب",
+      "name:en": "Mtaileb",
+      "name:fr": "Mtaileb",
+      "boundary": "administrative",
+      "way_area": "0.000180822",
+      "admin_level": "8",
+      "postal_code": "2426"
+    }
+  },
+  {
+    "osm_id": -9932871,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-317292,-318309,-184843",
+    "name": "Burj al Muluk",
+    "local_name": "برج الملوك",
+    "name_en": "Burj al Muluk",
+    "all_tags": {
+      "name": "برج الملوك",
+      "name:ar": "برج الملوك",
+      "name:de": "Burdsch al Muluk",
+      "name:en": "Burj al Muluk",
+      "name:es": "Burj al Muluk",
+      "name:fr": "Burj al Muluk",
+      "name:he": "מגדל המלכים",
+      "boundary": "administrative",
+      "religion": "christian",
+      "way_area": "0.000595159",
+      "wikidata": "Q12197879",
+      "wikipedia": "ar:برج الملوك",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -9749278,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-317321,-318161,-184843",
+    "name": "Zouk Bhanine",
+    "local_name": "ذوق بحنين",
+    "name_en": "Zouk Bhanine",
+    "all_tags": {
+      "name": "ذوق بحنين",
+      "name:ar": "ذوق بحنين",
+      "name:en": "Zouk Bhanine",
+      "name:fr": "Zouk Bhanine",
+      "alt_name": "Zouq Bhannine",
+      "boundary": "administrative",
+      "way_area": "0.00058662",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -9741896,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-317321,-318161,-184843",
+    "name": "Miniyeh",
+    "local_name": "المنية",
+    "name_en": "Miniyeh",
+    "all_tags": {
+      "name": "المنية",
+      "name:ar": "المنية",
+      "name:en": "Miniyeh",
+      "name:fr": "Miniyeh",
+      "boundary": "administrative",
+      "way_area": "0.00087734",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -9741885,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-317321,-318161,-184843",
+    "name": "Borj El Yahoudiyeh",
+    "local_name": "برج اليهودية",
+    "name_en": "Borj El Yahoudiyeh",
+    "all_tags": {
+      "name": "برج اليهودية",
+      "name:ar": "برج اليهودية",
+      "name:en": "Borj El Yahoudiyeh",
+      "name:fr": "Borj El Yahoudiyeh",
+      "boundary": "administrative",
+      "way_area": "0.000282191",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -9453715,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-317238,-318161,-184843",
+    "name": "Selaata",
+    "local_name": "سلعاتا",
+    "name_en": "Selaata",
+    "all_tags": {
+      "name": "سلعاتا",
+      "name:ar": "سلعاتا",
+      "name:en": "Selaata",
+      "name:fr": "Selaata",
+      "boundary": "administrative",
+      "way_area": "0.000192328",
+      "wikidata": "Q3478034",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -9207509,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-317238,-318161,-184843",
+    "name": "Thoum",
+    "local_name": "تحوم",
+    "name_en": "Thoum",
+    "all_tags": {
+      "name": "تحوم",
+      "name:ar": "تحوم",
+      "name:de": "Thoum",
+      "name:en": "Thoum",
+      "name:fr": "Thoum",
+      "boundary": "administrative",
+      "way_area": "0.000116411",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -9128324,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-317230,-318194,-184843",
+    "name": "Mar Roukoz - Dahr El Hossein",
+    "local_name": "دكوانة - دير مار روكز - ضهر",
+    "name_en": "Mar Roukoz - Dahr El Hossein",
+    "all_tags": {
+      "name": "دكوانة - دير مار روكز - ضهر",
+      "name:ar": "دكوانة - دير مار روكز - ضهر",
+      "name:en": "Mar Roukoz - Dahr El Hossein",
+      "name:fr": "Mar Roukoz - Dahr El Hossein",
+      "boundary": "administrative",
+      "way_area": "0.000223777",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -9128323,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-317230,-318194,-184843",
+    "name": "Biakout",
+    "local_name": "بياقوت",
+    "name_en": "Biakout",
+    "all_tags": {
+      "name": "بياقوت",
+      "name:ar": "بياقوت",
+      "name:en": "Biakout",
+      "name:fr": "Biakout",
+      "boundary": "administrative",
+      "way_area": "8.98455e-05",
+      "wikidata": "Q2900859",
+      "wikipedia": "ar:بياقوت",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -9128322,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-317230,-318194,-184843",
+    "name": "Jdaidet El Matn",
+    "local_name": "جديدة المتن",
+    "name_en": "Jdaidet El Matn",
+    "all_tags": {
+      "name": "جديدة المتن",
+      "name:ar": "جديدة المتن",
+      "name:en": "Jdaidet El Matn",
+      "name:fr": "Jdaidet El Matn",
+      "alt_name": "جديدة",
+      "boundary": "administrative",
+      "way_area": "0.000151248",
+      "wikidata": "Q115268",
+      "wikipedia": "ar:جديدة (المتن)",
+      "admin_level": "8",
+      "alt_name:ar": "جديدة",
+      "alt_name:en": "Jdeideh"
+    }
+  },
+  {
+    "osm_id": -9107129,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-317230,-318194,-184843",
+    "name": "Zalqa",
+    "local_name": "زلقا",
+    "name_en": "Zalqa",
+    "all_tags": {
+      "name": "زلقا",
+      "name:ar": "زلقا",
+      "name:en": "Zalqa",
+      "name:fr": "Zalka",
+      "boundary": "administrative",
+      "way_area": "8.82435e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -9107090,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-317230,-318194,-184843",
+    "name": "Beit Mery",
+    "local_name": "بيت مري",
+    "name_en": "Beit Mery",
+    "all_tags": {
+      "name": "بيت مري",
+      "name:ar": "بيت مري",
+      "name:en": "Beit Mery",
+      "name:fr": "Beit Mery",
+      "boundary": "administrative",
+      "way_area": "0.000925576",
+      "wikipedia": "ar:بيت مري",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -9106777,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-317230,-318194,-184843",
+    "name": "Sinn Al Fil",
+    "local_name": "سن الفيل",
+    "name_en": "Sinn Al Fil",
+    "all_tags": {
+      "name": "سن الفيل",
+      "name:ar": "سن الفيل",
+      "name:de": "Sinn al-Fil",
+      "name:en": "Sinn Al Fil",
+      "name:fr": "Sinn El Fill",
+      "boundary": "administrative",
+      "way_area": "0.000213079",
+      "admin_level": "8",
+      "alt_name:ar": "سنّ الفيل"
+    }
+  },
+  {
+    "osm_id": -9106750,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-317230,-318194,-184843",
+    "name": "Burj Hammoud",
+    "local_name": "برج حموﺪ",
+    "name_en": "Burj Hammoud",
+    "all_tags": {
+      "name": "برج حموﺪ",
+      "name:ar": "برج حموﺪ‎‎",
+      "name:en": "Burj Hammoud",
+      "name:fr": "Burj Hammoud",
+      "boundary": "administrative",
+      "way_area": "0.000287164",
+      "wikipedia": "ar:برج حموﺪ‎‎",
+      "admin_level": "8",
+      "postal_code": "1203"
+    }
+  },
+  {
+    "osm_id": -9106590,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-317230,-318194,-184843",
+    "name": "Fanar",
+    "local_name": "الفنار",
+    "name_en": "Fanar",
+    "all_tags": {
+      "name": "الفنار",
+      "name:ar": "الفنار",
+      "name:en": "Fanar",
+      "name:fr": "Fanar",
+      "boundary": "administrative",
+      "way_area": "0.000256965",
+      "admin_level": "8",
+      "alt_name:ar": "فنار",
+      "postal_code": "2611"
+    }
+  },
+  {
+    "osm_id": -9101522,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-317230,-318194,-184843",
+    "name": "Ain Saadeh",
+    "local_name": "عين سعادة",
+    "name_en": "Ain Saadeh",
+    "all_tags": {
+      "name": "عين سعادة",
+      "name:ar": "عين سعادة",
+      "name:de": "Ain Saadeh",
+      "name:en": "Ain Saadeh",
+      "name:fr": "Ain Saadeh",
+      "boundary": "administrative",
+      "way_area": "0.000460996",
+      "admin_level": "8",
+      "alt_name:en": "Ain Saadeh"
+    }
+  },
+  {
+    "osm_id": -9101340,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-317230,-318194,-184843",
+    "name": "Al-Mansuriyya",
+    "local_name": "المنصورية",
+    "name_en": "Al-Mansuriyya",
+    "all_tags": {
+      "name": "المنصورية",
+      "name:ar": "المنصورية",
+      "name:de": "Al-Mansuriyya",
+      "name:en": "Al-Mansuriyya",
+      "name:fr": "Mansourieh",
+      "boundary": "administrative",
+      "way_area": "0.000233496",
+      "admin_level": "8",
+      "alt_name:ar": "منصورية",
+      "alt_name:en": "Mansourieh"
+    }
+  },
+  {
+    "osm_id": -9071318,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-317243,-318194,-184843",
+    "name": "Barja",
+    "local_name": "برجا",
+    "name_en": "Barja",
+    "all_tags": {
+      "name": "برجا",
+      "name:ar": "برجا",
+      "name:en": "Barja",
+      "name:fa": "برجا",
+      "name:fr": "Barja",
+      "boundary": "administrative",
+      "way_area": "0.000843736",
+      "wikidata": "Q2884574",
+      "wikipedia": "ar:برجا",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8699326,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-317230,-318194,-184843",
+    "name": "Baqinnaya",
+    "local_name": "بقنايا",
+    "name_en": "Baqinnaya",
+    "all_tags": {
+      "name": "بقنايا",
+      "name:ar": "بقنايا",
+      "name:en": "Baqinnaya",
+      "name:fr": "Baqinnaya",
+      "boundary": "administrative",
+      "way_area": "6.43693e-05",
+      "admin_level": "8",
+      "alt_name:en": "Bkennaya"
+    }
+  },
+  {
+    "osm_id": -8668112,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-317251,-12903506,-184843",
+    "name": "Ghosta",
+    "local_name": "غوسطا",
+    "name_en": "Ghosta",
+    "all_tags": {
+      "name": "غوسطا",
+      "name:ar": "غوسطا",
+      "name:en": "Ghosta",
+      "name:fr": "Ghosta",
+      "boundary": "administrative",
+      "way_area": "0.00032998",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8640760,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-317251,-12903506,-184843",
+    "name": "Ajaltoun",
+    "local_name": "عجلتون",
+    "name_en": "Ajaltoun",
+    "all_tags": {
+      "name": "عجلتون",
+      "name:ar": "عجلتون",
+      "name:en": "Ajaltoun",
+      "name:fr": "Ajaltoun",
+      "boundary": "administrative",
+      "way_area": "0.000734368",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8640739,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-317251,-12903506,-184843",
+    "name": "Mazraet Mrah El Mir",
+    "local_name": "Mazraet Mrah El Mir",
+    "name_en": "Mazraet Mrah El Mir",
+    "all_tags": {
+      "name": "Mazraet Mrah El Mir",
+      "name:en": "Mazraet Mrah El Mir",
+      "boundary": "administrative",
+      "way_area": "0.000107914",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8475420,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-317251,-12903506,-184843",
+    "name": "Daraya",
+    "local_name": "داريا‎‎",
+    "name_en": "Daraya",
+    "all_tags": {
+      "name": "داريا‎‎",
+      "name:ar": "داريا‎‎",
+      "name:en": "Daraya",
+      "name:fr": "Daraya",
+      "boundary": "administrative",
+      "way_area": "9.85086e-05",
+      "wikidata": "Q24910637",
+      "wikipedia": "en:Daraya, Keserwan",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8452250,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-317230,-318194,-184843",
+    "name": "Jal el Dib",
+    "local_name": "جل الديب",
+    "name_en": "Jal el Dib",
+    "all_tags": {
+      "name": "جل الديب",
+      "name:ar": "جل الديب",
+      "name:en": "Jal el Dib",
+      "name:fr": "Jal el Dib",
+      "boundary": "administrative",
+      "way_area": "0.000109821",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8435757,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-317251,-12903506,-184843",
+    "name": "Raachine",
+    "local_name": "رعشين",
+    "name_en": "Raachine",
+    "all_tags": {
+      "name": "رعشين",
+      "name:ar": "رعشين",
+      "name:en": "Raachine",
+      "name:fr": "Raachine",
+      "boundary": "administrative",
+      "way_area": "0.000385819",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8435751,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-317251,-12903506,-184843",
+    "name": "Bekaatet-Achkout",
+    "local_name": "بقعاتا عشقوت",
+    "name_en": "Bekaatet-Achkout",
+    "all_tags": {
+      "name": "بقعاتا عشقوت",
+      "name:ar": "بقعاتا عشقوت",
+      "name:en": "Bekaatet-Achkout",
+      "name:fr": "Bekaatet-Achkout",
+      "boundary": "administrative",
+      "way_area": "0.000370849",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8419672,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-317251,-12903506,-184843",
+    "name": "Qleiat",
+    "local_name": "قليعات",
+    "name_en": "Qleiat",
+    "all_tags": {
+      "name": "قليعات",
+      "name:ar": "قليعات",
+      "name:en": "Qleiat",
+      "name:fr": "Qleiat",
+      "boundary": "administrative",
+      "way_area": "0.00051782",
+      "wikidata": "Q3197779",
+      "wikipedia": "ar:قليعات",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8404906,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-317251,-12903506,-184843",
+    "name": "Mazraet Kfardebiane",
+    "local_name": "مزار كفر دبيان",
+    "name_en": "Mazraet Kfardebiane",
+    "all_tags": {
+      "name": "مزار كفر دبيان",
+      "name:ar": "مزار كفر دبيان",
+      "name:en": "Mazraet Kfardebiane",
+      "name:fr": "Mazraet Kfardebiane",
+      "boundary": "administrative",
+      "way_area": "0.00330091",
+      "admin_level": "8",
+      "alt_name:ar": "مزار كفردبيان"
+    }
+  },
+  {
+    "osm_id": -8384344,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-317251,-12903506,-184843",
+    "name": "Ashqout",
+    "local_name": "عشقوت",
+    "name_en": "Ashqout",
+    "all_tags": {
+      "name": "عشقوت",
+      "name:ar": "عشقوت",
+      "name:en": "Ashqout",
+      "name:fr": "Ashqout",
+      "boundary": "administrative",
+      "way_area": "0.000576563",
+      "wikipedia": "ar:عشقوت",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8373773,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-317251,-12903506,-184843",
+    "name": "Rayfoun",
+    "local_name": "ريفون",
+    "name_en": "Rayfoun",
+    "all_tags": {
+      "name": "ريفون",
+      "name:ar": "ريفون",
+      "name:en": "Rayfoun",
+      "name:fr": "Rayfoun",
+      "boundary": "administrative",
+      "way_area": "0.000253173",
+      "wikipedia": "ar:ريفون",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8347406,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-318114,-318161,-184843",
+    "name": "Amioun",
+    "local_name": "أميون",
+    "name_en": "Amioun",
+    "all_tags": {
+      "name": "أميون",
+      "name:ar": "أميون",
+      "name:en": "Amioun",
+      "name:fr": "Amioun",
+      "boundary": "administrative",
+      "way_area": "0.00135809",
+      "wikipedia": "en:Amioun",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7929244,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-317230,-318194,-184843",
+    "name": "Dik el Mehdeh",
+    "local_name": "ديك المحدي",
+    "name_en": "Dik el Mehdeh",
+    "all_tags": {
+      "name": "ديك المحدي",
+      "name:ar": "ديك المحدي",
+      "name:en": "Dik el Mehdeh",
+      "boundary": "administrative",
+      "way_area": "6.91263e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7929238,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-317230,-318194,-184843",
+    "name": "Beit Ech Chaar",
+    "local_name": "بيت الشعار",
+    "name_en": "Beit Ech Chaar",
+    "all_tags": {
+      "name": "بيت الشعار",
+      "name:ar": "بيت الشعار",
+      "name:en": "Beit Ech Chaar",
+      "name:fr": "Beit Ech Chaar",
+      "boundary": "administrative",
+      "way_area": "5.67336e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7929085,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-317230,-318194,-184843",
+    "name": "Mazraet El Hadira",
+    "local_name": "مزرعة الحضيرة",
+    "name_en": "Mazraet El Hadira",
+    "all_tags": {
+      "name": "مزرعة الحضيرة",
+      "name:ar": "مزرعة الحضيرة",
+      "name:en": "Mazraet El Hadira",
+      "name:fr": "Mazraet El Hadira",
+      "boundary": "administrative",
+      "way_area": "0.000116653",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7924645,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-317230,-318194,-184843",
+    "name": "Qornet Chahouane",
+    "local_name": "قرنة شهوان",
+    "name_en": "Qornet Chahouane",
+    "all_tags": {
+      "name": "قرنة شهوان",
+      "name:ar": "قرنة شهوان",
+      "name:en": "Qornet Chahouane",
+      "name:fr": "Qornet Chahouane",
+      "boundary": "administrative",
+      "way_area": "0.00060398",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7922259,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-317230,-318194,-184843",
+    "name": "Mazraet Deir Aoukar",
+    "local_name": "مزرعة دير عوكر",
+    "name_en": "Mazraet Deir Aoukar",
+    "all_tags": {
+      "name": "مزرعة دير عوكر",
+      "name:ar": "مزرعة دير عوكر",
+      "name:en": "Mazraet Deir Aoukar",
+      "name:fr": "Mazraet Deir Aoukar",
+      "boundary": "administrative",
+      "way_area": "6.67292e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7921663,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-317230,-318194,-184843",
+    "name": "Beit El Kekko",
+    "local_name": "بيت الككو",
+    "name_en": "Beit El Kekko",
+    "all_tags": {
+      "name": "بيت الككو",
+      "name:ar": "بيت الككو",
+      "name:en": "Beit El Kekko",
+      "name:fr": "Beit El Kekko",
+      "boundary": "administrative",
+      "way_area": "3.82685e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7921662,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-317230,-318194,-184843",
+    "name": "Ain Aar",
+    "local_name": "عين عار",
+    "name_en": "Ain Aar",
+    "all_tags": {
+      "name": "عين عار",
+      "name:ar": "عين عار",
+      "name:en": "Ain Aar",
+      "name:fr": "Ain Aar",
+      "boundary": "administrative",
+      "way_area": "4.17137e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7921661,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-317230,-318194,-184843",
+    "name": "Hebouss",
+    "local_name": "Hebouss",
+    "name_en": "Hebouss",
+    "all_tags": {
+      "name": "Hebouss",
+      "name:en": "Hebouss",
+      "name:fr": "Hebouss",
+      "boundary": "administrative",
+      "way_area": "4.13598e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7921660,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-317230,-318194,-184843",
+    "name": "Mazraet Yachou",
+    "local_name": "مزرعة يشوع",
+    "name_en": "Mazraet Yachou",
+    "all_tags": {
+      "name": "مزرعة يشوع",
+      "name:ar": "مزرعة يشوع",
+      "name:en": "Mazraet Yachou",
+      "name:fr": "Mazraet Yachou",
+      "boundary": "administrative",
+      "way_area": "0.000148783",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7371011,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-317251,-12903506,-184843",
+    "name": "Mayrouba",
+    "local_name": "ميروبا",
+    "name_en": "Mayrouba",
+    "all_tags": {
+      "name": "ميروبا",
+      "name:ar": "ميروبا",
+      "name:de": "Mayrouba",
+      "name:en": "Mayrouba",
+      "name:fr": "Mayrouba",
+      "boundary": "administrative",
+      "way_area": "0.000215941",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7370996,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-317251,-12903506,-184843",
+    "name": "Faytroun",
+    "local_name": "فيطرون",
+    "name_en": "Faytroun",
+    "all_tags": {
+      "name": "فيطرون",
+      "name:ar": "فيطرون",
+      "name:de": "Faytroun",
+      "name:en": "Faytroun",
+      "name:fr": "Faytroun",
+      "name:ru": "Faytroun",
+      "boundary": "administrative",
+      "way_area": "0.000556225",
+      "wikidata": "Q3064667",
+      "wikipedia": "ar:فيطرون",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7322344,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-317230,-318194,-184843",
+    "name": "Antelias",
+    "local_name": "أنطلياس",
+    "name_en": "Antelias",
+    "all_tags": {
+      "name": "أنطلياس",
+      "name:ar": "أنطلياس",
+      "name:en": "Antelias",
+      "name:fr": "Antelias",
+      "boundary": "administrative",
+      "way_area": "0.000355062",
+      "wikidata": "Q1365968",
+      "wikipedia": "ar:أنطلياس",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7317339,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-317251,-12903506,-184843",
+    "name": "Bzoummar",
+    "local_name": "بزمار",
+    "name_en": "Bzoummar",
+    "all_tags": {
+      "name": "بزمار",
+      "name:ar": "بزمار",
+      "name:en": "Bzoummar",
+      "name:fr": "Bzoummar",
+      "boundary": "administrative",
+      "way_area": "0.000136448",
+      "wikipedia": "ar:بزمار",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7317336,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-317251,-12903506,-184843",
+    "name": "Dlebta",
+    "local_name": "دلبتا",
+    "name_en": "Dlebta",
+    "all_tags": {
+      "name": "دلبتا",
+      "name:ar": "دلبتا",
+      "name:en": "Dlebta",
+      "name:fr": "Dlebta",
+      "boundary": "administrative",
+      "way_area": "0.000318662",
+      "wikipedia": "ar:دلبتا",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7311356,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-317230,-318194,-184843",
+    "name": "Naqqach",
+    "local_name": "النقاش",
+    "name_en": "Naqqach",
+    "all_tags": {
+      "name": "النقاش",
+      "name:ar": "النقاش",
+      "name:en": "Naqqach",
+      "name:fr": "Naqqach",
+      "alt_name": "Naccache",
+      "boundary": "administrative",
+      "way_area": "0.000167949",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7153780,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3074290,-316552,-184843",
+    "name": "Hotel Dieu",
+    "local_name": "وتيل ديو",
+    "name_en": "Hotel Dieu",
+    "all_tags": {
+      "ref": "64",
+      "name": "وتيل ديو",
+      "name:ar": "وتيل ديو",
+      "name:en": "Hotel Dieu",
+      "name:fr": "Hôtel Dieu",
+      "boundary": "administrative",
+      "way_area": "3.74982e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7153776,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3074290,-316552,-184843",
+    "name": "Corniche Al Naher",
+    "local_name": "كورنيش النهر",
+    "name_en": "Corniche Al Naher",
+    "all_tags": {
+      "ref": "69",
+      "name": "كورنيش النهر",
+      "name:ar": "كورنيش النهر",
+      "name:en": "Corniche Al Naher",
+      "name:fr": "Corniche El-Nahr",
+      "boundary": "administrative",
+      "way_area": "2.23509e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7153457,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3074290,-316552,-184843",
+    "name": "Syoufi",
+    "local_name": "السيوفي",
+    "name_en": "Syoufi",
+    "all_tags": {
+      "_ref": "67",
+      "name": "السيوفي",
+      "name:ar": "السيوفي",
+      "name:en": "Syoufi",
+      "name:fr": "Sioufi",
+      "boundary": "administrative",
+      "way_area": "3.05796e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7153456,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3074290,-316552,-184843",
+    "name": "Ghabi",
+    "local_name": "الغابي",
+    "name_en": "Ghabi",
+    "all_tags": {
+      "_ref": "68",
+      "name": "الغابي",
+      "name:ar": "الغابي",
+      "name:de": "Ghabi",
+      "name:en": "Ghabi",
+      "name:fr": "Ghabi",
+      "boundary": "administrative",
+      "way_area": "3.74325e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7122738,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3074293,-316552,-184843",
+    "name": "Al Eamiliyeh",
+    "local_name": "العاملية",
+    "name_en": "Al Eamiliyeh",
+    "all_tags": {
+      "_ref": "59",
+      "name": "العاملية",
+      "name:ar": "العاملية",
+      "name:en": "Al Eamiliyeh",
+      "name:fr": "El Aamiliyé",
+      "boundary": "administrative",
+      "way_area": "1.35626e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7122724,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3074293,-316552,-184843",
+    "name": "El Horge",
+    "local_name": "الحرج",
+    "name_en": "El Horge",
+    "all_tags": {
+      "ref": "57",
+      "name": "الحرج",
+      "name:ar": "الحرج",
+      "name:en": "El Horge",
+      "boundary": "administrative",
+      "way_area": "5.50185e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7122723,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3074293,-316552,-184843",
+    "name": "Tariq El Jedeedeh",
+    "local_name": "طريق الجديدة",
+    "name_en": "Tariq El Jedeedeh",
+    "all_tags": {
+      "_ref": "56",
+      "name": "طريق الجديدة",
+      "name:ar": "طريق الجديدة",
+      "name:en": "Tariq El Jedeedeh",
+      "name:fr": "Tariq El Jedidé",
+      "boundary": "administrative",
+      "way_area": "3.58935e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7121604,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3074296,-316552,-184843",
+    "name": "Mussaitbeh",
+    "local_name": "المصيطبة",
+    "name_en": "Mussaitbeh",
+    "all_tags": {
+      "ref": "49",
+      "name": "المصيطبة",
+      "name:ar": "المصيطبة",
+      "name:de": "Mussaitbeh",
+      "name:en": "Mussaitbeh",
+      "name:fr": "Moussaitbé",
+      "boundary": "administrative",
+      "way_area": "4.75814e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7121590,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3074296,-316552,-184843",
+    "name": "Wata",
+    "local_name": "الوطى",
+    "name_en": "Wata",
+    "all_tags": {
+      "ref": "48",
+      "name": "الوطى",
+      "name:ar": "الوطى",
+      "name:en": "Wata",
+      "name:fr": "Wata",
+      "boundary": "administrative",
+      "way_area": "3.29048e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7121582,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3074296,-316552,-184843",
+    "name": "Unesco",
+    "local_name": "الاونيسكو",
+    "name_en": "Unesco",
+    "all_tags": {
+      "ref": "46",
+      "name": "الاونيسكو",
+      "name:ar": "الاونيسكو",
+      "name:en": "Unesco",
+      "name:fr": "Unesco",
+      "boundary": "administrative",
+      "way_area": "7.75366e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7121561,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3074296,-316552,-184843",
+    "name": "Tallet Khayat",
+    "local_name": "تلة الخيّاط",
+    "name_en": "Tallet Khayat",
+    "all_tags": {
+      "ref": "45",
+      "name": "تلة الخيّاط",
+      "name:ar": "تلة الخيّاط",
+      "name:de": "Tallet Khayat",
+      "name:en": "Tallet Khayat",
+      "name:fr": "Tallet Khayat",
+      "boundary": "administrative",
+      "way_area": "3.06098e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7121560,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3074296,-316552,-184843",
+    "name": "Tallet Druze",
+    "local_name": "تلة الدروز",
+    "name_en": "Tallet Druze",
+    "all_tags": {
+      "_ref": "42",
+      "name": "تلة الدروز",
+      "name:ar": "تلة الدروز",
+      "name:en": "Tallet Druze",
+      "name:fr": "Tallet Druze",
+      "boundary": "administrative",
+      "way_area": "1.04848e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7121559,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3074296,-316552,-184843",
+    "name": "Dar Al Fatwa",
+    "local_name": "دار الفتوى",
+    "name_en": "Dar Al Fatwa",
+    "all_tags": {
+      "ref": "44",
+      "name": "دار الفتوى",
+      "name:ar": "دار الفتوى",
+      "name:de": "Dar Al Fatwa",
+      "name:en": "Dar Al Fatwa",
+      "name:fr": "Dar El Fatoua",
+      "boundary": "administrative",
+      "way_area": "4.33357e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7120411,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3074298,-316552,-184843",
+    "name": "Jnublat",
+    "local_name": "جنبلاط",
+    "name_en": "Jnublat",
+    "all_tags": {
+      "ref": "32",
+      "name": "جنبلاط",
+      "name:ar": "جنبلاط",
+      "name:de": "Jnublat",
+      "name:en": "Jnublat",
+      "name:fr": "Jnoublat",
+      "boundary": "administrative",
+      "way_area": "1.73442e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7120407,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3074298,-316552,-184843",
+    "name": "Snoubra",
+    "local_name": "الصنوبرة",
+    "name_en": "Snoubra",
+    "all_tags": {
+      "ref": "33",
+      "name": "الصنوبرة",
+      "name:ar": "الصنوبرة",
+      "name:de": "Snoubra",
+      "name:en": "Snoubra",
+      "name:fr": "Snoubra",
+      "boundary": "administrative",
+      "way_area": "1.87583e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7120404,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3074298,-316552,-184843",
+    "name": "Ain El Tineh",
+    "local_name": "عين التينة",
+    "name_en": "Ain El Tineh",
+    "all_tags": {
+      "_ref": "39",
+      "name": "عين التينة",
+      "name:ar": "عين التينة",
+      "name:de": "Ain El Tineh",
+      "name:en": "Ain El Tineh",
+      "name:fr": "Ain El-Tiné",
+      "boundary": "administrative",
+      "way_area": "2.66705e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7120394,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3074298,-316552,-184843",
+    "name": "Raoucheh",
+    "local_name": "الروشة",
+    "name_en": "Raoucheh",
+    "all_tags": {
+      "_ref": "38",
+      "name": "الروشة",
+      "name:ar": "الروشة",
+      "name:en": "Raoucheh",
+      "name:fr": "Raoucheh",
+      "boundary": "administrative",
+      "way_area": "3.59848e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7120383,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3074298,-316552,-184843",
+    "name": "Qoreitem",
+    "local_name": "قريطم",
+    "name_en": "Qoreitem",
+    "all_tags": {
+      "ref": "37",
+      "name": "قريطم",
+      "name:ar": "قريطم",
+      "name:de": "Qoreitem",
+      "name:en": "Qoreitem",
+      "name:fr": "Koreitem",
+      "boundary": "administrative",
+      "way_area": "3.83445e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7120371,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3074298,-316552,-184843",
+    "name": "Manara",
+    "local_name": "المنارة",
+    "name_en": "Manara",
+    "all_tags": {
+      "ref": "36",
+      "name": "المنارة",
+      "name:ar": "المنارة",
+      "name:de": "Manara",
+      "name:en": "Manara",
+      "name:fr": "Manara",
+      "boundary": "administrative",
+      "way_area": "5.31042e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7120346,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3074298,-316552,-184843",
+    "name": "El Hamra",
+    "local_name": "الحمراء",
+    "name_en": "El Hamra",
+    "all_tags": {
+      "ref": "34",
+      "name": "الحمراء",
+      "name:ar": "الحمراء",
+      "name:de": "Hamra",
+      "name:en": "El Hamra",
+      "name:fr": "Hamra",
+      "boundary": "administrative",
+      "way_area": "5.31437e-05",
+      "wikipedia": "en:Hamra, Beirut",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7118487,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3074299,-316552,-184843",
+    "name": "Mar Nicolas",
+    "local_name": "مار نيكولا",
+    "name_en": "Mar Nicolas",
+    "all_tags": {
+      "_ref": "71",
+      "name": "مار نيكولا",
+      "name:ar": "مار نيكولا",
+      "name:de": "Mar Nicolas",
+      "name:en": "Mar Nicolas",
+      "name:fr": "Mar Nicolas",
+      "boundary": "administrative",
+      "way_area": "2.46098e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7115472,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3074293,-316552,-184843",
+    "name": "Malaab",
+    "local_name": "الملعب",
+    "name_en": "Malaab",
+    "all_tags": {
+      "_ref": "55",
+      "name": "الملعب",
+      "name:ar": "الملعب",
+      "name:en": "Malaab",
+      "name:fr": "Malaab",
+      "boundary": "administrative",
+      "way_area": "5.01674e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7115458,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3074293,-316552,-184843",
+    "name": "Mazreah",
+    "local_name": "المزرعة",
+    "name_en": "Mazreah",
+    "all_tags": {
+      "_ref": "53",
+      "name": "المزرعة",
+      "name:ar": "المزرعة",
+      "name:en": "Mazreah",
+      "name:fr": "Mazraa",
+      "boundary": "administrative",
+      "way_area": "2.94875e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7100524,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3074301,-316552,-184843",
+    "name": "Patriarcat",
+    "local_name": "البطركية",
+    "name_en": "Patriarcat",
+    "all_tags": {
+      "ref": "24",
+      "name": "البطركية",
+      "name:ar": "البطركية",
+      "name:de": "Patriarcat",
+      "name:en": "Patriarcat",
+      "name:fr": "Patriarcat",
+      "boundary": "administrative",
+      "way_area": "1.96342e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7100514,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3074301,-316552,-184843",
+    "name": "Serail",
+    "local_name": "السراي",
+    "name_en": "Serail",
+    "all_tags": {
+      "ref": "23",
+      "name": "السراي",
+      "name:ar": "السراي",
+      "name:de": "Serail",
+      "name:en": "Serail",
+      "name:fr": "Sérail",
+      "boundary": "administrative",
+      "way_area": "2.5847e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7097746,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3074291,-316552,-184843",
+    "name": "Bashura",
+    "local_name": "الباشورة",
+    "name_en": "Bashura",
+    "all_tags": {
+      "ref": "26",
+      "name": "الباشورة",
+      "name:ar": "الباشورة",
+      "name:de": "Baschura",
+      "name:en": "Bashura",
+      "name:fr": "Bachoura",
+      "boundary": "administrative",
+      "way_area": "2.53203e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7094693,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3074297,-316552,-184843",
+    "name": "New Sector",
+    "local_name": "المنطقة المستحدثة",
+    "name_en": "New Sector",
+    "all_tags": {
+      "ref": "00",
+      "name": "المنطقة المستحدثة",
+      "name:ar": "المنْطَقَة المسيحدثة",
+      "name:de": "New Sector",
+      "name:en": "New Sector",
+      "name:fr": "Nouveau Secteur",
+      "boundary": "administrative",
+      "way_area": "7.55601e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7094667,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3074297,-316552,-184843",
+    "name": "Marfaa",
+    "local_name": "المرفأ",
+    "name_en": "Marfaa",
+    "all_tags": {
+      "_ref": "14",
+      "name": "المرفأ",
+      "name:ar": "المرفأ",
+      "name:de": "Marfaa",
+      "name:en": "Marfaa",
+      "name:fr": "Marfaa",
+      "boundary": "administrative",
+      "way_area": "5.97594e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7094646,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3074297,-316552,-184843",
+    "name": "Majidiyeh",
+    "local_name": "المجيدية",
+    "name_en": "Majidiyeh",
+    "all_tags": {
+      "_ref": "12",
+      "name": "المجيدية",
+      "name:ar": "المجيدية",
+      "name:en": "Majidiyeh",
+      "name:fr": "Majidiyé",
+      "boundary": "administrative",
+      "way_area": "1.18964e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7088627,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3074291,-316552,-184843",
+    "name": "Basta Tahta",
+    "local_name": "البسطة التحتا",
+    "name_en": "Basta Tahta",
+    "all_tags": {
+      "ref": "25",
+      "name": "البسطة التحتا",
+      "name:ar": "البسطة التحتا",
+      "name:de": "Basta Tahta",
+      "name:en": "Basta Tahta",
+      "name:fr": "Basta Tahta",
+      "boundary": "administrative",
+      "way_area": "2.46762e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7087023,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3074293,-316552,-184843",
+    "name": "Ras El-Nabaa",
+    "local_name": "رأس النبع",
+    "name_en": "Ras El-Nabaa",
+    "all_tags": {
+      "ref": "52",
+      "name": "رأس النبع",
+      "name:ar": "رأس النبع",
+      "name:en": "Ras El-Nabaa",
+      "name:fr": "Ras El-Nabaa",
+      "boundary": "administrative",
+      "way_area": "3.45109e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7086561,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3074293,-316552,-184843",
+    "name": "Basta Faouka",
+    "local_name": "البسطة الفوقا",
+    "name_en": "Basta Faouka",
+    "all_tags": {
+      "_ref": "51",
+      "name": "البسطة الفوقا",
+      "name:ar": "البسطة الفوقا",
+      "name:en": "Basta Faouka",
+      "name:fr": "Basta Faouka",
+      "alt_name": "بسطة فوقا",
+      "boundary": "administrative",
+      "way_area": "1.61206e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7086501,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3074293,-316552,-184843",
+    "name": "Burj Abi Haidar",
+    "local_name": "برج أبي حيدر",
+    "name_en": "Burj Abi Haidar",
+    "all_tags": {
+      "_ref": "50",
+      "name": "برج أبي حيدر",
+      "name:ar": "برج أبي حيدر",
+      "name:en": "Burj Abi Haidar",
+      "name:fr": "Borj Abi Haidar",
+      "boundary": "administrative",
+      "way_area": "1.49584e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7084958,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3074293,-316552,-184843",
+    "name": "Park",
+    "local_name": "البارك",
+    "name_en": "Park",
+    "all_tags": {
+      "ref": "58",
+      "name": "البارك",
+      "name:ar": "البارك",
+      "name:en": "Park",
+      "name:fr": "Parc",
+      "boundary": "administrative",
+      "way_area": "0.000115",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7083782,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3074297,-316552,-184843",
+    "name": "Nejmeh Square",
+    "local_name": "النجمة",
+    "name_en": "Nejmeh Square",
+    "all_tags": {
+      "name": "النجمة",
+      "name:ar": "النجمة",
+      "name:de": "Nejmeh Square",
+      "name:en": "Nejmeh Square",
+      "name:fr": "Najmeh",
+      "boundary": "administrative",
+      "way_area": "1.41587e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7083454,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3074295,-316552,-184843",
+    "name": "Bab Idriss",
+    "local_name": "باب إدريس",
+    "name_en": "Bab Idriss",
+    "all_tags": {
+      "ref": "21",
+      "name": "باب إدريس",
+      "name:ar": "باب إدريس",
+      "name:de": "Bab Idriss",
+      "name:en": "Bab Idriss",
+      "name:fr": "Bab Idriss",
+      "boundary": "administrative",
+      "way_area": "1.42535e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7083411,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3074295,-316552,-184843",
+    "name": "Kantari",
+    "local_name": "القنطاري",
+    "name_en": "Kantari",
+    "all_tags": {
+      "ref": "22",
+      "name": "القنطاري",
+      "name:ar": "القنطاري",
+      "name:de": "Kantari",
+      "name:en": "Kantari",
+      "name:fr": "Kantari",
+      "boundary": "administrative",
+      "way_area": "1.85727e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7083322,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3074295,-316552,-184843",
+    "name": "Secteur Minet El Hosn",
+    "local_name": "نطقة ميناء الحصن",
+    "name_en": "Secteur Minet El Hosn",
+    "all_tags": {
+      "ref": "20",
+      "name": "نطقة ميناء الحصن",
+      "name:ar": "نطقة ميناء الحصن",
+      "name:en": "Secteur Minet El Hosn",
+      "name:fr": "Secteur Minet El Hosn",
+      "boundary": "administrative",
+      "way_area": "3.41175e-05",
+      "admin_level": "8",
+      "alt_name:ar": "ميناء الحصن",
+      "short_name:ar": "ميناء الحصن"
+    }
+  },
+  {
+    "osm_id": -7083281,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3074292,-316552,-184843",
+    "name": "Ain Mreisse",
+    "local_name": "عين المريسة",
+    "name_en": "Ain Mreisse",
+    "all_tags": {
+      "ref": "30",
+      "name": "عين المريسة",
+      "name:ar": "عين المريسة",
+      "name:de": "Ain Mreisse",
+      "name:en": "Ain Mreisse",
+      "name:fr": "Aïn Mreissé",
+      "boundary": "administrative",
+      "way_area": "2.09931e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7083266,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3074292,-316552,-184843",
+    "name": "Al Jaameah",
+    "local_name": "الجامعة",
+    "name_en": "Al Jaameah",
+    "all_tags": {
+      "ref": "31",
+      "name": "الجامعة",
+      "name:ar": "الجامعة",
+      "name:en": "Al Jaameah",
+      "name:fr": "Jamia",
+      "alt_name": "American University of Beirut",
+      "boundary": "administrative",
+      "way_area": "2.73758e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7083254,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3074292,-316552,-184843",
+    "name": "Ras Beirut",
+    "local_name": "رأس بيروت",
+    "name_en": "Ras Beirut",
+    "all_tags": {
+      "ref": "35",
+      "name": "رأس بيروت",
+      "name:ar": "رأس بيروت",
+      "name:en": "Ras Beirut",
+      "name:fr": "Ras-Beyrouth",
+      "boundary": "administrative",
+      "way_area": "3.65182e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7083079,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3074296,-316552,-184843",
+    "name": "Mar Elias",
+    "local_name": "مار إلياس",
+    "name_en": "Mar Elias",
+    "all_tags": {
+      "ref": "47",
+      "name": "مار إلياس",
+      "name:ar": "مار إلياس",
+      "name:en": "Mar Elias",
+      "name:fr": "Mar Elias",
+      "boundary": "administrative",
+      "way_area": "0.000109376",
+      "admin_level": "8",
+      "alt_name:ar": "مار الياس"
+    }
+  },
+  {
+    "osm_id": -7081119,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3074294,-316552,-184843",
+    "name": "Rmeil",
+    "local_name": "الرميل",
+    "name_en": "Rmeil",
+    "all_tags": {
+      "_ref": "72",
+      "name": "الرميل",
+      "name:ar": "الرميل",
+      "name:de": "Rmeil",
+      "name:en": "Rmeil",
+      "name:fr": "Remeil",
+      "boundary": "administrative",
+      "way_area": "1.25954e-05",
+      "wikidata": "Q47366026",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7080257,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3074294,-316552,-184843",
+    "name": "Jisr",
+    "local_name": "الجسر",
+    "name_en": "Jisr",
+    "all_tags": {
+      "_ref": "77",
+      "name": "الجسر",
+      "name:ar": "الجسر",
+      "name:de": "Jisr",
+      "name:en": "Jisr",
+      "name:fr": "Jisr",
+      "boundary": "administrative",
+      "way_area": "5.99663e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7080256,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3074294,-316552,-184843",
+    "name": "Mar Mikhael",
+    "local_name": "مار مخايل",
+    "name_en": "Mar Mikhael",
+    "all_tags": {
+      "_ref": "75",
+      "name": "مار مخايل",
+      "name:ar": "مار مخايل",
+      "name:de": "Mar Mikhael",
+      "name:en": "Mar Mikhael",
+      "name:fr": "Mar Mikhael",
+      "boundary": "administrative",
+      "way_area": "5.0856e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7080255,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3074294,-316552,-184843",
+    "name": "Khodr",
+    "local_name": "الخضر",
+    "name_en": "Khodr",
+    "all_tags": {
+      "_ref": "76",
+      "name": "الخضر",
+      "name:ar": "الخضر",
+      "name:de": "Khodr",
+      "name:en": "Khodr",
+      "name:fr": "Khodr",
+      "boundary": "administrative",
+      "way_area": "8.69019e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7080211,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3074299,-316552,-184843",
+    "name": "Qobaiyat",
+    "local_name": "القبيات",
+    "name_en": "Qobaiyat",
+    "all_tags": {
+      "_ref": "79",
+      "name": "القبيات",
+      "name:ar": "القبيات",
+      "name:de": "Qobaiyat",
+      "name:en": "Qobaiyat",
+      "name:fr": "Qobaiyat",
+      "boundary": "administrative",
+      "way_area": "1.74852e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7076199,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3074299,-316552,-184843",
+    "name": "Ej Jeitaoui",
+    "local_name": "الجعيتاوي",
+    "name_en": "Ej Jeitaoui",
+    "all_tags": {
+      "_ref": "78",
+      "name": "الجعيتاوي",
+      "name:ar": "الجعيتاوي",
+      "name:de": "Ej Jeitaoui",
+      "name:en": "Ej Jeitaoui",
+      "name:fr": "Getawi",
+      "boundary": "administrative",
+      "way_area": "2.25283e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7074994,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3074299,-316552,-184843",
+    "name": "Al Hikmat",
+    "local_name": "الحكمة",
+    "name_en": "Al Hikmat",
+    "all_tags": {
+      "_ref": "73",
+      "name": "الحكمة",
+      "name:ar": "الحكمة",
+      "name:de": "Al Hikmat",
+      "name:en": "Al Hikmat",
+      "name:fr": "Al Hikmat",
+      "boundary": "administrative",
+      "way_area": "2.0406e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7074950,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3074299,-316552,-184843",
+    "name": "Orthodox Hospital",
+    "local_name": "مستشفى الروم",
+    "name_en": "Orthodox Hospital",
+    "all_tags": {
+      "_ref": "74",
+      "name": "مستشفى الروم",
+      "name:ar": "مستشفى الروم",
+      "name:en": "Orthodox Hospital",
+      "name:fr": "Hôpital Orthodoxe",
+      "boundary": "administrative",
+      "way_area": "1.81311e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7074881,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3074290,-316552,-184843",
+    "name": "Nasrah",
+    "local_name": "الناصرة",
+    "name_en": "Nasrah",
+    "all_tags": {
+      "_ref": "62",
+      "name": "الناصرة",
+      "name:ar": "الناصرة",
+      "name:de": "Nasrah",
+      "name:en": "Nasrah",
+      "name:fr": "Nasra",
+      "boundary": "administrative",
+      "way_area": "3.24509e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7074138,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3074290,-316552,-184843",
+    "name": "Palais de Justice",
+    "local_name": "العادلية",
+    "name_en": "Palais de Justice",
+    "all_tags": {
+      "ref": "66",
+      "name": "العادلية",
+      "name:ar": "العادلية",
+      "name:en": "Palais de Justice",
+      "name:fr": "Palais de Justice",
+      "alt_name": "قشرالعدل;Al Eadliyah",
+      "boundary": "administrative",
+      "way_area": "6.19786e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7074036,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3074300,-316552,-184843",
+    "name": "Mar Maroun",
+    "local_name": "مار مرون",
+    "name_en": "Mar Maroun",
+    "all_tags": {
+      "_ref": "28",
+      "name": "مار مرون",
+      "name:ar": "مار مرون",
+      "name:de": "Mar Maroun",
+      "name:en": "Mar Maroun",
+      "name:fr": "Mar Maroun",
+      "boundary": "administrative",
+      "way_area": "1.60035e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7073578,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3074300,-316552,-184843",
+    "name": "Jumayza",
+    "local_name": "جميزة",
+    "name_en": "Jumayza",
+    "all_tags": {
+      "_ref": "29",
+      "name": "جميزة",
+      "name:ar": "جميزة",
+      "name:de": "Dschumaiza",
+      "name:en": "Jumayza",
+      "name:fr": "Gemmayzé",
+      "boundary": "administrative",
+      "way_area": "1.52488e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7073454,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3074290,-316552,-184843",
+    "name": "Furn El Hayek",
+    "local_name": "فرن الحايك",
+    "name_en": "Furn El Hayek",
+    "all_tags": {
+      "_ref": "61",
+      "name": "فرن الحايك",
+      "name:ar": "فرن الحايك",
+      "name:de": "Furn El Hayek",
+      "name:en": "Furn El Hayek",
+      "name:fr": "Furn-El-Hayek",
+      "boundary": "administrative",
+      "way_area": "2.28173e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7073404,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3074300,-316552,-184843",
+    "name": "Yesouiyeh",
+    "local_name": "اليسوعية",
+    "name_en": "Yesouiyeh",
+    "all_tags": {
+      "_ref": "27",
+      "name": "اليسوعية",
+      "name:ar": "اليسوعية",
+      "name:de": "Yesouiyeh",
+      "name:en": "Yesouiyeh",
+      "name:fr": "Yesouiyé",
+      "alt_name": "Université Saint-Joseph;Saint Joseph University",
+      "boundary": "administrative",
+      "way_area": "1.31165e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3095790,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-317257,-7231015,-184843",
+    "name": "Baalbek",
+    "local_name": "بعلبك",
+    "name_en": "Baalbek",
+    "all_tags": {
+      "name": "بعلبك",
+      "name:ar": "بعلبك",
+      "name:en": "Baalbek",
+      "name:fr": "Baalbek",
+      "boundary": "administrative",
+      "way_area": "0.00226063",
+      "wikidata": "Q178835",
+      "admin_level": "8"
+    }
+  }
+]

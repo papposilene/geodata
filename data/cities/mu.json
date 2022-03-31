@@ -1,0 +1,393 @@
+[
+  {
+    "osm_id": -13497500,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3488094,-535828",
+    "name": "Mare La Chaux",
+    "local_name": "Mare La Chaux",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mare La Chaux",
+      "boundary": "administrative",
+      "way_area": "0.000162678",
+      "admin_level": "8",
+      "postal_code": "41101;41102"
+    }
+  },
+  {
+    "osm_id": -13497498,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3488097,-535828",
+    "name": "Plaine des Papayes",
+    "local_name": "Plaine des Papayes",
+    "name_en": null,
+    "all_tags": {
+      "name": "Plaine des Papayes",
+      "boundary": "administrative",
+      "way_area": "0.000743624",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13497497,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3488097,-535828",
+    "name": "Fond du Sac",
+    "local_name": "Fond du Sac",
+    "name_en": null,
+    "all_tags": {
+      "name": "Fond du Sac",
+      "boundary": "administrative",
+      "way_area": "0.000919355",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13476475,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-535828",
+    "name": "Bambous Virieux",
+    "local_name": "Bambous Virieux",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bambous Virieux",
+      "boundary": "administrative",
+      "way_area": "0.000715533",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13476474,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3488094,-535828",
+    "name": "Poste de Flacq",
+    "local_name": "Poste de Flacq",
+    "name_en": null,
+    "all_tags": {
+      "name": "Poste de Flacq",
+      "boundary": "administrative",
+      "way_area": "9.36087e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13476473,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3488093,-535828",
+    "name": "Gros Cailloux",
+    "local_name": "Gros Cailloux",
+    "name_en": null,
+    "all_tags": {
+      "name": "Gros Cailloux",
+      "boundary": "administrative",
+      "way_area": "0.00140523",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13476472,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3488100,-535828",
+    "name": "Cottage",
+    "local_name": "Cottage",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cottage",
+      "boundary": "administrative",
+      "way_area": "0.000287179",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13476471,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3488096,-535828",
+    "name": "Moka",
+    "local_name": "Moka",
+    "name_en": null,
+    "all_tags": {
+      "name": "Moka",
+      "boundary": "administrative",
+      "way_area": "0.00125854",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13476470,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3488093,-535828",
+    "name": "Cascavelle",
+    "local_name": "Cascavelle",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cascavelle",
+      "boundary": "administrative",
+      "way_area": "0.00168598",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13476469,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3488096,-535828",
+    "name": "Dagotière",
+    "local_name": "Dagotière",
+    "name_en": null,
+    "all_tags": {
+      "name": "Dagotière",
+      "boundary": "administrative",
+      "way_area": "0.000929312",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13476468,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3488093,-535828",
+    "name": "Bambous",
+    "local_name": "Bambous",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bambous",
+      "boundary": "administrative",
+      "way_area": "0.0017688",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13476467,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3488094,-535828",
+    "name": "Bel Air Rivière Sèche",
+    "local_name": "Bel Air Rivière Sèche",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bel Air Rivière Sèche",
+      "boundary": "administrative",
+      "way_area": "0.000229574",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13476466,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3488096,-535828",
+    "name": "Quartier Militaire",
+    "local_name": "Quartier Militaire",
+    "name_en": null,
+    "all_tags": {
+      "name": "Quartier Militaire",
+      "boundary": "administrative",
+      "way_area": "6.64379e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13476465,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-535828",
+    "name": "Beau Vallon",
+    "local_name": "Beau Vallon",
+    "name_en": null,
+    "all_tags": {
+      "name": "Beau Vallon",
+      "boundary": "administrative",
+      "way_area": "0.00112607",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13476464,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3488101,-535828",
+    "name": "Chamouny",
+    "local_name": "Chamouny",
+    "name_en": null,
+    "all_tags": {
+      "name": "Chamouny",
+      "boundary": "administrative",
+      "way_area": "0.0017676",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13476463,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-535828",
+    "name": "Rivière du Rempart",
+    "local_name": "Rivière du Rempart",
+    "name_en": null,
+    "all_tags": {
+      "name": "Rivière du Rempart",
+      "boundary": "administrative",
+      "way_area": "0.00119862",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13476462,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-535828",
+    "name": "Chemin Grenier",
+    "local_name": "Chemin Grenier",
+    "name_en": null,
+    "all_tags": {
+      "name": "Chemin Grenier",
+      "boundary": "administrative",
+      "way_area": "0.000896427",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13476461,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3488096,-535828",
+    "name": "Saint Pierre",
+    "local_name": "Saint Pierre",
+    "name_en": null,
+    "all_tags": {
+      "name": "Saint Pierre",
+      "boundary": "administrative",
+      "way_area": "0.000969031",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13476450,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-535828",
+    "name": "Mapou",
+    "local_name": "Mapou",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mapou",
+      "boundary": "administrative",
+      "way_area": "2.2051e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13476449,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3488095,-535828",
+    "name": "Rose Belle",
+    "local_name": "Rose Belle",
+    "name_en": null,
+    "all_tags": {
+      "name": "Rose Belle",
+      "boundary": "administrative",
+      "way_area": "0.000222902",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13476441,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3488097,-535828",
+    "name": "Morcellement Saint-André",
+    "local_name": "Morcellement Saint-André",
+    "name_en": null,
+    "all_tags": {
+      "name": "Morcellement Saint-André",
+      "boundary": "administrative",
+      "way_area": "7.5532e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13476439,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3488096,-535828",
+    "name": "Providence",
+    "local_name": "Providence",
+    "name_en": null,
+    "all_tags": {
+      "name": "Providence",
+      "boundary": "administrative",
+      "way_area": "9.47596e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13476433,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3488101,-535828",
+    "name": "Surinam",
+    "local_name": "Surinam",
+    "name_en": null,
+    "all_tags": {
+      "name": "Surinam",
+      "boundary": "administrative",
+      "way_area": "0.000144808",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13476432,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3488101,-535828",
+    "name": "Souillac",
+    "local_name": "Souillac",
+    "name_en": null,
+    "all_tags": {
+      "name": "Souillac",
+      "boundary": "administrative",
+      "way_area": "9.79015e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13476428,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-535828",
+    "name": "Plaines des Roches",
+    "local_name": "Plaines des Roches",
+    "name_en": null,
+    "all_tags": {
+      "name": "Plaines des Roches",
+      "boundary": "administrative",
+      "way_area": "0.000584943",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8448526,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-535828",
+    "name": "Quatre Cocos",
+    "local_name": "Quatre Cocos",
+    "name_en": null,
+    "all_tags": {
+      "name": "Quatre Cocos",
+      "boundary": "administrative",
+      "way_area": "0.00140912",
+      "admin_level": "8"
+    }
+  }
+]

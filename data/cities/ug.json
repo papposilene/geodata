@@ -1,0 +1,1117 @@
+[
+  {
+    "osm_id": -8778846,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3501892,-3772011,-192796",
+    "name": "Bubukwanga",
+    "local_name": "Bubukwanga",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bubukwanga",
+      "place": "subcounty",
+      "boundary": "administrative",
+      "way_area": "0.0084841",
+      "wikidata": "Q31884040",
+      "population": "23217",
+      "admin_level": "8",
+      "is_in:district": "Bundibugyo"
+    }
+  },
+  {
+    "osm_id": -8778845,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3501892,-3772011,-192796",
+    "name": "Kisuba",
+    "local_name": "Kisuba",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kisuba",
+      "place": "subcounty",
+      "boundary": "administrative",
+      "way_area": "0.00385065",
+      "wikidata": "Q31932337",
+      "admin_level": "8",
+      "is_in:district": "Bundibugyo"
+    }
+  },
+  {
+    "osm_id": -8778832,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3501892,-3772011,-192796",
+    "name": "Busaru",
+    "local_name": "Busaru",
+    "name_en": null,
+    "all_tags": {
+      "name": "Busaru",
+      "place": "subcounty",
+      "boundary": "administrative",
+      "way_area": "0.00269761",
+      "wikidata": "Q32376481",
+      "admin_level": "8",
+      "is_in:district": "Bundibugyo"
+    }
+  },
+  {
+    "osm_id": -8778815,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3501892,-3772011,-192796",
+    "name": "Nyahuka Town Council",
+    "local_name": "Nyahuka Town Council",
+    "name_en": null,
+    "all_tags": {
+      "name": "Nyahuka Town Council",
+      "place": "subcounty",
+      "boundary": "administrative",
+      "way_area": "0.00130957",
+      "wikidata": "Q31973873",
+      "population": "16375",
+      "admin_level": "8",
+      "is_in:district": "Bundibugyo"
+    }
+  },
+  {
+    "osm_id": -8778806,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3501892,-3772011,-192796",
+    "name": "Mirambi",
+    "local_name": "Mirambi",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mirambi",
+      "place": "subcounty",
+      "boundary": "administrative",
+      "way_area": "0.00162786",
+      "population": "13163",
+      "admin_level": "8",
+      "is_in:district": "Bundibugyo"
+    }
+  },
+  {
+    "osm_id": -8778716,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3501892,-3772011,-192796",
+    "name": "Bundibugyo Town Council",
+    "local_name": "Bundibugyo Town Council",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bundibugyo Town Council",
+      "place": "subcounty",
+      "boundary": "administrative",
+      "way_area": "0.000783386",
+      "wikidata": "Q31885866",
+      "population": "18823",
+      "admin_level": "8",
+      "is_in:district": "Bundibugyo"
+    }
+  },
+  {
+    "osm_id": -8778685,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3501892,-3772011,-192796",
+    "name": "Kirumya",
+    "local_name": "Kirumya",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kirumya",
+      "place": "subcounty",
+      "boundary": "administrative",
+      "way_area": "0.00173007",
+      "wikidata": "Q31932306",
+      "population": "11044",
+      "admin_level": "8",
+      "is_in:district": "Bundibugyo"
+    }
+  },
+  {
+    "osm_id": -8778635,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3501892,-3772011,-192796",
+    "name": "Ntotoro",
+    "local_name": "Ntotoro",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ntotoro",
+      "place": "subcounty",
+      "boundary": "administrative",
+      "way_area": "0.00157878",
+      "wikidata": "Q31973235",
+      "population": "10566",
+      "admin_level": "8",
+      "is_in:district": "Bundibugyo"
+    }
+  },
+  {
+    "osm_id": -8778614,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3501892,-3772011,-192796",
+    "name": "Kasitu",
+    "local_name": "Kasitu",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kasitu",
+      "place": "subcounty",
+      "boundary": "administrative",
+      "way_area": "0.0152259",
+      "wikidata": "Q31930252",
+      "population": "20997",
+      "admin_level": "8",
+      "is_in:district": "Bundibugyo"
+    }
+  },
+  {
+    "osm_id": -8778435,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3501892,-3772011,-192796",
+    "name": "Ngamba",
+    "local_name": "Ngamba",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ngamba",
+      "place": "subcounty",
+      "boundary": "administrative",
+      "way_area": "0.00267862",
+      "wikidata": "Q56883562",
+      "population": "10667",
+      "admin_level": "8",
+      "is_in:district": "Bundibugyo"
+    }
+  },
+  {
+    "osm_id": -8778381,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3501892,-3772011,-192796",
+    "name": "Bukonzo",
+    "local_name": "Bukonzo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bukonzo",
+      "place": "subcounty",
+      "boundary": "administrative",
+      "way_area": "0.00205048",
+      "wikidata": "Q31885043",
+      "population": "10513",
+      "admin_level": "8",
+      "is_in:district": "Bundibugyo"
+    }
+  },
+  {
+    "osm_id": -8778330,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3501892,-3772011,-192796",
+    "name": "Harugale",
+    "local_name": "Harugale",
+    "name_en": null,
+    "all_tags": {
+      "name": "Harugale",
+      "place": "subcounty",
+      "boundary": "administrative",
+      "way_area": "0.00686535",
+      "wikidata": "Q31919508",
+      "population": "12772",
+      "admin_level": "8",
+      "is_in:district": "Bundibugyo"
+    }
+  },
+  {
+    "osm_id": -8778261,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3501892,-3772011,-192796",
+    "name": "Bubandi",
+    "local_name": "Bubandi",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bubandi",
+      "place": "subcounty",
+      "boundary": "administrative",
+      "way_area": "0.00187435",
+      "wikidata": "Q49461416",
+      "population": "21907",
+      "admin_level": "8",
+      "is_in:district": "Bundibugyo"
+    }
+  },
+  {
+    "osm_id": -8778165,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3501892,-3772011,-192796",
+    "name": "Ndugutu",
+    "local_name": "Ndugutu",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ndugutu",
+      "place": "subcounty",
+      "boundary": "administrative",
+      "way_area": "0.004748",
+      "wikidata": "Q56882820",
+      "population": "11410",
+      "admin_level": "8",
+      "is_in:district": "Bundibugyo"
+    }
+  },
+  {
+    "osm_id": -8778052,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3501892,-3772011,-192796",
+    "name": "Sindila",
+    "local_name": "Sindila",
+    "name_en": null,
+    "all_tags": {
+      "name": "Sindila",
+      "place": "subcounty",
+      "boundary": "administrative",
+      "way_area": "0.011143",
+      "wikidata": "Q32020734",
+      "population": "10957",
+      "admin_level": "8",
+      "is_in:district": "Bundibugyo"
+    }
+  },
+  {
+    "osm_id": -8775112,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3501793,-3771442,-192796",
+    "name": "River Oli",
+    "local_name": "River Oli",
+    "name_en": null,
+    "all_tags": {
+      "name": "River Oli",
+      "place": "subcounty",
+      "boundary": "administrative",
+      "way_area": "0.000263389",
+      "wikidata": "Q31979957",
+      "population": "43722",
+      "admin_level": "8",
+      "is_in:district": "Arua"
+    }
+  },
+  {
+    "osm_id": -8775081,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3501793,-3771442,-192796",
+    "name": "Dadamu",
+    "local_name": "Dadamu",
+    "name_en": null,
+    "all_tags": {
+      "name": "Dadamu",
+      "place": "subcounty",
+      "boundary": "administrative",
+      "way_area": "0.00278303",
+      "wikidata": "Q32404315",
+      "population": "41161",
+      "admin_level": "8",
+      "is_in:district": "Arua"
+    }
+  },
+  {
+    "osm_id": -8775080,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3501793,-3771442,-192796",
+    "name": "Arua Hill",
+    "local_name": "Arua Hill",
+    "name_en": null,
+    "all_tags": {
+      "name": "Arua Hill",
+      "place": "subcounty",
+      "boundary": "administrative",
+      "way_area": "0.000550616",
+      "wikidata": "Q31872206",
+      "population": "18935",
+      "admin_level": "8",
+      "is_in:district": "Arua"
+    }
+  },
+  {
+    "osm_id": -8775005,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3501793,-3771442,-192796",
+    "name": "Oluko",
+    "local_name": "Oluko",
+    "name_en": null,
+    "all_tags": {
+      "name": "Oluko",
+      "place": "subcounty",
+      "boundary": "administrative",
+      "way_area": "0.00766135",
+      "wikidata": "Q31980313",
+      "population": "38491",
+      "admin_level": "8",
+      "is_in:district": "Arua"
+    }
+  },
+  {
+    "osm_id": -8774986,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3501793,-3771442,-192796",
+    "name": "Ajia",
+    "local_name": "Ajia",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ajia",
+      "place": "subcounty",
+      "boundary": "administrative",
+      "way_area": "0.0277316",
+      "wikidata": "Q31867148",
+      "population": "27230",
+      "admin_level": "8",
+      "is_in:district": "Arua"
+    }
+  },
+  {
+    "osm_id": -8774974,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3501793,-3771442,-192796",
+    "name": "Uleppi",
+    "local_name": "Uleppi",
+    "name_en": null,
+    "all_tags": {
+      "name": "Uleppi",
+      "place": "subcounty",
+      "boundary": "administrative",
+      "way_area": "0.00901689",
+      "wikidata": "Q32037366",
+      "population": "8781",
+      "admin_level": "8",
+      "is_in:district": "Arua"
+    }
+  },
+  {
+    "osm_id": -8774968,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3501793,-3771442,-192796",
+    "name": "Arivu",
+    "local_name": "Arivu",
+    "name_en": null,
+    "all_tags": {
+      "name": "Arivu",
+      "place": "subcounty",
+      "boundary": "administrative",
+      "way_area": "0.0116531",
+      "wikidata": "Q32361548",
+      "population": "24295",
+      "admin_level": "8",
+      "is_in:district": "Arua"
+    }
+  },
+  {
+    "osm_id": -8774937,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3501793,-3771442,-192796",
+    "name": "Bileafe",
+    "local_name": "Bileafe",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bileafe",
+      "place": "subcounty",
+      "boundary": "administrative",
+      "way_area": "0.012552",
+      "population": "21497",
+      "admin_level": "8",
+      "is_in:district": "Arua"
+    }
+  },
+  {
+    "osm_id": -8774834,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3501793,-3771442,-192796",
+    "name": "Uriama",
+    "local_name": "Uriama",
+    "name_en": null,
+    "all_tags": {
+      "name": "Uriama",
+      "place": "subcounty",
+      "boundary": "administrative",
+      "way_area": "0.0205713",
+      "wikidata": "Q32037883",
+      "population": "25030",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8774831,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3501793,-3771442,-192796",
+    "name": "Manibe",
+    "local_name": "Manibe",
+    "name_en": null,
+    "all_tags": {
+      "name": "Manibe",
+      "place": "subcounty",
+      "boundary": "administrative",
+      "way_area": "0.00438486",
+      "wikidata": "Q49464035",
+      "population": "28938",
+      "admin_level": "8",
+      "is_in:district": "Arua"
+    }
+  },
+  {
+    "osm_id": -8774823,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3501793,-3771442,-192796",
+    "name": "Pajulu",
+    "local_name": "Pajulu",
+    "name_en": null,
+    "all_tags": {
+      "name": "Pajulu",
+      "place": "subcounty",
+      "boundary": "administrative",
+      "way_area": "0.00488325",
+      "wikidata": "Q49464606",
+      "population": "60210",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8774776,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3501793,-3771442,-192796",
+    "name": "Adumi",
+    "local_name": "Adumi",
+    "name_en": null,
+    "all_tags": {
+      "name": "Adumi",
+      "place": "subcounty",
+      "boundary": "administrative",
+      "way_area": "0.0052274",
+      "wikidata": "Q31866445",
+      "admin_level": "8",
+      "is_in:district": "Arua"
+    }
+  },
+  {
+    "osm_id": -8774756,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3501793,-3771442,-192796",
+    "name": "Ayivuni",
+    "local_name": "Ayivuni",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ayivuni",
+      "place": "subcounty",
+      "boundary": "administrative",
+      "way_area": "0.0039747",
+      "wikidata": "Q31873392",
+      "population": "22528",
+      "admin_level": "8",
+      "is_in:district": "Arua"
+    }
+  },
+  {
+    "osm_id": -8774708,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3501793,-3771442,-192796",
+    "name": "Aroi",
+    "local_name": "Aroi",
+    "name_en": null,
+    "all_tags": {
+      "name": "Aroi",
+      "place": "subcounty",
+      "boundary": "administrative",
+      "way_area": "0.00336273",
+      "wikidata": "Q31872154",
+      "population": "24241",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8774676,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3501793,-3771442,-192796",
+    "name": "Katrini",
+    "local_name": "Katrini",
+    "name_en": null,
+    "all_tags": {
+      "name": "Katrini",
+      "place": "subcounty",
+      "boundary": "administrative",
+      "way_area": "0.00588347",
+      "wikidata": "Q31930436",
+      "population": "32211",
+      "admin_level": "8",
+      "is_in:district": "Arua"
+    }
+  },
+  {
+    "osm_id": -8774640,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3501793,-3771442,-192796",
+    "name": "Aii-vu",
+    "local_name": "Aii-vu",
+    "name_en": null,
+    "all_tags": {
+      "name": "Aii-vu",
+      "place": "subcounty",
+      "boundary": "administrative",
+      "way_area": "0.00775709",
+      "wikidata": "Q32357133",
+      "population": "40378",
+      "admin_level": "8",
+      "is_in:district": "Arua"
+    }
+  },
+  {
+    "osm_id": -8774564,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3501793,-3771442,-192796",
+    "name": "Omugo",
+    "local_name": "Omugo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Omugo",
+      "place": "subcounty",
+      "boundary": "administrative",
+      "way_area": "0.0110409",
+      "wikidata": "Q31980450",
+      "population": "43479",
+      "admin_level": "8",
+      "is_in:district": "Arua"
+    }
+  },
+  {
+    "osm_id": -8774539,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3501793,-3771442,-192796",
+    "name": "Udupi",
+    "local_name": "Udupi",
+    "name_en": null,
+    "all_tags": {
+      "name": "Udupi",
+      "place": "subcounty",
+      "boundary": "administrative",
+      "way_area": "0.0328297",
+      "population": "41424",
+      "admin_level": "8",
+      "is_in:district": "Arua"
+    }
+  },
+  {
+    "osm_id": -8774336,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3501793,-3771442,-192796",
+    "name": "Rigbo",
+    "local_name": "Rigbo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Rigbo",
+      "boundary": "administrative",
+      "way_area": "0.0298243",
+      "wikidata": "Q32007967",
+      "population": "31335",
+      "admin_level": "8",
+      "is_in:district": "Arua"
+    }
+  },
+  {
+    "osm_id": -8770866,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3501793,-3771442,-192796",
+    "name": "Rhino Camp",
+    "local_name": "Rhino Camp",
+    "name_en": null,
+    "all_tags": {
+      "name": "Rhino Camp",
+      "place": "subcounty",
+      "boundary": "administrative",
+      "way_area": "0.017827",
+      "wikidata": "Q49465108",
+      "population": "23991",
+      "admin_level": "8",
+      "is_in:district": "Arua"
+    }
+  },
+  {
+    "osm_id": -8770818,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3501793,-3771442,-192796",
+    "name": "Ogoko",
+    "local_name": "Ogoko",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ogoko",
+      "place": "subcounty",
+      "boundary": "administrative",
+      "way_area": "0.0369268",
+      "wikidata": "Q49464534",
+      "population": "19007",
+      "admin_level": "8",
+      "is_in:district": "Arua"
+    }
+  },
+  {
+    "osm_id": -8770799,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3501793,-3771442,-192796",
+    "name": "Pawor",
+    "local_name": "Pawor",
+    "name_en": null,
+    "all_tags": {
+      "name": "Pawor",
+      "place": "subcounty",
+      "boundary": "administrative",
+      "way_area": "0.0105684",
+      "wikidata": "Q31985146",
+      "population": "9621",
+      "admin_level": "8",
+      "is_in:district": "Arua"
+    }
+  },
+  {
+    "osm_id": -8768528,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3501793,-3771442,-192796",
+    "name": "Okollo",
+    "local_name": "Okollo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Okollo",
+      "place": "subcounty",
+      "boundary": "administrative",
+      "way_area": "0.0381562",
+      "wikidata": "Q7082486",
+      "population": "19061",
+      "admin_level": "8",
+      "is_in:district": "Arua"
+    }
+  },
+  {
+    "osm_id": -8768512,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3501793,-3771442,-192796",
+    "name": "Anyiribu",
+    "local_name": "Anyiribu",
+    "name_en": null,
+    "all_tags": {
+      "name": "Anyiribu",
+      "place": "subcounty",
+      "boundary": "administrative",
+      "way_area": "0.00913738",
+      "wikidata": "Q56868250",
+      "population": "19061",
+      "admin_level": "8",
+      "is_in:district": "Arua"
+    }
+  },
+  {
+    "osm_id": -8768450,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3501793,-3771442,-192796",
+    "name": "Offaka",
+    "local_name": "Offaka",
+    "name_en": null,
+    "all_tags": {
+      "name": "Offaka",
+      "place": "subcounty",
+      "boundary": "administrative",
+      "way_area": "0.0142059",
+      "wikidata": "Q49464527",
+      "population": "18934",
+      "admin_level": "8",
+      "is_in:district": "Arua"
+    }
+  },
+  {
+    "osm_id": -8768437,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3501793,-3771442,-192796",
+    "name": "Vurra",
+    "local_name": "Vurra",
+    "name_en": null,
+    "all_tags": {
+      "name": "Vurra",
+      "place": "subcounty",
+      "boundary": "administrative",
+      "way_area": "0.010179",
+      "wikidata": "Q22082420",
+      "population": "44705",
+      "admin_level": "8",
+      "is_in:district": "Arua"
+    }
+  },
+  {
+    "osm_id": -8768173,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3501793,-3771442,-192796",
+    "name": "Logiri",
+    "local_name": "Logiri",
+    "name_en": null,
+    "all_tags": {
+      "name": "Logiri",
+      "place": "subcounty",
+      "boundary": "administrative",
+      "way_area": "0.0164188",
+      "wikidata": "Q31943298",
+      "population": "37410",
+      "admin_level": "8",
+      "is_in:district": "Arua"
+    }
+  },
+  {
+    "osm_id": -8346571,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3501893,-3772011,-192796",
+    "name": "Endiinzi Town board",
+    "local_name": "Endiinzi Town board",
+    "name_en": null,
+    "all_tags": {
+      "name": "Endiinzi Town board",
+      "alt_name": "Endinzi Town board",
+      "boundary": "administrative",
+      "way_area": "0.00114136",
+      "addr:county": "Bukanga",
+      "addr:region": "Western region",
+      "admin_level": "8",
+      "border_type": "parish",
+      "addr:country": "UG",
+      "addr:district": "Isingiro",
+      "admin_type:UG": "parish",
+      "addr:subcounty": "Endiizi Town Council"
+    }
+  },
+  {
+    "osm_id": -8319522,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3501893,-3772011,-192796",
+    "name": "Endiinzi",
+    "local_name": "Endiinzi",
+    "name_en": null,
+    "all_tags": {
+      "name": "Endiinzi",
+      "alt_name": "Endinzi",
+      "boundary": "administrative",
+      "way_area": "0.0328411",
+      "addr:county": "Bukanga",
+      "addr:region": "Western region",
+      "admin_level": "8",
+      "border_type": "subcounty",
+      "addr:country": "UG",
+      "addr:district": "Isingiro",
+      "admin_type:UG": "subcounty"
+    }
+  },
+  {
+    "osm_id": -8316078,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3501893,-3772011,-192796",
+    "name": "Kashumba",
+    "local_name": "Kashumba",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kashumba",
+      "boundary": "administrative",
+      "way_area": "0.0278919",
+      "admin_level": "8",
+      "border_type": "subcounty",
+      "admin_type:UG": "subcounty"
+    }
+  },
+  {
+    "osm_id": -7629090,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-10546821,-5457274,-3771649,-192796",
+    "name": "Nakawa",
+    "local_name": "Nakawa",
+    "name_en": null,
+    "all_tags": {
+      "name": "Nakawa",
+      "boundary": "administrative",
+      "way_area": "0.00423785",
+      "wikidata": "Q6960364",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7629087,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-10546821,-5457274,-3771649,-192796",
+    "name": "Kawempe",
+    "local_name": "Kawempe",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kawempe",
+      "boundary": "administrative",
+      "way_area": "0.00238347",
+      "addr:county": "Kampala Capital City",
+      "addr:region": "Central region",
+      "admin_level": "8",
+      "addr:country": "UG",
+      "admin_type:UG": "subcounty"
+    }
+  },
+  {
+    "osm_id": -7629086,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-10546821,-5457274,-3771649,-192796",
+    "name": "Rubaga",
+    "local_name": "Rubaga",
+    "name_en": null,
+    "all_tags": {
+      "name": "Rubaga",
+      "boundary": "administrative",
+      "way_area": "0.00306475",
+      "addr:county": "Kampala Capital City",
+      "addr:region": "Central region",
+      "admin_level": "8",
+      "border_type": "subcounty",
+      "addr:country": "UG",
+      "addr:district": "Kampala"
+    }
+  },
+  {
+    "osm_id": -7629069,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-10546821,-5457274,-3771649,-192796",
+    "name": "Central",
+    "local_name": "Central",
+    "name_en": null,
+    "all_tags": {
+      "name": "Central",
+      "boundary": "administrative",
+      "way_area": "0.00123928",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -7629064,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-10546821,-5457274,-3771649,-192796",
+    "name": "Makindye",
+    "local_name": "Makindye",
+    "name_en": null,
+    "all_tags": {
+      "name": "Makindye",
+      "boundary": "administrative",
+      "way_area": "0.00495936",
+      "wikidata": "Q6739550",
+      "admin_level": "8",
+      "border_type": "subcounty"
+    }
+  },
+  {
+    "osm_id": -6000883,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-5999169,-3497128,-3771442,-192796",
+    "name": "Railway",
+    "local_name": "Railway",
+    "name_en": null,
+    "all_tags": {
+      "name": "Railway",
+      "boundary": "administrative",
+      "way_area": "0.000329655",
+      "wikidata": "Q22920852",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -6000882,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-5999169,-3497128,-3771442,-192796",
+    "name": "Ojwina",
+    "local_name": "Ojwina",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ojwina",
+      "boundary": "administrative",
+      "way_area": "0.000617645",
+      "wikidata": "Q22920836",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -6000881,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-5999168,-3497128,-3771442,-192796",
+    "name": "Lira",
+    "local_name": "Lira",
+    "name_en": null,
+    "all_tags": {
+      "name": "Lira",
+      "boundary": "administrative",
+      "way_area": "0.00604269",
+      "wikidata": "Q22920869",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -6000880,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-5999169,-3497128,-3771442,-192796",
+    "name": "Central",
+    "local_name": "Central",
+    "name_en": null,
+    "all_tags": {
+      "name": "Central",
+      "boundary": "administrative",
+      "way_area": "0.000725268",
+      "wikidata": "Q22920805",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -6000879,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-5999168,-3497128,-3771442,-192796",
+    "name": "Barr",
+    "local_name": "Barr",
+    "name_en": null,
+    "all_tags": {
+      "name": "Barr",
+      "boundary": "administrative",
+      "way_area": "0.0207218",
+      "wikidata": "Q22920876",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -6000878,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-5999168,-3497128,-3771442,-192796",
+    "name": "Amach",
+    "local_name": "Amach",
+    "name_en": null,
+    "all_tags": {
+      "name": "Amach",
+      "boundary": "administrative",
+      "way_area": "0.0151737",
+      "wikidata": "Q22920874",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -6000877,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-5999168,-3497128,-3771442,-192796",
+    "name": "Agali",
+    "local_name": "Agali",
+    "name_en": null,
+    "all_tags": {
+      "name": "Agali",
+      "boundary": "administrative",
+      "way_area": "0.011735",
+      "wikidata": "Q22920875",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -6000876,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-5999169,-3497128,-3771442,-192796",
+    "name": "Adyel",
+    "local_name": "Adyel",
+    "name_en": null,
+    "all_tags": {
+      "name": "Adyel",
+      "boundary": "administrative",
+      "way_area": "0.000448285",
+      "wikidata": "Q22920845",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -6000875,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-5999168,-3497128,-3771442,-192796",
+    "name": "Adekokwok",
+    "local_name": "Adekokwok",
+    "name_en": null,
+    "all_tags": {
+      "name": "Adekokwok",
+      "boundary": "administrative",
+      "way_area": "0.00886495",
+      "wikidata": "Q22920872",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -5994235,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-5994232,-3498015,-3771649,-192796",
+    "name": "Ntuusi",
+    "local_name": "Ntuusi",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ntuusi",
+      "boundary": "administrative",
+      "way_area": "0.0377015",
+      "wikidata": "Q28162710",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -5994234,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-5994232,-3498015,-3771649,-192796",
+    "name": "Lwemiyaga",
+    "local_name": "Lwemiyaga",
+    "name_en": null,
+    "all_tags": {
+      "name": "Lwemiyaga",
+      "alt_name": "Lwemiyaga County",
+      "boundary": "administrative",
+      "way_area": "0.0271341",
+      "wikidata": "Q22670087",
+      "wikipedia": "en:Lwemiyaga County",
+      "admin_level": "8"
+    }
+  }
+]

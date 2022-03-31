@@ -1,0 +1,284 @@
+[
+  {
+    "osm_id": -13036337,
+    "boundary": "administrative",
+    "admin_level": 9,
+    "parents": "-11077982,-11077973,-2969761,-5392650,-304934",
+    "name": "شارۆچکەی خەبات",
+    "local_name": "شارۆچکەی خەبات",
+    "name_en": null,
+    "all_tags": {
+      "name": "شارۆچکەی خەبات",
+      "boundary": "administrative",
+      "way_area": "0.00114004",
+      "admin_level": "9"
+    }
+  },
+  {
+    "osm_id": -11085944,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-11085948,-3242293,-304934",
+    "name": "Second Al-Sadr Municipality",
+    "local_name": "البلدية الصدر الثاني",
+    "name_en": "Second Al-Sadr Municipality",
+    "all_tags": {
+      "name": "البلدية الصدر الثاني",
+      "place": "municipality",
+      "name:ar": "البلدية الصدر الثاني",
+      "name:en": "Second Al-Sadr Municipality",
+      "boundary": "administrative",
+      "way_area": "0.0021631",
+      "wikipedia": "ar:الصدر (بغداد)",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11085612,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3382074,-11085615,-3242293,-304934",
+    "name": "Al-Ghadir Municipality",
+    "local_name": "البلدية الغدير",
+    "name_en": "Al-Ghadir Municipality",
+    "all_tags": {
+      "name": "البلدية الغدير",
+      "place": "municipality",
+      "name:ar": "البلدية الغدير",
+      "name:en": "Al-Ghadir Municipality",
+      "boundary": "administrative",
+      "way_area": "0.00508517",
+      "wikipedia": "ar:الغدير (بغداد)",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11083935,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-11083934,-3242293,-304934",
+    "name": "Al-Sha'ab Municipality",
+    "local_name": "البلدية الشعب",
+    "name_en": "Al-Sha'ab Municipality",
+    "all_tags": {
+      "name": "البلدية الشعب",
+      "place": "municipality",
+      "name:ar": "البلدية الشعب",
+      "name:en": "Al-Sha'ab Municipality",
+      "boundary": "administrative",
+      "way_area": "0.00787106",
+      "wikipedia": "en:Sha'ab, Baghdad",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11083933,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-11083936,-2964144,-3242293,-304934",
+    "name": "Al-Adhamiyah Municipality",
+    "local_name": "قضاء الأعظمية",
+    "name_en": "Al-Adhamiyah Municipality",
+    "all_tags": {
+      "name": "قضاء الأعظمية",
+      "place": "municipality",
+      "name:ar": "قضاء الأعظمية",
+      "name:en": "Al-Adhamiyah Municipality",
+      "boundary": "administrative",
+      "way_area": "0.00263603",
+      "wikidata": "Q12233159",
+      "wikipedia": "ar:قضاء الأعظمية",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11083534,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2964807,-3382075,-3242293,-304934",
+    "name": "Al-Karkh Municipality",
+    "local_name": "البلدية الكرخ",
+    "name_en": "Al-Karkh Municipality",
+    "all_tags": {
+      "name": "البلدية الكرخ",
+      "place": "municipality",
+      "name:ar": "البلدية الكرخ",
+      "name:en": "Al-Karkh Municipality",
+      "boundary": "administrative",
+      "way_area": "0.0026527",
+      "wikipedia": "ar:الكرخ",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11083532,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2964832,-3382075,-3242293,-304934",
+    "name": "Al-Mansour Municipality",
+    "local_name": "البلدية المنصور",
+    "name_en": "Al-Mansour Municipality",
+    "all_tags": {
+      "name": "البلدية المنصور",
+      "place": "municipality",
+      "name:ar": "البلدية المنصور",
+      "name:en": "Al-Mansour Municipality",
+      "boundary": "administrative",
+      "way_area": "0.0144709",
+      "wikipedia": "ar:المنصور (بغداد)",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11083460,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-11083461,-2964709,-3242293,-304934",
+    "name": "Al-Kadhimiya Municipality",
+    "local_name": "البلدية الکاظمية",
+    "name_en": "Al-Kadhimiya Municipality",
+    "all_tags": {
+      "name": "البلدية الکاظمية",
+      "place": "municipality",
+      "name:ar": "البلدية الکاظمية",
+      "name:en": "Al-Kadhimiya Municipality",
+      "boundary": "administrative",
+      "way_area": "0.0053588",
+      "wikipedia": "ar:الكاظمية",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11083459,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-11083461,-2964709,-3242293,-304934",
+    "name": "Al-Shu'ala Municipality",
+    "local_name": "البلدية الشعلة",
+    "name_en": "Al-Shu'ala Municipality",
+    "all_tags": {
+      "name": "البلدية الشعلة",
+      "place": "municipality",
+      "name:ar": "البلدية الشعلة",
+      "name:en": "Al-Shu'ala Municipality",
+      "boundary": "administrative",
+      "way_area": "0.00581154",
+      "wikipedia": "ar:الشعلة (بغداد)",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -2964760,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-11083533,-3382075,-3242293,-304934",
+    "name": "Al-Rashid Municipality",
+    "local_name": "البلدية الرشيد",
+    "name_en": "Al-Rashid Municipality",
+    "all_tags": {
+      "name": "البلدية الرشيد",
+      "place": "municipality",
+      "name:ar": "البلدية الرشيد",
+      "name:en": "Al-Rashid Municipality",
+      "boundary": "administrative",
+      "way_area": "0.0115108",
+      "wikipedia": "ar:الرشيد (بغداد)",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -2964753,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-11083533,-3382075,-3242293,-304934",
+    "name": "Al-Dora Municipality",
+    "local_name": "البلدية الدورة",
+    "name_en": "Al-Dora Municipality",
+    "all_tags": {
+      "name": "البلدية الدورة",
+      "place": "municipality",
+      "name:ar": "البلدية الدورة",
+      "name:en": "Al-Dora Municipality",
+      "boundary": "administrative",
+      "way_area": "0.00856784",
+      "wikipedia": "ar:الدورة (بغداد)",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -2964655,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-11085614,-11085615,-3242293,-304934",
+    "name": "Al-Karrada Municipality",
+    "local_name": "البلدية الكرادة",
+    "name_en": "Al-Karrada Municipality",
+    "all_tags": {
+      "name": "البلدية الكرادة",
+      "place": "municipality",
+      "name:ar": "البلدية الكرادة",
+      "name:en": "Al-Karrada Municipality",
+      "boundary": "administrative",
+      "way_area": "0.00634329",
+      "wikipedia": "ar:الكرادة الشرقية",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -2964527,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3382074,-11085615,-3242293,-304934",
+    "name": "7 Nissan Municipality",
+    "local_name": "البلدية ٧ نیسان",
+    "name_en": "7 Nissan Municipality",
+    "all_tags": {
+      "name": "البلدية ٧ نیسان",
+      "place": "municipality",
+      "name:ar": "البلدية ٧ نیسان",
+      "name:en": "7 Nissan Municipality",
+      "boundary": "administrative",
+      "way_area": "0.00658135",
+      "wikipedia": "en:New Baghdad",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -2964479,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-11085615,-3242293,-304934",
+    "name": "Al-Rusafa Municipality",
+    "local_name": "البلدية الرصافة",
+    "name_en": "Al-Rusafa Municipality",
+    "all_tags": {
+      "name": "البلدية الرصافة",
+      "place": "municipality",
+      "name:ar": "البلدية الرصافة",
+      "name:en": "Al-Rusafa Municipality",
+      "boundary": "administrative",
+      "way_area": "0.00218136",
+      "wikipedia": "ar:الرصافة (العراق)",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -2964418,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2964419,-3242293,-304934",
+    "name": "First Al-Sadr Municipality",
+    "local_name": "البلدية الصدر الاولي",
+    "name_en": "First Al-Sadr Municipality",
+    "all_tags": {
+      "name": "البلدية الصدر الاولي",
+      "place": "municipality",
+      "name:ar": "البلدية الصدر الاولي",
+      "name:en": "First Al-Sadr Municipality",
+      "boundary": "administrative",
+      "way_area": "0.00223642",
+      "wikipedia": "ar:الصدر (بغداد)",
+      "admin_level": "8"
+    }
+  }
+]

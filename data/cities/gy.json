@@ -1,0 +1,621 @@
+[
+  {
+    "osm_id": -11274614,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-11228406,-7108944,-287083",
+    "name": "Saint Ignatius",
+    "local_name": "Saint Ignatius",
+    "name_en": null,
+    "all_tags": {
+      "name": "Saint Ignatius",
+      "boundary": "administrative",
+      "way_area": "0.00264025",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11274613,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-11228406,-7108944,-287083",
+    "name": "Culvert City",
+    "local_name": "Culvert City",
+    "name_en": null,
+    "all_tags": {
+      "name": "Culvert City",
+      "boundary": "administrative",
+      "way_area": "0.00215762",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11274582,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-11228406,-7108944,-287083",
+    "name": "Lethem Over the Creek",
+    "local_name": "Lethem Over the Creek",
+    "name_en": null,
+    "all_tags": {
+      "name": "Lethem Over the Creek",
+      "boundary": "administrative",
+      "way_area": "0.0194091",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11274559,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-11228406,-7108944,-287083",
+    "name": "Third Street",
+    "local_name": "Third Street",
+    "name_en": null,
+    "all_tags": {
+      "name": "Third Street",
+      "boundary": "administrative",
+      "way_area": "4.23681e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11274534,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-11228406,-7108944,-287083",
+    "name": "Wind Milll Rd",
+    "local_name": "Wind Milll Rd",
+    "name_en": null,
+    "all_tags": {
+      "name": "Wind Milll Rd",
+      "boundary": "administrative",
+      "way_area": "4.84937e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11274533,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-11228406,-7108944,-287083",
+    "name": "Takutu River",
+    "local_name": "Takutu River",
+    "name_en": null,
+    "all_tags": {
+      "name": "Takutu River",
+      "boundary": "administrative",
+      "way_area": "6.47179e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11274477,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-11239474,-7108866,-287083",
+    "name": "Tumering - Mongrippo (West)",
+    "local_name": "Tumering - Mongrippo (West)",
+    "name_en": null,
+    "all_tags": {
+      "name": "Tumering - Mongrippo (West)",
+      "boundary": "administrative",
+      "way_area": "0.00103819",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11274476,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-11239474,-7108866,-287083",
+    "name": "Tumering - Mongrippo (East)",
+    "local_name": "Tumering - Mongrippo (East)",
+    "name_en": null,
+    "all_tags": {
+      "name": "Tumering - Mongrippo (East)",
+      "boundary": "administrative",
+      "way_area": "0.000365309",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11274475,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-11227906,-7108866,-287083",
+    "name": "Bartica - West",
+    "local_name": "Bartica - West",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bartica - West",
+      "boundary": "administrative",
+      "way_area": "7.93267e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11274422,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-11227906,-7108866,-287083",
+    "name": "Bartica West Central - South",
+    "local_name": "Bartica West Central - South",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bartica West Central - South",
+      "boundary": "administrative",
+      "way_area": "2.0342e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11274421,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-11227906,-7108866,-287083",
+    "name": "Bartica West Central - North",
+    "local_name": "Bartica West Central - North",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bartica West Central - North",
+      "boundary": "administrative",
+      "way_area": "1.44493e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11274420,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-11227906,-7108866,-287083",
+    "name": "Bartica East Central",
+    "local_name": "Bartica East Central",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bartica East Central",
+      "boundary": "administrative",
+      "way_area": "2.82732e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11274419,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-11227906,-7108866,-287083",
+    "name": "Bartica East - South",
+    "local_name": "Bartica East - South",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bartica East - South",
+      "boundary": "administrative",
+      "way_area": "1.5966e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11274353,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-11227906,-7108866,-287083",
+    "name": "Bartica East - North",
+    "local_name": "Bartica East - North",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bartica East - North",
+      "boundary": "administrative",
+      "way_area": "2.1497e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11274333,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-11228365,-7109155,-287083",
+    "name": "Silvertown - Green Valley - Half Mile",
+    "local_name": "Silvertown - Green Valley - Half Mile",
+    "name_en": null,
+    "all_tags": {
+      "name": "Silvertown - Green Valley - Half Mile",
+      "boundary": "administrative",
+      "way_area": "0.00102871",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11274332,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-11228365,-7109155,-287083",
+    "name": "Washer Pond to Siberen",
+    "local_name": "Washer Pond to Siberen",
+    "name_en": null,
+    "all_tags": {
+      "name": "Washer Pond to Siberen",
+      "boundary": "administrative",
+      "way_area": "0.0080949",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11273961,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-11228365,-7109155,-287083",
+    "name": "Central Mackenzie",
+    "local_name": "Central Mackenzie",
+    "name_en": null,
+    "all_tags": {
+      "name": "Central Mackenzie",
+      "boundary": "administrative",
+      "way_area": "0.000110944",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11273933,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-11228365,-7109155,-287083",
+    "name": "Retrieve - Kara Kara",
+    "local_name": "Retrieve - Kara Kara",
+    "name_en": null,
+    "all_tags": {
+      "name": "Retrieve - Kara Kara",
+      "boundary": "administrative",
+      "way_area": "0.000360552",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11273872,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-11228365,-7109155,-287083",
+    "name": "Christianburg - Victory Valley - Wismar Hill",
+    "local_name": "Christianburg - Victory Valley - Wismar Hill",
+    "name_en": null,
+    "all_tags": {
+      "name": "Christianburg - Victory Valley - Wismar Hill",
+      "boundary": "administrative",
+      "way_area": "0.00042782",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11273871,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-11228365,-7109155,-287083",
+    "name": "Blue Berry Hill - One Mile North - W. Housing Scheme",
+    "local_name": "Blue Berry Hill - One Mile North - W. Housing Scheme",
+    "name_en": null,
+    "all_tags": {
+      "name": "Blue Berry Hill - One Mile North - W. Housing Scheme",
+      "boundary": "administrative",
+      "way_area": "0.00432447",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11273765,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-11228365,-7109155,-287083",
+    "name": "One Mile South",
+    "local_name": "One Mile South",
+    "name_en": null,
+    "all_tags": {
+      "name": "One Mile South",
+      "boundary": "administrative",
+      "way_area": "0.00175045",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11273368,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-11218359,-7109048,-287083",
+    "name": "Smythstown - Pope St to Vryheid St",
+    "local_name": "Smythstown - Pope St to Vryheid St",
+    "name_en": null,
+    "all_tags": {
+      "name": "Smythstown - Pope St to Vryheid St",
+      "boundary": "administrative",
+      "way_area": "4.66742e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11273367,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-11218359,-7109048,-287083",
+    "name": "Stanleytown - 37/43",
+    "local_name": "Stanleytown - 37/43",
+    "name_en": null,
+    "all_tags": {
+      "name": "Stanleytown - 37/43",
+      "boundary": "administrative",
+      "way_area": "5.127e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11273356,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-11218359,-7109048,-287083",
+    "name": "Overwinning - Glassgow",
+    "local_name": "Overwinning - Glassgow",
+    "name_en": null,
+    "all_tags": {
+      "name": "Overwinning - Glassgow",
+      "boundary": "administrative",
+      "way_area": "0.000696447",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11273313,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-11218359,-7109048,-287083",
+    "name": "Mount Sinai Central and North",
+    "local_name": "Mount Sinai Central and North",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mount Sinai Central and North",
+      "boundary": "administrative",
+      "way_area": "8.42913e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11273312,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-11218359,-7109048,-287083",
+    "name": "Queenstown - Fort Ordance - Smythfield",
+    "local_name": "Queenstown - Fort Ordance - Smythfield",
+    "name_en": null,
+    "all_tags": {
+      "name": "Queenstown - Fort Ordance - Smythfield",
+      "boundary": "administrative",
+      "way_area": "0.000156039",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11262923,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-11222568,-7105874,-287083",
+    "name": "Bush Lot - Three Friends District",
+    "local_name": "Bush Lot - Three Friends District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bush Lot - Three Friends District",
+      "boundary": "administrative",
+      "way_area": "0.000990336",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11262911,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-11222568,-7105874,-287083",
+    "name": "Anna Regina - Cotton Field District",
+    "local_name": "Anna Regina - Cotton Field District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Anna Regina - Cotton Field District",
+      "boundary": "administrative",
+      "way_area": "0.000824067",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11262910,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-11222568,-7105874,-287083",
+    "name": "Henrietta District",
+    "local_name": "Henrietta District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Henrietta District",
+      "boundary": "administrative",
+      "way_area": "0.000219485",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11262758,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-11222568,-7105874,-287083",
+    "name": "La Belle Alliance - Richmond District",
+    "local_name": "La Belle Alliance - Richmond District",
+    "name_en": null,
+    "all_tags": {
+      "name": "La Belle Alliance - Richmond District",
+      "boundary": "administrative",
+      "way_area": "0.000830337",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11262737,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-11222568,-7105874,-287083",
+    "name": "Lima District",
+    "local_name": "Lima District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Lima District",
+      "boundary": "administrative",
+      "way_area": "0.000490414",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11262719,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-11222568,-7105874,-287083",
+    "name": "Sparta Fearnot - Coffee Grove District",
+    "local_name": "Sparta Fearnot - Coffee Grove District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Sparta Fearnot - Coffee Grove District",
+      "boundary": "administrative",
+      "way_area": "0.0010498",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11262716,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-11222568,-7105874,-287083",
+    "name": "Hampton Court - Windsor Castle District",
+    "local_name": "Hampton Court - Windsor Castle District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Hampton Court - Windsor Castle District",
+      "boundary": "administrative",
+      "way_area": "0.00101293",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11262667,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-11222568,-7105874,-287083",
+    "name": "Walton Hall - Devonshire Castle District",
+    "local_name": "Walton Hall - Devonshire Castle District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Walton Hall - Devonshire Castle District",
+      "boundary": "administrative",
+      "way_area": "0.00102749",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11262648,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-11215234,-7105826,-287083",
+    "name": "Thomas Hill - Smith Creek District",
+    "local_name": "Thomas Hill - Smith Creek District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Thomas Hill - Smith Creek District",
+      "boundary": "administrative",
+      "way_area": "0.0022383",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11262641,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-11215234,-7105826,-287083",
+    "name": "Mabaruma Settlement - Barimanobo District",
+    "local_name": "Mabaruma Settlement - Barimanobo District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mabaruma Settlement - Barimanobo District",
+      "boundary": "administrative",
+      "way_area": "0.00159137",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11262637,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-11215234,-7105826,-287083",
+    "name": "Mabaruma Township - Mabaruma Compound - Broomes Estat District",
+    "local_name": "Mabaruma Township - Mabaruma Compound - Broomes Estat District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mabaruma Township - Mabaruma Compound - Broomes Estat District",
+      "boundary": "administrative",
+      "way_area": "0.000771429",
+      "wikidata": "Q597458",
+      "wikipedia": "en:Mabaruma",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11262619,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-11215234,-7105826,-287083",
+    "name": "Kumaka District",
+    "local_name": "Kumaka District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kumaka District",
+      "boundary": "administrative",
+      "way_area": "0.000464358",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11262618,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-11215234,-7105826,-287083",
+    "name": "Barabina - Koberino Hill District",
+    "local_name": "Barabina - Koberino Hill District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Barabina - Koberino Hill District",
+      "boundary": "administrative",
+      "way_area": "0.00188342",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11262608,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-11215234,-7105826,-287083",
+    "name": "Hosororo Hill District",
+    "local_name": "Hosororo Hill District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Hosororo Hill District",
+      "boundary": "administrative",
+      "way_area": "0.00261483",
+      "wikidata": "Q1630407",
+      "wikipedia": "en:Hosororo",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11210397,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-7105917,-287083",
+    "name": "City of Georgetown",
+    "local_name": "City of Georgetown",
+    "name_en": null,
+    "all_tags": {
+      "name": "City of Georgetown",
+      "boundary": "administrative",
+      "way_area": "0.00303831",
+      "admin_level": "8"
+    }
+  }
+]

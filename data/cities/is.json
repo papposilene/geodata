@@ -1,0 +1,280 @@
+[
+  {
+    "osm_id": -10327006,
+    "boundary": "administrative",
+    "admin_level": 9,
+    "parents": "-2580605,-3881596,-299133",
+    "name": "Kjalarnes",
+    "local_name": "Kjalarnes",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kjalarnes",
+      "boundary": "administrative",
+      "way_area": "0.0267076",
+      "wikipedia": "is:Kjalarnes (hverfi)",
+      "admin_level": "9"
+    }
+  },
+  {
+    "osm_id": -10298641,
+    "boundary": "administrative",
+    "admin_level": 9,
+    "parents": "-2580605,-3881596,-299133",
+    "name": "Miðborg",
+    "local_name": "Miðborg",
+    "name_en": null,
+    "all_tags": {
+      "name": "Miðborg",
+      "place": "suburb",
+      "boundary": "administrative",
+      "way_area": "0.000725337",
+      "admin_level": "9"
+    }
+  },
+  {
+    "osm_id": -10298550,
+    "boundary": "administrative",
+    "admin_level": 9,
+    "parents": "-2580605,-3881596,-299133",
+    "name": "Háaleiti og Bústaðir",
+    "local_name": "Háaleiti og Bústaðir",
+    "name_en": null,
+    "all_tags": {
+      "name": "Háaleiti og Bústaðir",
+      "place": "suburb",
+      "boundary": "administrative",
+      "way_area": "0.000827403",
+      "wikidata": "Q5962968",
+      "wikipedia": "is:Háaleiti og Bústaðir",
+      "admin_level": "9"
+    }
+  },
+  {
+    "osm_id": -10281805,
+    "boundary": "administrative",
+    "admin_level": 9,
+    "parents": "-2580605,-3881596,-299133",
+    "name": "Grafarholt og Úlfarsárdalur",
+    "local_name": "Grafarholt og Úlfarsárdalur",
+    "name_en": null,
+    "all_tags": {
+      "name": "Grafarholt og Úlfarsárdalur",
+      "place": "suburb",
+      "boundary": "administrative",
+      "way_area": "0.00420074",
+      "wikidata": "Q5592443",
+      "wikipedia": "is:Grafarholt og Úlfarsárdalur",
+      "admin_level": "9",
+      "addr:postcode": "113"
+    }
+  },
+  {
+    "osm_id": -8813817,
+    "boundary": "administrative",
+    "admin_level": 9,
+    "parents": "-2580603,-3881596,-299133",
+    "name": "Kársnes",
+    "local_name": "Kársnes",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kársnes",
+      "place": "suburb",
+      "boundary": "administrative",
+      "way_area": "0.000359616",
+      "wikidata": "Q16419539",
+      "wikipedia": "is:Kársnes",
+      "admin_level": "9"
+    }
+  },
+  {
+    "osm_id": -8813816,
+    "boundary": "administrative",
+    "admin_level": 9,
+    "parents": "-2580603,-3881596,-299133",
+    "name": "Digranes",
+    "local_name": "Digranes",
+    "name_en": null,
+    "all_tags": {
+      "name": "Digranes",
+      "place": "suburb",
+      "boundary": "administrative",
+      "way_area": "0.000619586",
+      "admin_level": "9"
+    }
+  },
+  {
+    "osm_id": -8813815,
+    "boundary": "administrative",
+    "admin_level": 9,
+    "parents": "-2580603,-3881596,-299133",
+    "name": "Smárinn",
+    "local_name": "Smárinn",
+    "name_en": null,
+    "all_tags": {
+      "name": "Smárinn",
+      "place": "suburb",
+      "alt_name": "Smárar",
+      "boundary": "administrative",
+      "way_area": "0.000284918",
+      "admin_level": "9"
+    }
+  },
+  {
+    "osm_id": -8813814,
+    "boundary": "administrative",
+    "admin_level": 9,
+    "parents": "-2580603,-3881596,-299133",
+    "name": "Fífuhvammur",
+    "local_name": "Fífuhvammur",
+    "name_en": null,
+    "all_tags": {
+      "name": "Fífuhvammur",
+      "place": "suburb",
+      "boundary": "administrative",
+      "way_area": "0.00040715",
+      "admin_level": "9"
+    }
+  },
+  {
+    "osm_id": -8813813,
+    "boundary": "administrative",
+    "admin_level": 9,
+    "parents": "-2580603,-3881596,-299133",
+    "name": "Vatnsendi",
+    "local_name": "Vatnsendi",
+    "name_en": null,
+    "all_tags": {
+      "name": "Vatnsendi",
+      "place": "suburb",
+      "boundary": "administrative",
+      "way_area": "0.00145514",
+      "admin_level": "9"
+    }
+  },
+  {
+    "osm_id": -3881540,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2556726,-3881596,-299133",
+    "name": "Álftanes",
+    "local_name": "Álftanes",
+    "name_en": null,
+    "all_tags": {
+      "name": "Álftanes",
+      "boundary": "administrative",
+      "way_area": "0.000938464",
+      "wikidata": "Q1798529",
+      "admin_level": "8",
+      "addr:postcode": "225"
+    }
+  },
+  {
+    "osm_id": -2584678,
+    "boundary": "administrative",
+    "admin_level": 9,
+    "parents": "-2849241,-299133",
+    "name": "Árbær",
+    "local_name": "Árbær",
+    "name_en": null,
+    "all_tags": {
+      "name": "Árbær",
+      "place": "suburb",
+      "boundary": "administrative",
+      "way_area": "0.00545239",
+      "wikidata": "Q252191",
+      "wikipedia": "is:Árbær",
+      "admin_level": "9"
+    }
+  },
+  {
+    "osm_id": -2584677,
+    "boundary": "administrative",
+    "admin_level": 9,
+    "parents": "-2580605,-3881596,-299133",
+    "name": "Vesturbær",
+    "local_name": "Vesturbær",
+    "name_en": null,
+    "all_tags": {
+      "name": "Vesturbær",
+      "place": "suburb",
+      "boundary": "administrative",
+      "way_area": "0.000573106",
+      "wikidata": "Q195599",
+      "wikipedia": "is:Vesturbær Reykjavíkur",
+      "admin_level": "9"
+    }
+  },
+  {
+    "osm_id": -2584676,
+    "boundary": "administrative",
+    "admin_level": 9,
+    "parents": "-2849240,-299133",
+    "name": "Laugardalur",
+    "local_name": "Laugardalur",
+    "name_en": null,
+    "all_tags": {
+      "name": "Laugardalur",
+      "place": "suburb",
+      "boundary": "administrative",
+      "way_area": "0.00126656",
+      "wikidata": "Q6497990",
+      "wikipedia": "is:Laugardalur (hverfi)",
+      "admin_level": "9"
+    }
+  },
+  {
+    "osm_id": -2584675,
+    "boundary": "administrative",
+    "admin_level": 9,
+    "parents": "-2580605,-3881596,-299133",
+    "name": "Hlíðar",
+    "local_name": "Hlíðar",
+    "name_en": null,
+    "all_tags": {
+      "name": "Hlíðar",
+      "place": "suburb",
+      "boundary": "administrative",
+      "way_area": "0.000597137",
+      "wikidata": "Q5873595",
+      "wikipedia": "is:Hlíðar",
+      "admin_level": "9"
+    }
+  },
+  {
+    "osm_id": -2584674,
+    "boundary": "administrative",
+    "admin_level": 9,
+    "parents": "-2849240,-299133",
+    "name": "Grafarvogur",
+    "local_name": "Grafarvogur",
+    "name_en": null,
+    "all_tags": {
+      "name": "Grafarvogur",
+      "place": "suburb",
+      "boundary": "administrative",
+      "way_area": "0.00262512",
+      "wikidata": "Q3481200",
+      "wikipedia": "is:Grafarvogur",
+      "admin_level": "9",
+      "addr:postcode": "112"
+    }
+  },
+  {
+    "osm_id": -2584673,
+    "boundary": "administrative",
+    "admin_level": 9,
+    "parents": "-2849241,-299133",
+    "name": "Breiðholt",
+    "local_name": "Breiðholt",
+    "name_en": null,
+    "all_tags": {
+      "name": "Breiðholt",
+      "place": "suburb",
+      "boundary": "administrative",
+      "way_area": "0.00107462",
+      "wikidata": "Q4960471",
+      "wikipedia": "is:Breiðholt",
+      "admin_level": "9"
+    }
+  }
+]

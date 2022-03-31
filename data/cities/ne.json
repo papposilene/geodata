@@ -1,0 +1,47 @@
+[
+  {
+    "osm_id": -11221526,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-8849468,-3218804,-192786",
+    "name": "Boukoki 1",
+    "local_name": "Boukoki 1",
+    "name_en": null,
+    "all_tags": {
+      "name": "Boukoki 1",
+      "boundary": "administrative",
+      "way_area": "6.73138e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11221525,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-8849468,-3218804,-192786",
+    "name": "Boukoki 4",
+    "local_name": "Boukoki 4",
+    "name_en": null,
+    "all_tags": {
+      "name": "Boukoki 4",
+      "boundary": "administrative",
+      "way_area": "6.94254e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11221521,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-8849468,-3218804,-192786",
+    "name": "Boukoki 2",
+    "local_name": "Boukoki 2",
+    "name_en": null,
+    "all_tags": {
+      "name": "Boukoki 2",
+      "boundary": "administrative",
+      "way_area": "3.89766e-05",
+      "admin_level": "8"
+    }
+  }
+]

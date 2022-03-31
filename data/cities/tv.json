@@ -1,0 +1,142 @@
+[
+  {
+    "osm_id": -3766670,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2177266",
+    "name": "Nukulaelae",
+    "local_name": "Nukulaelae",
+    "name_en": null,
+    "all_tags": {
+      "name": "Nukulaelae",
+      "boundary": "administrative",
+      "way_area": "0.376506",
+      "wikidata": "Q128654",
+      "ISO3166-2": "TV-NKL",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3766660,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2177266",
+    "name": "Funafuti",
+    "local_name": "Funafuti",
+    "name_en": "Funafuti",
+    "all_tags": {
+      "name": "Funafuti",
+      "name:en": "Funafuti",
+      "name:ru": "Фунафути",
+      "name:ta": "ஃபுனஃபூட்டி",
+      "boundary": "administrative",
+      "way_area": "0.592446",
+      "wikidata": "Q34126",
+      "ISO3166-2": "TV-FUN",
+      "wikipedia": "en:Funafuti",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3766655,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2177266",
+    "name": "Nukufetau",
+    "local_name": "Nukufetau",
+    "name_en": null,
+    "all_tags": {
+      "name": "Nukufetau",
+      "boundary": "administrative",
+      "way_area": "0.364775",
+      "wikidata": "Q745924",
+      "ISO3166-2": "TV-NKF",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3766625,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2177266",
+    "name": "Vaitupu",
+    "local_name": "Vaitupu",
+    "name_en": null,
+    "all_tags": {
+      "name": "Vaitupu",
+      "boundary": "administrative",
+      "way_area": "0.152536",
+      "wikidata": "Q632495",
+      "ISO3166-2": "TV-VAI",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3766617,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2177266",
+    "name": "Nui",
+    "local_name": "Nui",
+    "name_en": null,
+    "all_tags": {
+      "name": "Nui",
+      "boundary": "administrative",
+      "way_area": "0.163581",
+      "wikidata": "Q547997",
+      "ISO3166-2": "TV-NUI",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3766586,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2177266",
+    "name": "Niutao",
+    "local_name": "Niutao",
+    "name_en": null,
+    "all_tags": {
+      "name": "Niutao",
+      "boundary": "administrative",
+      "way_area": "0.274172",
+      "wikidata": "Q17578833",
+      "ISO3166-2": "TV-NIT",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3766584,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2177266",
+    "name": "Nanumea",
+    "local_name": "Nanumea",
+    "name_en": null,
+    "all_tags": {
+      "name": "Nanumea",
+      "boundary": "administrative",
+      "way_area": "0.178028",
+      "wikidata": "Q174618",
+      "ISO3166-2": "TV-NMA",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -3766583,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2177266",
+    "name": "Nanumanga",
+    "local_name": "Nanumanga",
+    "name_en": null,
+    "all_tags": {
+      "name": "Nanumanga",
+      "boundary": "administrative",
+      "way_area": "0.142527",
+      "wikidata": "Q367027",
+      "ISO3166-2": "TV-NMG",
+      "admin_level": "8"
+    }
+  }
+]

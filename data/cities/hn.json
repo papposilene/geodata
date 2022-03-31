@@ -1,0 +1,654 @@
+[
+  {
+    "osm_id": -12433130,
+    "boundary": "administrative",
+    "admin_level": 9,
+    "parents": "-4627387,-12113927,-287670",
+    "name": "Ejido Minas de San Antonio",
+    "local_name": "Ejido Minas de San Antonio",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ejido Minas de San Antonio",
+      "boundary": "administrative",
+      "way_area": "0.00288655",
+      "admin_level": "9"
+    }
+  },
+  {
+    "osm_id": -12433129,
+    "boundary": "administrative",
+    "admin_level": 9,
+    "parents": "-12030412,-4627387,-12113927,-287670",
+    "name": "Sitio Privado Jagua y Zompopero",
+    "local_name": "Sitio Privado Jagua y Zompopero",
+    "name_en": null,
+    "all_tags": {
+      "name": "Sitio Privado Jagua y Zompopero",
+      "boundary": "administrative",
+      "way_area": "0.000315487",
+      "admin_level": "9"
+    }
+  },
+  {
+    "osm_id": -12321839,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-12030415,-12113927,-287670",
+    "name": "Caserio El Chaguite",
+    "local_name": "Caserio El Chaguite",
+    "name_en": null,
+    "all_tags": {
+      "name": "Caserio El Chaguite",
+      "boundary": "administrative",
+      "way_area": "0.00018552",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -12321837,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-12030415,-12113927,-287670",
+    "name": "Caserio El Higuerito",
+    "local_name": "Caserio El Higuerito",
+    "name_en": null,
+    "all_tags": {
+      "name": "Caserio El Higuerito",
+      "boundary": "administrative",
+      "way_area": "0.000324402",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -12321836,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-12030415,-12113927,-287670",
+    "name": "Caserio Iran",
+    "local_name": "Caserio Iran",
+    "name_en": null,
+    "all_tags": {
+      "name": "Caserio Iran",
+      "boundary": "administrative",
+      "way_area": "0.000929137",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -12317112,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-12030416,-12113927,-287670",
+    "name": "Caserio Corralitos",
+    "local_name": "Caserio Corralitos",
+    "name_en": null,
+    "all_tags": {
+      "name": "Caserio Corralitos",
+      "boundary": "administrative",
+      "way_area": "0.000240559",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -12317089,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-12030416,-12113927,-287670",
+    "name": "Caserio La Chacara",
+    "local_name": "Caserio La Chacara",
+    "name_en": null,
+    "all_tags": {
+      "name": "Caserio La Chacara",
+      "boundary": "administrative",
+      "way_area": "7.39043e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -12317086,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-4627387,-12113927,-287670",
+    "name": "Caserio San francisco de La Pena",
+    "local_name": "Caserio San francisco de La Pena",
+    "name_en": null,
+    "all_tags": {
+      "name": "Caserio San francisco de La Pena",
+      "boundary": "administrative",
+      "way_area": "0.000514405",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -12317085,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-4627387,-12113927,-287670",
+    "name": "Caserio Finca Vieja",
+    "local_name": "Caserio Finca Vieja",
+    "name_en": null,
+    "all_tags": {
+      "name": "Caserio Finca Vieja",
+      "boundary": "administrative",
+      "way_area": "0.000201762",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -12217873,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-4627387,-12113927,-287670",
+    "name": "Barrio El Cerrito",
+    "local_name": "Barrio El Cerrito",
+    "name_en": null,
+    "all_tags": {
+      "name": "Barrio El Cerrito",
+      "boundary": "administrative",
+      "way_area": "5.4287e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -12174917,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-4627387,-12113927,-287670",
+    "name": "Barrio El Centro",
+    "local_name": "Barrio El Centro",
+    "name_en": null,
+    "all_tags": {
+      "name": "Barrio El Centro",
+      "boundary": "administrative",
+      "way_area": "7.77016e-06",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -12160619,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-4627387,-12113927,-287670",
+    "name": "Barrio Loma de la Cruz",
+    "local_name": "Barrio Loma de la Cruz",
+    "name_en": null,
+    "all_tags": {
+      "name": "Barrio Loma de la Cruz",
+      "boundary": "administrative",
+      "way_area": "4.07167e-06",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -12160457,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-4627387,-12113927,-287670",
+    "name": "Barrio Suyapa",
+    "local_name": "Barrio Suyapa",
+    "name_en": null,
+    "all_tags": {
+      "name": "Barrio Suyapa",
+      "boundary": "administrative",
+      "way_area": "4.12879e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -12160454,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-4627387,-12113927,-287670",
+    "name": "Barrio La Manzana",
+    "local_name": "Barrio La Manzana",
+    "name_en": null,
+    "all_tags": {
+      "name": "Barrio La Manzana",
+      "boundary": "administrative",
+      "way_area": "9.16346e-06",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -12030414,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-4627387,-12113927,-287670",
+    "name": "Aldea San Isidro de Mal Paso",
+    "local_name": "Aldea San Isidro de Mal Paso",
+    "name_en": null,
+    "all_tags": {
+      "name": "Aldea San Isidro de Mal Paso",
+      "boundary": "administrative",
+      "way_area": "0.0018492",
+      "admin_level": "8",
+      "border_type": "localidade",
+      "description": "Zona 1"
+    }
+  },
+  {
+    "osm_id": -12030413,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-4627387,-12113927,-287670",
+    "name": "Cabecera Municipal Minas de Oro",
+    "local_name": "Cabecera Municipal Minas de Oro",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cabecera Municipal Minas de Oro",
+      "boundary": "administrative",
+      "way_area": "0.0030425",
+      "admin_level": "8",
+      "description": "Zona 1"
+    }
+  },
+  {
+    "osm_id": -12030412,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-4627387,-12113927,-287670",
+    "name": "Aldea El Zompopero",
+    "local_name": "Aldea El Zompopero",
+    "name_en": null,
+    "all_tags": {
+      "name": "Aldea El Zompopero",
+      "boundary": "administrative",
+      "way_area": "0.00276652",
+      "admin_level": "8",
+      "description": "Zona 1"
+    }
+  },
+  {
+    "osm_id": -12030411,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-4627387,-12113927,-287670",
+    "name": "Aldea La Hoya de la Puerta",
+    "local_name": "Aldea La Hoya de la Puerta",
+    "name_en": null,
+    "all_tags": {
+      "name": "Aldea La Hoya de la Puerta",
+      "boundary": "administrative",
+      "way_area": "0.004791",
+      "admin_level": "8",
+      "description": "Zona 2"
+    }
+  },
+  {
+    "osm_id": -12030410,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-4627387,-12113927,-287670",
+    "name": "Aldea El Socorro",
+    "local_name": "Aldea El Socorro",
+    "name_en": null,
+    "all_tags": {
+      "name": "Aldea El Socorro",
+      "boundary": "administrative",
+      "way_area": "0.000899751",
+      "admin_level": "8",
+      "description": "Zona 2"
+    }
+  },
+  {
+    "osm_id": -12030341,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-4627387,-12113927,-287670",
+    "name": "Aldea Pimientilla",
+    "local_name": "Aldea Pimientilla",
+    "name_en": null,
+    "all_tags": {
+      "name": "Aldea Pimientilla",
+      "boundary": "administrative",
+      "way_area": "0.00641307",
+      "admin_level": "8",
+      "description": "Zona 2"
+    }
+  },
+  {
+    "osm_id": -12030340,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-4627387,-12113927,-287670",
+    "name": "Aldea Agua Blanca",
+    "local_name": "Aldea Agua Blanca",
+    "name_en": null,
+    "all_tags": {
+      "name": "Aldea Agua Blanca",
+      "boundary": "administrative",
+      "way_area": "0.00768746",
+      "admin_level": "8",
+      "description": "Zona 1"
+    }
+  },
+  {
+    "osm_id": -2993199,
+    "boundary": "administrative",
+    "admin_level": 9,
+    "parents": "-3850824,-4627390,-287670",
+    "name": "La Trinidad",
+    "local_name": "La Trinidad",
+    "name_en": null,
+    "all_tags": {
+      "name": "La Trinidad",
+      "alt_name": "Colonia La Trinidad",
+      "boundary": "administrative",
+      "way_area": "1.5379e-05",
+      "land_area": "administrative",
+      "admin_level": "9"
+    }
+  },
+  {
+    "osm_id": -2993192,
+    "boundary": "administrative",
+    "admin_level": 9,
+    "parents": "-3850824,-4627390,-287670",
+    "name": "Agua Blanca",
+    "local_name": "Agua Blanca",
+    "name_en": null,
+    "all_tags": {
+      "name": "Agua Blanca",
+      "boundary": "administrative",
+      "way_area": "2.58538e-05",
+      "land_area": "administrative",
+      "admin_level": "9"
+    }
+  },
+  {
+    "osm_id": -2993190,
+    "boundary": "administrative",
+    "admin_level": 9,
+    "parents": "-4627390,-287670",
+    "name": "San Juan del Rancho",
+    "local_name": "San Juan del Rancho",
+    "name_en": null,
+    "all_tags": {
+      "name": "San Juan del Rancho",
+      "boundary": "administrative",
+      "way_area": "0.000747987",
+      "land_area": "administrative",
+      "admin_level": "9"
+    }
+  },
+  {
+    "osm_id": -2993189,
+    "boundary": "administrative",
+    "admin_level": 9,
+    "parents": "-11734396,-4627390,-287670",
+    "name": "Las Tablas/Agua Blanca",
+    "local_name": "Las Tablas/Agua Blanca",
+    "name_en": null,
+    "all_tags": {
+      "name": "Las Tablas/Agua Blanca",
+      "boundary": "administrative",
+      "way_area": "4.39904e-05",
+      "land_area": "administrative",
+      "admin_level": "9"
+    }
+  },
+  {
+    "osm_id": -2993188,
+    "boundary": "administrative",
+    "admin_level": 9,
+    "parents": "-11734396,-4627390,-287670",
+    "name": "Las Nubes/Agua Blanca",
+    "local_name": "Las Nubes/Agua Blanca",
+    "name_en": null,
+    "all_tags": {
+      "name": "Las Nubes/Agua Blanca",
+      "boundary": "administrative",
+      "way_area": "6.49927e-05",
+      "land_area": "administrative",
+      "admin_level": "9"
+    }
+  },
+  {
+    "osm_id": -2993187,
+    "boundary": "administrative",
+    "admin_level": 9,
+    "parents": "-3850824,-4627390,-287670",
+    "name": "La Era",
+    "local_name": "La Era",
+    "name_en": null,
+    "all_tags": {
+      "name": "La Era",
+      "alt_name": "Colonia La Era",
+      "boundary": "administrative",
+      "way_area": "0.000102493",
+      "land_area": "administrative",
+      "admin_level": "9"
+    }
+  },
+  {
+    "osm_id": -2993186,
+    "boundary": "administrative",
+    "admin_level": 9,
+    "parents": "-4627390,-287670",
+    "name": "El Eden",
+    "local_name": "El Eden",
+    "name_en": null,
+    "all_tags": {
+      "name": "El Eden",
+      "boundary": "administrative",
+      "way_area": "9.32163e-05",
+      "land_area": "administrative",
+      "admin_level": "9"
+    }
+  },
+  {
+    "osm_id": -2993182,
+    "boundary": "administrative",
+    "admin_level": 9,
+    "parents": "-3850824,-4627390,-287670",
+    "name": "Buenos Aires",
+    "local_name": "Buenos Aires",
+    "name_en": null,
+    "all_tags": {
+      "name": "Buenos Aires",
+      "alt_name": "Colonia Buenos Aires",
+      "boundary": "administrative",
+      "way_area": "1.27214e-05",
+      "land_area": "administrative",
+      "admin_level": "9"
+    }
+  },
+  {
+    "osm_id": -2993181,
+    "boundary": "administrative",
+    "admin_level": 9,
+    "parents": "-3850824,-4627390,-287670",
+    "name": "Altos de la Travesia",
+    "local_name": "Altos de la Travesia",
+    "name_en": null,
+    "all_tags": {
+      "name": "Altos de la Travesia",
+      "alt_name": "Colonia Altos de la Travesia",
+      "boundary": "administrative",
+      "way_area": "7.29221e-06",
+      "land_area": "administrative",
+      "admin_level": "9"
+    }
+  },
+  {
+    "osm_id": -2993177,
+    "boundary": "administrative",
+    "admin_level": 9,
+    "parents": "-3850824,-4627390,-287670",
+    "name": "La Aurora",
+    "local_name": "La Aurora",
+    "name_en": null,
+    "all_tags": {
+      "name": "La Aurora",
+      "alt_name": "Colonia La Aurora",
+      "boundary": "administrative",
+      "way_area": "4.23712e-06",
+      "land_area": "administrative",
+      "admin_level": "9"
+    }
+  },
+  {
+    "osm_id": -2993176,
+    "boundary": "administrative",
+    "admin_level": 9,
+    "parents": "-3850824,-4627390,-287670",
+    "name": "30 de Noviembre",
+    "local_name": "30 de Noviembre",
+    "name_en": null,
+    "all_tags": {
+      "name": "30 de Noviembre",
+      "alt_name": "Colonia 30 de Noviembre",
+      "boundary": "administrative",
+      "way_area": "1.25858e-05",
+      "land_area": "administrative",
+      "admin_level": "9"
+    }
+  },
+  {
+    "osm_id": -2993171,
+    "boundary": "administrative",
+    "admin_level": 9,
+    "parents": "-3850824,-4627390,-287670",
+    "name": "Altos de la Sosa",
+    "local_name": "Altos de la Sosa",
+    "name_en": null,
+    "all_tags": {
+      "name": "Altos de la Sosa",
+      "alt_name": "Colonia Altos de la Sosa",
+      "boundary": "administrative",
+      "way_area": "1.09612e-05",
+      "land_area": "administrative",
+      "admin_level": "9"
+    }
+  },
+  {
+    "osm_id": -2993170,
+    "boundary": "administrative",
+    "admin_level": 9,
+    "parents": "-3850824,-4627390,-287670",
+    "name": "La Travesia",
+    "local_name": "La Travesia",
+    "name_en": null,
+    "all_tags": {
+      "name": "La Travesia",
+      "alt_name": "Colonia La Travesia",
+      "boundary": "administrative",
+      "way_area": "2.50062e-05",
+      "land_area": "administrative",
+      "admin_level": "9"
+    }
+  },
+  {
+    "osm_id": -2993167,
+    "boundary": "administrative",
+    "admin_level": 9,
+    "parents": "-3850824,-4627390,-287670",
+    "name": "Ojo de Agua/Quebrachitos",
+    "local_name": "Ojo de Agua/Quebrachitos",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ojo de Agua/Quebrachitos",
+      "boundary": "administrative",
+      "way_area": "3.43522e-05",
+      "land_area": "administrative",
+      "admin_level": "9"
+    }
+  },
+  {
+    "osm_id": -2993162,
+    "boundary": "administrative",
+    "admin_level": 9,
+    "parents": "-3850824,-4627390,-287670",
+    "name": "Mololoa",
+    "local_name": "Mololoa",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mololoa",
+      "boundary": "administrative",
+      "way_area": "2.60931e-05",
+      "land_area": "administrative",
+      "admin_level": "9"
+    }
+  },
+  {
+    "osm_id": -2992873,
+    "boundary": "administrative",
+    "admin_level": 9,
+    "parents": "-3850824,-4627390,-287670",
+    "name": "Santa María",
+    "local_name": "Santa María",
+    "name_en": null,
+    "all_tags": {
+      "name": "Santa María",
+      "boundary": "administrative",
+      "way_area": "1.61237e-05",
+      "land_area": "administrative",
+      "admin_level": "9"
+    }
+  },
+  {
+    "osm_id": -2992872,
+    "boundary": "administrative",
+    "admin_level": 9,
+    "parents": "-3850824,-4627390,-287670",
+    "name": "La Sosa",
+    "local_name": "La Sosa",
+    "name_en": null,
+    "all_tags": {
+      "name": "La Sosa",
+      "boundary": "administrative",
+      "way_area": "2.40276e-05",
+      "land_area": "administrative",
+      "admin_level": "9"
+    }
+  },
+  {
+    "osm_id": -2992870,
+    "boundary": "administrative",
+    "admin_level": 9,
+    "parents": "-3850824,-4627390,-287670",
+    "name": "El Sitio",
+    "local_name": "El Sitio",
+    "name_en": null,
+    "all_tags": {
+      "name": "El Sitio",
+      "boundary": "administrative",
+      "way_area": "1.86308e-05",
+      "land_area": "administrative",
+      "admin_level": "9"
+    }
+  },
+  {
+    "osm_id": -2992865,
+    "boundary": "administrative",
+    "admin_level": 9,
+    "parents": "-3850824,-4627390,-287670",
+    "name": "Estados Unidos",
+    "local_name": "Estados Unidos",
+    "name_en": null,
+    "all_tags": {
+      "name": "Estados Unidos",
+      "boundary": "administrative",
+      "way_area": "9.36688e-06",
+      "land_area": "administrative",
+      "admin_level": "9"
+    }
+  },
+  {
+    "osm_id": -2992864,
+    "boundary": "administrative",
+    "admin_level": 9,
+    "parents": "-3850824,-4627390,-287670",
+    "name": "El Molinón",
+    "local_name": "El Molinón",
+    "name_en": null,
+    "all_tags": {
+      "name": "El Molinón",
+      "alt_name": "Residencial El Molinón",
+      "boundary": "administrative",
+      "way_area": "8.73268e-06",
+      "land_area": "administrative",
+      "admin_level": "9"
+    }
+  }
+]
