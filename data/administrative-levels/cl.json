@@ -1,0 +1,1478 @@
+[
+  {
+    "osm_id": -7421029,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-7421025,-167454",
+    "name": "Provincia de Diguillín",
+    "local_name": "Provincia de Diguillín",
+    "name_en": null,
+    "all_tags": {
+      "name": "Provincia de Diguillín",
+      "boundary": "administrative",
+      "way_area": "0.514269",
+      "wikidata": "Q25916666",
+      "wikipedia": "es:Provincia de Diguillín",
+      "admin_level": "6",
+      "dpachile:id": "161"
+    }
+  },
+  {
+    "osm_id": -7421027,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-7421025,-167454",
+    "name": "Provincia de Itata",
+    "local_name": "Provincia de Itata",
+    "name_en": null,
+    "all_tags": {
+      "name": "Provincia de Itata",
+      "boundary": "administrative",
+      "way_area": "0.276735",
+      "wikidata": "Q25916660",
+      "wikipedia": "es:Provincia de Itata",
+      "admin_level": "6",
+      "dpachile:id": "162"
+    }
+  },
+  {
+    "osm_id": -7421026,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-7421025,-167454",
+    "name": "Provincia de Punilla",
+    "local_name": "Provincia de Punilla",
+    "name_en": null,
+    "all_tags": {
+      "name": "Provincia de Punilla",
+      "boundary": "administrative",
+      "way_area": "0.528248",
+      "wikidata": "Q25916663",
+      "wikipedia": "es:Provincia de Punilla",
+      "admin_level": "6",
+      "dpachile:id": "163"
+    }
+  },
+  {
+    "osm_id": -7421025,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-167454",
+    "name": "Región de Ñuble",
+    "local_name": "Región de Ñuble",
+    "name_en": null,
+    "all_tags": {
+      "ref": "XVI",
+      "name": "Región de Ñuble",
+      "name:ja": "ニュブレ州",
+      "boundary": "administrative",
+      "way_area": "1.31925",
+      "wikidata": "Q24076693",
+      "ISO3166-2": "CL-NB",
+      "admin_level": "4",
+      "dpachile:id": "16"
+    }
+  },
+  {
+    "osm_id": -3072992,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-274991,-167454",
+    "name": "Provincia de Chiloé",
+    "local_name": "Provincia de Chiloé",
+    "name_en": null,
+    "all_tags": {
+      "name": "Provincia de Chiloé",
+      "boundary": "administrative",
+      "way_area": "2.10328",
+      "wikidata": "Q201267",
+      "wikipedia": "en:Chiloé Province",
+      "admin_level": "6",
+      "dpachile:id": "102"
+    }
+  },
+  {
+    "osm_id": -1982386,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-305693,-167454",
+    "name": "Provincia de Aysén",
+    "local_name": "Provincia de Aysén",
+    "name_en": null,
+    "all_tags": {
+      "name": "Provincia de Aysén",
+      "boundary": "administrative",
+      "way_area": "9.77739",
+      "wikidata": "Q201126",
+      "wikipedia": "es:Provincia de Aysén",
+      "admin_level": "6",
+      "dpachile:id": "112"
+    }
+  },
+  {
+    "osm_id": -1982311,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-305693,-167454",
+    "name": "Provincia de Coyhaique",
+    "local_name": "Provincia de Coyhaique",
+    "name_en": null,
+    "all_tags": {
+      "name": "Provincia de Coyhaique",
+      "boundary": "administrative",
+      "way_area": "1.4519",
+      "wikidata": "Q201277",
+      "wikipedia": "en:Coyhaique Province",
+      "admin_level": "6",
+      "dpachile:id": "111"
+    }
+  },
+  {
+    "osm_id": -1982290,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-305693,-167454",
+    "name": "Provincia de General Carrera",
+    "local_name": "Provincia de General Carrera",
+    "name_en": null,
+    "all_tags": {
+      "name": "Provincia de General Carrera",
+      "boundary": "administrative",
+      "way_area": "1.37817",
+      "wikidata": "Q721242",
+      "wikipedia": "en:General Carrera Province",
+      "admin_level": "6",
+      "dpachile:id": "114"
+    }
+  },
+  {
+    "osm_id": -1981571,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-305693,-167454",
+    "name": "Provincia de Capitán Prat",
+    "local_name": "Provincia de Capitán Prat",
+    "name_en": null,
+    "all_tags": {
+      "name": "Provincia de Capitán Prat",
+      "boundary": "administrative",
+      "way_area": "6.12443",
+      "wikidata": "Q201155",
+      "wikipedia": "en:Capitán Prat Province",
+      "admin_level": "6",
+      "dpachile:id": "113"
+    }
+  },
+  {
+    "osm_id": -1980749,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-301542,-167454",
+    "name": "Provincia de Última Esperanza",
+    "local_name": "Provincia de Última Esperanza",
+    "name_en": null,
+    "all_tags": {
+      "name": "Provincia de Última Esperanza",
+      "boundary": "administrative",
+      "way_area": "11.7869",
+      "wikidata": "Q721769",
+      "wikipedia": "en:Última Esperanza Province",
+      "admin_level": "6",
+      "dpachile:id": "124"
+    }
+  },
+  {
+    "osm_id": -1980558,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-301542,-167454",
+    "name": "Provincia de Tierra del Fuego",
+    "local_name": "Provincia de Tierra del Fuego",
+    "name_en": null,
+    "all_tags": {
+      "name": "Provincia de Tierra del Fuego",
+      "name:de": "Provinz Feuerland",
+      "name:es": "Provincia de Tierra del Fuego",
+      "name:it": "Provincia di Terra del Fuoco",
+      "boundary": "administrative",
+      "way_area": "4.09007",
+      "wikidata": "Q721689",
+      "wikipedia": "en:Tierra del Fuego Province, Chile",
+      "admin_level": "6",
+      "dpachile:id": "123"
+    }
+  },
+  {
+    "osm_id": -1980481,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-301542,-167454",
+    "name": "Provincia de Magallanes",
+    "local_name": "Provincia de Magallanes",
+    "name_en": null,
+    "all_tags": {
+      "name": "Provincia de Magallanes",
+      "boundary": "administrative",
+      "way_area": "9.10655",
+      "wikidata": "Q684369",
+      "wikipedia": "en:Magallanes Province",
+      "admin_level": "6",
+      "dpachile:id": "121"
+    }
+  },
+  {
+    "osm_id": -1974213,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-301542,-167454",
+    "name": "Provincia de la Antártica Chilena",
+    "local_name": "Provincia de la Antártica Chilena",
+    "name_en": null,
+    "all_tags": {
+      "name": "Provincia de la Antártica Chilena",
+      "name:de": "Provinz der chilenischen Antarktis",
+      "name:es": "Provincia de la Antártica Chilena",
+      "name:fr": "Province de l'Antarctique chilien",
+      "name:it": "Provincia dell'Antartica Cilena",
+      "boundary": "administrative",
+      "way_area": "6.49142",
+      "wikidata": "Q201086",
+      "wikipedia": "en:Antártica Chilena Province",
+      "admin_level": "6",
+      "dpachile:id": "122"
+    }
+  },
+  {
+    "osm_id": -1820293,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-274991,-167454",
+    "name": "Provincia de Palena",
+    "local_name": "Provincia de Palena",
+    "name_en": null,
+    "all_tags": {
+      "name": "Provincia de Palena",
+      "boundary": "administrative",
+      "way_area": "2.30701",
+      "wikidata": "Q721535",
+      "wikipedia": "en:Palena Province",
+      "admin_level": "6",
+      "dpachile:id": "104"
+    }
+  },
+  {
+    "osm_id": -1796333,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-274991,-167454",
+    "name": "Provincia de Llanquihue",
+    "local_name": "Provincia de Llanquihue",
+    "name_en": null,
+    "all_tags": {
+      "name": "Provincia de Llanquihue",
+      "boundary": "administrative",
+      "way_area": "1.8427",
+      "wikidata": "Q721408",
+      "wikipedia": "es:Provincia de Llanquihue",
+      "admin_level": "6",
+      "dpachile:id": "101"
+    }
+  },
+  {
+    "osm_id": -1791815,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-274991,-167454",
+    "name": "Provincia de Osorno",
+    "local_name": "Provincia de Osorno",
+    "name_en": null,
+    "all_tags": {
+      "name": "Provincia de Osorno",
+      "boundary": "administrative",
+      "way_area": "0.985202",
+      "wikidata": "Q721503",
+      "wikipedia": "en:Osorno Province",
+      "admin_level": "6",
+      "dpachile:id": "103"
+    }
+  },
+  {
+    "osm_id": -1785846,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-274988,-167454",
+    "name": "Provincia de Ranco",
+    "local_name": "Provincia de Ranco",
+    "name_en": null,
+    "all_tags": {
+      "name": "Provincia de Ranco",
+      "boundary": "administrative",
+      "way_area": "0.864365",
+      "wikidata": "Q721580",
+      "wikipedia": "es:Provincia del Ranco",
+      "admin_level": "6",
+      "dpachile:id": "142"
+    }
+  },
+  {
+    "osm_id": -1773340,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-198847,-167454",
+    "name": "Easter Island Province",
+    "local_name": "Provincia de Isla de Pascua",
+    "name_en": "Easter Island Province",
+    "all_tags": {
+      "name": "Provincia de Isla de Pascua",
+      "name:de": "Provinz Osterinsel",
+      "name:en": "Easter Island Province",
+      "boundary": "administrative",
+      "way_area": "0.0148953",
+      "wikidata": "Q721369",
+      "wikipedia": "es:Provincia de Isla de Pascua",
+      "admin_level": "6",
+      "dpachile:id": "052"
+    }
+  },
+  {
+    "osm_id": -1769310,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-274988,-167454",
+    "name": "Provincia de Valdivia",
+    "local_name": "Provincia de Valdivia",
+    "name_en": null,
+    "all_tags": {
+      "name": "Provincia de Valdivia",
+      "boundary": "administrative",
+      "way_area": "1.07128",
+      "wikidata": "Q721733",
+      "wikipedia": "en:Valdivia Province",
+      "admin_level": "6",
+      "dpachile:id": "141"
+    }
+  },
+  {
+    "osm_id": -1735986,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-296378,-167454",
+    "name": "Provincia de Malleco",
+    "local_name": "Provincia de Malleco",
+    "name_en": null,
+    "all_tags": {
+      "name": "Provincia de Malleco",
+      "boundary": "administrative",
+      "way_area": "1.38206",
+      "wikidata": "Q721462",
+      "wikipedia": "es:Provincia de Malleco",
+      "admin_level": "6",
+      "dpachile:id": "092"
+    }
+  },
+  {
+    "osm_id": -1734788,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-296378,-167454",
+    "name": "Provincia de Cautín",
+    "local_name": "Provincia de Cautín",
+    "name_en": null,
+    "all_tags": {
+      "name": "Provincia de Cautín",
+      "boundary": "administrative",
+      "way_area": "1.90772",
+      "wikidata": "Q201237",
+      "wikipedia": "en:Cautín Province",
+      "admin_level": "6",
+      "dpachile:id": "091"
+    }
+  },
+  {
+    "osm_id": -1674530,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-198848,-167454",
+    "name": "Provincia de Santiago",
+    "local_name": "Provincia de Santiago",
+    "name_en": null,
+    "all_tags": {
+      "name": "Provincia de Santiago",
+      "boundary": "administrative",
+      "way_area": "0.196585",
+      "wikidata": "Q45632",
+      "wikipedia": "es:Provincia de Santiago",
+      "admin_level": "6",
+      "dpachile:id": "131"
+    }
+  },
+  {
+    "osm_id": -1673446,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-198848,-167454",
+    "name": "Provincia de Chacabuco",
+    "local_name": "Provincia de Chacabuco",
+    "name_en": null,
+    "all_tags": {
+      "name": "Provincia de Chacabuco",
+      "boundary": "administrative",
+      "way_area": "0.200695",
+      "wikidata": "Q201247",
+      "wikipedia": "es:Provincia de Chacabuco",
+      "admin_level": "6",
+      "dpachile:id": "133"
+    }
+  },
+  {
+    "osm_id": -1671299,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-198847,-167454",
+    "name": "Provincia de Los Andes",
+    "local_name": "Provincia de Los Andes",
+    "name_en": null,
+    "all_tags": {
+      "name": "Provincia de Los Andes",
+      "boundary": "administrative",
+      "way_area": "0.293725",
+      "wikidata": "Q721424",
+      "wikipedia": "es:Provincia de Los Andes (Chile)",
+      "admin_level": "6",
+      "dpachile:id": "053"
+    }
+  },
+  {
+    "osm_id": -1671231,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-198847,-167454",
+    "name": "Provincia de San Felipe de Aconcagua",
+    "local_name": "Provincia de San Felipe de Aconcagua",
+    "name_en": null,
+    "all_tags": {
+      "name": "Provincia de San Felipe de Aconcagua",
+      "boundary": "administrative",
+      "way_area": "0.25271",
+      "wikidata": "Q721611",
+      "wikipedia": "es:Provincia de San Felipe de Aconcagua",
+      "admin_level": "6",
+      "dpachile:id": "057"
+    }
+  },
+  {
+    "osm_id": -1671213,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-198847,-167454",
+    "name": "Provincia de Quillota",
+    "local_name": "Provincia de Quillota",
+    "name_en": null,
+    "all_tags": {
+      "name": "Provincia de Quillota",
+      "boundary": "administrative",
+      "way_area": "0.107144",
+      "wikidata": "Q721567",
+      "wikipedia": "es:Provincia de Quillota",
+      "admin_level": "6",
+      "dpachile:id": "055"
+    }
+  },
+  {
+    "osm_id": -1664191,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-198848,-167454",
+    "name": "Provincia de Cordillera",
+    "local_name": "Provincia de Cordillera",
+    "name_en": null,
+    "all_tags": {
+      "name": "Provincia de Cordillera",
+      "boundary": "administrative",
+      "way_area": "0.537275",
+      "wikidata": "Q201331",
+      "wikipedia": "es:Provincia de Cordillera (Chile)",
+      "admin_level": "6",
+      "dpachile:id": "132"
+    }
+  },
+  {
+    "osm_id": -1661314,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-206487,-167454",
+    "name": "Provincia de Colchagua",
+    "local_name": "Provincia de Colchagua",
+    "name_en": null,
+    "all_tags": {
+      "name": "Provincia de Colchagua",
+      "boundary": "administrative",
+      "way_area": "0.545916",
+      "wikidata": "Q201304",
+      "wikipedia": "es:Provincia de Colchagua",
+      "admin_level": "6",
+      "dpachile:id": "063"
+    }
+  },
+  {
+    "osm_id": -1654883,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-252891,-167454",
+    "name": "Provincia de Arauco",
+    "local_name": "Provincia de Arauco",
+    "name_en": null,
+    "all_tags": {
+      "name": "Provincia de Arauco",
+      "boundary": "administrative",
+      "way_area": "0.559529",
+      "wikidata": "Q201109",
+      "wikipedia": "es:Provincia de Arauco",
+      "admin_level": "6",
+      "dpachile:id": "082"
+    }
+  },
+  {
+    "osm_id": -1622252,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-252891,-167454",
+    "name": "Provincia de Bío-Bío",
+    "local_name": "Provincia de Bío-Bío",
+    "name_en": null,
+    "all_tags": {
+      "name": "Provincia de Bío-Bío",
+      "boundary": "administrative",
+      "way_area": "1.53315",
+      "wikidata": "Q201131",
+      "admin_level": "6",
+      "dpachile:id": "083"
+    }
+  },
+  {
+    "osm_id": -1589855,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-231672,-167454",
+    "name": "Provincia de Limarí",
+    "local_name": "Provincia de Limarí",
+    "name_en": null,
+    "all_tags": {
+      "name": "Provincia de Limarí",
+      "boundary": "administrative",
+      "way_area": "1.25829",
+      "wikidata": "Q63774",
+      "wikipedia": "es:Provincia de Limarí",
+      "admin_level": "6",
+      "dpachile:id": "043"
+    }
+  },
+  {
+    "osm_id": -1588847,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-231672,-167454",
+    "name": "Provincia de Elqui",
+    "local_name": "Provincia de Elqui",
+    "name_en": null,
+    "all_tags": {
+      "name": "Provincia de Elqui",
+      "boundary": "administrative",
+      "way_area": "1.59599",
+      "wikidata": "Q721224",
+      "wikipedia": "es:Provincia de Elqui",
+      "admin_level": "6",
+      "dpachile:id": "041"
+    }
+  },
+  {
+    "osm_id": -1586777,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-198847,-167454",
+    "name": "Provincia de Petorca",
+    "local_name": "Provincia de Petorca",
+    "name_en": null,
+    "all_tags": {
+      "name": "Provincia de Petorca",
+      "boundary": "administrative",
+      "way_area": "0.440174",
+      "wikidata": "Q721557",
+      "wikipedia": "es:Provincia de Petorca",
+      "admin_level": "6",
+      "dpachile:id": "054"
+    }
+  },
+  {
+    "osm_id": -1584131,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-231672,-167454",
+    "name": "Provincia de Choapa",
+    "local_name": "Provincia de Choapa",
+    "name_en": null,
+    "all_tags": {
+      "name": "Provincia de Choapa",
+      "boundary": "administrative",
+      "way_area": "0.963352",
+      "wikidata": "Q63916",
+      "wikipedia": "es:Provincia de Choapa",
+      "admin_level": "6",
+      "dpachile:id": "042"
+    }
+  },
+  {
+    "osm_id": -1573477,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-271889,-167454",
+    "name": "Provincia de Chañaral",
+    "local_name": "Provincia de Chañaral",
+    "name_en": null,
+    "all_tags": {
+      "name": "Provincia de Chañaral",
+      "boundary": "administrative",
+      "way_area": "2.24747",
+      "wikidata": "Q201256",
+      "wikipedia": "es:Provincia de Chañaral",
+      "admin_level": "6",
+      "dpachile:id": "032"
+    }
+  },
+  {
+    "osm_id": -1572125,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-271889,-167454",
+    "name": "Provincia de Copiapó",
+    "local_name": "Provincia de Copiapó",
+    "name_en": null,
+    "all_tags": {
+      "name": "Provincia de Copiapó",
+      "boundary": "administrative",
+      "way_area": "2.97572",
+      "wikidata": "Q74292",
+      "wikipedia": "es:Provincia de Copiapó",
+      "admin_level": "6",
+      "dpachile:id": "031"
+    }
+  },
+  {
+    "osm_id": -1572118,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-271889,-167454",
+    "name": "Provincia de Huasco",
+    "local_name": "Provincia de Huasco",
+    "name_en": null,
+    "all_tags": {
+      "name": "Provincia de Huasco",
+      "boundary": "administrative",
+      "way_area": "1.68117",
+      "wikidata": "Q74294",
+      "wikipedia": "es:Provincia de Huasco",
+      "admin_level": "6",
+      "dpachile:id": "033"
+    }
+  },
+  {
+    "osm_id": -1568630,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-238392,-167454",
+    "name": "Provincia de Parinacota",
+    "local_name": "Provincia de Parinacota",
+    "name_en": null,
+    "all_tags": {
+      "name": "Provincia de Parinacota",
+      "boundary": "administrative",
+      "way_area": "0.695689",
+      "wikidata": "Q287619",
+      "wikipedia": "es:Provincia de Parinacota",
+      "admin_level": "6",
+      "dpachile:id": "152"
+    }
+  },
+  {
+    "osm_id": -1568616,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-238392,-167454",
+    "name": "Provincia de Arica",
+    "local_name": "Provincia de Arica",
+    "name_en": null,
+    "all_tags": {
+      "name": "Provincia de Arica",
+      "boundary": "administrative",
+      "way_area": "0.739395",
+      "wikidata": "Q201119",
+      "wikipedia": "es:Provincia de Arica",
+      "admin_level": "6",
+      "dpachile:id": "151"
+    }
+  },
+  {
+    "osm_id": -1561942,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-238393,-167454",
+    "name": "Provincia del Tamarugal",
+    "local_name": "Provincia del Tamarugal",
+    "name_en": null,
+    "all_tags": {
+      "name": "Provincia del Tamarugal",
+      "boundary": "administrative",
+      "way_area": "3.41893",
+      "wikidata": "Q252104",
+      "wikipedia": "es:Provincia del Tamarugal",
+      "admin_level": "6",
+      "dpachile:id": "014"
+    }
+  },
+  {
+    "osm_id": -1561897,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-240932,-167454",
+    "name": "Provincia de Antofagasta",
+    "local_name": "Provincia de Antofagasta",
+    "name_en": null,
+    "all_tags": {
+      "name": "Provincia de Antofagasta",
+      "boundary": "administrative",
+      "way_area": "6.01733",
+      "wikidata": "Q94552",
+      "wikipedia": "es:Provincia de Antofagasta",
+      "admin_level": "6",
+      "dpachile:id": "021"
+    }
+  },
+  {
+    "osm_id": -1561884,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-240932,-167454",
+    "name": "Provincia de Tocopilla",
+    "local_name": "Provincia de Tocopilla",
+    "name_en": null,
+    "all_tags": {
+      "name": "Provincia de Tocopilla",
+      "boundary": "administrative",
+      "way_area": "1.44279",
+      "wikidata": "Q251448",
+      "wikipedia": "es:Provincia de Tocopilla",
+      "admin_level": "6",
+      "dpachile:id": "023"
+    }
+  },
+  {
+    "osm_id": -1561883,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-240932,-167454",
+    "name": "Provincia de El Loa",
+    "local_name": "Provincia de El Loa",
+    "name_en": null,
+    "all_tags": {
+      "name": "Provincia de El Loa",
+      "boundary": "administrative",
+      "way_area": "3.69553",
+      "wikidata": "Q201349",
+      "wikipedia": "es:Provincia de El Loa",
+      "admin_level": "6",
+      "dpachile:id": "022"
+    }
+  },
+  {
+    "osm_id": -1561810,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-238393,-167454",
+    "name": "Provincia de Iquique",
+    "local_name": "Provincia de Iquique",
+    "name_en": null,
+    "all_tags": {
+      "name": "Provincia de Iquique",
+      "boundary": "administrative",
+      "way_area": "0.24832",
+      "wikidata": "Q251456",
+      "wikipedia": "es:Provincia de Iquique",
+      "admin_level": "6",
+      "dpachile:id": "011"
+    }
+  },
+  {
+    "osm_id": -1561140,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-198847,-167454",
+    "name": "Provincia de Marga Marga",
+    "local_name": "Provincia de Marga Marga",
+    "name_en": null,
+    "all_tags": {
+      "name": "Provincia de Marga Marga",
+      "boundary": "administrative",
+      "way_area": "0.111875",
+      "wikidata": "Q721490",
+      "wikipedia": "es:Provincia de Marga Marga",
+      "admin_level": "6",
+      "dpachile:id": "058"
+    }
+  },
+  {
+    "osm_id": -1561037,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-198847,-167454",
+    "name": "Provincia de Valparaíso",
+    "local_name": "Provincia de Valparaíso",
+    "name_en": null,
+    "all_tags": {
+      "name": "Provincia de Valparaíso",
+      "name:lt": "Valparaiso provincija",
+      "boundary": "administrative",
+      "way_area": "0.192965",
+      "wikidata": "Q721744",
+      "wikipedia": "es:Provincia de Valparaíso",
+      "admin_level": "6",
+      "dpachile:id": "051"
+    }
+  },
+  {
+    "osm_id": -1561031,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-198847,-167454",
+    "name": "Provincia de San Antonio",
+    "local_name": "Provincia de San Antonio",
+    "name_en": null,
+    "all_tags": {
+      "name": "Provincia de San Antonio",
+      "boundary": "administrative",
+      "way_area": "0.148736",
+      "wikidata": "Q721594",
+      "wikipedia": "es:Provincia de San Antonio",
+      "admin_level": "6",
+      "dpachile:id": "056"
+    }
+  },
+  {
+    "osm_id": -1561024,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-206487,-167454",
+    "name": "Provincia de Cardenal Caro",
+    "local_name": "Provincia de Cardenal Caro",
+    "name_en": null,
+    "all_tags": {
+      "name": "Provincia de Cardenal Caro",
+      "boundary": "administrative",
+      "way_area": "0.321923",
+      "wikidata": "Q201163",
+      "admin_level": "6",
+      "dpachile:id": "062"
+    }
+  },
+  {
+    "osm_id": -1561023,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-206487,-167454",
+    "name": "Provincia de Cachapoal",
+    "local_name": "Provincia de Cachapoal",
+    "name_en": null,
+    "all_tags": {
+      "name": "Provincia de Cachapoal",
+      "boundary": "administrative",
+      "way_area": "0.734619",
+      "wikidata": "Q201144",
+      "wikipedia": "es:Provincia de Cachapoal",
+      "admin_level": "6",
+      "dpachile:id": "061"
+    }
+  },
+  {
+    "osm_id": -1560883,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-198848,-167454",
+    "name": "Provincia de Maipo",
+    "local_name": "Provincia de Maipo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Provincia de Maipo",
+      "boundary": "administrative",
+      "way_area": "0.109221",
+      "wikidata": "Q721450",
+      "wikipedia": "es:Provincia de Maipo",
+      "admin_level": "6",
+      "dpachile:id": "134"
+    }
+  },
+  {
+    "osm_id": -1560882,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-198848,-167454",
+    "name": "Provincia de Talagante",
+    "local_name": "Provincia de Talagante",
+    "name_en": null,
+    "all_tags": {
+      "name": "Provincia de Talagante",
+      "boundary": "administrative",
+      "way_area": "0.0565345",
+      "wikidata": "Q569435",
+      "wikipedia": "es:Provincia de Talagante",
+      "admin_level": "6",
+      "dpachile:id": "136"
+    }
+  },
+  {
+    "osm_id": -1560881,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-198848,-167454",
+    "name": "Provincia de Melipilla",
+    "local_name": "Provincia de Melipilla",
+    "name_en": null,
+    "all_tags": {
+      "name": "Provincia de Melipilla",
+      "boundary": "administrative",
+      "way_area": "0.395984",
+      "wikidata": "Q721498",
+      "wikipedia": "en:Melipilla Province",
+      "admin_level": "6",
+      "dpachile:id": "135"
+    }
+  },
+  {
+    "osm_id": -1558891,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-252891,-167454",
+    "name": "Provincia de Concepción",
+    "local_name": "Provincia de Concepción",
+    "name_en": null,
+    "all_tags": {
+      "name": "Provincia de Concepción",
+      "boundary": "administrative",
+      "way_area": "0.350932",
+      "wikidata": "Q40008",
+      "wikipedia": "es:Provincia de Concepción (Chile)",
+      "admin_level": "6",
+      "dpachile:id": "081"
+    }
+  },
+  {
+    "osm_id": -546193,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-239882,-167454",
+    "name": "Provincia de Curicó",
+    "local_name": "Provincia de Curicó",
+    "name_en": null,
+    "all_tags": {
+      "name": "Provincia de Curicó",
+      "boundary": "administrative",
+      "way_area": "0.720803",
+      "wikidata": "Q201338",
+      "wikipedia": "es:Provincia de Curicó",
+      "admin_level": "6",
+      "dpachile:id": "073"
+    }
+  },
+  {
+    "osm_id": -546186,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-239882,-167454",
+    "name": "Provincia de Talca",
+    "local_name": "Provincia de Talca",
+    "name_en": null,
+    "all_tags": {
+      "name": "Provincia de Talca",
+      "boundary": "administrative",
+      "way_area": "0.9876",
+      "wikidata": "Q721653",
+      "wikipedia": "es:Provincia de Talca",
+      "admin_level": "6",
+      "dpachile:id": "071"
+    }
+  },
+  {
+    "osm_id": -546158,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-239882,-167454",
+    "name": "Provincia de Cauquenes",
+    "local_name": "Provincia de Cauquenes",
+    "name_en": null,
+    "all_tags": {
+      "name": "Provincia de Cauquenes",
+      "boundary": "administrative",
+      "way_area": "0.301568",
+      "wikidata": "Q201176",
+      "wikipedia": "en:Cauquenes Province",
+      "admin_level": "6",
+      "dpachile:id": "072"
+    }
+  },
+  {
+    "osm_id": -545521,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-239882,-167454",
+    "name": "Provincia de Linares",
+    "local_name": "Provincia de Linares",
+    "name_en": null,
+    "all_tags": {
+      "name": "Provincia de Linares",
+      "boundary": "administrative",
+      "way_area": "1.00512",
+      "wikidata": "Q721396",
+      "wikipedia": "es:Provincia de Linares",
+      "admin_level": "6",
+      "dpachile:id": "074"
+    }
+  },
+  {
+    "osm_id": -305693,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-167454",
+    "name": "Región Aysén del General Carlos Ibáñez del Campo",
+    "local_name": "Región Aysén del General Carlos Ibáñez del Campo",
+    "name_en": null,
+    "all_tags": {
+      "ref": "XI",
+      "name": "Región Aysén del General Carlos Ibáñez del Campo",
+      "name:ja": "アイセン・デル・ヘネラル・カルロス・イバニェス・デル・カンポ州",
+      "name:ru": "XI Айсен-дель-Хенераль-Карлос-Ибаньес-дель-Кампо",
+      "alt_name": "Región Aisén del General Carlos Ibáñez del Campo",
+      "boundary": "administrative",
+      "way_area": "18.7319",
+      "wikidata": "Q2181",
+      "ISO3166-2": "CL-AI",
+      "wikipedia": "en:Aysén Region",
+      "population": "103158",
+      "short_name": "Región de Aysén",
+      "admin_level": "4",
+      "dpachile:id": "11",
+      "population:date": "2017-04-19"
+    }
+  },
+  {
+    "osm_id": -301542,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-167454",
+    "name": "Region of Magallanes and Chilean Antarctica",
+    "local_name": "Región de Magallanes y de la Antártica Chilena",
+    "name_en": "Region of Magallanes and Chilean Antarctica",
+    "all_tags": {
+      "ref": "XII",
+      "name": "Región de Magallanes y de la Antártica Chilena",
+      "name:ar": "إقليم ماجلان",
+      "name:ba": "Магалианс",
+      "name:bg": "Магалянес и Чилийска Антарктика",
+      "name:br": "Rannvro Magallanes hag Antarktika Chile",
+      "name:ca": "Regió de Magallanes i de l'Antàrtica Xilena",
+      "name:cs": "Magallanes a Chilská Antarktida",
+      "name:da": "Magallanes og Antártica Chilena",
+      "name:de": "Region von Magellan und der chilenischen Antarktis",
+      "name:el": "Περιοχή Μαγαγιάνες και η Χιλιανή Ανταρκτική",
+      "name:en": "Region of Magallanes and Chilean Antarctica",
+      "name:eo": "Magallanes y Antártica Chilena",
+      "name:eu": "Magallanes y la Antártica Chilena eskualdea",
+      "name:fa": "منطقه ماژلان و جنوبگان شیلی",
+      "name:fi": "Magallanes y Antártica Chilena",
+      "name:fr": "Région de Magallanes et de l'Antarctique chilien",
+      "name:gl": "Rexión de Magallanes e da Antártica Chilena",
+      "name:he": "מגאיאנס ואנטארקטיקה צ'ילנה",
+      "name:hr": "regija Magallanes y de la Antártica Chilena",
+      "name:hy": "Մագալանես և Չիլիական Անտարկտիկա",
+      "name:id": "Region Magallanes",
+      "name:it": "Regione di Magellano e dell'Antartide Cilena",
+      "name:ja": "マガジャネス・イ・デ・ラ・アンタルティカ・チレーナ州",
+      "name:ka": "მაგალიანესი და ჩილეს ანტარქტიკის რეგიონი",
+      "name:ko": "마가야네스이데라안타르티카칠레나주",
+      "name:la": "Regio Magellanensis",
+      "name:lt": "Magelano ir Čilės Antarktidos regionas",
+      "name:ml": "റെജിയോൺ ഡെ മഗല്യാൻസ് ഡെല യെ അന്റാർട്ടിക്ക ചിലെന",
+      "name:nl": "Magallanes y la Antártica Chilena",
+      "name:nn": "Región de Magallanes y de Antártica Chilena",
+      "name:no": "Magallanes y de la Antártica Chilena",
+      "name:oc": "Region de Magallanes e de l'Antartica Chilena",
+      "name:os": "Магальянес æмæ Чилийы Антарктикæ",
+      "name:pl": "Magallanes",
+      "name:pt": "Magalhães e Antártica Chilena",
+      "name:qu": "Magallanes Antartika suyu",
+      "name:ro": "Regiunea Magallanes și Antarctica Chiliană",
+      "name:ru": "Магальянес-и-ла-Антарктика-Чилена",
+      "name:sk": "Magallanes y de la Antártica Chilena",
+      "name:sw": "Mkoa wa Magallanes na Antaktiki ya Chile",
+      "name:th": "แคว้นมากายาเนสและลาอันตาร์ตีกาชีเลนา",
+      "name:tr": "Magallanes y la Antártica Chilena bölgesi",
+      "name:uk": "Регіон Магальянес і Чилійська Антарктика",
+      "name:ur": "ماگایانس و لا انتارتیکا چلی علاقہ",
+      "name:vi": "Magallanes và Địa Cực Chile",
+      "name:zh": "麦哲伦-智利南极大区",
+      "boundary": "administrative",
+      "way_area": "31.4749",
+      "wikidata": "Q2189",
+      "ISO3166-2": "CL-MA",
+      "wikipedia": "de:Región de Magallanes y de la Antártica Chilena",
+      "population": "166533",
+      "admin_level": "4",
+      "dpachile:id": "12",
+      "population:date": "2017-04-19"
+    }
+  },
+  {
+    "osm_id": -296378,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-167454",
+    "name": "Región de la Araucanía",
+    "local_name": "Región de la Araucanía",
+    "name_en": null,
+    "all_tags": {
+      "ref": "IX",
+      "name": "Región de la Araucanía",
+      "name:ar": "إقليم أروكانيا",
+      "name:de": "Region IX Araukanien",
+      "name:ja": "ラ・アラウカニア州",
+      "boundary": "administrative",
+      "way_area": "3.28978",
+      "wikidata": "Q2176",
+      "ISO3166-2": "CL-AR",
+      "population": "957224",
+      "admin_level": "4",
+      "dpachile:id": "09",
+      "population:date": "2017-04-19"
+    }
+  },
+  {
+    "osm_id": -274991,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-167454",
+    "name": "Región de Los Lagos",
+    "local_name": "Región de Los Lagos",
+    "name_en": null,
+    "all_tags": {
+      "ref": "X",
+      "name": "Región de Los Lagos",
+      "name:ja": "ロス・ラゴス州",
+      "boundary": "administrative",
+      "way_area": "7.2382",
+      "wikidata": "Q2178",
+      "ISO3166-2": "CL-LL",
+      "population": "828708",
+      "admin_level": "4",
+      "dpachile:id": "10",
+      "population:date": "2017-04-19"
+    }
+  },
+  {
+    "osm_id": -274988,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-167454",
+    "name": "Región de Los Ríos",
+    "local_name": "Región de Los Ríos",
+    "name_en": null,
+    "all_tags": {
+      "ref": "XIV",
+      "name": "Región de Los Ríos",
+      "name:ja": "ロス・リオス州",
+      "boundary": "administrative",
+      "way_area": "1.93564",
+      "wikidata": "Q2177",
+      "ISO3166-2": "CL-LR",
+      "population": "384837",
+      "admin_level": "4",
+      "dpachile:id": "14",
+      "population:date": "2017-04-19"
+    }
+  },
+  {
+    "osm_id": -271889,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-167454",
+    "name": "Región de Atacama",
+    "local_name": "Región de Atacama",
+    "name_en": null,
+    "all_tags": {
+      "ref": "III",
+      "name": "Región de Atacama",
+      "name:ja": "アタカマ州",
+      "boundary": "administrative",
+      "way_area": "6.905",
+      "wikidata": "Q2120",
+      "ISO3166-2": "CL-AT",
+      "population": "286168",
+      "admin_level": "4",
+      "dpachile:id": "03",
+      "population:date": "2017-04-19"
+    }
+  },
+  {
+    "osm_id": -252891,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-167454",
+    "name": "Región del Biobío",
+    "local_name": "Región del Biobío",
+    "name_en": null,
+    "all_tags": {
+      "ref": "VIII",
+      "name": "Región del Biobío",
+      "name:ja": "ビオビオ州",
+      "boundary": "administrative",
+      "way_area": "2.44361",
+      "wikidata": "Q2170",
+      "ISO3166-2": "CL-BI",
+      "population": "2037414",
+      "admin_level": "4",
+      "dpachile:id": "08",
+      "population:date": "2017-04-19"
+    }
+  },
+  {
+    "osm_id": -240932,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-167454",
+    "name": "Región de Antofagasta",
+    "local_name": "Región de Antofagasta",
+    "name_en": null,
+    "all_tags": {
+      "ref": "II",
+      "name": "Región de Antofagasta",
+      "name:ja": "アントファガスタ州",
+      "name:ru": "II Антофагаста",
+      "boundary": "administrative",
+      "way_area": "11.1557",
+      "wikidata": "Q2118",
+      "ISO3166-2": "CL-AN",
+      "population": "607534",
+      "admin_level": "4",
+      "dpachile:id": "02",
+      "population:date": "2017-04-19"
+    }
+  },
+  {
+    "osm_id": -239882,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-167454",
+    "name": "Región del Maule",
+    "local_name": "Región del Maule",
+    "name_en": null,
+    "all_tags": {
+      "ref": "VII",
+      "name": "Región del Maule",
+      "name:ja": "マウレ州",
+      "boundary": "administrative",
+      "way_area": "3.01509",
+      "wikidata": "Q2166",
+      "ISO3166-2": "CL-ML",
+      "population": "1044950",
+      "admin_level": "4",
+      "dpachile:id": "07",
+      "population:date": "2017-04-19"
+    }
+  },
+  {
+    "osm_id": -238393,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-167454",
+    "name": "Región de Tarapacá",
+    "local_name": "Región de Tarapacá",
+    "name_en": null,
+    "all_tags": {
+      "ref": "I",
+      "name": "Región de Tarapacá",
+      "name:ja": "タラパカ州",
+      "name:zh": "塔拉帕卡区",
+      "boundary": "administrative",
+      "way_area": "3.66725",
+      "wikidata": "Q2114",
+      "ISO3166-2": "CL-TA",
+      "population": "330558",
+      "admin_level": "4",
+      "dpachile:id": "01",
+      "name:zh-Hans": "塔拉帕卡区",
+      "population:date": "2017-04-19"
+    }
+  },
+  {
+    "osm_id": -238392,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-167454",
+    "name": "Región de Arica y Parinacota",
+    "local_name": "Región de Arica y Parinacota",
+    "name_en": null,
+    "all_tags": {
+      "ref": "XV",
+      "name": "Región de Arica y Parinacota",
+      "name:ja": "アリカ・イ・パリナコータ州",
+      "boundary": "administrative",
+      "way_area": "1.43508",
+      "wikidata": "Q2109",
+      "ISO3166-2": "CL-AP",
+      "wikipedia": "en:Arica y Parinacota Region",
+      "population": "226068",
+      "admin_level": "4",
+      "dpachile:id": "15",
+      "population:date": "2017-04-19"
+    }
+  },
+  {
+    "osm_id": -231672,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-167454",
+    "name": "Región de Coquimbo",
+    "local_name": "Región de Coquimbo",
+    "name_en": null,
+    "all_tags": {
+      "ref": "IV",
+      "name": "Región de Coquimbo",
+      "name:ja": "コキンボ州",
+      "boundary": "administrative",
+      "way_area": "3.81827",
+      "wikidata": "Q2121",
+      "ISO3166-2": "CL-CO",
+      "population": "757586",
+      "admin_level": "4",
+      "dpachile:id": "04",
+      "population:date": "2017-04-19"
+    }
+  },
+  {
+    "osm_id": -206487,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-167454",
+    "name": "Región del Libertador General Bernardo O'Higgins",
+    "local_name": "Región del Libertador General Bernardo O'Higgins",
+    "name_en": null,
+    "all_tags": {
+      "ref": "VI",
+      "name": "Región del Libertador General Bernardo O'Higgins",
+      "name:es": "Región del Libertador General Bernardo O'Higgins",
+      "name:ja": "リベルタドール・ベルナルド・オイギンス州",
+      "boundary": "administrative",
+      "way_area": "1.60246",
+      "wikidata": "Q2133",
+      "ISO3166-2": "CL-LI",
+      "population": "914555",
+      "admin_level": "4",
+      "dpachile:id": "06",
+      "population:date": "2017-04-19"
+    }
+  },
+  {
+    "osm_id": -198848,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-167454",
+    "name": "Región Metropolitana de Santiago",
+    "local_name": "Región Metropolitana de Santiago",
+    "name_en": null,
+    "all_tags": {
+      "ref": "RM",
+      "name": "Región Metropolitana de Santiago",
+      "name:ja": "首都州",
+      "boundary": "administrative",
+      "way_area": "1.49629",
+      "wikidata": "Q2131",
+      "ISO3166-2": "CL-RM",
+      "population": "7112808",
+      "admin_level": "4",
+      "dpachile:id": "13",
+      "population:date": "2017-04-19"
+    }
+  },
+  {
+    "osm_id": -198847,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-167454",
+    "name": "Región de Valparaíso",
+    "local_name": "Región de Valparaíso",
+    "name_en": null,
+    "all_tags": {
+      "ref": "V",
+      "name": "Región de Valparaíso",
+      "name:ja": "バルパライソ州",
+      "name:lt": "Valparaiso regionas",
+      "boundary": "administrative",
+      "way_area": "1.56224",
+      "wikidata": "Q219458",
+      "ISO3166-2": "CL-VS",
+      "wikipedia": "es:Región de Valparaíso",
+      "population": "1815902",
+      "admin_level": "4",
+      "dpachile:id": "05",
+      "population:date": "2017-04-19"
+    }
+  },
+  {
+    "osm_id": 379968547,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-167454",
+    "name": "Islote Lobos",
+    "local_name": "Islote Lobos",
+    "name_en": null,
+    "all_tags": {
+      "area": "yes",
+      "name": "Islote Lobos",
+      "place": "islet",
+      "boundary": "administrative",
+      "way_area": "3.56463e-06",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": 379969535,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-167454",
+    "name": "Roca Fraile",
+    "local_name": "Roca Fraile",
+    "name_en": null,
+    "all_tags": {
+      "area": "yes",
+      "name": "Roca Fraile",
+      "place": "islet",
+      "boundary": "administrative",
+      "way_area": "8.1719e-08",
+      "admin_level": "4",
+      "seamark:type": "rock"
+    }
+  },
+  {
+    "osm_id": 379969918,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-167454",
+    "name": "Islote Gaviota",
+    "local_name": "Islote Gaviota",
+    "name_en": null,
+    "all_tags": {
+      "area": "yes",
+      "name": "Islote Gaviota",
+      "place": "islet",
+      "boundary": "administrative",
+      "way_area": "3.2142e-07",
+      "admin_level": "4"
+    }
+  }
+]

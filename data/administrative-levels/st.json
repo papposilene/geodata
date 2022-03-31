@@ -1,0 +1,159 @@
+[
+  {
+    "osm_id": -8258241,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4508349,-535880",
+    "name": "Pagué",
+    "local_name": "Pagué",
+    "name_en": null,
+    "all_tags": {
+      "name": "Pagué",
+      "name:zh": "帕盖大区",
+      "boundary": "administrative",
+      "way_area": "0.0113444",
+      "wikidata": "Q1191739",
+      "admin_level": "6",
+      "name:zh-Hans": "帕盖大区"
+    }
+  },
+  {
+    "osm_id": -4779080,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-535880",
+    "name": "Caué",
+    "local_name": "Caué",
+    "name_en": null,
+    "all_tags": {
+      "name": "Caué",
+      "name:zh": "考埃大区",
+      "boundary": "administrative",
+      "way_area": "0.0214619",
+      "wikidata": "Q1051692",
+      "ISO3166-2": "ST-03",
+      "admin_level": "6",
+      "name:zh-Hans": "考埃大区"
+    }
+  },
+  {
+    "osm_id": -4779079,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-535880",
+    "name": "Lembá",
+    "local_name": "Lembá",
+    "name_en": null,
+    "all_tags": {
+      "name": "Lembá",
+      "name:zh": "伦巴大区",
+      "boundary": "administrative",
+      "way_area": "0.0179259",
+      "wikidata": "Q785367",
+      "ISO3166-2": "ST-04",
+      "admin_level": "6",
+      "name:zh-Hans": "伦巴大区"
+    }
+  },
+  {
+    "osm_id": -4779043,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-535880",
+    "name": "Cantagalo",
+    "local_name": "Cantagalo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cantagalo",
+      "name:zh": "坎塔加洛大区",
+      "boundary": "administrative",
+      "way_area": "0.00955889",
+      "wikidata": "Q1033696",
+      "ISO3166-2": "ST-02",
+      "admin_level": "6",
+      "name:zh-Hans": "坎塔加洛大区"
+    }
+  },
+  {
+    "osm_id": -4779033,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-535880",
+    "name": "Mé-Zóchi",
+    "local_name": "Mé-Zóchi",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mé-Zóchi",
+      "name:zh": "梅佐希大区",
+      "boundary": "administrative",
+      "way_area": "0.0103696",
+      "wikidata": "Q1139407",
+      "ISO3166-2": "ST-06",
+      "admin_level": "6",
+      "name:zh-Hans": "梅佐希大区"
+    }
+  },
+  {
+    "osm_id": -4778829,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-535880",
+    "name": "Lobata",
+    "local_name": "Lobata",
+    "name_en": null,
+    "all_tags": {
+      "name": "Lobata",
+      "name:zh": "洛巴塔大区",
+      "boundary": "administrative",
+      "way_area": "0.00801714",
+      "wikidata": "Q1139384",
+      "ISO3166-2": "ST-05",
+      "admin_level": "6",
+      "name:zh-Hans": "洛巴塔大区"
+    }
+  },
+  {
+    "osm_id": -4680163,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-535880",
+    "name": "Água Grande",
+    "local_name": "Água Grande",
+    "name_en": null,
+    "all_tags": {
+      "name": "Água Grande",
+      "name:zh": "阿瓜格朗德大区",
+      "boundary": "administrative",
+      "way_area": "0.00183533",
+      "wikidata": "Q249742",
+      "ISO3166-2": "ST-01",
+      "admin_level": "6",
+      "name:zh-Hans": "阿瓜格朗德大区"
+    }
+  },
+  {
+    "osm_id": -4508349,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-535880",
+    "name": "Príncipe",
+    "local_name": "Príncipe",
+    "name_en": "Príncipe",
+    "all_tags": {
+      "name": "Príncipe",
+      "name:en": "Príncipe",
+      "name:zh": "普林西比省",
+      "boundary": "administrative",
+      "way_area": "0.0113444",
+      "wikidata": "Q2366966",
+      "ISO3166-2": "ST-P",
+      "wikipedia": "en:Autonomous Region of Príncipe",
+      "admin_level": "4",
+      "border_type": "região_autónoma",
+      "name:zh-Hans": "普林西比省",
+      "official_name": "Região Autónoma do Príncipe",
+      "official_name:en": "Príncipe Autonomous Region",
+      "official_name:pt": "Região Autónoma do Príncipe"
+    }
+  }
+]

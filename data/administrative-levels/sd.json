@@ -1,0 +1,1088 @@
+[
+  {
+    "osm_id": -13172285,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-3774673,-192789",
+    "name": "Bahri",
+    "local_name": "بحري",
+    "name_en": "Bahri",
+    "all_tags": {
+      "name": "بحري",
+      "name:ar": "بحري",
+      "name:en": "Bahri",
+      "boundary": "administrative",
+      "way_area": "0.0119299",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -13156432,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-3774673,-192789",
+    "name": "East Nile",
+    "local_name": "شرق النيل",
+    "name_en": "East Nile",
+    "all_tags": {
+      "name": "شرق النيل",
+      "name:ar": "شرق النيل",
+      "name:en": "East Nile",
+      "boundary": "administrative",
+      "way_area": "0.0303503",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -13156416,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-3774673,-192789",
+    "name": "Omdurman",
+    "local_name": "امدرمان",
+    "name_en": "Omdurman",
+    "all_tags": {
+      "name": "امدرمان",
+      "name:ar": "امدرمان",
+      "name:en": "Omdurman",
+      "boundary": "administrative",
+      "way_area": "0.0374735",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -12313462,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-3774674,-192789",
+    "name": "Al Kamline Municipality",
+    "local_name": "Al Kamline Municipality",
+    "name_en": null,
+    "all_tags": {
+      "name": "Al Kamline Municipality",
+      "boundary": "administrative",
+      "way_area": "0.101073",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -8539348,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3774663,-192789",
+    "name": "Talodi",
+    "local_name": "تلودي",
+    "name_en": "Talodi",
+    "all_tags": {
+      "name": "تلودي",
+      "name:ar": "تلودي",
+      "name:en": "Talodi",
+      "name:fr": "Talodi",
+      "boundary": "administrative",
+      "way_area": "1.3198",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8539347,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3774663,-192789",
+    "name": "Kadugli",
+    "local_name": "Kadugli",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kadugli",
+      "boundary": "administrative",
+      "way_area": "0.954264",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8539346,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3774663,-192789",
+    "name": "Dilling",
+    "local_name": "Dilling",
+    "name_en": null,
+    "all_tags": {
+      "name": "Dilling",
+      "boundary": "administrative",
+      "way_area": "1.54326",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8539345,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3774663,-192789",
+    "name": "Abu Jubaiyah",
+    "local_name": "Abu Jubaiyah",
+    "name_en": null,
+    "all_tags": {
+      "name": "Abu Jubaiyah",
+      "boundary": "administrative",
+      "way_area": "1.68695",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8539344,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3774663,-192789",
+    "name": "Rashad",
+    "local_name": "Rashad",
+    "name_en": null,
+    "all_tags": {
+      "name": "Rashad",
+      "boundary": "administrative",
+      "way_area": "1.02339",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8539343,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-7329336,-192789",
+    "name": "Abyei",
+    "local_name": "Abyei أبيي",
+    "name_en": "Abyei",
+    "all_tags": {
+      "name": "Abyei أبيي",
+      "name:ar": "أبيي",
+      "name:de": "Abyei",
+      "name:en": "Abyei",
+      "name:es": "Abyei",
+      "name:fa": "ابی",
+      "name:ru": "Абьей",
+      "name:uk": "Аб'єй",
+      "boundary": "administrative",
+      "name:azb": "ابیی",
+      "way_area": "2.47753",
+      "wikidata": "Q4055266",
+      "admin_level": "6",
+      "name:az-Arab": "ابیی"
+    }
+  },
+  {
+    "osm_id": -8539342,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-7329336,-192789",
+    "name": "Lagawa",
+    "local_name": "لقاوة",
+    "name_en": "Lagawa",
+    "all_tags": {
+      "name": "لقاوة",
+      "name:ar": "لقاوة",
+      "name:en": "Lagawa",
+      "name:fr": "Al Lagowa",
+      "boundary": "administrative",
+      "way_area": "1.60523",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8539341,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-7329336,-192789",
+    "name": "As-Salam",
+    "local_name": "السلام",
+    "name_en": "As-Salam",
+    "all_tags": {
+      "name": "السلام",
+      "name:ar": "السلام",
+      "name:de": "As-Salam",
+      "name:en": "As-Salam",
+      "name:fr": "As Salam",
+      "boundary": "administrative",
+      "way_area": "0.807966",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8539340,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-7329336,-192789",
+    "name": "Ghubaysh",
+    "local_name": "غبيش",
+    "name_en": "Ghubaysh",
+    "all_tags": {
+      "name": "غبيش",
+      "name:ar": "غبيش",
+      "name:en": "Ghubaysh",
+      "name:fr": "Ghubaysh",
+      "boundary": "administrative",
+      "way_area": "1.63919",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8539339,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-7329336,-192789",
+    "name": "En Nuhud",
+    "local_name": "En Nuhud",
+    "name_en": null,
+    "all_tags": {
+      "name": "En Nuhud",
+      "boundary": "administrative",
+      "way_area": "2.82676",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8539338,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3774669,-192789",
+    "name": "Bara",
+    "local_name": "بارا",
+    "name_en": "Bara",
+    "all_tags": {
+      "name": "بارا",
+      "name:ar": "بارا",
+      "name:en": "Bara",
+      "name:fr": "Bara",
+      "boundary": "administrative",
+      "way_area": "0.70665",
+      "wikidata": "Q60489036",
+      "wikipedia": "ar:محلية بارا",
+      "admin_level": "6",
+      "wikipedia:ar": "محلية بارا",
+      "official_name": "محلية بارا",
+      "official_name:ar": "محلية بارا"
+    }
+  },
+  {
+    "osm_id": -8539337,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3774669,-192789",
+    "name": "Um Rawaba",
+    "local_name": "Um Rawaba",
+    "name_en": null,
+    "all_tags": {
+      "name": "Um Rawaba",
+      "boundary": "administrative",
+      "way_area": "1.94785",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8539336,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3774669,-192789",
+    "name": "Sheikan",
+    "local_name": "Sheikan",
+    "name_en": null,
+    "all_tags": {
+      "name": "Sheikan",
+      "boundary": "administrative",
+      "way_area": "1.64833",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8539335,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3774669,-192789",
+    "name": "Jebrat al Sheikh",
+    "local_name": "Jebrat al Sheikh",
+    "name_en": null,
+    "all_tags": {
+      "name": "Jebrat al Sheikh",
+      "boundary": "administrative",
+      "way_area": "2.47423",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8539334,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3774669,-192789",
+    "name": "Sowdari",
+    "local_name": "Sowdari",
+    "name_en": null,
+    "all_tags": {
+      "name": "Sowdari",
+      "boundary": "administrative",
+      "way_area": "9.02938",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8539333,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-192789",
+    "name": "Buram",
+    "local_name": "بورام",
+    "name_en": "Buram",
+    "all_tags": {
+      "name": "بورام",
+      "name:ar": "بورام",
+      "name:en": "Buram",
+      "name:fr": "Buram",
+      "boundary": "administrative",
+      "way_area": "3.03875",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8539332,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3774662,-192789",
+    "name": "Tulus",
+    "local_name": "Tulus",
+    "name_en": null,
+    "all_tags": {
+      "name": "Tulus",
+      "boundary": "administrative",
+      "way_area": "0.254267",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8539331,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3774662,-192789",
+    "name": "Id El Ghanem",
+    "local_name": "عد الغانم",
+    "name_en": "Id El Ghanem",
+    "all_tags": {
+      "name": "عد الغانم",
+      "name:ar": "عد الغانم",
+      "name:en": "Id El Ghanem",
+      "name:fr": "Id El Ghanem",
+      "boundary": "administrative",
+      "way_area": "1.83056",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8539330,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3774662,-192789",
+    "name": "Nyala",
+    "local_name": "نيالا",
+    "name_en": "Nyala",
+    "all_tags": {
+      "name": "نيالا",
+      "name:ar": "نيالا",
+      "name:en": "Nyala",
+      "name:fr": "Nyala",
+      "boundary": "administrative",
+      "way_area": "1.2296",
+      "wikidata": "Q851576",
+      "wikipedia": "ar:نيالا (السودان)",
+      "admin_level": "6",
+      "wikipedia:ar": "نيالا (السودان)"
+    }
+  },
+  {
+    "osm_id": -8539329,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3774662,-192789",
+    "name": "Kas",
+    "local_name": "Kas",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kas",
+      "boundary": "administrative",
+      "way_area": "0.112142",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8539328,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3774671,-192789",
+    "name": "Mukjar",
+    "local_name": "Mukjar",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mukjar",
+      "boundary": "administrative",
+      "way_area": "1.90572",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8539327,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3774671,-192789",
+    "name": "Zalingei",
+    "local_name": "Zalingei",
+    "name_en": null,
+    "all_tags": {
+      "name": "Zalingei",
+      "boundary": "administrative",
+      "way_area": "1.16999",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8539326,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3774668,-192789",
+    "name": "Kabkabiya",
+    "local_name": "Kabkabiya",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kabkabiya",
+      "boundary": "administrative",
+      "way_area": "1.32777",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8539325,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3774668,-192789",
+    "name": "Kutum",
+    "local_name": "كتم",
+    "name_en": "Kutum",
+    "all_tags": {
+      "name": "كتم",
+      "name:ar": "كتم",
+      "name:de": "Kutum",
+      "name:en": "Kutum",
+      "name:fr": "Kutum",
+      "boundary": "administrative",
+      "way_area": "2.91307",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8539324,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3774668,-192789",
+    "name": "Mellit",
+    "local_name": "Mellit",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mellit",
+      "boundary": "administrative",
+      "way_area": "18.6544",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8539323,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3774668,-192789",
+    "name": "Al Fasher",
+    "local_name": "Al Fasher",
+    "name_en": null,
+    "all_tags": {
+      "name": "Al Fasher",
+      "boundary": "administrative",
+      "way_area": "1.80563",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8539322,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3774668,-192789",
+    "name": "Umm Kaddada",
+    "local_name": "أم كدادة",
+    "name_en": "Umm Kaddada",
+    "all_tags": {
+      "name": "أم كدادة",
+      "name:ar": "أم كدادة",
+      "name:de": "Umm Kaddada",
+      "name:en": "Umm Kaddada",
+      "name:fr": "Umm Keddada",
+      "alt_name": "أم كدّد;أمّ كدّادة",
+      "boundary": "administrative",
+      "way_area": "2.19787",
+      "admin_level": "6",
+      "alt_name:ar": "أم كدّد;أمّ كدّادة"
+    }
+  },
+  {
+    "osm_id": -8539321,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3774676,-192789",
+    "name": "Al Gutaina",
+    "local_name": "Al Gutaina",
+    "name_en": null,
+    "all_tags": {
+      "name": "Al Gutaina",
+      "boundary": "administrative",
+      "way_area": "0.630231",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8539320,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3774676,-192789",
+    "name": "Ad Douiem",
+    "local_name": "Ad Douiem",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ad Douiem",
+      "boundary": "administrative",
+      "way_area": "0.766457",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8539319,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3774676,-192789",
+    "name": "Kosti",
+    "local_name": "كوستي",
+    "name_en": "Kosti",
+    "all_tags": {
+      "name": "كوستي",
+      "name:ar": "كوستي",
+      "name:en": "Kosti",
+      "name:fr": "Kosti",
+      "boundary": "administrative",
+      "way_area": "1.4348",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8539318,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3774676,-192789",
+    "name": "Al Jabalian",
+    "local_name": "الجبلين",
+    "name_en": "Al Jabalian",
+    "all_tags": {
+      "name": "الجبلين",
+      "name:ar": "الجبلين",
+      "name:en": "Al Jabalian",
+      "name:fr": "Al Jabalian",
+      "boundary": "administrative",
+      "way_area": "0.49207",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7329336,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192789",
+    "name": "West Kurdufan",
+    "local_name": "ولاية غرب كردفان",
+    "name_en": "West Kurdufan",
+    "all_tags": {
+      "name": "ولاية غرب كردفان",
+      "name:ar": "ولاية غرب كردفان",
+      "name:de": "West-Kurdufan",
+      "name:en": "West Kurdufan",
+      "name:es": "Kordofán del Oeste",
+      "name:fr": "Kordofan de l’Ouest",
+      "boundary": "administrative",
+      "way_area": "9.35668",
+      "wikidata": "Q536396",
+      "ISO3166-2": "SD-GK",
+      "admin_level": "4",
+      "is_in:country": "Sudan",
+      "is_in:continent": "Africa",
+      "is_in:country_code": "SD"
+    }
+  },
+  {
+    "osm_id": -3851428,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-3774673,-192789",
+    "name": "Khartoum",
+    "local_name": "الخرطوم",
+    "name_en": "Khartoum",
+    "all_tags": {
+      "name": "الخرطوم",
+      "name:ar": "الخرطوم",
+      "name:de": "Khartoum",
+      "name:en": "Khartoum",
+      "name:ku": "Xertûm",
+      "boundary": "administrative",
+      "way_area": "0.0341401",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -3774678,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192789",
+    "name": "Northern State",
+    "local_name": "الولاية الشمالية",
+    "name_en": "Northern State",
+    "all_tags": {
+      "name": "الولاية الشمالية",
+      "name:ar": "الولاية الشمالية",
+      "name:en": "Northern State",
+      "name:es": "Norte",
+      "name:fr": "Nord",
+      "name:ru": "Северная провинция",
+      "boundary": "administrative",
+      "way_area": "31.6524",
+      "wikidata": "Q310118",
+      "ISO3166-2": "SD-NO",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -3774677,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192789",
+    "name": "Blue Nile State",
+    "local_name": "ولاية النيل الأزرق",
+    "name_en": "Blue Nile State",
+    "all_tags": {
+      "name": "ولاية النيل الأزرق",
+      "name:ar": "ولاية النيل الأزرق",
+      "name:de": "Blauer Nil",
+      "name:en": "Blue Nile State",
+      "name:es": "Nilo Azul",
+      "name:fr": "Nil Bleu",
+      "boundary": "administrative",
+      "int_name": "An-Nil al-azraq",
+      "way_area": "3.00383",
+      "wikidata": "Q309489",
+      "ISO3166-2": "SD-NB",
+      "admin_level": "4",
+      "is_in:country": "Sudan",
+      "is_in:continent": "Africa",
+      "is_in:country_code": "SD"
+    }
+  },
+  {
+    "osm_id": -3774676,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192789",
+    "name": "White Nile State",
+    "local_name": "ولاية النيل الأبيض",
+    "name_en": "White Nile State",
+    "all_tags": {
+      "name": "ولاية النيل الأبيض",
+      "name:ar": "ولاية النيل الأبيض",
+      "name:de": "Weißer Nil",
+      "name:en": "White Nile State",
+      "name:es": "Nilo Blanco",
+      "name:fr": "Nil Blanc",
+      "boundary": "administrative",
+      "way_area": "3.32355",
+      "wikidata": "Q311371",
+      "ISO3166-2": "SD-NW",
+      "wikipedia": "ar:ولاية النيل الأبيض",
+      "admin_level": "4",
+      "is_in:country": "Sudan",
+      "is_in:continent": "Africa",
+      "is_in:country_code": "SD"
+    }
+  },
+  {
+    "osm_id": -3774675,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192789",
+    "name": "Gedarif State",
+    "local_name": "القضارف",
+    "name_en": "Gedarif State",
+    "all_tags": {
+      "name": "القضارف",
+      "name:ar": "القضارف",
+      "name:de": "Al-Qadarif",
+      "name:en": "Gedarif State",
+      "name:es": "Gadarif",
+      "name:fa": "القضارف",
+      "name:fr": "Al Qadarif",
+      "name:it": "Stato di Gadaref",
+      "name:ks": "القضارف",
+      "name:ur": "القضارف",
+      "boundary": "administrative",
+      "name:azb": "القضارف",
+      "way_area": "4.41427",
+      "wikidata": "Q309478",
+      "ISO3166-2": "SD-GD",
+      "wikipedia": "ar:ولاية القضارف",
+      "admin_level": "4",
+      "official_name": "ولاية القضارف",
+      "official_name:ar": "ولاية القضارف"
+    }
+  },
+  {
+    "osm_id": -3774674,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192789",
+    "name": "Gezira State",
+    "local_name": "ولاية الجزيرة",
+    "name_en": "Gezira State",
+    "all_tags": {
+      "name": "ولاية الجزيرة",
+      "name:ar": "ولاية الجزيرة",
+      "name:de": "Al-Dschazira",
+      "name:en": "Gezira State",
+      "name:es": "Gezira",
+      "name:fr": "Al Jazirah",
+      "boundary": "administrative",
+      "way_area": "2.10082",
+      "wikidata": "Q309469",
+      "ISO3166-2": "SD-GZ",
+      "admin_level": "4",
+      "is_in:country": "Sudan",
+      "is_in:continent": "Africa",
+      "is_in:country_code": "SD"
+    }
+  },
+  {
+    "osm_id": -3774673,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192789",
+    "name": "Khartoum State",
+    "local_name": "ولاية الخرطوم",
+    "name_en": "Khartoum State",
+    "all_tags": {
+      "name": "ولاية الخرطوم",
+      "name:ar": "ولاية الخرطوم",
+      "name:de": "Khartum",
+      "name:en": "Khartoum State",
+      "name:es": "Jartum",
+      "name:fr": "Khartoum",
+      "boundary": "administrative",
+      "way_area": "1.94967",
+      "wikidata": "Q310385",
+      "ISO3166-2": "SD-KH",
+      "admin_level": "4",
+      "is_in:country": "Sudan",
+      "is_in:continent": "Africa",
+      "is_in:country_code": "SD"
+    }
+  },
+  {
+    "osm_id": -3774672,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192789",
+    "name": "Red Sea State",
+    "local_name": "البحر الأحمر",
+    "name_en": "Red Sea State",
+    "all_tags": {
+      "name": "البحر الأحمر",
+      "name:ar": "البحر الأحمر",
+      "name:de": "Rotes Meer",
+      "name:en": "Red Sea State",
+      "name:es": "Mar Rojo",
+      "name:fa": "دریای سرخ",
+      "name:fr": "Mer Rouge",
+      "name:ru": "Красное Море",
+      "name:ur": "بحیرہ احمر",
+      "boundary": "administrative",
+      "int_name": "Al Baḩr al Aḩmar",
+      "name:azb": "قیزیل دنیز",
+      "name:pnb": "رتا سمندر",
+      "way_area": "19.335",
+      "wikidata": "Q310120",
+      "ISO3166-2": "SD-RS",
+      "wikipedia": "ar:ولاية البحر الأحمر",
+      "admin_level": "4",
+      "official_name": "ولاية البحر الأحمر",
+      "official_name:ar": "ولاية البحر الأحمر"
+    }
+  },
+  {
+    "osm_id": -3774671,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192789",
+    "name": "Central Darfur",
+    "local_name": "ولاية وسط دارفور",
+    "name_en": "Central Darfur",
+    "all_tags": {
+      "name": "ولاية وسط دارفور",
+      "name:ar": "ولاية وسط دارفور",
+      "name:de": "Zentral-Darfur",
+      "name:en": "Central Darfur",
+      "name:es": "Darfur Central",
+      "name:fr": "Darfour-Central",
+      "boundary": "administrative",
+      "way_area": "3.07571",
+      "wikidata": "Q4116493",
+      "ISO3166-2": "SD-DC",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -3774670,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192789",
+    "name": "East Darfur State",
+    "local_name": "ولاية شرق دارفور",
+    "name_en": "East Darfur State",
+    "all_tags": {
+      "name": "ولاية شرق دارفور",
+      "name:ar": "ولاية شرق دارفور",
+      "name:de": "Ost-Darfur",
+      "name:en": "East Darfur State",
+      "name:es": "Darfur del Este",
+      "name:fr": "Darfour-Oriental",
+      "boundary": "administrative",
+      "way_area": "4.54506",
+      "wikidata": "Q3545641",
+      "ISO3166-2": "SD-DE",
+      "admin_level": "4",
+      "is_in:country": "Sudan",
+      "is_in:continent": "Africa",
+      "is_in:country_code": "SD"
+    }
+  },
+  {
+    "osm_id": -3774669,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192789",
+    "name": "North Kordofan State",
+    "local_name": "ولاية شمال كردفان",
+    "name_en": "North Kordofan State",
+    "all_tags": {
+      "name": "ولاية شمال كردفان",
+      "name:ar": "ولاية شمال كردفان",
+      "name:de": "Nord-Kurdufan",
+      "name:en": "North Kordofan State",
+      "name:es": "Kordofán del Norte",
+      "name:fr": "Kordofan du Nord",
+      "name:ru": "Северный Кордофан",
+      "boundary": "administrative",
+      "way_area": "15.8064",
+      "wikidata": "Q864093",
+      "ISO3166-2": "SD-KN",
+      "admin_level": "4",
+      "is_in:country": "Sudan",
+      "is_in:continent": "Africa",
+      "is_in:country_code": "SD"
+    }
+  },
+  {
+    "osm_id": -3774668,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192789",
+    "name": "North Darfur State",
+    "local_name": "ولاية شمال دارفور",
+    "name_en": "North Darfur State",
+    "all_tags": {
+      "name": "ولاية شمال دارفور",
+      "name:ar": "ولاية شمال دارفور",
+      "name:de": "Nord-Darfur",
+      "name:en": "North Darfur State",
+      "name:es": "Darfur del Norte",
+      "name:fr": "Darfour du Nord",
+      "name:ru": "Северный Дарфур",
+      "boundary": "administrative",
+      "way_area": "26.8987",
+      "wikidata": "Q688306",
+      "ISO3166-2": "SD-DN",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -3774667,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192789",
+    "name": "Sennar State",
+    "local_name": "سنار",
+    "name_en": "Sennar State",
+    "all_tags": {
+      "name": "سنار",
+      "name:ar": "سنار",
+      "name:de": "Sannar",
+      "name:en": "Sennar State",
+      "name:es": "Sennar",
+      "name:fa": "سنار",
+      "name:fr": "Sannar",
+      "name:ks": "سنار",
+      "name:ur": "سنار",
+      "boundary": "administrative",
+      "name:azb": "سنار",
+      "way_area": "3.38458",
+      "wikidata": "Q865534",
+      "ISO3166-2": "SD-SI",
+      "wikipedia": "ar:ولاية سنار",
+      "admin_level": "4",
+      "official_name": "ولاية سنار",
+      "official_name:ar": "ولاية سنار"
+    }
+  },
+  {
+    "osm_id": -3774666,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192789",
+    "name": "River Nile",
+    "local_name": "نهر النيل",
+    "name_en": "River Nile",
+    "all_tags": {
+      "name": "نهر النيل",
+      "name:ar": "نهر النيل",
+      "name:de": "Nil-Fluss",
+      "name:en": "River Nile",
+      "name:es": "Río Nilo",
+      "name:fr": "Nil",
+      "name:ru": "Нил",
+      "name:ur": "دریائے نیلم",
+      "boundary": "administrative",
+      "name:azb": "نیل چایی",
+      "name:pnb": "دریاۓ نیل",
+      "way_area": "10.3434",
+      "wikidata": "Q849297",
+      "ISO3166-2": "SD-NR",
+      "wikipedia": "ar:ولاية نهر النيل",
+      "admin_level": "4",
+      "wikipedia:ar": "ولاية نهر النيل",
+      "official_name": "ولاية نهر النيل",
+      "official_name:ar": "ولاية نهر النيل",
+      "official_name:azb": "نیل چایی اوستانی",
+      "official_name:pnb": "دریاۓ نیل صوبہ"
+    }
+  },
+  {
+    "osm_id": -3774665,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192789",
+    "name": "Kassala",
+    "local_name": "كسلا",
+    "name_en": "Kassala",
+    "all_tags": {
+      "name": "كسلا",
+      "name:ar": "كسلا",
+      "name:de": "Kassala",
+      "name:en": "Kassala",
+      "name:es": "Kasala",
+      "name:fa": "کسلا",
+      "name:fr": "Kassala",
+      "name:ks": "کسلا",
+      "name:ur": "کسلا",
+      "boundary": "administrative",
+      "name:azb": "کسلا",
+      "way_area": "4.85553",
+      "wikidata": "Q954963",
+      "ISO3166-2": "SD-KA",
+      "wikipedia": "ar:ولاية كسلا",
+      "admin_level": "4",
+      "official_name": "ولاية كسلا",
+      "official_name:ar": "ولاية كسلا",
+      "official_name:en": "Kassala State"
+    }
+  },
+  {
+    "osm_id": -3774664,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192789",
+    "name": "West Darfur State",
+    "local_name": "ولاية غرب دارفور",
+    "name_en": "West Darfur State",
+    "all_tags": {
+      "name": "ولاية غرب دارفور",
+      "name:ar": "ولاية غرب دارفور",
+      "name:de": "West-Darfur",
+      "name:en": "West Darfur State",
+      "name:es": "Darfur del Oeste",
+      "name:fr": "Darfour-Occidental",
+      "boundary": "administrative",
+      "way_area": "1.8275",
+      "wikidata": "Q846331",
+      "ISO3166-2": "SD-DW",
+      "wikipedia": "ar:ولاية غرب دارفور",
+      "short_name": "غرب دارفور",
+      "admin_level": "4",
+      "short_name:ar": "غرب دارفور"
+    }
+  },
+  {
+    "osm_id": -3774663,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192789",
+    "name": "South Kordofan State",
+    "local_name": "ولاية جنوب كردفان",
+    "name_en": "South Kordofan State",
+    "all_tags": {
+      "name": "ولاية جنوب كردفان",
+      "name:ar": "ولاية جنوب كردفان",
+      "name:de": "Süd-Kurdufan",
+      "name:en": "South Kordofan State",
+      "name:es": "Kordofán del Sur",
+      "name:fr": "Kordofan du Sud",
+      "name:ru": "Южный Кордофан",
+      "boundary": "administrative",
+      "way_area": "6.52767",
+      "wikidata": "Q465490",
+      "ISO3166-2": "SD-KS",
+      "admin_level": "4",
+      "is_in:country": "Sudan",
+      "is_in:continent": "Africa",
+      "is_in:country_code": "SD"
+    }
+  },
+  {
+    "osm_id": -3774662,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192789",
+    "name": "South Darfur State",
+    "local_name": "جنوب دارفور",
+    "name_en": "South Darfur State",
+    "all_tags": {
+      "name": "جنوب دارفور",
+      "name:ar": "جنوب دارفور",
+      "name:de": "Süd-Darfur",
+      "name:en": "South Darfur State",
+      "name:es": "Darfur del Sur",
+      "name:fa": "دارفور جنوبی",
+      "name:fr": "Darfour du Sud",
+      "name:ur": "جنوبی دارفور",
+      "boundary": "administrative",
+      "name:azb": "گونئی دارفور",
+      "way_area": "5.41774",
+      "wikidata": "Q838778",
+      "ISO3166-2": "SD-DS",
+      "wikipedia": "ar:ولاية جنوب دارفور",
+      "admin_level": "4",
+      "wikipedia:ar": "ولاية جنوب دارفور",
+      "official_name": "ولاية جنوب دارفور",
+      "official_name:ar": "ولاية جنوب دارفور"
+    }
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "osm_id": -12669508,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-8512366,-2184073",
+    "name": "Qassiarsuk",
+    "local_name": "Qassiarsuk",
+    "name_en": null,
+    "all_tags": {
+      "name": "Qassiarsuk",
+      "boundary": "administrative",
+      "way_area": "0.0187395",
+      "admin_level": "5",
+      "protect_class": "5",
+      "protection_title": "UNESCO World Heritage List"
+    }
+  },
+  {
+    "osm_id": -11878829,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-2184073",
+    "name": "Pituffik",
+    "local_name": "Pituffik",
+    "name_en": null,
+    "all_tags": {
+      "name": "Pituffik",
+      "boundary": "administrative",
+      "way_area": "0.191695",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -8515166,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-2184073",
+    "name": "Sermersooq",
+    "local_name": "Sermersooq",
+    "name_en": null,
+    "all_tags": {
+      "name": "Sermersooq",
+      "name:ar": "سيرمرسوك",
+      "boundary": "administrative",
+      "way_area": "133.663",
+      "wikidata": "Q695387",
+      "ISO3166-2": "GL-SM",
+      "wikipedia": "en:Sermersooq",
+      "admin_level": "4",
+      "official_name": "Kommuneqarfik Sermersooq"
+    }
+  },
+  {
+    "osm_id": -8514493,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-2184073",
+    "name": "Avannaata",
+    "local_name": "Avannaata",
+    "name_en": null,
+    "all_tags": {
+      "name": "Avannaata",
+      "name:ar": "أفناتا",
+      "boundary": "administrative",
+      "way_area": "200.937",
+      "wikidata": "Q44593409",
+      "ISO3166-2": "GL-AV",
+      "wikipedia": "en:Avannaata",
+      "admin_level": "4",
+      "official_name": "Avannaata Kommunia"
+    }
+  },
+  {
+    "osm_id": -8514395,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-2184073",
+    "name": "Qeqertalik",
+    "local_name": "Qeqertalik",
+    "name_en": null,
+    "all_tags": {
+      "name": "Qeqertalik",
+      "name:ar": "ككرتليك",
+      "boundary": "administrative",
+      "way_area": "18.4976",
+      "wikidata": "Q44593337",
+      "ISO3166-2": "GL-QT",
+      "wikipedia": "en:Qeqertalik",
+      "admin_level": "4",
+      "official_name": "Kommune Qeqertalik"
+    }
+  },
+  {
+    "osm_id": -8514368,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-2184073",
+    "name": "Qeqqata",
+    "local_name": "Qeqqata",
+    "name_en": null,
+    "all_tags": {
+      "name": "Qeqqata",
+      "name:ar": "كيكاتا",
+      "boundary": "administrative",
+      "way_area": "24.1398",
+      "wikidata": "Q476233",
+      "ISO3166-2": "GL-QE",
+      "wikipedia": "en:Qeqqata",
+      "admin_level": "4",
+      "official_name": "Qeqqata Kommunia"
+    }
+  },
+  {
+    "osm_id": -8512366,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-2184073",
+    "name": "Kujalleq",
+    "local_name": "Kujalleq",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kujalleq",
+      "name:ar": "كوياليك",
+      "boundary": "administrative",
+      "way_area": "13.8964",
+      "wikidata": "Q478813",
+      "ISO3166-2": "GL-KU",
+      "wikipedia": "en:Kujalleq",
+      "admin_level": "4",
+      "official_name": "Kommune Kujalleq"
+    }
+  }
+]

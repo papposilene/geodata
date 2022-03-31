@@ -1,0 +1,379 @@
+[
+  {
+    "osm_id": -13288386,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-1872673",
+    "name": "Fanuatapu",
+    "local_name": "Fanuatapu",
+    "name_en": null,
+    "all_tags": {
+      "name": "Fanuatapu",
+      "place": "islet",
+      "boundary": "administrative",
+      "way_area": "5.40596e-06",
+      "wikidata": "Q1107394",
+      "wikipedia": "en:Fanuatapu",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -13288385,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-1872673",
+    "name": "Namuʻa",
+    "local_name": "Namuʻa",
+    "name_en": null,
+    "all_tags": {
+      "name": "Namuʻa",
+      "place": "islet",
+      "boundary": "administrative",
+      "way_area": "1.41907e-05",
+      "wikidata": "Q1107410",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -13285809,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-1872673",
+    "name": "Aʻana",
+    "local_name": "Aʻana",
+    "name_en": null,
+    "all_tags": {
+      "name": "Aʻana",
+      "boundary": "administrative",
+      "way_area": "0.0160268",
+      "wikidata": "Q1154121",
+      "ISO3166-2": "WS-AA",
+      "wikipedia": "de:Aʻana",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -13285808,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-1872673",
+    "name": "Tuamasaga",
+    "local_name": "Tuamasaga",
+    "name_en": null,
+    "all_tags": {
+      "name": "Tuamasaga",
+      "boundary": "administrative",
+      "way_area": "0.0364095",
+      "wikidata": "Q1144482",
+      "ISO3166-2": "WS-TU",
+      "wikipedia": "de:Tuamasaga",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -13285780,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-1872673",
+    "name": "Ātua",
+    "local_name": "Ātua",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ātua",
+      "boundary": "administrative",
+      "way_area": "0.0355813",
+      "wikidata": "Q1154332",
+      "ISO3166-2": "WS-AT",
+      "wikipedia": "de:Atua",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -13285779,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-1872673",
+    "name": "Vaʻa-o-Fonoti",
+    "local_name": "Vaʻa-o-Fonoti",
+    "name_en": null,
+    "all_tags": {
+      "name": "Vaʻa-o-Fonoti",
+      "boundary": "administrative",
+      "way_area": "0.00275369",
+      "wikidata": "Q1154109",
+      "ISO3166-2": "WS-VF",
+      "wikipedia": "de:Vaʻa-o-Fonoti",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -13285778,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-1872673",
+    "name": "Aiga-i-le-Tai",
+    "local_name": "Aiga-i-le-Tai",
+    "name_en": null,
+    "all_tags": {
+      "name": "Aiga-i-le-Tai",
+      "boundary": "administrative",
+      "way_area": "0.00230725",
+      "wikidata": "Q1144488",
+      "ISO3166-2": "WS-AL",
+      "wikipedia": "de:Aiga-i-le-Tai",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -13285430,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-1872673",
+    "name": "Gagaʻemauga",
+    "local_name": "Gagaʻemauga",
+    "name_en": null,
+    "all_tags": {
+      "name": "Gagaʻemauga",
+      "boundary": "administrative",
+      "way_area": "0.0192175",
+      "wikidata": "Q1193143",
+      "ISO3166-2": "WS-GE",
+      "wikipedia": "de:Gagaʻemauga",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -13285429,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-1872673",
+    "name": "Gagaʻifomauga",
+    "local_name": "Gagaʻifomauga",
+    "name_en": null,
+    "all_tags": {
+      "name": "Gagaʻifomauga",
+      "boundary": "administrative",
+      "way_area": "0.0264847",
+      "wikidata": "Q1193134",
+      "ISO3166-2": "WS-GI",
+      "wikipedia": "de:Gagaʻifomauga",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -13285392,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-1872673",
+    "name": "Faʻasaleleaga",
+    "local_name": "Faʻasaleleaga",
+    "name_en": null,
+    "all_tags": {
+      "name": "Faʻasaleleaga",
+      "boundary": "administrative",
+      "way_area": "0.0217446",
+      "wikidata": "Q1154134",
+      "ISO3166-2": "WS-FA",
+      "wikipedia": "de:Faʻasaleleaga",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -13285391,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-1872673",
+    "name": "Palauli",
+    "local_name": "Palauli",
+    "name_en": null,
+    "all_tags": {
+      "name": "Palauli",
+      "boundary": "administrative",
+      "way_area": "0.0435471",
+      "wikidata": "Q1147216",
+      "ISO3166-2": "WS-PA",
+      "wikipedia": "de:Palauli",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -13285390,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-1872673",
+    "name": "Satupaʻitea",
+    "local_name": "Satupaʻitea",
+    "name_en": null,
+    "all_tags": {
+      "name": "Satupaʻitea",
+      "boundary": "administrative",
+      "way_area": "0.0139865",
+      "wikidata": "Q651573",
+      "ISO3166-2": "WS-SA",
+      "wikipedia": "de:Satupaʻitea",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -13285389,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-1872673",
+    "name": "Vaisigano",
+    "local_name": "Vaisigano",
+    "name_en": null,
+    "all_tags": {
+      "name": "Vaisigano",
+      "boundary": "administrative",
+      "way_area": "0.018904",
+      "wikidata": "Q1193139",
+      "ISO3166-2": "WS-VS",
+      "wikipedia": "de:Vaisigano",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": 22383829,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-1872673",
+    "name": "Nuʻulua",
+    "local_name": "Nuʻulua",
+    "name_en": null,
+    "all_tags": {
+      "area": "yes",
+      "name": "Nuʻulua",
+      "place": "islet",
+      "boundary": "administrative",
+      "way_area": "2.09277e-05",
+      "wikidata": "Q1107404",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": 22383853,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-1872673",
+    "name": "Nuʻutele",
+    "local_name": "Nuʻutele",
+    "name_en": null,
+    "all_tags": {
+      "area": "yes",
+      "name": "Nuʻutele",
+      "place": "islet",
+      "boundary": "administrative",
+      "way_area": "9.1146e-05",
+      "wikidata": "Q1218653",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": 22384256,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-1872673",
+    "name": "Nuʻusafeʻe",
+    "local_name": "Nuʻusafeʻe",
+    "name_en": null,
+    "all_tags": {
+      "area": "yes",
+      "name": "Nuʻusafeʻe",
+      "place": "islet",
+      "boundary": "administrative",
+      "way_area": "1.82215e-06",
+      "wikidata": "Q8837663",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": 22387922,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-1872673",
+    "name": "Nu'ulopa",
+    "local_name": "Nu'ulopa",
+    "name_en": null,
+    "all_tags": {
+      "area": "yes",
+      "name": "Nu'ulopa",
+      "place": "islet",
+      "alt_name": "Bat Island",
+      "boundary": "administrative",
+      "way_area": "7.7207e-07",
+      "wikidata": "Q2538753",
+      "admin_level": "4",
+      "alt_name:cs": "Ostrov netopýrů"
+    }
+  },
+  {
+    "osm_id": 22387944,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-1872673",
+    "name": "Manono",
+    "local_name": "Manono",
+    "name_en": null,
+    "all_tags": {
+      "area": "yes",
+      "name": "Manono",
+      "place": "island",
+      "boundary": "administrative",
+      "way_area": "0.000243313",
+      "wikidata": "Q681871",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": 90424381,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-1872673",
+    "name": "Lepuia'i",
+    "local_name": "Lepuia'i",
+    "name_en": null,
+    "all_tags": {
+      "area": "yes",
+      "name": "Lepuia'i",
+      "place": "islet",
+      "boundary": "administrative",
+      "way_area": "6.12608e-08",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": 139732850,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-1872673",
+    "name": "Apolima",
+    "local_name": "Apolima",
+    "name_en": null,
+    "all_tags": {
+      "area": "yes",
+      "name": "Apolima",
+      "place": "islet",
+      "boundary": "administrative",
+      "way_area": "8.36827e-05",
+      "wikidata": "Q618891",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": 762759055,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-1872673",
+    "name": "Fatuanava",
+    "local_name": "Fatuanava",
+    "name_en": null,
+    "all_tags": {
+      "area": "yes",
+      "name": "Fatuanava",
+      "place": "islet",
+      "boundary": "administrative",
+      "way_area": "3.90999e-08",
+      "admin_level": "4"
+    }
+  }
+]

@@ -1,0 +1,1687 @@
+[
+  {
+    "osm_id": -5846427,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2848208,-192784",
+    "name": "Commune d'Ekpè",
+    "local_name": "Commune d'Ekpè",
+    "name_en": null,
+    "all_tags": {
+      "name": "Commune d'Ekpè",
+      "boundary": "administrative",
+      "way_area": "0.000909006",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -2946536,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2846891,-192784",
+    "name": "Toviklin",
+    "local_name": "Toviklin",
+    "name_en": null,
+    "all_tags": {
+      "name": "Toviklin",
+      "name:fr": "Toviklin",
+      "boundary": "administrative",
+      "way_area": "0.0109322",
+      "admin_level": "6",
+      "official_name": "Commune de Toviklin"
+    }
+  },
+  {
+    "osm_id": -2946535,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2846891,-192784",
+    "name": "Lalo",
+    "local_name": "Lalo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Lalo",
+      "name:fr": "Lalo",
+      "boundary": "administrative",
+      "way_area": "0.0359739",
+      "admin_level": "6",
+      "official_name": "Commune de Lalo"
+    }
+  },
+  {
+    "osm_id": -2946534,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2846891,-192784",
+    "name": "Klouékanmè",
+    "local_name": "Klouékanmè",
+    "name_en": null,
+    "all_tags": {
+      "name": "Klouékanmè",
+      "name:fr": "Klouékanmè",
+      "boundary": "administrative",
+      "way_area": "0.0303982",
+      "admin_level": "6",
+      "official_name": "Commune de Klouékanmè"
+    }
+  },
+  {
+    "osm_id": -2946533,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2846891,-192784",
+    "name": "Djakotomey",
+    "local_name": "Djakotomey",
+    "name_en": null,
+    "all_tags": {
+      "name": "Djakotomey",
+      "name:fr": "Djakotomey",
+      "boundary": "administrative",
+      "way_area": "0.0204279",
+      "admin_level": "6",
+      "official_name": "Commune de Djakotomey"
+    }
+  },
+  {
+    "osm_id": -2946532,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2846891,-192784",
+    "name": "Aplahoué",
+    "local_name": "Aplahoué",
+    "name_en": null,
+    "all_tags": {
+      "name": "Aplahoué",
+      "name:ar": "أبلاهوي",
+      "name:fr": "Aplahoué",
+      "boundary": "administrative",
+      "way_area": "0.0764535",
+      "admin_level": "6",
+      "official_name": "Commune d'Aplahoué",
+      "official_name:ar": "بلدية أبلاهوي"
+    }
+  },
+  {
+    "osm_id": -2946430,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2848205,-192784",
+    "name": "Zè",
+    "local_name": "Zè",
+    "name_en": null,
+    "all_tags": {
+      "name": "Zè",
+      "name:fr": "Zè",
+      "boundary": "administrative",
+      "way_area": "0.0502791",
+      "admin_level": "6",
+      "official_name": "Commune de Zè"
+    }
+  },
+  {
+    "osm_id": -2946429,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2848205,-192784",
+    "name": "Tori-Bossito",
+    "local_name": "Tori-Bossito",
+    "name_en": null,
+    "all_tags": {
+      "name": "Tori-Bossito",
+      "name:fr": "Tori-Bossito",
+      "boundary": "administrative",
+      "way_area": "0.0269404",
+      "admin_level": "6",
+      "official_name": "Commune de Tori-Bossito"
+    }
+  },
+  {
+    "osm_id": -2946428,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2848205,-192784",
+    "name": "Toffo",
+    "local_name": "Toffo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Toffo",
+      "name:fr": "Toffo",
+      "boundary": "administrative",
+      "way_area": "0.0422619",
+      "admin_level": "6",
+      "official_name": "Commune de Toffo"
+    }
+  },
+  {
+    "osm_id": -2946427,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2848207,-192784",
+    "name": "Lokossa",
+    "local_name": "Lokossa",
+    "name_en": null,
+    "all_tags": {
+      "name": "Lokossa",
+      "name:ar": "لوكوسا",
+      "name:fr": "Lokossa",
+      "boundary": "administrative",
+      "way_area": "0.0324757",
+      "wikidata": "Q219058",
+      "wikipedia": "fr:Lokossa",
+      "admin_level": "6",
+      "official_name": "Commune de Lokossa",
+      "official_name:ar": "بلدية لوكوسا"
+    }
+  },
+  {
+    "osm_id": -2946426,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2848205,-192784",
+    "name": "Kpomassè",
+    "local_name": "Kpomassè",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kpomassè",
+      "name:fr": "Kpomassè",
+      "boundary": "administrative",
+      "way_area": "0.0248658",
+      "wikidata": "Q2693366",
+      "admin_level": "6",
+      "official_name": "Commune de Kpomassè"
+    }
+  },
+  {
+    "osm_id": -2946425,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2848207,-192784",
+    "name": "Houéyogbé",
+    "local_name": "Houéyogbé",
+    "name_en": null,
+    "all_tags": {
+      "name": "Houéyogbé",
+      "name:fr": "Houéyogbé",
+      "boundary": "administrative",
+      "way_area": "0.023367",
+      "admin_level": "6",
+      "official_name": "Commune d'Houéyogbé"
+    }
+  },
+  {
+    "osm_id": -2946424,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2848207,-192784",
+    "name": "Grand-Popo",
+    "local_name": "Grand-Popo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Grand-Popo",
+      "name:fr": "Grand-Popo",
+      "boundary": "administrative",
+      "way_area": "0.0237516",
+      "wikidata": "Q1542478",
+      "admin_level": "6",
+      "official_name": "Commune de Grand-Popo"
+    }
+  },
+  {
+    "osm_id": -2946423,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2848207,-192784",
+    "name": "Dogbo",
+    "local_name": "Dogbo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Dogbo",
+      "name:ar": "دغبو",
+      "name:fr": "Dogbo",
+      "boundary": "administrative",
+      "way_area": "0.0214915",
+      "admin_level": "6",
+      "official_name": "Commune de Dogbo",
+      "official_name:ar": "بلدية دغبو"
+    }
+  },
+  {
+    "osm_id": -2946422,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2848207,-192784",
+    "name": "Comé",
+    "local_name": "Comé",
+    "name_en": null,
+    "all_tags": {
+      "name": "Comé",
+      "name:fr": "Comé",
+      "boundary": "administrative",
+      "way_area": "0.0108396",
+      "wikidata": "Q31550725",
+      "admin_level": "6",
+      "official_name": "Commune de Comé"
+    }
+  },
+  {
+    "osm_id": -2946421,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2848207,-192784",
+    "name": "Bopa",
+    "local_name": "Bopa",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bopa",
+      "name:fr": "Bopa",
+      "boundary": "administrative",
+      "way_area": "0.0298359",
+      "admin_level": "6",
+      "official_name": "Commune de Bopa"
+    }
+  },
+  {
+    "osm_id": -2946420,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2848207,-192784",
+    "name": "Athiémé",
+    "local_name": "Athiémé",
+    "name_en": null,
+    "all_tags": {
+      "name": "Athiémé",
+      "name:fr": "Athiémé",
+      "boundary": "administrative",
+      "way_area": "0.0121794",
+      "admin_level": "6",
+      "official_name": "Commune d'Athiémé"
+    }
+  },
+  {
+    "osm_id": -2946419,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2848205,-192784",
+    "name": "Allada",
+    "local_name": "Allada",
+    "name_en": null,
+    "all_tags": {
+      "name": "Allada",
+      "name:ar": "ألادا",
+      "name:fr": "Allada",
+      "boundary": "administrative",
+      "way_area": "0.0308213",
+      "wikidata": "Q31550548",
+      "admin_level": "6",
+      "official_name": "Commune d'Allada",
+      "official_name:ar": "بلدية ألادا"
+    }
+  },
+  {
+    "osm_id": -2946173,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2848205,-192784",
+    "name": "Ouidah",
+    "local_name": "Ouidah",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ouidah",
+      "name:ar": "أويدا",
+      "name:fr": "Ouidah",
+      "boundary": "administrative",
+      "way_area": "0.0256667",
+      "wikidata": "Q31550580",
+      "admin_level": "6",
+      "official_name": "Commune d'Ouidah",
+      "official_name:ar": "بلدية أويدا"
+    }
+  },
+  {
+    "osm_id": -2946172,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2848205,-192784",
+    "name": "Abomey-Calavi",
+    "local_name": "Abomey-Calavi",
+    "name_en": null,
+    "all_tags": {
+      "name": "Abomey-Calavi",
+      "name:ar": "عبومي كالاوي",
+      "name:fr": "Abomey-Calavi",
+      "boundary": "administrative",
+      "way_area": "0.0393806",
+      "wikidata": "Q31550532",
+      "admin_level": "6",
+      "official_name": "Commune d'Abomey-Calavi",
+      "official_name:ar": "بلدية عبومي كالاوي"
+    }
+  },
+  {
+    "osm_id": -2946143,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2848205,-192784",
+    "name": "Sô-Ava",
+    "local_name": "Sô-Ava",
+    "name_en": null,
+    "all_tags": {
+      "name": "Sô-Ava",
+      "name:fr": "Sô-Ava",
+      "boundary": "administrative",
+      "way_area": "0.0181592",
+      "admin_level": "6",
+      "official_name": "Commune de Sô-Ava"
+    }
+  },
+  {
+    "osm_id": -2946032,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2846873,-192784",
+    "name": "Za-Kpota",
+    "local_name": "Za-Kpota",
+    "name_en": null,
+    "all_tags": {
+      "name": "Za-Kpota",
+      "name:fr": "Za-Kpota",
+      "boundary": "administrative",
+      "way_area": "0.0310347",
+      "admin_level": "6",
+      "official_name": "Commune de Za-Kpota"
+    }
+  },
+  {
+    "osm_id": -2946031,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2846873,-192784",
+    "name": "Djidja",
+    "local_name": "Djidja",
+    "name_en": null,
+    "all_tags": {
+      "name": "Djidja",
+      "name:fr": "Djidja",
+      "boundary": "administrative",
+      "way_area": "0.180576",
+      "admin_level": "6",
+      "official_name": "Commune de Djidja"
+    }
+  },
+  {
+    "osm_id": -2946030,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2846873,-192784",
+    "name": "Covè",
+    "local_name": "Covè",
+    "name_en": null,
+    "all_tags": {
+      "name": "Covè",
+      "name:fr": "Covè",
+      "boundary": "administrative",
+      "way_area": "0.0385798",
+      "admin_level": "6",
+      "official_name": "Commune de Covè"
+    }
+  },
+  {
+    "osm_id": -2946029,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2846873,-192784",
+    "name": "Bohicon",
+    "local_name": "Bohicon",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bohicon",
+      "name:ar": "بوهيكون",
+      "name:fr": "Bohicon",
+      "boundary": "administrative",
+      "way_area": "0.0139247",
+      "wikidata": "Q2356092",
+      "admin_level": "6",
+      "official_name": "Commune de Bohicon",
+      "official_name:ar": "بلدية بوهيكون"
+    }
+  },
+  {
+    "osm_id": -2946028,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2846873,-192784",
+    "name": "Agbangnizoun",
+    "local_name": "Agbangnizoun",
+    "name_en": null,
+    "all_tags": {
+      "name": "Agbangnizoun",
+      "name:fr": "Agbangnizoun",
+      "boundary": "administrative",
+      "way_area": "0.0175224",
+      "admin_level": "6",
+      "official_name": "Commune d'Agbangnizoun"
+    }
+  },
+  {
+    "osm_id": -2946027,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2846873,-192784",
+    "name": "Abomey",
+    "local_name": "Abomey",
+    "name_en": null,
+    "all_tags": {
+      "name": "Abomey",
+      "name:ar": "أبومية",
+      "name:fr": "Abomey",
+      "boundary": "administrative",
+      "way_area": "0.0113659",
+      "wikidata": "Q31550517",
+      "admin_level": "6",
+      "official_name": "Commune d'Abomey",
+      "official_name:ar": "بلدية أبومية"
+    }
+  },
+  {
+    "osm_id": -2945975,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2846873,-192784",
+    "name": "Zogbodomey",
+    "local_name": "Zogbodomey",
+    "name_en": null,
+    "all_tags": {
+      "name": "Zogbodomey",
+      "name:fr": "Zogbodomey",
+      "boundary": "administrative",
+      "way_area": "0.0659029",
+      "admin_level": "6",
+      "official_name": "Commune de Zogbodomey"
+    }
+  },
+  {
+    "osm_id": -2945974,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2846873,-192784",
+    "name": "Zangnanado",
+    "local_name": "Zangnanado",
+    "name_en": null,
+    "all_tags": {
+      "name": "Zangnanado",
+      "name:fr": "Zangnanado",
+      "boundary": "administrative",
+      "way_area": "0.0450543",
+      "admin_level": "6",
+      "official_name": "Commune de Zangnanado"
+    }
+  },
+  {
+    "osm_id": -2945973,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2846873,-192784",
+    "name": "Ouinhi",
+    "local_name": "Ouinhi",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ouinhi",
+      "name:fr": "Ouinhi",
+      "boundary": "administrative",
+      "way_area": "0.0207845",
+      "admin_level": "6",
+      "official_name": "Commune d'Ouinhi"
+    }
+  },
+  {
+    "osm_id": -2945937,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2848208,-192784",
+    "name": "Dangbo",
+    "local_name": "Dangbo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Dangbo",
+      "name:fr": "Dangbo",
+      "boundary": "administrative",
+      "way_area": "0.0122363",
+      "admin_level": "6",
+      "official_name": "Commune de Dangbo"
+    }
+  },
+  {
+    "osm_id": -2945936,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2848208,-192784",
+    "name": "Bonou",
+    "local_name": "Bonou",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bonou",
+      "name:fr": "Bonou",
+      "boundary": "administrative",
+      "way_area": "0.0263635",
+      "admin_level": "6",
+      "official_name": "Commune de Bonou"
+    }
+  },
+  {
+    "osm_id": -2945935,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2848208,-192784",
+    "name": "Adjohoun",
+    "local_name": "Adjohoun",
+    "name_en": null,
+    "all_tags": {
+      "name": "Adjohoun",
+      "name:fr": "Adjohoun",
+      "boundary": "administrative",
+      "way_area": "0.0245626",
+      "admin_level": "6",
+      "official_name": "Commune d'Adjohoun"
+    }
+  },
+  {
+    "osm_id": -2945927,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2848208,-192784",
+    "name": "Akpro-Missérété",
+    "local_name": "Akpro-Missérété",
+    "name_en": null,
+    "all_tags": {
+      "name": "Akpro-Missérété",
+      "name:fr": "Akpro-Missérété",
+      "boundary": "administrative",
+      "way_area": "0.00580249",
+      "admin_level": "6",
+      "official_name": "Commune d'Akpro-Missérété"
+    }
+  },
+  {
+    "osm_id": -2945793,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2848208,-192784",
+    "name": "Sèmè-Kpodji",
+    "local_name": "Sèmè-Kpodji",
+    "name_en": null,
+    "all_tags": {
+      "name": "Sèmè-Kpodji",
+      "name:fr": "Sèmè-Kpodji",
+      "boundary": "administrative",
+      "way_area": "0.0188421",
+      "admin_level": "6",
+      "official_name": "Commune de Sèmè-Kpodji"
+    }
+  },
+  {
+    "osm_id": -2945792,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2846872,-192784",
+    "name": "Sakété",
+    "local_name": "Sakété",
+    "name_en": null,
+    "all_tags": {
+      "name": "Sakété",
+      "name:ar": "ساكيتي",
+      "name:fr": "Sakété",
+      "boundary": "administrative",
+      "way_area": "0.0331634",
+      "wikidata": "Q31550609",
+      "admin_level": "6",
+      "official_name": "Commune de Sakété",
+      "official_name:ar": "بلدية ساكيتي"
+    }
+  },
+  {
+    "osm_id": -2945791,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2848208,-192784",
+    "name": "Porto Novo",
+    "local_name": "Porto Novo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Porto Novo",
+      "name:fr": "Porto-Novo",
+      "boundary": "administrative",
+      "way_area": "0.00524998",
+      "wikidata": "Q31476194",
+      "admin_level": "6",
+      "official_name": "Commune de Porto Novo"
+    }
+  },
+  {
+    "osm_id": -2945790,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2846872,-192784",
+    "name": "Pobè",
+    "local_name": "Pobè",
+    "name_en": null,
+    "all_tags": {
+      "name": "Pobè",
+      "name:ar": "بوبه",
+      "name:fr": "Pobè",
+      "boundary": "administrative",
+      "way_area": "0.0293722",
+      "admin_level": "6",
+      "official_name": "Commune de Pobè",
+      "official_name:ar": "بلدية بوبه"
+    }
+  },
+  {
+    "osm_id": -2945789,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2846872,-192784",
+    "name": "Kétou",
+    "local_name": "Kétou",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kétou",
+      "name:ar": "كيتو",
+      "name:fr": "Kétou",
+      "boundary": "administrative",
+      "way_area": "0.140943",
+      "admin_level": "6",
+      "official_name": "Commune de Kétou",
+      "official_name:ar": "بلدية كيتو"
+    }
+  },
+  {
+    "osm_id": -2945788,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2846872,-192784",
+    "name": "Ifangni",
+    "local_name": "Ifangni",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ifangni",
+      "name:fr": "Ifangni",
+      "boundary": "administrative",
+      "way_area": "0.0121464",
+      "admin_level": "6",
+      "official_name": "Commune de'Ifangni"
+    }
+  },
+  {
+    "osm_id": -2945787,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2848208,-192784",
+    "name": "Avrankou",
+    "local_name": "Avrankou",
+    "name_en": null,
+    "all_tags": {
+      "name": "Avrankou",
+      "name:fr": "Avrankou",
+      "boundary": "administrative",
+      "way_area": "0.00424986",
+      "admin_level": "6",
+      "official_name": "Commune d'Avrankou"
+    }
+  },
+  {
+    "osm_id": -2945786,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2848208,-192784",
+    "name": "Aguégués",
+    "local_name": "Aguégués",
+    "name_en": null,
+    "all_tags": {
+      "name": "Aguégués",
+      "name:fr": "Aguégués",
+      "boundary": "administrative",
+      "way_area": "0.00706771",
+      "admin_level": "6",
+      "official_name": "Commune d'Aguégués"
+    }
+  },
+  {
+    "osm_id": -2945785,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2848208,-192784",
+    "name": "Adjarra",
+    "local_name": "Adjarra",
+    "name_en": null,
+    "all_tags": {
+      "name": "Adjarra",
+      "name:fr": "Adjarra",
+      "boundary": "administrative",
+      "way_area": "0.0040748",
+      "admin_level": "6",
+      "official_name": "Commune d'Adjarra"
+    }
+  },
+  {
+    "osm_id": -2945784,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2846872,-192784",
+    "name": "Adja-Ouèrè",
+    "local_name": "Adja-Ouèrè",
+    "name_en": null,
+    "all_tags": {
+      "name": "Adja-Ouèrè",
+      "name:fr": "Adja-Ouèrè",
+      "boundary": "administrative",
+      "way_area": "0.0379479",
+      "admin_level": "6",
+      "official_name": "Commune de Adja-Ouèrè"
+    }
+  },
+  {
+    "osm_id": -2944694,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2845865,-192784",
+    "name": "Bassila",
+    "local_name": "Bassila",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bassila",
+      "name:ar": "بسيلا",
+      "name:fr": "Bassila",
+      "boundary": "administrative",
+      "way_area": "0.427817",
+      "wikidata": "Q1893077",
+      "wikipedia": "fr:Bassila (commune)",
+      "admin_level": "6",
+      "official_name": "Commune de Bassila",
+      "official_name:ar": "بلدية بسيلا"
+    }
+  },
+  {
+    "osm_id": -2860042,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2845888,-192784",
+    "name": "Savè",
+    "local_name": "Savè",
+    "name_en": null,
+    "all_tags": {
+      "name": "Savè",
+      "name:fr": "Savè",
+      "boundary": "administrative",
+      "way_area": "0.182063",
+      "admin_level": "6",
+      "official_name": "Commune de Savè"
+    }
+  },
+  {
+    "osm_id": -2860041,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2845888,-192784",
+    "name": "Ouèssè",
+    "local_name": "Ouèssè",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ouèssè",
+      "name:fr": "Ouèssè",
+      "boundary": "administrative",
+      "way_area": "0.253708",
+      "admin_level": "6",
+      "official_name": "Commune de Ouèssè"
+    }
+  },
+  {
+    "osm_id": -2860040,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2845888,-192784",
+    "name": "Glazoué",
+    "local_name": "Glazoué",
+    "name_en": null,
+    "all_tags": {
+      "name": "Glazoué",
+      "name:fr": "Glazoué",
+      "boundary": "administrative",
+      "way_area": "0.146193",
+      "admin_level": "6",
+      "official_name": "Commune de Glazoué"
+    }
+  },
+  {
+    "osm_id": -2860039,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2845888,-192784",
+    "name": "Dassa-Zoumé",
+    "local_name": "Dassa-Zoumé",
+    "name_en": null,
+    "all_tags": {
+      "name": "Dassa-Zoumé",
+      "name:ar": "دسا زومه",
+      "name:fr": "Dassa-Zoumé",
+      "boundary": "administrative",
+      "way_area": "0.138866",
+      "admin_level": "6",
+      "official_name": "Commune de Dassa-Zoumé",
+      "official_name:ar": "بلدية دسا زومه"
+    }
+  },
+  {
+    "osm_id": -2860038,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2845888,-192784",
+    "name": "Bantè",
+    "local_name": "Bantè",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bantè",
+      "name:fr": "Bantè",
+      "boundary": "administrative",
+      "way_area": "0.221856",
+      "admin_level": "6",
+      "official_name": "Commune de Bantè"
+    }
+  },
+  {
+    "osm_id": -2860037,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2845888,-192784",
+    "name": "Savalou",
+    "local_name": "Savalou",
+    "name_en": null,
+    "all_tags": {
+      "name": "Savalou",
+      "name:ar": "سافالو",
+      "name:fr": "Savalou",
+      "boundary": "administrative",
+      "way_area": "0.21524",
+      "admin_level": "6",
+      "official_name": "Commune de Savalou",
+      "official_name:ar": "بلدية سافالو"
+    }
+  },
+  {
+    "osm_id": -2859967,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2803880,-192784",
+    "name": "Tchaourou",
+    "local_name": "Tchaourou",
+    "name_en": null,
+    "all_tags": {
+      "name": "Tchaourou",
+      "name:ar": "شورو",
+      "name:fr": "Tchaourou",
+      "boundary": "administrative",
+      "way_area": "0.593574",
+      "admin_level": "6",
+      "official_name": "Commune de Tchaourou",
+      "official_name:ar": "بلدية شورو"
+    }
+  },
+  {
+    "osm_id": -2859966,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2803880,-192784",
+    "name": "Sinendé",
+    "local_name": "Sinendé",
+    "name_en": null,
+    "all_tags": {
+      "name": "Sinendé",
+      "name:fr": "Sinendé",
+      "boundary": "administrative",
+      "way_area": "0.181479",
+      "admin_level": "6",
+      "official_name": "Commune de Sinendé"
+    }
+  },
+  {
+    "osm_id": -2859965,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2803880,-192784",
+    "name": "Pèrèrè",
+    "local_name": "Pèrèrè",
+    "name_en": null,
+    "all_tags": {
+      "name": "Pèrèrè",
+      "name:fr": "Pèrèrè",
+      "boundary": "administrative",
+      "way_area": "0.162291",
+      "wikidata": "Q2716795",
+      "admin_level": "6",
+      "official_name": "Commune de Pèrèrè"
+    }
+  },
+  {
+    "osm_id": -2859964,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2803880,-192784",
+    "name": "Parakou",
+    "local_name": "Parakou",
+    "name_en": null,
+    "all_tags": {
+      "name": "Parakou",
+      "name:ar": "باراكو",
+      "name:fr": "Parakou",
+      "boundary": "administrative",
+      "way_area": "0.0389376",
+      "wikidata": "Q688324",
+      "admin_level": "6",
+      "official_name": "Commune de Parakou",
+      "official_name:ar": "بلدية باراكو"
+    }
+  },
+  {
+    "osm_id": -2859963,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2803880,-192784",
+    "name": "Nikki",
+    "local_name": "Nikki",
+    "name_en": null,
+    "all_tags": {
+      "name": "Nikki",
+      "name:ar": "نكي",
+      "name:fr": "Nikki",
+      "boundary": "administrative",
+      "way_area": "0.242627",
+      "admin_level": "6",
+      "official_name": "Commune de Nikki",
+      "official_name:ar": "بلدية نكي"
+    }
+  },
+  {
+    "osm_id": -2859962,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2803880,-192784",
+    "name": "N'Dali",
+    "local_name": "N'Dali",
+    "name_en": null,
+    "all_tags": {
+      "name": "N'Dali",
+      "name:ar": "اندالي",
+      "name:fr": "N'Dali",
+      "boundary": "administrative",
+      "way_area": "0.320372",
+      "admin_level": "6",
+      "official_name": "Commune de N'Dali",
+      "official_name:ar": "بلدية اندالي"
+    }
+  },
+  {
+    "osm_id": -2859961,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2803880,-192784",
+    "name": "Kalalé",
+    "local_name": "Kalalé",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kalalé",
+      "name:fr": "Kalalé",
+      "boundary": "administrative",
+      "way_area": "0.328918",
+      "admin_level": "6",
+      "official_name": "commune de Kalalé"
+    }
+  },
+  {
+    "osm_id": -2859960,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2803880,-192784",
+    "name": "Bembéréké",
+    "local_name": "Bembéréké",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bembéréké",
+      "name:fr": "Bembéréké",
+      "boundary": "administrative",
+      "way_area": "0.276874",
+      "admin_level": "6",
+      "official_name": "Commune de Bembéréké"
+    }
+  },
+  {
+    "osm_id": -2851901,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2845865,-192784",
+    "name": "Djougou",
+    "local_name": "Djougou",
+    "name_en": null,
+    "all_tags": {
+      "name": "Djougou",
+      "name:ar": "جوغو",
+      "name:fr": "Djougou",
+      "boundary": "administrative",
+      "way_area": "0.343449",
+      "wikidata": "Q31550564",
+      "admin_level": "6",
+      "alt_name:ar": "دجوغو",
+      "wikipedia:sv": "Djougou (kommun)",
+      "official_name": "Commune de Djougou",
+      "official_name:ar": "بلدية جوغو"
+    }
+  },
+  {
+    "osm_id": -2851897,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2845865,-192784",
+    "name": "Ouaké",
+    "local_name": "Ouaké",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ouaké",
+      "name:fr": "Ouaké",
+      "boundary": "administrative",
+      "way_area": "0.0488352",
+      "admin_level": "6",
+      "official_name": "Commune d'Ouaké"
+    }
+  },
+  {
+    "osm_id": -2851895,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2845865,-192784",
+    "name": "Copargo",
+    "local_name": "Copargo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Copargo",
+      "name:fr": "Copargo",
+      "boundary": "administrative",
+      "way_area": "0.0738047",
+      "admin_level": "6",
+      "official_name": "Commune de Copargo"
+    }
+  },
+  {
+    "osm_id": -2851879,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2848206,-192784",
+    "name": "Cotonou",
+    "local_name": "Cotonou",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cotonou",
+      "name:fr": "Cotonou",
+      "boundary": "administrative",
+      "way_area": "0.00570946",
+      "wikidata": "Q43595",
+      "wikipedia": "fr:Cotonou",
+      "admin_level": "6",
+      "official_name": "Commune de Cotonou",
+      "contact:website": "https://www.villedecotonou.org/"
+    }
+  },
+  {
+    "osm_id": -2850528,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2803879,-192784",
+    "name": "Kandi",
+    "local_name": "Kandi",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kandi",
+      "name:ar": "كاندي",
+      "name:fr": "Kandi",
+      "boundary": "administrative",
+      "way_area": "0.294478",
+      "admin_level": "6",
+      "official_name": "commune de Kandi",
+      "official_name:ar": "بلدية كاندي"
+    }
+  },
+  {
+    "osm_id": -2850527,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2803879,-192784",
+    "name": "Gogounou",
+    "local_name": "Gogounou",
+    "name_en": null,
+    "all_tags": {
+      "name": "Gogounou",
+      "name:fr": "Gogounou",
+      "boundary": "administrative",
+      "way_area": "0.402768",
+      "wikidata": "Q583110",
+      "admin_level": "6",
+      "official_name": "commune de Gogounou"
+    }
+  },
+  {
+    "osm_id": -2850491,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2803879,-192784",
+    "name": "Segbana",
+    "local_name": "Segbana",
+    "name_en": null,
+    "all_tags": {
+      "name": "Segbana",
+      "name:fr": "Segbana",
+      "boundary": "administrative",
+      "way_area": "0.373563",
+      "wikidata": "Q2202003",
+      "admin_level": "6",
+      "official_name": "commune de Segbana"
+    }
+  },
+  {
+    "osm_id": -2848470,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2803879,-192784",
+    "name": "Malanville",
+    "local_name": "Malanville",
+    "name_en": null,
+    "all_tags": {
+      "name": "Malanville",
+      "name:ar": "مالانفيل",
+      "name:fr": "Malanville",
+      "boundary": "administrative",
+      "way_area": "0.270252",
+      "admin_level": "6",
+      "official_name": "Commune de Malanville"
+    }
+  },
+  {
+    "osm_id": -2848356,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2803879,-192784",
+    "name": "Karimama",
+    "local_name": "Karimama",
+    "name_en": null,
+    "all_tags": {
+      "name": "Karimama",
+      "name:ar": "كاريماما",
+      "name:fr": "Karimama",
+      "boundary": "administrative",
+      "way_area": "0.494293",
+      "wikidata": "Q1860831",
+      "admin_level": "6",
+      "wikipedia:en": "Karimama, Benin",
+      "official_name": "Commune de Karimama"
+    }
+  },
+  {
+    "osm_id": -2848208,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192784",
+    "name": "Ouémé",
+    "local_name": "Ouémé",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ouémé",
+      "name:fr": "Ouémé",
+      "name:ru": "Уэме",
+      "name:uk": "Веме",
+      "boundary": "administrative",
+      "way_area": "0.108449",
+      "wikidata": "Q29169",
+      "ISO3166-2": "BJ-OU",
+      "wikipedia": "fr:Ouémé",
+      "admin_level": "4",
+      "official_name": "département d'Ouémé"
+    }
+  },
+  {
+    "osm_id": -2848207,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192784",
+    "name": "Mono",
+    "local_name": "Mono",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mono",
+      "name:ar": "مونو",
+      "name:fr": "Mono",
+      "name:ru": "Моно",
+      "name:uk": "Моно",
+      "boundary": "administrative",
+      "way_area": "0.153941",
+      "wikidata": "Q29135",
+      "ISO3166-2": "BJ-MO",
+      "wikipedia": "fr:Mono (département)",
+      "admin_level": "4",
+      "official_name": "dèpartement de Mono",
+      "official_name:ar": "إدارة مونو"
+    }
+  },
+  {
+    "osm_id": -2848206,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192784",
+    "name": "Littoral",
+    "local_name": "Littoral",
+    "name_en": null,
+    "all_tags": {
+      "name": "Littoral",
+      "name:fr": "Littoral",
+      "name:ru": "Литораль",
+      "name:uk": "Літораль",
+      "boundary": "administrative",
+      "way_area": "0.00570946",
+      "wikidata": "Q29158",
+      "ISO3166-2": "BJ-LI",
+      "wikipedia": "fr:Littoral (département)",
+      "admin_level": "4",
+      "official_name": "dèpartement de Littoral"
+    }
+  },
+  {
+    "osm_id": -2848205,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192784",
+    "name": "Atlantique",
+    "local_name": "Atlantique",
+    "name_en": null,
+    "all_tags": {
+      "name": "Atlantique",
+      "name:ar": "الأطلنطية",
+      "name:fr": "Atlantique",
+      "name:ru": "Атлантический",
+      "name:uk": "Атлантичний",
+      "boundary": "administrative",
+      "way_area": "0.258375",
+      "wikidata": "Q29147",
+      "ISO3166-2": "BJ-AQ",
+      "wikipedia": "fr:Atlantique (département)",
+      "admin_level": "4",
+      "official_name": "département d'Atlantique",
+      "official_name:ar": "إدارة الأطلنطية"
+    }
+  },
+  {
+    "osm_id": -2848162,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2803879,-192784",
+    "name": "Banikoara",
+    "local_name": "Banikoara",
+    "name_en": null,
+    "all_tags": {
+      "name": "Banikoara",
+      "name:ar": "بانيكوارا",
+      "name:fr": "Banikoara",
+      "boundary": "administrative",
+      "way_area": "0.359049",
+      "wikidata": "Q2200458",
+      "admin_level": "6",
+      "official_name": "Commune de Banikoara",
+      "official_name:ar": "بلدية بانيكوارا"
+    }
+  },
+  {
+    "osm_id": -2846891,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192784",
+    "name": "Kouffo",
+    "local_name": "Kouffo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kouffo",
+      "name:ar": "كوفو",
+      "name:fr": "Couffo",
+      "name:ru": "Куффо",
+      "name:uk": "Куффо",
+      "boundary": "administrative",
+      "way_area": "0.174186",
+      "wikidata": "Q29173",
+      "ISO3166-2": "BJ-KO",
+      "wikipedia": "fr:Couffo",
+      "admin_level": "4",
+      "official_name:ar": "إدارة كوفو"
+    }
+  },
+  {
+    "osm_id": -2846873,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192784",
+    "name": "Zou",
+    "local_name": "Zou",
+    "name_en": null,
+    "all_tags": {
+      "name": "Zou",
+      "name:ar": "زو",
+      "name:fr": "Zou",
+      "name:ru": "Зу",
+      "name:uk": "Зу",
+      "boundary": "administrative",
+      "way_area": "0.424746",
+      "wikidata": "Q29172",
+      "ISO3166-2": "BJ-ZO",
+      "wikipedia": "fr:Zou",
+      "admin_level": "4",
+      "official_name": "département de Zou",
+      "official_name:ar": "إدارة زو"
+    }
+  },
+  {
+    "osm_id": -2846872,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192784",
+    "name": "Plateau",
+    "local_name": "Plateau",
+    "name_en": null,
+    "all_tags": {
+      "name": "Plateau",
+      "name:ar": "الهضبة",
+      "name:fr": "Plateau",
+      "name:ru": "Плато",
+      "name:uk": "Плато",
+      "boundary": "administrative",
+      "way_area": "0.253572",
+      "wikidata": "Q32108",
+      "ISO3166-2": "BJ-PL",
+      "wikipedia": "fr:Plateau (département)",
+      "admin_level": "4",
+      "official_name": "département du Plateau",
+      "official_name:ar": "إدارة الهضبة"
+    }
+  },
+  {
+    "osm_id": -2845888,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192784",
+    "name": "Collines",
+    "local_name": "Collines",
+    "name_en": null,
+    "all_tags": {
+      "name": "Collines",
+      "name:ar": "التلال",
+      "name:fr": "Collines",
+      "name:ru": "Коллинз",
+      "name:uk": "Коллін",
+      "boundary": "administrative",
+      "way_area": "1.15793",
+      "wikidata": "Q29141",
+      "ISO3166-2": "BJ-CO",
+      "wikipedia": "fr:Collines",
+      "admin_level": "4",
+      "alt_name:ar": "كولينز",
+      "official_name": "département des Collines",
+      "official_name:ar": "إدارة التلال"
+    }
+  },
+  {
+    "osm_id": -2845865,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192784",
+    "name": "Donga",
+    "local_name": "Donga",
+    "name_en": null,
+    "all_tags": {
+      "name": "Donga",
+      "name:ar": "دونغا",
+      "name:fr": "Donga",
+      "name:ru": "Донга",
+      "name:uk": "Донга",
+      "boundary": "administrative",
+      "way_area": "0.893907",
+      "wikidata": "Q29161",
+      "ISO3166-2": "BJ-DO",
+      "wikipedia": "fr:Donga (Bénin)",
+      "admin_level": "4",
+      "alt_name:ar": "دونجا",
+      "official_name": "département de Donga",
+      "official_name:ar": "إدارة دونغا"
+    }
+  },
+  {
+    "osm_id": -2845850,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192784",
+    "name": "Atakora",
+    "local_name": "Atakora",
+    "name_en": null,
+    "all_tags": {
+      "name": "Atakora",
+      "name:ar": "أتاكورا",
+      "name:fr": "Atacora",
+      "name:ru": "Атакора",
+      "name:uk": "Атакора",
+      "boundary": "administrative",
+      "way_area": "1.72572",
+      "wikidata": "Q29154",
+      "ISO3166-2": "BJ-AK",
+      "wikipedia": "fr:Atacora",
+      "admin_level": "4",
+      "official_name": "département de l'Atacora",
+      "official_name:ar": "إدارة أتاكورا"
+    }
+  },
+  {
+    "osm_id": -2845847,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2845850,-192784",
+    "name": "Pehonko",
+    "local_name": "Pehonko",
+    "name_en": null,
+    "all_tags": {
+      "name": "Pehonko",
+      "name:fr": "Péhonko",
+      "boundary": "administrative",
+      "way_area": "0.169418",
+      "admin_level": "6",
+      "official_name": "Commune de Pehonko"
+    }
+  },
+  {
+    "osm_id": -2845846,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2845850,-192784",
+    "name": "Toucountouna",
+    "local_name": "Toucountouna",
+    "name_en": null,
+    "all_tags": {
+      "name": "Toucountouna",
+      "name:fr": "Toucountouna",
+      "boundary": "administrative",
+      "way_area": "0.0831321",
+      "admin_level": "6",
+      "official_name": "Commune de Toucountouna"
+    }
+  },
+  {
+    "osm_id": -2845844,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2845850,-192784",
+    "name": "Natitingou",
+    "local_name": "Natitingou",
+    "name_en": null,
+    "all_tags": {
+      "name": "Natitingou",
+      "name:ar": "ناتيتنغو",
+      "name:fr": "Natitingou",
+      "boundary": "administrative",
+      "way_area": "0.116199",
+      "wikidata": "Q31814441",
+      "admin_level": "6",
+      "official_name": "Commune de Natitingou",
+      "official_name:ar": "بلدية ناتيتنغو"
+    }
+  },
+  {
+    "osm_id": -2845843,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2845850,-192784",
+    "name": "Kouandé",
+    "local_name": "Kouandé",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kouandé",
+      "name:ar": "كواندي",
+      "name:fr": "Kouandé",
+      "boundary": "administrative",
+      "way_area": "0.266457",
+      "admin_level": "6",
+      "official_name": "Commune de Kouandé",
+      "official_name:ar": "بلدية كواندي"
+    }
+  },
+  {
+    "osm_id": -2845842,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2845850,-192784",
+    "name": "Kerou",
+    "local_name": "Kerou",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kerou",
+      "name:fr": "Kerou",
+      "boundary": "administrative",
+      "way_area": "0.318982",
+      "admin_level": "6",
+      "official_name": "Commune de Kerou"
+    }
+  },
+  {
+    "osm_id": -2845829,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2845850,-192784",
+    "name": "Tanguièta",
+    "local_name": "Tanguièta",
+    "name_en": null,
+    "all_tags": {
+      "name": "Tanguièta",
+      "name:fr": "Tanguièta",
+      "boundary": "administrative",
+      "way_area": "0.459427",
+      "admin_level": "6",
+      "official_name": "Commune de Tanguièta"
+    }
+  },
+  {
+    "osm_id": -2845202,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2845850,-192784",
+    "name": "Materi",
+    "local_name": "Materi",
+    "name_en": null,
+    "all_tags": {
+      "name": "Materi",
+      "name:fr": "Materi",
+      "boundary": "administrative",
+      "way_area": "0.142083",
+      "admin_level": "6",
+      "official_name": "Commune de Materi"
+    }
+  },
+  {
+    "osm_id": -2845193,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2845850,-192784",
+    "name": "Cobli",
+    "local_name": "Cobli",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cobli",
+      "name:fr": "Cobly",
+      "boundary": "administrative",
+      "way_area": "0.0750157",
+      "admin_level": "6",
+      "official_name": "Commune de Cobli"
+    }
+  },
+  {
+    "osm_id": -2845145,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2845850,-192784",
+    "name": "Boukombé",
+    "local_name": "Boukombé",
+    "name_en": null,
+    "all_tags": {
+      "name": "Boukombé",
+      "name:fr": "Boukombé",
+      "boundary": "administrative",
+      "way_area": "0.0950113",
+      "admin_level": "6",
+      "official_name": "Commune de Boukombé"
+    }
+  },
+  {
+    "osm_id": -2803880,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192784",
+    "name": "Borgou",
+    "local_name": "Borgou",
+    "name_en": null,
+    "all_tags": {
+      "name": "Borgou",
+      "name:ar": "بورغو",
+      "name:fr": "Borgou",
+      "name:ru": "Боргу",
+      "name:uk": "Боргу",
+      "boundary": "administrative",
+      "way_area": "2.14507",
+      "wikidata": "Q29136",
+      "ISO3166-2": "BJ-BO",
+      "wikipedia": "fr:Borgou",
+      "admin_level": "4",
+      "alt_name:ar": "بورجو",
+      "official_name": "département du Borgou",
+      "official_name:ar": "إدارة بورغو"
+    }
+  },
+  {
+    "osm_id": -2803879,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192784",
+    "name": "Alibori",
+    "local_name": "Alibori",
+    "name_en": null,
+    "all_tags": {
+      "name": "Alibori",
+      "name:ar": "أليبوري",
+      "name:fr": "Alibori",
+      "name:ru": "Алибори",
+      "name:uk": "Аліборі",
+      "boundary": "administrative",
+      "way_area": "2.1944",
+      "wikidata": "Q29165",
+      "ISO3166-2": "BJ-AL",
+      "wikipedia": "fr:Alibori",
+      "admin_level": "4",
+      "official_name": "département de l'Alibori"
+    }
+  }
+]

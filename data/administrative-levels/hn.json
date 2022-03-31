@@ -1,0 +1,2894 @@
+[
+  {
+    "osm_id": -13761149,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627390,-287670",
+    "name": "San Buenaventura",
+    "local_name": "San Buenaventura",
+    "name_en": null,
+    "all_tags": {
+      "name": "San Buenaventura",
+      "boundary": "administrative",
+      "way_area": "0.00520827",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13761097,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627390,-287670",
+    "name": "Maraita",
+    "local_name": "Maraita",
+    "name_en": null,
+    "all_tags": {
+      "name": "Maraita",
+      "boundary": "administrative",
+      "way_area": "0.0220464",
+      "admin_level": "6",
+      "official_name": "Municipio de Maraita"
+    }
+  },
+  {
+    "osm_id": -13761028,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627390,-287670",
+    "name": "Tatumbla",
+    "local_name": "Tatumbla",
+    "name_en": null,
+    "all_tags": {
+      "name": "Tatumbla",
+      "boundary": "administrative",
+      "way_area": "0.00658877",
+      "admin_level": "6",
+      "official_name": "Municipio de Tatumbla"
+    }
+  },
+  {
+    "osm_id": -13760922,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627390,-287670",
+    "name": "San Antonio de Oriente",
+    "local_name": "San Antonio de Oriente",
+    "name_en": null,
+    "all_tags": {
+      "name": "San Antonio de Oriente",
+      "boundary": "administrative",
+      "way_area": "0.017707",
+      "admin_level": "6",
+      "official_name": "Municipio de San Antonio de Oriente"
+    }
+  },
+  {
+    "osm_id": -13760885,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627390,-287670",
+    "name": "Valle de Ángeles",
+    "local_name": "Valle de Ángeles",
+    "name_en": null,
+    "all_tags": {
+      "name": "Valle de Ángeles",
+      "boundary": "administrative",
+      "way_area": "0.0087599",
+      "admin_level": "6",
+      "official_name": "Municipio de Valle de Ángeles"
+    }
+  },
+  {
+    "osm_id": -13760847,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627390,-287670",
+    "name": "Villa de San Francisco",
+    "local_name": "Villa de San Francisco",
+    "name_en": null,
+    "all_tags": {
+      "name": "Villa de San Francisco",
+      "boundary": "administrative",
+      "way_area": "0.00655101",
+      "admin_level": "6",
+      "official_name": "Municipio de Villa de San Francisco"
+    }
+  },
+  {
+    "osm_id": -13760784,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627390,-287670",
+    "name": "Cantarranas",
+    "local_name": "Cantarranas",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cantarranas",
+      "boundary": "administrative",
+      "way_area": "0.0318621",
+      "admin_level": "6",
+      "official_name": "Municipio de Cantarranas"
+    }
+  },
+  {
+    "osm_id": -13760745,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627390,-287670",
+    "name": "Talanga",
+    "local_name": "Talanga",
+    "name_en": null,
+    "all_tags": {
+      "name": "Talanga",
+      "boundary": "administrative",
+      "way_area": "0.0363928",
+      "admin_level": "6",
+      "official_name": "Municipio de Talanga"
+    }
+  },
+  {
+    "osm_id": -13760435,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627390,-287670",
+    "name": "Cedros",
+    "local_name": "Cedros",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cedros",
+      "boundary": "administrative",
+      "way_area": "0.0654449",
+      "admin_level": "6",
+      "official_name": "Municipio de Cedros"
+    }
+  },
+  {
+    "osm_id": -13760294,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627390,-287670",
+    "name": "Vallecillo",
+    "local_name": "Vallecillo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Vallecillo",
+      "boundary": "administrative",
+      "way_area": "0.0184147",
+      "admin_level": "6",
+      "official_name": "Municipio de Vallecillo"
+    }
+  },
+  {
+    "osm_id": -13759992,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627390,-287670",
+    "name": "Guaimaca",
+    "local_name": "Guaimaca",
+    "name_en": null,
+    "all_tags": {
+      "name": "Guaimaca",
+      "boundary": "administrative",
+      "way_area": "0.0650759",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13759876,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627390,-287670",
+    "name": "El Porvenir",
+    "local_name": "El Porvenir",
+    "name_en": null,
+    "all_tags": {
+      "name": "El Porvenir",
+      "boundary": "administrative",
+      "way_area": "0.0350106",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13759762,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627390,-287670",
+    "name": "San Ignacio",
+    "local_name": "San Ignacio",
+    "name_en": null,
+    "all_tags": {
+      "name": "San Ignacio",
+      "boundary": "administrative",
+      "way_area": "0.0278359",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13759448,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627390,-287670",
+    "name": "Orica",
+    "local_name": "Orica",
+    "name_en": null,
+    "all_tags": {
+      "name": "Orica",
+      "boundary": "administrative",
+      "way_area": "0.0334924",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13757388,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627390,-287670",
+    "name": "Marale",
+    "local_name": "Marale",
+    "name_en": null,
+    "all_tags": {
+      "name": "Marale",
+      "boundary": "administrative",
+      "way_area": "0.0338222",
+      "admin_level": "6",
+      "official_name": "Municipio de Marale"
+    }
+  },
+  {
+    "osm_id": -13757009,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4625745,-287670",
+    "name": "Guanaja",
+    "local_name": "Guanaja",
+    "name_en": null,
+    "all_tags": {
+      "name": "Guanaja",
+      "boundary": "administrative",
+      "way_area": "0.00472286",
+      "admin_level": "6",
+      "official_name": "Municipio de Guanaja"
+    }
+  },
+  {
+    "osm_id": -13753212,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627317,-287670",
+    "name": "La Unión",
+    "local_name": "La Unión",
+    "name_en": null,
+    "all_tags": {
+      "name": "La Unión",
+      "boundary": "administrative",
+      "way_area": "0.0520664",
+      "admin_level": "6",
+      "official_name": "Municipio de La Unión"
+    }
+  },
+  {
+    "osm_id": -13753173,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627317,-287670",
+    "name": "Jano",
+    "local_name": "Jano",
+    "name_en": null,
+    "all_tags": {
+      "name": "Jano",
+      "boundary": "administrative",
+      "way_area": "0.029064",
+      "admin_level": "6",
+      "official_name": "Municipio de Jano"
+    }
+  },
+  {
+    "osm_id": -13752221,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627317,-287670",
+    "name": "Esquipulas del Norte",
+    "local_name": "Esquipulas del Norte",
+    "name_en": null,
+    "all_tags": {
+      "name": "Esquipulas del Norte",
+      "boundary": "administrative",
+      "way_area": "0.0403508",
+      "admin_level": "6",
+      "official_name": "Municipio de Esquipulas del Norte"
+    }
+  },
+  {
+    "osm_id": -13752015,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627317,-287670",
+    "name": "Guata",
+    "local_name": "Guata",
+    "name_en": null,
+    "all_tags": {
+      "name": "Guata",
+      "boundary": "administrative",
+      "way_area": "0.0565866",
+      "admin_level": "6",
+      "official_name": "Municipio de Guata"
+    }
+  },
+  {
+    "osm_id": -13751759,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627317,-287670",
+    "name": "Mangulile",
+    "local_name": "Mangulile",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mangulile",
+      "boundary": "administrative",
+      "way_area": "0.0312097",
+      "admin_level": "6",
+      "official_name": "Municipio de Mangulile"
+    }
+  },
+  {
+    "osm_id": -13749541,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627317,-287670",
+    "name": "Yocón",
+    "local_name": "Yocón",
+    "name_en": null,
+    "all_tags": {
+      "name": "Yocón",
+      "boundary": "administrative",
+      "way_area": "0.0207211",
+      "admin_level": "6",
+      "official_name": "Municipio de Yocón"
+    }
+  },
+  {
+    "osm_id": -13749487,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627317,-287670",
+    "name": "El Rosario",
+    "local_name": "El Rosario",
+    "name_en": null,
+    "all_tags": {
+      "name": "El Rosario",
+      "boundary": "administrative",
+      "way_area": "0.0115811",
+      "admin_level": "6",
+      "official_name": "Minicipio de El Rosario"
+    }
+  },
+  {
+    "osm_id": -13749468,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627317,-287670",
+    "name": "Guayape",
+    "local_name": "Guayape",
+    "name_en": null,
+    "all_tags": {
+      "name": "Guayape",
+      "boundary": "administrative",
+      "way_area": "0.0347502",
+      "admin_level": "6",
+      "official_name": "Municipio de Guayape"
+    }
+  },
+  {
+    "osm_id": -13749045,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627317,-287670",
+    "name": "Salamá",
+    "local_name": "Salamá",
+    "name_en": null,
+    "all_tags": {
+      "name": "Salamá",
+      "boundary": "administrative",
+      "way_area": "0.0280184",
+      "admin_level": "6",
+      "official_name": "Municipio de Salamá"
+    }
+  },
+  {
+    "osm_id": -13748952,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627317,-287670",
+    "name": "Silca",
+    "local_name": "Silca",
+    "name_en": null,
+    "all_tags": {
+      "name": "Silca",
+      "boundary": "administrative",
+      "way_area": "0.0212438",
+      "admin_level": "6",
+      "official_name": "Municipio de Silca"
+    }
+  },
+  {
+    "osm_id": -13748804,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627317,-287670",
+    "name": "Manto",
+    "local_name": "Manto",
+    "name_en": null,
+    "all_tags": {
+      "name": "Manto",
+      "boundary": "administrative",
+      "way_area": "0.0435421",
+      "admin_level": "6",
+      "official_name": "Municipio de Manto"
+    }
+  },
+  {
+    "osm_id": -13747841,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627317,-287670",
+    "name": "Juticalpa",
+    "local_name": "Juticalpa",
+    "name_en": null,
+    "all_tags": {
+      "name": "Juticalpa",
+      "boundary": "administrative",
+      "way_area": "0.218546",
+      "admin_level": "6",
+      "official_name": "Municipio de Juticalpa"
+    }
+  },
+  {
+    "osm_id": -13747688,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627317,-287670",
+    "name": "Gualaco",
+    "local_name": "Gualaco",
+    "name_en": null,
+    "all_tags": {
+      "name": "Gualaco",
+      "boundary": "administrative",
+      "way_area": "0.187232",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13745153,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627317,-287670",
+    "name": "San Esteban",
+    "local_name": "San Esteban",
+    "name_en": null,
+    "all_tags": {
+      "name": "San Esteban",
+      "boundary": "administrative",
+      "way_area": "0.160027",
+      "admin_level": "6",
+      "official_name": "Municipio de San Esteban"
+    }
+  },
+  {
+    "osm_id": -13744486,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627317,-287670",
+    "name": "Concordia",
+    "local_name": "Concordia",
+    "name_en": null,
+    "all_tags": {
+      "name": "Concordia",
+      "boundary": "administrative",
+      "way_area": "0.0205556",
+      "admin_level": "6",
+      "official_name": "Municipio de Concordia"
+    }
+  },
+  {
+    "osm_id": -13743601,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627317,-287670",
+    "name": "Campamento",
+    "local_name": "Campamento",
+    "name_en": null,
+    "all_tags": {
+      "name": "Campamento",
+      "boundary": "administrative",
+      "way_area": "0.0318913",
+      "admin_level": "6",
+      "official_name": "Municipio de Campamento"
+    }
+  },
+  {
+    "osm_id": -13741463,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627317,-287670",
+    "name": "San Francisco de Becerra",
+    "local_name": "San Francisco de Becerra",
+    "name_en": null,
+    "all_tags": {
+      "name": "San Francisco de Becerra",
+      "boundary": "administrative",
+      "way_area": "0.02446",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13741420,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627317,-287670",
+    "name": "Dulce Nombre de Culmí",
+    "local_name": "Dulce Nombre de Culmí",
+    "name_en": null,
+    "all_tags": {
+      "name": "Dulce Nombre de Culmí",
+      "boundary": "administrative",
+      "way_area": "0.256881",
+      "admin_level": "6",
+      "official_name": "Municipio de Dulce Nombre de Culmí"
+    }
+  },
+  {
+    "osm_id": -13741300,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627317,-287670",
+    "name": "Patuca",
+    "local_name": "Patuca",
+    "name_en": null,
+    "all_tags": {
+      "name": "Patuca",
+      "boundary": "administrative",
+      "way_area": "0.0635744",
+      "admin_level": "6",
+      "official_name": "Municipio de Patuca"
+    }
+  },
+  {
+    "osm_id": -13741136,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627317,-287670",
+    "name": "Guarizama",
+    "local_name": "Guarizama",
+    "name_en": null,
+    "all_tags": {
+      "name": "Guarizama",
+      "boundary": "administrative",
+      "way_area": "0.0134809",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13741040,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627317,-287670",
+    "name": "San Francisco de La Paz",
+    "local_name": "San Francisco de La Paz",
+    "name_en": null,
+    "all_tags": {
+      "name": "San Francisco de La Paz",
+      "boundary": "administrative",
+      "way_area": "0.0436711",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13739907,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627317,-287670",
+    "name": "Catacamas",
+    "local_name": "Catacamas",
+    "name_en": null,
+    "all_tags": {
+      "name": "Catacamas",
+      "boundary": "administrative",
+      "way_area": "0.609309",
+      "admin_level": "6",
+      "official_name": "Municipio de Catacamas"
+    }
+  },
+  {
+    "osm_id": -13737150,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627317,-287670",
+    "name": "Santa María del Real",
+    "local_name": "Santa María del Real",
+    "name_en": null,
+    "all_tags": {
+      "name": "Santa María del Real",
+      "boundary": "administrative",
+      "way_area": "0.0202671",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12113927,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-287670",
+    "name": "Comayagua",
+    "local_name": "Comayagua",
+    "name_en": null,
+    "all_tags": {
+      "name": "Comayagua",
+      "boundary": "administrative",
+      "way_area": "0.425156",
+      "wikidata": "Q823443",
+      "ISO3166-2": "HN-CM",
+      "wikipedia": "en:Comayagua Department, Honduras",
+      "admin_level": "4",
+      "border_type": "departement"
+    }
+  },
+  {
+    "osm_id": -12110227,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-12113927,-287670",
+    "name": "La Trinidad",
+    "local_name": "La Trinidad",
+    "name_en": null,
+    "all_tags": {
+      "name": "La Trinidad",
+      "boundary": "administrative",
+      "way_area": "0.00708815",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12110226,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-12113927,-287670",
+    "name": "Ojos de Agua",
+    "local_name": "Ojos de Agua",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ojos de Agua",
+      "boundary": "administrative",
+      "way_area": "0.0144522",
+      "wikidata": "Q9303426",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12110080,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-12113927,-287670",
+    "name": "Comayagua",
+    "local_name": "Comayagua",
+    "name_en": null,
+    "all_tags": {
+      "name": "Comayagua",
+      "boundary": "administrative",
+      "way_area": "0.0701621",
+      "wikidata": "Q679169",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12110079,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-12113927,-287670",
+    "name": "San Sebastián",
+    "local_name": "San Sebastián",
+    "name_en": null,
+    "all_tags": {
+      "name": "San Sebastián",
+      "boundary": "administrative",
+      "way_area": "0.00377374",
+      "wikidata": "Q2167734",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12110078,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-12113927,-287670",
+    "name": "Humuya",
+    "local_name": "Humuya",
+    "name_en": null,
+    "all_tags": {
+      "name": "Humuya",
+      "boundary": "administrative",
+      "way_area": "0.00444377",
+      "wikidata": "Q1643258",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12108953,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-12113927,-287670",
+    "name": "Taulabé",
+    "local_name": "Taulabé",
+    "name_en": null,
+    "all_tags": {
+      "name": "Taulabé",
+      "boundary": "administrative",
+      "way_area": "0.0173836",
+      "wikidata": "Q1643763",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12108952,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-12113927,-287670",
+    "name": "San José de Comayagua",
+    "local_name": "San José de Comayagua",
+    "name_en": null,
+    "all_tags": {
+      "name": "San José de Comayagua",
+      "boundary": "administrative",
+      "way_area": "0.00494044",
+      "wikidata": "Q2296196",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12108951,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-12113927,-287670",
+    "name": "Siguatepeque",
+    "local_name": "Siguatepeque",
+    "name_en": null,
+    "all_tags": {
+      "name": "Siguatepeque",
+      "boundary": "administrative",
+      "way_area": "0.0314032",
+      "wikidata": "Q14837828",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12108950,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-12113927,-287670",
+    "name": "Las Lajas",
+    "local_name": "Las Lajas",
+    "name_en": null,
+    "all_tags": {
+      "name": "Las Lajas",
+      "boundary": "administrative",
+      "way_area": "0.00799464",
+      "wikidata": "Q2360984",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12108949,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-12113927,-287670",
+    "name": "Meambar",
+    "local_name": "Meambar",
+    "name_en": null,
+    "all_tags": {
+      "name": "Meambar",
+      "boundary": "administrative",
+      "way_area": "0.0339968",
+      "wikidata": "Q2098619",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12108948,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-12113927,-287670",
+    "name": "El Rosario",
+    "local_name": "El Rosario",
+    "name_en": null,
+    "all_tags": {
+      "name": "El Rosario",
+      "boundary": "administrative",
+      "way_area": "0.0249084",
+      "wikidata": "Q5823190",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12108947,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-12113927,-287670",
+    "name": "San Jerónimo",
+    "local_name": "San Jerónimo",
+    "name_en": null,
+    "all_tags": {
+      "name": "San Jerónimo",
+      "boundary": "administrative",
+      "way_area": "0.0192289",
+      "wikidata": "Q427781",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12108945,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-12113927,-287670",
+    "name": "Ajuterique",
+    "local_name": "Ajuterique",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ajuterique",
+      "boundary": "administrative",
+      "way_area": "0.00509215",
+      "wikidata": "Q762654",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12108944,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-12113927,-287670",
+    "name": "Lejamaní",
+    "local_name": "Lejamaní",
+    "name_en": null,
+    "all_tags": {
+      "name": "Lejamaní",
+      "boundary": "administrative",
+      "way_area": "0.00173982",
+      "wikidata": "Q2148930",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12108943,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-12113927,-287670",
+    "name": "Villa de San Antonio",
+    "local_name": "Villa de San Antonio",
+    "name_en": null,
+    "all_tags": {
+      "name": "Villa de San Antonio",
+      "boundary": "administrative",
+      "way_area": "0.0286257",
+      "wikidata": "Q2257820",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12108942,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-12113927,-287670",
+    "name": "Lamaní",
+    "local_name": "Lamaní",
+    "name_en": null,
+    "all_tags": {
+      "name": "Lamaní",
+      "boundary": "administrative",
+      "way_area": "0.029842",
+      "wikidata": "Q1643754",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12108531,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-12113927,-287670",
+    "name": "Esquías",
+    "local_name": "Esquías",
+    "name_en": null,
+    "all_tags": {
+      "name": "Esquías",
+      "boundary": "administrative",
+      "way_area": "0.0328924",
+      "wikidata": "Q2361049",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12088787,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-12113927,-287670",
+    "name": "San Luís",
+    "local_name": "San Luís",
+    "name_en": null,
+    "all_tags": {
+      "name": "San Luís",
+      "boundary": "administrative",
+      "way_area": "0.0107429",
+      "wikidata": "Q1643719",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12088768,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-12113927,-287670",
+    "name": "La Libertad",
+    "local_name": "La Libertad",
+    "name_en": null,
+    "all_tags": {
+      "name": "La Libertad",
+      "boundary": "administrative",
+      "way_area": "0.0262213",
+      "wikidata": "Q1986477",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12030443,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-12113927,-287670",
+    "name": "Aldea Las Huertas",
+    "local_name": "Aldea Las Huertas",
+    "name_en": null,
+    "all_tags": {
+      "name": "Aldea Las Huertas",
+      "boundary": "administrative",
+      "way_area": "0.00154849",
+      "admin_level": "6",
+      "description": "Zona 1"
+    }
+  },
+  {
+    "osm_id": -12030430,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-12113927,-287670",
+    "name": "Aldea Santa Cruz",
+    "local_name": "Aldea Santa Cruz",
+    "name_en": null,
+    "all_tags": {
+      "name": "Aldea Santa Cruz",
+      "boundary": "administrative",
+      "way_area": "0.00129779",
+      "admin_level": "6",
+      "description": "Zona 3"
+    }
+  },
+  {
+    "osm_id": -12030416,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-12113927,-287670",
+    "name": "Aldea de Montecitos",
+    "local_name": "Aldea de Montecitos",
+    "name_en": null,
+    "all_tags": {
+      "name": "Aldea de Montecitos",
+      "boundary": "administrative",
+      "way_area": "0.00104748",
+      "admin_level": "6",
+      "description": "Zona 1"
+    }
+  },
+  {
+    "osm_id": -12030415,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-12113927,-287670",
+    "name": "Aldea Minas de San Antonio",
+    "local_name": "Aldea Minas de San Antonio",
+    "name_en": null,
+    "all_tags": {
+      "name": "Aldea Minas de San Antonio",
+      "boundary": "administrative",
+      "way_area": "0.00179206",
+      "admin_level": "6",
+      "description": "Zona 1"
+    }
+  },
+  {
+    "osm_id": -12030251,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-12113927,-287670",
+    "name": "San José del Potrero",
+    "local_name": "San José del Potrero",
+    "name_en": null,
+    "all_tags": {
+      "name": "San José del Potrero",
+      "boundary": "administrative",
+      "way_area": "0.017088",
+      "wikidata": "Q2392225",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -11761766,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627390,-287670",
+    "name": "Curarén",
+    "local_name": "Curarén",
+    "name_en": null,
+    "all_tags": {
+      "name": "Curarén",
+      "boundary": "administrative",
+      "way_area": "0.0257573",
+      "admin_level": "6",
+      "official_name": "Municipio de Curarén"
+    }
+  },
+  {
+    "osm_id": -11761722,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627390,-287670",
+    "name": "Reitoca",
+    "local_name": "Reitoca",
+    "name_en": null,
+    "all_tags": {
+      "name": "Reitoca",
+      "boundary": "administrative",
+      "way_area": "0.0162921",
+      "admin_level": "6",
+      "official_name": "Municipio de Reitoca"
+    }
+  },
+  {
+    "osm_id": -11755127,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627390,-287670",
+    "name": "Alubarén",
+    "local_name": "Alubarén",
+    "name_en": null,
+    "all_tags": {
+      "name": "Alubarén",
+      "boundary": "administrative",
+      "way_area": "0.00386692",
+      "admin_level": "6",
+      "official_name": "Municipio de Alubaren"
+    }
+  },
+  {
+    "osm_id": -11755089,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627390,-287670",
+    "name": "San Miguelito",
+    "local_name": "San Miguelito",
+    "name_en": null,
+    "all_tags": {
+      "name": "San Miguelito",
+      "boundary": "administrative",
+      "way_area": "0.00349609",
+      "admin_level": "6",
+      "official_name": "Municipio de San Miguelito"
+    }
+  },
+  {
+    "osm_id": -11754780,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627390,-287670",
+    "name": "La Libertad",
+    "local_name": "La Libertad",
+    "name_en": null,
+    "all_tags": {
+      "name": "La Libertad",
+      "boundary": "administrative",
+      "way_area": "0.00325526",
+      "admin_level": "6",
+      "official_name": "Municipio de La Libertad"
+    }
+  },
+  {
+    "osm_id": -11744217,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627390,-287670",
+    "name": "Santa Lucía",
+    "local_name": "Santa Lucía",
+    "name_en": null,
+    "all_tags": {
+      "name": "Santa Lucía",
+      "boundary": "administrative",
+      "way_area": "0.00485617",
+      "admin_level": "6",
+      "official_name": "Municipio de Santa Lucía"
+    }
+  },
+  {
+    "osm_id": -11734396,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627390,-287670",
+    "name": "Distrito Central",
+    "local_name": "Distrito Central",
+    "name_en": null,
+    "all_tags": {
+      "name": "Distrito Central",
+      "boundary": "administrative",
+      "way_area": "0.125673",
+      "admin_level": "6",
+      "official_name": "Municipio del Distrito Central"
+    }
+  },
+  {
+    "osm_id": -11729912,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627393,-287670",
+    "name": "La Unión",
+    "local_name": "La Unión",
+    "name_en": null,
+    "all_tags": {
+      "name": "La Unión",
+      "boundary": "administrative",
+      "way_area": "0.00701002",
+      "admin_level": "6",
+      "official_name": "Municipio de La Unión"
+    }
+  },
+  {
+    "osm_id": -11729881,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627393,-287670",
+    "name": "San Rafael",
+    "local_name": "San Rafael",
+    "name_en": null,
+    "all_tags": {
+      "name": "San Rafael",
+      "boundary": "administrative",
+      "way_area": "0.00838215",
+      "admin_level": "6",
+      "official_name": "Municipio de San Rafael"
+    }
+  },
+  {
+    "osm_id": -11729752,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627393,-287670",
+    "name": "La Iguala",
+    "local_name": "La Iguala",
+    "name_en": null,
+    "all_tags": {
+      "name": "La Iguala",
+      "boundary": "administrative",
+      "way_area": "0.0315619",
+      "admin_level": "6",
+      "official_name": "Municipio de La Iguala"
+    }
+  },
+  {
+    "osm_id": -11727217,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627393,-287670",
+    "name": "Belén",
+    "local_name": "Belén",
+    "name_en": null,
+    "all_tags": {
+      "name": "Belén",
+      "boundary": "administrative",
+      "way_area": "0.0164383",
+      "admin_level": "6",
+      "official_name": "Municipio de Belén"
+    }
+  },
+  {
+    "osm_id": -11726917,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627393,-287670",
+    "name": "Las Flores",
+    "local_name": "Las Flores",
+    "name_en": null,
+    "all_tags": {
+      "name": "Las Flores",
+      "boundary": "administrative",
+      "way_area": "0.00678415",
+      "admin_level": "6",
+      "official_name": "Municipio de Las Flores"
+    }
+  },
+  {
+    "osm_id": -11722737,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627393,-287670",
+    "name": "Talgua",
+    "local_name": "Talgua",
+    "name_en": null,
+    "all_tags": {
+      "name": "Talgua",
+      "boundary": "administrative",
+      "way_area": "0.00698298",
+      "admin_level": "6",
+      "official_name": "Municipio de Talgua"
+    }
+  },
+  {
+    "osm_id": -11722377,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627393,-287670",
+    "name": "Lepaera",
+    "local_name": "Lepaera",
+    "name_en": null,
+    "all_tags": {
+      "name": "Lepaera",
+      "boundary": "administrative",
+      "way_area": "0.0258705",
+      "admin_level": "6",
+      "official_name": "Munucipio de Lepaera"
+    }
+  },
+  {
+    "osm_id": -11722036,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627393,-287670",
+    "name": "Gracias",
+    "local_name": "Gracias",
+    "name_en": null,
+    "all_tags": {
+      "name": "Gracias",
+      "boundary": "administrative",
+      "way_area": "0.0353927",
+      "admin_level": "6",
+      "official_name": "Municipio de Gracias"
+    }
+  },
+  {
+    "osm_id": -11703683,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627394,-287670",
+    "name": "Belén Gualcho",
+    "local_name": "Belén Gualcho",
+    "name_en": null,
+    "all_tags": {
+      "name": "Belén Gualcho",
+      "boundary": "administrative",
+      "way_area": "0.0129865",
+      "admin_level": "6",
+      "official_name": "Municipio de Belén Gualcho"
+    }
+  },
+  {
+    "osm_id": -11703679,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627394,-287670",
+    "name": "San Marcos",
+    "local_name": "San Marcos",
+    "name_en": null,
+    "all_tags": {
+      "name": "San Marcos",
+      "boundary": "administrative",
+      "way_area": "0.0141363",
+      "admin_level": "6",
+      "official_name": "Municipio de San Marcos"
+    }
+  },
+  {
+    "osm_id": -11703669,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627394,-287670",
+    "name": "Mercedes",
+    "local_name": "Mercedes",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mercedes",
+      "boundary": "administrative",
+      "way_area": "0.00792693",
+      "admin_level": "6",
+      "official_name": "Municipio de Mercedes"
+    }
+  },
+  {
+    "osm_id": -11703342,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627394,-287670",
+    "name": "San Francisco del Valle",
+    "local_name": "San Francisco del Valle",
+    "name_en": null,
+    "all_tags": {
+      "name": "San Francisco del Valle",
+      "boundary": "administrative",
+      "way_area": "0.00893491",
+      "admin_level": "6",
+      "official_name": "Municipio de San Francisco del Valle"
+    }
+  },
+  {
+    "osm_id": -11703258,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627394,-287670",
+    "name": "Sensenti",
+    "local_name": "Sensenti",
+    "name_en": null,
+    "all_tags": {
+      "name": "Sensenti",
+      "boundary": "administrative",
+      "way_area": "0.00998288",
+      "admin_level": "6",
+      "official_name": "Municipio de Sensenti"
+    }
+  },
+  {
+    "osm_id": -11702675,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627394,-287670",
+    "name": "La Labor",
+    "local_name": "La Labor",
+    "name_en": null,
+    "all_tags": {
+      "name": "La Labor",
+      "boundary": "administrative",
+      "way_area": "0.00865333",
+      "admin_level": "6",
+      "official_name": "Municipio de La Labor"
+    }
+  },
+  {
+    "osm_id": -11700940,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627394,-287670",
+    "name": "Lucerna",
+    "local_name": "Lucerna",
+    "name_en": null,
+    "all_tags": {
+      "name": "Lucerna",
+      "boundary": "administrative",
+      "way_area": "0.0099378",
+      "admin_level": "6",
+      "official_name": "Municipio de Lucerna"
+    }
+  },
+  {
+    "osm_id": -11696549,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627394,-287670",
+    "name": "La Fraternidad",
+    "local_name": "La Fraternidad",
+    "name_en": null,
+    "all_tags": {
+      "name": "La Fraternidad",
+      "boundary": "administrative",
+      "way_area": "0.00776991",
+      "admin_level": "6",
+      "official_name": "Municipio de La Fraternidad"
+    }
+  },
+  {
+    "osm_id": -11688350,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627394,-287670",
+    "name": "San Fernando",
+    "local_name": "San Fernando",
+    "name_en": null,
+    "all_tags": {
+      "name": "San Fernando",
+      "boundary": "administrative",
+      "way_area": "0.00586204",
+      "admin_level": "6",
+      "official_name": "Municipio de San Fernando"
+    }
+  },
+  {
+    "osm_id": -11688142,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627394,-287670",
+    "name": "La Encarnación",
+    "local_name": "La Encarnación",
+    "name_en": null,
+    "all_tags": {
+      "name": "La Encarnación",
+      "boundary": "administrative",
+      "way_area": "0.00306475",
+      "admin_level": "6",
+      "official_name": "Municipio de La Encarnación"
+    }
+  },
+  {
+    "osm_id": -11688032,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627394,-287670",
+    "name": "San Jorge",
+    "local_name": "San Jorge",
+    "name_en": null,
+    "all_tags": {
+      "name": "San Jorge",
+      "boundary": "administrative",
+      "way_area": "0.00363906",
+      "admin_level": "6",
+      "official_name": "Municipio de San Jorge"
+    }
+  },
+  {
+    "osm_id": -11684960,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627394,-287670",
+    "name": "Dolores Merendón",
+    "local_name": "Dolores Merendón",
+    "name_en": null,
+    "all_tags": {
+      "name": "Dolores Merendón",
+      "boundary": "administrative",
+      "way_area": "0.00347949",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -11684541,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627394,-287670",
+    "name": "Sinuapa",
+    "local_name": "Sinuapa",
+    "name_en": null,
+    "all_tags": {
+      "name": "Sinuapa",
+      "boundary": "administrative",
+      "way_area": "0.0105111",
+      "admin_level": "6",
+      "official_name": "Municipio de Sinuapa"
+    }
+  },
+  {
+    "osm_id": -11683927,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627394,-287670",
+    "name": "Concepción",
+    "local_name": "Concepción",
+    "name_en": null,
+    "all_tags": {
+      "name": "Concepción",
+      "boundary": "administrative",
+      "way_area": "0.00981198",
+      "admin_level": "6",
+      "official_name": "Municipio de Concepción"
+    }
+  },
+  {
+    "osm_id": -11683693,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627394,-287670",
+    "name": "Santa Fe",
+    "local_name": "Santa Fe",
+    "name_en": null,
+    "all_tags": {
+      "name": "Santa Fe",
+      "boundary": "administrative",
+      "way_area": "0.00572623",
+      "admin_level": "6",
+      "official_name": "Municipio de Santa Fe"
+    }
+  },
+  {
+    "osm_id": -10948809,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627393,-287670",
+    "name": "La Campa",
+    "local_name": "La Campa",
+    "name_en": null,
+    "all_tags": {
+      "name": "La Campa",
+      "boundary": "administrative",
+      "way_area": "0.00953299",
+      "admin_level": "6",
+      "official_name": "Municipio de La Campa"
+    }
+  },
+  {
+    "osm_id": -10948773,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627393,-287670",
+    "name": "San Manuel Colohete",
+    "local_name": "San Manuel Colohete",
+    "name_en": null,
+    "all_tags": {
+      "name": "San Manuel Colohete",
+      "boundary": "administrative",
+      "way_area": "0.0146146",
+      "admin_level": "6",
+      "official_name": "Municipaio de San Manuel Colohete"
+    }
+  },
+  {
+    "osm_id": -10925245,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627393,-287670",
+    "name": "San Marcos de Caiquin",
+    "local_name": "San Marcos de Caiquin",
+    "name_en": null,
+    "all_tags": {
+      "name": "San Marcos de Caiquin",
+      "boundary": "administrative",
+      "way_area": "0.00808579",
+      "admin_level": "6",
+      "official_name": "Municipio de San Marcos de Caiquin"
+    }
+  },
+  {
+    "osm_id": -10925215,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627393,-287670",
+    "name": "Santa Cruz",
+    "local_name": "Santa Cruz",
+    "name_en": null,
+    "all_tags": {
+      "name": "Santa Cruz",
+      "boundary": "administrative",
+      "way_area": "0.0125344",
+      "admin_level": "6",
+      "official_name": "Municipio de Santa Cruz"
+    }
+  },
+  {
+    "osm_id": -10925209,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627393,-287670",
+    "name": "San Francisco",
+    "local_name": "San Francisco",
+    "name_en": null,
+    "all_tags": {
+      "name": "San Francisco",
+      "boundary": "administrative",
+      "way_area": "0.0118253",
+      "admin_level": "6",
+      "official_name": "Municipio de San Francisco"
+    }
+  },
+  {
+    "osm_id": -10925203,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627393,-287670",
+    "name": "Piraera",
+    "local_name": "Piraera",
+    "name_en": null,
+    "all_tags": {
+      "name": "Piraera",
+      "boundary": "administrative",
+      "way_area": "0.0149516",
+      "admin_level": "6",
+      "official_name": "Minicipio de Piraera"
+    }
+  },
+  {
+    "osm_id": -10924515,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627393,-287670",
+    "name": "Erandique",
+    "local_name": "Erandique",
+    "name_en": null,
+    "all_tags": {
+      "name": "Erandique",
+      "boundary": "administrative",
+      "way_area": "0.0247347",
+      "admin_level": "6",
+      "official_name": "Municipio de Erandique"
+    }
+  },
+  {
+    "osm_id": -10923476,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627393,-287670",
+    "name": "Gualcince",
+    "local_name": "Gualcince",
+    "name_en": null,
+    "all_tags": {
+      "name": "Gualcince",
+      "boundary": "administrative",
+      "way_area": "0.0135907",
+      "admin_level": "6",
+      "official_name": "Municipio de Gualcince"
+    }
+  },
+  {
+    "osm_id": -10923466,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627393,-287670",
+    "name": "San Andrés",
+    "local_name": "San Andrés",
+    "name_en": null,
+    "all_tags": {
+      "name": "San Andrés",
+      "boundary": "administrative",
+      "way_area": "0.0205273",
+      "wikidata": "Q3946709",
+      "wikipedia": "en:San Andrés, Lempira",
+      "admin_level": "6",
+      "official_name": "Municipio de San Andrés"
+    }
+  },
+  {
+    "osm_id": -10923381,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627393,-287670",
+    "name": "Tambla",
+    "local_name": "Tambla",
+    "name_en": null,
+    "all_tags": {
+      "name": "Tambla",
+      "boundary": "administrative",
+      "way_area": "0.00489383",
+      "admin_level": "6",
+      "official_name": "Municipio de Tambla"
+    }
+  },
+  {
+    "osm_id": -10923364,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627393,-287670",
+    "name": "Tomalá",
+    "local_name": "Tomalá",
+    "name_en": null,
+    "all_tags": {
+      "name": "Tomalá",
+      "boundary": "administrative",
+      "way_area": "0.00401642",
+      "admin_level": "6",
+      "official_name": "Municipio de Tomalá"
+    }
+  },
+  {
+    "osm_id": -10923295,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627393,-287670",
+    "name": "San Sebastián",
+    "local_name": "San Sebastián",
+    "name_en": null,
+    "all_tags": {
+      "name": "San Sebastián",
+      "boundary": "administrative",
+      "way_area": "0.0192613",
+      "admin_level": "6",
+      "official_name": "Municipio de San Sebastián"
+    }
+  },
+  {
+    "osm_id": -10923254,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627393,-287670",
+    "name": "Cololaca",
+    "local_name": "Cololaca",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cololaca",
+      "boundary": "administrative",
+      "way_area": "0.0189595",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -10922998,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627393,-287670",
+    "name": "Guarita",
+    "local_name": "Guarita",
+    "name_en": null,
+    "all_tags": {
+      "name": "Guarita",
+      "boundary": "administrative",
+      "way_area": "0.0143495",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -10922977,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627393,-287670",
+    "name": "Candelaria",
+    "local_name": "Candelaria",
+    "name_en": null,
+    "all_tags": {
+      "name": "Candelaria",
+      "boundary": "administrative",
+      "way_area": "0.00442342",
+      "admin_level": "6",
+      "official_name": "Municipio de Candelaria"
+    }
+  },
+  {
+    "osm_id": -10921475,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627393,-287670",
+    "name": "San Juan Guarita",
+    "local_name": "San Juan Guarita",
+    "name_en": null,
+    "all_tags": {
+      "name": "San Juan Guarita",
+      "boundary": "administrative",
+      "way_area": "0.00192568",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -10921244,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627393,-287670",
+    "name": "Valladolid",
+    "local_name": "Valladolid",
+    "name_en": null,
+    "all_tags": {
+      "name": "Valladolid",
+      "boundary": "administrative",
+      "way_area": "0.00600807",
+      "admin_level": "6",
+      "official_name": "Municipio de Valladolid"
+    }
+  },
+  {
+    "osm_id": -10921203,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627393,-287670",
+    "name": "La Virtud",
+    "local_name": "La Virtud",
+    "name_en": null,
+    "all_tags": {
+      "name": "La Virtud",
+      "boundary": "administrative",
+      "way_area": "0.00624705",
+      "admin_level": "6",
+      "official_name": "Municipio de La Virtud"
+    }
+  },
+  {
+    "osm_id": -10921185,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627393,-287670",
+    "name": "Mapulaca",
+    "local_name": "Mapulaca",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mapulaca",
+      "boundary": "administrative",
+      "way_area": "0.00274046",
+      "admin_level": "6",
+      "official_name": "Municipio de Mapulaca"
+    }
+  },
+  {
+    "osm_id": -10921173,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627393,-287670",
+    "name": "Virginia",
+    "local_name": "Virginia",
+    "name_en": null,
+    "all_tags": {
+      "name": "Virginia",
+      "boundary": "administrative",
+      "way_area": "0.00314428",
+      "admin_level": "6",
+      "official_name": "Municipio de Virginia"
+    }
+  },
+  {
+    "osm_id": -10568007,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627318,-287670",
+    "name": "Amapala",
+    "local_name": "Amapala",
+    "name_en": null,
+    "all_tags": {
+      "name": "Amapala",
+      "boundary": "administrative",
+      "way_area": "0.00726295",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -10559532,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627394,-287670",
+    "name": "Ocotepeque",
+    "local_name": "Ocotepeque",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ocotepeque",
+      "boundary": "administrative",
+      "way_area": "0.0130715",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -10558428,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627391,-287670",
+    "name": "San Francisco de Opalaca",
+    "local_name": "San Francisco de Opalaca",
+    "name_en": null,
+    "all_tags": {
+      "name": "San Francisco de Opalaca",
+      "boundary": "administrative",
+      "way_area": "0.0250485",
+      "wikidata": "Q2393370",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -10554980,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627391,-287670",
+    "name": "Intibucá",
+    "local_name": "Intibucá",
+    "name_en": null,
+    "all_tags": {
+      "name": "Intibucá",
+      "alt_name": "Municiplio de Intibucá",
+      "boundary": "administrative",
+      "way_area": "0.0451992",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -10554873,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627391,-287670",
+    "name": "La Esperanza",
+    "local_name": "La Esperanza",
+    "name_en": null,
+    "all_tags": {
+      "name": "La Esperanza",
+      "boundary": "administrative",
+      "way_area": "0.0118154",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -10554653,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4625745,-287670",
+    "name": "Útila",
+    "local_name": "Útila",
+    "name_en": null,
+    "all_tags": {
+      "name": "Útila",
+      "boundary": "administrative",
+      "way_area": "0.00349174",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -10554182,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4625745,-287670",
+    "name": "José Santos Guardiola",
+    "local_name": "José Santos Guardiola",
+    "name_en": null,
+    "all_tags": {
+      "name": "José Santos Guardiola",
+      "boundary": "administrative",
+      "way_area": "0.00507301",
+      "wikidata": "Q2564825",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -10480253,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627318,-287670",
+    "name": "Alianza",
+    "local_name": "Alianza",
+    "name_en": null,
+    "all_tags": {
+      "name": "Alianza",
+      "boundary": "administrative",
+      "way_area": "0.017847",
+      "admin_level": "6",
+      "official_name": "Municipio de Alianza"
+    }
+  },
+  {
+    "osm_id": -6085532,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627395,-287670",
+    "name": "Quimistán",
+    "local_name": "Quimistán",
+    "name_en": null,
+    "all_tags": {
+      "name": "Quimistán",
+      "boundary": "administrative",
+      "way_area": "0.0626768",
+      "wikidata": "Q2394900",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -6085508,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627389,-287670",
+    "name": "Santa Cruz de Yojoa",
+    "local_name": "Santa Cruz de Yojoa",
+    "name_en": null,
+    "all_tags": {
+      "name": "Santa Cruz de Yojoa",
+      "boundary": "administrative",
+      "way_area": "0.0685634",
+      "wikidata": "Q2180652",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -6059579,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627389,-287670",
+    "name": "San Francisco de Yojoa",
+    "local_name": "San Francisco de Yojoa",
+    "name_en": null,
+    "all_tags": {
+      "name": "San Francisco de Yojoa",
+      "boundary": "administrative",
+      "way_area": "0.00790269",
+      "wikidata": "Q1644762",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -6059578,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627389,-287670",
+    "name": "San Antonio de Cortés",
+    "local_name": "San Antonio de Cortés",
+    "name_en": null,
+    "all_tags": {
+      "name": "San Antonio de Cortés",
+      "boundary": "administrative",
+      "way_area": "0.0188469",
+      "wikidata": "Q967937",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -6057569,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627389,-287670",
+    "name": "Potrerillos",
+    "local_name": "Potrerillos",
+    "name_en": null,
+    "all_tags": {
+      "name": "Potrerillos",
+      "boundary": "administrative",
+      "way_area": "0.00725417",
+      "wikidata": "Q1644959",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -6057227,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627389,-287670",
+    "name": "Villanueva",
+    "local_name": "Villanueva",
+    "name_en": null,
+    "all_tags": {
+      "name": "Villanueva",
+      "boundary": "administrative",
+      "way_area": "0.0264069",
+      "wikidata": "Q2542686",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -6057226,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627389,-287670",
+    "name": "Pimienta",
+    "local_name": "Pimienta",
+    "name_en": null,
+    "all_tags": {
+      "name": "Pimienta",
+      "boundary": "administrative",
+      "way_area": "0.00461489",
+      "wikidata": "Q1644985",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -6057211,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627389,-287670",
+    "name": "San Pedro Sula",
+    "local_name": "San Pedro Sula",
+    "name_en": null,
+    "all_tags": {
+      "name": "San Pedro Sula",
+      "boundary": "administrative",
+      "way_area": "0.0693949",
+      "wikidata": "Q274584",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -6057210,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627389,-287670",
+    "name": "San Manuel",
+    "local_name": "San Manuel",
+    "name_en": null,
+    "all_tags": {
+      "name": "San Manuel",
+      "boundary": "administrative",
+      "way_area": "0.0118303",
+      "wikidata": "Q1644884",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -6055183,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627389,-287670",
+    "name": "Choloma",
+    "local_name": "Choloma",
+    "name_en": null,
+    "all_tags": {
+      "name": "Choloma",
+      "boundary": "administrative",
+      "way_area": "0.0391737",
+      "wikidata": "Q998218",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -6055155,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627389,-287670",
+    "name": "La Lima",
+    "local_name": "La Lima",
+    "name_en": null,
+    "all_tags": {
+      "name": "La Lima",
+      "boundary": "administrative",
+      "way_area": "0.00942765",
+      "wikidata": "Q2279521",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -6055122,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627389,-287670",
+    "name": "Omoa",
+    "local_name": "Omoa",
+    "name_en": null,
+    "all_tags": {
+      "name": "Omoa",
+      "boundary": "administrative",
+      "way_area": "0.0705569",
+      "wikidata": "Q520386",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -6055098,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627389,-287670",
+    "name": "Puerto Cortés",
+    "local_name": "Puerto Cortés",
+    "name_en": null,
+    "all_tags": {
+      "name": "Puerto Cortés",
+      "boundary": "administrative",
+      "way_area": "0.12687",
+      "wikidata": "Q673089",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -6054029,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627386,-287670",
+    "name": "La Ceiba",
+    "local_name": "La Ceiba",
+    "name_en": null,
+    "all_tags": {
+      "name": "La Ceiba",
+      "boundary": "administrative",
+      "way_area": "0.0548046",
+      "wikidata": "Q916536",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -6054028,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627386,-287670",
+    "name": "Jutiapa",
+    "local_name": "Jutiapa",
+    "name_en": null,
+    "all_tags": {
+      "name": "Jutiapa",
+      "boundary": "administrative",
+      "way_area": "0.0452933",
+      "wikidata": "Q775897",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -6051857,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627386,-287670",
+    "name": "El Porvenir",
+    "local_name": "El Porvenir",
+    "name_en": null,
+    "all_tags": {
+      "name": "El Porvenir",
+      "boundary": "administrative",
+      "way_area": "0.0233462",
+      "wikidata": "Q1643252",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -6051824,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627386,-287670",
+    "name": "San Francisco",
+    "local_name": "San Francisco",
+    "name_en": null,
+    "all_tags": {
+      "name": "San Francisco",
+      "boundary": "administrative",
+      "way_area": "0.0237549",
+      "wikidata": "Q2361014",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -6051659,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627386,-287670",
+    "name": "La Masica",
+    "local_name": "La Masica",
+    "name_en": null,
+    "all_tags": {
+      "name": "La Masica",
+      "boundary": "administrative",
+      "way_area": "0.0418319",
+      "wikidata": "Q2358954",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -6051548,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627386,-287670",
+    "name": "Esparta",
+    "local_name": "Esparta",
+    "name_en": null,
+    "all_tags": {
+      "name": "Esparta",
+      "boundary": "administrative",
+      "way_area": "0.0365644",
+      "wikidata": "Q949593",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -6050869,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627386,-287670",
+    "name": "Arizona",
+    "local_name": "Arizona",
+    "name_en": null,
+    "all_tags": {
+      "name": "Arizona",
+      "name:ta": "அரிசோனா",
+      "boundary": "administrative",
+      "way_area": "0.0447872",
+      "wikidata": "Q2254748",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -6050679,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627386,-287670",
+    "name": "Tela",
+    "local_name": "Tela",
+    "name_en": null,
+    "all_tags": {
+      "name": "Tela",
+      "boundary": "administrative",
+      "way_area": "0.101561",
+      "wikidata": "Q1027018",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -6050323,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3811537,-287670",
+    "name": "Ramón Villeda Morales",
+    "local_name": "Ramón Villeda Morales",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ramón Villeda Morales",
+      "boundary": "administrative",
+      "way_area": "0.0508347",
+      "wikidata": "Q924828",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -6050319,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3811537,-287670",
+    "name": "Wampusirpi",
+    "local_name": "Wampusirpi",
+    "name_en": null,
+    "all_tags": {
+      "name": "Wampusirpi",
+      "alt_name": "Wampusirpe",
+      "boundary": "administrative",
+      "way_area": "0.15013",
+      "wikidata": "Q2604385",
+      "population": "5829",
+      "start_date": "1996-08-20",
+      "admin_level": "6",
+      "population:date": "2015"
+    }
+  },
+  {
+    "osm_id": -6050318,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3811537,-287670",
+    "name": "Puerto Lempira",
+    "local_name": "Puerto Lempira",
+    "name_en": null,
+    "all_tags": {
+      "name": "Puerto Lempira",
+      "boundary": "administrative",
+      "way_area": "0.687286",
+      "wikidata": "Q2075665",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -6050273,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3811537,-287670",
+    "name": "Ahuas",
+    "local_name": "Ahuas",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ahuas",
+      "boundary": "administrative",
+      "way_area": "0.108516",
+      "wikidata": "Q2393126",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -6050265,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3811537,-287670",
+    "name": "Brus Laguna",
+    "local_name": "Brus Laguna",
+    "name_en": null,
+    "all_tags": {
+      "name": "Brus Laguna",
+      "boundary": "administrative",
+      "way_area": "0.389532",
+      "wikidata": "Q2102693",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -6050246,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3811537,-287670",
+    "name": "Juan Francisco Bulnes",
+    "local_name": "Juan Francisco Bulnes",
+    "name_en": null,
+    "all_tags": {
+      "name": "Juan Francisco Bulnes",
+      "boundary": "administrative",
+      "way_area": "0.0508316",
+      "wikidata": "Q2393257",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -6050098,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627315,-287670",
+    "name": "Iriona",
+    "local_name": "Iriona",
+    "name_en": null,
+    "all_tags": {
+      "name": "Iriona",
+      "boundary": "administrative",
+      "way_area": "0.326021",
+      "wikidata": "Q2036829",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -6049959,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627315,-287670",
+    "name": "Trujillo",
+    "local_name": "Trujillo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Trujillo",
+      "boundary": "administrative",
+      "way_area": "0.0821334",
+      "wikidata": "Q992173",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -6049958,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627315,-287670",
+    "name": "Sonaguera",
+    "local_name": "Sonaguera",
+    "name_en": null,
+    "all_tags": {
+      "name": "Sonaguera",
+      "boundary": "administrative",
+      "way_area": "0.0326704",
+      "wikidata": "Q1020581",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -6049786,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627315,-287670",
+    "name": "Balfate",
+    "local_name": "Balfate",
+    "name_en": null,
+    "all_tags": {
+      "name": "Balfate",
+      "boundary": "administrative",
+      "way_area": "0.0309065",
+      "wikidata": "Q2358773",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -6049682,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627315,-287670",
+    "name": "Santa Fe",
+    "local_name": "Santa Fe",
+    "name_en": null,
+    "all_tags": {
+      "name": "Santa Fe",
+      "boundary": "administrative",
+      "way_area": "0.0150176",
+      "wikidata": "Q1958069",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -6042541,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627315,-287670",
+    "name": "Santa Rosa de Aguán",
+    "local_name": "Santa Rosa de Aguán",
+    "name_en": null,
+    "all_tags": {
+      "name": "Santa Rosa de Aguán",
+      "boundary": "administrative",
+      "way_area": "0.0113724",
+      "wikidata": "Q958080",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -6042538,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627315,-287670",
+    "name": "Limón",
+    "local_name": "Limón",
+    "name_en": null,
+    "all_tags": {
+      "name": "Limón",
+      "boundary": "administrative",
+      "way_area": "0.0510389",
+      "wikidata": "Q1643266",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -6042433,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627315,-287670",
+    "name": "Bonito Oriental",
+    "local_name": "Bonito Oriental",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bonito Oriental",
+      "boundary": "administrative",
+      "way_area": "0.042656",
+      "wikidata": "Q22089",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -6042392,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627315,-287670",
+    "name": "Tocoa",
+    "local_name": "Tocoa",
+    "name_en": null,
+    "all_tags": {
+      "name": "Tocoa",
+      "boundary": "administrative",
+      "way_area": "0.0736722",
+      "wikidata": "Q2226585",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -6040147,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627315,-287670",
+    "name": "Sabá",
+    "local_name": "Sabá",
+    "name_en": null,
+    "all_tags": {
+      "name": "Sabá",
+      "boundary": "administrative",
+      "way_area": "0.0309621",
+      "wikidata": "Q1643274",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -4627396,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-287670",
+    "name": "Yoro",
+    "local_name": "Yoro",
+    "name_en": null,
+    "all_tags": {
+      "name": "Yoro",
+      "boundary": "administrative",
+      "way_area": "0.656657",
+      "wikidata": "Q1123380",
+      "ISO3166-2": "HN-YO",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -4627395,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-287670",
+    "name": "Santa Bárbara",
+    "local_name": "Santa Bárbara",
+    "name_en": null,
+    "all_tags": {
+      "name": "Santa Bárbara",
+      "boundary": "administrative",
+      "way_area": "0.429271",
+      "wikidata": "Q591139",
+      "ISO3166-2": "HN-SB",
+      "wikipedia": "en:Santa Bárbara Department, Honduras",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -4627394,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-287670",
+    "name": "Ocotepeque",
+    "local_name": "Ocotepeque",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ocotepeque",
+      "boundary": "administrative",
+      "way_area": "0.135487",
+      "wikidata": "Q867084",
+      "ISO3166-2": "HN-OC",
+      "wikipedia": "en:Ocotepeque Department",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -4627393,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-287670",
+    "name": "Lempira",
+    "local_name": "Lempira",
+    "name_en": null,
+    "all_tags": {
+      "name": "Lempira",
+      "boundary": "administrative",
+      "way_area": "0.354809",
+      "wikidata": "Q744138",
+      "ISO3166-2": "HN-LE",
+      "wikipedia": "en:Lempira Department",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -4627392,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-287670",
+    "name": "La Paz",
+    "local_name": "La Paz",
+    "name_en": null,
+    "all_tags": {
+      "name": "La Paz",
+      "boundary": "administrative",
+      "way_area": "0.212631",
+      "wikidata": "Q866886",
+      "ISO3166-2": "HN-LP",
+      "wikipedia": "en:La Paz Department (Honduras)",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -4627391,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-287670",
+    "name": "Intibucá",
+    "local_name": "Intibucá",
+    "name_en": null,
+    "all_tags": {
+      "name": "Intibucá",
+      "boundary": "administrative",
+      "way_area": "0.262747",
+      "wikidata": "Q262125",
+      "ISO3166-2": "HN-IN",
+      "wikipedia": "en:Intibucá Department",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -4627390,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-287670",
+    "name": "Francisco Morazán",
+    "local_name": "Francisco Morazán",
+    "name_en": null,
+    "all_tags": {
+      "name": "Francisco Morazán",
+      "boundary": "administrative",
+      "way_area": "0.718701",
+      "wikidata": "Q867126",
+      "ISO3166-2": "HN-FM",
+      "wikipedia": "en:Francisco Morazán Department",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -4627389,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-287670",
+    "name": "Cortés",
+    "local_name": "Cortés",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cortés",
+      "boundary": "administrative",
+      "way_area": "0.460842",
+      "wikidata": "Q767244",
+      "ISO3166-2": "HN-CR",
+      "wikipedia": "en:Cortés Department",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -4627388,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-287670",
+    "name": "Copán",
+    "local_name": "Copán",
+    "name_en": null,
+    "all_tags": {
+      "name": "Copán",
+      "boundary": "administrative",
+      "way_area": "0.273237",
+      "wikidata": "Q843984",
+      "ISO3166-2": "HN-CP",
+      "wikipedia": "en:Copán Department",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -4627387,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-12113927,-287670",
+    "name": "Minas de Oro",
+    "local_name": "Minas de Oro",
+    "name_en": null,
+    "all_tags": {
+      "name": "Minas de Oro",
+      "boundary": "administrative",
+      "way_area": "0.0331353",
+      "wikidata": "Q2116913",
+      "admin_level": "6",
+      "border_type": "município"
+    }
+  },
+  {
+    "osm_id": -4627386,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-287670",
+    "name": "Atlántida",
+    "local_name": "Atlántida",
+    "name_en": null,
+    "all_tags": {
+      "name": "Atlántida",
+      "boundary": "administrative",
+      "way_area": "0.667905",
+      "wikidata": "Q622619",
+      "ISO3166-2": "HN-AT",
+      "wikipedia": "en:Atlántida Department",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -4627318,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-287670",
+    "name": "Valle",
+    "local_name": "Valle",
+    "name_en": null,
+    "all_tags": {
+      "name": "Valle",
+      "boundary": "administrative",
+      "way_area": "0.166235",
+      "wikidata": "Q867097",
+      "ISO3166-2": "HN-VA",
+      "wikipedia": "en:Valle Department",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -4627317,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-287670",
+    "name": "Olancho",
+    "local_name": "Olancho",
+    "name_en": null,
+    "all_tags": {
+      "name": "Olancho",
+      "boundary": "administrative",
+      "way_area": "2.01903",
+      "wikidata": "Q867089",
+      "ISO3166-2": "HN-OL",
+      "wikipedia": "en:Olancho Department",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -4627316,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-287670",
+    "name": "El Paraíso",
+    "local_name": "El Paraíso",
+    "name_en": null,
+    "all_tags": {
+      "name": "El Paraíso",
+      "boundary": "administrative",
+      "way_area": "0.618667",
+      "wikidata": "Q867108",
+      "ISO3166-2": "HN-EP",
+      "wikipedia": "en:El Paraíso Department",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -4627315,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-287670",
+    "name": "Colón",
+    "local_name": "Colón",
+    "name_en": null,
+    "all_tags": {
+      "name": "Colón",
+      "boundary": "administrative",
+      "way_area": "1.14236",
+      "wikidata": "Q867117",
+      "ISO3166-2": "HN-CL",
+      "wikipedia": "en:Colón Department (Honduras)",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -4627314,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-287670",
+    "name": "Choluteca",
+    "local_name": "Choluteca",
+    "name_en": null,
+    "all_tags": {
+      "name": "Choluteca",
+      "boundary": "administrative",
+      "way_area": "0.404032",
+      "wikidata": "Q899272",
+      "ISO3166-2": "HN-CH",
+      "wikipedia": "en:Choluteca Department",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -4625745,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-287670",
+    "name": "Bay Islands",
+    "local_name": "Islas de la Bahía",
+    "name_en": "Bay Islands",
+    "all_tags": {
+      "name": "Islas de la Bahía",
+      "name:en": "Bay Islands",
+      "boundary": "administrative",
+      "way_area": "1.01778",
+      "wikidata": "Q751725",
+      "ISO3166-2": "HN-IB",
+      "wikipedia": "en:Bay Islands Department",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -3850824,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4627390,-287670",
+    "name": "Tegucigalpa",
+    "local_name": "Tegucigalpa",
+    "name_en": null,
+    "all_tags": {
+      "name": "Tegucigalpa",
+      "boundary": "administrative",
+      "way_area": "0.0143441",
+      "wikidata": "Q3238",
+      "population": "1126534",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -3811537,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-287670",
+    "name": "Gracias a Dios",
+    "local_name": "Gracias a Dios",
+    "name_en": null,
+    "all_tags": {
+      "name": "Gracias a Dios",
+      "boundary": "administrative",
+      "way_area": "2.90932",
+      "wikidata": "Q867112",
+      "ISO3166-2": "HN-GD",
+      "wikipedia": "es:Gracias a Dios (Honduras)",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -3146641,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-4625745,-287670",
+    "name": "Roatán",
+    "local_name": "Roatán",
+    "name_en": null,
+    "all_tags": {
+      "name": "Roatán",
+      "alt_name": "Roatan",
+      "boundary": "administrative",
+      "way_area": "0.00570645",
+      "wikidata": "Q1419813",
+      "admin_level": "6"
+    }
+  }
+]

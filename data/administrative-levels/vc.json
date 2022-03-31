@@ -1,0 +1,106 @@
+[
+  {
+    "osm_id": -4016680,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-550725",
+    "name": "Grenadines",
+    "local_name": "Grenadines",
+    "name_en": null,
+    "all_tags": {
+      "name": "Grenadines",
+      "boundary": "administrative",
+      "way_area": "0.00383417",
+      "wikidata": "Q2545297",
+      "ISO3166-2": "VC-06",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -4016644,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-550725",
+    "name": "Saint Patrick",
+    "local_name": "Saint Patrick",
+    "name_en": null,
+    "all_tags": {
+      "name": "Saint Patrick",
+      "boundary": "administrative",
+      "way_area": "0.00361272",
+      "wikidata": "Q1864637",
+      "ISO3166-2": "VC-05",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -4016643,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-550725",
+    "name": "Saint George",
+    "local_name": "Saint George",
+    "name_en": null,
+    "all_tags": {
+      "name": "Saint George",
+      "boundary": "administrative",
+      "way_area": "0.00424419",
+      "wikidata": "Q2300294",
+      "ISO3166-2": "VC-04",
+      "wikipedia": "en:Saint George Parish, Saint Vincent and the Grenadines",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -4016642,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-550725",
+    "name": "Saint David",
+    "local_name": "Saint David",
+    "name_en": null,
+    "all_tags": {
+      "name": "Saint David",
+      "boundary": "administrative",
+      "way_area": "0.00668726",
+      "wikidata": "Q2412394",
+      "ISO3166-2": "VC-03",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -4016641,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-550725",
+    "name": "Saint Andrew",
+    "local_name": "Saint Andrew",
+    "name_en": null,
+    "all_tags": {
+      "name": "Saint Andrew",
+      "boundary": "administrative",
+      "way_area": "0.00257819",
+      "wikidata": "Q2305115",
+      "ISO3166-2": "VC-02",
+      "wikipedia": "en:Saint Andrew Parish, Saint Vincent and the Grenadines",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -4016640,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-550725",
+    "name": "Charlotte",
+    "local_name": "Charlotte",
+    "name_en": null,
+    "all_tags": {
+      "name": "Charlotte",
+      "boundary": "administrative",
+      "way_area": "0.0116144",
+      "wikidata": "Q2075188",
+      "ISO3166-2": "VC-01",
+      "admin_level": "6"
+    }
+  }
+]

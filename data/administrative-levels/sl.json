@@ -1,0 +1,592 @@
+[
+  {
+    "osm_id": -9641203,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-9636490,-192777",
+    "name": "Karene District",
+    "local_name": "Karene District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Karene District",
+      "boundary": "administrative",
+      "way_area": "0.410776",
+      "wikipedia": "en:Karene District",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -9636490,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192777",
+    "name": "North Western Province",
+    "local_name": "North Western Province",
+    "name_en": null,
+    "all_tags": {
+      "name": "North Western Province",
+      "name:ar": "المنطقة الشمالية الغربية",
+      "name:de": "Nordwestliche Provinz",
+      "boundary": "administrative",
+      "way_area": "1.10971",
+      "wikidata": "Q43371075",
+      "ISO3166-2": "SL-NW",
+      "wikipedia": "en:North West Province, Sierra Leone",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -3242456,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-3242455,-192777",
+    "name": "Western Area Urban",
+    "local_name": "Western Area Urban",
+    "name_en": null,
+    "all_tags": {
+      "name": "Western Area Urban",
+      "boundary": "administrative",
+      "way_area": "0.00834628",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -3242455,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192777",
+    "name": "Western Area",
+    "local_name": "Western Area",
+    "name_en": null,
+    "all_tags": {
+      "name": "Western Area",
+      "name:ar": "المنطقة الغربية",
+      "name:de": "Westliches Gebiet",
+      "boundary": "administrative",
+      "way_area": "0.0569942",
+      "wikidata": "Q1050475",
+      "ISO3166-2": "SL-W",
+      "wikipedia": "en:Western Area",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -3230990,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192777",
+    "name": "Southern Province",
+    "local_name": "Southern Province",
+    "name_en": null,
+    "all_tags": {
+      "name": "Southern Province",
+      "name:ar": "المنطقة الجنوبية",
+      "name:de": "Südliche Provinz",
+      "name:lt": "Pietų provincija",
+      "name:ru": "Южная провинция",
+      "boundary": "administrative",
+      "way_area": "1.6543",
+      "wikidata": "Q772185",
+      "ISO3166-2": "SL-S",
+      "wikipedia": "en:Southern Province, Sierra Leone",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -3230989,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192777",
+    "name": "Northern Province",
+    "local_name": "Northern Province",
+    "name_en": null,
+    "all_tags": {
+      "name": "Northern Province",
+      "name:ar": "المنطقة الشمالية",
+      "name:de": "Nördliche Provinz",
+      "name:ru": "Северная провинция",
+      "boundary": "administrative",
+      "way_area": "1.8528",
+      "wikidata": "Q912359",
+      "ISO3166-2": "SL-N",
+      "wikipedia": "en:Northern Province, Sierra Leone",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -3230988,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192777",
+    "name": "Eastern Province",
+    "local_name": "Eastern Province",
+    "name_en": "Eastern Province",
+    "all_tags": {
+      "name": "Eastern Province",
+      "name:ar": "المنطقة الشرقية",
+      "name:de": "Östliche Provinz",
+      "name:en": "Eastern Province",
+      "name:lt": "Rytų provincija",
+      "name:ru": "Восточная провинция",
+      "boundary": "administrative",
+      "way_area": "1.29152",
+      "wikidata": "Q1050497",
+      "ISO3166-2": "SL-E",
+      "wikipedia": "en:Eastern Province, Sierra Leone",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -3230907,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-3230988,-192777",
+    "name": "Kono District",
+    "local_name": "Kono District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kono District",
+      "boundary": "administrative",
+      "way_area": "0.44558",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -3230906,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-3230989,-192777",
+    "name": "Koinadugu District",
+    "local_name": "Koinadugu District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Koinadugu District",
+      "name:ru": "Койнадугу",
+      "boundary": "administrative",
+      "way_area": "1.01884",
+      "wikidata": "Q1778860",
+      "wikipedia": "en:Koinadugu District",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -3230902,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-3230988,-192777",
+    "name": "Kenema District",
+    "local_name": "Kenema District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kenema District",
+      "name:ru": "Кенема",
+      "boundary": "administrative",
+      "way_area": "0.505179",
+      "wikidata": "Q1738741",
+      "wikipedia": "en:Kenema District",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -3230901,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-3230988,-192777",
+    "name": "Kailahun District",
+    "local_name": "Kailahun District",
+    "name_en": "Kailahun District",
+    "all_tags": {
+      "name": "Kailahun District",
+      "name:en": "Kailahun District",
+      "name:lt": "Kailahuno apygarda",
+      "boundary": "administrative",
+      "way_area": "0.340766",
+      "wikidata": "Q1721443",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -3230900,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-3230989,-192777",
+    "name": "Bombali District",
+    "local_name": "Bombali District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bombali District",
+      "name:ru": "Бомбали",
+      "boundary": "administrative",
+      "way_area": "0.31001",
+      "wikidata": "Q891767",
+      "wikipedia": "en:Bombali District",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -3228959,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-3230990,-192777",
+    "name": "Bo District",
+    "local_name": "Bo District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bo District",
+      "name:ru": "Бо",
+      "boundary": "administrative",
+      "way_area": "0.450663",
+      "wikidata": "Q887317",
+      "wikipedia": "en:Bo District",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -3228942,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-9636490,-192777",
+    "name": "Kambia District",
+    "local_name": "Kambia District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kambia District",
+      "name:ru": "Камбиа",
+      "boundary": "administrative",
+      "way_area": "0.24986",
+      "wikidata": "Q1722895",
+      "wikipedia": "en:Kambia District",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -2658602,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2541142,-3230990,-192777",
+    "name": "Upper Banta Chiefdom",
+    "local_name": "Upper Banta Chiefdom",
+    "name_en": null,
+    "all_tags": {
+      "name": "Upper Banta Chiefdom",
+      "boundary": "administrative",
+      "way_area": "0.0158335",
+      "wikidata": "Q49127196",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -2656414,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2655937,-3230990,-192777",
+    "name": "Kwamebai Krim Chiefdom",
+    "local_name": "Kwamebai Krim Chiefdom",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kwamebai Krim Chiefdom",
+      "boundary": "administrative",
+      "way_area": "0.0231261",
+      "wikidata": "Q49127044",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -2655937,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-3230990,-192777",
+    "name": "Bonthe District",
+    "local_name": "Bonthe District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bonthe District",
+      "name:lt": "Bontės apygarda",
+      "boundary": "administrative",
+      "way_area": "0.291927",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -2655863,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2655937,-3230990,-192777",
+    "name": "Yawbeko Chiefdom",
+    "local_name": "Yawbeko Chiefdom",
+    "name_en": null,
+    "all_tags": {
+      "name": "Yawbeko Chiefdom",
+      "boundary": "administrative",
+      "way_area": "0.0158308",
+      "wikidata": "Q49127222",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -2655862,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2655937,-3230990,-192777",
+    "name": "Bum Chiefdom",
+    "local_name": "Bum Chiefdom",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bum Chiefdom",
+      "boundary": "administrative",
+      "way_area": "0.0300642",
+      "wikidata": "Q4997219",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -2654897,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2541143,-9636490,-192777",
+    "name": "Buya Romende Chiefdom",
+    "local_name": "Buya Romende Chiefdom",
+    "name_en": null,
+    "all_tags": {
+      "name": "Buya Romende Chiefdom",
+      "boundary": "administrative",
+      "way_area": "0.0354512",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -2637561,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2541143,-9636490,-192777",
+    "name": "Marampa Chiefdom",
+    "local_name": "Marampa Chiefdom",
+    "name_en": null,
+    "all_tags": {
+      "name": "Marampa Chiefdom",
+      "boundary": "administrative",
+      "way_area": "0.0327199",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -2636532,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2541143,-9636490,-192777",
+    "name": "Maforki Chiefdom",
+    "local_name": "Maforki Chiefdom",
+    "name_en": null,
+    "all_tags": {
+      "name": "Maforki Chiefdom",
+      "boundary": "administrative",
+      "way_area": "0.0647115",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -2615302,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-9641203,-9636490,-192777",
+    "name": "Sanda Magbolonto Chiefdom",
+    "local_name": "Sanda Magbolonto Chiefdom",
+    "name_en": null,
+    "all_tags": {
+      "name": "Sanda Magbolonto Chiefdom",
+      "boundary": "administrative",
+      "way_area": "0.0461294",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -2615301,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2541143,-9636490,-192777",
+    "name": "Masimera Chiefdom",
+    "local_name": "Masimera Chiefdom",
+    "name_en": null,
+    "all_tags": {
+      "name": "Masimera Chiefdom",
+      "boundary": "administrative",
+      "way_area": "0.0546907",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -2612480,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-9641203,-9636490,-192777",
+    "name": "Tambakha Chiefdom",
+    "local_name": "Tambakha Chiefdom",
+    "name_en": null,
+    "all_tags": {
+      "name": "Tambakha Chiefdom",
+      "boundary": "administrative",
+      "way_area": "0.197008",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -2610633,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2541143,-9636490,-192777",
+    "name": "Koya Chiefdom",
+    "local_name": "Koya Chiefdom",
+    "name_en": null,
+    "all_tags": {
+      "name": "Koya Chiefdom",
+      "boundary": "administrative",
+      "way_area": "0.093734",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -2610122,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2541142,-3230990,-192777",
+    "name": "Timdale Chiefdom",
+    "local_name": "Timdale Chiefdom",
+    "name_en": null,
+    "all_tags": {
+      "name": "Timdale Chiefdom",
+      "boundary": "administrative",
+      "way_area": "0.0275034",
+      "wikidata": "Q49127185",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -2610121,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2541142,-3230990,-192777",
+    "name": "Kagboro Chiefdom",
+    "local_name": "Kagboro Chiefdom",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kagboro Chiefdom",
+      "boundary": "administrative",
+      "way_area": "0.0582001",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -2610026,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-3230989,-192777",
+    "name": "Tonkolili District",
+    "local_name": "Tonkolili District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Tonkolili District",
+      "boundary": "administrative",
+      "way_area": "0.523945",
+      "wikidata": "Q1852020",
+      "wikipedia": "en:Tonkolili District",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -2608049,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2541142,-3230990,-192777",
+    "name": "Bagruwa Chiefdom",
+    "local_name": "Bagruwa Chiefdom",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bagruwa Chiefdom",
+      "boundary": "administrative",
+      "way_area": "0.0680401",
+      "wikidata": "Q31897415",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -2607579,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-3230990,-192777",
+    "name": "Pujehun District",
+    "local_name": "Pujehun District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Pujehun District",
+      "name:lt": "Pudžehuno apygarda",
+      "name:ru": "Пуджехун",
+      "boundary": "administrative",
+      "way_area": "0.344656",
+      "wikidata": "Q927464",
+      "wikipedia": "en:Pujehun District",
+      "admin_level": "5",
+      "border_type": "district"
+    }
+  },
+  {
+    "osm_id": -2541272,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2541142,-3230990,-192777",
+    "name": "Ribbi Chiefdom",
+    "local_name": "Ribbi Chiefdom",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ribbi Chiefdom",
+      "boundary": "administrative",
+      "way_area": "0.0520733",
+      "wikidata": "Q49127141",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -2541225,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-3242455,-192777",
+    "name": "Western Area Rural",
+    "local_name": "Western Area Rural",
+    "name_en": null,
+    "all_tags": {
+      "name": "Western Area Rural",
+      "boundary": "administrative",
+      "way_area": "0.048648",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -2541143,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-9636490,-192777",
+    "name": "Port Loko District",
+    "local_name": "Port Loko District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Port Loko District",
+      "boundary": "administrative",
+      "way_area": "0.449077",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -2541142,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-3230990,-192777",
+    "name": "Moyamba District",
+    "local_name": "Moyamba District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Moyamba District",
+      "boundary": "administrative",
+      "way_area": "0.566618",
+      "admin_level": "5"
+    }
+  }
+]

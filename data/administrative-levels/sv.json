@@ -1,0 +1,2132 @@
+[
+  {
+    "osm_id": -13298479,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3624436,-1520612",
+    "name": "Municipio de Panchimalco",
+    "local_name": "Municipio de Panchimalco",
+    "name_en": null,
+    "all_tags": {
+      "name": "Municipio de Panchimalco",
+      "boundary": "administrative",
+      "way_area": "0.00812338",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13298469,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3624436,-1520612",
+    "name": "Municipio de Rosario de Mora",
+    "local_name": "Municipio de Rosario de Mora",
+    "name_en": null,
+    "all_tags": {
+      "name": "Municipio de Rosario de Mora",
+      "boundary": "administrative",
+      "way_area": "0.00314256",
+      "wikidata": "Q3941398",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13287651,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3624440,-1520612",
+    "name": "Municipio de Nueva Concepción",
+    "local_name": "Municipio de Nueva Concepción",
+    "name_en": null,
+    "all_tags": {
+      "name": "Municipio de Nueva Concepción",
+      "boundary": "administrative",
+      "way_area": "0.0288401",
+      "wikidata": "Q2779443",
+      "wikipedia": "en:Nueva Concepción",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13284906,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3624440,-1520612",
+    "name": "Municipio de San Ignacio",
+    "local_name": "Municipio de San Ignacio",
+    "name_en": null,
+    "all_tags": {
+      "name": "Municipio de San Ignacio",
+      "boundary": "administrative",
+      "way_area": "0.0048559",
+      "wikidata": "Q3947358",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13284888,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3624440,-1520612",
+    "name": "Municipio de Citalá",
+    "local_name": "Municipio de Citalá",
+    "name_en": null,
+    "all_tags": {
+      "name": "Municipio de Citalá",
+      "boundary": "administrative",
+      "way_area": "0.00654837",
+      "wikidata": "Q1154046",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13128868,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3624100,-1520612",
+    "name": "Municipio de El Congo",
+    "local_name": "Municipio de El Congo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Municipio de El Congo",
+      "boundary": "administrative",
+      "way_area": "0.00684493",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13128867,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3624100,-1520612",
+    "name": "Municipio de Coatepeque",
+    "local_name": "Municipio de Coatepeque",
+    "name_en": null,
+    "all_tags": {
+      "name": "Municipio de Coatepeque",
+      "boundary": "administrative",
+      "way_area": "0.0113865",
+      "wikidata": "Q3681838",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13128820,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3624092,-1520612",
+    "name": "Municipio de Sonzacate",
+    "local_name": "Municipio de Sonzacate",
+    "name_en": null,
+    "all_tags": {
+      "name": "Municipio de Sonzacate",
+      "boundary": "administrative",
+      "way_area": "0.000489823",
+      "wikidata": "Q2287976",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13128806,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3624092,-1520612",
+    "name": "Municipio de Nahuizalco",
+    "local_name": "Municipio de Nahuizalco",
+    "name_en": null,
+    "all_tags": {
+      "name": "Municipio de Nahuizalco",
+      "boundary": "administrative",
+      "way_area": "0.00565085",
+      "wikidata": "Q224791",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13128805,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3624092,-1520612",
+    "name": "Municipio de San Antonio del Monte",
+    "local_name": "Municipio de San Antonio del Monte",
+    "name_en": null,
+    "all_tags": {
+      "name": "Municipio de San Antonio del Monte",
+      "boundary": "administrative",
+      "way_area": "0.00216469",
+      "wikidata": "Q3946809",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13128797,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3624092,-1520612",
+    "name": "Municipio de Sonsonate",
+    "local_name": "Municipio de Sonsonate",
+    "name_en": null,
+    "all_tags": {
+      "name": "Municipio de Sonsonate",
+      "boundary": "administrative",
+      "way_area": "0.0183011",
+      "wikidata": "Q1014248",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13128761,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3624092,-1520612",
+    "name": "Municipio de Nahulingo",
+    "local_name": "Municipio de Nahulingo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Municipio de Nahulingo",
+      "boundary": "administrative",
+      "way_area": "0.00294294",
+      "wikidata": "Q3869952",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13128748,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3624092,-1520612",
+    "name": "Municipio de Cuisnahuat",
+    "local_name": "Municipio de Cuisnahuat",
+    "name_en": null,
+    "all_tags": {
+      "name": "Municipio de Cuisnahuat",
+      "boundary": "administrative",
+      "way_area": "0.0069909",
+      "wikidata": "Q985411",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13128742,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3624092,-1520612",
+    "name": "Municipio de Caluco",
+    "local_name": "Municipio de Caluco",
+    "name_en": null,
+    "all_tags": {
+      "name": "Municipio de Caluco",
+      "boundary": "administrative",
+      "way_area": "0.00447915",
+      "wikidata": "Q985418",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13128734,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3624092,-1520612",
+    "name": "Municipio de Santo Domingo de Guzmán",
+    "local_name": "Municipio de Santo Domingo de Guzmán",
+    "name_en": null,
+    "all_tags": {
+      "name": "Municipio de Santo Domingo de Guzmán",
+      "boundary": "administrative",
+      "way_area": "0.00233446",
+      "wikidata": "Q985416",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13128730,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3624092,-1520612",
+    "name": "Municipio de Santa Catarina Masahuat",
+    "local_name": "Municipio de Santa Catarina Masahuat",
+    "name_en": null,
+    "all_tags": {
+      "name": "Municipio de Santa Catarina Masahuat",
+      "boundary": "administrative",
+      "way_area": "0.00269704",
+      "wikidata": "Q3948939",
+      "wikipedia": "en:Santa Catarina Masahuat",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12653303,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3624451,-1520612",
+    "name": "Municipio de Dolores",
+    "local_name": "Municipio de Dolores",
+    "name_en": null,
+    "all_tags": {
+      "name": "Municipio de Dolores",
+      "boundary": "administrative",
+      "way_area": "0.0115948",
+      "wikidata": "Q288117",
+      "wikipedia": "en:Dolores, Cabañas",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12017123,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3625421,-1520612",
+    "name": "Municipio de Meanguera",
+    "local_name": "Municipio de Meanguera",
+    "name_en": null,
+    "all_tags": {
+      "name": "Municipio de Meanguera",
+      "boundary": "administrative",
+      "way_area": "0.00463934",
+      "wikidata": "Q3853441",
+      "wikipedia": "en:Meanguera, Morazán",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -10303109,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3624451,-1520612",
+    "name": "Municipio de Guacotecti",
+    "local_name": "Municipio de Guacotecti",
+    "name_en": null,
+    "all_tags": {
+      "name": "Municipio de Guacotecti",
+      "boundary": "administrative",
+      "way_area": "0.0023177",
+      "wikidata": "Q569006",
+      "wikipedia": "en:Guacotecti",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -10298565,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3625389,-1520612",
+    "name": "Municipio de Jucuarán",
+    "local_name": "Municipio de Jucuarán",
+    "name_en": null,
+    "all_tags": {
+      "name": "Municipio de Jucuarán",
+      "boundary": "administrative",
+      "way_area": "0.0196647",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -10078417,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3624113,-1520612",
+    "name": "Talnique",
+    "local_name": "Talnique",
+    "name_en": null,
+    "all_tags": {
+      "name": "Talnique",
+      "boundary": "administrative",
+      "way_area": "8.44319e-06",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -9620563,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3623374,-1520612",
+    "name": "Municipio de Atiquizaya",
+    "local_name": "Municipio de Atiquizaya",
+    "name_en": null,
+    "all_tags": {
+      "name": "Municipio de Atiquizaya",
+      "boundary": "administrative",
+      "way_area": "0.0051785",
+      "wikidata": "Q2779447",
+      "wikipedia": "en:Atiquizaya",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -9620562,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3623374,-1520612",
+    "name": "Municipio de El Refugio",
+    "local_name": "Municipio de El Refugio",
+    "name_en": null,
+    "all_tags": {
+      "name": "Municipio de El Refugio",
+      "boundary": "administrative",
+      "way_area": "0.000947676",
+      "wikidata": "Q2779429",
+      "wikipedia": "en:El Refugio, Ahuachapán",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -9395435,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3623374,-1520612",
+    "name": "Municipio de San Lorenzo",
+    "local_name": "Municipio de San Lorenzo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Municipio de San Lorenzo",
+      "boundary": "administrative",
+      "way_area": "0.00373047",
+      "wikidata": "Q2779438",
+      "wikipedia": "en:San Lorenzo, Ahuachapán",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -9229624,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3624436,-1520612",
+    "name": "Municipio de Aguilares",
+    "local_name": "Municipio de Aguilares",
+    "name_en": null,
+    "all_tags": {
+      "name": "Municipio de Aguilares",
+      "boundary": "administrative",
+      "way_area": "0.00281506",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -9229622,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3624436,-1520612",
+    "name": "Municipio de Nejapa",
+    "local_name": "Municipio de Nejapa",
+    "name_en": null,
+    "all_tags": {
+      "name": "Municipio de Nejapa",
+      "boundary": "administrative",
+      "way_area": "0.00701924",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -9229558,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3624436,-1520612",
+    "name": "Municipio de Apopa",
+    "local_name": "Municipio de Apopa",
+    "name_en": null,
+    "all_tags": {
+      "name": "Municipio de Apopa",
+      "boundary": "administrative",
+      "way_area": "0.00439943",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -9229449,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3624436,-1520612",
+    "name": "Municipio de Guazapa",
+    "local_name": "Municipio de Guazapa",
+    "name_en": null,
+    "all_tags": {
+      "name": "Municipio de Guazapa",
+      "boundary": "administrative",
+      "way_area": "0.005416",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -9229437,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3624436,-1520612",
+    "name": "Municipio de Tonacatepeque",
+    "local_name": "Municipio de Tonacatepeque",
+    "name_en": null,
+    "all_tags": {
+      "name": "Municipio de Tonacatepeque",
+      "boundary": "administrative",
+      "way_area": "0.00567695",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -9229415,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3624436,-1520612",
+    "name": "Municipio de Delgado",
+    "local_name": "Municipio de Delgado",
+    "name_en": null,
+    "all_tags": {
+      "name": "Municipio de Delgado",
+      "boundary": "administrative",
+      "way_area": "0.00278314",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -9222765,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3624439,-1520612",
+    "name": "Municipio de San Ramón",
+    "local_name": "Municipio de San Ramón",
+    "name_en": null,
+    "all_tags": {
+      "name": "Municipio de San Ramón",
+      "boundary": "administrative",
+      "way_area": "0.000988801",
+      "wikidata": "Q3947894",
+      "wikipedia": "en:San Ramón, Cuscatlán",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -9222747,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3624439,-1520612",
+    "name": "Municipio de Cojutepeque",
+    "local_name": "Municipio de Cojutepeque",
+    "name_en": null,
+    "all_tags": {
+      "name": "Municipio de Cojutepeque",
+      "boundary": "administrative",
+      "way_area": "0.00230243",
+      "wikidata": "Q2565407",
+      "wikipedia": "en:Cojutepeque",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -9222746,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3624439,-1520612",
+    "name": "Municipio de San Bartolomé Perulapía",
+    "local_name": "Municipio de San Bartolomé Perulapía",
+    "name_en": null,
+    "all_tags": {
+      "name": "Municipio de San Bartolomé Perulapía",
+      "boundary": "administrative",
+      "way_area": "0.000983871",
+      "wikidata": "Q2834750",
+      "wikipedia": "en:San Bartolomé Perulapía",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -9222624,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3624439,-1520612",
+    "name": "Municipio de Oratorio de Concepción",
+    "local_name": "Municipio de Oratorio de Concepción",
+    "name_en": null,
+    "all_tags": {
+      "name": "Municipio de Oratorio de Concepción",
+      "boundary": "administrative",
+      "way_area": "0.00121033",
+      "wikidata": "Q3884408",
+      "wikipedia": "en:Oratorio de Concepción",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -9222324,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3624439,-1520612",
+    "name": "Municipio de San José Guayabal",
+    "local_name": "Municipio de San José Guayabal",
+    "name_en": null,
+    "all_tags": {
+      "name": "Municipio de San José Guayabal",
+      "boundary": "administrative",
+      "way_area": "0.0057489",
+      "wikidata": "Q3947416",
+      "wikipedia": "en:San José Guayabal",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -9222262,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3624439,-1520612",
+    "name": "Municipio de Suchitoto",
+    "local_name": "Municipio de Suchitoto",
+    "name_en": null,
+    "all_tags": {
+      "name": "Municipio de Suchitoto",
+      "boundary": "administrative",
+      "way_area": "0.0255891",
+      "wikidata": "Q2779509",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8811961,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3625421,-1520612",
+    "name": "Municipio de Corinto",
+    "local_name": "Municipio de Corinto",
+    "name_en": null,
+    "all_tags": {
+      "name": "Municipio de Corinto",
+      "boundary": "administrative",
+      "way_area": "0.0094521",
+      "wikidata": "Q3693570",
+      "wikipedia": "en:Corinto, Morazán",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8730034,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3624477,-1520612",
+    "name": "Paraíso de Osorío",
+    "local_name": "Paraíso de Osorío",
+    "name_en": null,
+    "all_tags": {
+      "name": "Paraíso de Osorío",
+      "boundary": "administrative",
+      "way_area": "0.000664695",
+      "wikidata": "Q1154739",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8729975,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3624477,-1520612",
+    "name": "Santa María Ostuma",
+    "local_name": "Santa María Ostuma",
+    "name_en": null,
+    "all_tags": {
+      "name": "Santa María Ostuma",
+      "boundary": "administrative",
+      "way_area": "0.00184142",
+      "wikidata": "Q1154777",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8729910,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3624477,-1520612",
+    "name": "San Juan Talpa",
+    "local_name": "San Juan Talpa",
+    "name_en": null,
+    "all_tags": {
+      "name": "San Juan Talpa",
+      "place": "city",
+      "boundary": "administrative",
+      "way_area": "0.000987861",
+      "wikidata": "Q31936533",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8705400,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3624113,-1520612",
+    "name": "Santa Tecla",
+    "local_name": "Santa Tecla",
+    "name_en": null,
+    "all_tags": {
+      "name": "Santa Tecla",
+      "place": "city",
+      "capital": "4",
+      "boundary": "administrative",
+      "way_area": "0.0092154",
+      "addr:state": "La Libertad",
+      "admin_level": "6",
+      "is_in:state": "La Libertad",
+      "is_in:county": "El Salvador",
+      "place:country_code": "SV"
+    }
+  },
+  {
+    "osm_id": -8592737,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3624477,-1520612",
+    "name": "San Pedro Nonualco",
+    "local_name": "San Pedro Nonualco",
+    "name_en": null,
+    "all_tags": {
+      "name": "San Pedro Nonualco",
+      "place": "city",
+      "boundary": "administrative",
+      "way_area": "0.00329653",
+      "wikidata": "Q31936617",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8551728,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3624477,-1520612",
+    "name": "San Luis Talpa",
+    "local_name": "San Luis Talpa",
+    "name_en": null,
+    "all_tags": {
+      "name": "San Luis Talpa",
+      "place": "village",
+      "boundary": "administrative",
+      "way_area": "0.00974762",
+      "wikidata": "Q1154286",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8527399,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3625432,-1520612",
+    "name": "Municipio de Yucuaiquín",
+    "local_name": "Municipio de Yucuaiquín",
+    "name_en": null,
+    "all_tags": {
+      "name": "Municipio de Yucuaiquín",
+      "boundary": "administrative",
+      "way_area": "0.00402552",
+      "wikidata": "Q4023174",
+      "wikipedia": "en:Yucuaiquín",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8527398,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-3625432,-1520612",
+    "name": "Municipio de Pasaquina",
+    "local_name": "Municipio de Pasaquina",
+    "name_en": null,
+    "all_tags": {
+      "name": "Municipio de Pasaquina",
+      "boundary": "administrative",
+      "way_area": "0.0188211",
+      "wikidata": "Q3896916",
+      "wikipedia": "en:Pasaquina",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -8527388,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3625432,-1520612",
+    "name": "Municipio de San Alejo",
+    "local_name": "Municipio de San Alejo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Municipio de San Alejo",
+      "boundary": "administrative",
+      "way_area": "0.0225226",
+      "wikidata": "Q927114",
+      "wikipedia": "en:San Alejo",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8527345,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3624100,-1520612",
+    "name": "Municipio de Chalchuapa",
+    "local_name": "Municipio de Chalchuapa",
+    "name_en": null,
+    "all_tags": {
+      "name": "Municipio de Chalchuapa",
+      "boundary": "administrative",
+      "way_area": "0.0153807",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8527341,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3624100,-1520612",
+    "name": "Municipio de Candelaria de la Frontera",
+    "local_name": "Municipio de Candelaria de la Frontera",
+    "name_en": null,
+    "all_tags": {
+      "name": "Municipio de Candelaria de la Frontera",
+      "boundary": "administrative",
+      "way_area": "0.0084307",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8527319,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3624100,-1520612",
+    "name": "Municipio de Santiago de la Frontera",
+    "local_name": "Municipio de Santiago de la Frontera",
+    "name_en": null,
+    "all_tags": {
+      "name": "Municipio de Santiago de la Frontera",
+      "boundary": "administrative",
+      "way_area": "0.00341268",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8527293,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3624100,-1520612",
+    "name": "Municipio de Texistepeque",
+    "local_name": "Municipio de Texistepeque",
+    "name_en": null,
+    "all_tags": {
+      "name": "Municipio de Texistepeque",
+      "boundary": "administrative",
+      "way_area": "0.0140667",
+      "admin_level": "6",
+      "border_type": "municipio"
+    }
+  },
+  {
+    "osm_id": -8434190,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3624477,-1520612",
+    "name": "Zacatecoluca",
+    "local_name": "Zacatecoluca",
+    "name_en": null,
+    "all_tags": {
+      "name": "Zacatecoluca",
+      "place": "city",
+      "capital": "4",
+      "boundary": "administrative",
+      "way_area": "0.0237063",
+      "wikidata": "Q139248",
+      "addr:state": "Departamento de La Paz",
+      "admin_level": "6",
+      "postal_code": "CP 1601",
+      "place:country_code": "SV"
+    }
+  },
+  {
+    "osm_id": -8418085,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3624477,-1520612",
+    "name": "El Rosario",
+    "local_name": "El Rosario",
+    "name_en": null,
+    "all_tags": {
+      "name": "El Rosario",
+      "place": "city",
+      "boundary": "administrative",
+      "way_area": "0.00458148",
+      "addr:state": "Departamento de La Paz",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8418051,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3624477,-1520612",
+    "name": "San Juan Nonualco",
+    "local_name": "San Juan Nonualco",
+    "name_en": null,
+    "all_tags": {
+      "name": "San Juan Nonualco",
+      "place": "city",
+      "boundary": "administrative",
+      "way_area": "0.0054766",
+      "wikidata": "Q3471526",
+      "wikipedia": "es:San Juan Nonualco",
+      "admin_level": "6",
+      "postal_code": "CP 1613",
+      "place:country_code": "SV"
+    }
+  },
+  {
+    "osm_id": -8322749,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3625421,-1520612",
+    "name": "Municipio de San Francisco Gotera",
+    "local_name": "Municipio de San Francisco Gotera",
+    "name_en": null,
+    "all_tags": {
+      "name": "Municipio de San Francisco Gotera",
+      "boundary": "administrative",
+      "way_area": "0.0052666",
+      "wikidata": "Q969396",
+      "wikipedia": "en:San Francisco Gotera, Morazán",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8322543,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3625421,-1520612",
+    "name": "Municipio de San Carlos",
+    "local_name": "Municipio de San Carlos",
+    "name_en": null,
+    "all_tags": {
+      "name": "Municipio de San Carlos",
+      "boundary": "administrative",
+      "way_area": "0.00332834",
+      "wikidata": "Q3946877",
+      "wikipedia": "en:San Carlos, Morazán",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8283266,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3625432,-1520612",
+    "name": "Municipio de Yayantique",
+    "local_name": "Municipio de Yayantique",
+    "name_en": null,
+    "all_tags": {
+      "name": "Municipio de Yayantique",
+      "boundary": "administrative",
+      "way_area": "0.00348789",
+      "wikidata": "Q4022615",
+      "wikipedia": "en:Yayantique",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8283252,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3625432,-1520612",
+    "name": "Municipio de El Carmen",
+    "local_name": "Municipio de El Carmen",
+    "name_en": null,
+    "all_tags": {
+      "name": "Municipio de El Carmen",
+      "boundary": "administrative",
+      "way_area": "0.0117582",
+      "wikidata": "Q3720872",
+      "wikipedia": "en:El Carmen, La Unión",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8283242,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3625432,-1520612",
+    "name": "Municipio de Intipucá",
+    "local_name": "Municipio de Intipucá",
+    "name_en": null,
+    "all_tags": {
+      "name": "Municipio de Intipucá",
+      "boundary": "administrative",
+      "way_area": "0.00760463",
+      "wikidata": "Q3800717",
+      "wikipedia": "en:Intipucá",
+      "admin_level": "6",
+      "border_type": "municipality"
+    }
+  },
+  {
+    "osm_id": -8196206,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3624100,-1520612",
+    "name": "Municipio de El Porvenir",
+    "local_name": "Municipio de El Porvenir",
+    "name_en": null,
+    "all_tags": {
+      "name": "Municipio de El Porvenir",
+      "boundary": "administrative",
+      "way_area": "0.00404338",
+      "admin_level": "6",
+      "border_type": "municipality"
+    }
+  },
+  {
+    "osm_id": -8148131,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3624436,-1520612",
+    "name": "Municipio de Soyapango",
+    "local_name": "Municipio de Soyapango",
+    "name_en": null,
+    "all_tags": {
+      "name": "Municipio de Soyapango",
+      "boundary": "administrative",
+      "way_area": "0.00250641",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8147955,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3624436,-1520612",
+    "name": "Municipio de Ilopango",
+    "local_name": "Municipio de Ilopango",
+    "name_en": null,
+    "all_tags": {
+      "name": "Municipio de Ilopango",
+      "boundary": "administrative",
+      "way_area": "0.00277667",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8147940,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3624436,-1520612",
+    "name": "Municipio de Santiago Texacuangos",
+    "local_name": "Municipio de Santiago Texacuangos",
+    "name_en": null,
+    "all_tags": {
+      "name": "Municipio de Santiago Texacuangos",
+      "boundary": "administrative",
+      "way_area": "0.00297619",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8147932,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3624436,-1520612",
+    "name": "Santo Tomás",
+    "local_name": "Santo Tomás",
+    "name_en": null,
+    "all_tags": {
+      "name": "Santo Tomás",
+      "boundary": "administrative",
+      "way_area": "0.00220969",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8113619,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3624436,-1520612",
+    "name": "Municipio de San Martin",
+    "local_name": "Municipio de San Martin",
+    "name_en": null,
+    "all_tags": {
+      "name": "Municipio de San Martin",
+      "boundary": "administrative",
+      "way_area": "0.00464509",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8022709,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3624439,-1520612",
+    "name": "Municipio de Candelaria",
+    "local_name": "Municipio de Candelaria",
+    "name_en": null,
+    "all_tags": {
+      "name": "Municipio de Candelaria",
+      "boundary": "administrative",
+      "way_area": "0.00293396",
+      "wikidata": "Q3655175",
+      "wikipedia": "en:Candelaria, Cuscatlán",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8022699,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3624439,-1520612",
+    "name": "Municipio de Santa Cruz Analquito",
+    "local_name": "Municipio de Santa Cruz Analquito",
+    "name_en": null,
+    "all_tags": {
+      "name": "Municipio de Santa Cruz Analquito",
+      "boundary": "administrative",
+      "way_area": "0.000901107",
+      "wikidata": "Q3948985",
+      "wikipedia": "en:Santa Cruz Analquito",
+      "population": "2585",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7922757,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3624092,-1520612",
+    "name": "Municipio de San Julian",
+    "local_name": "Municipio de San Julian",
+    "name_en": null,
+    "all_tags": {
+      "name": "Municipio de San Julian",
+      "boundary": "administrative",
+      "way_area": "0.00605808",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7369614,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3624113,-1520612",
+    "name": "Municipio de Jayaque",
+    "local_name": "Municipio de Jayaque",
+    "name_en": null,
+    "all_tags": {
+      "name": "Municipio de Jayaque",
+      "boundary": "administrative",
+      "way_area": "0.00353543",
+      "wikidata": "Q3807516",
+      "wikipedia": "en:Jayaque",
+      "population": "11058",
+      "admin_level": "6",
+      "border_type": "municipio"
+    }
+  },
+  {
+    "osm_id": -7369464,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3624113,-1520612",
+    "name": "Municipio de Tepecoyo",
+    "local_name": "Municipio de Tepecoyo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Municipio de Tepecoyo",
+      "boundary": "administrative",
+      "way_area": "0.00416996",
+      "wikidata": "Q3984175",
+      "wikipedia": "en:Tepecoyo",
+      "admin_level": "6",
+      "border_type": "municipio"
+    }
+  },
+  {
+    "osm_id": -7369381,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3624113,-1520612",
+    "name": "Municipio de Chiltiupan",
+    "local_name": "Municipio de Chiltiupan",
+    "name_en": null,
+    "all_tags": {
+      "name": "Municipio de Chiltiupan",
+      "boundary": "administrative",
+      "way_area": "0.00729612",
+      "wikidata": "Q3674712",
+      "wikipedia": "en:Chiltiupán",
+      "admin_level": "6",
+      "border_type": "municipio"
+    }
+  },
+  {
+    "osm_id": -7369369,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3624113,-1520612",
+    "name": "Municipio de Jicalapa",
+    "local_name": "Municipio de Jicalapa",
+    "name_en": null,
+    "all_tags": {
+      "name": "Municipio de Jicalapa",
+      "boundary": "administrative",
+      "way_area": "0.00446049",
+      "wikidata": "Q3808267",
+      "wikipedia": "en:Jicalapa",
+      "admin_level": "6",
+      "border_type": "municipio"
+    }
+  },
+  {
+    "osm_id": -7369200,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3624113,-1520612",
+    "name": "Municipio de Tamanique",
+    "local_name": "Municipio de Tamanique",
+    "name_en": null,
+    "all_tags": {
+      "name": "Municipio de Tamanique",
+      "boundary": "administrative",
+      "way_area": "0.0083448",
+      "wikidata": "Q3980556",
+      "wikipedia": "en:Tamanique",
+      "admin_level": "6",
+      "border_type": "municipio"
+    }
+  },
+  {
+    "osm_id": -7369049,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3624113,-1520612",
+    "name": "Municipio de La Libertad",
+    "local_name": "Municipio de La Libertad",
+    "name_en": null,
+    "all_tags": {
+      "name": "Municipio de La Libertad",
+      "boundary": "administrative",
+      "way_area": "0.0108325",
+      "wikidata": "Q2631462",
+      "wikipedia": "en:La Libertad, La Libertad",
+      "admin_level": "6",
+      "border_type": "municipio"
+    }
+  },
+  {
+    "osm_id": -6955016,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3624092,-1520612",
+    "name": "Municipio de Salcoatitán",
+    "local_name": "Municipio de Salcoatitán",
+    "name_en": null,
+    "all_tags": {
+      "name": "Municipio de Salcoatitán",
+      "boundary": "administrative",
+      "way_area": "0.00106284",
+      "admin_level": "6",
+      "border_type": "municipio"
+    }
+  },
+  {
+    "osm_id": -6955011,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3624092,-1520612",
+    "name": "Municipio de Juayua",
+    "local_name": "Municipio de Juayua",
+    "name_en": null,
+    "all_tags": {
+      "name": "Municipio de Juayua",
+      "boundary": "administrative",
+      "way_area": "0.00749478",
+      "admin_level": "6",
+      "border_type": "municipio"
+    }
+  },
+  {
+    "osm_id": -6946258,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3624092,-1520612",
+    "name": "Municipio de Izalco",
+    "local_name": "Municipio de Izalco",
+    "name_en": null,
+    "all_tags": {
+      "name": "Municipio de Izalco",
+      "boundary": "administrative",
+      "way_area": "0.0147847",
+      "wikidata": "Q682226",
+      "admin_level": "6",
+      "border_type": "municipio"
+    }
+  },
+  {
+    "osm_id": -6873233,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3624436,-1520612",
+    "name": "Municipio de Ayuxtuxtepeque",
+    "local_name": "Municipio de Ayuxtuxtepeque",
+    "name_en": null,
+    "all_tags": {
+      "name": "Municipio de Ayuxtuxtepeque",
+      "boundary": "administrative",
+      "way_area": "0.000746333",
+      "admin_level": "6",
+      "border_type": "municipio"
+    }
+  },
+  {
+    "osm_id": -6867826,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3624436,-1520612",
+    "name": "Municipio de Cuscatancingo",
+    "local_name": "Municipio de Cuscatancingo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Municipio de Cuscatancingo",
+      "boundary": "administrative",
+      "way_area": "0.00053451",
+      "wikidata": "Q31935860",
+      "population": "66400",
+      "admin_level": "6",
+      "border_type": "municipio"
+    }
+  },
+  {
+    "osm_id": -6846481,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3624436,-1520612",
+    "name": "Municipio de Mejicanos",
+    "local_name": "Municipio de Mejicanos",
+    "name_en": null,
+    "all_tags": {
+      "name": "Municipio de Mejicanos",
+      "boundary": "administrative",
+      "way_area": "0.00163202",
+      "population": "140751",
+      "admin_level": "6",
+      "border_type": "municipio"
+    }
+  },
+  {
+    "osm_id": -6832812,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3624092,-1520612",
+    "name": "Municipio de Santa Isabel Ishuatán",
+    "local_name": "Municipio de Santa Isabel Ishuatán",
+    "name_en": null,
+    "all_tags": {
+      "name": "Municipio de Santa Isabel Ishuatán",
+      "boundary": "administrative",
+      "way_area": "0.00829775",
+      "population": "10241",
+      "admin_level": "6",
+      "border_type": "municipio"
+    }
+  },
+  {
+    "osm_id": -6805100,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3624113,-1520612",
+    "name": "Municipio de Antiguo Cuscatlán",
+    "local_name": "Municipio de Antiguo Cuscatlán",
+    "name_en": null,
+    "all_tags": {
+      "name": "Municipio de Antiguo Cuscatlán",
+      "boundary": "administrative",
+      "way_area": "0.00179708",
+      "wikidata": "Q575756",
+      "wikipedia": "en:Antiguo Cuscatlán",
+      "admin_level": "6",
+      "border_type": "municipio"
+    }
+  },
+  {
+    "osm_id": -6744519,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3623374,-1520612",
+    "name": "Municipio de Turín",
+    "local_name": "Municipio de Turín",
+    "name_en": null,
+    "all_tags": {
+      "name": "Municipio de Turín",
+      "boundary": "administrative",
+      "way_area": "0.000835315",
+      "wikidata": "Q2779405",
+      "wikipedia": "en:Turín",
+      "admin_level": "6",
+      "border_type": "municipio"
+    }
+  },
+  {
+    "osm_id": -6744515,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3623374,-1520612",
+    "name": "Municipio de Ahuachapán",
+    "local_name": "Municipio de Ahuachapán",
+    "name_en": null,
+    "all_tags": {
+      "name": "Municipio de Ahuachapán",
+      "boundary": "administrative",
+      "way_area": "0.0208999",
+      "population": "110511",
+      "admin_level": "6",
+      "border_type": "municipio"
+    }
+  },
+  {
+    "osm_id": -6678084,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3624113,-1520612",
+    "name": "Municipio de Ciudad Arcé",
+    "local_name": "Municipio de Ciudad Arcé",
+    "name_en": null,
+    "all_tags": {
+      "name": "Municipio de Ciudad Arcé",
+      "boundary": "administrative",
+      "way_area": "0.00646126",
+      "wikidata": "Q649241",
+      "wikipedia": "en:Ciudad Arce",
+      "admin_level": "6",
+      "border_type": "munucupio"
+    }
+  },
+  {
+    "osm_id": -6669092,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3624113,-1520612",
+    "name": "Municipio de San Matías",
+    "local_name": "Municipio de San Matías",
+    "name_en": null,
+    "all_tags": {
+      "name": "Municipio de San Matías",
+      "boundary": "administrative",
+      "way_area": "0.00432681",
+      "wikidata": "Q3947669",
+      "wikipedia": "en:San Matías, La Libertad",
+      "admin_level": "6",
+      "border_type": "municipio"
+    }
+  },
+  {
+    "osm_id": -6669083,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3624113,-1520612",
+    "name": "Municipio de San Pablo Tacachico",
+    "local_name": "Municipio de San Pablo Tacachico",
+    "name_en": null,
+    "all_tags": {
+      "name": "Municipio de San Pablo Tacachico",
+      "boundary": "administrative",
+      "way_area": "0.0106036",
+      "wikidata": "Q3947747",
+      "wikipedia": "en:San Pablo Tacachico",
+      "admin_level": "6",
+      "border_type": "municipio"
+    }
+  },
+  {
+    "osm_id": -6651387,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3624092,-1520612",
+    "name": "Municipio de Armenia",
+    "local_name": "Municipio de Armenia",
+    "name_en": null,
+    "all_tags": {
+      "name": "Municipio de Armenia",
+      "boundary": "administrative",
+      "way_area": "0.00613059",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -6637187,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3624113,-1520612",
+    "name": "Municipio de Teotepeque",
+    "local_name": "Municipio de Teotepeque",
+    "name_en": null,
+    "all_tags": {
+      "name": "Municipio de Teotepeque",
+      "boundary": "administrative",
+      "way_area": "0.00897889",
+      "wikidata": "Q3984168",
+      "wikipedia": "en:Teotepeque",
+      "population": "12320",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -6626641,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3623374,-1520612",
+    "name": "Municipio de Apaneca",
+    "local_name": "Municipio de Apaneca",
+    "name_en": null,
+    "all_tags": {
+      "name": "Municipio de Apaneca",
+      "boundary": "administrative",
+      "way_area": "0.00341335",
+      "wikidata": "Q2779422",
+      "wikipedia": "en:Apaneca",
+      "population": "8383",
+      "admin_level": "6",
+      "border_type": "municipality",
+      "FISDL:Pobreza": "Pobreza Alta",
+      "codigo_municipal": "0102"
+    }
+  },
+  {
+    "osm_id": -6626627,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3623374,-1520612",
+    "name": "Municipio de San Pedro Puxtla",
+    "local_name": "Municipio de San Pedro Puxtla",
+    "name_en": null,
+    "all_tags": {
+      "name": "Municipio de San Pedro Puxtla",
+      "boundary": "administrative",
+      "way_area": "0.00208693",
+      "wikidata": "Q2310677",
+      "wikipedia": "en:San Pedro Puxtla",
+      "population": "7773",
+      "admin_level": "6",
+      "FISDL:Pobreza": "Pobreza Severa",
+      "codigo_municipal": "0110"
+    }
+  },
+  {
+    "osm_id": -6626607,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3623374,-1520612",
+    "name": "Municipio de Guaymango",
+    "local_name": "Municipio de Guaymango",
+    "name_en": null,
+    "all_tags": {
+      "name": "Municipio de Guaymango",
+      "boundary": "administrative",
+      "way_area": "0.00658208",
+      "wikidata": "Q2779410",
+      "wikipedia": "en:Guaymango",
+      "population": "19037",
+      "admin_level": "6",
+      "border_type": "municipality",
+      "population:men": "9487",
+      "codigo_municipal": "0106",
+      "population:women": "9550"
+    }
+  },
+  {
+    "osm_id": -6594235,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3624477,-1520612",
+    "name": "San Luis La Herradura",
+    "local_name": "San Luis La Herradura",
+    "name_en": null,
+    "all_tags": {
+      "name": "San Luis La Herradura",
+      "place": "village",
+      "boundary": "administrative",
+      "way_area": "0.00881125",
+      "admin_level": "6",
+      "border_type": "municipality"
+    }
+  },
+  {
+    "osm_id": -6594216,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3624477,-1520612",
+    "name": "Municipio de Mercedes La Ceiba",
+    "local_name": "Municipio de Mercedes La Ceiba",
+    "name_en": null,
+    "all_tags": {
+      "name": "Municipio de Mercedes La Ceiba",
+      "boundary": "administrative",
+      "way_area": "0.000204868",
+      "wikidata": "Q1154302",
+      "wikipedia": "en:Mercedes La Ceiba",
+      "admin_level": "6",
+      "border_type": "municipality"
+    }
+  },
+  {
+    "osm_id": -6594206,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3624477,-1520612",
+    "name": "Jerusalén",
+    "local_name": "Jerusalén",
+    "name_en": null,
+    "all_tags": {
+      "name": "Jerusalén",
+      "boundary": "administrative",
+      "way_area": "0.000779736",
+      "addr:state": "La Paz",
+      "admin_level": "6",
+      "border_type": "municipality",
+      "addr:country": "SV"
+    }
+  },
+  {
+    "osm_id": -6575978,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3624113,-1520612",
+    "name": "San Juan Opico",
+    "local_name": "San Juan Opico",
+    "name_en": null,
+    "all_tags": {
+      "name": "San Juan Opico",
+      "boundary": "administrative",
+      "way_area": "0.0192219",
+      "wikidata": "Q2003995",
+      "wikipedia": "en:Opico",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -6560289,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3625432,-1520612",
+    "name": "Municipio de Conchagua",
+    "local_name": "Municipio de Conchagua",
+    "name_en": null,
+    "all_tags": {
+      "name": "Municipio de Conchagua",
+      "boundary": "administrative",
+      "way_area": "0.0146838",
+      "wikidata": "Q3686207",
+      "wikipedia": "en:Conchagua",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -6553305,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3625432,-1520612",
+    "name": "Municipio de La Unión",
+    "local_name": "Municipio de La Unión",
+    "name_en": null,
+    "all_tags": {
+      "name": "Municipio de La Unión",
+      "boundary": "administrative",
+      "way_area": "0.0156699",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -6525328,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3624100,-1520612",
+    "name": "Municipio de Masahuat",
+    "local_name": "Municipio de Masahuat",
+    "name_en": null,
+    "all_tags": {
+      "name": "Municipio de Masahuat",
+      "boundary": "administrative",
+      "way_area": "0.00436489",
+      "wikidata": "Q372275",
+      "wikipedia": "en:Masahuat",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -6525316,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3624100,-1520612",
+    "name": "Municipio de Santa Rosa Guachipílín",
+    "local_name": "Municipio de Santa Rosa Guachipílín",
+    "name_en": null,
+    "all_tags": {
+      "name": "Municipio de Santa Rosa Guachipílín",
+      "boundary": "administrative",
+      "way_area": "0.00412606",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -6525275,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3624100,-1520612",
+    "name": "Municipio de Metapán",
+    "local_name": "Municipio de Metapán",
+    "name_en": null,
+    "all_tags": {
+      "name": "Municipio de Metapán",
+      "boundary": "administrative",
+      "way_area": "0.0573992",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -6487125,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3624436,-1520612",
+    "name": "San Marcos",
+    "local_name": "San Marcos",
+    "name_en": null,
+    "all_tags": {
+      "name": "San Marcos",
+      "boundary": "administrative",
+      "way_area": "0.00140815",
+      "wikidata": "Q1157132",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -6462027,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3624436,-1520612",
+    "name": "San Salvador",
+    "local_name": "San Salvador",
+    "name_en": null,
+    "all_tags": {
+      "name": "San Salvador",
+      "place": "city",
+      "boundary": "administrative",
+      "way_area": "0.00596432",
+      "wikidata": "Q3110",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -6433677,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3624436,-1520612",
+    "name": "Municipio de El Paisnal",
+    "local_name": "Municipio de El Paisnal",
+    "name_en": null,
+    "all_tags": {
+      "name": "Municipio de El Paisnal",
+      "boundary": "administrative",
+      "way_area": "0.0105752",
+      "population": "14551",
+      "admin_level": "6",
+      "border_type": "municipacity",
+      "population:men": "7084",
+      "population:women": "7467"
+    }
+  },
+  {
+    "osm_id": -6311426,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3624100,-1520612",
+    "name": "Municipio de San Antonio Pajonal",
+    "local_name": "Municipio de San Antonio Pajonal",
+    "name_en": null,
+    "all_tags": {
+      "name": "Municipio de San Antonio Pajonal",
+      "boundary": "administrative",
+      "way_area": "0.00423085",
+      "wikidata": "Q3946737",
+      "wikipedia": "en:San Antonio Pajonal",
+      "population": "3279",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -6173339,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3623374,-1520612",
+    "name": "Municipio de Ataco",
+    "local_name": "Municipio de Ataco",
+    "name_en": null,
+    "all_tags": {
+      "name": "Municipio de Ataco",
+      "alt_name": "Concepción de Ataco",
+      "boundary": "administrative",
+      "way_area": "0.00561712",
+      "wikidata": "Q1123798",
+      "wikipedia": "es:Concepción de Ataco",
+      "population": "12768",
+      "admin_level": "6",
+      "postal_code": "2106"
+    }
+  },
+  {
+    "osm_id": -6172141,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3623374,-1520612",
+    "name": "Municipio de Tacuba",
+    "local_name": "Municipio de Tacuba",
+    "name_en": null,
+    "all_tags": {
+      "name": "Municipio de Tacuba",
+      "boundary": "administrative",
+      "way_area": "0.0131792",
+      "wikidata": "Q1283898",
+      "wikipedia": "es:Tacuba (El Salvador)",
+      "population": "31209",
+      "admin_level": "6",
+      "postal_code": "2117"
+    }
+  },
+  {
+    "osm_id": -6172140,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3623374,-1520612",
+    "name": "Municipio de Jujutla",
+    "local_name": "Municipio de Jujutla",
+    "name_en": null,
+    "all_tags": {
+      "name": "Municipio de Jujutla",
+      "boundary": "administrative",
+      "way_area": "0.0157658",
+      "wikidata": "Q2779408",
+      "wikipedia": "es:Jujutla",
+      "population": "29548",
+      "admin_level": "6",
+      "postal_code": "2109"
+    }
+  },
+  {
+    "osm_id": -6172096,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3623374,-1520612",
+    "name": "Municipio de San Francisco Menéndez",
+    "local_name": "Municipio de San Francisco Menéndez",
+    "name_en": null,
+    "all_tags": {
+      "name": "Municipio de San Francisco Menéndez",
+      "alt_name": "San Francisco Menéndez",
+      "boundary": "administrative",
+      "old_name": "Francisco Menéndez Valdivieso (Municipio)",
+      "way_area": "0.0226425",
+      "wikidata": "Q766174",
+      "wikipedia": "es:San Francisco Menéndez",
+      "population": "44967",
+      "admin_level": "6",
+      "postal_code": "2113"
+    }
+  },
+  {
+    "osm_id": -6162566,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-3624113,-1520612",
+    "name": "Municipio de Quetzaltepeque",
+    "local_name": "Municipio de Quetzaltepeque",
+    "name_en": null,
+    "all_tags": {
+      "name": "Municipio de Quetzaltepeque",
+      "place": "municipality",
+      "boundary": "administrative",
+      "way_area": "0.0105517",
+      "Shape_Area": "126.492032",
+      "population": "52643",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -6094976,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3624100,-1520612",
+    "name": "Municipio de San Sebastián Salitrillo",
+    "local_name": "Municipio de San Sebastián Salitrillo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Municipio de San Sebastián Salitrillo",
+      "boundary": "administrative",
+      "way_area": "0.00156049",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -5977122,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3624092,-1520612",
+    "name": "Municipio de Acajutla",
+    "local_name": "Municipio de Acajutla",
+    "name_en": null,
+    "all_tags": {
+      "name": "Municipio de Acajutla",
+      "boundary": "administrative",
+      "way_area": "0.0151008",
+      "wikidata": "Q937292",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -5901411,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3624100,-1520612",
+    "name": "Municipio de Santa Ana",
+    "local_name": "Municipio de Santa Ana",
+    "name_en": null,
+    "all_tags": {
+      "name": "Municipio de Santa Ana",
+      "boundary": "administrative",
+      "way_area": "0.0343896",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -3625432,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-1520612",
+    "name": "Departamento de La Unión",
+    "local_name": "Departamento de La Unión",
+    "name_en": null,
+    "all_tags": {
+      "name": "Departamento de La Unión",
+      "boundary": "administrative",
+      "way_area": "0.169418",
+      "wikidata": "Q1130688",
+      "ISO3166-2": "SV-UN",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -3625421,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-1520612",
+    "name": "Departamento de Morazán",
+    "local_name": "Departamento de Morazán",
+    "name_en": null,
+    "all_tags": {
+      "name": "Departamento de Morazán",
+      "boundary": "administrative",
+      "way_area": "0.110463",
+      "wikidata": "Q1122836",
+      "ISO3166-2": "SV-MO",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -3625408,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-1520612",
+    "name": "Departamento de San Miguel",
+    "local_name": "Departamento de San Miguel",
+    "name_en": null,
+    "all_tags": {
+      "name": "Departamento de San Miguel",
+      "boundary": "administrative",
+      "way_area": "0.178875",
+      "wikidata": "Q930804",
+      "ISO3166-2": "SV-SM",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -3625389,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-1520612",
+    "name": "Departamento de Usulután",
+    "local_name": "Departamento de Usulután",
+    "name_en": null,
+    "all_tags": {
+      "name": "Departamento de Usulután",
+      "boundary": "administrative",
+      "way_area": "0.175781",
+      "wikidata": "Q1122748",
+      "ISO3166-2": "SV-US",
+      "wikipedia": "en:Usulután Department",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -3624477,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-1520612",
+    "name": "Departamento de La Paz",
+    "local_name": "Departamento de La Paz",
+    "name_en": null,
+    "all_tags": {
+      "name": "Departamento de La Paz",
+      "boundary": "administrative",
+      "way_area": "0.102634",
+      "wikidata": "Q1129788",
+      "ISO3166-2": "SV-PA",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -3624468,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-1520612",
+    "name": "San Vicente",
+    "local_name": "San Vicente",
+    "name_en": null,
+    "all_tags": {
+      "name": "San Vicente",
+      "boundary": "administrative",
+      "way_area": "0.100214",
+      "wikidata": "Q1130180",
+      "ISO3166-2": "SV-SV",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -3624451,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-1520612",
+    "name": "Departamento de Cabañas",
+    "local_name": "Departamento de Cabañas",
+    "name_en": null,
+    "all_tags": {
+      "name": "Departamento de Cabañas",
+      "boundary": "administrative",
+      "way_area": "0.091778",
+      "wikidata": "Q914058",
+      "ISO3166-2": "SV-CA",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -3624440,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-1520612",
+    "name": "Departamento de Chalatenango",
+    "local_name": "Departamento de Chalatenango",
+    "name_en": null,
+    "all_tags": {
+      "name": "Departamento de Chalatenango",
+      "boundary": "administrative",
+      "way_area": "0.172169",
+      "wikidata": "Q522221",
+      "ISO3166-2": "SV-CH",
+      "wikipedia": "es:Departamento de Chalatenango",
+      "population": "192788",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -3624439,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-1520612",
+    "name": "Departamento de Cuscatlán",
+    "local_name": "Departamento de Cuscatlán",
+    "name_en": null,
+    "all_tags": {
+      "name": "Departamento de Cuscatlán",
+      "boundary": "administrative",
+      "way_area": "0.0623207",
+      "wikidata": "Q1130677",
+      "ISO3166-2": "SV-CU",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -3624436,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-1520612",
+    "name": "Departamento de San Salvador",
+    "local_name": "Departamento de San Salvador",
+    "name_en": null,
+    "all_tags": {
+      "name": "Departamento de San Salvador",
+      "boundary": "administrative",
+      "way_area": "0.0753504",
+      "wikidata": "Q1543219",
+      "ISO3166-2": "SV-SS",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -3624113,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-1520612",
+    "name": "Departamento de La Libertad",
+    "local_name": "Departamento de La Libertad",
+    "name_en": null,
+    "all_tags": {
+      "name": "Departamento de La Libertad",
+      "boundary": "administrative",
+      "way_area": "0.137677",
+      "wikidata": "Q930820",
+      "ISO3166-2": "SV-LI",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -3624100,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-1520612",
+    "name": "Departamento de Santa Ana",
+    "local_name": "Departamento de Santa Ana",
+    "name_en": null,
+    "all_tags": {
+      "name": "Departamento de Santa Ana",
+      "boundary": "administrative",
+      "way_area": "0.169637",
+      "wikidata": "Q671158",
+      "ISO3166-2": "SV-SA",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -3624092,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-1520612",
+    "name": "Departamento de Sonsonate",
+    "local_name": "Departamento de Sonsonate",
+    "name_en": null,
+    "all_tags": {
+      "name": "Departamento de Sonsonate",
+      "boundary": "administrative",
+      "way_area": "0.104981",
+      "wikidata": "Q212540",
+      "ISO3166-2": "SV-SO",
+      "admin_level": "4",
+      "border_type": "departamento"
+    }
+  },
+  {
+    "osm_id": -3623374,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-1520612",
+    "name": "Departamento de Ahuachapán",
+    "local_name": "Departamento de Ahuachapán",
+    "name_en": null,
+    "all_tags": {
+      "name": "Departamento de Ahuachapán",
+      "boundary": "administrative",
+      "way_area": "0.100879",
+      "wikidata": "Q572993",
+      "ISO3166-2": "SV-AH",
+      "admin_level": "4"
+    }
+  }
+]

@@ -1,0 +1,366 @@
+[
+  {
+    "osm_id": -12556624,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-389881,-287077",
+    "name": "Distrito Capital de Paraguay",
+    "local_name": "Distrito Capital de Paraguay",
+    "name_en": null,
+    "all_tags": {
+      "ref": "ASU",
+      "name": "Distrito Capital de Paraguay",
+      "place": "region",
+      "gns:dsg": "ADM1",
+      "gns:uni": "515909",
+      "boundary": "administrative",
+      "way_area": "0.0111895",
+      "wikidata": "Q2933",
+      "ISO3166-2": "PY-ASU",
+      "wikipedia": "es:Asunción",
+      "admin_level": "4",
+      "capital_city": "Asunción",
+      "is_in:country": "Paraguay",
+      "is_in:country_code": "PY"
+    }
+  },
+  {
+    "osm_id": -389898,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-389881,-287077",
+    "name": "Itapúa",
+    "local_name": "Itapúa",
+    "name_en": null,
+    "all_tags": {
+      "ref": "7",
+      "name": "Itapúa",
+      "boundary": "administrative",
+      "way_area": "1.39456",
+      "wikidata": "Q222564",
+      "ISO3166-2": "PY-7",
+      "admin_level": "4",
+      "is_in:country": "Paraguay"
+    }
+  },
+  {
+    "osm_id": -389897,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-389881,-287077",
+    "name": "Caazapá",
+    "local_name": "Caazapá",
+    "name_en": null,
+    "all_tags": {
+      "name": "Caazapá",
+      "name:lt": "Kaasapos departamentas",
+      "name:ru": "Каасапа",
+      "boundary": "administrative",
+      "way_area": "0.864332",
+      "wikidata": "Q881839",
+      "ISO3166-2": "PY-6",
+      "admin_level": "4",
+      "is_in:country": "Paraguay"
+    }
+  },
+  {
+    "osm_id": -389896,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-389881,-287077",
+    "name": "Misiones",
+    "local_name": "Misiones",
+    "name_en": null,
+    "all_tags": {
+      "name": "Misiones",
+      "boundary": "administrative",
+      "way_area": "0.7553",
+      "wikidata": "Q591194",
+      "ISO3166-2": "PY-8",
+      "admin_level": "4",
+      "is_in:country": "Paraguay"
+    }
+  },
+  {
+    "osm_id": -389895,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-389881,-287077",
+    "name": "Ñeembucú",
+    "local_name": "Ñeembucú",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ñeembucú",
+      "boundary": "administrative",
+      "way_area": "1.14698",
+      "wikidata": "Q755115",
+      "ISO3166-2": "PY-12",
+      "wikipedia": "en:Ñeembucú Department",
+      "admin_level": "4",
+      "is_in:country": "Paraguay"
+    }
+  },
+  {
+    "osm_id": -389894,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-389881,-287077",
+    "name": "Guairá",
+    "local_name": "Guairá",
+    "name_en": null,
+    "all_tags": {
+      "name": "Guairá",
+      "boundary": "administrative",
+      "way_area": "0.350913",
+      "wikidata": "Q755116",
+      "ISO3166-2": "PY-4",
+      "wikipedia": "es:Departamento de Guairá",
+      "admin_level": "4",
+      "is_in:country": "Paraguay"
+    }
+  },
+  {
+    "osm_id": -389893,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-389881,-287077",
+    "name": "Paraguarí",
+    "local_name": "Paraguarí",
+    "name_en": null,
+    "all_tags": {
+      "name": "Paraguarí",
+      "boundary": "administrative",
+      "way_area": "0.790522",
+      "wikidata": "Q240014",
+      "ISO3166-2": "PY-9",
+      "admin_level": "4",
+      "is_in:country": "Paraguay"
+    }
+  },
+  {
+    "osm_id": -389892,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-389881,-287077",
+    "name": "Central",
+    "local_name": "Central",
+    "name_en": null,
+    "all_tags": {
+      "ref": "11",
+      "name": "Central",
+      "website": "http://www.central.gov.py/",
+      "boundary": "administrative",
+      "way_area": "0.216926",
+      "wikidata": "Q372461",
+      "ISO3166-2": "PY-11",
+      "wikipedia": "es:Departamento Central",
+      "admin_level": "4",
+      "is_in:country": "Paraguay"
+    }
+  },
+  {
+    "osm_id": -389891,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-389881,-287077",
+    "name": "Alto Paraná",
+    "local_name": "Alto Paraná",
+    "name_en": null,
+    "all_tags": {
+      "ref": "10",
+      "name": "Alto Paraná",
+      "boundary": "administrative",
+      "way_area": "1.27602",
+      "wikidata": "Q682654",
+      "ISO3166-2": "PY-10",
+      "admin_level": "4",
+      "is_in:country": "Paraguay"
+    }
+  },
+  {
+    "osm_id": -389890,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-389881,-287077",
+    "name": "Caaguazú",
+    "local_name": "Caaguazú",
+    "name_en": null,
+    "all_tags": {
+      "name": "Caaguazú",
+      "boundary": "administrative",
+      "way_area": "1.11862",
+      "wikidata": "Q880399",
+      "ISO3166-2": "PY-5",
+      "admin_level": "4",
+      "is_in:country": "Paraguay"
+    }
+  },
+  {
+    "osm_id": -389889,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-389881,-287077",
+    "name": "Cordillera",
+    "local_name": "Cordillera",
+    "name_en": null,
+    "all_tags": {
+      "ref": "3",
+      "name": "Cordillera",
+      "boundary": "administrative",
+      "way_area": "0.471546",
+      "wikidata": "Q755121",
+      "ISO3166-2": "PY-3",
+      "wikipedia": "en:Cordillera Department",
+      "admin_level": "4",
+      "is_in:country": "Paraguay"
+    }
+  },
+  {
+    "osm_id": -389888,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-389881,-287077",
+    "name": "Canindeyú",
+    "local_name": "Canindeyú",
+    "name_en": null,
+    "all_tags": {
+      "name": "Canindeyú",
+      "boundary": "administrative",
+      "way_area": "1.33578",
+      "wikidata": "Q279085",
+      "ISO3166-2": "PY-14",
+      "admin_level": "4",
+      "is_in:country": "Paraguay"
+    }
+  },
+  {
+    "osm_id": -389887,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-389881,-287077",
+    "name": "San Pedro",
+    "local_name": "San Pedro",
+    "name_en": null,
+    "all_tags": {
+      "name": "San Pedro",
+      "boundary": "administrative",
+      "way_area": "1.80632",
+      "wikidata": "Q526176",
+      "ISO3166-2": "PY-2",
+      "wikipedia": "en:San Pedro Department, Paraguay",
+      "admin_level": "4",
+      "is_in:country": "Paraguay"
+    }
+  },
+  {
+    "osm_id": -389886,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-389881,-287077",
+    "name": "Amambay",
+    "local_name": "Amambay",
+    "name_en": null,
+    "all_tags": {
+      "name": "Amambay",
+      "boundary": "administrative",
+      "way_area": "1.10426",
+      "wikidata": "Q686586",
+      "ISO3166-2": "PY-13",
+      "wikipedia": "es:Departamento Amambay",
+      "admin_level": "4",
+      "is_in:country": "Paraguay"
+    }
+  },
+  {
+    "osm_id": -389885,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-389881,-287077",
+    "name": "Concepción",
+    "local_name": "Concepción",
+    "name_en": null,
+    "all_tags": {
+      "name": "Concepción",
+      "boundary": "administrative",
+      "way_area": "1.62956",
+      "wikidata": "Q741009",
+      "ISO3166-2": "PY-1",
+      "wikipedia": "en:Concepción Department, Paraguay",
+      "admin_level": "4",
+      "is_in:country": "Paraguay"
+    }
+  },
+  {
+    "osm_id": -389884,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-389880,-287077",
+    "name": "Presidente Hayes",
+    "local_name": "Presidente Hayes",
+    "name_en": null,
+    "all_tags": {
+      "name": "Presidente Hayes",
+      "boundary": "administrative",
+      "way_area": "6.5168",
+      "wikidata": "Q750551",
+      "ISO3166-2": "PY-15",
+      "wikipedia": "en:Presidente Hayes Department",
+      "admin_level": "4",
+      "is_in:country": "Paraguay"
+    }
+  },
+  {
+    "osm_id": -389883,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-389880,-287077",
+    "name": "Boquerón",
+    "local_name": "Boquerón",
+    "name_en": "Boquerón",
+    "all_tags": {
+      "name": "Boquerón",
+      "name:en": "Boquerón",
+      "name:ko": "보케론 주",
+      "name:ru": "Бокерон",
+      "name:zh": "博克龙省",
+      "boundary": "administrative",
+      "way_area": "7.71581",
+      "wikidata": "Q741017",
+      "ISO3166-2": "PY-19",
+      "wikipedia": "es:Departamento de Boquerón",
+      "admin_level": "4",
+      "is_in:country": "Paraguay"
+    }
+  },
+  {
+    "osm_id": -389882,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-389880,-287077",
+    "name": "Alto Paraguay",
+    "local_name": "Alto Paraguay",
+    "name_en": null,
+    "all_tags": {
+      "name": "Alto Paraguay",
+      "name:bg": "Горен Парагвай",
+      "name:ca": "Alt Paraguai",
+      "name:es": "Alto Paraguay",
+      "name:fi": "Alto Paraguayn",
+      "name:ja": "アルト・パラグアイ県",
+      "name:ka": "ალტო-პარაგვაის დეპარტამენტი",
+      "name:lt": "Aukštutinio Paragvajaus",
+      "name:mk": "Алто Парагвај",
+      "name:pl": "Górny Paragwaj",
+      "name:pt": "Alto Paraguay",
+      "name:ru": "Альто-Парагвай",
+      "name:zh": "上巴拉圭省",
+      "boundary": "administrative",
+      "way_area": "6.80687",
+      "wikidata": "Q682642",
+      "ISO3166-2": "PY-16",
+      "wikipedia": "en:Alto Paraguay Department",
+      "admin_level": "4",
+      "is_in:country": "Paraguay"
+    }
+  }
+]

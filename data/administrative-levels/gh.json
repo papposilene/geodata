@@ -1,0 +1,4544 @@
+[
+  {
+    "osm_id": -13038242,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3330249,-192781",
+    "name": "Adansi Asokwa District",
+    "local_name": "Adansi Asokwa District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Adansi Asokwa District",
+      "boundary": "administrative",
+      "way_area": "0.0508388",
+      "wikidata": "Q106039316",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13038241,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3330249,-192781",
+    "name": "Adansi North District",
+    "local_name": "Adansi North District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Adansi North District",
+      "boundary": "administrative",
+      "way_area": "0.0187978",
+      "wikidata": "Q352288",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13038240,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3330249,-192781",
+    "name": "Adansi South District",
+    "local_name": "Adansi South District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Adansi South District",
+      "boundary": "administrative",
+      "way_area": "0.0622763",
+      "wikidata": "Q352285",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13038239,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3330249,-192781",
+    "name": "Afigya-Kwabre North District",
+    "local_name": "Afigya-Kwabre North District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Afigya-Kwabre North District",
+      "boundary": "administrative",
+      "way_area": "0.0143493",
+      "wikidata": "Q106223237",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13038238,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3330249,-192781",
+    "name": "Afigya-Kwabre South District",
+    "local_name": "Afigya-Kwabre South District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Afigya-Kwabre South District",
+      "boundary": "administrative",
+      "way_area": "0.0180364",
+      "wikidata": "Q106237909",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13038237,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3330249,-192781",
+    "name": "Ahafo-Ano North Municipal District",
+    "local_name": "Ahafo-Ano North Municipal District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ahafo-Ano North Municipal District",
+      "boundary": "administrative",
+      "way_area": "0.0480789",
+      "wikidata": "Q399850",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13038236,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3330249,-192781",
+    "name": "Ahafo-Ano South East District",
+    "local_name": "Ahafo-Ano South East District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ahafo-Ano South East District",
+      "boundary": "administrative",
+      "way_area": "0.045031",
+      "wikidata": "Q106310828",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13038235,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3330249,-192781",
+    "name": "Ahafo-Ano South West District",
+    "local_name": "Ahafo-Ano South West District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ahafo-Ano South West District",
+      "boundary": "administrative",
+      "way_area": "0.052827",
+      "wikidata": "Q106310830",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13038234,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3330249,-192781",
+    "name": "Akrofuom District",
+    "local_name": "Akrofuom District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Akrofuom District",
+      "boundary": "administrative",
+      "way_area": "0.0465708",
+      "wikidata": "Q106199968",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13038233,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3330249,-192781",
+    "name": "Amansie Central District",
+    "local_name": "Amansie Central District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Amansie Central District",
+      "boundary": "administrative",
+      "way_area": "0.0677907",
+      "wikidata": "Q454450",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13038232,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3330249,-192781",
+    "name": "Amansie West District",
+    "local_name": "Amansie West District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Amansie West District",
+      "boundary": "administrative",
+      "way_area": "0.0521547",
+      "wikidata": "Q425533",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13038231,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3330249,-192781",
+    "name": "Amansie South District",
+    "local_name": "Amansie South District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Amansie South District",
+      "boundary": "administrative",
+      "way_area": "0.0483004",
+      "wikidata": "Q106039511",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13038230,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3330249,-192781",
+    "name": "Asante-Akim Central Municipal District",
+    "local_name": "Asante-Akim Central Municipal District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Asante-Akim Central Municipal District",
+      "boundary": "administrative",
+      "way_area": "0.0245602",
+      "wikidata": "Q55550179",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13038229,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3330249,-192781",
+    "name": "Asante-Akim North District",
+    "local_name": "Asante-Akim North District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Asante-Akim North District",
+      "boundary": "administrative",
+      "way_area": "0.0904988",
+      "wikidata": "Q720960",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13038228,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3330249,-192781",
+    "name": "Asante-Akim South Municipal District",
+    "local_name": "Asante-Akim South Municipal District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Asante-Akim South Municipal District",
+      "boundary": "administrative",
+      "way_area": "0.0943236",
+      "wikidata": "Q720966",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13038227,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3330249,-192781",
+    "name": "Asokore-Mampong Municipal District",
+    "local_name": "Asokore-Mampong Municipal District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Asokore-Mampong Municipal District",
+      "boundary": "administrative",
+      "way_area": "0.00197095",
+      "wikidata": "Q55550865",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13038226,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3330249,-192781",
+    "name": "Asokwa Municipal District",
+    "local_name": "Asokwa Municipal District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Asokwa Municipal District",
+      "boundary": "administrative",
+      "way_area": "0.00210538",
+      "wikidata": "Q105972580",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13038225,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3330249,-192781",
+    "name": "Atwima-Kwanwoma District",
+    "local_name": "Atwima-Kwanwoma District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Atwima-Kwanwoma District",
+      "boundary": "administrative",
+      "way_area": "0.0207671",
+      "wikidata": "Q16733360",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13038224,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3330249,-192781",
+    "name": "Atwima-Mponua District",
+    "local_name": "Atwima-Mponua District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Atwima-Mponua District",
+      "boundary": "administrative",
+      "way_area": "0.153966",
+      "wikidata": "Q758282",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13038223,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3330249,-192781",
+    "name": "Atwima-Nwabiagya Municipal District",
+    "local_name": "Atwima-Nwabiagya Municipal District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Atwima-Nwabiagya Municipal District",
+      "boundary": "administrative",
+      "way_area": "0.0298344",
+      "wikidata": "Q2646829",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13038222,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3330249,-192781",
+    "name": "Atwima-Nwabiagya North District",
+    "local_name": "Atwima-Nwabiagya North District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Atwima-Nwabiagya North District",
+      "boundary": "administrative",
+      "way_area": "0.0175778",
+      "wikidata": "Q106039418",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13038221,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3330249,-192781",
+    "name": "Bekwai Municipal District",
+    "local_name": "Bekwai Municipal District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bekwai Municipal District",
+      "boundary": "administrative",
+      "way_area": "0.0456673",
+      "wikidata": "Q454460",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13038220,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3330249,-192781",
+    "name": "Bosome Freho District",
+    "local_name": "Bosome Freho District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bosome Freho District",
+      "boundary": "administrative",
+      "way_area": "0.047479",
+      "wikidata": "Q16255262",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13038219,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3330249,-192781",
+    "name": "Bosomtwe District",
+    "local_name": "Bosomtwe District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bosomtwe District",
+      "boundary": "administrative",
+      "way_area": "0.0340845",
+      "wikidata": "Q688682",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13038218,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3330249,-192781",
+    "name": "Ejisu Municipal District",
+    "local_name": "Ejisu Municipal District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ejisu Municipal District",
+      "boundary": "administrative",
+      "way_area": "0.0170009",
+      "wikidata": "Q106152978",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13038217,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3330249,-192781",
+    "name": "Ejura/Sekyedumase Municipal District",
+    "local_name": "Ejura/Sekyedumase Municipal District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ejura/Sekyedumase Municipal District",
+      "boundary": "administrative",
+      "way_area": "0.106508",
+      "wikidata": "Q688667",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13038216,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3330249,-192781",
+    "name": "Juaben Municipal District",
+    "local_name": "Juaben Municipal District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Juaben Municipal District",
+      "boundary": "administrative",
+      "way_area": "0.030098",
+      "wikidata": "Q106152980",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13038215,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3330249,-192781",
+    "name": "Kumasi Metropolitan District",
+    "local_name": "Kumasi Metropolitan District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kumasi Metropolitan District",
+      "boundary": "administrative",
+      "way_area": "0.00570984",
+      "wikidata": "Q740294",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13038214,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3330249,-192781",
+    "name": "Kwabre East Municipal District",
+    "local_name": "Kwabre East Municipal District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kwabre East Municipal District",
+      "boundary": "administrative",
+      "way_area": "0.0103887",
+      "wikidata": "Q104882664",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13038213,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3330249,-192781",
+    "name": "Kwadaso Municipal District",
+    "local_name": "Kwadaso Municipal District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kwadaso Municipal District",
+      "boundary": "administrative",
+      "way_area": "0.00370694",
+      "wikidata": "Q105972577",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13038212,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3330249,-192781",
+    "name": "Mampong Municipal District",
+    "local_name": "Mampong Municipal District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mampong Municipal District",
+      "boundary": "administrative",
+      "way_area": "0.0561218",
+      "wikidata": "Q1785381",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13038211,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3330249,-192781",
+    "name": "Obuasi East Municipal District",
+    "local_name": "Obuasi East Municipal District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Obuasi East Municipal District",
+      "boundary": "administrative",
+      "way_area": "0.00634938",
+      "wikidata": "Q106039319",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13038210,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3330249,-192781",
+    "name": "Obuasi Municipal District",
+    "local_name": "Obuasi Municipal District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Obuasi Municipal District",
+      "boundary": "administrative",
+      "way_area": "0.0115434",
+      "wikidata": "Q674826",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13038209,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3330249,-192781",
+    "name": "Offinso Municipal District",
+    "local_name": "Offinso Municipal District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Offinso Municipal District",
+      "boundary": "administrative",
+      "way_area": "0.0479408",
+      "wikidata": "Q427664",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13038208,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3330249,-192781",
+    "name": "Offinso North District",
+    "local_name": "Offinso North District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Offinso North District",
+      "boundary": "administrative",
+      "way_area": "0.0777345",
+      "wikidata": "Q16733969",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13038207,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3330249,-192781",
+    "name": "Oforikrom Municipal District",
+    "local_name": "Oforikrom Municipal District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Oforikrom Municipal District",
+      "boundary": "administrative",
+      "way_area": "0.00409781",
+      "wikidata": "Q105972588",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13038206,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3330249,-192781",
+    "name": "Old Tafo Municipal District",
+    "local_name": "Old Tafo Municipal District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Old Tafo Municipal District",
+      "boundary": "administrative",
+      "way_area": "0.000446409",
+      "wikidata": "Q105972602",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13038205,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3330249,-192781",
+    "name": "Sekyere Afram Plains District",
+    "local_name": "Sekyere Afram Plains District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Sekyere Afram Plains District",
+      "boundary": "administrative",
+      "way_area": "0.288331",
+      "wikidata": "Q16734084",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13038204,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3330249,-192781",
+    "name": "Sekyere Central District",
+    "local_name": "Sekyere Central District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Sekyere Central District",
+      "boundary": "administrative",
+      "way_area": "0.137475",
+      "wikidata": "Q16734088",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13038203,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3330249,-192781",
+    "name": "Sekyere East District",
+    "local_name": "Sekyere East District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Sekyere East District",
+      "boundary": "administrative",
+      "way_area": "0.0196711",
+      "wikidata": "Q745202",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13038202,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3330249,-192781",
+    "name": "Sekyere Kumawu District",
+    "local_name": "Sekyere Kumawu District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Sekyere Kumawu District",
+      "boundary": "administrative",
+      "way_area": "0.0474395",
+      "wikidata": "Q55554657",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13038201,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3330249,-192781",
+    "name": "Sekyere South District",
+    "local_name": "Sekyere South District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Sekyere South District",
+      "boundary": "administrative",
+      "way_area": "0.0350943",
+      "wikidata": "Q383274",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13038200,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3330249,-192781",
+    "name": "Suame Municipal District",
+    "local_name": "Suame Municipal District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Suame Municipal District",
+      "boundary": "administrative",
+      "way_area": "0.00104931",
+      "wikidata": "Q105972575",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13025008,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3498733,-192781",
+    "name": "Birim North District",
+    "local_name": "Birim North District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Birim North District",
+      "boundary": "administrative",
+      "way_area": "0.046386",
+      "wikidata": "Q865426",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13025007,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3498733,-192781",
+    "name": "Akyemansa District",
+    "local_name": "Akyemansa District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Akyemansa District",
+      "boundary": "administrative",
+      "way_area": "0.0499529",
+      "wikidata": "Q4702042",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13025006,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3498733,-192781",
+    "name": "Birim South District",
+    "local_name": "Birim South District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Birim South District",
+      "boundary": "administrative",
+      "way_area": "0.0251119",
+      "wikidata": "Q749692",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13025005,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3498733,-192781",
+    "name": "Achiase District",
+    "local_name": "Achiase District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Achiase District",
+      "boundary": "administrative",
+      "way_area": "0.0339496",
+      "wikidata": "Q97671500",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13025004,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3498733,-192781",
+    "name": "Birim Central Municipal District",
+    "local_name": "Birim Central Municipal District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Birim Central Municipal District",
+      "boundary": "administrative",
+      "way_area": "0.00898469",
+      "wikidata": "Q4916335",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13025003,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3498733,-192781",
+    "name": "Asene Manso Akroso District",
+    "local_name": "Asene Manso Akroso District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Asene Manso Akroso District",
+      "boundary": "administrative",
+      "way_area": "0.0342282",
+      "wikidata": "Q106468552",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13025002,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3498733,-192781",
+    "name": "Kwahu Afram Plains South District",
+    "local_name": "Kwahu Afram Plains South District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kwahu Afram Plains South District",
+      "boundary": "administrative",
+      "way_area": "0.244285",
+      "wikidata": "Q55565966",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13025001,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3498733,-192781",
+    "name": "Kwahu Afram Plains North District",
+    "local_name": "Kwahu Afram Plains North District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kwahu Afram Plains North District",
+      "boundary": "administrative",
+      "way_area": "0.182795",
+      "wikidata": "Q6449970",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13025000,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3498733,-192781",
+    "name": "Kwahu East District",
+    "local_name": "Kwahu East District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kwahu East District",
+      "boundary": "administrative",
+      "way_area": "0.0552175",
+      "wikidata": "Q6449969",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13024999,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3498733,-192781",
+    "name": "Kwahu South District",
+    "local_name": "Kwahu South District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kwahu South District",
+      "boundary": "administrative",
+      "way_area": "0.0646807",
+      "wikidata": "Q1433167",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13024998,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3498733,-192781",
+    "name": "Kwahu West Municipal District",
+    "local_name": "Kwahu West Municipal District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kwahu West Municipal District",
+      "boundary": "administrative",
+      "way_area": "0.0327027",
+      "wikidata": "Q1432752",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13024997,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3498733,-192781",
+    "name": "Fanteakwa North District",
+    "local_name": "Fanteakwa North District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Fanteakwa North District",
+      "boundary": "administrative",
+      "way_area": "0.0714364",
+      "wikidata": "Q106537618",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13024996,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3498733,-192781",
+    "name": "Upper Manya Krobo District",
+    "local_name": "Upper Manya Krobo District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Upper Manya Krobo District",
+      "boundary": "administrative",
+      "way_area": "0.0790962",
+      "wikidata": "Q7898774",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13024995,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3498733,-192781",
+    "name": "Atiwa East District",
+    "local_name": "Atiwa East District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Atiwa East District",
+      "boundary": "administrative",
+      "way_area": "0.0476322",
+      "wikidata": "Q61439251",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13024994,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3498733,-192781",
+    "name": "Fanteakwa South District",
+    "local_name": "Fanteakwa South District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Fanteakwa South District",
+      "boundary": "administrative",
+      "way_area": "0.0225485",
+      "wikidata": "Q106537603",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13024993,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3498733,-192781",
+    "name": "Atiwa West District",
+    "local_name": "Atiwa West District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Atiwa West District",
+      "boundary": "administrative",
+      "way_area": "0.0448867",
+      "wikidata": "Q65121868",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13024992,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3498733,-192781",
+    "name": "Kwaebibirem Municipal District",
+    "local_name": "Kwaebibirem Municipal District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kwaebibirem Municipal District",
+      "boundary": "administrative",
+      "way_area": "0.065654",
+      "wikidata": "Q3200793",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13024991,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3498733,-192781",
+    "name": "Asuogyaman District",
+    "local_name": "Asuogyaman District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Asuogyaman District",
+      "boundary": "administrative",
+      "way_area": "0.0585978",
+      "wikidata": "Q476705",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13024990,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3498733,-192781",
+    "name": "Denkyembour District",
+    "local_name": "Denkyembour District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Denkyembour District",
+      "boundary": "administrative",
+      "way_area": "0.0361689",
+      "wikidata": "Q55561076",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13024989,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3498733,-192781",
+    "name": "West Akim Municipal District",
+    "local_name": "West Akim Municipal District",
+    "name_en": null,
+    "all_tags": {
+      "name": "West Akim Municipal District",
+      "boundary": "administrative",
+      "way_area": "0.0384216",
+      "wikidata": "Q1432741",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13024988,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3498733,-192781",
+    "name": "Upper West Akim District",
+    "local_name": "Upper West Akim District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Upper West Akim District",
+      "boundary": "administrative",
+      "way_area": "0.0275598",
+      "wikidata": "Q55566598",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13024987,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3498733,-192781",
+    "name": "Ayensuano District",
+    "local_name": "Ayensuano District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ayensuano District",
+      "boundary": "administrative",
+      "way_area": "0.0407447",
+      "wikidata": "Q55560977",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13024986,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3498733,-192781",
+    "name": "Nsawam Adoagyire Municipal District",
+    "local_name": "Nsawam Adoagyire Municipal District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Nsawam Adoagyire Municipal District",
+      "boundary": "administrative",
+      "way_area": "0.0142741",
+      "wikidata": "Q55566367",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13024985,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3498733,-192781",
+    "name": "Akuapim South District",
+    "local_name": "Akuapim South District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Akuapim South District",
+      "boundary": "administrative",
+      "way_area": "0.018463",
+      "wikidata": "Q423691",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13024984,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3498733,-192781",
+    "name": "Suhum Municipal District",
+    "local_name": "Suhum Municipal District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Suhum Municipal District",
+      "boundary": "administrative",
+      "way_area": "0.0293081",
+      "wikidata": "Q105063214",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13024983,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3498733,-192781",
+    "name": "Abuakwa South Municipal District",
+    "local_name": "Abuakwa South Municipal District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Abuakwa South Municipal District",
+      "boundary": "administrative",
+      "way_area": "0.0303536",
+      "wikidata": "Q106537632",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13024982,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3498733,-192781",
+    "name": "New Juaben North Municipal District",
+    "local_name": "New Juaben North Municipal District",
+    "name_en": null,
+    "all_tags": {
+      "name": "New Juaben North Municipal District",
+      "boundary": "administrative",
+      "way_area": "0.00932841",
+      "wikidata": "Q3338893",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13024981,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3498733,-192781",
+    "name": "New Juaben South Municipal District",
+    "local_name": "New Juaben South Municipal District",
+    "name_en": null,
+    "all_tags": {
+      "name": "New Juaben South Municipal District",
+      "boundary": "administrative",
+      "way_area": "0.00465603",
+      "wikidata": "Q105063217",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13024980,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3498733,-192781",
+    "name": "Abuakwa North Municipal District",
+    "local_name": "Abuakwa North Municipal District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Abuakwa North Municipal District",
+      "boundary": "administrative",
+      "way_area": "0.013024",
+      "wikidata": "Q106537629",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13024979,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3498733,-192781",
+    "name": "Akuapim North Municipal District",
+    "local_name": "Akuapim North Municipal District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Akuapim North Municipal District",
+      "boundary": "administrative",
+      "way_area": "0.0242871",
+      "wikidata": "Q176435",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13024978,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3498733,-192781",
+    "name": "Okere District",
+    "local_name": "Okere District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Okere District",
+      "boundary": "administrative",
+      "way_area": "0.0249446",
+      "wikidata": "Q106554911",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13024977,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3498733,-192781",
+    "name": "Yilo-Krobo Municipal District",
+    "local_name": "Yilo-Krobo Municipal District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Yilo-Krobo Municipal District",
+      "boundary": "administrative",
+      "way_area": "0.041118",
+      "wikidata": "Q3572285",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13024976,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3498733,-192781",
+    "name": "Lower Manya Krobo Municipal District",
+    "local_name": "Lower Manya Krobo Municipal District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Lower Manya Krobo Municipal District",
+      "boundary": "administrative",
+      "way_area": "0.0249379",
+      "wikidata": "Q6693593",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13012951,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3498734,-192781",
+    "name": "Nzema East Municipal District",
+    "local_name": "Nzema East Municipal District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Nzema East Municipal District",
+      "boundary": "administrative",
+      "way_area": "0.0881427",
+      "wikidata": "Q991487",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13012950,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3498734,-192781",
+    "name": "Ellembelle District",
+    "local_name": "Ellembelle District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ellembelle District",
+      "boundary": "administrative",
+      "way_area": "0.0817527",
+      "wikidata": "Q3374315",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13012949,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3498734,-192781",
+    "name": "Jomoro Municipal District",
+    "local_name": "Jomoro Municipal District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Jomoro Municipal District",
+      "boundary": "administrative",
+      "way_area": "0.12151",
+      "wikidata": "Q1702699",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13012948,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3498734,-192781",
+    "name": "Amenfi West Municipal District",
+    "local_name": "Amenfi West Municipal District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Amenfi West Municipal District",
+      "boundary": "administrative",
+      "way_area": "0.117893",
+      "wikidata": "Q765209",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13012947,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3498734,-192781",
+    "name": "Amenfi Central District",
+    "local_name": "Amenfi Central District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Amenfi Central District",
+      "boundary": "administrative",
+      "way_area": "0.150603",
+      "wikidata": "Q55593468",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13012946,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3498734,-192781",
+    "name": "Prestea-Huni Valley Municipal District",
+    "local_name": "Prestea-Huni Valley Municipal District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Prestea-Huni Valley Municipal District",
+      "boundary": "administrative",
+      "way_area": "0.147635",
+      "wikidata": "Q7241765",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13012945,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3498734,-192781",
+    "name": "Wassa Amenfi East Municipal District",
+    "local_name": "Wassa Amenfi East Municipal District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Wassa Amenfi East Municipal District",
+      "boundary": "administrative",
+      "way_area": "0.127029",
+      "wikidata": "Q2550228",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13012944,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3498734,-192781",
+    "name": "Ahanta West Municipal District",
+    "local_name": "Ahanta West Municipal District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ahanta West Municipal District",
+      "boundary": "administrative",
+      "way_area": "0.0449861",
+      "wikidata": "Q399949",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13012943,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3498734,-192781",
+    "name": "Tarkwa-Nsuaem Municipal District",
+    "local_name": "Tarkwa-Nsuaem Municipal District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Tarkwa-Nsuaem Municipal District",
+      "boundary": "administrative",
+      "way_area": "0.0737901",
+      "wikidata": "Q7686296",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13012942,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3498734,-192781",
+    "name": "Shama District",
+    "local_name": "Shama District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Shama District",
+      "boundary": "administrative",
+      "way_area": "0.015794",
+      "wikidata": "Q7487377",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13012941,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3498734,-192781",
+    "name": "Wassa East District",
+    "local_name": "Wassa East District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Wassa East District",
+      "boundary": "administrative",
+      "way_area": "0.134692",
+      "wikidata": "Q1426189",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13012940,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3498734,-192781",
+    "name": "Sekondi Takoradi Metropolitan District",
+    "local_name": "Sekondi Takoradi Metropolitan District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Sekondi Takoradi Metropolitan District",
+      "boundary": "administrative",
+      "way_area": "0.0071913",
+      "wikidata": "Q7447324",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13012939,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3498734,-192781",
+    "name": "Effia Kwesimintsim Municipal District",
+    "local_name": "Effia Kwesimintsim Municipal District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Effia Kwesimintsim Municipal District",
+      "boundary": "administrative",
+      "way_area": "0.00841978",
+      "wikidata": "Q105972298",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13012938,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3498734,-192781",
+    "name": "Mpohor District",
+    "local_name": "Mpohor District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mpohor District",
+      "boundary": "administrative",
+      "way_area": "0.0427632",
+      "wikidata": "Q55593231",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13004774,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-10212841,-192781",
+    "name": "Aowin Municipal District",
+    "local_name": "Aowin Municipal District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Aowin Municipal District",
+      "boundary": "administrative",
+      "way_area": "0.213711",
+      "wikidata": "Q105985843",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13004773,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-10212841,-192781",
+    "name": "Juaboso District",
+    "local_name": "Juaboso District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Juaboso District",
+      "boundary": "administrative",
+      "way_area": "0.111909",
+      "wikidata": "Q683109",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13004772,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-10212841,-192781",
+    "name": "Suaman District",
+    "local_name": "Suaman District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Suaman District",
+      "boundary": "administrative",
+      "way_area": "0.0325135",
+      "wikidata": "Q55593456",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13004771,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-10212841,-192781",
+    "name": "Bodi District",
+    "local_name": "Bodi District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bodi District",
+      "boundary": "administrative",
+      "way_area": "0.0540327",
+      "wikidata": "Q55589892",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13004770,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-10212841,-192781",
+    "name": "Sefwi Akontombra District",
+    "local_name": "Sefwi Akontombra District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Sefwi Akontombra District",
+      "boundary": "administrative",
+      "way_area": "0.0915506",
+      "wikidata": "Q24698107",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13004769,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-10212841,-192781",
+    "name": "Bibiani Anhwiaso Bekwai Municipal District",
+    "local_name": "Bibiani Anhwiaso Bekwai Municipal District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bibiani Anhwiaso Bekwai Municipal District",
+      "boundary": "administrative",
+      "way_area": "0.068202",
+      "wikidata": "Q856281",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13004768,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-10212841,-192781",
+    "name": "Bia East District",
+    "local_name": "Bia East District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bia East District",
+      "boundary": "administrative",
+      "way_area": "0.0650057",
+      "wikidata": "Q16841443",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13004767,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-10212841,-192781",
+    "name": "Bia West District",
+    "local_name": "Bia West District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bia West District",
+      "boundary": "administrative",
+      "way_area": "0.104164",
+      "wikidata": "Q17155822",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13004766,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-10212841,-192781",
+    "name": "Sefwi-Wiawso Municipal District",
+    "local_name": "Sefwi-Wiawso Municipal District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Sefwi-Wiawso Municipal District",
+      "boundary": "administrative",
+      "way_area": "0.082109",
+      "wikidata": "Q2265854",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12999007,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-10212839,-192781",
+    "name": "Sene West District",
+    "local_name": "Sene West District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Sene West District",
+      "boundary": "administrative",
+      "way_area": "0.269048",
+      "wikidata": "Q55555352",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12999006,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-10212839,-192781",
+    "name": "Atebubu-Amantin Municipal District",
+    "local_name": "Atebubu-Amantin Municipal District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Atebubu-Amantin Municipal District",
+      "boundary": "administrative",
+      "way_area": "0.213008",
+      "wikidata": "Q117446",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12999005,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-10212839,-192781",
+    "name": "Pru West District",
+    "local_name": "Pru West District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Pru West District",
+      "boundary": "administrative",
+      "way_area": "0.130533",
+      "wikidata": "Q105063588",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12999004,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-10212839,-192781",
+    "name": "Pru East District",
+    "local_name": "Pru East District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Pru East District",
+      "boundary": "administrative",
+      "way_area": "0.135326",
+      "wikidata": "Q105081992",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12999003,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-10212839,-192781",
+    "name": "Kintampo North Municipal District",
+    "local_name": "Kintampo North Municipal District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kintampo North Municipal District",
+      "boundary": "administrative",
+      "way_area": "0.401685",
+      "wikidata": "Q1665763",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12999002,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-10212839,-192781",
+    "name": "Kintampo South District",
+    "local_name": "Kintampo South District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kintampo South District",
+      "boundary": "administrative",
+      "way_area": "0.124052",
+      "wikidata": "Q1504020",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12999001,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-10212839,-192781",
+    "name": "Techiman North District",
+    "local_name": "Techiman North District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Techiman North District",
+      "boundary": "administrative",
+      "way_area": "0.0315472",
+      "wikidata": "Q20855212",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12999000,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-10212839,-192781",
+    "name": "Techiman Municipal District",
+    "local_name": "Techiman Municipal District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Techiman Municipal District",
+      "boundary": "administrative",
+      "way_area": "0.0535083",
+      "wikidata": "Q957996",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12998999,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-10212839,-192781",
+    "name": "Nkoranza North District",
+    "local_name": "Nkoranza North District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Nkoranza North District",
+      "boundary": "administrative",
+      "way_area": "0.114161",
+      "wikidata": "Q3342359",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12998998,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-10212839,-192781",
+    "name": "Nkoranza South Municipal District",
+    "local_name": "Nkoranza South Municipal District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Nkoranza South Municipal District",
+      "boundary": "administrative",
+      "way_area": "0.0751595",
+      "wikidata": "Q7042619",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12988369,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3329833,-192781",
+    "name": "Dormaa West District",
+    "local_name": "Dormaa West District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Dormaa West District",
+      "boundary": "administrative",
+      "way_area": "0.031187",
+      "wikidata": "Q55555259",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12988368,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3329833,-192781",
+    "name": "Dormaa Central Municipal District",
+    "local_name": "Dormaa Central Municipal District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Dormaa Central Municipal District",
+      "boundary": "administrative",
+      "way_area": "0.0990326",
+      "wikidata": "Q692883",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12988367,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3329833,-192781",
+    "name": "Dormaa East District",
+    "local_name": "Dormaa East District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Dormaa East District",
+      "boundary": "administrative",
+      "way_area": "0.0466541",
+      "wikidata": "Q5298060",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12988366,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3329833,-192781",
+    "name": "Sunyani Municipal District",
+    "local_name": "Sunyani Municipal District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Sunyani Municipal District",
+      "boundary": "administrative",
+      "way_area": "0.0414075",
+      "wikidata": "Q1786388",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12988365,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3329833,-192781",
+    "name": "Jaman South Municipal District",
+    "local_name": "Jaman South Municipal District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Jaman South Municipal District",
+      "boundary": "administrative",
+      "way_area": "0.0616732",
+      "wikidata": "Q1504079",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12988364,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3329833,-192781",
+    "name": "Berekum West District",
+    "local_name": "Berekum West District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Berekum West District",
+      "boundary": "administrative",
+      "way_area": "0.0329564",
+      "wikidata": "Q104822488",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12988363,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3329833,-192781",
+    "name": "Berekum East Municipal District",
+    "local_name": "Berekum East Municipal District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Berekum East Municipal District",
+      "boundary": "administrative",
+      "way_area": "0.0377137",
+      "wikidata": "Q55555195",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12988362,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3329833,-192781",
+    "name": "Jaman North District",
+    "local_name": "Jaman North District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Jaman North District",
+      "boundary": "administrative",
+      "way_area": "0.0723592",
+      "wikidata": "Q1504034",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12988361,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3329833,-192781",
+    "name": "Sunyani West District",
+    "local_name": "Sunyani West District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Sunyani West District",
+      "boundary": "administrative",
+      "way_area": "0.0867648",
+      "wikidata": "Q7641761",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12988360,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3329833,-192781",
+    "name": "Tain District",
+    "local_name": "Tain District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Tain District",
+      "boundary": "administrative",
+      "way_area": "0.150727",
+      "wikidata": "Q695048",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12988359,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3329833,-192781",
+    "name": "Banda District",
+    "local_name": "Banda District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Banda District",
+      "boundary": "administrative",
+      "way_area": "0.188062",
+      "wikidata": "Q20312309",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12988358,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3329833,-192781",
+    "name": "Wenchi Municipal District",
+    "local_name": "Wenchi Municipal District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Wenchi Municipal District",
+      "boundary": "administrative",
+      "way_area": "0.0940645",
+      "wikidata": "Q1504094",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12982263,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-10212840,-192781",
+    "name": "Tano South Municipal District",
+    "local_name": "Tano South Municipal District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Tano South Municipal District",
+      "boundary": "administrative",
+      "way_area": "0.0400755",
+      "wikidata": "Q960302",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12982262,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-10212840,-192781",
+    "name": "Asutifi North District",
+    "local_name": "Asutifi North District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Asutifi North District",
+      "boundary": "administrative",
+      "way_area": "0.0766932",
+      "wikidata": "Q55555112",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12982261,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-10212840,-192781",
+    "name": "Tano North Municipal District",
+    "local_name": "Tano North Municipal District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Tano North Municipal District",
+      "boundary": "administrative",
+      "way_area": "0.068498",
+      "wikidata": "Q373327",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12982260,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-10212840,-192781",
+    "name": "Asutifi South District",
+    "local_name": "Asutifi South District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Asutifi South District",
+      "boundary": "administrative",
+      "way_area": "0.0489313",
+      "wikidata": "Q55555134",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12982259,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-10212840,-192781",
+    "name": "Asunafo North Municipal District",
+    "local_name": "Asunafo North Municipal District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Asunafo North Municipal District",
+      "boundary": "administrative",
+      "way_area": "0.115071",
+      "wikidata": "Q752417",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12982258,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-10212840,-192781",
+    "name": "Asunafo South District",
+    "local_name": "Asunafo South District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Asunafo South District",
+      "boundary": "administrative",
+      "way_area": "0.0759973",
+      "wikidata": "Q752420",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12979608,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3330281,-192781",
+    "name": "Upper Denkyira West District",
+    "local_name": "Upper Denkyira West District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Upper Denkyira West District",
+      "boundary": "administrative",
+      "way_area": "0.0476115",
+      "wikidata": "Q15045670",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12979607,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3330281,-192781",
+    "name": "Assin North District",
+    "local_name": "Assin North District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Assin North District",
+      "boundary": "administrative",
+      "way_area": "0.0590771",
+      "wikidata": "Q303060",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12979606,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3330281,-192781",
+    "name": "Upper Denkyira East Municipal District",
+    "local_name": "Upper Denkyira East Municipal District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Upper Denkyira East Municipal District",
+      "boundary": "administrative",
+      "way_area": "0.0409673",
+      "wikidata": "Q7898605",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12979605,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3330281,-192781",
+    "name": "Twifo Atti Morkwa District",
+    "local_name": "Twifo Atti Morkwa District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Twifo Atti Morkwa District",
+      "boundary": "administrative",
+      "way_area": "0.0783058",
+      "wikidata": "Q55560849",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12979604,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3330281,-192781",
+    "name": "Assin Central Municipal District",
+    "local_name": "Assin Central Municipal District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Assin Central Municipal District",
+      "boundary": "administrative",
+      "way_area": "0.0229521",
+      "wikidata": "Q107548600",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12979603,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3330281,-192781",
+    "name": "Mfantsiman Municipal District",
+    "local_name": "Mfantsiman Municipal District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mfantsiman Municipal District",
+      "boundary": "administrative",
+      "way_area": "0.0245812",
+      "wikidata": "Q688693",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12979602,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3330281,-192781",
+    "name": "Komenda/Edina/Eguafo/Abirem Municipal District",
+    "local_name": "Komenda/Edina/Eguafo/Abirem Municipal District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Komenda/Edina/Eguafo/Abirem Municipal District",
+      "boundary": "administrative",
+      "way_area": "0.0367142",
+      "wikidata": "Q1502262",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12979601,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3330281,-192781",
+    "name": "Cape Coast Metropolitan District",
+    "local_name": "Cape Coast Metropolitan District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cape Coast Metropolitan District",
+      "boundary": "administrative",
+      "way_area": "0.00988932",
+      "wikidata": "Q922863",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12979600,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3330281,-192781",
+    "name": "Abura/Asebu/Kwamankese District",
+    "local_name": "Abura/Asebu/Kwamankese District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Abura/Asebu/Kwamankese District",
+      "boundary": "administrative",
+      "way_area": "0.0306976",
+      "wikidata": "Q746494",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12979599,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3330281,-192781",
+    "name": "Twifo/Hemang/Lower Denkyira District",
+    "local_name": "Twifo/Hemang/Lower Denkyira District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Twifo/Hemang/Lower Denkyira District",
+      "boundary": "administrative",
+      "way_area": "0.0456096",
+      "wikidata": "Q204173",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12979598,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3330281,-192781",
+    "name": "Assin South District",
+    "local_name": "Assin South District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Assin South District",
+      "boundary": "administrative",
+      "way_area": "0.0914762",
+      "wikidata": "Q741978",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12969847,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3330281,-192781",
+    "name": "Awutu Senya East Municipal District",
+    "local_name": "Awutu Senya East Municipal District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Awutu Senya East Municipal District",
+      "boundary": "administrative",
+      "way_area": "0.00897318",
+      "wikidata": "Q55604571",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12969846,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3330281,-192781",
+    "name": "Gomoa East District",
+    "local_name": "Gomoa East District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Gomoa East District",
+      "boundary": "administrative",
+      "way_area": "0.0441025",
+      "wikidata": "Q5581221",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12969845,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3330281,-192781",
+    "name": "Awutu Senya West District",
+    "local_name": "Awutu Senya West District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Awutu Senya West District",
+      "boundary": "administrative",
+      "way_area": "0.0192223",
+      "wikidata": "Q55557055",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12969844,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3330281,-192781",
+    "name": "Effutu Municipal District",
+    "local_name": "Effutu Municipal District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Effutu Municipal District",
+      "boundary": "administrative",
+      "way_area": "0.00650719",
+      "wikidata": "Q5347533",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12969843,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3330281,-192781",
+    "name": "Agona East District",
+    "local_name": "Agona East District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Agona East District",
+      "boundary": "administrative",
+      "way_area": "0.0267391",
+      "wikidata": "Q4693336",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12969842,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3330281,-192781",
+    "name": "Gomoa Central District",
+    "local_name": "Gomoa Central District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Gomoa Central District",
+      "boundary": "administrative",
+      "way_area": "0.00984179",
+      "wikidata": "Q105846567",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12969841,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3330281,-192781",
+    "name": "Gomoa West District",
+    "local_name": "Gomoa West District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Gomoa West District",
+      "boundary": "administrative",
+      "way_area": "0.0275809",
+      "wikidata": "Q5581222",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12969836,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3330281,-192781",
+    "name": "Agona West Municipal District",
+    "local_name": "Agona West Municipal District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Agona West Municipal District",
+      "boundary": "administrative",
+      "way_area": "0.0290292",
+      "wikidata": "Q4693340",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12969835,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3330281,-192781",
+    "name": "Ekumfi District",
+    "local_name": "Ekumfi District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ekumfi District",
+      "boundary": "administrative",
+      "way_area": "0.0225507",
+      "wikidata": "Q48806506",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12969834,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3330281,-192781",
+    "name": "Asikuma/Odoben/Brakwa District",
+    "local_name": "Asikuma/Odoben/Brakwa District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Asikuma/Odoben/Brakwa District",
+      "boundary": "administrative",
+      "way_area": "0.0629691",
+      "wikidata": "Q730291",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12969833,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3330281,-192781",
+    "name": "Ajumako/Enyan/Essiam District",
+    "local_name": "Ajumako/Enyan/Essiam District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ajumako/Enyan/Essiam District",
+      "boundary": "administrative",
+      "way_area": "0.0420856",
+      "wikidata": "Q413352",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12904687,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3328699,-192781",
+    "name": "Hohoe Municipal District",
+    "local_name": "Hohoe Municipal District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Hohoe Municipal District",
+      "boundary": "administrative",
+      "way_area": "0.0560583",
+      "wikidata": "Q2314574",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12904686,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3328699,-192781",
+    "name": "Adaklu District",
+    "local_name": "Adaklu District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Adaklu District",
+      "boundary": "administrative",
+      "way_area": "0.065273",
+      "wikidata": "Q15045825",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12904685,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3328699,-192781",
+    "name": "Kpando Municipal District",
+    "local_name": "Kpando Municipal District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kpando Municipal District",
+      "boundary": "administrative",
+      "way_area": "0.0250315",
+      "wikidata": "Q2405656",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12904684,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3328699,-192781",
+    "name": "Afadzato South District",
+    "local_name": "Afadzato South District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Afadzato South District",
+      "boundary": "administrative",
+      "way_area": "0.044944",
+      "wikidata": "Q25112647",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12904683,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3328699,-192781",
+    "name": "Ho Municipal District",
+    "local_name": "Ho Municipal District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ho Municipal District",
+      "boundary": "administrative",
+      "way_area": "0.0469433",
+      "wikidata": "Q3138855",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12904682,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3328699,-192781",
+    "name": "Ho West District",
+    "local_name": "Ho West District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ho West District",
+      "boundary": "administrative",
+      "way_area": "0.0820882",
+      "wikidata": "Q55587716",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12904681,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3328699,-192781",
+    "name": "North Dayi District",
+    "local_name": "North Dayi District",
+    "name_en": null,
+    "all_tags": {
+      "name": "North Dayi District",
+      "boundary": "administrative",
+      "way_area": "0.0470153",
+      "wikidata": "Q55589879",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12904680,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3328699,-192781",
+    "name": "South Tongu District",
+    "local_name": "South Tongu District",
+    "name_en": null,
+    "all_tags": {
+      "name": "South Tongu District",
+      "boundary": "administrative",
+      "way_area": "0.0530463",
+      "wikidata": "Q1433337",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12904679,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3328699,-192781",
+    "name": "North Tongu District",
+    "local_name": "North Tongu District",
+    "name_en": null,
+    "all_tags": {
+      "name": "North Tongu District",
+      "boundary": "administrative",
+      "way_area": "0.0926424",
+      "wikidata": "Q3531554",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12904678,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3328699,-192781",
+    "name": "Central Tongu District",
+    "local_name": "Central Tongu District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Central Tongu District",
+      "boundary": "administrative",
+      "way_area": "0.0566858",
+      "wikidata": "Q55587691",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12904677,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3328699,-192781",
+    "name": "Agotime Ziope District",
+    "local_name": "Agotime Ziope District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Agotime Ziope District",
+      "boundary": "administrative",
+      "way_area": "0.0256144",
+      "wikidata": "Q55587520",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12904676,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3328699,-192781",
+    "name": "Akatsi North District",
+    "local_name": "Akatsi North District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Akatsi North District",
+      "boundary": "administrative",
+      "way_area": "0.025588",
+      "wikidata": "Q16733333",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12904675,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3328699,-192781",
+    "name": "Akatsi South District",
+    "local_name": "Akatsi South District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Akatsi South District",
+      "boundary": "administrative",
+      "way_area": "0.0421524",
+      "wikidata": "Q16250309",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12904674,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3328699,-192781",
+    "name": "Anloga District",
+    "local_name": "Anloga District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Anloga District",
+      "boundary": "administrative",
+      "way_area": "0.0190889",
+      "wikidata": "Q97610230",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12904673,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3328699,-192781",
+    "name": "Keta Municipal District",
+    "local_name": "Keta Municipal District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Keta Municipal District",
+      "boundary": "administrative",
+      "way_area": "0.0421694",
+      "wikidata": "Q1432726",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12904672,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3328699,-192781",
+    "name": "Ketu North Municipal District",
+    "local_name": "Ketu North Municipal District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ketu North Municipal District",
+      "boundary": "administrative",
+      "way_area": "0.0348021",
+      "wikidata": "Q16733714",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12904671,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3328699,-192781",
+    "name": "Ketu South Municipal District",
+    "local_name": "Ketu South Municipal District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ketu South Municipal District",
+      "boundary": "administrative",
+      "way_area": "0.0227281",
+      "wikidata": "Q16733720",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12904670,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3328699,-192781",
+    "name": "South Dayi District",
+    "local_name": "South Dayi District",
+    "name_en": null,
+    "all_tags": {
+      "name": "South Dayi District",
+      "boundary": "administrative",
+      "way_area": "0.0270917",
+      "wikidata": "Q3019338",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12865970,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-10212837,-192781",
+    "name": "West Mamprusi Municipal District",
+    "local_name": "West Mamprusi Municipal District",
+    "name_en": null,
+    "all_tags": {
+      "name": "West Mamprusi Municipal District",
+      "boundary": "administrative",
+      "way_area": "0.21549",
+      "wikidata": "Q3285080",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12865969,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-10212837,-192781",
+    "name": "East Mamprusi Municipal District",
+    "local_name": "East Mamprusi Municipal District",
+    "name_en": null,
+    "all_tags": {
+      "name": "East Mamprusi Municipal District",
+      "boundary": "administrative",
+      "way_area": "0.14626",
+      "wikidata": "Q824725",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12865968,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-10212837,-192781",
+    "name": "Yunyoo-Nasuan District",
+    "local_name": "Yunyoo-Nasuan District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Yunyoo-Nasuan District",
+      "boundary": "administrative",
+      "way_area": "0.0513898",
+      "wikidata": "Q107070876",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12865967,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-10212837,-192781",
+    "name": "Bunkpurugu-Nakpanduri District",
+    "local_name": "Bunkpurugu-Nakpanduri District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bunkpurugu-Nakpanduri District",
+      "boundary": "administrative",
+      "way_area": "0.0443844",
+      "wikidata": "Q107070882",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12865966,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-10212837,-192781",
+    "name": "Mamprugo Moaduri District",
+    "local_name": "Mamprugo Moaduri District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mamprugo Moaduri District",
+      "boundary": "administrative",
+      "way_area": "0.1741",
+      "wikidata": "Q24698175",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12865965,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-10212837,-192781",
+    "name": "Chereponi District",
+    "local_name": "Chereponi District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Chereponi District",
+      "boundary": "administrative",
+      "way_area": "0.115091",
+      "wikidata": "Q5091888",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12860798,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-10212838,-192781",
+    "name": "Bole District",
+    "local_name": "Bole District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bole District",
+      "boundary": "administrative",
+      "way_area": "0.505402",
+      "wikidata": "Q820344",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12860797,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-10212838,-192781",
+    "name": "Central Gonja District",
+    "local_name": "Central Gonja District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Central Gonja District",
+      "boundary": "administrative",
+      "way_area": "0.620378",
+      "wikidata": "Q225577",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12860796,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-10212838,-192781",
+    "name": "North Gonja District",
+    "local_name": "North Gonja District",
+    "name_en": null,
+    "all_tags": {
+      "name": "North Gonja District",
+      "boundary": "administrative",
+      "way_area": "0.400422",
+      "wikidata": "Q55570015",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12860795,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-10212838,-192781",
+    "name": "North East Gonja District",
+    "local_name": "North East Gonja District",
+    "name_en": null,
+    "all_tags": {
+      "name": "North East Gonja District",
+      "boundary": "administrative",
+      "way_area": "0.260625",
+      "wikidata": "Q105555666",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12860794,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-10212838,-192781",
+    "name": "Sawla-Tuna-Kalba District",
+    "local_name": "Sawla-Tuna-Kalba District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Sawla-Tuna-Kalba District",
+      "boundary": "administrative",
+      "way_area": "0.347302",
+      "wikidata": "Q3474659",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12860793,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-10212838,-192781",
+    "name": "West Gonja Municipal District",
+    "local_name": "West Gonja Municipal District",
+    "name_en": null,
+    "all_tags": {
+      "name": "West Gonja Municipal District",
+      "boundary": "administrative",
+      "way_area": "0.388186",
+      "wikidata": "Q3110546",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12834041,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3498732,-192781",
+    "name": "Mion District",
+    "local_name": "Mion District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mion District",
+      "boundary": "administrative",
+      "way_area": "0.223444",
+      "wikidata": "Q25112643",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12834040,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3498732,-192781",
+    "name": "Karaga District",
+    "local_name": "Karaga District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Karaga District",
+      "boundary": "administrative",
+      "way_area": "0.257306",
+      "wikidata": "Q3192911",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12834039,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3498732,-192781",
+    "name": "Savelugu Municipal District",
+    "local_name": "Savelugu Municipal District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Savelugu Municipal District",
+      "boundary": "administrative",
+      "way_area": "0.127684",
+      "wikidata": "Q105473441",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12834038,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3498732,-192781",
+    "name": "Nanton District",
+    "local_name": "Nanton District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Nanton District",
+      "boundary": "administrative",
+      "way_area": "0.0392502",
+      "wikidata": "Q65121881",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12834037,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3498732,-192781",
+    "name": "Tamale Metropolitan District",
+    "local_name": "Tamale Metropolitan District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Tamale Metropolitan District",
+      "boundary": "administrative",
+      "way_area": "0.0532426",
+      "wikidata": "Q240319",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12834036,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3498732,-192781",
+    "name": "Sagnarigu Municipal District",
+    "local_name": "Sagnarigu Municipal District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Sagnarigu Municipal District",
+      "boundary": "administrative",
+      "way_area": "0.0165083",
+      "wikidata": "Q25112635",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12834035,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3498732,-192781",
+    "name": "Kumbungu District",
+    "local_name": "Kumbungu District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kumbungu District",
+      "boundary": "administrative",
+      "way_area": "0.126585",
+      "wikidata": "Q20855070",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12834034,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3498732,-192781",
+    "name": "Tolon District",
+    "local_name": "Tolon District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Tolon District",
+      "boundary": "administrative",
+      "way_area": "0.111523",
+      "wikidata": "Q20855220",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12834033,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3498732,-192781",
+    "name": "Gushiegu Municipal District",
+    "local_name": "Gushiegu Municipal District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Gushiegu Municipal District",
+      "boundary": "administrative",
+      "way_area": "0.221828",
+      "wikidata": "Q3121018",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12834032,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3498732,-192781",
+    "name": "Nanumba North Municipal District",
+    "local_name": "Nanumba North Municipal District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Nanumba North Municipal District",
+      "boundary": "administrative",
+      "way_area": "0.185785",
+      "wikidata": "Q3335812",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12834031,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3498732,-192781",
+    "name": "Saboba District",
+    "local_name": "Saboba District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Saboba District",
+      "boundary": "administrative",
+      "way_area": "0.144693",
+      "wikidata": "Q3460648",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12834030,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3498732,-192781",
+    "name": "Yendi Municipal District",
+    "local_name": "Yendi Municipal District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Yendi Municipal District",
+      "boundary": "administrative",
+      "way_area": "0.119019",
+      "wikidata": "Q972185",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12834029,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3498732,-192781",
+    "name": "Zabzugu District",
+    "local_name": "Zabzugu District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Zabzugu District",
+      "boundary": "administrative",
+      "way_area": "0.0905548",
+      "wikidata": "Q20855259",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12759092,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1991849,-192781",
+    "name": "Ablekuma West Municipal District",
+    "local_name": "Ablekuma West Municipal District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ablekuma West Municipal District",
+      "boundary": "administrative",
+      "way_area": "0.00100103",
+      "wikidata": "Q55566755",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12759091,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1991849,-192781",
+    "name": "Ablekuma North Municipal District",
+    "local_name": "Ablekuma North Municipal District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ablekuma North Municipal District",
+      "boundary": "administrative",
+      "way_area": "0.0010458",
+      "wikidata": "Q55566711",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12759090,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1991849,-192781",
+    "name": "Ablekuma Central Municipal District",
+    "local_name": "Ablekuma Central Municipal District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ablekuma Central Municipal District",
+      "boundary": "administrative",
+      "way_area": "0.000822893",
+      "wikidata": "Q105200499",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12759089,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1991849,-192781",
+    "name": "Ayawaso Central Municipal District",
+    "local_name": "Ayawaso Central Municipal District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ayawaso Central Municipal District",
+      "boundary": "administrative",
+      "way_area": "0.000534726",
+      "wikidata": "Q104833806",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12759088,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1991849,-192781",
+    "name": "Okaikwei North Municipal District",
+    "local_name": "Okaikwei North Municipal District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Okaikwei North Municipal District",
+      "boundary": "administrative",
+      "way_area": "0.00180243",
+      "wikidata": "Q106638847",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12759087,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1991849,-192781",
+    "name": "Ayawaso North Municipal District",
+    "local_name": "Ayawaso North Municipal District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ayawaso North Municipal District",
+      "boundary": "administrative",
+      "way_area": "0.000175488",
+      "wikidata": "Q55567014",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12759086,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1991849,-192781",
+    "name": "Ayawaso West Municipal District",
+    "local_name": "Ayawaso West Municipal District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ayawaso West Municipal District",
+      "boundary": "administrative",
+      "way_area": "0.00281795",
+      "wikidata": "Q55567033",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12759085,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1991849,-192781",
+    "name": "Korle-Klottey Municipal District",
+    "local_name": "Korle-Klottey Municipal District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Korle-Klottey Municipal District",
+      "boundary": "administrative",
+      "way_area": "0.000982246",
+      "wikidata": "Q106638846",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12759084,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1991849,-192781",
+    "name": "La-Dade-Kotopon Municipal District",
+    "local_name": "La-Dade-Kotopon Municipal District",
+    "name_en": null,
+    "all_tags": {
+      "name": "La-Dade-Kotopon Municipal District",
+      "boundary": "administrative",
+      "way_area": "0.00293103",
+      "wikidata": "Q48796194",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12759083,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1991849,-192781",
+    "name": "Ayawaso East Municipal District",
+    "local_name": "Ayawaso East Municipal District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ayawaso East Municipal District",
+      "boundary": "administrative",
+      "way_area": "0.000296942",
+      "wikidata": "Q55566994",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12758450,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1991849,-192781",
+    "name": "Kpone-Katamanso Municipal District",
+    "local_name": "Kpone-Katamanso Municipal District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kpone-Katamanso Municipal District",
+      "boundary": "administrative",
+      "way_area": "0.0196283",
+      "wikidata": "Q48810279",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12758449,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1991849,-192781",
+    "name": "La-Nkwantanang-Madina Municipal District",
+    "local_name": "La-Nkwantanang-Madina Municipal District",
+    "name_en": null,
+    "all_tags": {
+      "name": "La-Nkwantanang-Madina Municipal District",
+      "boundary": "administrative",
+      "way_area": "0.00582831",
+      "wikidata": "Q48810315",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12758448,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1991849,-192781",
+    "name": "Ga Central Municipal District",
+    "local_name": "Ga Central Municipal District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ga Central Municipal District",
+      "boundary": "administrative",
+      "way_area": "0.00457547",
+      "wikidata": "Q16733530",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12758447,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1991849,-192781",
+    "name": "Krowor Municipal District",
+    "local_name": "Krowor Municipal District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Krowor Municipal District",
+      "boundary": "administrative",
+      "way_area": "0.00152932",
+      "wikidata": "Q65121880",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12758446,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1991849,-192781",
+    "name": "Tema West Municipal District",
+    "local_name": "Tema West Municipal District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Tema West Municipal District",
+      "boundary": "administrative",
+      "way_area": "0.00393427",
+      "wikidata": "Q55568451",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12758445,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1991849,-192781",
+    "name": "Ga South Municipal District",
+    "local_name": "Ga South Municipal District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ga South Municipal District",
+      "boundary": "administrative",
+      "way_area": "0.0231841",
+      "wikidata": "Q5515198",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12758444,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1991849,-192781",
+    "name": "Ga North Municipal District",
+    "local_name": "Ga North Municipal District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ga North Municipal District",
+      "boundary": "administrative",
+      "way_area": "0.00427542",
+      "wikidata": "Q65121877",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12757781,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1991849,-192781",
+    "name": "Ada West District",
+    "local_name": "Ada West District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ada West District",
+      "boundary": "administrative",
+      "way_area": "0.0271572",
+      "wikidata": "Q48797790",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12757780,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1991849,-192781",
+    "name": "Ningo-Prampram District",
+    "local_name": "Ningo-Prampram District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ningo-Prampram District",
+      "boundary": "administrative",
+      "way_area": "0.0499855",
+      "wikidata": "Q48810296",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12754463,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3328013,-192781",
+    "name": "Nandom Municipal District",
+    "local_name": "Nandom Municipal District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Nandom Municipal District",
+      "boundary": "administrative",
+      "way_area": "0.0330529",
+      "wikidata": "Q55579382",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12754462,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3328013,-192781",
+    "name": "Lambussie Karni District",
+    "local_name": "Lambussie Karni District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Lambussie Karni District",
+      "boundary": "administrative",
+      "way_area": "0.0654322",
+      "wikidata": "Q6481624",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12754461,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3328013,-192781",
+    "name": "Daffiama Bussie Issa District",
+    "local_name": "Daffiama Bussie Issa District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Daffiama Bussie Issa District",
+      "boundary": "administrative",
+      "way_area": "0.121066",
+      "wikidata": "Q55608830",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12754460,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3328013,-192781",
+    "name": "Wa West District",
+    "local_name": "Wa West District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Wa West District",
+      "boundary": "administrative",
+      "way_area": "0.122342",
+      "wikidata": "Q1509306",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12754459,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3328013,-192781",
+    "name": "Wa Municipal District",
+    "local_name": "Wa Municipal District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Wa Municipal District",
+      "boundary": "administrative",
+      "way_area": "0.0487134",
+      "wikidata": "Q772550",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12754458,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3328013,-192781",
+    "name": "Wa East District",
+    "local_name": "Wa East District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Wa East District",
+      "boundary": "administrative",
+      "way_area": "0.35367",
+      "wikidata": "Q920615",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12754457,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3328013,-192781",
+    "name": "Sissala East Municipal District",
+    "local_name": "Sissala East Municipal District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Sissala East Municipal District",
+      "boundary": "administrative",
+      "way_area": "0.407679",
+      "wikidata": "Q1508154",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12754456,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3328013,-192781",
+    "name": "Sissala West District",
+    "local_name": "Sissala West District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Sissala West District",
+      "boundary": "administrative",
+      "way_area": "0.153232",
+      "wikidata": "Q1509144",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12752691,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3328013,-192781",
+    "name": "Nadowli-Kaleo District",
+    "local_name": "Nadowli-Kaleo District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Nadowli-Kaleo District",
+      "boundary": "administrative",
+      "way_area": "0.0930816",
+      "wikidata": "Q1315544",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12752690,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3328013,-192781",
+    "name": "Jirapa Municipal District",
+    "local_name": "Jirapa Municipal District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Jirapa Municipal District",
+      "boundary": "administrative",
+      "way_area": "0.0983274",
+      "wikidata": "Q6202991",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -10452548,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3327998,-192781",
+    "name": "Bolgatanga East District",
+    "local_name": "Bolgatanga East District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bolgatanga East District",
+      "name:de": "Bolgatanga Ostdistrikt",
+      "boundary": "administrative",
+      "way_area": "0.00594332",
+      "wikidata": "Q84213383",
+      "short_name": "Bolga East District",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -10452547,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3327998,-192781",
+    "name": "Tempane District",
+    "local_name": "Tempane District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Tempane District",
+      "name:de": "Tempane Distrikt",
+      "boundary": "administrative",
+      "way_area": "0.0306885",
+      "wikidata": "Q84320714",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -10442771,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3327998,-192781",
+    "name": "Kassena-Nankana West District",
+    "local_name": "Kassena-Nankana West District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kassena-Nankana West District",
+      "name:de": "Kassena Nankana Westdistrikt",
+      "boundary": "administrative",
+      "way_area": "0.0748904",
+      "wikidata": "Q6374728",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -10442770,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3327998,-192781",
+    "name": "Pusiga District",
+    "local_name": "Pusiga District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Pusiga District",
+      "name:de": "Pusiga Distrikt",
+      "boundary": "administrative",
+      "way_area": "0.0216992",
+      "wikidata": "Q55570782",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -10442769,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3327998,-192781",
+    "name": "Bongo District",
+    "local_name": "Bongo District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bongo District",
+      "name:de": "Bongo Distrikt",
+      "boundary": "administrative",
+      "way_area": "0.0349595",
+      "wikidata": "Q749703",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -10440111,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3327998,-192781",
+    "name": "Bawku Municipal District",
+    "local_name": "Bawku Municipal District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bawku Municipal District",
+      "name:de": "Bawku Municipal Distrikt",
+      "boundary": "administrative",
+      "way_area": "0.0201231",
+      "wikidata": "Q477813",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -10429637,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3327998,-192781",
+    "name": "Garu District",
+    "local_name": "Garu District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Garu District",
+      "name:de": "Garu Distrikt",
+      "boundary": "administrative",
+      "way_area": "0.0571467",
+      "wikidata": "Q87181327",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -10429636,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3327998,-192781",
+    "name": "Binduri District",
+    "local_name": "Binduri District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Binduri District",
+      "name:de": "Binduri Distrikt",
+      "boundary": "administrative",
+      "way_area": "0.0320915",
+      "wikidata": "Q24698088",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -10429612,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3327998,-192781",
+    "name": "Builsa North District",
+    "local_name": "Builsa North District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Builsa North District",
+      "name:de": "Builsa Norddistrikt",
+      "boundary": "administrative",
+      "way_area": "0.0666142",
+      "wikidata": "Q1003075",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -10429493,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3327998,-192781",
+    "name": "Nabdam District",
+    "local_name": "Nabdam District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Nabdam District",
+      "name:de": "Nabdam Distrikt",
+      "boundary": "administrative",
+      "way_area": "0.0200417",
+      "wikidata": "Q55624529",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -10429466,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3327998,-192781",
+    "name": "Bawku West District",
+    "local_name": "Bawku West District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bawku West District",
+      "name:de": "Bawku Westdistrikt",
+      "boundary": "administrative",
+      "way_area": "0.088991",
+      "wikidata": "Q812034",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -10416816,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3327998,-192781",
+    "name": "Builsa South District",
+    "local_name": "Builsa South District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Builsa South District",
+      "name:de": "Builsa Süddistrikt",
+      "boundary": "administrative",
+      "way_area": "0.104073",
+      "wikidata": "Q55570418",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -10215999,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3498732,-192781",
+    "name": "Kpandai District",
+    "local_name": "Kpandai District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kpandai District",
+      "boundary": "administrative",
+      "way_area": "0.0932259",
+      "wikidata": "Q6435710",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -10215998,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3498732,-192781",
+    "name": "Tatale Sangule District",
+    "local_name": "Tatale Sangule District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Tatale Sangule District",
+      "boundary": "administrative",
+      "way_area": "0.08876",
+      "wikidata": "Q20855211",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -10215997,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-10212838,-192781",
+    "name": "East Gonja Municipal District",
+    "local_name": "East Gonja Municipal District",
+    "name_en": null,
+    "all_tags": {
+      "name": "East Gonja Municipal District",
+      "boundary": "administrative",
+      "way_area": "0.423694",
+      "wikidata": "Q825097",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -10215996,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3498732,-192781",
+    "name": "Nanumba South District",
+    "local_name": "Nanumba South District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Nanumba South District",
+      "boundary": "administrative",
+      "way_area": "0.147192",
+      "wikidata": "Q1112502",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -10215995,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-10212839,-192781",
+    "name": "Sene East District",
+    "local_name": "Sene East District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Sene East District",
+      "boundary": "administrative",
+      "way_area": "0.385986",
+      "wikidata": "Q55555336",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -10215259,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-10211892,-192781",
+    "name": "Jasikan District",
+    "local_name": "Jasikan District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Jasikan District",
+      "boundary": "administrative",
+      "way_area": "0.0453165",
+      "wikidata": "Q1432676",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -10215258,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-10211892,-192781",
+    "name": "Biakoye District",
+    "local_name": "Biakoye District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Biakoye District",
+      "boundary": "administrative",
+      "way_area": "0.0876773",
+      "wikidata": "Q2900789",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -10215257,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-10211892,-192781",
+    "name": "Kadjebi District",
+    "local_name": "Kadjebi District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kadjebi District",
+      "boundary": "administrative",
+      "way_area": "0.0565497",
+      "wikidata": "Q3191794",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -10215256,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-10211892,-192781",
+    "name": "Nkwanta South District",
+    "local_name": "Nkwanta South District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Nkwanta South District",
+      "boundary": "administrative",
+      "way_area": "0.222918",
+      "wikidata": "Q977886",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -10215255,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-10211892,-192781",
+    "name": "Nkwanta North District",
+    "local_name": "Nkwanta North District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Nkwanta North District",
+      "boundary": "administrative",
+      "way_area": "0.0900111",
+      "wikidata": "Q3342368",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -10213439,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-10211892,-192781",
+    "name": "Krachi Nchumuru District",
+    "local_name": "Krachi Nchumuru District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Krachi Nchumuru District",
+      "boundary": "administrative",
+      "way_area": "0.0994349",
+      "wikidata": "Q55589875",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -10213438,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-10211892,-192781",
+    "name": "Krachi West District",
+    "local_name": "Krachi West District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Krachi West District",
+      "boundary": "administrative",
+      "way_area": "0.091845",
+      "wikidata": "Q3199541",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -10213437,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-10211892,-192781",
+    "name": "Krachi East District",
+    "local_name": "Krachi East District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Krachi East District",
+      "boundary": "administrative",
+      "way_area": "0.18492",
+      "wikidata": "Q3199542",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -10212841,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192781",
+    "name": "Western North Region",
+    "local_name": "Western North Region",
+    "name_en": "Western North Region",
+    "all_tags": {
+      "name": "Western North Region",
+      "name:de": "Westliche Nordregion",
+      "name:en": "Western North Region",
+      "boundary": "administrative",
+      "way_area": "0.823198",
+      "wikidata": "Q60764360",
+      "ISO3166-2": "GH-WN",
+      "wikipedia": "en:Western North Region",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -10212840,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192781",
+    "name": "Ahafo Region",
+    "local_name": "Ahafo Region",
+    "name_en": "Ahafo Region",
+    "all_tags": {
+      "name": "Ahafo Region",
+      "name:en": "Ahafo Region",
+      "boundary": "administrative",
+      "way_area": "0.425266",
+      "wikidata": "Q48804007",
+      "ISO3166-2": "GH-AF",
+      "wikipedia": "en:Ahafo Region",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -10212839,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192781",
+    "name": "Bono East Region",
+    "local_name": "Bono East Region",
+    "name_en": "Bono East Region",
+    "all_tags": {
+      "name": "Bono East Region",
+      "name:ar": "إقليم شرق بونو",
+      "name:en": "Bono East Region",
+      "boundary": "administrative",
+      "way_area": "1.93401",
+      "wikidata": "Q60764358",
+      "ISO3166-2": "GH-BE",
+      "wikipedia": "en:Bono East Region",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -10212838,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192781",
+    "name": "Savannah Region",
+    "local_name": "Savannah Region",
+    "name_en": "Savannah Region",
+    "all_tags": {
+      "name": "Savannah Region",
+      "name:ar": "منطقة السفانا",
+      "name:en": "Savannah Region",
+      "boundary": "administrative",
+      "way_area": "2.94601",
+      "wikidata": "Q60764352",
+      "ISO3166-2": "GH-SV",
+      "wikipedia": "en:Savannah Region",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -10212837,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192781",
+    "name": "North East Region",
+    "local_name": "North East Region",
+    "name_en": "North East Region",
+    "all_tags": {
+      "name": "North East Region",
+      "name:de": "Nordostregion",
+      "name:en": "North East Region",
+      "boundary": "administrative",
+      "way_area": "0.746715",
+      "wikidata": "Q60764359",
+      "ISO3166-2": "GH-NE",
+      "wikipedia": "en:North East Region, Ghana",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -10211892,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192781",
+    "name": "Oti Region",
+    "local_name": "Oti Region",
+    "name_en": "Oti Region",
+    "all_tags": {
+      "name": "Oti Region",
+      "name:en": "Oti Region",
+      "boundary": "administrative",
+      "way_area": "0.878673",
+      "wikidata": "Q48804004",
+      "ISO3166-2": "GH-OT",
+      "wikipedia": "en:Oti Region",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -10104677,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3327998,-192781",
+    "name": "Kassena-Nankana Municipal District",
+    "local_name": "Kassena-Nankana Municipal District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kassena-Nankana Municipal District",
+      "name:de": "Kassena-Nankana Municipal Distrikt",
+      "boundary": "administrative",
+      "way_area": "0.0610638",
+      "wikidata": "Q6374727",
+      "wikipedia": "en:Kassena-Nankana Municipal District",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -10103192,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3327998,-192781",
+    "name": "Talensi District",
+    "local_name": "Talensi District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Talensi District",
+      "name:de": "Talensi Distrikt",
+      "boundary": "administrative",
+      "way_area": "0.0697661",
+      "wikidata": "Q87182279",
+      "wikipedia": "en:Talensi (district)",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -10090857,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3327998,-192781",
+    "name": "Bolgatanga Municipal District",
+    "local_name": "Bolgatanga Municipal District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bolgatanga Municipal District",
+      "name:de": "Bolgatanga Stadtdistrikt",
+      "boundary": "administrative",
+      "way_area": "0.0266784",
+      "wikidata": "Q891338",
+      "wikipedia": "en:Bolgatanga Municipal District",
+      "short_name": "Bolga District",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -5149239,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3328013,-192781",
+    "name": "Lawra Municipal District",
+    "local_name": "Lawra Municipal District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Lawra Municipal District",
+      "boundary": "administrative",
+      "way_area": "0.0439746",
+      "wikidata": "Q1506347",
+      "wikipedia": "en:Lawra Municipal District",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -3498734,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192781",
+    "name": "Western Region",
+    "local_name": "Western Region",
+    "name_en": "Western Region",
+    "all_tags": {
+      "name": "Western Region",
+      "name:ar": "الإقليم الغربي الأعلى",
+      "name:de": "Westregion",
+      "name:en": "Western Region",
+      "name:es": "Región Occidental",
+      "name:fr": "Région Occidentale",
+      "name:ru": "Западный регион",
+      "name:uk": "Західна область",
+      "boundary": "administrative",
+      "way_area": "1.1622",
+      "wikidata": "Q870155",
+      "ISO3166-2": "GH-WP",
+      "wikipedia": "en:Western Region (Ghana)",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -3498733,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192781",
+    "name": "Eastern Region",
+    "local_name": "Eastern Region",
+    "name_en": "Eastern Region",
+    "all_tags": {
+      "name": "Eastern Region",
+      "name:ar": "الإقليم الشرقي",
+      "name:de": "Ostregion",
+      "name:en": "Eastern Region",
+      "name:es": "Región Oriental",
+      "name:fr": "Région Orientale",
+      "name:ru": "Восточный регион",
+      "name:uk": "Східна область",
+      "boundary": "administrative",
+      "way_area": "1.54574",
+      "wikidata": "Q405670",
+      "ISO3166-2": "GH-EP",
+      "wikipedia": "en:Eastern Region (Ghana)",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -3498732,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192781",
+    "name": "Northern Region",
+    "local_name": "Northern Region",
+    "name_en": "Northern Region",
+    "all_tags": {
+      "name": "Northern Region",
+      "name:de": "Nordregion",
+      "name:en": "Northern Region",
+      "name:es": "Región Norte",
+      "name:fr": "Région du Nord",
+      "name:ru": "Северный регион",
+      "name:uk": "Північна область",
+      "boundary": "administrative",
+      "way_area": "2.0466",
+      "wikidata": "Q502215",
+      "ISO3166-2": "GH-NP",
+      "wikipedia": "en:Northern Region (Ghana)",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -3330281,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192781",
+    "name": "Central Region",
+    "local_name": "Central Region",
+    "name_en": "Central Region",
+    "all_tags": {
+      "name": "Central Region",
+      "name:ar": "الإقليم الأوسط",
+      "name:de": "Zentralregion",
+      "name:en": "Central Region",
+      "name:es": "Región Central",
+      "name:fr": "Région du Centre",
+      "name:ru": "Центральный регион",
+      "name:uk": "Центральна область",
+      "boundary": "administrative",
+      "way_area": "0.787483",
+      "wikidata": "Q846323",
+      "ISO3166-2": "GH-CP",
+      "wikipedia": "en:Central Region (Ghana)",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -3330249,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192781",
+    "name": "Ashanti Region",
+    "local_name": "Ashanti Region",
+    "name_en": "Ashanti Region",
+    "all_tags": {
+      "name": "Ashanti Region",
+      "name:ar": "منطقة أشانتي",
+      "name:en": "Ashanti Region",
+      "name:es": "Ashanti",
+      "name:fr": "Région Ashanti",
+      "name:ru": "Ашанти",
+      "name:uk": "Ашанті",
+      "boundary": "administrative",
+      "way_area": "1.99459",
+      "wikidata": "Q398417",
+      "ISO3166-2": "GH-AH",
+      "wikipedia": "en:Ashanti Region",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -3329833,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192781",
+    "name": "Bono Region",
+    "local_name": "Bono Region",
+    "name_en": "Bono Region",
+    "all_tags": {
+      "name": "Bono Region",
+      "name:ar": "إقليم بونو",
+      "name:en": "Bono Region",
+      "boundary": "administrative",
+      "way_area": "0.942603",
+      "wikidata": "Q64685186",
+      "ISO3166-2": "GH-BO",
+      "wikipedia": "en:Bono Region",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -3328699,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192781",
+    "name": "Volta Region",
+    "local_name": "Volta Region",
+    "name_en": "Volta Region",
+    "all_tags": {
+      "name": "Volta Region",
+      "name:ar": "إقليم فولتا",
+      "name:en": "Volta Region",
+      "name:es": "Región Volta",
+      "name:fr": "Région Volta",
+      "name:ru": "Вольта",
+      "name:uk": "Вольта",
+      "boundary": "administrative",
+      "way_area": "0.808963",
+      "wikidata": "Q712832",
+      "ISO3166-2": "GH-TV",
+      "wikipedia": "en:Volta Region",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -3328013,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192781",
+    "name": "Upper West Region",
+    "local_name": "Upper West Region",
+    "name_en": "Upper West Region",
+    "all_tags": {
+      "name": "Upper West Region",
+      "name:ar": "الإقليم الغربي الأعلى",
+      "name:de": "Obere Westregion",
+      "name:en": "Upper West Region",
+      "name:es": "Región Alta Occidental",
+      "name:fr": "Région du Haut Ghana occidental",
+      "name:ru": "Верхний Западный регион",
+      "name:uk": "Верхня Західна область",
+      "boundary": "administrative",
+      "way_area": "1.54057",
+      "wikidata": "Q715805",
+      "ISO3166-2": "GH-UW",
+      "wikipedia": "en:Upper West Region",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -3327998,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192781",
+    "name": "Upper East Region",
+    "local_name": "Upper East Region",
+    "name_en": "Upper East Region",
+    "all_tags": {
+      "name": "Upper East Region",
+      "name:ar": "مقاطعة الشرق األوسط",
+      "name:de": "Obere Ostregion",
+      "name:en": "Upper East Region",
+      "name:es": "Región Alta Oriental",
+      "name:fr": "Région du Haut Ghana oriental",
+      "name:ru": "Верхний Восточный регион",
+      "name:uk": "Верхня Східна область",
+      "boundary": "administrative",
+      "way_area": "0.714771",
+      "wikidata": "Q712828",
+      "ISO3166-2": "GH-UE",
+      "wikipedia": "en:Upper East Region",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -1991858,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1991849,-192781",
+    "name": "Tema Metropolitan District",
+    "local_name": "Tema Metropolitan District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Tema Metropolitan District",
+      "boundary": "administrative",
+      "way_area": "0.0041627",
+      "wikidata": "Q2723511",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -1991857,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1991849,-192781",
+    "name": "Ledzokuku Municipal District",
+    "local_name": "Ledzokuku Municipal District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ledzokuku Municipal District",
+      "boundary": "administrative",
+      "way_area": "0.00293098",
+      "wikidata": "Q105163439",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -1991856,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1991849,-192781",
+    "name": "Ga West Municipal District",
+    "local_name": "Ga West Municipal District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ga West Municipal District",
+      "boundary": "administrative",
+      "way_area": "0.0205951",
+      "wikidata": "Q2553740",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -1991855,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1991849,-192781",
+    "name": "Ga East Municipal District",
+    "local_name": "Ga East Municipal District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ga East Municipal District",
+      "boundary": "administrative",
+      "way_area": "0.00644891",
+      "wikidata": "Q2553691",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -1991854,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1991849,-192781",
+    "name": "Shai-Osudoku District",
+    "local_name": "Shai-Osudoku District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Shai-Osudoku District",
+      "boundary": "administrative",
+      "way_area": "0.0772497",
+      "wikidata": "Q2304316",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -1991853,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1991849,-192781",
+    "name": "Ada East District",
+    "local_name": "Ada East District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ada East District",
+      "boundary": "administrative",
+      "way_area": "0.0234534",
+      "wikidata": "Q48797786",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -1991852,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1991849,-192781",
+    "name": "Ashaiman Municipal District",
+    "local_name": "Ashaiman Municipal District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ashaiman Municipal District",
+      "boundary": "administrative",
+      "way_area": "0.0015026",
+      "wikidata": "Q4804540",
+      "wikipedia": "en:Ashaiman Municipal District",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -1991851,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1991849,-192781",
+    "name": "Adenta Municipal District",
+    "local_name": "Adenta Municipal District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Adenta Municipal District",
+      "boundary": "administrative",
+      "way_area": "0.0061268",
+      "wikidata": "Q4682311",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -1991850,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1991849,-192781",
+    "name": "Accra Metropolitan District",
+    "local_name": "Accra Metropolitan District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Accra Metropolitan District",
+      "boundary": "administrative",
+      "way_area": "0.00192994",
+      "wikidata": "Q284556",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -1991849,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192781",
+    "name": "Greater Accra Region",
+    "local_name": "Greater Accra Region",
+    "name_en": "Greater Accra Region",
+    "all_tags": {
+      "name": "Greater Accra Region",
+      "name:ar": "إقليم أكرا الكبرى",
+      "name:de": "Groß-Accra Region",
+      "name:en": "Greater Accra Region",
+      "name:es": "Región Gran Acra",
+      "name:fr": "Région du Grand Accra",
+      "name:ru": "Большая Аккра",
+      "name:uk": "Велика Аккра",
+      "boundary": "administrative",
+      "way_area": "0.301525",
+      "wikidata": "Q431729",
+      "ISO3166-2": "GH-AA",
+      "wikipedia": "en:Greater Accra Region",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -1991809,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1991849,-192781",
+    "name": "Weija-Gbawe Municipal District",
+    "local_name": "Weija-Gbawe Municipal District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Weija-Gbawe Municipal District",
+      "boundary": "administrative",
+      "way_area": "0.00461616",
+      "wikidata": "Q106817704",
+      "admin_level": "6"
+    }
+  }
+]

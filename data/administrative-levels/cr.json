@@ -1,0 +1,1809 @@
+[
+  {
+    "osm_id": -3223004,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-287667",
+    "name": "San Jose Province",
+    "local_name": "Provincia San José",
+    "name_en": "San Jose Province",
+    "all_tags": {
+      "name": "Provincia San José",
+      "place": "province",
+      "name:en": "San Jose Province",
+      "name:es": "Provincia San José",
+      "name:ja": "サンホセ州",
+      "alt_name": "San José",
+      "boundary": "administrative",
+      "way_area": "0.409585",
+      "wikidata": "Q647808",
+      "ISO3166-2": "CR-SJ",
+      "wikipedia": "cs:San José (provincie)",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -3223054,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-287667",
+    "name": "Cartago Province",
+    "local_name": "Provincia Cartago",
+    "name_en": "Cartago Province",
+    "all_tags": {
+      "name": "Provincia Cartago",
+      "place": "province",
+      "name:ar": "كارتاغو",
+      "name:bg": "Картаго",
+      "name:ca": "Província de Cartago",
+      "name:da": "Cartago",
+      "name:de": "Provinz Cartago",
+      "name:el": "Επαρχία Καρτάγο",
+      "name:en": "Cartago Province",
+      "name:es": "Provincia Cartago",
+      "name:fa": "استان کارتاگو",
+      "name:fi": "Cartagon maakunta",
+      "name:fr": "Cartago",
+      "name:he": "קרטגו",
+      "name:hr": "Cartago",
+      "name:hy": "Կարտագո",
+      "name:id": "Provinsi Cartago",
+      "name:it": "Provincia di Cartago",
+      "name:ja": "カルタゴ州",
+      "name:ka": "კარტაგოს პროვინცია",
+      "name:ko": "카르타고 주",
+      "name:lt": "Kartago provincija",
+      "name:nl": "Cartago",
+      "name:no": "Cartago",
+      "name:pl": "Cartago",
+      "name:pt": "Cartago",
+      "name:qu": "Cartago pruwinsya",
+      "name:ru": "Картаго",
+      "name:se": "Cartago",
+      "name:sr": "Картаго",
+      "name:sv": "Cartago",
+      "name:tr": "Cartago",
+      "name:uk": "Картаго",
+      "name:ur": "کارتاگو صوبہ",
+      "name:vi": "Cartago",
+      "name:zh": "卡塔戈省",
+      "alt_name": "Cartago",
+      "boundary": "administrative",
+      "way_area": "0.254769",
+      "wikidata": "Q502181",
+      "ISO3166-2": "CR-C",
+      "wikipedia": "cs:Cartago (provincie)",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -3223028,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-287667",
+    "name": "Provincia Puntarenas",
+    "local_name": "Provincia Puntarenas",
+    "name_en": null,
+    "all_tags": {
+      "name": "Provincia Puntarenas",
+      "place": "province",
+      "name:ja": "プンタレナス州",
+      "alt_name": "Puntarenas",
+      "boundary": "administrative",
+      "way_area": "2.5927",
+      "wikidata": "Q502170",
+      "ISO3166-2": "CR-P",
+      "wikipedia": "en:Puntarenas Province",
+      "admin_level": "4",
+      "flag:wikidata": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Bandera_de_la_Provincia_de_Puntarenas.svg/2000px-Bandera_de_la_Provincia_de_Puntarenas.svg.png"
+    }
+  },
+  {
+    "osm_id": -6404570,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3223028,-287667",
+    "name": "Cantón Puntarenas",
+    "local_name": "Cantón Puntarenas",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cantón Puntarenas",
+      "alt_name": "Puntarenas",
+      "boundary": "administrative",
+      "way_area": "0.147025",
+      "wikidata": "Q2610390",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -5716966,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3223004,-287667",
+    "name": "Cantón Turrubares",
+    "local_name": "Cantón Turrubares",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cantón Turrubares",
+      "alt_name": "Turrubares",
+      "boundary": "administrative",
+      "way_area": "0.0346327",
+      "wikidata": "Q196257",
+      "wikipedia": "en:Turrubares (canton)",
+      "admin_level": "6",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "osm_id": -5718795,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3223028,-287667",
+    "name": "Cantón Garabito",
+    "local_name": "Cantón Garabito",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cantón Garabito",
+      "alt_name": "Garabito",
+      "boundary": "administrative",
+      "way_area": "0.0257262",
+      "wikidata": "Q970097",
+      "wikipedia": "en:Garabito (canton)",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -5721071,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3222933,-287667",
+    "name": "Cantón Orotina",
+    "local_name": "Cantón Orotina",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cantón Orotina",
+      "alt_name": "Orotina",
+      "boundary": "administrative",
+      "way_area": "0.0119607",
+      "wikidata": "Q891356",
+      "wikipedia": "en:Orotina (canton)",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -5722749,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3222933,-287667",
+    "name": "Cantón San Mateo",
+    "local_name": "Cantón San Mateo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cantón San Mateo",
+      "alt_name": "San Mateo",
+      "boundary": "administrative",
+      "way_area": "0.010319",
+      "wikidata": "Q1936056",
+      "wikipedia": "en:San Mateo (canton)",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -5366458,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3222933,-287667",
+    "name": "Cantón Atenas",
+    "local_name": "Cantón Atenas",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cantón Atenas",
+      "alt_name": "Atenas",
+      "boundary": "administrative",
+      "way_area": "0.0104134",
+      "wikidata": "Q2406261",
+      "wikipedia": "en:Atenas (canton)",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -5900570,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3222933,-287667",
+    "name": "Cantón Naranjo",
+    "local_name": "Cantón Naranjo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cantón Naranjo",
+      "alt_name": "Naranjo",
+      "boundary": "administrative",
+      "way_area": "0.01047",
+      "wikidata": "Q2544794",
+      "wikipedia": "en:Naranjo (canton)",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -6157166,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3222919,-287667",
+    "name": "Cantón Abangares",
+    "local_name": "Cantón Abangares",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cantón Abangares",
+      "alt_name": "Abangares",
+      "boundary": "administrative",
+      "way_area": "0.0535039",
+      "wikidata": "Q2517638",
+      "wikipedia": "en:Abangares (canton)",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -6193310,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3222933,-287667",
+    "name": "Cantón Upala",
+    "local_name": "Cantón Upala",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cantón Upala",
+      "alt_name": "Upala",
+      "boundary": "administrative",
+      "way_area": "0.131615",
+      "wikidata": "Q2223674",
+      "wikipedia": "en:Upala (canton)",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -5992810,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3222933,-287667",
+    "name": "Cantón San Carlos",
+    "local_name": "Cantón San Carlos",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cantón San Carlos",
+      "alt_name": "San Carlos",
+      "boundary": "administrative",
+      "way_area": "0.276862",
+      "wikidata": "Q931244",
+      "wikipedia": "en:San Carlos (canton)",
+      "admin_level": "6",
+      "postal_code": "210"
+    }
+  },
+  {
+    "osm_id": -6193364,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3222933,-287667",
+    "name": "Cantón Los Chiles",
+    "local_name": "Cantón Los Chiles",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cantón Los Chiles",
+      "alt_name": "Los Chiles",
+      "boundary": "administrative",
+      "way_area": "0.110217",
+      "wikidata": "Q1189266",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -6291877,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3223004,-287667",
+    "name": "Cantón Aserrí",
+    "local_name": "Cantón Aserrí",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cantón Aserrí",
+      "alt_name": "Aserrí",
+      "boundary": "administrative",
+      "way_area": "0.0139132",
+      "wikidata": "Q1935231",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -5677863,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3223004,-287667",
+    "name": "Cantón León Cortés Castro",
+    "local_name": "Cantón León Cortés Castro",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cantón León Cortés Castro",
+      "alt_name": "León Cortés Castro",
+      "boundary": "administrative",
+      "way_area": "0.0100296",
+      "wikidata": "Q196346",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -6200736,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3223004,-287667",
+    "name": "Cantón Desamparados",
+    "local_name": "Cantón Desamparados",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cantón Desamparados",
+      "alt_name": "Desamparados",
+      "boundary": "administrative",
+      "way_area": "0.00979001",
+      "wikidata": "Q1444404",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -5695433,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3223004,-287667",
+    "name": "Cantón Dota",
+    "local_name": "Cantón Dota",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cantón Dota",
+      "alt_name": "Dota",
+      "boundary": "administrative",
+      "way_area": "0.0334066",
+      "wikidata": "Q1935243",
+      "wikipedia": "en:Dota (canton)",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -5698504,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3223054,-287667",
+    "name": "Cantón Cartago",
+    "local_name": "Cantón Cartago",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cantón Cartago",
+      "alt_name": "Cartago",
+      "boundary": "administrative",
+      "way_area": "0.0228966",
+      "wikidata": "Q2185499",
+      "wikipedia": "en:Cartago (canton)",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -6195371,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3223054,-287667",
+    "name": "Cantón Jiménez",
+    "local_name": "Cantón Jiménez",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cantón Jiménez",
+      "alt_name": "Jiménez",
+      "boundary": "administrative",
+      "way_area": "0.0208861",
+      "wikidata": "Q2610255",
+      "wikipedia": "en:Jiménez (canton)",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -5723773,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3223004,-287667",
+    "name": "Cantón Mora",
+    "local_name": "Cantón Mora",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cantón Mora",
+      "alt_name": "Mora",
+      "boundary": "administrative",
+      "way_area": "0.0134715",
+      "wikidata": "Q1935206",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -5375374,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3223004,-287667",
+    "name": "Cantón Tibás",
+    "local_name": "Cantón Tibás",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cantón Tibás",
+      "alt_name": "Tibás",
+      "boundary": "administrative",
+      "way_area": "0.000677741",
+      "wikidata": "Q426978",
+      "admin_level": "6",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "osm_id": -5729243,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3221947,-287667",
+    "name": "Cantón Santo Domingo",
+    "local_name": "Cantón Santo Domingo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cantón Santo Domingo",
+      "alt_name": "Santo Domingo",
+      "boundary": "administrative",
+      "way_area": "0.00210037",
+      "wikidata": "Q2405941",
+      "wikipedia": "en:Santo Domingo (canton), Costa Rica",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -5725181,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3222933,-287667",
+    "name": "Cantón Grecia",
+    "local_name": "Cantón Grecia",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cantón Grecia",
+      "alt_name": "Grecia",
+      "boundary": "administrative",
+      "way_area": "0.0118239",
+      "wikidata": "Q2594049",
+      "wikipedia": "en:Grecia (canton)",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -5659036,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3222933,-287667",
+    "name": "Cantón Poás",
+    "local_name": "Cantón Poás",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cantón Poás",
+      "alt_name": "Poás",
+      "boundary": "administrative",
+      "way_area": "0.00611427",
+      "wikidata": "Q2610373",
+      "wikipedia": "en:Poás (canton)",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -5369889,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3222933,-287667",
+    "name": "Cantón Alajuela",
+    "local_name": "Cantón Alajuela",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cantón Alajuela",
+      "alt_name": "Alajuela",
+      "boundary": "administrative",
+      "way_area": "0.0322799",
+      "wikidata": "Q2672761",
+      "wikipedia": "en:Alajuela (canton)",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -5730526,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3221947,-287667",
+    "name": "Cantón Heredia",
+    "local_name": "Cantón Heredia",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cantón Heredia",
+      "alt_name": "Heredia",
+      "boundary": "administrative",
+      "way_area": "0.0234312",
+      "wikidata": "Q2610288",
+      "wikipedia": "en:Heredia (canton)",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -4073558,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3223004,-287667",
+    "name": "Cantón Montes de Oca",
+    "local_name": "Cantón Montes de Oca",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cantón Montes de Oca",
+      "alt_name": "Montes de Oca",
+      "boundary": "administrative",
+      "way_area": "0.00128863",
+      "wikidata": "Q2739710",
+      "wikipedia": "en:Montes de Oca (canton)",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -5413776,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3223004,-287667",
+    "name": "Cantón Goicoechea",
+    "local_name": "Cantón Goicoechea",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cantón Goicoechea",
+      "alt_name": "Goicoechea",
+      "boundary": "administrative",
+      "way_area": "0.00264282",
+      "wikidata": "Q2406129",
+      "wikipedia": "en:Goicoechea (canton)",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -5415430,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3223004,-287667",
+    "name": "Cantón Moravia",
+    "local_name": "Cantón Moravia",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cantón Moravia",
+      "alt_name": "Moravia",
+      "boundary": "administrative",
+      "way_area": "0.0023648",
+      "wikidata": "Q1935256",
+      "wikipedia": "en:Moravia (canton)",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -5685045,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3223054,-287667",
+    "name": "Cantón Alvarado",
+    "local_name": "Cantón Alvarado",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cantón Alvarado",
+      "alt_name": "Alvarado",
+      "boundary": "administrative",
+      "way_area": "0.00657756",
+      "wikidata": "Q2610378",
+      "wikipedia": "en:Alvarado (canton)",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7105576,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3222933,-287667",
+    "name": "Cantón Río Cuarto",
+    "local_name": "Cantón Río Cuarto",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cantón Río Cuarto",
+      "alt_name": "Río Cuarto",
+      "boundary": "administrative",
+      "way_area": "0.0210072",
+      "wikidata": "Q16627164",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -3221947,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-287667",
+    "name": "Heredia Province",
+    "local_name": "Provincia Heredia",
+    "name_en": "Heredia Province",
+    "all_tags": {
+      "name": "Provincia Heredia",
+      "place": "province",
+      "name:ar": "إيريذيا",
+      "name:be": "Эрэдзія",
+      "name:bg": "Ередия",
+      "name:ca": "Província d'Heredia",
+      "name:cs": "Heredia",
+      "name:da": "Heredia",
+      "name:de": "Provinz Heredia",
+      "name:el": "Επαρχία Ερέδια",
+      "name:en": "Heredia Province",
+      "name:es": "Provincia de Heredia",
+      "name:fa": "استان اردیا",
+      "name:fi": "Heredian maakunta",
+      "name:fr": "Heredia",
+      "name:he": "ארדיה",
+      "name:hr": "Heredia",
+      "name:hy": "Էրեդիա",
+      "name:id": "Provinsi Heredia",
+      "name:it": "Provincia di Heredia",
+      "name:ja": "エレディア州",
+      "name:ka": "ერედიის პროვინცია",
+      "name:ko": "에레디아 주",
+      "name:lt": "Heredijos provincija",
+      "name:nl": "Heredia",
+      "name:no": "Heredia",
+      "name:pl": "Heredia",
+      "name:pt": "Heredia",
+      "name:qu": "Heredia pruwinsya",
+      "name:ru": "Эредия",
+      "name:se": "Heredia",
+      "name:sr": "Ередија",
+      "name:sv": "Heredia",
+      "name:tr": "Heredia",
+      "name:uk": "Ередія",
+      "name:ur": "ایریدیا صوبہ",
+      "name:vi": "Heredia",
+      "name:zh": "埃雷迪亚省",
+      "alt_name": "Heredia",
+      "boundary": "administrative",
+      "way_area": "0.220464",
+      "wikidata": "Q502192",
+      "ISO3166-2": "CR-H",
+      "wikipedia": "de:Provinz Heredia",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -5698591,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3223056,-287667",
+    "name": "Cantón Pococí",
+    "local_name": "Cantón Pococí",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cantón Pococí",
+      "alt_name": "Pococí",
+      "boundary": "administrative",
+      "way_area": "0.180919",
+      "wikidata": "Q1852750",
+      "wikipedia": "en:Pococí (canton)",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -5597651,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3221947,-287667",
+    "name": "Cantón Sarapiquí",
+    "local_name": "Cantón Sarapiquí",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cantón Sarapiquí",
+      "alt_name": "Sarapiquí",
+      "boundary": "administrative",
+      "way_area": "0.177571",
+      "wikidata": "Q2610385",
+      "wikipedia": "en:Sarapiquí (canton)",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -5703339,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3223056,-287667",
+    "name": "Cantón Siquirres",
+    "local_name": "Cantón Siquirres",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cantón Siquirres",
+      "alt_name": "Siquirres",
+      "boundary": "administrative",
+      "way_area": "0.0707241",
+      "wikidata": "Q930152",
+      "wikipedia": "en:Siquirres (canton)",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -5675713,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3223004,-287667",
+    "name": "Cantón Alajuelita",
+    "local_name": "Cantón Alajuelita",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cantón Alajuelita",
+      "alt_name": "Alajuelita",
+      "boundary": "administrative",
+      "way_area": "0.00181463",
+      "wikidata": "Q200703",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -5994895,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3222933,-287667",
+    "name": "Cantón San Ramón",
+    "local_name": "Cantón San Ramón",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cantón San Ramón",
+      "alt_name": "San Ramón",
+      "boundary": "administrative",
+      "way_area": "0.0840705",
+      "wikidata": "Q1932227",
+      "wikipedia": "en:San Ramón (canton)",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -5708069,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3223056,-287667",
+    "name": "Cantón Matina",
+    "local_name": "Cantón Matina",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cantón Matina",
+      "alt_name": "Matina",
+      "boundary": "administrative",
+      "way_area": "0.0649601",
+      "wikidata": "Q2669000",
+      "wikipedia": "en:Matina (canton)",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -5730657,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3221947,-287667",
+    "name": "Cantón San Isidro",
+    "local_name": "Cantón San Isidro",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cantón San Isidro",
+      "alt_name": "San Isidro",
+      "boundary": "administrative",
+      "way_area": "0.00219731",
+      "wikidata": "Q2610270",
+      "wikipedia": "en:San Isidro (canton)",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -6153333,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3223004,-287667",
+    "name": "Cantón Puriscal",
+    "local_name": "Cantón Puriscal",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cantón Puriscal",
+      "alt_name": "Puriscal",
+      "boundary": "administrative",
+      "way_area": "0.0458792",
+      "wikidata": "Q196298",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -6145706,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3223028,-287667",
+    "name": "Cantón Quepos",
+    "local_name": "Cantón Quepos",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cantón Quepos",
+      "alt_name": "Quepos",
+      "boundary": "administrative",
+      "old_name": "Aguirre",
+      "way_area": "0.0458808",
+      "wikidata": "Q2610134",
+      "wikipedia": "en:Quepos (canton)",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -6195322,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3223054,-287667",
+    "name": "Cantón Paraíso",
+    "local_name": "Cantón Paraíso",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cantón Paraíso",
+      "alt_name": "Paraíso",
+      "boundary": "administrative",
+      "way_area": "0.039018",
+      "wikidata": "Q2618877",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -3223056,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-287667",
+    "name": "Limón Province",
+    "local_name": "Provincia Limón",
+    "name_en": "Limón Province",
+    "all_tags": {
+      "name": "Provincia Limón",
+      "place": "province",
+      "name:ar": "ليمون",
+      "name:bg": "Лимон",
+      "name:ca": "Província de Limón",
+      "name:cs": "Limón",
+      "name:da": "Limón",
+      "name:de": "Provinz Limón",
+      "name:el": "Επαρχία Λιμόν",
+      "name:en": "Limón Province",
+      "name:es": "Provincia Limón",
+      "name:fa": "استان لیمون",
+      "name:fi": "Limónin maakunta",
+      "name:fr": "Limón",
+      "name:he": "לימון",
+      "name:hr": "Limón",
+      "name:hy": "Լիմոն",
+      "name:id": "Provinsi Limón",
+      "name:it": "Provincia di Limón",
+      "name:ja": "リモン州",
+      "name:ka": "ლიმონის პროვინცია",
+      "name:ko": "리몬 주",
+      "name:lt": "Limono provincija",
+      "name:nl": "Limón",
+      "name:no": "Limón",
+      "name:pl": "Limón",
+      "name:pt": "Limón",
+      "name:qu": "Limón pruwinsya",
+      "name:ru": "Лимон",
+      "name:se": "Limón",
+      "name:sr": "Лимон",
+      "name:sv": "Limón",
+      "name:tr": "Limón",
+      "name:uk": "Лимон",
+      "name:ur": "لیمون صوبہ",
+      "name:vi": "Limón",
+      "name:zh": "利蒙省",
+      "alt_name": "Limón",
+      "boundary": "administrative",
+      "way_area": "1.1472",
+      "wikidata": "Q642644",
+      "ISO3166-2": "CR-L",
+      "wikipedia": "en:Limón Province",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -3222919,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-287667",
+    "name": "Provincia Guanacaste",
+    "local_name": "Provincia Guanacaste",
+    "name_en": null,
+    "all_tags": {
+      "name": "Provincia Guanacaste",
+      "place": "province",
+      "name:ar": "غواناكاسته",
+      "name:bg": "Гуанакасте",
+      "name:ca": "Província de Guanacaste",
+      "name:cs": "Guanacaste",
+      "name:da": "Guanacaste",
+      "name:de": "Provinz Guanacaste",
+      "name:el": "Επαρχία Γκουανακάστε",
+      "name:eo": "Provinco Guanacaste",
+      "name:es": "Provincia de Guanacaste",
+      "name:fa": "استان گواناکاسته",
+      "name:fi": "Guanacasten maakunta",
+      "name:fr": "Guanacaste",
+      "name:he": "גואנאקאסטה",
+      "name:hr": "Guanacaste",
+      "name:hy": "Գուանակաստե",
+      "name:id": "Provinsi Guanacaste",
+      "name:it": "Provincia di Guanacaste",
+      "name:ja": "グアナカステ州",
+      "name:ka": "გუანაკასტეს პროვინცია",
+      "name:ko": "과나카스테 주",
+      "name:lt": "Gvanakastės provincija",
+      "name:mr": "ग्वानाकास्ते प्रांत",
+      "name:nl": "Guanacaste",
+      "name:no": "Guanacaste",
+      "name:pl": "Guanacaste",
+      "name:pt": "Guanacaste",
+      "name:qu": "Guanacaste pruwinsya",
+      "name:ru": "Гуанакасте",
+      "name:se": "Guanacaste",
+      "name:sr": "Гванакасте",
+      "name:sv": "Guanacaste",
+      "name:tr": "Guanacaste",
+      "name:uk": "Гуанакасте",
+      "name:ur": "گواناکاستے صوبہ",
+      "name:vi": "Guanacaste",
+      "name:zh": "瓜纳卡斯特省",
+      "alt_name": "Guanacaste",
+      "boundary": "administrative",
+      "way_area": "1.37333",
+      "wikidata": "Q690026",
+      "ISO3166-2": "CR-G",
+      "wikipedia": "en:Guanacaste Province",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -3222933,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-287667",
+    "name": "Alajuela Province",
+    "local_name": "Provincia Alajuela",
+    "name_en": "Alajuela Province",
+    "all_tags": {
+      "name": "Provincia Alajuela",
+      "place": "province",
+      "name:ar": "الأخويلا",
+      "name:bg": "Алахуела",
+      "name:ca": "Província d'Alajuela",
+      "name:cs": "Alajuela",
+      "name:da": "Alajuela",
+      "name:de": "Provinz Alajuela",
+      "name:el": "Επαρχία Αλαχουέλα",
+      "name:en": "Alajuela Province",
+      "name:eo": "Provinco Alajuela",
+      "name:es": "Provincia de Alajuela",
+      "name:fa": "استان آلاخوئلا",
+      "name:fi": "Alajuelan maakunta",
+      "name:fr": "Alajuela",
+      "name:he": "אלחואלה",
+      "name:hr": "Alajuela",
+      "name:hy": "Ալախուելա",
+      "name:id": "Provinsi Alajuela",
+      "name:it": "Provincia di Alajuela",
+      "name:ja": "アラフエラ州",
+      "name:ka": "ალახუელის პროვინცია",
+      "name:ko": "알라후엘라 주",
+      "name:lt": "Alachuelos provincija",
+      "name:mr": "अलाहुएला प्रांत",
+      "name:nl": "Alajuela",
+      "name:no": "Alajuela",
+      "name:pl": "Alajuela",
+      "name:pt": "Alajuela",
+      "name:qu": "Alajuela suyu",
+      "name:ru": "Алахуэла",
+      "name:sd": "الاخويلا",
+      "name:se": "Alajuela",
+      "name:sr": "Алахуела",
+      "name:sv": "Alajuela",
+      "name:tr": "Alajuela",
+      "name:uk": "Алахуела",
+      "name:ur": "الاخویلا صوبہ",
+      "name:vi": "Alajuela",
+      "name:zh": "阿拉胡埃拉省",
+      "alt_name": "Alajuela",
+      "boundary": "administrative",
+      "way_area": "0.807146",
+      "wikidata": "Q502188",
+      "ISO3166-2": "CR-A",
+      "wikipedia": "de:Provinz Alajuela",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -6292178,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3223004,-287667",
+    "name": "Cantón Acosta",
+    "local_name": "Cantón Acosta",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cantón Acosta",
+      "alt_name": "Acosta",
+      "boundary": "administrative",
+      "way_area": "0.0282539",
+      "wikidata": "Q1935173",
+      "wikipedia": "en:Acosta (canton)",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -5720555,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3223028,-287667",
+    "name": "Cantón Esparza",
+    "local_name": "Cantón Esparza",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cantón Esparza",
+      "alt_name": "Esparza",
+      "boundary": "administrative",
+      "way_area": "0.0178412",
+      "wikidata": "Q2610122",
+      "wikipedia": "en:Esparza (canton)",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -4068814,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3223004,-287667",
+    "name": "Cantón Curridabat",
+    "local_name": "Cantón Curridabat",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cantón Curridabat",
+      "alt_name": "Curridabat",
+      "boundary": "administrative",
+      "way_area": "0.00132309",
+      "wikidata": "Q1935162",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -6153858,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3222919,-287667",
+    "name": "Cantón Santa Cruz",
+    "local_name": "Cantón Santa Cruz",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cantón Santa Cruz",
+      "alt_name": "Santa Cruz",
+      "boundary": "administrative",
+      "way_area": "0.108486",
+      "wikidata": "Q2291051",
+      "wikipedia": "en:Santa Cruz (canton), Costa Rica",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -5725526,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3222919,-287667",
+    "name": "Cantón Liberia",
+    "local_name": "Cantón Liberia",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cantón Liberia",
+      "alt_name": "Liberia",
+      "boundary": "administrative",
+      "way_area": "0.119408",
+      "wikidata": "Q31101",
+      "wikipedia": "en:Liberia (canton)",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -5995231,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3222933,-287667",
+    "name": "Cantón Zarcero",
+    "local_name": "Cantón Zarcero",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cantón Zarcero",
+      "alt_name": "Zarcero",
+      "boundary": "administrative",
+      "old_name": "Alfaro Ruíz",
+      "way_area": "0.0130056",
+      "wikidata": "Q12856942",
+      "wikipedia": "en:Zarcero (canton)",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -5708170,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3223056,-287667",
+    "name": "Cantón Talamanca",
+    "local_name": "Cantón Talamanca",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cantón Talamanca",
+      "alt_name": "Talamanca",
+      "boundary": "administrative",
+      "way_area": "0.227897",
+      "wikidata": "Q2669009",
+      "wikipedia": "en:Talamanca (canton)",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -4069041,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3223004,-287667",
+    "name": "Cantón San José",
+    "local_name": "Cantón San José",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cantón San José",
+      "capital": "yes",
+      "alt_name": "San José",
+      "boundary": "administrative",
+      "way_area": "0.00367835",
+      "wikidata": "Q2536213",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -5370093,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3221947,-287667",
+    "name": "Cantón Belén",
+    "local_name": "Cantón Belén",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cantón Belén",
+      "alt_name": "Belén",
+      "boundary": "administrative",
+      "way_area": "0.00101824",
+      "wikidata": "Q2613791",
+      "wikipedia": "en:Belén (canton)",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -6157583,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3223028,-287667",
+    "name": "Cantón Corredores",
+    "local_name": "Cantón Corredores",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cantón Corredores",
+      "alt_name": "Corredores",
+      "boundary": "administrative",
+      "way_area": "0.0511126",
+      "wikidata": "Q2610166",
+      "wikipedia": "en:Corredores (canton)",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -5672742,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3221947,-287667",
+    "name": "Cantón San Pablo",
+    "local_name": "Cantón San Pablo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cantón San Pablo",
+      "alt_name": "San Pablo",
+      "boundary": "administrative",
+      "way_area": "0.000686865",
+      "wikidata": "Q2610299",
+      "wikipedia": "en:San Pablo (canton)",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -6265593,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3223028,-287667",
+    "name": "Cantón Coto Brus",
+    "local_name": "Cantón Coto Brus",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cantón Coto Brus",
+      "alt_name": "Coto Brus",
+      "boundary": "administrative",
+      "way_area": "0.0767856",
+      "wikidata": "Q2610318",
+      "wikipedia": "en:Coto Brus (canton)",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -6195113,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3222919,-287667",
+    "name": "Cantón Hojancha",
+    "local_name": "Cantón Hojancha",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cantón Hojancha",
+      "alt_name": "Hojancha",
+      "boundary": "administrative",
+      "way_area": "0.0216328",
+      "wikidata": "Q2518200",
+      "wikipedia": "en:Hojancha (canton)",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -6194683,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3222919,-287667",
+    "name": "Cantón Nandayure",
+    "local_name": "Cantón Nandayure",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cantón Nandayure",
+      "alt_name": "Nandayure",
+      "boundary": "administrative",
+      "way_area": "0.0469413",
+      "wikidata": "Q2518031",
+      "wikipedia": "en:Nandayure (canton)",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -5675483,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3223054,-287667",
+    "name": "Cantón Oreamuno",
+    "local_name": "Cantón Oreamuno",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cantón Oreamuno",
+      "alt_name": "Oreamuno",
+      "boundary": "administrative",
+      "way_area": "0.0160982",
+      "wikidata": "Q936794",
+      "wikipedia": "en:Oreamuno (canton)",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -6268475,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3223028,-287667",
+    "name": "Cantón Buenos Aires",
+    "local_name": "Cantón Buenos Aires",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cantón Buenos Aires",
+      "alt_name": "Buenos Aires",
+      "boundary": "administrative",
+      "way_area": "0.200133",
+      "wikidata": "Q2669006",
+      "wikipedia": "en:Buenos Aires (canton)",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -5657065,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3222933,-287667",
+    "name": "Cantón Sarchí",
+    "local_name": "Cantón Sarchí",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cantón Sarchí",
+      "boundary": "administrative",
+      "old_name": "Valverde Vega",
+      "way_area": "0.0112505",
+      "wikidata": "Q2610105",
+      "wikipedia": "en:Sarchí (canton)",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -6150952,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3223028,-287667",
+    "name": "Cantón Montes de Oro",
+    "local_name": "Cantón Montes de Oro",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cantón Montes de Oro",
+      "alt_name": "Montes de Oro",
+      "boundary": "administrative",
+      "way_area": "0.0204271",
+      "wikidata": "Q369259",
+      "wikipedia": "en:Montes de Oro (canton)",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -5692182,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3223054,-287667",
+    "name": "Cantón El Guarco",
+    "local_name": "Cantón El Guarco",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cantón El Guarco",
+      "alt_name": "El Guarco",
+      "boundary": "administrative",
+      "way_area": "0.0143083",
+      "wikidata": "Q2614085",
+      "wikipedia": "en:El Guarco (canton)",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -6200642,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3223004,-287667",
+    "name": "Cantón Pérez Zeledón",
+    "local_name": "Cantón Pérez Zeledón",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cantón Pérez Zeledón",
+      "alt_name": "Pérez Zeledón",
+      "boundary": "administrative",
+      "way_area": "0.156286",
+      "wikidata": "Q196254",
+      "wikipedia": "en:Pérez Zeledón (canton)",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -6157562,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3222919,-287667",
+    "name": "Cantón Tilarán",
+    "local_name": "Cantón Tilarán",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cantón Tilarán",
+      "alt_name": "Tilarán",
+      "boundary": "administrative",
+      "way_area": "0.0551955",
+      "wikidata": "Q2517654",
+      "wikipedia": "en:Tilarán (canton)",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -6156048,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3222919,-287667",
+    "name": "Cantón Bagaces",
+    "local_name": "Cantón Bagaces",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cantón Bagaces",
+      "alt_name": "Bagaces",
+      "boundary": "administrative",
+      "way_area": "0.105571",
+      "wikidata": "Q647978",
+      "wikipedia": "en:Bagaces (canton)",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -5726574,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3222919,-287667",
+    "name": "Cantón Carrillo",
+    "local_name": "Cantón Carrillo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cantón Carrillo",
+      "alt_name": "Carrillo",
+      "boundary": "administrative",
+      "way_area": "0.0494054",
+      "wikidata": "Q2517601",
+      "wikipedia": "en:Carrillo (canton)",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -5726504,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3222919,-287667",
+    "name": "Cantón La Cruz",
+    "local_name": "Cantón La Cruz",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cantón La Cruz",
+      "alt_name": "La Cruz",
+      "boundary": "administrative",
+      "way_area": "0.114671",
+      "wikidata": "Q2518042",
+      "wikipedia": "en:La Cruz (canton)",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -5416054,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3223004,-287667",
+    "name": "Cantón Vázquez de Coronado",
+    "local_name": "Cantón Vázquez de Coronado",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cantón Vázquez de Coronado",
+      "alt_name": "Vázquez de Coronado",
+      "boundary": "administrative",
+      "way_area": "0.0183928",
+      "wikidata": "Q1935116",
+      "wikipedia": "en:Vásquez de Coronado (canton)",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -6196749,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3223028,-287667",
+    "name": "Cantón Osa",
+    "local_name": "Cantón Osa",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cantón Osa",
+      "alt_name": "Osa",
+      "boundary": "administrative",
+      "way_area": "0.158646",
+      "wikidata": "Q2610114",
+      "wikipedia": "en:Osa (canton)",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -6145859,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3223028,-287667",
+    "name": "Cantón Parrita",
+    "local_name": "Cantón Parrita",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cantón Parrita",
+      "alt_name": "Parrita",
+      "boundary": "administrative",
+      "way_area": "0.0395371",
+      "wikidata": "Q2610144",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -6193517,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3222933,-287667",
+    "name": "Cantón Guatuso",
+    "local_name": "Cantón Guatuso",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cantón Guatuso",
+      "alt_name": "Guatuso",
+      "boundary": "administrative",
+      "way_area": "0.0625248",
+      "wikidata": "Q1189935",
+      "wikipedia": "en:Guatuso (canton)",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -6195387,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3223054,-287667",
+    "name": "Cantón Turrialba",
+    "local_name": "Cantón Turrialba",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cantón Turrialba",
+      "alt_name": "Turrialba",
+      "boundary": "administrative",
+      "way_area": "0.131362",
+      "wikidata": "Q2610150",
+      "wikipedia": "en:Turrialba (canton)",
+      "admin_level": "6",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "osm_id": -6263891,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3223028,-287667",
+    "name": "Cantón Golfito",
+    "local_name": "Cantón Golfito",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cantón Golfito",
+      "alt_name": "Golfito",
+      "boundary": "administrative",
+      "way_area": "0.143652",
+      "wikidata": "Q2610281",
+      "wikipedia": "en:Golfito (canton)",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -5708171,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3223056,-287667",
+    "name": "Cantón Limón",
+    "local_name": "Cantón Limón",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cantón Limón",
+      "alt_name": "Limón",
+      "boundary": "administrative",
+      "way_area": "0.14447",
+      "wikidata": "Q2668993",
+      "wikipedia": "en:Limón (canton)",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -5697661,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3223004,-287667",
+    "name": "Cantón Tarrazú",
+    "local_name": "Cantón Tarrazú",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cantón Tarrazú",
+      "alt_name": "Tarrazú",
+      "boundary": "administrative",
+      "way_area": "0.0238671",
+      "wikidata": "Q196260",
+      "wikipedia": "en:Tarrazú (canton)",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -6195190,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3222919,-287667",
+    "name": "Cantón Nicoya",
+    "local_name": "Cantón Nicoya",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cantón Nicoya",
+      "alt_name": "Nicoya",
+      "boundary": "administrative",
+      "way_area": "0.110693",
+      "wikidata": "Q3656199",
+      "wikipedia": "en:Nicoya (canton)",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -5700770,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3223056,-287667",
+    "name": "Cantón Guácimo",
+    "local_name": "Cantón Guácimo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cantón Guácimo",
+      "alt_name": "Guácimo",
+      "boundary": "administrative",
+      "way_area": "0.0656999",
+      "wikidata": "Q609975",
+      "wikipedia": "en:Guácimo (canton)",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -5657109,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3223004,-287667",
+    "name": "Cantón Santa Ana",
+    "local_name": "Cantón Santa Ana",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cantón Santa Ana",
+      "alt_name": "Santa Ana",
+      "boundary": "administrative",
+      "way_area": "0.00502055",
+      "wikidata": "Q1935190",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -5670537,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3221947,-287667",
+    "name": "Cantón Barva",
+    "local_name": "Cantón Barva",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cantón Barva",
+      "alt_name": "Barva",
+      "boundary": "administrative",
+      "way_area": "0.00461537",
+      "wikidata": "Q2614093",
+      "wikipedia": "en:Barva (canton)",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12951635,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3223028,-287667",
+    "name": "Cantón Monteverde",
+    "local_name": "Cantón Monteverde",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cantón Monteverde",
+      "boundary": "administrative",
+      "way_area": "0.00440384",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -5668081,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3221947,-287667",
+    "name": "Cantón Santa Bárbara",
+    "local_name": "Cantón Santa Bárbara",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cantón Santa Bárbara",
+      "alt_name": "Santa Bárbara",
+      "boundary": "administrative",
+      "way_area": "0.00431342",
+      "wikidata": "Q2610157",
+      "wikipedia": "en:Santa Bárbara (canton)",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -5731159,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3221947,-287667",
+    "name": "Cantón San Rafael",
+    "local_name": "Cantón San Rafael",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cantón San Rafael",
+      "alt_name": "San Rafael",
+      "boundary": "administrative",
+      "way_area": "0.00397593",
+      "wikidata": "Q587080",
+      "wikipedia": "en:San Rafael (canton)",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -5413515,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3223054,-287667",
+    "name": "Cantón La Unión",
+    "local_name": "Cantón La Unión",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cantón La Unión",
+      "alt_name": "La Unión",
+      "boundary": "administrative",
+      "way_area": "0.00362259",
+      "wikidata": "Q2610394",
+      "wikipedia": "en:La Unión (canton)",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -5654789,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3222933,-287667",
+    "name": "Cantón Palmares",
+    "local_name": "Cantón Palmares",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cantón Palmares",
+      "alt_name": "Palmares",
+      "boundary": "administrative",
+      "way_area": "0.00321212",
+      "wikidata": "Q2610139",
+      "wikipedia": "en:Palmares (canton)",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -4071270,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3223004,-287667",
+    "name": "Cantón Escazú",
+    "local_name": "Cantón Escazú",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cantón Escazú",
+      "alt_name": "Escazú",
+      "boundary": "administrative",
+      "way_area": "0.00285195",
+      "wikidata": "Q2221760",
+      "wikipedia": "en:Escazú (canton)",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -6156366,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3222919,-287667",
+    "name": "Cantón Cañas",
+    "local_name": "Cantón Cañas",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cantón Cañas",
+      "alt_name": "Cañas",
+      "boundary": "administrative",
+      "way_area": "0.0569005",
+      "wikidata": "Q2225426",
+      "wikipedia": "en:Cañas (canton)",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -5370094,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3221947,-287667",
+    "name": "Cantón Flores",
+    "local_name": "Cantón Flores",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cantón Flores",
+      "alt_name": "Flores",
+      "boundary": "administrative",
+      "way_area": "0.00055511",
+      "wikidata": "Q2610307",
+      "wikipedia": "en:Flores (canton)",
+      "admin_level": "6"
+    }
+  }
+]

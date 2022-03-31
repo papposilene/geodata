@@ -1,0 +1,768 @@
+[
+  {
+    "osm_id": -7318716,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-195269",
+    "name": "Rumonge",
+    "local_name": "Rumonge",
+    "name_en": null,
+    "all_tags": {
+      "name": "Rumonge",
+      "boundary": "administrative",
+      "way_area": "0.0858943",
+      "wikidata": "Q20669646",
+      "ISO3166-2": "BI-RM",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -2985871,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1700331,-195269",
+    "name": "Tangara",
+    "local_name": "Tangara",
+    "name_en": null,
+    "all_tags": {
+      "name": "Tangara",
+      "boundary": "administrative",
+      "way_area": "0.0164303",
+      "wikidata": "Q5154044",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -2985870,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1700331,-195269",
+    "name": "Ruhororo",
+    "local_name": "Ruhororo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ruhororo",
+      "boundary": "administrative",
+      "way_area": "0.0126121",
+      "wikidata": "Q5154038",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -2985869,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1700331,-195269",
+    "name": "Nyamurenza",
+    "local_name": "Nyamurenza",
+    "name_en": null,
+    "all_tags": {
+      "name": "Nyamurenza",
+      "boundary": "administrative",
+      "way_area": "0.00758095",
+      "wikidata": "Q5154034",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -2985868,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1700331,-195269",
+    "name": "Ngozi",
+    "local_name": "Ngozi",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ngozi",
+      "boundary": "administrative",
+      "way_area": "0.0146456",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -2985867,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1700331,-195269",
+    "name": "Mwumba",
+    "local_name": "Mwumba",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mwumba",
+      "boundary": "administrative",
+      "way_area": "0.00965427",
+      "wikidata": "Q5154031",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -2985866,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1700331,-195269",
+    "name": "Marangara",
+    "local_name": "Marangara",
+    "name_en": null,
+    "all_tags": {
+      "name": "Marangara",
+      "boundary": "administrative",
+      "way_area": "0.0138309",
+      "wikidata": "Q5154023",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -2985865,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1700331,-195269",
+    "name": "Kiremba",
+    "local_name": "Kiremba",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kiremba",
+      "boundary": "administrative",
+      "way_area": "0.0183774",
+      "wikidata": "Q5154020",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -2985864,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1700331,-195269",
+    "name": "Gashikanwa",
+    "local_name": "Gashikanwa",
+    "name_en": null,
+    "all_tags": {
+      "name": "Gashikanwa",
+      "boundary": "administrative",
+      "way_area": "0.0105967",
+      "wikidata": "Q5154004",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -2985863,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1700331,-195269",
+    "name": "Busiga",
+    "local_name": "Busiga",
+    "name_en": null,
+    "all_tags": {
+      "name": "Busiga",
+      "boundary": "administrative",
+      "way_area": "0.00970569",
+      "wikidata": "Q5153996",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -2985730,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1695104,-195269",
+    "name": "Mishiha",
+    "local_name": "Mishiha",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mishiha",
+      "boundary": "administrative",
+      "way_area": "0.0295179",
+      "wikidata": "Q3372722",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -2985729,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1695104,-195269",
+    "name": "Kigamba",
+    "local_name": "Kigamba",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kigamba",
+      "boundary": "administrative",
+      "way_area": "0.043596",
+      "wikidata": "Q3372670",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -2985728,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1695104,-195269",
+    "name": "Gisagara",
+    "local_name": "Gisagara",
+    "name_en": null,
+    "all_tags": {
+      "name": "Gisagara",
+      "boundary": "administrative",
+      "way_area": "0.0265016",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -2985727,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1695104,-195269",
+    "name": "Cendajuru",
+    "local_name": "Cendajuru",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cendajuru",
+      "boundary": "administrative",
+      "way_area": "0.0145111",
+      "wikidata": "Q3372821",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -2985726,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1695104,-195269",
+    "name": "Cankuzo",
+    "local_name": "Cankuzo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cankuzo",
+      "boundary": "administrative",
+      "way_area": "0.0384644",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -2985690,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1700329,-195269",
+    "name": "Vumbi",
+    "local_name": "Vumbi",
+    "name_en": null,
+    "all_tags": {
+      "name": "Vumbi",
+      "boundary": "administrative",
+      "way_area": "0.0161161",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -2985689,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1700329,-195269",
+    "name": "Ntega",
+    "local_name": "Ntega",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ntega",
+      "boundary": "administrative",
+      "way_area": "0.0201254",
+      "wikidata": "Q4453816",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -2985688,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1700329,-195269",
+    "name": "Kirundo",
+    "local_name": "Kirundo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kirundo",
+      "boundary": "administrative",
+      "way_area": "0.0180102",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -2985687,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1700329,-195269",
+    "name": "Gitobe",
+    "local_name": "Gitobe",
+    "name_en": null,
+    "all_tags": {
+      "name": "Gitobe",
+      "boundary": "administrative",
+      "way_area": "0.0138529",
+      "wikidata": "Q4453863",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -2985686,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1700329,-195269",
+    "name": "Bwambarangwe",
+    "local_name": "Bwambarangwe",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bwambarangwe",
+      "boundary": "administrative",
+      "way_area": "0.0153537",
+      "wikidata": "Q4453823",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -2985685,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1700329,-195269",
+    "name": "Busoni",
+    "local_name": "Busoni",
+    "name_en": null,
+    "all_tags": {
+      "name": "Busoni",
+      "boundary": "administrative",
+      "way_area": "0.0417022",
+      "wikidata": "Q5153999",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -2985684,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1700329,-195269",
+    "name": "Bugabira",
+    "local_name": "Bugabira",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bugabira",
+      "boundary": "administrative",
+      "way_area": "0.0197109",
+      "wikidata": "Q5153992",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -2985570,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1700330,-195269",
+    "name": "Mwakiro",
+    "local_name": "Mwakiro",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mwakiro",
+      "boundary": "administrative",
+      "way_area": "0.0135701",
+      "wikidata": "Q5154030",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -2985569,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1700330,-195269",
+    "name": "Gasorwe",
+    "local_name": "Gasorwe",
+    "name_en": null,
+    "all_tags": {
+      "name": "Gasorwe",
+      "boundary": "administrative",
+      "way_area": "0.0143859",
+      "wikidata": "Q5154007",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -2985568,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1700330,-195269",
+    "name": "Gashoho",
+    "local_name": "Gashoho",
+    "name_en": null,
+    "all_tags": {
+      "name": "Gashoho",
+      "boundary": "administrative",
+      "way_area": "0.0122874",
+      "wikidata": "Q5154005",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -2985567,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1700330,-195269",
+    "name": "Butihinda",
+    "local_name": "Butihinda",
+    "name_en": null,
+    "all_tags": {
+      "name": "Butihinda",
+      "boundary": "administrative",
+      "way_area": "0.0224697",
+      "wikidata": "Q5154001",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -2985566,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1700330,-195269",
+    "name": "Buhinyuza",
+    "local_name": "Buhinyuza",
+    "name_en": null,
+    "all_tags": {
+      "name": "Buhinyuza",
+      "boundary": "administrative",
+      "way_area": "0.0226714",
+      "wikidata": "Q5153993",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -2985428,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1700330,-195269",
+    "name": "Muyinga",
+    "local_name": "Muyinga",
+    "name_en": null,
+    "all_tags": {
+      "name": "Muyinga",
+      "boundary": "administrative",
+      "way_area": "0.0296995",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -2985427,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1700330,-195269",
+    "name": "Giteranyi",
+    "local_name": "Giteranyi",
+    "name_en": null,
+    "all_tags": {
+      "name": "Giteranyi",
+      "boundary": "administrative",
+      "way_area": "0.0296375",
+      "wikidata": "Q5154014",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -1700331,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-195269",
+    "name": "Ngozi",
+    "local_name": "Ngozi",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ngozi",
+      "boundary": "administrative",
+      "way_area": "0.113434",
+      "wikidata": "Q720852",
+      "ISO3166-2": "BI-NG",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -1700330,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-195269",
+    "name": "Muyinga",
+    "local_name": "Muyinga",
+    "name_en": null,
+    "all_tags": {
+      "name": "Muyinga",
+      "boundary": "administrative",
+      "way_area": "0.144721",
+      "wikidata": "Q822571",
+      "ISO3166-2": "BI-MY",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -1700329,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-195269",
+    "name": "Kirundo",
+    "local_name": "Kirundo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kirundo",
+      "boundary": "administrative",
+      "way_area": "0.144871",
+      "wikidata": "Q600840",
+      "ISO3166-2": "BI-KI",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -1700328,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-195269",
+    "name": "Karuzi",
+    "local_name": "Karuzi",
+    "name_en": null,
+    "all_tags": {
+      "name": "Karuzi",
+      "boundary": "administrative",
+      "way_area": "0.114502",
+      "wikidata": "Q735463",
+      "ISO3166-2": "BI-KR",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -1700324,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-195269",
+    "name": "Gitega",
+    "local_name": "Gitega",
+    "name_en": null,
+    "all_tags": {
+      "name": "Gitega",
+      "name:ar": "غيتيغا",
+      "name:de": "Gitega",
+      "name:el": "Γκιτέγκα",
+      "name:fa": "گیتگا",
+      "name:fr": "Gitega",
+      "name:ks": "گیتیگا",
+      "name:ur": "گیتیگا",
+      "boundary": "administrative",
+      "name:azb": "قیتقا",
+      "way_area": "0.154636",
+      "wikidata": "Q720843",
+      "ISO3166-2": "BI-GI",
+      "wikipedia": "fr:Province de Gitega",
+      "admin_level": "4",
+      "name:az-Arab": "قیتقا",
+      "official_name": "Province de Gitega",
+      "official_name:ar": "إقليم غيتيغا",
+      "official_name:de": "Provinz Gitega",
+      "official_name:fa": "استان گیتگا",
+      "official_name:fr": "Province de Gitega",
+      "official_name:ur": "گیتیگا صوبہ"
+    }
+  },
+  {
+    "osm_id": -1700318,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-195269",
+    "name": "Mwaro",
+    "local_name": "Mwaro",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mwaro",
+      "boundary": "administrative",
+      "way_area": "0.0658903",
+      "wikidata": "Q847718",
+      "ISO3166-2": "BI-MW",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -1700317,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-195269",
+    "name": "Muramvya",
+    "local_name": "Muramvya",
+    "name_en": null,
+    "all_tags": {
+      "name": "Muramvya",
+      "name:ru": "Мурамвья",
+      "boundary": "administrative",
+      "way_area": "0.0548799",
+      "wikidata": "Q671086",
+      "ISO3166-2": "BI-MU",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -1700316,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-195269",
+    "name": "Kayanza",
+    "local_name": "Kayanza",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kayanza",
+      "name:ru": "Каянза",
+      "boundary": "administrative",
+      "way_area": "0.0963858",
+      "wikidata": "Q720848",
+      "ISO3166-2": "BI-KY",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -1700315,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-195269",
+    "name": "Cibitoke",
+    "local_name": "Cibitoke",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cibitoke",
+      "boundary": "administrative",
+      "way_area": "0.127011",
+      "wikidata": "Q505596",
+      "ISO3166-2": "BI-CI",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -1700314,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-195269",
+    "name": "Bubanza",
+    "local_name": "Bubanza",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bubanza",
+      "boundary": "administrative",
+      "way_area": "0.0852614",
+      "wikidata": "Q460538",
+      "ISO3166-2": "BI-BB",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -1695105,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-195269",
+    "name": "Ruyigi",
+    "local_name": "Ruyigi",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ruyigi",
+      "boundary": "administrative",
+      "way_area": "0.184051",
+      "wikidata": "Q822578",
+      "ISO3166-2": "BI-RY",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -1695104,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-195269",
+    "name": "Cankuzo",
+    "local_name": "Cankuzo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cankuzo",
+      "boundary": "administrative",
+      "way_area": "0.152591",
+      "wikidata": "Q645033",
+      "ISO3166-2": "BI-CA",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -1695020,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-195269",
+    "name": "Rutana",
+    "local_name": "Rutana",
+    "name_en": null,
+    "all_tags": {
+      "name": "Rutana",
+      "boundary": "administrative",
+      "way_area": "0.151165",
+      "wikidata": "Q822566",
+      "ISO3166-2": "BI-RT",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -1695019,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-195269",
+    "name": "Makamba",
+    "local_name": "Makamba",
+    "name_en": null,
+    "all_tags": {
+      "name": "Makamba",
+      "boundary": "administrative",
+      "way_area": "0.153233",
+      "wikidata": "Q823740",
+      "ISO3166-2": "BI-MA",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -1695014,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-195269",
+    "name": "Bururi",
+    "local_name": "Bururi",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bururi",
+      "boundary": "administrative",
+      "way_area": "0.129744",
+      "wikidata": "Q431385",
+      "ISO3166-2": "BI-BR",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -1695013,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-195269",
+    "name": "Bujumbura Rural",
+    "local_name": "Bujumbura Rural",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bujumbura Rural",
+      "boundary": "administrative",
+      "way_area": "0.0734654",
+      "wikidata": "Q645043",
+      "ISO3166-2": "BI-BL",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -1694988,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-195269",
+    "name": "Bujumbura Mairie",
+    "local_name": "Bujumbura Mairie",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bujumbura Mairie",
+      "boundary": "administrative",
+      "way_area": "0.00880973",
+      "wikidata": "Q1816580",
+      "ISO3166-2": "BI-BM",
+      "admin_level": "4"
+    }
+  }
+]

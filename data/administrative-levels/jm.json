@@ -1,0 +1,316 @@
+[
+  {
+    "osm_id": -6577862,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1637039,-555017",
+    "name": "Saint Andrew",
+    "local_name": "Saint Andrew",
+    "name_en": null,
+    "all_tags": {
+      "name": "Saint Andrew",
+      "boundary": "administrative",
+      "way_area": "0.0377213",
+      "wikidata": "Q2212935",
+      "ISO3166-2": "JM-02",
+      "wikipedia": "en:Saint Andrew Parish, Jamaica",
+      "short_name": "St. Andrew",
+      "admin_level": "6",
+      "official_name": "Saint Andrew Parish"
+    }
+  },
+  {
+    "osm_id": -6577227,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1637039,-555017",
+    "name": "Kingston",
+    "local_name": "Kingston",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kingston",
+      "boundary": "administrative",
+      "way_area": "0.00139737",
+      "wikidata": "Q1473680",
+      "ISO3166-2": "JM-01",
+      "wikipedia": "en:Kingston Parish",
+      "admin_level": "6",
+      "official_name": "Kingston Parish"
+    }
+  },
+  {
+    "osm_id": -1637039,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-555017",
+    "name": "Surrey County",
+    "local_name": "Surrey County",
+    "name_en": null,
+    "all_tags": {
+      "name": "Surrey County",
+      "boundary": "administrative",
+      "way_area": "0.17174",
+      "wikidata": "Q651453",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -1637038,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1637034,-555017",
+    "name": "Manchester",
+    "local_name": "Manchester",
+    "name_en": null,
+    "all_tags": {
+      "name": "Manchester",
+      "boundary": "administrative",
+      "way_area": "0.0729492",
+      "wikidata": "Q920496",
+      "ISO3166-2": "JM-12",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -1637037,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1637034,-555017",
+    "name": "Saint Catherine",
+    "local_name": "Saint Catherine",
+    "name_en": null,
+    "all_tags": {
+      "name": "Saint Catherine",
+      "boundary": "administrative",
+      "way_area": "0.104822",
+      "wikidata": "Q1473663",
+      "ISO3166-2": "JM-14",
+      "short_name": "St. Catherine",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -1637036,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-555017",
+    "name": "Cornwall County",
+    "local_name": "Cornwall County",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cornwall County",
+      "boundary": "administrative",
+      "way_area": "0.331668",
+      "wikidata": "Q1134343",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -1637035,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1637034,-555017",
+    "name": "Clarendon",
+    "local_name": "Clarendon",
+    "name_en": null,
+    "all_tags": {
+      "name": "Clarendon",
+      "boundary": "administrative",
+      "way_area": "0.0962891",
+      "wikidata": "Q1095557",
+      "ISO3166-2": "JM-13",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -1637034,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-555017",
+    "name": "Middlesex County",
+    "local_name": "Middlesex County",
+    "name_en": null,
+    "all_tags": {
+      "name": "Middlesex County",
+      "boundary": "administrative",
+      "way_area": "0.432911",
+      "wikidata": "Q174765",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -319362,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1637039,-555017",
+    "name": "Saint Thomas",
+    "local_name": "Saint Thomas",
+    "name_en": null,
+    "all_tags": {
+      "name": "Saint Thomas",
+      "boundary": "administrative",
+      "way_area": "0.0630113",
+      "wikidata": "Q1422332",
+      "ISO3166-2": "JM-03",
+      "short_name": "St. Thomas",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -319355,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1637039,-555017",
+    "name": "Kingston and Saint Andrew Corporation",
+    "local_name": "Kingston and Saint Andrew Corporation",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kingston and Saint Andrew Corporation",
+      "boundary": "administrative",
+      "way_area": "0.0391187",
+      "wikidata": "Q2212935",
+      "short_name": "KSAC",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -319352,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1637036,-555017",
+    "name": "Saint Elizabeth",
+    "local_name": "Saint Elizabeth",
+    "name_en": null,
+    "all_tags": {
+      "name": "Saint Elizabeth",
+      "boundary": "administrative",
+      "way_area": "0.0986166",
+      "wikidata": "Q1473646",
+      "ISO3166-2": "JM-11",
+      "short_name": "St. Elizabeth",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -319351,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1637036,-555017",
+    "name": "Westmoreland",
+    "local_name": "Westmoreland",
+    "name_en": null,
+    "all_tags": {
+      "name": "Westmoreland",
+      "boundary": "administrative",
+      "way_area": "0.0671583",
+      "wikidata": "Q1440250",
+      "ISO3166-2": "JM-10",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -319347,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1637036,-555017",
+    "name": "Hanover",
+    "local_name": "Hanover",
+    "name_en": null,
+    "all_tags": {
+      "name": "Hanover",
+      "boundary": "administrative",
+      "way_area": "0.0383522",
+      "wikidata": "Q1131779",
+      "ISO3166-2": "JM-09",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -319345,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1637036,-555017",
+    "name": "Saint James",
+    "local_name": "Saint James",
+    "name_en": null,
+    "all_tags": {
+      "name": "Saint James",
+      "boundary": "administrative",
+      "way_area": "0.0506084",
+      "wikidata": "Q1421939",
+      "ISO3166-2": "JM-08",
+      "short_name": "St. James",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -319344,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1637039,-555017",
+    "name": "Portland",
+    "local_name": "Portland",
+    "name_en": null,
+    "all_tags": {
+      "name": "Portland",
+      "boundary": "administrative",
+      "way_area": "0.0696098",
+      "wikidata": "Q125148",
+      "ISO3166-2": "JM-04",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -319343,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1637034,-555017",
+    "name": "Saint Mary",
+    "local_name": "Saint Mary",
+    "name_en": null,
+    "all_tags": {
+      "name": "Saint Mary",
+      "boundary": "administrative",
+      "way_area": "0.0524025",
+      "wikidata": "Q633565",
+      "ISO3166-2": "JM-05",
+      "short_name": "St. Mary",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -319341,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1637036,-555017",
+    "name": "Trelawny",
+    "local_name": "Trelawny",
+    "name_en": null,
+    "all_tags": {
+      "name": "Trelawny",
+      "boundary": "administrative",
+      "way_area": "0.0769328",
+      "wikidata": "Q1123340",
+      "ISO3166-2": "JM-07",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -319340,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1637034,-555017",
+    "name": "Saint Ann",
+    "local_name": "Saint Ann",
+    "name_en": null,
+    "all_tags": {
+      "name": "Saint Ann",
+      "boundary": "administrative",
+      "way_area": "0.106449",
+      "wikidata": "Q1326284",
+      "ISO3166-2": "JM-06",
+      "short_name": "St. Ann",
+      "admin_level": "6"
+    }
+  }
+]
