@@ -239,6 +239,7 @@ abstract class TestCase extends Orchestra
             'region_cca2' => 'FR-IDF',
             'osm_place_id' => -8649,
             'admin_level' => 4,
+            'boundary' => 'administrative',
             'name_loc' => 'Île-de-France',
             'name_eng' => 'Ile-de-France',
             'name_translations' => json_encode([
