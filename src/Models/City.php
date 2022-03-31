@@ -27,7 +27,6 @@ class City extends Model
      */
     protected $casts = [
         //'uuid' => 'uuid',
-        'postcodes' => 'array',
         'extra' => 'array',
     ];
 
