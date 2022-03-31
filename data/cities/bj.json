@@ -1,0 +1,115 @@
+[
+  {
+    "osm_id": -11344388,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3157899,-2851879,-2848206,-192784",
+    "name": "Dandji",
+    "local_name": "Dandji",
+    "name_en": null,
+    "all_tags": {
+      "name": "Dandji",
+      "boundary": "administrative",
+      "way_area": "4.61544e-05",
+      "admin_level": "8",
+      "description:fr": "Quartier de ville dans le 1er Arrondissement de la Ville de Cotonou"
+    }
+  },
+  {
+    "osm_id": -11344334,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3157899,-2851879,-2848206,-192784",
+    "name": "Tanto",
+    "local_name": "Tanto",
+    "name_en": null,
+    "all_tags": {
+      "name": "Tanto",
+      "boundary": "administrative",
+      "way_area": "5.7171e-05",
+      "admin_level": "8",
+      "description:fr": "Quartier de ville dans le 1er Arrondissement de la Ville de Cotonou"
+    }
+  },
+  {
+    "osm_id": -11343902,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3157899,-2851879,-2848206,-192784",
+    "name": "Yagbé",
+    "local_name": "Yagbé",
+    "name_en": null,
+    "all_tags": {
+      "name": "Yagbé",
+      "boundary": "administrative",
+      "way_area": "3.31899e-05",
+      "admin_level": "8",
+      "description:fr": "Quartier de ville dans le 1er Arrondissement de la Ville de Cotonou"
+    }
+  },
+  {
+    "osm_id": -11343378,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3157899,-2851879,-2848206,-192784",
+    "name": "N'vènamèdé",
+    "local_name": "N'vènamèdé",
+    "name_en": null,
+    "all_tags": {
+      "name": "N'vènamèdé",
+      "boundary": "administrative",
+      "way_area": "5.25996e-05",
+      "admin_level": "8",
+      "description:fr": "Quartier de ville dans le 1er Arrondissement de la Ville de Cotonou"
+    }
+  },
+  {
+    "osm_id": -11343073,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3157899,-2851879,-2848206,-192784",
+    "name": "Donaten",
+    "local_name": "Donaten",
+    "name_en": null,
+    "all_tags": {
+      "name": "Donaten",
+      "alt_name": "Donatin",
+      "boundary": "administrative",
+      "way_area": "6.9979e-05",
+      "admin_level": "8",
+      "description:fr": "Quartier de ville dans le 1er Arrondissement de la Ville de Cotonou"
+    }
+  },
+  {
+    "osm_id": -11342818,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3157899,-2851879,-2848206,-192784",
+    "name": "Finagnon",
+    "local_name": "Finagnon",
+    "name_en": null,
+    "all_tags": {
+      "name": "Finagnon",
+      "boundary": "administrative",
+      "way_area": "9.66518e-05",
+      "admin_level": "8",
+      "description:fr": "Quartier de ville dans le 1er Arrondissement de la Ville de Cotonou"
+    }
+  },
+  {
+    "osm_id": -11342558,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-3157899,-2851879,-2848206,-192784",
+    "name": "Tokplégbé",
+    "local_name": "Tokplégbé",
+    "name_en": null,
+    "all_tags": {
+      "name": "Tokplégbé",
+      "boundary": "administrative",
+      "way_area": "0.000128162",
+      "admin_level": "8",
+      "description:fr": "Quartier de ville dans le 1er Arrondissement de la Ville de Cotonou"
+    }
+  }
+]

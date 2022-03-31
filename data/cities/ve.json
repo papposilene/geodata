@@ -1,0 +1,2621 @@
+[
+  {
+    "osm_id": -13502995,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2595368,-11039541,-2269155,-272644",
+    "name": "La Filomena",
+    "local_name": "La Filomena",
+    "name_en": null,
+    "all_tags": {
+      "name": "La Filomena",
+      "boundary": "administrative",
+      "way_area": "0.000179319",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13080628,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2541845,-5749568,-272671,-272644",
+    "name": "Boca de Guayabo Sur",
+    "local_name": "Boca de Guayabo Sur",
+    "name_en": null,
+    "all_tags": {
+      "name": "Boca de Guayabo Sur",
+      "boundary": "administrative",
+      "way_area": "3.53671e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13080627,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2541845,-5749568,-272671,-272644",
+    "name": "Boca de Guayabo Este",
+    "local_name": "Boca de Guayabo Este",
+    "name_en": null,
+    "all_tags": {
+      "name": "Boca de Guayabo Este",
+      "boundary": "administrative",
+      "way_area": "3.39243e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13080626,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2541845,-5749568,-272671,-272644",
+    "name": "Río Blanco Arriba",
+    "local_name": "Río Blanco Arriba",
+    "name_en": null,
+    "all_tags": {
+      "name": "Río Blanco Arriba",
+      "boundary": "administrative",
+      "way_area": "4.33658e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13080625,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2541845,-5749568,-272671,-272644",
+    "name": "Boca Blanca",
+    "local_name": "Boca Blanca",
+    "name_en": null,
+    "all_tags": {
+      "name": "Boca Blanca",
+      "boundary": "administrative",
+      "way_area": "6.7791e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13080624,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2541845,-5749568,-272671,-272644",
+    "name": "Río Blanco Abajo",
+    "local_name": "Río Blanco Abajo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Río Blanco Abajo",
+      "boundary": "administrative",
+      "way_area": "5.47752e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13080623,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2541845,-5749568,-272671,-272644",
+    "name": "Fila Grande",
+    "local_name": "Fila Grande",
+    "name_en": null,
+    "all_tags": {
+      "name": "Fila Grande",
+      "boundary": "administrative",
+      "way_area": "3.50927e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13080617,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2541845,-5749568,-272671,-272644",
+    "name": "El Limón",
+    "local_name": "El Limón",
+    "name_en": null,
+    "all_tags": {
+      "name": "El Limón",
+      "boundary": "administrative",
+      "way_area": "3.86043e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13080616,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2541845,-5749568,-272671,-272644",
+    "name": "Costa de Zumbador",
+    "local_name": "Costa de Zumbador",
+    "name_en": null,
+    "all_tags": {
+      "name": "Costa de Zumbador",
+      "boundary": "administrative",
+      "way_area": "9.14573e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13080615,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2541845,-5749568,-272671,-272644",
+    "name": "Las Canalonas",
+    "local_name": "Las Canalonas",
+    "name_en": null,
+    "all_tags": {
+      "name": "Las Canalonas",
+      "boundary": "administrative",
+      "way_area": "7.724e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13080520,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2541845,-5749568,-272671,-272644",
+    "name": "El Cangrejo",
+    "local_name": "El Cangrejo",
+    "name_en": null,
+    "all_tags": {
+      "name": "El Cangrejo",
+      "boundary": "administrative",
+      "way_area": "5.73497e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13080518,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2541845,-5749568,-272671,-272644",
+    "name": "Zumbador Bajo",
+    "local_name": "Zumbador Bajo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Zumbador Bajo",
+      "boundary": "administrative",
+      "way_area": "5.2112e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13080512,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2541845,-5749568,-272671,-272644",
+    "name": "Zumbador Medio",
+    "local_name": "Zumbador Medio",
+    "name_en": null,
+    "all_tags": {
+      "name": "Zumbador Medio",
+      "boundary": "administrative",
+      "way_area": "1.52634e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13080507,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2541845,-5749568,-272671,-272644",
+    "name": "Zumbador Alto",
+    "local_name": "Zumbador Alto",
+    "name_en": null,
+    "all_tags": {
+      "name": "Zumbador Alto",
+      "boundary": "administrative",
+      "way_area": "4.74515e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13080506,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2541845,-5749568,-272671,-272644",
+    "name": "El Triste",
+    "local_name": "El Triste",
+    "name_en": null,
+    "all_tags": {
+      "name": "El Triste",
+      "boundary": "administrative",
+      "way_area": "1.88315e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13080505,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2541845,-5749568,-272671,-272644",
+    "name": "Conchal Alto",
+    "local_name": "Conchal Alto",
+    "name_en": null,
+    "all_tags": {
+      "name": "Conchal Alto",
+      "boundary": "administrative",
+      "way_area": "3.21999e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13080504,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2541845,-5749568,-272671,-272644",
+    "name": "Los Conchales",
+    "local_name": "Los Conchales",
+    "name_en": null,
+    "all_tags": {
+      "name": "Los Conchales",
+      "boundary": "administrative",
+      "way_area": "6.06727e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13080495,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2541845,-5749568,-272671,-272644",
+    "name": "El Palmar",
+    "local_name": "El Palmar",
+    "name_en": null,
+    "all_tags": {
+      "name": "El Palmar",
+      "boundary": "administrative",
+      "way_area": "6.0596e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13080404,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2541845,-5749568,-272671,-272644",
+    "name": "Cerro Grande Abajo",
+    "local_name": "Cerro Grande Abajo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cerro Grande Abajo",
+      "boundary": "administrative",
+      "way_area": "2.49122e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13080403,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2541845,-5749568,-272671,-272644",
+    "name": "Las Lagunitas",
+    "local_name": "Las Lagunitas",
+    "name_en": null,
+    "all_tags": {
+      "name": "Las Lagunitas",
+      "boundary": "administrative",
+      "way_area": "4.94001e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13080399,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2541845,-5749568,-272671,-272644",
+    "name": "Quebrada de Guaranache",
+    "local_name": "Quebrada de Guaranache",
+    "name_en": null,
+    "all_tags": {
+      "name": "Quebrada de Guaranache",
+      "boundary": "administrative",
+      "way_area": "6.31858e-06",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13080398,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2541845,-5749568,-272671,-272644",
+    "name": "El Escondido",
+    "local_name": "El Escondido",
+    "name_en": null,
+    "all_tags": {
+      "name": "El Escondido",
+      "boundary": "administrative",
+      "way_area": "7.23537e-06",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13080394,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2541845,-5749568,-272671,-272644",
+    "name": "El Bejuco",
+    "local_name": "El Bejuco",
+    "name_en": null,
+    "all_tags": {
+      "name": "El Bejuco",
+      "boundary": "administrative",
+      "way_area": "4.22505e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13080393,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2541845,-5749568,-272671,-272644",
+    "name": "El Chorro",
+    "local_name": "El Chorro",
+    "name_en": null,
+    "all_tags": {
+      "name": "El Chorro",
+      "boundary": "administrative",
+      "way_area": "3.6669e-06",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13080392,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2541845,-5749568,-272671,-272644",
+    "name": "La Aguada",
+    "local_name": "La Aguada",
+    "name_en": null,
+    "all_tags": {
+      "name": "La Aguada",
+      "boundary": "administrative",
+      "way_area": "9.15416e-06",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13080391,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2541845,-5749568,-272671,-272644",
+    "name": "Juan Franco",
+    "local_name": "Juan Franco",
+    "name_en": null,
+    "all_tags": {
+      "name": "Juan Franco",
+      "boundary": "administrative",
+      "way_area": "5.93553e-06",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13080390,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2541845,-5749568,-272671,-272644",
+    "name": "Campoma",
+    "local_name": "Campoma",
+    "name_en": null,
+    "all_tags": {
+      "name": "Campoma",
+      "boundary": "administrative",
+      "way_area": "1.03563e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13080389,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2541845,-5749568,-272671,-272644",
+    "name": "Ño Mateo",
+    "local_name": "Ño Mateo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ño Mateo",
+      "boundary": "administrative",
+      "way_area": "1.2905e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13080380,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2541845,-5749568,-272671,-272644",
+    "name": "Urubay",
+    "local_name": "Urubay",
+    "name_en": null,
+    "all_tags": {
+      "name": "Urubay",
+      "boundary": "administrative",
+      "way_area": "3.43588e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13080379,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2541845,-5749568,-272671,-272644",
+    "name": "El Vigía",
+    "local_name": "El Vigía",
+    "name_en": null,
+    "all_tags": {
+      "name": "El Vigía",
+      "boundary": "administrative",
+      "way_area": "1.62431e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13080378,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2541845,-5749568,-272671,-272644",
+    "name": "Bejuquero Medio",
+    "local_name": "Bejuquero Medio",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bejuquero Medio",
+      "boundary": "administrative",
+      "way_area": "2.47707e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13080377,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2541845,-5749568,-272671,-272644",
+    "name": "Bejuquero Alto",
+    "local_name": "Bejuquero Alto",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bejuquero Alto",
+      "boundary": "administrative",
+      "way_area": "6.23304e-06",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13080375,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2541845,-5749568,-272671,-272644",
+    "name": "Piedra de Moler de Naranjal",
+    "local_name": "Piedra de Moler de Naranjal",
+    "name_en": null,
+    "all_tags": {
+      "name": "Piedra de Moler de Naranjal",
+      "boundary": "administrative",
+      "way_area": "5.25937e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13080371,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2541845,-5749568,-272671,-272644",
+    "name": "Las Tarimas",
+    "local_name": "Las Tarimas",
+    "name_en": null,
+    "all_tags": {
+      "name": "Las Tarimas",
+      "boundary": "administrative",
+      "way_area": "1.27669e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13080349,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2541845,-5749568,-272671,-272644",
+    "name": "Vega Oscura",
+    "local_name": "Vega Oscura",
+    "name_en": null,
+    "all_tags": {
+      "name": "Vega Oscura",
+      "boundary": "administrative",
+      "way_area": "1.8331e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13080348,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2541845,-5749568,-272671,-272644",
+    "name": "Boca de Tapón",
+    "local_name": "Boca de Tapón",
+    "name_en": null,
+    "all_tags": {
+      "name": "Boca de Tapón",
+      "boundary": "administrative",
+      "way_area": "2.05884e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13080347,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2541845,-5749568,-272671,-272644",
+    "name": "Bajo Caliche",
+    "local_name": "Bajo Caliche",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bajo Caliche",
+      "boundary": "administrative",
+      "way_area": "1.11855e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13080346,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2541845,-5749568,-272671,-272644",
+    "name": "Tapón Bajo",
+    "local_name": "Tapón Bajo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Tapón Bajo",
+      "boundary": "administrative",
+      "way_area": "3.89801e-06",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13080345,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2541845,-5749568,-272671,-272644",
+    "name": "Tapón Medio",
+    "local_name": "Tapón Medio",
+    "name_en": null,
+    "all_tags": {
+      "name": "Tapón Medio",
+      "boundary": "administrative",
+      "way_area": "1.53694e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13080344,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2541845,-5749568,-272671,-272644",
+    "name": "Tapón Alto",
+    "local_name": "Tapón Alto",
+    "name_en": null,
+    "all_tags": {
+      "name": "Tapón Alto",
+      "boundary": "administrative",
+      "way_area": "1.76489e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13080343,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2541845,-5749568,-272671,-272644",
+    "name": "Paradero",
+    "local_name": "Paradero",
+    "name_en": null,
+    "all_tags": {
+      "name": "Paradero",
+      "boundary": "administrative",
+      "way_area": "2.94697e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13080309,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2541845,-5749568,-272671,-272644",
+    "name": "Guamal",
+    "local_name": "Guamal",
+    "name_en": null,
+    "all_tags": {
+      "name": "Guamal",
+      "boundary": "administrative",
+      "way_area": "4.9796e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13080308,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2541845,-5749568,-272671,-272644",
+    "name": "El Charal",
+    "local_name": "El Charal",
+    "name_en": null,
+    "all_tags": {
+      "name": "El Charal",
+      "boundary": "administrative",
+      "way_area": "3.47411e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13080298,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2541845,-5749568,-272671,-272644",
+    "name": "Río Perdido Arriba",
+    "local_name": "Río Perdido Arriba",
+    "name_en": null,
+    "all_tags": {
+      "name": "Río Perdido Arriba",
+      "boundary": "administrative",
+      "way_area": "4.1081e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13080297,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2541845,-5749568,-272671,-272644",
+    "name": "Alto Caliche Oeste",
+    "local_name": "Alto Caliche Oeste",
+    "name_en": null,
+    "all_tags": {
+      "name": "Alto Caliche Oeste",
+      "boundary": "administrative",
+      "way_area": "1.67866e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13080286,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2539290,-5749568,-272671,-272644",
+    "name": "Boca de Guayabo Norte",
+    "local_name": "Boca de Guayabo Norte",
+    "name_en": null,
+    "all_tags": {
+      "name": "Boca de Guayabo Norte",
+      "boundary": "administrative",
+      "way_area": "3.40568e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13080283,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2539290,-5749568,-272671,-272644",
+    "name": "Las Ánimas",
+    "local_name": "Las Ánimas",
+    "name_en": null,
+    "all_tags": {
+      "name": "Las Ánimas",
+      "boundary": "administrative",
+      "way_area": "5.60318e-06",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13080264,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2539290,-5749568,-272671,-272644",
+    "name": "Guayabo Norte",
+    "local_name": "Guayabo Norte",
+    "name_en": null,
+    "all_tags": {
+      "name": "Guayabo Norte",
+      "boundary": "administrative",
+      "way_area": "4.49137e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13080263,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2539290,-5749568,-272671,-272644",
+    "name": "La Flojera",
+    "local_name": "La Flojera",
+    "name_en": null,
+    "all_tags": {
+      "name": "La Flojera",
+      "boundary": "administrative",
+      "way_area": "2.42612e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13080262,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2539290,-5749568,-272671,-272644",
+    "name": "Alto Bajo",
+    "local_name": "Alto Bajo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Alto Bajo",
+      "boundary": "administrative",
+      "way_area": "1.14271e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13080261,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2539290,-5749568,-272671,-272644",
+    "name": "Algarrobito",
+    "local_name": "Algarrobito",
+    "name_en": null,
+    "all_tags": {
+      "name": "Algarrobito",
+      "boundary": "administrative",
+      "way_area": "6.53589e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13080260,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2539290,-5749568,-272671,-272644",
+    "name": "Bajo del Medio",
+    "local_name": "Bajo del Medio",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bajo del Medio",
+      "boundary": "administrative",
+      "way_area": "6.55755e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13080223,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2539290,-5749568,-272671,-272644",
+    "name": "Guayabo Sur",
+    "local_name": "Guayabo Sur",
+    "name_en": null,
+    "all_tags": {
+      "name": "Guayabo Sur",
+      "boundary": "administrative",
+      "way_area": "3.47041e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13080222,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2539290,-5749568,-272671,-272644",
+    "name": "La Baqueta",
+    "local_name": "La Baqueta",
+    "name_en": null,
+    "all_tags": {
+      "name": "La Baqueta",
+      "boundary": "administrative",
+      "way_area": "2.57213e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13080198,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2539290,-5749568,-272671,-272644",
+    "name": "Los Maza",
+    "local_name": "Los Maza",
+    "name_en": null,
+    "all_tags": {
+      "name": "Los Maza",
+      "boundary": "administrative",
+      "way_area": "2.42606e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13080197,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2539290,-5749568,-272671,-272644",
+    "name": "Pijigua",
+    "local_name": "Pijigua",
+    "name_en": null,
+    "all_tags": {
+      "name": "Pijigua",
+      "boundary": "administrative",
+      "way_area": "9.14165e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13080196,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2539290,-5749568,-272671,-272644",
+    "name": "El Tigre",
+    "local_name": "El Tigre",
+    "name_en": null,
+    "all_tags": {
+      "name": "El Tigre",
+      "boundary": "administrative",
+      "way_area": "2.59354e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13078684,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2539290,-5749568,-272671,-272644",
+    "name": "Bajo Negro",
+    "local_name": "Bajo Negro",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bajo Negro",
+      "boundary": "administrative",
+      "way_area": "0.000109692",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13078683,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2539290,-5749568,-272671,-272644",
+    "name": "Cruz de Aragua",
+    "local_name": "Cruz de Aragua",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cruz de Aragua",
+      "boundary": "administrative",
+      "way_area": "2.87802e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13078682,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2539290,-5749568,-272671,-272644",
+    "name": "Los Algarrobos",
+    "local_name": "Los Algarrobos",
+    "name_en": null,
+    "all_tags": {
+      "name": "Los Algarrobos",
+      "boundary": "administrative",
+      "way_area": "6.73266e-06",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13078653,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2539290,-5749568,-272671,-272644",
+    "name": "El Cañón",
+    "local_name": "El Cañón",
+    "name_en": null,
+    "all_tags": {
+      "name": "El Cañón",
+      "boundary": "administrative",
+      "way_area": "3.0195e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13078627,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2539290,-5749568,-272671,-272644",
+    "name": "La Ceiba",
+    "local_name": "La Ceiba",
+    "name_en": null,
+    "all_tags": {
+      "name": "La Ceiba",
+      "boundary": "administrative",
+      "way_area": "3.75186e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13078623,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2539290,-5749568,-272671,-272644",
+    "name": "Vega Grande",
+    "local_name": "Vega Grande",
+    "name_en": null,
+    "all_tags": {
+      "name": "Vega Grande",
+      "boundary": "administrative",
+      "way_area": "9.43855e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13078622,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2539290,-5749568,-272671,-272644",
+    "name": "Paraparo Abajo",
+    "local_name": "Paraparo Abajo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Paraparo Abajo",
+      "boundary": "administrative",
+      "way_area": "2.30921e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13078621,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2539290,-5749568,-272671,-272644",
+    "name": "Paraparo",
+    "local_name": "Paraparo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Paraparo",
+      "boundary": "administrative",
+      "way_area": "8.0288e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13078620,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2539290,-5749568,-272671,-272644",
+    "name": "Hueco de Piedra",
+    "local_name": "Hueco de Piedra",
+    "name_en": null,
+    "all_tags": {
+      "name": "Hueco de Piedra",
+      "boundary": "administrative",
+      "way_area": "3.48313e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13078563,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2539290,-5749568,-272671,-272644",
+    "name": "Cogollal",
+    "local_name": "Cogollal",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cogollal",
+      "boundary": "administrative",
+      "way_area": "4.40431e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13078562,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2539290,-5749568,-272671,-272644",
+    "name": "El Boquete",
+    "local_name": "El Boquete",
+    "name_en": null,
+    "all_tags": {
+      "name": "El Boquete",
+      "boundary": "administrative",
+      "way_area": "5.80175e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13078561,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2539290,-5749568,-272671,-272644",
+    "name": "Palmichal Sur",
+    "local_name": "Palmichal Sur",
+    "name_en": null,
+    "all_tags": {
+      "name": "Palmichal Sur",
+      "boundary": "administrative",
+      "way_area": "3.74487e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13078560,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2539290,-5749568,-272671,-272644",
+    "name": "Pueblo Nuevo Sur",
+    "local_name": "Pueblo Nuevo Sur",
+    "name_en": null,
+    "all_tags": {
+      "name": "Pueblo Nuevo Sur",
+      "boundary": "administrative",
+      "way_area": "7.74514e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13078559,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2539290,-5749568,-272671,-272644",
+    "name": "El Palmar",
+    "local_name": "El Palmar",
+    "name_en": null,
+    "all_tags": {
+      "name": "El Palmar",
+      "boundary": "administrative",
+      "way_area": "7.37567e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13078558,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2539290,-5749568,-272671,-272644",
+    "name": "Los Manantiales",
+    "local_name": "Los Manantiales",
+    "name_en": null,
+    "all_tags": {
+      "name": "Los Manantiales",
+      "boundary": "administrative",
+      "way_area": "0.00013426",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13078557,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2539290,-5749568,-272671,-272644",
+    "name": "La Silleta",
+    "local_name": "La Silleta",
+    "name_en": null,
+    "all_tags": {
+      "name": "La Silleta",
+      "boundary": "administrative",
+      "way_area": "5.30606e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13078491,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2539290,-5749568,-272671,-272644",
+    "name": "Los Altos de Sucre",
+    "local_name": "Los Altos de Sucre",
+    "name_en": null,
+    "all_tags": {
+      "name": "Los Altos de Sucre",
+      "boundary": "administrative",
+      "way_area": "0.000673663",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13078461,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2539290,-5749568,-272671,-272644",
+    "name": "El Charal",
+    "local_name": "El Charal",
+    "name_en": null,
+    "all_tags": {
+      "name": "El Charal",
+      "boundary": "administrative",
+      "way_area": "1.9058e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13078460,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2539290,-5749568,-272671,-272644",
+    "name": "Arapo",
+    "local_name": "Arapo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Arapo",
+      "boundary": "administrative",
+      "way_area": "0.000105541",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13078459,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2539290,-5749568,-272671,-272644",
+    "name": "Cumbres de Arapo",
+    "local_name": "Cumbres de Arapo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cumbres de Arapo",
+      "alt_name": "Altos de Arapo",
+      "boundary": "administrative",
+      "way_area": "0.000103323",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13078444,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2539290,-5749568,-272671,-272644",
+    "name": "Arapito",
+    "local_name": "Arapito",
+    "name_en": null,
+    "all_tags": {
+      "name": "Arapito",
+      "boundary": "administrative",
+      "way_area": "8.65937e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13078443,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2539290,-5749568,-272671,-272644",
+    "name": "Guamo Abajo",
+    "local_name": "Guamo Abajo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Guamo Abajo",
+      "boundary": "administrative",
+      "way_area": "0.000121928",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13078442,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2539290,-5749568,-272671,-272644",
+    "name": "Guamo Arriba",
+    "local_name": "Guamo Arriba",
+    "name_en": null,
+    "all_tags": {
+      "name": "Guamo Arriba",
+      "boundary": "administrative",
+      "way_area": "9.95602e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13077208,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2539289,-5749568,-272671,-272644",
+    "name": "Las Marías",
+    "local_name": "Las Marías",
+    "name_en": null,
+    "all_tags": {
+      "name": "Las Marías",
+      "boundary": "administrative",
+      "way_area": "2.08984e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13077199,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2539289,-5749568,-272671,-272644",
+    "name": "El Maná",
+    "local_name": "El Maná",
+    "name_en": null,
+    "all_tags": {
+      "name": "El Maná",
+      "boundary": "administrative",
+      "way_area": "9.74423e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13077161,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2539289,-5749568,-272671,-272644",
+    "name": "Jobo Abajo",
+    "local_name": "Jobo Abajo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Jobo Abajo",
+      "boundary": "administrative",
+      "way_area": "3.39407e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13077156,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2539289,-5749568,-272671,-272644",
+    "name": "El Piñal",
+    "local_name": "El Piñal",
+    "name_en": null,
+    "all_tags": {
+      "name": "El Piñal",
+      "boundary": "administrative",
+      "way_area": "1.67867e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13077153,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2539289,-5749568,-272671,-272644",
+    "name": "San Simón",
+    "local_name": "San Simón",
+    "name_en": null,
+    "all_tags": {
+      "name": "San Simón",
+      "boundary": "administrative",
+      "way_area": "3.44578e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13077152,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2539289,-5749568,-272671,-272644",
+    "name": "La Peluca",
+    "local_name": "La Peluca",
+    "name_en": null,
+    "all_tags": {
+      "name": "La Peluca",
+      "boundary": "administrative",
+      "way_area": "6.34383e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13077151,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2539289,-5749568,-272671,-272644",
+    "name": "Mata Palo",
+    "local_name": "Mata Palo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mata Palo",
+      "boundary": "administrative",
+      "way_area": "0.000115315",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13077150,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2539289,-5749568,-272671,-272644",
+    "name": "Naranjalito",
+    "local_name": "Naranjalito",
+    "name_en": null,
+    "all_tags": {
+      "name": "Naranjalito",
+      "boundary": "administrative",
+      "way_area": "3.95012e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13077144,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2539289,-5749568,-272671,-272644",
+    "name": "El Perro",
+    "local_name": "El Perro",
+    "name_en": null,
+    "all_tags": {
+      "name": "El Perro",
+      "boundary": "administrative",
+      "way_area": "3.33441e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13077143,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2539289,-5749568,-272671,-272644",
+    "name": "Las Trincheras",
+    "local_name": "Las Trincheras",
+    "name_en": null,
+    "all_tags": {
+      "name": "Las Trincheras",
+      "boundary": "administrative",
+      "way_area": "3.79248e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13077135,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2539289,-5749568,-272671,-272644",
+    "name": "Maturín",
+    "local_name": "Maturín",
+    "name_en": null,
+    "all_tags": {
+      "name": "Maturín",
+      "boundary": "administrative",
+      "way_area": "4.90359e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13077134,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2539289,-5749568,-272671,-272644",
+    "name": "Cambural",
+    "local_name": "Cambural",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cambural",
+      "boundary": "administrative",
+      "way_area": "5.08831e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13077133,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2539289,-5749568,-272671,-272644",
+    "name": "El Maco",
+    "local_name": "El Maco",
+    "name_en": null,
+    "all_tags": {
+      "name": "El Maco",
+      "boundary": "administrative",
+      "way_area": "2.94609e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13077132,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2539289,-5749568,-272671,-272644",
+    "name": "San Pedro",
+    "local_name": "San Pedro",
+    "name_en": null,
+    "all_tags": {
+      "name": "San Pedro",
+      "boundary": "administrative",
+      "way_area": "3.82778e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13077128,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2539289,-5749568,-272671,-272644",
+    "name": "El Botalón",
+    "local_name": "El Botalón",
+    "name_en": null,
+    "all_tags": {
+      "name": "El Botalón",
+      "boundary": "administrative",
+      "way_area": "8.18354e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13077121,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2539289,-5749568,-272671,-272644",
+    "name": "Agua Colorada",
+    "local_name": "Agua Colorada",
+    "name_en": null,
+    "all_tags": {
+      "name": "Agua Colorada",
+      "boundary": "administrative",
+      "way_area": "4.58197e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13077120,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2539289,-5749568,-272671,-272644",
+    "name": "El Manguito",
+    "local_name": "El Manguito",
+    "name_en": null,
+    "all_tags": {
+      "name": "El Manguito",
+      "boundary": "administrative",
+      "way_area": "1.66509e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13077114,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2539289,-5749568,-272671,-272644",
+    "name": "Paso El Naranjo",
+    "local_name": "Paso El Naranjo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Paso El Naranjo",
+      "boundary": "administrative",
+      "way_area": "2.03272e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13077113,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2539289,-5749568,-272671,-272644",
+    "name": "El Naranjo",
+    "local_name": "El Naranjo",
+    "name_en": null,
+    "all_tags": {
+      "name": "El Naranjo",
+      "boundary": "administrative",
+      "way_area": "4.50778e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13077112,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2539289,-5749568,-272671,-272644",
+    "name": "San Pedrito",
+    "local_name": "San Pedrito",
+    "name_en": null,
+    "all_tags": {
+      "name": "San Pedrito",
+      "boundary": "administrative",
+      "way_area": "0.000116021",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13077111,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2539289,-5749568,-272671,-272644",
+    "name": "La Chacra",
+    "local_name": "La Chacra",
+    "name_en": null,
+    "all_tags": {
+      "name": "La Chacra",
+      "boundary": "administrative",
+      "way_area": "2.06623e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13077110,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2539289,-5749568,-272671,-272644",
+    "name": "El Perú",
+    "local_name": "El Perú",
+    "name_en": null,
+    "all_tags": {
+      "name": "El Perú",
+      "boundary": "administrative",
+      "way_area": "2.67027e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13077090,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2539289,-5749568,-272671,-272644",
+    "name": "Zurita",
+    "local_name": "Zurita",
+    "name_en": null,
+    "all_tags": {
+      "name": "Zurita",
+      "boundary": "administrative",
+      "way_area": "8.72987e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13077078,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2539289,-5749568,-272671,-272644",
+    "name": "Vallecito",
+    "local_name": "Vallecito",
+    "name_en": null,
+    "all_tags": {
+      "name": "Vallecito",
+      "boundary": "administrative",
+      "way_area": "9.22469e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13077077,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2539289,-5749568,-272671,-272644",
+    "name": "Isla Arapito",
+    "local_name": "Isla Arapito",
+    "name_en": null,
+    "all_tags": {
+      "name": "Isla Arapito",
+      "boundary": "administrative",
+      "way_area": "3.54146e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13077076,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2539289,-5749568,-272671,-272644",
+    "name": "Isla Arapo",
+    "local_name": "Isla Arapo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Isla Arapo",
+      "boundary": "administrative",
+      "way_area": "5.6731e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13077062,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2539289,-5749568,-272671,-272644",
+    "name": "Santa Cruz",
+    "local_name": "Santa Cruz",
+    "name_en": null,
+    "all_tags": {
+      "name": "Santa Cruz",
+      "boundary": "administrative",
+      "way_area": "0.00010474",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13077060,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2539289,-5749568,-272671,-272644",
+    "name": "Los Hicacos",
+    "local_name": "Los Hicacos",
+    "name_en": null,
+    "all_tags": {
+      "name": "Los Hicacos",
+      "boundary": "administrative",
+      "way_area": "3.71527e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13077059,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2539289,-5749568,-272671,-272644",
+    "name": "Playa Colorada",
+    "local_name": "Playa Colorada",
+    "name_en": null,
+    "all_tags": {
+      "name": "Playa Colorada",
+      "boundary": "administrative",
+      "way_area": "0.000167036",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13069037,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2539289,-5749568,-272671,-272644",
+    "name": "Santa Fe",
+    "local_name": "Santa Fe",
+    "name_en": null,
+    "all_tags": {
+      "name": "Santa Fe",
+      "boundary": "administrative",
+      "way_area": "0.000435909",
+      "admin_level": "8",
+      "official_name": "Puertos de Santa Fe"
+    }
+  },
+  {
+    "osm_id": -13069029,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2539289,-5749568,-272671,-272644",
+    "name": "Fondo Nurucual",
+    "local_name": "Fondo Nurucual",
+    "name_en": null,
+    "all_tags": {
+      "name": "Fondo Nurucual",
+      "boundary": "administrative",
+      "way_area": "0.000174149",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13069028,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2539289,-5749568,-272671,-272644",
+    "name": "Corozal Arriba",
+    "local_name": "Corozal Arriba",
+    "name_en": null,
+    "all_tags": {
+      "name": "Corozal Arriba",
+      "boundary": "administrative",
+      "way_area": "3.15323e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13069009,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2539288,-5749568,-272671,-272644",
+    "name": "Resbaladero",
+    "local_name": "Resbaladero",
+    "name_en": null,
+    "all_tags": {
+      "name": "Resbaladero",
+      "boundary": "administrative",
+      "way_area": "1.80965e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13069008,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2539289,-5749568,-272671,-272644",
+    "name": "Corozal",
+    "local_name": "Corozal",
+    "name_en": null,
+    "all_tags": {
+      "name": "Corozal",
+      "boundary": "administrative",
+      "way_area": "4.39099e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13069007,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2539289,-5749568,-272671,-272644",
+    "name": "La Meseta",
+    "local_name": "La Meseta",
+    "name_en": null,
+    "all_tags": {
+      "name": "La Meseta",
+      "boundary": "administrative",
+      "way_area": "0.000128029",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13068983,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2539289,-5749568,-272671,-272644",
+    "name": "Nurucual",
+    "local_name": "Nurucual",
+    "name_en": null,
+    "all_tags": {
+      "name": "Nurucual",
+      "boundary": "administrative",
+      "way_area": "0.000317287",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13068982,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2539289,-5749568,-272671,-272644",
+    "name": "San Esteban",
+    "local_name": "San Esteban",
+    "name_en": null,
+    "all_tags": {
+      "name": "San Esteban",
+      "boundary": "administrative",
+      "way_area": "5.47701e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13068981,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2539289,-5749568,-272671,-272644",
+    "name": "El Mangle",
+    "local_name": "El Mangle",
+    "name_en": null,
+    "all_tags": {
+      "name": "El Mangle",
+      "alt_name": "Playa Nurucual",
+      "boundary": "administrative",
+      "way_area": "1.64343e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13068955,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-5749568,-272671,-272644",
+    "name": "Villa Majagual",
+    "local_name": "Villa Majagual",
+    "name_en": null,
+    "all_tags": {
+      "name": "Villa Majagual",
+      "boundary": "administrative",
+      "way_area": "2.13114e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13051312,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2539288,-5749568,-272671,-272644",
+    "name": "Plan de La Mesa",
+    "local_name": "Plan de La Mesa",
+    "name_en": null,
+    "all_tags": {
+      "name": "Plan de La Mesa",
+      "boundary": "administrative",
+      "way_area": "4.81151e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13051311,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2539288,-5749568,-272671,-272644",
+    "name": "Barbacoas",
+    "local_name": "Barbacoas",
+    "name_en": null,
+    "all_tags": {
+      "name": "Barbacoas",
+      "boundary": "administrative",
+      "way_area": "0.000251261",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13051310,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2539288,-5749568,-272671,-272644",
+    "name": "El Tacal",
+    "local_name": "El Tacal",
+    "name_en": null,
+    "all_tags": {
+      "name": "El Tacal",
+      "boundary": "administrative",
+      "way_area": "0.000275798",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13051309,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2539288,-5749568,-272671,-272644",
+    "name": "La Montaña",
+    "local_name": "La Montaña",
+    "name_en": null,
+    "all_tags": {
+      "name": "La Montaña",
+      "boundary": "administrative",
+      "way_area": "8.97669e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13051267,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2539288,-5749568,-272671,-272644",
+    "name": "Bella Vista",
+    "local_name": "Bella Vista",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bella Vista",
+      "boundary": "administrative",
+      "way_area": "0.00020681",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13051266,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2539288,-5749568,-272671,-272644",
+    "name": "Corozal",
+    "local_name": "Corozal",
+    "name_en": null,
+    "all_tags": {
+      "name": "Corozal",
+      "boundary": "administrative",
+      "way_area": "2.70475e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13049073,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2539288,-5749568,-272671,-272644",
+    "name": "Montaña de Mochima",
+    "local_name": "Montaña de Mochima",
+    "name_en": null,
+    "all_tags": {
+      "name": "Montaña de Mochima",
+      "boundary": "administrative",
+      "way_area": "4.2364e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13049028,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2539288,-5749568,-272671,-272644",
+    "name": "Marín Arriba",
+    "local_name": "Marín Arriba",
+    "name_en": null,
+    "all_tags": {
+      "name": "Marín Arriba",
+      "boundary": "administrative",
+      "way_area": "1.25535e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13049027,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2539288,-5749568,-272671,-272644",
+    "name": "Marín Abajo",
+    "local_name": "Marín Abajo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Marín Abajo",
+      "boundary": "administrative",
+      "way_area": "4.9936e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13049026,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2539288,-5749568,-272671,-272644",
+    "name": "Yaguaracual",
+    "local_name": "Yaguaracual",
+    "name_en": null,
+    "all_tags": {
+      "name": "Yaguaracual",
+      "boundary": "administrative",
+      "way_area": "0.000226349",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13049025,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2539288,-5749568,-272671,-272644",
+    "name": "El Marquéz",
+    "local_name": "El Marquéz",
+    "name_en": null,
+    "all_tags": {
+      "name": "El Marquéz",
+      "boundary": "administrative",
+      "way_area": "5.22947e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13049024,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2539288,-5749568,-272671,-272644",
+    "name": "Muchurapo",
+    "local_name": "Muchurapo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Muchurapo",
+      "boundary": "administrative",
+      "way_area": "0.000150597",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13049023,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2539288,-5749568,-272671,-272644",
+    "name": "Majagual",
+    "local_name": "Majagual",
+    "name_en": null,
+    "all_tags": {
+      "name": "Majagual",
+      "boundary": "administrative",
+      "way_area": "8.75586e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13049022,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2539288,-5749568,-272671,-272644",
+    "name": "El Totumo",
+    "local_name": "El Totumo",
+    "name_en": null,
+    "all_tags": {
+      "name": "El Totumo",
+      "boundary": "administrative",
+      "way_area": "6.02645e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13049009,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2539288,-5749568,-272671,-272644",
+    "name": "Los Venados",
+    "local_name": "Los Venados",
+    "name_en": null,
+    "all_tags": {
+      "name": "Los Venados",
+      "boundary": "administrative",
+      "way_area": "6.54217e-06",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13049008,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2539288,-5749568,-272671,-272644",
+    "name": "La Anegada",
+    "local_name": "La Anegada",
+    "name_en": null,
+    "all_tags": {
+      "name": "La Anegada",
+      "boundary": "administrative",
+      "way_area": "1.05802e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13049007,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2539288,-5749568,-272671,-272644",
+    "name": "Las Caracas Este",
+    "local_name": "Las Caracas Este",
+    "name_en": null,
+    "all_tags": {
+      "name": "Las Caracas Este",
+      "boundary": "administrative",
+      "way_area": "1.45533e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13049006,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2539288,-5749568,-272671,-272644",
+    "name": "Las Caracas Oeste",
+    "local_name": "Las Caracas Oeste",
+    "name_en": null,
+    "all_tags": {
+      "name": "Las Caracas Oeste",
+      "boundary": "administrative",
+      "way_area": "8.32728e-06",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13049005,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2539288,-5749568,-272671,-272644",
+    "name": "El Pirata",
+    "local_name": "El Pirata",
+    "name_en": null,
+    "all_tags": {
+      "name": "El Pirata",
+      "boundary": "administrative",
+      "way_area": "7.26356e-07",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13049004,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2539288,-5749568,-272671,-272644",
+    "name": "La Picuda",
+    "local_name": "La Picuda",
+    "name_en": null,
+    "all_tags": {
+      "name": "La Picuda",
+      "boundary": "administrative",
+      "way_area": "1.25585e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13048983,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2539288,-5749568,-272671,-272644",
+    "name": "Varadero",
+    "local_name": "Varadero",
+    "name_en": null,
+    "all_tags": {
+      "name": "Varadero",
+      "boundary": "administrative",
+      "way_area": "1.31437e-06",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13048982,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2539288,-5749568,-272671,-272644",
+    "name": "Playuelas",
+    "local_name": "Playuelas",
+    "name_en": null,
+    "all_tags": {
+      "name": "Playuelas",
+      "boundary": "administrative",
+      "way_area": "3.36874e-06",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13048981,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2539288,-5749568,-272671,-272644",
+    "name": "Manare",
+    "local_name": "Manare",
+    "name_en": null,
+    "all_tags": {
+      "name": "Manare",
+      "boundary": "administrative",
+      "way_area": "1.15849e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13048980,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2539288,-5749568,-272671,-272644",
+    "name": "Mangle Quemado",
+    "local_name": "Mangle Quemado",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mangle Quemado",
+      "boundary": "administrative",
+      "way_area": "2.79556e-06",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13048979,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2539288,-5749568,-272671,-272644",
+    "name": "Mochima",
+    "local_name": "Mochima",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mochima",
+      "alt_name": "Pueblo Mochima",
+      "boundary": "administrative",
+      "way_area": "4.59162e-05",
+      "population": "450",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13048978,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2539288,-5749568,-272671,-272644",
+    "name": "Pozo El Isleño",
+    "local_name": "Pozo El Isleño",
+    "name_en": null,
+    "all_tags": {
+      "name": "Pozo El Isleño",
+      "boundary": "administrative",
+      "way_area": "1.78378e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13048977,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2539288,-5749568,-272671,-272644",
+    "name": "La Gabarra",
+    "local_name": "La Gabarra",
+    "name_en": null,
+    "all_tags": {
+      "name": "La Gabarra",
+      "boundary": "administrative",
+      "way_area": "2.23064e-06",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13048976,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2539288,-5749568,-272671,-272644",
+    "name": "Las Maritas",
+    "local_name": "Las Maritas",
+    "name_en": null,
+    "all_tags": {
+      "name": "Las Maritas",
+      "boundary": "administrative",
+      "way_area": "9.95189e-07",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13048975,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2539288,-5749568,-272671,-272644",
+    "name": "Playa Blanca",
+    "local_name": "Playa Blanca",
+    "name_en": null,
+    "all_tags": {
+      "name": "Playa Blanca",
+      "boundary": "administrative",
+      "way_area": "4.68755e-06",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13048974,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2539288,-5749568,-272671,-272644",
+    "name": "Guagua",
+    "local_name": "Guagua",
+    "name_en": null,
+    "all_tags": {
+      "name": "Guagua",
+      "boundary": "administrative",
+      "way_area": "3.67905e-06",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13048973,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2539288,-5749568,-272671,-272644",
+    "name": "Cautaro",
+    "local_name": "Cautaro",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cautaro",
+      "boundary": "administrative",
+      "way_area": "2.68032e-06",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13048972,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2539288,-5749568,-272671,-272644",
+    "name": "Los Chivos",
+    "local_name": "Los Chivos",
+    "name_en": null,
+    "all_tags": {
+      "name": "Los Chivos",
+      "boundary": "administrative",
+      "way_area": "1.31033e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13048954,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2539288,-5749568,-272671,-272644",
+    "name": "Valle Seco",
+    "local_name": "Valle Seco",
+    "name_en": null,
+    "all_tags": {
+      "name": "Valle Seco",
+      "boundary": "administrative",
+      "way_area": "1.41365e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13048953,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2539288,-5749568,-272671,-272644",
+    "name": "Siete Copas",
+    "local_name": "Siete Copas",
+    "name_en": null,
+    "all_tags": {
+      "name": "Siete Copas",
+      "boundary": "administrative",
+      "way_area": "1.99057e-06",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13048952,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2539288,-5749568,-272671,-272644",
+    "name": "La Flamenca",
+    "local_name": "La Flamenca",
+    "name_en": null,
+    "all_tags": {
+      "name": "La Flamenca",
+      "boundary": "administrative",
+      "way_area": "4.28846e-06",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13048951,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2539288,-5749568,-272671,-272644",
+    "name": "El Brasil",
+    "local_name": "El Brasil",
+    "name_en": null,
+    "all_tags": {
+      "name": "El Brasil",
+      "boundary": "administrative",
+      "way_area": "3.10304e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13048950,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2539288,-5749568,-272671,-272644",
+    "name": "La Peña",
+    "local_name": "La Peña",
+    "name_en": null,
+    "all_tags": {
+      "name": "La Peña",
+      "boundary": "administrative",
+      "way_area": "5.46203e-06",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13048949,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2539288,-5749568,-272671,-272644",
+    "name": "Tigüitigüe",
+    "local_name": "Tigüitigüe",
+    "name_en": null,
+    "all_tags": {
+      "name": "Tigüitigüe",
+      "boundary": "administrative",
+      "way_area": "1.5627e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13048948,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2539288,-5749568,-272671,-272644",
+    "name": "Punta Gorda",
+    "local_name": "Punta Gorda",
+    "name_en": null,
+    "all_tags": {
+      "name": "Punta Gorda",
+      "boundary": "administrative",
+      "way_area": "6.49009e-06",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13048947,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2539288,-5749568,-272671,-272644",
+    "name": "El Toro",
+    "local_name": "El Toro",
+    "name_en": null,
+    "all_tags": {
+      "name": "El Toro",
+      "boundary": "administrative",
+      "way_area": "8.57244e-06",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -13048920,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2539288,-5749568,-272671,-272644",
+    "name": "Petare",
+    "local_name": "Petare",
+    "name_en": null,
+    "all_tags": {
+      "name": "Petare",
+      "alt_name": "Petare de Santa Fe",
+      "boundary": "administrative",
+      "way_area": "2.8188e-05",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -12590047,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2572863,-11039535,-2269155,-272644",
+    "name": "Río Claro",
+    "local_name": "Río Claro",
+    "name_en": null,
+    "all_tags": {
+      "name": "Río Claro",
+      "boundary": "administrative",
+      "way_area": "0.00026673",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -12590046,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2578665,-11039535,-2269155,-272644",
+    "name": "Cacahual",
+    "local_name": "Cacahual",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cacahual",
+      "boundary": "administrative",
+      "way_area": "0.000520232",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -12590045,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2578665,-11039535,-2269155,-272644",
+    "name": "Cacahual Las Piñas",
+    "local_name": "Cacahual Las Piñas",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cacahual Las Piñas",
+      "boundary": "administrative",
+      "way_area": "0.000245944",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -12589126,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2579793,-11039535,-2269155,-272644",
+    "name": "La Encrucijada (Km. 70)",
+    "local_name": "La Encrucijada (Km. 70)",
+    "name_en": null,
+    "all_tags": {
+      "name": "La Encrucijada (Km. 70)",
+      "boundary": "administrative",
+      "way_area": "0.00185059",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -12589125,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2579793,-11039535,-2269155,-272644",
+    "name": "El Chaparral",
+    "local_name": "El Chaparral",
+    "name_en": null,
+    "all_tags": {
+      "name": "El Chaparral",
+      "boundary": "administrative",
+      "way_area": "0.00122586",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -12589124,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2579793,-11039535,-2269155,-272644",
+    "name": "San Jacinto",
+    "local_name": "San Jacinto",
+    "name_en": null,
+    "all_tags": {
+      "name": "San Jacinto",
+      "boundary": "administrative",
+      "way_area": "0.00457666",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -12589123,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2579793,-11039535,-2269155,-272644",
+    "name": "San Jacinto III",
+    "local_name": "San Jacinto III",
+    "name_en": null,
+    "all_tags": {
+      "name": "San Jacinto III",
+      "boundary": "administrative",
+      "way_area": "0.000772009",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -12589122,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2579793,-11039535,-2269155,-272644",
+    "name": "Chirere",
+    "local_name": "Chirere",
+    "name_en": null,
+    "all_tags": {
+      "name": "Chirere",
+      "boundary": "administrative",
+      "way_area": "0.0012815",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -12589121,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2579793,-11039535,-2269155,-272644",
+    "name": "La Ceiba",
+    "local_name": "La Ceiba",
+    "name_en": null,
+    "all_tags": {
+      "name": "La Ceiba",
+      "boundary": "administrative",
+      "way_area": "0.000923816",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -12582331,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-2578665,-11039535,-2269155,-272644",
+    "name": "El Rosario",
+    "local_name": "El Rosario",
+    "name_en": null,
+    "all_tags": {
+      "name": "El Rosario",
+      "place": "town",
+      "boundary": "administrative",
+      "way_area": "0.000321853",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -12508232,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-11039535,-2269155,-272644",
+    "name": "Ciudad Guayana",
+    "local_name": "Ciudad Guayana",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ciudad Guayana",
+      "place": "city",
+      "boundary": "administrative",
+      "way_area": "0.03369",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11219583,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-272644",
+    "name": "Caracas",
+    "local_name": "Caracas",
+    "name_en": null,
+    "all_tags": {
+      "name": "Caracas",
+      "place": "city",
+      "boundary": "administrative",
+      "way_area": "0.0640381",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -9612451,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-9825578,-9825580,-272661,-272644",
+    "name": "El Playón (Santa Rosalía)",
+    "local_name": "El Playón (Santa Rosalía)",
+    "name_en": null,
+    "all_tags": {
+      "name": "El Playón (Santa Rosalía)",
+      "boundary": "administrative",
+      "way_area": "0.000139175",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -2520370,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-10962003,-2267150,-272644",
+    "name": "Parroquia Santa Barbara",
+    "local_name": "Parroquia Santa Barbara",
+    "name_en": null,
+    "all_tags": {
+      "name": "Parroquia Santa Barbara",
+      "boundary": "administrative",
+      "way_area": "0.00156256",
+      "admin_level": "8"
+    }
+  }
+]

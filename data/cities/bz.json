@@ -1,0 +1,143 @@
+[
+  {
+    "osm_id": -11520728,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-962357,-287827",
+    "name": "Benque Viejo del Carmen",
+    "local_name": "Benque Viejo del Carmen",
+    "name_en": null,
+    "all_tags": {
+      "name": "Benque Viejo del Carmen",
+      "boundary": "administrative",
+      "way_area": "0.000225772",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11520720,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-962357,-287827",
+    "name": "Santa Elena Town",
+    "local_name": "Santa Elena Town",
+    "name_en": null,
+    "all_tags": {
+      "name": "Santa Elena Town",
+      "boundary": "administrative",
+      "way_area": "0.000374861",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11520719,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-962357,-287827",
+    "name": "San Ignacio Town",
+    "local_name": "San Ignacio Town",
+    "name_en": null,
+    "all_tags": {
+      "name": "San Ignacio Town",
+      "boundary": "administrative",
+      "way_area": "0.000403226",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11520699,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-962354,-287827",
+    "name": "Belize City",
+    "local_name": "Belize City",
+    "name_en": null,
+    "all_tags": {
+      "name": "Belize City",
+      "boundary": "administrative",
+      "way_area": "0.00219461",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11520698,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-962356,-287827",
+    "name": "Corozal Town",
+    "local_name": "Corozal Town",
+    "name_en": null,
+    "all_tags": {
+      "name": "Corozal Town",
+      "boundary": "administrative",
+      "way_area": "0.000867363",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11520697,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-962355,-287827",
+    "name": "Orange Walk Town",
+    "local_name": "Orange Walk Town",
+    "name_en": null,
+    "all_tags": {
+      "name": "Orange Walk Town",
+      "boundary": "administrative",
+      "way_area": "0.000794123",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -11520689,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-962354,-287827",
+    "name": "San Pedro Town",
+    "local_name": "San Pedro Town",
+    "name_en": null,
+    "all_tags": {
+      "name": "San Pedro Town",
+      "boundary": "administrative",
+      "way_area": "0.000922904",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -10331791,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-962357,-287827",
+    "name": "Belmopan",
+    "local_name": "Belmopan",
+    "name_en": null,
+    "all_tags": {
+      "name": "Belmopan",
+      "capital": "yes",
+      "boundary": "administrative",
+      "way_area": "0.00309334",
+      "wikidata": "Q3043",
+      "wikipedia": "en:Belmopan",
+      "population": "22,387",
+      "admin_level": "8",
+      "population:date": "2020"
+    }
+  },
+  {
+    "osm_id": -3394396,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-962358,-287827",
+    "name": "Punta Gorda",
+    "local_name": "Punta Gorda",
+    "name_en": null,
+    "all_tags": {
+      "name": "Punta Gorda",
+      "place": "town",
+      "boundary": "administrative",
+      "way_area": "0.000192222",
+      "admin_level": "8"
+    }
+  }
+]

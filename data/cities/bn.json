@@ -1,0 +1,933 @@
+[
+  {
+    "osm_id": -8757975,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-8758501,-3853884,-2103120",
+    "name": "Seria",
+    "local_name": "Seria",
+    "name_en": null,
+    "all_tags": {
+      "name": "Seria",
+      "place": "town",
+      "alt_name": "Seria Town",
+      "boundary": "administrative",
+      "way_area": "0.000365463",
+      "wikidata": "Q2159472",
+      "wikipedia": "ms:Seria",
+      "admin_level": "8",
+      "official_name": "Pekan Seria"
+    }
+  },
+  {
+    "osm_id": -8751719,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-8751666,-3853885,-2103120",
+    "name": "Tanjong Kindana",
+    "local_name": "Tanjong Kindana",
+    "name_en": null,
+    "all_tags": {
+      "name": "Tanjong Kindana",
+      "place": "locality",
+      "boundary": "administrative",
+      "way_area": "0.000257737",
+      "admin_level": "8",
+      "official_name": "Kampung Tanjong Kindana"
+    }
+  },
+  {
+    "osm_id": -8751718,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-8751666,-3853885,-2103120",
+    "name": "Pudak",
+    "local_name": "Pudak",
+    "name_en": null,
+    "all_tags": {
+      "name": "Pudak",
+      "place": "hamlet",
+      "boundary": "administrative",
+      "way_area": "0.000390642",
+      "admin_level": "8",
+      "official_name": "Kampung Pudak"
+    }
+  },
+  {
+    "osm_id": -8751715,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-8751666,-3853885,-2103120",
+    "name": "Buang Tawar",
+    "local_name": "Buang Tawar",
+    "name_en": null,
+    "all_tags": {
+      "name": "Buang Tawar",
+      "place": "locality",
+      "boundary": "administrative",
+      "way_area": "7.34011e-05",
+      "admin_level": "8",
+      "official_name": "Kampung Buang Tawar"
+    }
+  },
+  {
+    "osm_id": -8751703,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-8751666,-3853885,-2103120",
+    "name": "Gadong Batu",
+    "local_name": "Gadong Batu",
+    "name_en": null,
+    "all_tags": {
+      "name": "Gadong Batu",
+      "place": "locality",
+      "boundary": "administrative",
+      "way_area": "8.14198e-05",
+      "admin_level": "8",
+      "official_name": "Kampung Gadong Batu"
+    }
+  },
+  {
+    "osm_id": -8751692,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-8751666,-3853885,-2103120",
+    "name": "Menunggol",
+    "local_name": "Menunggol",
+    "name_en": null,
+    "all_tags": {
+      "name": "Menunggol",
+      "place": "village",
+      "alt_name": "Menunggul",
+      "boundary": "administrative",
+      "way_area": "0.000703464",
+      "admin_level": "8",
+      "official_name": "Kampung Menunggol"
+    }
+  },
+  {
+    "osm_id": -8751671,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-8751666,-3853885,-2103120",
+    "name": "Riong",
+    "local_name": "Riong",
+    "name_en": null,
+    "all_tags": {
+      "name": "Riong",
+      "place": "locality",
+      "boundary": "administrative",
+      "way_area": "0.000192541",
+      "admin_level": "8",
+      "official_name": "Kampung Riong"
+    }
+  },
+  {
+    "osm_id": -8748817,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-8737970,-3853885,-2103120",
+    "name": "Lambak Kanan",
+    "local_name": "Lambak Kanan",
+    "name_en": null,
+    "all_tags": {
+      "name": "Lambak Kanan",
+      "place": "town",
+      "boundary": "administrative",
+      "way_area": "0.000572377",
+      "wikidata": "Q39061210",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8748559,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-8737979,-3853885,-2103120",
+    "name": "Lambak",
+    "local_name": "Lambak",
+    "name_en": null,
+    "all_tags": {
+      "name": "Lambak",
+      "place": "town",
+      "boundary": "administrative",
+      "way_area": "0.000491913",
+      "admin_level": "8",
+      "official_name": "Kampung Lambak"
+    }
+  },
+  {
+    "osm_id": -8748498,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-8748572,-3853885,-2103120",
+    "name": "Batong",
+    "local_name": "Batong",
+    "name_en": null,
+    "all_tags": {
+      "name": "Batong",
+      "place": "village",
+      "boundary": "administrative",
+      "way_area": "0.000782475",
+      "admin_level": "8",
+      "official_name": "Kampung Batong"
+    }
+  },
+  {
+    "osm_id": -8748497,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-8748572,-3853885,-2103120",
+    "name": "Panchor Murai",
+    "local_name": "Panchor Murai",
+    "name_en": null,
+    "all_tags": {
+      "name": "Panchor Murai",
+      "place": "village",
+      "boundary": "administrative",
+      "way_area": "0.000492439",
+      "admin_level": "8",
+      "official_name": "Kampung Panchor Murai"
+    }
+  },
+  {
+    "osm_id": -8748493,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-8748572,-3853885,-2103120",
+    "name": "Imang",
+    "local_name": "Imang",
+    "name_en": null,
+    "all_tags": {
+      "name": "Imang",
+      "place": "locality",
+      "boundary": "administrative",
+      "way_area": "0.000634112",
+      "wikidata": "Q56282362",
+      "admin_level": "8",
+      "official_name": "Kampung Imang"
+    }
+  },
+  {
+    "osm_id": -8748490,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-8748572,-3853885,-2103120",
+    "name": "Bebuloh",
+    "local_name": "Bebuloh",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bebuloh",
+      "place": "village",
+      "boundary": "administrative",
+      "way_area": "0.000404192",
+      "admin_level": "8",
+      "official_name": "Kampung Bebuloh"
+    }
+  },
+  {
+    "osm_id": -8748480,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-8748572,-3853885,-2103120",
+    "name": "Wasan",
+    "local_name": "Wasan",
+    "name_en": null,
+    "all_tags": {
+      "name": "Wasan",
+      "place": "village",
+      "boundary": "administrative",
+      "way_area": "0.00113692",
+      "admin_level": "8",
+      "official_name": "Kampung Wasan"
+    }
+  },
+  {
+    "osm_id": -8748455,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-8748572,-3853885,-2103120",
+    "name": "Batang Perhentian",
+    "local_name": "Batang Perhentian",
+    "name_en": null,
+    "all_tags": {
+      "name": "Batang Perhentian",
+      "place": "village",
+      "boundary": "administrative",
+      "way_area": "9.37374e-05",
+      "admin_level": "8",
+      "official_name": "Kampung Batang Perhentian"
+    }
+  },
+  {
+    "osm_id": -8748412,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-8748572,-3853885,-2103120",
+    "name": "Kuala Lurah",
+    "local_name": "Kuala Lurah",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kuala Lurah",
+      "place": "village",
+      "boundary": "administrative",
+      "way_area": "0.000470882",
+      "admin_level": "8",
+      "official_name": "Kampung Kuala Lurah"
+    }
+  },
+  {
+    "osm_id": -8748340,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-8748572,-3853885,-2103120",
+    "name": "Limau Manis",
+    "local_name": "Limau Manis",
+    "name_en": null,
+    "all_tags": {
+      "name": "Limau Manis",
+      "place": "village",
+      "boundary": "administrative",
+      "way_area": "0.000382719",
+      "admin_level": "8",
+      "official_name": "Kampung Limau Manis"
+    }
+  },
+  {
+    "osm_id": -8748332,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-8748572,-3853885,-2103120",
+    "name": "Batu Ampar",
+    "local_name": "Batu Ampar",
+    "name_en": null,
+    "all_tags": {
+      "name": "Batu Ampar",
+      "place": "village",
+      "boundary": "administrative",
+      "way_area": "0.000204519",
+      "admin_level": "8",
+      "official_name": "Kampung Batu Ampar"
+    }
+  },
+  {
+    "osm_id": -8748303,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-8748572,-3853885,-2103120",
+    "name": "Pangkalan Batu",
+    "local_name": "Pangkalan Batu",
+    "name_en": null,
+    "all_tags": {
+      "name": "Pangkalan Batu",
+      "boundary": "administrative",
+      "way_area": "0.000355315",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8748283,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-8748572,-3853885,-2103120",
+    "name": "Parit",
+    "local_name": "Parit",
+    "name_en": null,
+    "all_tags": {
+      "name": "Parit",
+      "boundary": "administrative",
+      "way_area": "0.000442444",
+      "admin_level": "8",
+      "official_name": "Kampung Parit"
+    }
+  },
+  {
+    "osm_id": -8748207,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-8748572,-3853885,-2103120",
+    "name": "Masin",
+    "local_name": "Masin",
+    "name_en": null,
+    "all_tags": {
+      "name": "Masin",
+      "place": "village",
+      "boundary": "administrative",
+      "way_area": "0.000870617",
+      "wikidata": "Q12688955",
+      "wikipedia": "ms:Kampung Masin",
+      "admin_level": "8",
+      "official_name": "Kampung Masin"
+    }
+  },
+  {
+    "osm_id": -8747351,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-8747413,-3853885,-2103120",
+    "name": "Jerudong",
+    "local_name": "Jerudong",
+    "name_en": null,
+    "all_tags": {
+      "name": "Jerudong",
+      "place": "village",
+      "boundary": "administrative",
+      "way_area": "0.00215206",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8747345,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-8747413,-3853885,-2103120",
+    "name": "Peninjau",
+    "local_name": "Peninjau",
+    "name_en": null,
+    "all_tags": {
+      "name": "Peninjau",
+      "place": "village",
+      "boundary": "administrative",
+      "way_area": "0.000824896",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8747293,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-8747413,-3853885,-2103120",
+    "name": "Lugu",
+    "local_name": "Lugu",
+    "name_en": null,
+    "all_tags": {
+      "name": "Lugu",
+      "place": "village",
+      "boundary": "administrative",
+      "way_area": "0.000609194",
+      "wikidata": "Q20453193",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8747285,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-8747413,-3853885,-2103120",
+    "name": "Tanjong Nangka",
+    "local_name": "Tanjong Nangka",
+    "name_en": null,
+    "all_tags": {
+      "name": "Tanjong Nangka",
+      "place": "village",
+      "boundary": "administrative",
+      "way_area": "0.000650289",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8747247,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-8747413,-3853885,-2103120",
+    "name": "Katimahar",
+    "local_name": "Katimahar",
+    "name_en": null,
+    "all_tags": {
+      "name": "Katimahar",
+      "place": "village",
+      "boundary": "administrative",
+      "way_area": "0.000444038",
+      "admin_level": "8",
+      "official_name": "Kampung Katimahar"
+    }
+  },
+  {
+    "osm_id": -8747221,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-8747413,-3853885,-2103120",
+    "name": "Kulapis",
+    "local_name": "Kulapis",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kulapis",
+      "place": "village",
+      "boundary": "administrative",
+      "way_area": "0.000400552",
+      "admin_level": "8",
+      "official_name": "Kampung Kulapis"
+    }
+  },
+  {
+    "osm_id": -8747100,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-8747413,-3853885,-2103120",
+    "name": "Selayun",
+    "local_name": "Selayun",
+    "name_en": null,
+    "all_tags": {
+      "name": "Selayun",
+      "boundary": "administrative",
+      "way_area": "0.00026396",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8747091,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-8747413,-3853885,-2103120",
+    "name": "Tagap",
+    "local_name": "Tagap",
+    "name_en": null,
+    "all_tags": {
+      "name": "Tagap",
+      "boundary": "administrative",
+      "way_area": "0.000117244",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8746925,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-8747128,-3853885,-2103120",
+    "name": "Burong Lepas",
+    "local_name": "Burong Lepas",
+    "name_en": null,
+    "all_tags": {
+      "name": "Burong Lepas",
+      "boundary": "administrative",
+      "way_area": "0.000112922",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8746912,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-8747128,-3853885,-2103120",
+    "name": "Sinarubai",
+    "local_name": "Sinarubai",
+    "name_en": null,
+    "all_tags": {
+      "name": "Sinarubai",
+      "boundary": "administrative",
+      "way_area": "0.000201801",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8741964,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-8741987,-3853885,-2103120",
+    "name": "Kasat",
+    "local_name": "Kasat",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kasat",
+      "place": "village",
+      "boundary": "administrative",
+      "way_area": "0.000954656",
+      "admin_level": "8",
+      "official_name": "Kampung Kasat"
+    }
+  },
+  {
+    "osm_id": -8741963,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-8741987,-3853885,-2103120",
+    "name": "Baong",
+    "local_name": "Baong",
+    "name_en": null,
+    "all_tags": {
+      "name": "Baong",
+      "place": "village",
+      "boundary": "administrative",
+      "way_area": "0.000378223",
+      "admin_level": "8",
+      "official_name": "Kampung Baong"
+    }
+  },
+  {
+    "osm_id": -8741962,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-8741987,-3853885,-2103120",
+    "name": "Putat",
+    "local_name": "Putat",
+    "name_en": null,
+    "all_tags": {
+      "name": "Putat",
+      "place": "village",
+      "boundary": "administrative",
+      "way_area": "0.000305761",
+      "admin_level": "8",
+      "official_name": "Kampung Putat"
+    }
+  },
+  {
+    "osm_id": -8736828,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-8747128,-3853885,-2103120",
+    "name": "Jangsak",
+    "local_name": "Jangsak",
+    "name_en": null,
+    "all_tags": {
+      "name": "Jangsak",
+      "place": "village",
+      "boundary": "administrative",
+      "way_area": "0.000240982",
+      "admin_level": "8",
+      "official_name": "Kampung Jangsak"
+    }
+  },
+  {
+    "osm_id": -8736478,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-8737979,-3853885,-2103120",
+    "name": "STKRJ Lambak Kiri",
+    "local_name": "STKRJ Lambak Kiri",
+    "name_en": null,
+    "all_tags": {
+      "name": "STKRJ Lambak Kiri",
+      "boundary": "administrative",
+      "way_area": "0.000369205",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8736477,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-8737979,-3853885,-2103120",
+    "name": "Lambak Kiri",
+    "local_name": "Lambak Kiri",
+    "name_en": null,
+    "all_tags": {
+      "name": "Lambak Kiri",
+      "place": "village",
+      "boundary": "administrative",
+      "way_area": "7.33079e-05",
+      "admin_level": "8",
+      "official_name": "Kampung Lambak Kiri"
+    }
+  },
+  {
+    "osm_id": -8736448,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-8737946,-3853885,-2103120",
+    "name": "Tanah Jambu",
+    "local_name": "Tanah Jambu",
+    "name_en": null,
+    "all_tags": {
+      "name": "Tanah Jambu",
+      "place": "village",
+      "boundary": "administrative",
+      "way_area": "0.000904256",
+      "admin_level": "8",
+      "official_name": "Kampung Tanah Jambu"
+    }
+  },
+  {
+    "osm_id": -8733199,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-8737970,-3853885,-2103120",
+    "name": "Sungai Orok",
+    "local_name": "Sungai Orok",
+    "name_en": null,
+    "all_tags": {
+      "name": "Sungai Orok",
+      "place": "village",
+      "boundary": "administrative",
+      "way_area": "8.12666e-05",
+      "admin_level": "8",
+      "official_name": "Kampung Sungai Orok"
+    }
+  },
+  {
+    "osm_id": -8733074,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-8737970,-3853885,-2103120",
+    "name": "Sungai Tilong",
+    "local_name": "Sungai Tilong",
+    "name_en": null,
+    "all_tags": {
+      "name": "Sungai Tilong",
+      "place": "village",
+      "boundary": "administrative",
+      "way_area": "0.000427765",
+      "admin_level": "8",
+      "official_name": "Kampung Sungai Tilong"
+    }
+  },
+  {
+    "osm_id": -8733073,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-8737970,-3853885,-2103120",
+    "name": "Sungai Hanching",
+    "local_name": "Sungai Hanching",
+    "name_en": null,
+    "all_tags": {
+      "name": "Sungai Hanching",
+      "place": "village",
+      "boundary": "administrative",
+      "way_area": "0.000240026",
+      "admin_level": "8",
+      "official_name": "Kampung Sungai Hanching"
+    }
+  },
+  {
+    "osm_id": -8733072,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-8737970,-3853885,-2103120",
+    "name": "Salambigar",
+    "local_name": "Salambigar",
+    "name_en": null,
+    "all_tags": {
+      "name": "Salambigar",
+      "place": "village",
+      "alt_name": "Kampong Salambigar",
+      "boundary": "administrative",
+      "way_area": "0.000441387",
+      "admin_level": "8",
+      "official_name": "Kampung Salambigar"
+    }
+  },
+  {
+    "osm_id": -8731583,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-8737936,-3853885,-2103120",
+    "name": "Serasa",
+    "local_name": "Serasa",
+    "name_en": null,
+    "all_tags": {
+      "name": "Serasa",
+      "place": "village",
+      "boundary": "administrative",
+      "way_area": "0.000584058",
+      "admin_level": "8",
+      "official_name": "Kampung Serasa"
+    }
+  },
+  {
+    "osm_id": -8731579,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-8737936,-3853885,-2103120",
+    "name": "Muara Town",
+    "local_name": "Muara",
+    "name_en": "Muara Town",
+    "all_tags": {
+      "name": "Muara",
+      "name:en": "Muara Town",
+      "name:ms": "Pekan Muara",
+      "boundary": "administrative",
+      "way_area": "0.000301538",
+      "admin_level": "8"
+    }
+  },
+  {
+    "osm_id": -8731568,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-8737936,-3853885,-2103120",
+    "name": "Sabun",
+    "local_name": "Sabun",
+    "name_en": null,
+    "all_tags": {
+      "name": "Sabun",
+      "place": "village",
+      "boundary": "administrative",
+      "way_area": "0.000107758",
+      "admin_level": "8",
+      "official_name": "Kampung Sabun"
+    }
+  },
+  {
+    "osm_id": -8731563,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-8737936,-3853885,-2103120",
+    "name": "Kapok",
+    "local_name": "Kapok",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kapok",
+      "place": "village",
+      "boundary": "administrative",
+      "way_area": "0.000412299",
+      "admin_level": "8",
+      "official_name": "Kampung Kapok"
+    }
+  },
+  {
+    "osm_id": -8731538,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-8737946,-3853885,-2103120",
+    "name": "Salar",
+    "local_name": "Salar",
+    "name_en": null,
+    "all_tags": {
+      "name": "Salar",
+      "place": "village",
+      "boundary": "administrative",
+      "way_area": "0.000152428",
+      "admin_level": "8",
+      "official_name": "Kampung Salar"
+    }
+  },
+  {
+    "osm_id": -8731490,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-8737946,-3853885,-2103120",
+    "name": "Pangkalan Sibabau",
+    "local_name": "Pangkalan Sibabau",
+    "name_en": null,
+    "all_tags": {
+      "name": "Pangkalan Sibabau",
+      "alt_name": "Pengkalan Sibabau",
+      "boundary": "administrative",
+      "way_area": "0.000160613",
+      "admin_level": "8",
+      "official_name": "Kampung Pangkalan Sibabau"
+    }
+  },
+  {
+    "osm_id": -8731487,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-8737946,-3853885,-2103120",
+    "name": "Mentiri",
+    "local_name": "Mentiri",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mentiri",
+      "place": "village",
+      "boundary": "administrative",
+      "way_area": "0.000216015",
+      "admin_level": "8",
+      "official_name": "Kampung Mentiri"
+    }
+  },
+  {
+    "osm_id": -8731451,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-8737946,-3853885,-2103120",
+    "name": "Sungai Buloh",
+    "local_name": "Sungai Buloh",
+    "name_en": null,
+    "all_tags": {
+      "name": "Sungai Buloh",
+      "place": "village",
+      "boundary": "administrative",
+      "way_area": "0.000135336",
+      "admin_level": "8",
+      "official_name": "Kampung Sungai Buloh"
+    }
+  },
+  {
+    "osm_id": -7411520,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-8758438,-3853884,-2103120",
+    "name": "Kuala Belait",
+    "local_name": "Kuala Belait",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kuala Belait",
+      "place": "town",
+      "boundary": "administrative",
+      "way_area": "0.00183137",
+      "wikidata": "Q588045",
+      "wikipedia": "ms:Kuala Belait",
+      "admin_level": "8",
+      "official_name": "Pekan Kuala Belait"
+    }
+  },
+  {
+    "osm_id": -4511312,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-8747128,-3853885,-2103120",
+    "name": "Tanjong Bunut",
+    "local_name": "Tanjong Bunut",
+    "name_en": null,
+    "all_tags": {
+      "name": "Tanjong Bunut",
+      "place": "village",
+      "boundary": "administrative",
+      "way_area": "0.000235729",
+      "admin_level": "8",
+      "postal_code": "BF2920",
+      "official_name": "Kampung Tanjong Bunut"
+    }
+  },
+  {
+    "osm_id": -4511310,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-8747128,-3853885,-2103120",
+    "name": "Kilanas",
+    "local_name": "Kilanas",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kilanas",
+      "place": "village",
+      "boundary": "administrative",
+      "way_area": "0.000635029",
+      "admin_level": "8",
+      "postal_code": "BF2520",
+      "official_name": "Kampong Kilanas"
+    }
+  },
+  {
+    "osm_id": -4502450,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-8748572,-3853885,-2103120",
+    "name": "Bebatik",
+    "local_name": "Bebatik",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bebatik",
+      "boundary": "administrative",
+      "way_area": "0.000283993",
+      "admin_level": "8",
+      "postal_code": "BH3223",
+      "official_name": "Kampong Bebatik"
+    }
+  },
+  {
+    "osm_id": -4427830,
+    "boundary": "administrative",
+    "admin_level": 8,
+    "parents": "-8747413,-3853885,-2103120",
+    "name": "Pasai",
+    "local_name": "Pasai",
+    "name_en": null,
+    "all_tags": {
+      "name": "Pasai",
+      "boundary": "administrative",
+      "way_area": "6.71683e-05",
+      "admin_level": "8",
+      "postal_code": "BG1221",
+      "official_name": "Kampung Pasai"
+    }
+  }
+]
