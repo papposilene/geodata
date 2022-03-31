@@ -5,6 +5,7 @@ namespace Database\Seeders;
 use Illuminate\Database\Seeder;
 use Illuminate\Support\Facades\DB;
 use Illuminate\Support\Facades\File;
+use Illuminate\Support\Str;
 use Papposilene\Geodata\Models\Country;
 use Papposilene\Geodata\Models\Region;
 
@@ -26,7 +27,7 @@ class RegionsSeeder extends Seeder
             $json = json_decode($file);
 
             foreach ($json as $data) {
-                $country = Country::where('cca2', strtolower($name))->first();
+                $country = Country::where('cca2', strtolower(Str::limit($name, 2)))->first();
 
                 // Get all translations for the administrative levels
                 $translations = array_filter(json_decode($data->all_tags, true), function($key) {
