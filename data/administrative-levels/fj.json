@@ -1,0 +1,93 @@
+[
+  {
+    "osm_id": -7223650,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-571747",
+    "name": "Rotuma",
+    "local_name": "Rotuma",
+    "name_en": null,
+    "all_tags": {
+      "name": "Rotuma",
+      "boundary": "administrative",
+      "way_area": "0.234577",
+      "wikidata": "Q459763",
+      "ISO3166-2": "FJ-R",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -4632582,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-571747",
+    "name": "Western",
+    "local_name": "Western",
+    "name_en": "Western",
+    "all_tags": {
+      "name": "Western",
+      "name:en": "Western",
+      "name:lt": "Vakarinis Fidžio padalinys",
+      "boundary": "administrative",
+      "way_area": "2.79152",
+      "wikidata": "Q1062451",
+      "ISO3166-2": "FJ-W",
+      "wikipedia": "en:Western Division, Fiji",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -4632581,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-571747",
+    "name": "Northern",
+    "local_name": "Northern",
+    "name_en": null,
+    "all_tags": {
+      "name": "Northern",
+      "boundary": "administrative",
+      "way_area": "3.96119",
+      "wikidata": "Q1062430",
+      "ISO3166-2": "FJ-N",
+      "wikipedia": "en:Northern Division, Fiji",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -4632580,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-571747",
+    "name": "Eastern",
+    "local_name": "Eastern",
+    "name_en": null,
+    "all_tags": {
+      "name": "Eastern",
+      "boundary": "administrative",
+      "way_area": "10.3878",
+      "wikidata": "Q182169",
+      "ISO3166-2": "FJ-E",
+      "wikipedia": "en:Eastern Division, Fiji",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -4632579,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-571747",
+    "name": "Central",
+    "local_name": "Central",
+    "name_en": null,
+    "all_tags": {
+      "name": "Central",
+      "boundary": "administrative",
+      "way_area": "0.890025",
+      "wikidata": "Q1053789",
+      "ISO3166-2": "FJ-C",
+      "wikipedia": "en:Central Division, Fiji",
+      "admin_level": "4"
+    }
+  }
+]

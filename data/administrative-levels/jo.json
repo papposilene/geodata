@@ -1,0 +1,2702 @@
+[
+  {
+    "osm_id": -13376140,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-13376133,-2925597,-184818",
+    "name": "Dhlail Sub-District",
+    "local_name": "قضاء الضليل",
+    "name_en": "Dhlail Sub-District",
+    "all_tags": {
+      "name": "قضاء الضليل",
+      "name:en": "Dhlail Sub-District",
+      "boundary": "administrative",
+      "way_area": "0.0187235",
+      "wikidata": "Q31866536",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13376139,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-13376133,-2925597,-184818",
+    "name": "Zarqa Sub-District",
+    "local_name": "قضاء الزرقاء",
+    "name_en": "Zarqa Sub-District",
+    "all_tags": {
+      "name": "قضاء الزرقاء",
+      "name:en": "Zarqa Sub-District",
+      "boundary": "administrative",
+      "way_area": "0.0275529",
+      "wikidata": "Q35182374",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13376138,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-2925597,-184818",
+    "name": "Russeifa District",
+    "local_name": "لواء الرصيفة",
+    "name_en": "Russeifa District",
+    "all_tags": {
+      "name": "لواء الرصيفة",
+      "name:en": "Russeifa District",
+      "boundary": "administrative",
+      "way_area": "0.00343524",
+      "wikidata": "Q27126260",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -13376137,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-13376133,-2925597,-184818",
+    "name": "Bierain Sub-District",
+    "local_name": "قضاء بيرين",
+    "name_en": "Bierain Sub-District",
+    "all_tags": {
+      "name": "قضاء بيرين",
+      "name:en": "Bierain Sub-District",
+      "boundary": "administrative",
+      "way_area": "0.0142499",
+      "wikidata": "Q22686455",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13376136,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-2925597,-184818",
+    "name": "Hashemiyah District",
+    "local_name": "لواء الهاشمية",
+    "name_en": "Hashemiyah District",
+    "all_tags": {
+      "name": "لواء الهاشمية",
+      "name:en": "Hashemiyah District",
+      "boundary": "administrative",
+      "way_area": "0.0116615",
+      "wikidata": "Q27126259",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -13376135,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-13376133,-2925597,-184818",
+    "name": "Azraq Sub-District",
+    "local_name": "قضاء الأزرق",
+    "name_en": "Azraq Sub-District",
+    "all_tags": {
+      "name": "قضاء الأزرق",
+      "name:en": "Azraq Sub-District",
+      "boundary": "administrative",
+      "way_area": "0.375914",
+      "wikidata": "Q31866537",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13376134,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-13376138,-2925597,-184818",
+    "name": "Russeifa Sub-District",
+    "local_name": "قضاء الرصيفة",
+    "name_en": "Russeifa Sub-District",
+    "all_tags": {
+      "name": "قضاء الرصيفة",
+      "name:en": "Russeifa Sub-District",
+      "boundary": "administrative",
+      "way_area": "0.00343524",
+      "wikidata": "Q35182444",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13376133,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-2925597,-184818",
+    "name": "Zarqa Qasabah",
+    "local_name": "لواء قصبة الزرقاء",
+    "name_en": "Zarqa Qasabah",
+    "all_tags": {
+      "name": "لواء قصبة الزرقاء",
+      "name:en": "Zarqa Qasabah",
+      "boundary": "administrative",
+      "way_area": "0.43644",
+      "wikidata": "Q27126261",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -13376132,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-13376136,-2925597,-184818",
+    "name": "Hashemiyah Sub-District",
+    "local_name": "قضاء الهاشمية",
+    "name_en": "Hashemiyah Sub-District",
+    "all_tags": {
+      "name": "قضاء الهاشمية",
+      "name:en": "Hashemiyah Sub-District",
+      "boundary": "administrative",
+      "way_area": "0.0116615",
+      "wikidata": "Q35182459",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13376131,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-13376128,-2925599,-184818",
+    "name": "Mestabah Sub-District",
+    "local_name": "قضاء المصطبة",
+    "name_en": "Mestabah Sub-District",
+    "all_tags": {
+      "name": "قضاء المصطبة",
+      "name:en": "Mestabah Sub-District",
+      "boundary": "administrative",
+      "way_area": "0.00455791",
+      "wikidata": "Q27126210",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13376130,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-13376128,-2925599,-184818",
+    "name": "Borma Sub-District",
+    "local_name": "قضاء برما",
+    "name_en": "Borma Sub-District",
+    "all_tags": {
+      "name": "قضاء برما",
+      "name:en": "Borma Sub-District",
+      "boundary": "administrative",
+      "way_area": "0.00894441",
+      "wikidata": "Q27126211",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13376129,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-13376128,-2925599,-184818",
+    "name": "Jerash Sub-District",
+    "local_name": "مقاطعة جرش",
+    "name_en": "Jerash Sub-District",
+    "all_tags": {
+      "name": "مقاطعة جرش",
+      "name:en": "Jerash Sub-District",
+      "boundary": "administrative",
+      "way_area": "0.025878",
+      "wikidata": "Q61439301",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13376128,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-2925599,-184818",
+    "name": "Qasabah Jerash",
+    "local_name": "لواء قصبة جرش",
+    "name_en": "Qasabah Jerash",
+    "all_tags": {
+      "name": "لواء قصبة جرش",
+      "name:en": "Qasabah Jerash",
+      "boundary": "administrative",
+      "way_area": "0.0393803",
+      "wikidata": "Q27126272",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -13376127,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-13376113,-2925608,-184818",
+    "name": "Khaldiyah Sub-District",
+    "local_name": "قضاء الخالدية",
+    "name_en": "Khaldiyah Sub-District",
+    "all_tags": {
+      "name": "قضاء الخالدية",
+      "name:en": "Khaldiyah Sub-District",
+      "boundary": "administrative",
+      "way_area": "0.0139142",
+      "wikidata": "Q27126217",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13376126,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-13376110,-2925608,-184818",
+    "name": "Salhiya Sub-District",
+    "local_name": "قضاء الصالحية",
+    "name_en": "Salhiya Sub-District",
+    "all_tags": {
+      "name": "قضاء الصالحية",
+      "name:en": "Salhiya Sub-District",
+      "boundary": "administrative",
+      "way_area": "0.261733",
+      "wikidata": "Q35182735",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13376125,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-13376110,-2925608,-184818",
+    "name": "Dair Al Kahf Sub-District",
+    "local_name": "قضاء دير الكهف",
+    "name_en": "Dair Al Kahf Sub-District",
+    "all_tags": {
+      "name": "قضاء دير الكهف",
+      "name:en": "Dair Al Kahf Sub-District",
+      "boundary": "administrative",
+      "way_area": "0.0598349",
+      "wikidata": "Q27126222",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13376124,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-13376110,-2925608,-184818",
+    "name": "Um-Elqotain Sub-District",
+    "local_name": "قضاء أم القطين",
+    "name_en": "Um-Elqotain Sub-District",
+    "all_tags": {
+      "name": "قضاء أم القطين",
+      "name:en": "Um-Elqotain Sub-District",
+      "boundary": "administrative",
+      "way_area": "0.00759936",
+      "wikidata": "Q27126221",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13376123,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-13376110,-2925608,-184818",
+    "name": "Sabha Sub-District",
+    "local_name": "قضاء صبحا",
+    "name_en": "Sabha Sub-District",
+    "all_tags": {
+      "name": "قضاء صبحا",
+      "name:en": "Sabha Sub-District",
+      "boundary": "administrative",
+      "way_area": "0.0157116",
+      "wikidata": "Q27126220",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13376122,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-13376110,-2925608,-184818",
+    "name": "Um Al-Jemal Sub-District",
+    "local_name": "قضاء أم الجمال",
+    "name_en": "Um Al-Jemal Sub-District",
+    "all_tags": {
+      "name": "قضاء أم الجمال",
+      "name:en": "Um Al-Jemal Sub-District",
+      "boundary": "administrative",
+      "way_area": "0.0101259",
+      "wikidata": "Q27126219",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13376121,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-13376116,-2925608,-184818",
+    "name": "Manshiyah Sub-District",
+    "local_name": "قضاء المنشية",
+    "name_en": "Manshiyah Sub-District",
+    "all_tags": {
+      "name": "قضاء المنشية",
+      "name:en": "Manshiyah Sub-District",
+      "boundary": "administrative",
+      "way_area": "0.00389409",
+      "wikidata": "Q27126212",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13376120,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-13376116,-2925608,-184818",
+    "name": "Irhab Sub-District",
+    "local_name": "قضاء إرحاب",
+    "name_en": "Irhab Sub-District",
+    "all_tags": {
+      "name": "قضاء إرحاب",
+      "name:en": "Irhab Sub-District",
+      "boundary": "administrative",
+      "way_area": "0.0193832",
+      "wikidata": "Q27126213",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13376119,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-13376116,-2925608,-184818",
+    "name": "Bal'ama Sub-District",
+    "local_name": "قضاء بلعما",
+    "name_en": "Bal'ama Sub-District",
+    "all_tags": {
+      "name": "قضاء بلعما",
+      "name:en": "Bal'ama Sub-District",
+      "boundary": "administrative",
+      "way_area": "0.0169138",
+      "wikidata": "Q27126214",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13376118,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-13376116,-2925608,-184818",
+    "name": "Mafraq Sub-District",
+    "local_name": "قضاء المفرق",
+    "name_en": "Mafraq Sub-District",
+    "all_tags": {
+      "name": "قضاء المفرق",
+      "name:en": "Mafraq Sub-District",
+      "boundary": "administrative",
+      "way_area": "0.0182078",
+      "wikidata": "Q35182694",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13376117,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-13376113,-2925608,-184818",
+    "name": "Badiah Shamaliyah Gharbiyah Sub-District",
+    "local_name": "قضاء البادية الشمالية الغربية",
+    "name_en": "Badiah Shamaliyah Gharbiyah Sub-District",
+    "all_tags": {
+      "name": "قضاء البادية الشمالية الغربية",
+      "name:en": "Badiah Shamaliyah Gharbiyah Sub-District",
+      "boundary": "administrative",
+      "way_area": "0.0244262",
+      "wikidata": "Q35182771",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13376116,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-2925608,-184818",
+    "name": "Mafraq Qasabah District",
+    "local_name": "لواء قصبة المفرق",
+    "name_en": "Mafraq Qasabah District",
+    "all_tags": {
+      "name": "لواء قصبة المفرق",
+      "name:en": "Mafraq Qasabah District",
+      "boundary": "administrative",
+      "way_area": "0.0583988",
+      "wikidata": "Q27126270",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -13376115,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-13376113,-2925608,-184818",
+    "name": "Serhan Sub-District",
+    "local_name": "قضاء سما السرحان",
+    "name_en": "Serhan Sub-District",
+    "all_tags": {
+      "name": "قضاء سما السرحان",
+      "name:en": "Serhan Sub-District",
+      "boundary": "administrative",
+      "way_area": "0.00908462",
+      "wikidata": "Q27126216",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13376114,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-13376113,-2925608,-184818",
+    "name": "Hosha Sub-District",
+    "local_name": "قضاء حوشا",
+    "name_en": "Hosha Sub-District",
+    "all_tags": {
+      "name": "قضاء حوشا",
+      "name:en": "Hosha Sub-District",
+      "boundary": "administrative",
+      "way_area": "0.0142952",
+      "wikidata": "Q27126215",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13376113,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-2925608,-184818",
+    "name": "Badiah Shamaliyah Gharbiyah District",
+    "local_name": "لواء البادية الشمالية الغربية",
+    "name_en": "Badiah Shamaliyah Gharbiyah District",
+    "all_tags": {
+      "name": "لواء البادية الشمالية الغربية",
+      "name:en": "Badiah Shamaliyah Gharbiyah District",
+      "boundary": "administrative",
+      "way_area": "0.0617203",
+      "wikidata": "Q27126268",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -13376112,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-13376111,-2925608,-184818",
+    "name": "Rwaished Sub-District",
+    "local_name": "Rwaished Sub-District",
+    "name_en": "Rwaished Sub-District",
+    "all_tags": {
+      "name": "Rwaished Sub-District",
+      "name:en": "Rwaished Sub-District",
+      "boundary": "administrative",
+      "way_area": "2.06809",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13376111,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-2925608,-184818",
+    "name": "Rwaished District",
+    "local_name": "لواء الرويشد",
+    "name_en": "Rwaished District",
+    "all_tags": {
+      "name": "لواء الرويشد",
+      "name:en": "Rwaished District",
+      "boundary": "administrative",
+      "way_area": "2.06809",
+      "wikidata": "Q27126267",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -13376110,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-2925608,-184818",
+    "name": "Badiah Shamaliyah District",
+    "local_name": "لواء البادية الشمالية",
+    "name_en": "Badiah Shamaliyah District",
+    "all_tags": {
+      "name": "لواء البادية الشمالية",
+      "name:en": "Badiah Shamaliyah District",
+      "boundary": "administrative",
+      "way_area": "0.355005",
+      "wikidata": "Q27126269",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -13376109,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-2925617,-184818",
+    "name": "Koorah District",
+    "local_name": "لواء الكورة",
+    "name_en": "Koorah District",
+    "all_tags": {
+      "name": "لواء الكورة",
+      "name:en": "Koorah District",
+      "boundary": "administrative",
+      "way_area": "0.0175296",
+      "wikidata": "Q4702723",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -13376108,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-2925617,-184818",
+    "name": "Mazar Shamali District",
+    "local_name": "لواء المزار الشمالي",
+    "name_en": "Mazar Shamali District",
+    "all_tags": {
+      "name": "لواء المزار الشمالي",
+      "name:en": "Mazar Shamali District",
+      "boundary": "administrative",
+      "way_area": "0.00833249",
+      "wikidata": "Q4704418",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -13376107,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-2925617,-184818",
+    "name": "Taybeh District",
+    "local_name": "لواء الطيبة",
+    "name_en": "Taybeh District",
+    "all_tags": {
+      "name": "لواء الطيبة",
+      "name:en": "Taybeh District",
+      "boundary": "administrative",
+      "way_area": "0.00604057",
+      "wikidata": "Q27126276",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -13376106,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-13376097,-2925617,-184818",
+    "name": "Irbid Sub-District",
+    "local_name": "Irbid Sub-District",
+    "name_en": "Irbid Sub-District",
+    "all_tags": {
+      "name": "Irbid Sub-District",
+      "name:en": "Irbid Sub-District",
+      "boundary": "administrative",
+      "way_area": "0.0227794",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13376105,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-13376094,-2925617,-184818",
+    "name": "Bani Kenanah Sub-District",
+    "local_name": "قضاء بني كنانة",
+    "name_en": "Bani Kenanah Sub-District",
+    "all_tags": {
+      "name": "قضاء بني كنانة",
+      "name:en": "Bani Kenanah Sub-District",
+      "boundary": "administrative",
+      "way_area": "0.0238679",
+      "wikidata": "Q35182606",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13376104,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-2925617,-184818",
+    "name": "Aghwar Shamaliyah District",
+    "local_name": "لواء الأغوار الشمالية",
+    "name_en": "Aghwar Shamaliyah District",
+    "all_tags": {
+      "name": "لواء الأغوار الشمالية",
+      "name:en": "Aghwar Shamaliyah District",
+      "boundary": "administrative",
+      "way_area": "0.0225388",
+      "wikidata": "Q27125427",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -13376103,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-13376096,-2925617,-184818",
+    "name": "Ramtha Sub-District",
+    "local_name": "قضاء الرمثا",
+    "name_en": "Ramtha Sub-District",
+    "all_tags": {
+      "name": "قضاء الرمثا",
+      "name:en": "Ramtha Sub-District",
+      "boundary": "administrative",
+      "way_area": "0.027088",
+      "wikidata": "Q35182565",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13376102,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-2925617,-184818",
+    "name": "Bani Obeid District",
+    "local_name": "لواء بني عبيد",
+    "name_en": "Bani Obeid District",
+    "all_tags": {
+      "name": "لواء بني عبيد",
+      "name:en": "Bani Obeid District",
+      "boundary": "administrative",
+      "way_area": "0.0181919",
+      "wikidata": "Q27125426",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -13376101,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-13376086,-2925616,-184818",
+    "name": "Kufranjah Sub-District",
+    "local_name": "قضاء كفرنجة",
+    "name_en": "Kufranjah Sub-District",
+    "all_tags": {
+      "name": "قضاء كفرنجة",
+      "name:en": "Kufranjah Sub-District",
+      "boundary": "administrative",
+      "way_area": "0.00822031",
+      "wikidata": "Q35182883",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13376100,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-13376087,-2925616,-184818",
+    "name": "Ajloun Sub-District",
+    "local_name": "Ajloun Sub-District",
+    "name_en": "Ajloun Sub-District",
+    "all_tags": {
+      "name": "Ajloun Sub-District",
+      "name:en": "Ajloun Sub-District",
+      "boundary": "administrative",
+      "way_area": "0.0214345",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13376099,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-13376087,-2925616,-184818",
+    "name": "Orjan Sub-District",
+    "local_name": "قضاء عرجان",
+    "name_en": "Orjan Sub-District",
+    "all_tags": {
+      "name": "قضاء عرجان",
+      "name:en": "Orjan Sub-District",
+      "boundary": "administrative",
+      "way_area": "0.0046607",
+      "wikidata": "Q27126208",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13376098,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-13376087,-2925616,-184818",
+    "name": "Sakhrah Sub-District",
+    "local_name": "قضاء صخرة",
+    "name_en": "Sakhrah Sub-District",
+    "all_tags": {
+      "name": "قضاء صخرة",
+      "name:en": "Sakhrah Sub-District",
+      "boundary": "administrative",
+      "way_area": "0.00557035",
+      "wikidata": "Q27126207",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13376097,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-2925617,-184818",
+    "name": "Irbid Qasabah District",
+    "local_name": "لواء قصبة إربد",
+    "name_en": "Irbid Qasabah District",
+    "all_tags": {
+      "name": "لواء قصبة إربد",
+      "name:en": "Irbid Qasabah District",
+      "boundary": "administrative",
+      "way_area": "0.0227794",
+      "wikidata": "Q27125428",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -13376096,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-2925617,-184818",
+    "name": "Ramtha District",
+    "local_name": "لواء الرمثا",
+    "name_en": "Ramtha District",
+    "all_tags": {
+      "name": "لواء الرمثا",
+      "name:en": "Ramtha District",
+      "boundary": "administrative",
+      "way_area": "0.027088",
+      "wikidata": "Q27125429",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -13376095,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-13376109,-2925617,-184818",
+    "name": "Koorah Sub-District",
+    "local_name": "قضاء الكورة",
+    "name_en": "Koorah Sub-District",
+    "all_tags": {
+      "name": "قضاء الكورة",
+      "name:en": "Koorah Sub-District",
+      "boundary": "administrative",
+      "way_area": "0.0175296",
+      "wikidata": "Q35182590",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13376094,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-2925617,-184818",
+    "name": "Bani Kenanah District",
+    "local_name": "لواء بني كنانة",
+    "name_en": "Bani Kenanah District",
+    "all_tags": {
+      "name": "لواء بني كنانة",
+      "name:en": "Bani Kenanah District",
+      "boundary": "administrative",
+      "way_area": "0.0238679",
+      "wikidata": "Q4855696",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -13376093,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-13376104,-2925617,-184818",
+    "name": "Aghwar Janoobiyah Sub-District",
+    "local_name": "Aghwar Janoobiyah Sub-District",
+    "name_en": "Aghwar Janoobiyah Sub-District",
+    "all_tags": {
+      "name": "Aghwar Janoobiyah Sub-District",
+      "name:en": "Aghwar Janoobiyah Sub-District",
+      "boundary": "administrative",
+      "way_area": "0.0225388",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13376092,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-13376102,-2925617,-184818",
+    "name": "Bani Obeid Sub-District",
+    "local_name": "قضاء بني عبيد",
+    "name_en": "Bani Obeid Sub-District",
+    "all_tags": {
+      "name": "قضاء بني عبيد",
+      "name:en": "Bani Obeid Sub-District",
+      "boundary": "administrative",
+      "way_area": "0.0181919",
+      "wikidata": "Q35182636",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13376091,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-13376108,-2925617,-184818",
+    "name": "Mazar Shamali Sub-District",
+    "local_name": "Mazar Shamali Sub-District",
+    "name_en": "Mazar Shamali Sub-District",
+    "all_tags": {
+      "name": "Mazar Shamali Sub-District",
+      "name:en": "Mazar Shamali Sub-District",
+      "boundary": "administrative",
+      "way_area": "0.00833249",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13376090,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-13376107,-2925617,-184818",
+    "name": "Taybeh Sub-District",
+    "local_name": "قضاء الطبية",
+    "name_en": "Taybeh Sub-District",
+    "all_tags": {
+      "name": "قضاء الطبية",
+      "name:en": "Taybeh Sub-District",
+      "boundary": "administrative",
+      "way_area": "0.00604057",
+      "wikidata": "Q35182657",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13376089,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-2925617,-184818",
+    "name": "Wastiyyah District",
+    "local_name": "لواء الوسطية",
+    "name_en": "Wastiyyah District",
+    "all_tags": {
+      "name": "لواء الوسطية",
+      "name:en": "Wastiyyah District",
+      "boundary": "administrative",
+      "way_area": "0.00445466",
+      "wikidata": "Q27126275",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -13376088,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-13376089,-2925617,-184818",
+    "name": "El-Wastiyyeh Sub-District",
+    "local_name": "قضاء الوسطية",
+    "name_en": "El-Wastiyyeh Sub-District",
+    "all_tags": {
+      "name": "قضاء الوسطية",
+      "name:en": "El-Wastiyyeh Sub-District",
+      "boundary": "administrative",
+      "way_area": "0.00445466",
+      "wikidata": "Q35182678",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13376087,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-2925616,-184818",
+    "name": "Ajloun Qasabah District",
+    "local_name": "لواء قصبة عجلون",
+    "name_en": "Ajloun Qasabah District",
+    "all_tags": {
+      "name": "لواء قصبة عجلون",
+      "name:en": "Ajloun Qasabah District",
+      "boundary": "administrative",
+      "way_area": "0.0316655",
+      "wikidata": "Q27126274",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -13376086,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-2925616,-184818",
+    "name": "Kufranjah District",
+    "local_name": "لواء كفرنجة",
+    "name_en": "Kufranjah District",
+    "all_tags": {
+      "name": "لواء كفرنجة",
+      "name:en": "Kufranjah District",
+      "boundary": "administrative",
+      "way_area": "0.00822031",
+      "wikidata": "Q27126273",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -13376085,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-13376081,-2926345,-184818",
+    "name": "Aqaba Sub-District",
+    "local_name": "قضاء العقبة",
+    "name_en": "Aqaba Sub-District",
+    "all_tags": {
+      "name": "قضاء العقبة",
+      "name:ar": "قضاء العقبة",
+      "name:de": "Unterbezirk Akaba",
+      "name:en": "Aqaba Sub-District",
+      "name:es": "Subdistrito de Áqaba",
+      "boundary": "administrative",
+      "way_area": "0.18978",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13376084,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-13376081,-2926345,-184818",
+    "name": "Wadi Araba Sub-District",
+    "local_name": "قضاء وادي عربة",
+    "name_en": "Wadi Araba Sub-District",
+    "all_tags": {
+      "name": "قضاء وادي عربة",
+      "name:en": "Wadi Araba Sub-District",
+      "boundary": "administrative",
+      "way_area": "0.218916",
+      "wikidata": "Q27126198",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13376083,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-13376080,-2926345,-184818",
+    "name": "Al Quairah Sub-District",
+    "local_name": "قضاء القويرة",
+    "name_en": "Al Quairah Sub-District",
+    "all_tags": {
+      "name": "قضاء القويرة",
+      "name:en": "Al Quairah Sub-District",
+      "boundary": "administrative",
+      "way_area": "0.148607",
+      "wikidata": "Q35183214",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13376082,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-13376080,-2926345,-184818",
+    "name": "Diesah Sub-District",
+    "local_name": "قضاء الديسة",
+    "name_en": "Diesah Sub-District",
+    "all_tags": {
+      "name": "قضاء الديسة",
+      "name:en": "Diesah Sub-District",
+      "boundary": "administrative",
+      "way_area": "0.0859555",
+      "wikidata": "Q27126196",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13376081,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-2926345,-184818",
+    "name": "Aqaba Qasabah District",
+    "local_name": "لواء قصبة العقبة",
+    "name_en": "Aqaba Qasabah District",
+    "all_tags": {
+      "name": "لواء قصبة العقبة",
+      "name:en": "Aqaba Qasabah District",
+      "boundary": "administrative",
+      "way_area": "0.408696",
+      "wikidata": "Q27126240",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -13376080,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-2926345,-184818",
+    "name": "Quairah District",
+    "local_name": "لواء القويرة",
+    "name_en": "Quairah District",
+    "all_tags": {
+      "name": "لواء القويرة",
+      "name:en": "Quairah District",
+      "boundary": "administrative",
+      "way_area": "0.234562",
+      "wikidata": "Q27126244",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -13376079,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-13376071,-2926347,-184818",
+    "name": "Ma'an Sub-District",
+    "local_name": "Ma'an Sub-District",
+    "name_en": "Ma'an Sub-District",
+    "all_tags": {
+      "name": "Ma'an Sub-District",
+      "name:en": "Ma'an Sub-District",
+      "boundary": "administrative",
+      "way_area": "0.22735",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13376078,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-13376071,-2926347,-184818",
+    "name": "Mraighah Sub-District",
+    "local_name": "قضاء المريغة",
+    "name_en": "Mraighah Sub-District",
+    "all_tags": {
+      "name": "قضاء المريغة",
+      "name:en": "Mraighah Sub-District",
+      "boundary": "administrative",
+      "way_area": "0.0637508",
+      "wikidata": "Q27126199",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13376077,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-13376071,-2926347,-184818",
+    "name": "Ayl Sub-District",
+    "local_name": "قضاء ايل",
+    "name_en": "Ayl Sub-District",
+    "all_tags": {
+      "name": "قضاء ايل",
+      "name:en": "Ayl Sub-District",
+      "name:fr": "Ayl",
+      "alt_name": "Iel Sub-District",
+      "boundary": "administrative",
+      "way_area": "0.0198637",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13376076,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-13376070,-2926347,-184818",
+    "name": "Petra Sub-District",
+    "local_name": "Petra Sub-District",
+    "name_en": "Petra Sub-District",
+    "all_tags": {
+      "name": "Petra Sub-District",
+      "name:en": "Petra Sub-District",
+      "boundary": "administrative",
+      "way_area": "0.0226672",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13376075,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-13376069,-2926347,-184818",
+    "name": "Shobak Qasabah Sub-District",
+    "local_name": "قضاء الشوبك",
+    "name_en": "Shobak Qasabah Sub-District",
+    "all_tags": {
+      "name": "قضاء الشوبك",
+      "name:en": "Shobak Qasabah Sub-District",
+      "boundary": "administrative",
+      "way_area": "0.0351364",
+      "wikidata": "Q35183188",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13376074,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-13376068,-2926347,-184818",
+    "name": "Huseiniya Sub-District",
+    "local_name": "قضاء الحسينية",
+    "name_en": "Huseiniya Sub-District",
+    "all_tags": {
+      "name": "قضاء الحسينية",
+      "name:en": "Huseiniya Sub-District",
+      "boundary": "administrative",
+      "way_area": "0.0479693",
+      "wikidata": "Q35183199",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13376073,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-13376071,-2926347,-184818",
+    "name": "Al-Jafr Sub-District",
+    "local_name": "قضاء الجفر",
+    "name_en": "Al-Jafr Sub-District",
+    "all_tags": {
+      "name": "قضاء الجفر",
+      "name:en": "Al-Jafr Sub-District",
+      "name:fr": "Al-Jafr",
+      "alt_name": "Jafr Sub-District",
+      "boundary": "administrative",
+      "way_area": "2.6411",
+      "wikidata": "Q27126200",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13376072,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-13376071,-2926347,-184818",
+    "name": "Udhruh Sub-District",
+    "local_name": "قضاء أذرح",
+    "name_en": "Udhruh Sub-District",
+    "all_tags": {
+      "name": "قضاء أذرح",
+      "name:en": "Udhruh Sub-District",
+      "name:fr": "Udhruh",
+      "alt_name": "Athroh Sub-District",
+      "boundary": "administrative",
+      "way_area": "0.027499",
+      "wikidata": "Q27126203",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13376071,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-2926347,-184818",
+    "name": "Ma'an Qasabah District",
+    "local_name": "لواء قصبة معان",
+    "name_en": "Ma'an Qasabah District",
+    "all_tags": {
+      "name": "لواء قصبة معان",
+      "name:en": "Ma'an Qasabah District",
+      "boundary": "administrative",
+      "way_area": "2.97956",
+      "wikidata": "Q27126248",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -13376070,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-2926347,-184818",
+    "name": "Petra District",
+    "local_name": "لواء البتراء",
+    "name_en": "Petra District",
+    "all_tags": {
+      "name": "لواء البتراء",
+      "name:en": "Petra District",
+      "boundary": "administrative",
+      "way_area": "0.0226672",
+      "wikidata": "Q27126245",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -13376069,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-2926347,-184818",
+    "name": "Shobak Qasabah District",
+    "local_name": "لواء الشوبك",
+    "name_en": "Shobak Qasabah District",
+    "all_tags": {
+      "name": "لواء الشوبك",
+      "name:en": "Shobak Qasabah District",
+      "boundary": "administrative",
+      "way_area": "0.0351364",
+      "wikidata": "Q27126246",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -13376068,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-2926347,-184818",
+    "name": "Huseiniya District",
+    "local_name": "لواء الحسينية",
+    "name_en": "Huseiniya District",
+    "all_tags": {
+      "name": "لواء الحسينية",
+      "name:en": "Huseiniya District",
+      "boundary": "administrative",
+      "way_area": "0.0479693",
+      "wikidata": "Q27126241",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -13376067,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-13376045,-2926349,-184818",
+    "name": "Al Hasa Sub-District",
+    "local_name": "قضاء الحسا",
+    "name_en": "Al Hasa Sub-District",
+    "all_tags": {
+      "name": "قضاء الحسا",
+      "name:en": "Al Hasa Sub-District",
+      "name:fr": "Al Hasa",
+      "alt_name": "Hasa Sub-District",
+      "boundary": "administrative",
+      "way_area": "0.0898754",
+      "wikidata": "Q35183094",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13376066,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-13376046,-2926349,-184818",
+    "name": "Busayra Sub-District",
+    "local_name": "قضاء بصيرا",
+    "name_en": "Busayra Sub-District",
+    "all_tags": {
+      "name": "قضاء بصيرا",
+      "name:en": "Busayra Sub-District",
+      "name:fr": "Busayra",
+      "alt_name": "Bsaira Sub-District",
+      "boundary": "administrative",
+      "way_area": "0.0212412",
+      "wikidata": "Q35183071",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13376065,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-13376047,-2926349,-184818",
+    "name": "At Tafila Sub-District",
+    "local_name": "At Tafila Sub-District",
+    "name_en": "At Tafila Sub-District",
+    "all_tags": {
+      "name": "At Tafila Sub-District",
+      "name:en": "At Tafila Sub-District",
+      "name:fr": "At Tafila",
+      "alt_name": "Tafilah Sub-District",
+      "boundary": "administrative",
+      "way_area": "0.0967634",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13376064,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-13376052,-2926346,-184818",
+    "name": "Qasr Sub-District",
+    "local_name": "قضاء القصر",
+    "name_en": "Qasr Sub-District",
+    "all_tags": {
+      "name": "قضاء القصر",
+      "name:en": "Qasr Sub-District",
+      "boundary": "administrative",
+      "way_area": "0.0158273",
+      "wikidata": "Q35182924",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13376063,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-2926346,-184818",
+    "name": "Faqo'e District",
+    "local_name": "لواء فقوع",
+    "name_en": "Faqo'e District",
+    "all_tags": {
+      "name": "لواء فقوع",
+      "name:en": "Faqo'e District",
+      "boundary": "administrative",
+      "way_area": "0.00950588",
+      "wikidata": "Q27126256",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -13376062,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-13376052,-2926346,-184818",
+    "name": "Mowjeb Sub-District",
+    "local_name": "قضاء الموجب",
+    "name_en": "Mowjeb Sub-District",
+    "all_tags": {
+      "name": "قضاء الموجب",
+      "name:en": "Mowjeb Sub-District",
+      "boundary": "administrative",
+      "way_area": "0.00705577",
+      "wikidata": "Q27126206",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13376061,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-13376048,-2926346,-184818",
+    "name": "Ghawr Almazra'a Sub-District",
+    "local_name": "قضاء غور المزرعة",
+    "name_en": "Ghawr Almazra'a Sub-District",
+    "all_tags": {
+      "name": "قضاء غور المزرعة",
+      "name:en": "Ghawr Almazra'a Sub-District",
+      "boundary": "administrative",
+      "way_area": "0.0481869",
+      "wikidata": "Q27126205",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13376060,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-13376048,-2926346,-184818",
+    "name": "Safi Sub-District",
+    "local_name": "قضاء غور الصافي",
+    "name_en": "Safi Sub-District",
+    "all_tags": {
+      "name": "قضاء غور الصافي",
+      "name:en": "Safi Sub-District",
+      "boundary": "administrative",
+      "way_area": "0.0380524",
+      "wikidata": "Q35182950",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13376059,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-13376054,-2926346,-184818",
+    "name": "Mazar Sub-District",
+    "local_name": "Mazar Sub-District",
+    "name_en": "Mazar Sub-District",
+    "all_tags": {
+      "name": "Mazar Sub-District",
+      "name:en": "Mazar Sub-District",
+      "boundary": "administrative",
+      "way_area": "0.0393493",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13376058,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-13376054,-2926346,-184818",
+    "name": "Mo'aab Sub-District",
+    "local_name": "قضاء مؤاب",
+    "name_en": "Mo'aab Sub-District",
+    "all_tags": {
+      "name": "قضاء مؤاب",
+      "name:en": "Mo'aab Sub-District",
+      "boundary": "administrative",
+      "way_area": "0.00776342",
+      "wikidata": "Q27126204",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13376057,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-13376051,-2926346,-184818",
+    "name": "Ayy Sub-District",
+    "local_name": "قضاء عي",
+    "name_en": "Ayy Sub-District",
+    "all_tags": {
+      "name": "قضاء عي",
+      "name:en": "Ayy Sub-District",
+      "boundary": "administrative",
+      "way_area": "0.00528426",
+      "wikidata": "Q35183004",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13376056,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-13376053,-2926346,-184818",
+    "name": "Karak Sub-District",
+    "local_name": "Karak Sub-District",
+    "name_en": "Karak Sub-District",
+    "all_tags": {
+      "name": "Karak Sub-District",
+      "name:en": "Karak Sub-District",
+      "boundary": "administrative",
+      "way_area": "0.0714737",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13376055,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-13376049,-2926346,-184818",
+    "name": "Qatraneh Sub-District",
+    "local_name": "قضاء القطرانة",
+    "name_en": "Qatraneh Sub-District",
+    "all_tags": {
+      "name": "قضاء القطرانة",
+      "name:en": "Qatraneh Sub-District",
+      "boundary": "administrative",
+      "way_area": "0.101679",
+      "wikidata": "Q35183047",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13376054,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-2926346,-184818",
+    "name": "Mazar Janoobee District",
+    "local_name": "لواء المزار الجنوبي",
+    "name_en": "Mazar Janoobee District",
+    "all_tags": {
+      "name": "لواء المزار الجنوبي",
+      "name:en": "Mazar Janoobee District",
+      "boundary": "administrative",
+      "way_area": "0.0471127",
+      "wikidata": "Q27126250",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -13376053,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-2926346,-184818",
+    "name": "Karak Qasabah District",
+    "local_name": "لواء قصبة الكرك",
+    "name_en": "Karak Qasabah District",
+    "all_tags": {
+      "name": "لواء قصبة الكرك",
+      "name:en": "Karak Qasabah District",
+      "boundary": "administrative",
+      "way_area": "0.0714737",
+      "wikidata": "Q27126252",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -13376052,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-2926346,-184818",
+    "name": "Qasr District",
+    "local_name": "لواء القصر",
+    "name_en": "Qasr District",
+    "all_tags": {
+      "name": "لواء القصر",
+      "name:en": "Qasr District",
+      "boundary": "administrative",
+      "way_area": "0.022883",
+      "wikidata": "Q27126254",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -13376051,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-2926346,-184818",
+    "name": "Ayy Qasabah District",
+    "local_name": "لواء عي",
+    "name_en": "Ayy Qasabah District",
+    "all_tags": {
+      "name": "لواء عي",
+      "name:en": "Ayy Qasabah District",
+      "boundary": "administrative",
+      "way_area": "0.00528426",
+      "wikidata": "Q27126253",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -13376050,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-13376063,-2926346,-184818",
+    "name": "Faqo'e Sub-District",
+    "local_name": "قضاء فقوع",
+    "name_en": "Faqo'e Sub-District",
+    "all_tags": {
+      "name": "قضاء فقوع",
+      "name:en": "Faqo'e Sub-District",
+      "boundary": "administrative",
+      "way_area": "0.00950588",
+      "wikidata": "Q35183023",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13376049,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-2926346,-184818",
+    "name": "Qatraneh District",
+    "local_name": "لواء القطرانة",
+    "name_en": "Qatraneh District",
+    "all_tags": {
+      "name": "لواء القطرانة",
+      "name:en": "Qatraneh District",
+      "boundary": "administrative",
+      "way_area": "0.101679",
+      "wikidata": "Q27126251",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -13376048,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-2926346,-184818",
+    "name": "Aghwar Janoobiyah District",
+    "local_name": "لواء الأغوار الجنوبية",
+    "name_en": "Aghwar Janoobiyah District",
+    "all_tags": {
+      "name": "لواء الأغوار الجنوبية",
+      "name:en": "Aghwar Janoobiyah District",
+      "boundary": "administrative",
+      "way_area": "0.0862392",
+      "wikidata": "Q27126249",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -13376047,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-2926349,-184818",
+    "name": "Tafilah Qasabah District",
+    "local_name": "لواء قصبة الطفيلة",
+    "name_en": "Tafilah Qasabah District",
+    "all_tags": {
+      "name": "لواء قصبة الطفيلة",
+      "name:en": "Tafilah Qasabah District",
+      "name:fr": "Qasabah at-Tafīlah",
+      "alt_name": "Tafielah Qasabah District",
+      "boundary": "administrative",
+      "way_area": "0.0967634",
+      "wikidata": "Q27126239",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -13376046,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-2926349,-184818",
+    "name": "Busayra District",
+    "local_name": "لواء بصيرا",
+    "name_en": "Busayra District",
+    "all_tags": {
+      "name": "لواء بصيرا",
+      "name:en": "Busayra District",
+      "name:fr": "Busayra",
+      "alt_name": "Bsaira District",
+      "boundary": "administrative",
+      "way_area": "0.0212412",
+      "wikidata": "Q27126236",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -13376045,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-2926349,-184818",
+    "name": "Al Hasa District",
+    "local_name": "لواء الحسا",
+    "name_en": "Al Hasa District",
+    "all_tags": {
+      "name": "لواء الحسا",
+      "name:en": "Al Hasa District",
+      "name:fr": "Al Hasa",
+      "alt_name": "Hasa District",
+      "boundary": "administrative",
+      "way_area": "0.0898754",
+      "wikidata": "Q27126243",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -13376044,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-13376025,-2926348,-184818",
+    "name": "Areedh Sub-District",
+    "local_name": "قضاء العريض",
+    "name_en": "Areedh Sub-District",
+    "all_tags": {
+      "name": "قضاء العريض",
+      "name:en": "Areedh Sub-District",
+      "boundary": "administrative",
+      "way_area": "0.0212825",
+      "wikidata": "Q31866543",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13376043,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-13376025,-2926348,-184818",
+    "name": "Dieban Sub-District",
+    "local_name": "Dieban Sub-District",
+    "name_en": "Dieban Sub-District",
+    "all_tags": {
+      "name": "Dieban Sub-District",
+      "name:en": "Dieban Sub-District",
+      "boundary": "administrative",
+      "way_area": "0.0196396",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13376042,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-13376025,-2926348,-184818",
+    "name": "Mlaih Sub-District",
+    "local_name": "قضاء مليح",
+    "name_en": "Mlaih Sub-District",
+    "all_tags": {
+      "name": "قضاء مليح",
+      "name:en": "Mlaih Sub-District",
+      "boundary": "administrative",
+      "way_area": "0.0104967",
+      "wikidata": "Q31866546",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13376041,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-13376023,-2926348,-184818",
+    "name": "Maeen Sub-District",
+    "local_name": "قضاء ماعين",
+    "name_en": "Maeen Sub-District",
+    "all_tags": {
+      "name": "قضاء ماعين",
+      "name:en": "Maeen Sub-District",
+      "boundary": "administrative",
+      "way_area": "0.0177101",
+      "wikidata": "Q31866544",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13376040,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-13376023,-2926348,-184818",
+    "name": "Madaba Sub-District",
+    "local_name": "Madaba Sub-District",
+    "name_en": "Madaba Sub-District",
+    "all_tags": {
+      "name": "Madaba Sub-District",
+      "name:en": "Madaba Sub-District",
+      "boundary": "administrative",
+      "way_area": "0.0128633",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13376039,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-13376023,-2926348,-184818",
+    "name": "Faisaliah Sub-District",
+    "local_name": "قضاء الفيصلية",
+    "name_en": "Faisaliah Sub-District",
+    "all_tags": {
+      "name": "قضاء الفيصلية",
+      "name:en": "Faisaliah Sub-District",
+      "boundary": "administrative",
+      "way_area": "0.00514572",
+      "wikidata": "Q31866541",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13376038,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-13376029,-2925596,-184818",
+    "name": "Dair Alla Sub-District",
+    "local_name": "Dair Alla Sub-District",
+    "name_en": "Dair Alla Sub-District",
+    "all_tags": {
+      "name": "Dair Alla Sub-District",
+      "name:en": "Dair Alla Sub-District",
+      "boundary": "administrative",
+      "way_area": "0.0226715",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13376037,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-13376030,-2925596,-184818",
+    "name": "Al-Ardha Sub-District",
+    "local_name": "قضاء العارضة",
+    "name_en": "Al-Ardha Sub-District",
+    "all_tags": {
+      "name": "قضاء العارضة",
+      "name:en": "Al-Ardha Sub-District",
+      "boundary": "administrative",
+      "way_area": "0.00867087",
+      "wikidata": "Q31866551",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13376036,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-13376030,-2925596,-184818",
+    "name": "Allan and Zayy Sub-District",
+    "local_name": "Allan and Zayy Sub-District",
+    "name_en": "Allan and Zayy Sub-District",
+    "all_tags": {
+      "name": "Allan and Zayy Sub-District",
+      "name:en": "Allan and Zayy Sub-District",
+      "boundary": "administrative",
+      "way_area": "0.00630163",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13376035,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-13376030,-2925596,-184818",
+    "name": "Salt Sub-District",
+    "local_name": "Salt Sub-District",
+    "name_en": "Salt Sub-District",
+    "all_tags": {
+      "name": "Salt Sub-District",
+      "name:en": "Salt Sub-District",
+      "boundary": "administrative",
+      "way_area": "0.0183759",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13376034,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-13376030,-2925596,-184818",
+    "name": "Ira and Yargha Sub-District",
+    "local_name": "قضاء عيرا ويرقا",
+    "name_en": "Ira and Yargha Sub-District",
+    "all_tags": {
+      "name": "قضاء عيرا ويرقا",
+      "name:en": "Ira and Yargha Sub-District",
+      "boundary": "administrative",
+      "way_area": "0.00989149",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13376033,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-13376027,-2925596,-184818",
+    "name": "Mahes and Fuhais Sub-District",
+    "local_name": "Mahes and Fuhais Sub-District",
+    "name_en": "Mahes and Fuhais Sub-District",
+    "all_tags": {
+      "name": "Mahes and Fuhais Sub-District",
+      "name:en": "Mahes and Fuhais Sub-District",
+      "boundary": "administrative",
+      "way_area": "0.00276095",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13376032,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-13376026,-2925596,-184818",
+    "name": "Ain Albasha Sub-District",
+    "local_name": "قضاء عين الباشا",
+    "name_en": "Ain Albasha Sub-District",
+    "all_tags": {
+      "name": "قضاء عين الباشا",
+      "name:en": "Ain Albasha Sub-District",
+      "boundary": "administrative",
+      "way_area": "0.00905492",
+      "wikidata": "Q35182341",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13376031,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-13376028,-2925596,-184818",
+    "name": "Shoonah Janoobiyah Sub-District",
+    "local_name": "Shoonah Janoobiyah Sub-District",
+    "name_en": "Shoonah Janoobiyah Sub-District",
+    "all_tags": {
+      "name": "Shoonah Janoobiyah Sub-District",
+      "name:en": "Shoonah Janoobiyah Sub-District",
+      "boundary": "administrative",
+      "way_area": "0.0281801",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13376030,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-2925596,-184818",
+    "name": "Salt Qasabah District",
+    "local_name": "لواء قصبة السلط",
+    "name_en": "Salt Qasabah District",
+    "all_tags": {
+      "name": "لواء قصبة السلط",
+      "name:en": "Salt Qasabah District",
+      "boundary": "administrative",
+      "way_area": "0.0432399",
+      "wikidata": "Q35180347",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -13376029,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-2925596,-184818",
+    "name": "Dair Alla District",
+    "local_name": "لواء دير علا",
+    "name_en": "Dair Alla District",
+    "all_tags": {
+      "name": "لواء دير علا",
+      "name:en": "Dair Alla District",
+      "boundary": "administrative",
+      "way_area": "0.0226715",
+      "wikidata": "Q27126265",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -13376028,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-2925596,-184818",
+    "name": "Shoonah Janoobiyah District",
+    "local_name": "لواء الشونة الجنوبية",
+    "name_en": "Shoonah Janoobiyah District",
+    "all_tags": {
+      "name": "لواء الشونة الجنوبية",
+      "name:en": "Shoonah Janoobiyah District",
+      "boundary": "administrative",
+      "way_area": "0.0281801",
+      "wikidata": "Q27126266",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -13376027,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-2925596,-184818",
+    "name": "Mahes and Fuhais District",
+    "local_name": "لواء ماحص والفحيص",
+    "name_en": "Mahes and Fuhais District",
+    "all_tags": {
+      "name": "لواء ماحص والفحيص",
+      "name:en": "Mahes and Fuhais District",
+      "boundary": "administrative",
+      "way_area": "0.00276095",
+      "wikidata": "Q27126262",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -13376026,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-2925596,-184818",
+    "name": "Ain Albasha District",
+    "local_name": "لواء عين الباشا",
+    "name_en": "Ain Albasha District",
+    "all_tags": {
+      "name": "لواء عين الباشا",
+      "name:en": "Ain Albasha District",
+      "boundary": "administrative",
+      "way_area": "0.00905492",
+      "wikidata": "Q27126263",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -13376025,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-2926348,-184818",
+    "name": "Dieban District",
+    "local_name": "لواء ذيبان",
+    "name_en": "Dieban District",
+    "all_tags": {
+      "name": "لواء ذيبان",
+      "name:en": "Dieban District",
+      "boundary": "administrative",
+      "way_area": "0.0514188",
+      "wikidata": "Q27126257",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -13376024,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-13376023,-2926348,-184818",
+    "name": "Jrainah Sub-District",
+    "local_name": "قضاء جرينة",
+    "name_en": "Jrainah Sub-District",
+    "all_tags": {
+      "name": "قضاء جرينة",
+      "name:en": "Jrainah Sub-District",
+      "boundary": "administrative",
+      "way_area": "0.0019319",
+      "wikidata": "Q31866545",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13376023,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-2926348,-184818",
+    "name": "Madaba Qasabah District",
+    "local_name": "لواء قصبة مادبا",
+    "name_en": "Madaba Qasabah District",
+    "all_tags": {
+      "name": "لواء قصبة مادبا",
+      "name:en": "Madaba Qasabah District",
+      "boundary": "administrative",
+      "way_area": "0.037651",
+      "wikidata": "Q27126258",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -13376022,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-13376011,-2926344,-184818",
+    "name": "Sahab Sub-District",
+    "local_name": "Sahab Sub-District",
+    "name_en": "Sahab Sub-District",
+    "all_tags": {
+      "name": "Sahab Sub-District",
+      "name:en": "Sahab Sub-District",
+      "name:fr": "Sahab",
+      "boundary": "administrative",
+      "way_area": "0.0445859",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13376021,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-13376009,-2926344,-184818",
+    "name": "Muaqqar Sub-District",
+    "local_name": "قضاء الموقر",
+    "name_en": "Muaqqar Sub-District",
+    "all_tags": {
+      "name": "قضاء الموقر",
+      "name:en": "Muaqqar Sub-District",
+      "boundary": "administrative",
+      "way_area": "0.0579983",
+      "wikidata": "Q35182209",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13376020,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-13376009,-2926344,-184818",
+    "name": "Rajm al-Shami Sub-District",
+    "local_name": "قضاء الرجم الشامي",
+    "name_en": "Rajm al-Shami Sub-District",
+    "all_tags": {
+      "name": "قضاء الرجم الشامي",
+      "name:en": "Rajm al-Shami Sub-District",
+      "boundary": "administrative",
+      "way_area": "0.0136756",
+      "wikidata": "Q27126225",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13376019,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-13376010,-2926344,-184818",
+    "name": "Um Al-Rasas Sub-District",
+    "local_name": "قضاء أم الرصاص",
+    "name_en": "Um Al-Rasas Sub-District",
+    "all_tags": {
+      "name": "قضاء أم الرصاص",
+      "name:en": "Um Al-Rasas Sub-District",
+      "boundary": "administrative",
+      "way_area": "0.270718",
+      "wikidata": "Q27126226",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13376018,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-13376010,-2926344,-184818",
+    "name": "Jizah Sub-District",
+    "local_name": "قضاء الجيزة",
+    "name_en": "Jizah Sub-District",
+    "all_tags": {
+      "name": "قضاء الجيزة",
+      "name:en": "Jizah Sub-District",
+      "boundary": "administrative",
+      "way_area": "0.250458",
+      "wikidata": "Q35182173",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13376017,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-13376006,-2926344,-184818",
+    "name": "Al-Jami'ah Sub-District",
+    "local_name": "قضاء الجامعة",
+    "name_en": "Al-Jami'ah Sub-District",
+    "all_tags": {
+      "name": "قضاء الجامعة",
+      "name:en": "Al-Jami'ah Sub-District",
+      "boundary": "administrative",
+      "way_area": "0.0119102",
+      "wikidata": "Q35182155",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13376016,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-13376008,-2926344,-184818",
+    "name": "Um Elbasatien Sub-District",
+    "local_name": "قضاء أم البساتين",
+    "name_en": "Um Elbasatien Sub-District",
+    "all_tags": {
+      "name": "قضاء أم البساتين",
+      "name:en": "Um Elbasatien Sub-District",
+      "boundary": "administrative",
+      "way_area": "0.00318916",
+      "wikidata": "Q27126223",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13376015,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-13376008,-2926344,-184818",
+    "name": "Hosba'n Sub-District",
+    "local_name": "قضاء حسبان",
+    "name_en": "Hosba'n Sub-District",
+    "all_tags": {
+      "name": "قضاء حسبان",
+      "name:en": "Hosba'n Sub-District",
+      "boundary": "administrative",
+      "way_area": "0.00589493",
+      "wikidata": "Q27126224",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13376014,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-13376008,-2926344,-184818",
+    "name": "Na'oor Sub-District",
+    "local_name": "Na'oor Sub-District",
+    "name_en": "Na'oor Sub-District",
+    "all_tags": {
+      "name": "Na'oor Sub-District",
+      "name:en": "Na'oor Sub-District",
+      "boundary": "administrative",
+      "way_area": "0.00849967",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13376013,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-13376007,-2926344,-184818",
+    "name": "Wadi Essier Sub-District",
+    "local_name": "ناحية وادي السير",
+    "name_en": "Wadi Essier Sub-District",
+    "all_tags": {
+      "name": "ناحية وادي السير",
+      "name:ar": "ناحية وادي السير",
+      "name:en": "Wadi Essier Sub-District",
+      "boundary": "administrative",
+      "way_area": "0.0141201",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13376012,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-13376005,-2926344,-184818",
+    "name": "Quaismeh Sub-District",
+    "local_name": "ناحية القويسمة",
+    "name_en": "Quaismeh Sub-District",
+    "all_tags": {
+      "name": "ناحية القويسمة",
+      "name:ar": "ناحية القويسمة",
+      "name:en": "Quaismeh Sub-District",
+      "boundary": "administrative",
+      "way_area": "0.0116466",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13376011,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-2926344,-184818",
+    "name": "Sahab District",
+    "local_name": "لواء سحاب",
+    "name_en": "Sahab District",
+    "all_tags": {
+      "name": "لواء سحاب",
+      "name:en": "Sahab District",
+      "name:fr": "Sahab",
+      "boundary": "administrative",
+      "way_area": "0.0445859",
+      "wikidata": "Q27126237",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -13376010,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-2926344,-184818",
+    "name": "Jizah District",
+    "local_name": "لواء الجيزة",
+    "name_en": "Jizah District",
+    "all_tags": {
+      "name": "لواء الجيزة",
+      "name:en": "Jizah District",
+      "boundary": "administrative",
+      "way_area": "0.521176",
+      "wikidata": "Q27126228",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -13376009,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-2926344,-184818",
+    "name": "Muaqqar District",
+    "local_name": "لواء الموقر",
+    "name_en": "Muaqqar District",
+    "all_tags": {
+      "name": "لواء الموقر",
+      "name:en": "Muaqqar District",
+      "boundary": "administrative",
+      "way_area": "0.0716738",
+      "wikidata": "Q27126230",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -13376008,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-2926344,-184818",
+    "name": "Na'oor District",
+    "local_name": "لواء ناعور",
+    "name_en": "Na'oor District",
+    "all_tags": {
+      "name": "لواء ناعور",
+      "name:en": "Na'oor District",
+      "boundary": "administrative",
+      "way_area": "0.0175838",
+      "wikidata": "Q27126229",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -13376007,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-2926344,-184818",
+    "name": "Wadi Essier District",
+    "local_name": "لواء وادي السير",
+    "name_en": "Wadi Essier District",
+    "all_tags": {
+      "name": "لواء وادي السير",
+      "name:ar": "لواء وادي السير",
+      "name:en": "Wadi Essier District",
+      "boundary": "administrative",
+      "way_area": "0.0141201",
+      "wikidata": "Q27126231",
+      "wikipedia": "ar:لواء وادي السير",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -13376006,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-2926344,-184818",
+    "name": "Al-Jami'ah District",
+    "local_name": "لواء الجامعة",
+    "name_en": "Al-Jami'ah District",
+    "all_tags": {
+      "name": "لواء الجامعة",
+      "name:en": "Al-Jami'ah District",
+      "boundary": "administrative",
+      "way_area": "0.0119102",
+      "wikidata": "Q27126232",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -13376005,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-2926344,-184818",
+    "name": "Quaismeh District",
+    "local_name": "لواء القويسمة",
+    "name_en": "Quaismeh District",
+    "all_tags": {
+      "name": "لواء القويسمة",
+      "name:ar": "لواء القويسمة",
+      "name:en": "Quaismeh District",
+      "boundary": "administrative",
+      "way_area": "0.0116466",
+      "wikidata": "Q27126166",
+      "wikipedia": "ar:لواء القويسمة",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -13376004,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-13376001,-2926344,-184818",
+    "name": "Amman Sub-District",
+    "local_name": "ناحية عمان",
+    "name_en": "Amman Sub-District",
+    "all_tags": {
+      "name": "ناحية عمان",
+      "name:ar": "ناحية عمان",
+      "name:en": "Amman Sub-District",
+      "boundary": "administrative",
+      "way_area": "0.00429034",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13376003,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-13376002,-2926344,-184818",
+    "name": "Marka Sub-District",
+    "local_name": "قضاء ماركا",
+    "name_en": "Marka Sub-District",
+    "all_tags": {
+      "name": "قضاء ماركا",
+      "name:en": "Marka Sub-District",
+      "boundary": "administrative",
+      "way_area": "0.0264537",
+      "wikidata": "Q35182134",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13376002,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-2926344,-184818",
+    "name": "Marka District",
+    "local_name": "لواء ماركا",
+    "name_en": "Marka District",
+    "all_tags": {
+      "name": "لواء ماركا",
+      "name:en": "Marka District",
+      "boundary": "administrative",
+      "way_area": "0.0264537",
+      "wikidata": "Q27126233",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -13376001,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-2926344,-184818",
+    "name": "Amman Qasabah District",
+    "local_name": "لواء قصبة عمان",
+    "name_en": "Amman Qasabah District",
+    "all_tags": {
+      "name": "لواء قصبة عمان",
+      "name:ar": "لواء قصبة عمان",
+      "name:en": "Amman Qasabah District",
+      "boundary": "administrative",
+      "way_area": "0.00429034",
+      "wikidata": "Q27126235",
+      "wikipedia": "ar:لواء قصبة عمان",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -2926349,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-184818",
+    "name": "Tafilah",
+    "local_name": "الطفيلة",
+    "name_en": "Tafilah",
+    "all_tags": {
+      "name": "الطفيلة",
+      "name:ar": "الطفيلة",
+      "name:de": "Tafila",
+      "name:en": "Tafilah",
+      "name:es": "Gobernación de Tafila",
+      "name:fr": "Tafilah",
+      "name:ru": "Эт-Тафила",
+      "boundary": "administrative",
+      "way_area": "0.20788",
+      "wikidata": "Q750259",
+      "ISO3166-2": "JO-AT",
+      "wikipedia": "ar:الطفيلة (محافظة)",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -2926348,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-184818",
+    "name": "Madaba",
+    "local_name": "مادبا",
+    "name_en": "Madaba",
+    "all_tags": {
+      "name": "مادبا",
+      "name:ar": "مادبا",
+      "name:cs": "governorát Madaba",
+      "name:de": "Madaba",
+      "name:el": "Μάνταμπα",
+      "name:en": "Madaba",
+      "name:es": "Gobernación de Madaba",
+      "name:fr": "Gouvernorat de Madaba",
+      "name:he": "מידבא",
+      "name:ru": "Мадаба",
+      "boundary": "administrative",
+      "way_area": "0.0890698",
+      "wikidata": "Q750447",
+      "ISO3166-2": "JO-MD",
+      "wikipedia": "ar:مادبا (محافظة)",
+      "admin_level": "4",
+      "sorting_name:cs": "Madaba"
+    }
+  },
+  {
+    "osm_id": -2926347,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-184818",
+    "name": "Maan",
+    "local_name": "معان",
+    "name_en": "Maan",
+    "all_tags": {
+      "name": "معان",
+      "name:ar": "معان",
+      "name:de": "Ma'an",
+      "name:en": "Maan",
+      "name:es": "Gobernación de Ma'an",
+      "name:fr": "Gouvernorat de Ma'an",
+      "name:he": "מעאן",
+      "name:ja": "マアーン県",
+      "name:ru": "Маан",
+      "boundary": "administrative",
+      "way_area": "3.08534",
+      "wikidata": "Q606340",
+      "ISO3166-2": "JO-MN",
+      "wikipedia": "ar:معان (محافظة)",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -2926346,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-184818",
+    "name": "Karak",
+    "local_name": "الكرك",
+    "name_en": "Karak",
+    "all_tags": {
+      "name": "الكرك",
+      "name:ar": "الكرك",
+      "name:cs": "governorát Karak",
+      "name:de": "Karak",
+      "name:en": "Karak",
+      "name:es": "Gobernación de Karak",
+      "name:fr": "Gouvernorat de Karak",
+      "name:he": "כרכ",
+      "name:ru": "Эль-Карак",
+      "boundary": "administrative",
+      "way_area": "0.344178",
+      "wikidata": "Q735245",
+      "ISO3166-2": "JO-KA",
+      "wikipedia": "ar:الكرك (محافظة)",
+      "admin_level": "4",
+      "sorting_name:cs": "Karak"
+    }
+  },
+  {
+    "osm_id": -2926345,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-184818",
+    "name": "Aqaba",
+    "local_name": "العقبة",
+    "name_en": "Aqaba",
+    "all_tags": {
+      "name": "العقبة",
+      "name:ar": "العقبة",
+      "name:cs": "Akaba",
+      "name:de": "Aqaba",
+      "name:en": "Aqaba",
+      "name:es": "Gobernación de Aqaba",
+      "name:fr": "Gouvernorat d'Aqaba",
+      "name:ru": "Акаба",
+      "boundary": "administrative",
+      "way_area": "0.643258",
+      "wikidata": "Q260796",
+      "ISO3166-2": "JO-AQ",
+      "wikipedia": "ar:العقبة (محافظة)",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -2926344,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-184818",
+    "name": "Amman",
+    "local_name": "عمان",
+    "name_en": "Amman",
+    "all_tags": {
+      "name": "عمان",
+      "name:am": "አማን",
+      "name:ar": "عمان",
+      "name:de": "Amman",
+      "name:en": "Amman",
+      "name:es": "Gobernación de Ammán",
+      "name:fa": "امان",
+      "name:fr": "Gouvernorat d'Amman",
+      "name:he": "עמאן",
+      "name:ja": "アンマン",
+      "name:ko": "암만",
+      "name:ks": "عمان",
+      "name:ru": "Амман",
+      "name:ur": "عمان",
+      "boundary": "administrative",
+      "way_area": "0.72344",
+      "wikidata": "Q472788",
+      "ISO3166-2": "JO-AM",
+      "wikipedia": "ar:محافظة العاصمة (الأردن)",
+      "admin_level": "4",
+      "official_name": "محافظة العاصمة",
+      "official_name:ar": "محافظة العاصمة"
+    }
+  },
+  {
+    "osm_id": -2925617,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-184818",
+    "name": "Irbid",
+    "local_name": "إربد",
+    "name_en": "Irbid",
+    "all_tags": {
+      "name": "إربد",
+      "name:ar": "إربد",
+      "name:de": "Irbid",
+      "name:en": "Irbid",
+      "name:es": "Gobernación de Irbid",
+      "name:fr": "Gouvernorat d'Irbid",
+      "name:he": "אירביד",
+      "name:lt": "Irbidas",
+      "name:ru": "Ирбид",
+      "boundary": "administrative",
+      "way_area": "0.150823",
+      "wikidata": "Q721441",
+      "ISO3166-2": "JO-IR",
+      "wikipedia": "ar:إربد (محافظة)",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -2925616,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-184818",
+    "name": "Ajlun",
+    "local_name": "عجلون",
+    "name_en": "Ajlun",
+    "all_tags": {
+      "name": "عجلون",
+      "name:ar": "عجلون",
+      "name:de": "Adschlun",
+      "name:en": "Ajlun",
+      "name:es": "Gobernación de Ajlun",
+      "name:fr": "Gouvernorat d'Ajlun",
+      "name:ru": "Аджлун",
+      "boundary": "administrative",
+      "way_area": "0.0398858",
+      "wikidata": "Q506658",
+      "ISO3166-2": "JO-AJ",
+      "wikipedia": "ar:عجلون (محافظة)",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -2925608,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-184818",
+    "name": "Mafraq",
+    "local_name": "المفرق",
+    "name_en": "Mafraq",
+    "all_tags": {
+      "name": "المفرق",
+      "place": "state",
+      "name:ar": "المفرق",
+      "name:de": "Mafraq",
+      "name:en": "Mafraq",
+      "name:es": "Gobernación de Mafraq",
+      "name:fr": "Gouvernorat de Mafraq",
+      "name:ru": "Эль-Мафрак",
+      "boundary": "administrative",
+      "way_area": "2.54322",
+      "wikidata": "Q854871",
+      "ISO3166-2": "JO-MA",
+      "wikipedia": "ar:المفرق (محافظة)",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -2925599,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-184818",
+    "name": "Jarash",
+    "local_name": "جرش",
+    "name_en": "Jarash",
+    "all_tags": {
+      "name": "جرش",
+      "name:ar": "محافظة جرش",
+      "name:de": "Dscharasch",
+      "name:en": "Jarash",
+      "name:es": "Gobernación de Gerasa",
+      "name:fr": "Gouvernorat de Jerash",
+      "name:ru": "Джараш",
+      "boundary": "administrative",
+      "way_area": "0.0393803",
+      "wikidata": "Q750270",
+      "ISO3166-2": "JO-JA",
+      "wikipedia": "ar:جرش (محافظة)",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -2925597,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-184818",
+    "name": "Zarqa",
+    "local_name": "الزرقاء",
+    "name_en": "Zarqa",
+    "all_tags": {
+      "name": "الزرقاء",
+      "name:ar": "الزرقاء",
+      "name:de": "Zarqa",
+      "name:en": "Zarqa",
+      "name:es": "Gobernación de Zarká",
+      "name:fr": "Gouvernorat de Zarqa",
+      "name:ru": "Эз-Зарка",
+      "boundary": "administrative",
+      "way_area": "0.451537",
+      "wikidata": "Q721445",
+      "ISO3166-2": "JO-AZ",
+      "wikipedia": "ar:الزرقاء (محافظة)",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -2925596,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-184818",
+    "name": "Balqa",
+    "local_name": "البلقاء",
+    "name_en": "Balqa",
+    "all_tags": {
+      "name": "البلقاء",
+      "name:ar": "البلقاء",
+      "name:cs": "governorát Balká",
+      "name:de": "al-Balqa",
+      "name:el": "Μπάλγκα",
+      "name:en": "Balqa",
+      "name:es": "Gobernación de Balqa'",
+      "name:fr": "Gouvernorat de Balqa",
+      "name:ru": "Эль-Балка",
+      "boundary": "administrative",
+      "way_area": "0.105907",
+      "wikidata": "Q721431",
+      "ISO3166-2": "JO-BA",
+      "wikipedia": "ar:البلقاء (محافظة)",
+      "admin_level": "4",
+      "sorting_name:cs": "Balká"
+    }
+  }
+]

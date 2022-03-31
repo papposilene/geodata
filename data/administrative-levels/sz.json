@@ -1,0 +1,936 @@
+[
+  {
+    "osm_id": -1253058,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1253032,-88210",
+    "name": "Inkhundla Mangcongco",
+    "local_name": "Inkhundla Mangcongco",
+    "name_en": null,
+    "all_tags": {
+      "name": "Inkhundla Mangcongco",
+      "boundary": "administrative",
+      "way_area": "0.0372673",
+      "wikidata": "Q3798829",
+      "admin_level": "6",
+      "wikipedia:en": "Mangcongco"
+    }
+  },
+  {
+    "osm_id": -1253057,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1253032,-88210",
+    "name": "Inkhundla Mthongwaneni",
+    "local_name": "Inkhundla Mthongwaneni",
+    "name_en": null,
+    "all_tags": {
+      "name": "Inkhundla Mthongwaneni",
+      "boundary": "administrative",
+      "way_area": "0.0246199",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -1253056,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1253040,-88210",
+    "name": "Inkhundla Lubuli",
+    "local_name": "Inkhundla Lubuli",
+    "name_en": null,
+    "all_tags": {
+      "name": "Inkhundla Lubuli",
+      "boundary": "administrative",
+      "way_area": "0.0494435",
+      "wikidata": "Q3798826",
+      "admin_level": "6",
+      "wikipedia:en": "Lubuli"
+    }
+  },
+  {
+    "osm_id": -1253055,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-88210",
+    "name": "Hhohho",
+    "local_name": "Hhohho",
+    "name_en": null,
+    "all_tags": {
+      "name": "Hhohho",
+      "boundary": "administrative",
+      "way_area": "0.330042",
+      "wikidata": "Q735570",
+      "ISO3166-2": "SZ-HH",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -1253054,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1253040,-88210",
+    "name": "Inkhundla Dvokodvweni",
+    "local_name": "Inkhundla Dvokodvweni",
+    "name_en": null,
+    "all_tags": {
+      "name": "Inkhundla Dvokodvweni",
+      "boundary": "administrative",
+      "way_area": "0.0524744",
+      "wikidata": "Q3798818",
+      "admin_level": "6",
+      "wikipedia:en": "Dvokodvweni"
+    }
+  },
+  {
+    "osm_id": -1253053,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1253042,-88210",
+    "name": "Inkhundla Kubuta",
+    "local_name": "Inkhundla Kubuta",
+    "name_en": null,
+    "all_tags": {
+      "name": "Inkhundla Kubuta",
+      "boundary": "administrative",
+      "way_area": "0.0205392",
+      "wikidata": "Q3432356",
+      "admin_level": "6",
+      "wikipedia:en": "Kubuta"
+    }
+  },
+  {
+    "osm_id": -1253052,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1253055,-88210",
+    "name": "Inkhundla Mayiwane",
+    "local_name": "Inkhundla Mayiwane",
+    "name_en": null,
+    "all_tags": {
+      "name": "Inkhundla Mayiwane",
+      "boundary": "administrative",
+      "way_area": "0.0169461",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -1253051,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1253055,-88210",
+    "name": "Inkhundla Motjane",
+    "local_name": "Inkhundla Motjane",
+    "name_en": null,
+    "all_tags": {
+      "name": "Inkhundla Motjane",
+      "boundary": "administrative",
+      "way_area": "0.0297264",
+      "wikidata": "Q3798845",
+      "admin_level": "6",
+      "wikipedia:en": "Motjane"
+    }
+  },
+  {
+    "osm_id": -1253050,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1253042,-88210",
+    "name": "Inkhundla Matsanjeni",
+    "local_name": "Inkhundla Matsanjeni",
+    "name_en": null,
+    "all_tags": {
+      "name": "Inkhundla Matsanjeni",
+      "boundary": "administrative",
+      "way_area": "0.0384387",
+      "wikidata": "Q3798835",
+      "admin_level": "6",
+      "wikipedia:en": "Matsanjeni North"
+    }
+  },
+  {
+    "osm_id": -1253049,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1253032,-88210",
+    "name": "Inkhundla Lamgabhi",
+    "local_name": "Inkhundla Lamgabhi",
+    "name_en": null,
+    "all_tags": {
+      "name": "Inkhundla Lamgabhi",
+      "boundary": "administrative",
+      "way_area": "0.0109305",
+      "wikidata": "Q3432371",
+      "admin_level": "6",
+      "wikipedia:en": "Lamgabhi"
+    }
+  },
+  {
+    "osm_id": -1253048,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1253032,-88210",
+    "name": "Inkhundla Ntondozi",
+    "local_name": "Inkhundla Ntondozi",
+    "name_en": null,
+    "all_tags": {
+      "name": "Inkhundla Ntondozi",
+      "boundary": "administrative",
+      "way_area": "0.0224311",
+      "wikidata": "Q3798859",
+      "admin_level": "6",
+      "wikipedia:en": "Ntondozi"
+    }
+  },
+  {
+    "osm_id": -1253047,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1253055,-88210",
+    "name": "Inkhundla Maphalaleni",
+    "local_name": "Inkhundla Maphalaleni",
+    "name_en": null,
+    "all_tags": {
+      "name": "Inkhundla Maphalaleni",
+      "boundary": "administrative",
+      "way_area": "0.0504066",
+      "wikidata": "Q3798834",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -1253046,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1253032,-88210",
+    "name": "Inkhundla Mhlambanyatsi",
+    "local_name": "Inkhundla Mhlambanyatsi",
+    "name_en": null,
+    "all_tags": {
+      "name": "Inkhundla Mhlambanyatsi",
+      "boundary": "administrative",
+      "way_area": "0.0441533",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -1253045,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1253040,-88210",
+    "name": "Inkhundla Tikhuba",
+    "local_name": "Inkhundla Tikhuba",
+    "name_en": null,
+    "all_tags": {
+      "name": "Inkhundla Tikhuba",
+      "boundary": "administrative",
+      "way_area": "0.0442959",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -1253044,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1253032,-88210",
+    "name": "Inkhundla Mkhiweni",
+    "local_name": "Inkhundla Mkhiweni",
+    "name_en": null,
+    "all_tags": {
+      "name": "Inkhundla Mkhiweni",
+      "boundary": "administrative",
+      "way_area": "0.037843",
+      "wikidata": "Q3798844",
+      "admin_level": "6",
+      "wikipedia:en": "Mkhiweni"
+    }
+  },
+  {
+    "osm_id": -1253043,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1253055,-88210",
+    "name": "Inkhundla Mhlangatane",
+    "local_name": "Inkhundla Mhlangatane",
+    "name_en": null,
+    "all_tags": {
+      "name": "Inkhundla Mhlangatane",
+      "boundary": "administrative",
+      "way_area": "0.0241857",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -1253042,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-88210",
+    "name": "Shiselweni",
+    "local_name": "Shiselweni",
+    "name_en": null,
+    "all_tags": {
+      "name": "Shiselweni",
+      "boundary": "administrative",
+      "way_area": "0.343763",
+      "wikidata": "Q845934",
+      "ISO3166-2": "SZ-SH",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -1253041,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1253042,-88210",
+    "name": "Inkhundla Shiselweni",
+    "local_name": "Inkhundla Shiselweni",
+    "name_en": null,
+    "all_tags": {
+      "name": "Inkhundla Shiselweni",
+      "boundary": "administrative",
+      "way_area": "0.0204356",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -1253040,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-88210",
+    "name": "Lubombo",
+    "local_name": "Lubombo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Lubombo",
+      "boundary": "administrative",
+      "way_area": "0.528694",
+      "wikidata": "Q856657",
+      "ISO3166-2": "SZ-LU",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -1253039,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1253042,-88210",
+    "name": "Inkhundla Somntongo",
+    "local_name": "Inkhundla Somntongo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Inkhundla Somntongo",
+      "boundary": "administrative",
+      "way_area": "0.028707",
+      "wikidata": "Q2003368",
+      "admin_level": "6",
+      "wikipedia:en": "Somntongo"
+    }
+  },
+  {
+    "osm_id": -1253038,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1253032,-88210",
+    "name": "Inkhundla Nhlambeni",
+    "local_name": "Inkhundla Nhlambeni",
+    "name_en": null,
+    "all_tags": {
+      "name": "Inkhundla Nhlambeni",
+      "boundary": "administrative",
+      "way_area": "0.0201884",
+      "wikidata": "Q3798851",
+      "admin_level": "6",
+      "wikipedia:en": "Nhlambeni"
+    }
+  },
+  {
+    "osm_id": -1253037,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1253040,-88210",
+    "name": "Inkhundla Lomahasha",
+    "local_name": "Inkhundla Lomahasha",
+    "name_en": null,
+    "all_tags": {
+      "name": "Inkhundla Lomahasha",
+      "boundary": "administrative",
+      "way_area": "0.0279481",
+      "wikidata": "Q576512",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -1253036,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1253055,-88210",
+    "name": "Inkhundla Madlangempisi",
+    "local_name": "Inkhundla Madlangempisi",
+    "name_en": null,
+    "all_tags": {
+      "name": "Inkhundla Madlangempisi",
+      "boundary": "administrative",
+      "way_area": "0.0248388",
+      "wikidata": "Q749707",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -1253035,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1253042,-88210",
+    "name": "Inkhundla Hosea",
+    "local_name": "Inkhundla Hosea",
+    "name_en": null,
+    "all_tags": {
+      "name": "Inkhundla Hosea",
+      "boundary": "administrative",
+      "way_area": "0.0274164",
+      "wikidata": "Q744857",
+      "admin_level": "6",
+      "wikipedia:en": "Hosea, Eswatini"
+    }
+  },
+  {
+    "osm_id": -1253034,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1253040,-88210",
+    "name": "Inkhundla Hlane",
+    "local_name": "Inkhundla Hlane",
+    "name_en": null,
+    "all_tags": {
+      "name": "Inkhundla Hlane",
+      "boundary": "administrative",
+      "way_area": "0.042301",
+      "wikidata": "Q3798820",
+      "admin_level": "6",
+      "wikipedia:en": "Hlane"
+    }
+  },
+  {
+    "osm_id": -1253033,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1253032,-88210",
+    "name": "Inkhundla Ludzeludze",
+    "local_name": "Inkhundla Ludzeludze",
+    "name_en": null,
+    "all_tags": {
+      "name": "Inkhundla Ludzeludze",
+      "boundary": "administrative",
+      "way_area": "0.0157533",
+      "wikidata": "Q3798827",
+      "admin_level": "6",
+      "wikipedia:en": "Ludzeludze"
+    }
+  },
+  {
+    "osm_id": -1253032,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-88210",
+    "name": "Manzini",
+    "local_name": "Manzini",
+    "name_en": null,
+    "all_tags": {
+      "name": "Manzini",
+      "name:ar": "منزيني",
+      "boundary": "administrative",
+      "way_area": "0.370555",
+      "wikidata": "Q305395",
+      "ISO3166-2": "SZ-MA",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -1253031,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1253042,-88210",
+    "name": "Inkhundla Ngudzeni",
+    "local_name": "Inkhundla Ngudzeni",
+    "name_en": null,
+    "all_tags": {
+      "name": "Inkhundla Ngudzeni",
+      "boundary": "administrative",
+      "way_area": "0.0119079",
+      "wikidata": "Q3432331",
+      "admin_level": "6",
+      "wikipedia:en": "Ngudzeni"
+    }
+  },
+  {
+    "osm_id": -1253030,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1253032,-88210",
+    "name": "Inkhundla Mahlangatja",
+    "local_name": "Inkhundla Mahlangatja",
+    "name_en": null,
+    "all_tags": {
+      "name": "Inkhundla Mahlangatja",
+      "boundary": "administrative",
+      "way_area": "0.040854",
+      "wikidata": "Q3798828",
+      "admin_level": "6",
+      "wikipedia:en": "Mahlangatja"
+    }
+  },
+  {
+    "osm_id": -1253029,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1253042,-88210",
+    "name": "Inkhundla Gege",
+    "local_name": "Inkhundla Gege",
+    "name_en": null,
+    "all_tags": {
+      "name": "Inkhundla Gege",
+      "boundary": "administrative",
+      "way_area": "0.0506441",
+      "wikidata": "Q3473347",
+      "admin_level": "6",
+      "wikipedia:en": "Gege, Eswatini"
+    }
+  },
+  {
+    "osm_id": -1253028,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1253032,-88210",
+    "name": "Inkhundla Ekukhanyeni",
+    "local_name": "Inkhundla Ekukhanyeni",
+    "name_en": null,
+    "all_tags": {
+      "name": "Inkhundla Ekukhanyeni",
+      "boundary": "administrative",
+      "way_area": "0.0213906",
+      "wikidata": "Q2003359",
+      "wikipedia": "en:Ekukhanyeni",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -1253027,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1253055,-88210",
+    "name": "Inkhundla Nkhaba",
+    "local_name": "Inkhundla Nkhaba",
+    "name_en": null,
+    "all_tags": {
+      "name": "Inkhundla Nkhaba",
+      "boundary": "administrative",
+      "way_area": "0.0375883",
+      "wikidata": "Q3798853",
+      "admin_level": "6",
+      "wikipedia:en": "Nkhaba"
+    }
+  },
+  {
+    "osm_id": -1253026,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1253032,-88210",
+    "name": "Inkhundla Kwaluseni",
+    "local_name": "Inkhundla Kwaluseni",
+    "name_en": null,
+    "all_tags": {
+      "name": "Inkhundla Kwaluseni",
+      "boundary": "administrative",
+      "way_area": "0.00244221",
+      "wikidata": "Q3798822",
+      "admin_level": "6",
+      "wikipedia:en": "Kwaluseni"
+    }
+  },
+  {
+    "osm_id": -1253025,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1253042,-88210",
+    "name": "Inkhundla Sigwe",
+    "local_name": "Inkhundla Sigwe",
+    "name_en": null,
+    "all_tags": {
+      "name": "Inkhundla Sigwe",
+      "boundary": "administrative",
+      "way_area": "0.0166877",
+      "wikidata": "Q3473340",
+      "admin_level": "6",
+      "wikipedia:en": "Sigwe"
+    }
+  },
+  {
+    "osm_id": -1253024,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1253055,-88210",
+    "name": "Inkhundla Piggs Peak",
+    "local_name": "Inkhundla Piggs Peak",
+    "name_en": null,
+    "all_tags": {
+      "name": "Inkhundla Piggs Peak",
+      "boundary": "administrative",
+      "way_area": "0.0439622",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -1253023,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1253040,-88210",
+    "name": "Inkhundla Siphofaneni",
+    "local_name": "Inkhundla Siphofaneni",
+    "name_en": null,
+    "all_tags": {
+      "name": "Inkhundla Siphofaneni",
+      "boundary": "administrative",
+      "way_area": "0.0476545",
+      "wikidata": "Q637090",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -1253022,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1253042,-88210",
+    "name": "Inkhundla Mtsambama",
+    "local_name": "Inkhundla Mtsambama",
+    "name_en": null,
+    "all_tags": {
+      "name": "Inkhundla Mtsambama",
+      "boundary": "administrative",
+      "way_area": "0.025005",
+      "wikidata": "Q3432363",
+      "admin_level": "6",
+      "wikipedia:en": "Mtsambama"
+    }
+  },
+  {
+    "osm_id": -1253021,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1253042,-88210",
+    "name": "Inkhundla Maseyisini",
+    "local_name": "Inkhundla Maseyisini",
+    "name_en": null,
+    "all_tags": {
+      "name": "Inkhundla Maseyisini",
+      "boundary": "administrative",
+      "way_area": "0.0194693",
+      "wikidata": "Q3432388",
+      "admin_level": "6",
+      "wikipedia:en": "Maseyisini"
+    }
+  },
+  {
+    "osm_id": -1253020,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1253032,-88210",
+    "name": "Inkhundla Mafutseni",
+    "local_name": "Inkhundla Mafutseni",
+    "name_en": null,
+    "all_tags": {
+      "name": "Inkhundla Mafutseni",
+      "boundary": "administrative",
+      "way_area": "0.0218261",
+      "wikidata": "Q738448",
+      "admin_level": "6",
+      "wikipedia:en": "Mafutseni"
+    }
+  },
+  {
+    "osm_id": -1253019,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1253055,-88210",
+    "name": "Inkhundla Mbabane",
+    "local_name": "Inkhundla Mbabane",
+    "name_en": null,
+    "all_tags": {
+      "name": "Inkhundla Mbabane",
+      "boundary": "administrative",
+      "way_area": "0.00930531",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -1253018,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1253042,-88210",
+    "name": "Inkhundla Sandleni",
+    "local_name": "Inkhundla Sandleni",
+    "name_en": null,
+    "all_tags": {
+      "name": "Inkhundla Sandleni",
+      "boundary": "administrative",
+      "way_area": "0.0144904",
+      "wikidata": "Q748452",
+      "admin_level": "6",
+      "wikipedia:en": "Sandleni"
+    }
+  },
+  {
+    "osm_id": -1253017,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1253055,-88210",
+    "name": "Inkhundla Lobamba",
+    "local_name": "Inkhundla Lobamba",
+    "name_en": null,
+    "all_tags": {
+      "name": "Inkhundla Lobamba",
+      "boundary": "administrative",
+      "way_area": "0.0114964",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -1253016,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1253042,-88210",
+    "name": "Inkhundla Zombodze",
+    "local_name": "Inkhundla Zombodze",
+    "name_en": null,
+    "all_tags": {
+      "name": "Inkhundla Zombodze",
+      "boundary": "administrative",
+      "way_area": "0.0200949",
+      "wikidata": "Q2003377",
+      "admin_level": "6",
+      "wikipedia:en": "Zombodze"
+    }
+  },
+  {
+    "osm_id": -1253015,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1253040,-88210",
+    "name": "Inkhundla Mpolonjeni",
+    "local_name": "Inkhundla Mpolonjeni",
+    "name_en": null,
+    "all_tags": {
+      "name": "Inkhundla Mpolonjeni",
+      "boundary": "administrative",
+      "way_area": "0.0516102",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -1253014,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1253042,-88210",
+    "name": "Inkhundla Nkwene",
+    "local_name": "Inkhundla Nkwene",
+    "name_en": null,
+    "all_tags": {
+      "name": "Inkhundla Nkwene",
+      "boundary": "administrative",
+      "way_area": "0.025213",
+      "wikidata": "Q3432321",
+      "admin_level": "6",
+      "wikipedia:en": "Nkwene"
+    }
+  },
+  {
+    "osm_id": -1253013,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1253032,-88210",
+    "name": "Inkhundla Lobamba Lomdzala",
+    "local_name": "Inkhundla Lobamba Lomdzala",
+    "name_en": null,
+    "all_tags": {
+      "name": "Inkhundla Lobamba Lomdzala",
+      "boundary": "administrative",
+      "way_area": "0.0138247",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -1253012,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1253032,-88210",
+    "name": "Inkhundla Manzini",
+    "local_name": "Inkhundla Manzini",
+    "name_en": null,
+    "all_tags": {
+      "name": "Inkhundla Manzini",
+      "boundary": "administrative",
+      "way_area": "0.00388136",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -1253011,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1253055,-88210",
+    "name": "Inkhundla Ntfonjeni",
+    "local_name": "Inkhundla Ntfonjeni",
+    "name_en": null,
+    "all_tags": {
+      "name": "Inkhundla Ntfonjeni",
+      "boundary": "administrative",
+      "way_area": "0.027305",
+      "wikidata": "Q3798856",
+      "admin_level": "6",
+      "wikipedia:en": "Ntfonjeni"
+    }
+  },
+  {
+    "osm_id": -1253010,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1253040,-88210",
+    "name": "Inkhundla Sithobela",
+    "local_name": "Inkhundla Sithobela",
+    "name_en": null,
+    "all_tags": {
+      "name": "Inkhundla Sithobela",
+      "boundary": "administrative",
+      "way_area": "0.0601489",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -1253009,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1253055,-88210",
+    "name": "Inkhundla Hhukwini",
+    "local_name": "Inkhundla Hhukwini",
+    "name_en": null,
+    "all_tags": {
+      "name": "Inkhundla Hhukwini",
+      "boundary": "administrative",
+      "way_area": "0.0146134",
+      "wikidata": "Q3798819",
+      "admin_level": "6",
+      "wikipedia:en": "Hhukwini"
+    }
+  },
+  {
+    "osm_id": -1253008,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1253042,-88210",
+    "name": "Inkhundla Mbangweni",
+    "local_name": "Inkhundla Mbangweni",
+    "name_en": null,
+    "all_tags": {
+      "name": "Inkhundla Mbangweni",
+      "boundary": "administrative",
+      "way_area": "0.0247134",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -1253007,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1253055,-88210",
+    "name": "Inkhundla Ndzingeni",
+    "local_name": "Inkhundla Ndzingeni",
+    "name_en": null,
+    "all_tags": {
+      "name": "Inkhundla Ndzingeni",
+      "boundary": "administrative",
+      "way_area": "0.0317655",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -1253006,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1253040,-88210",
+    "name": "Inkhundla Mhlume",
+    "local_name": "Inkhundla Mhlume",
+    "name_en": null,
+    "all_tags": {
+      "name": "Inkhundla Mhlume",
+      "boundary": "administrative",
+      "way_area": "0.0685534",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -1253005,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1253040,-88210",
+    "name": "Inkhundla Lugongolweni",
+    "local_name": "Inkhundla Lugongolweni",
+    "name_en": null,
+    "all_tags": {
+      "name": "Inkhundla Lugongolweni",
+      "boundary": "administrative",
+      "way_area": "0.0411737",
+      "wikidata": "Q647334",
+      "admin_level": "6",
+      "wikipedia:en": "Lugongolweni"
+    }
+  },
+  {
+    "osm_id": -1253004,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1253055,-88210",
+    "name": "Inkhundla Timpisini",
+    "local_name": "Inkhundla Timpisini",
+    "name_en": null,
+    "all_tags": {
+      "name": "Inkhundla Timpisini",
+      "boundary": "administrative",
+      "way_area": "0.00790275",
+      "wikidata": "Q3798866",
+      "admin_level": "6",
+      "wikipedia:en": "Timpisini"
+    }
+  },
+  {
+    "osm_id": -1253003,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1253040,-88210",
+    "name": "Inkhundla Nkilongo",
+    "local_name": "Inkhundla Nkilongo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Inkhundla Nkilongo",
+      "boundary": "administrative",
+      "way_area": "0.0430908",
+      "wikidata": "Q3798855",
+      "admin_level": "6",
+      "wikipedia:en": "Nkilongo"
+    }
+  },
+  {
+    "osm_id": -1253002,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1253032,-88210",
+    "name": "Inkhundla Ngwempisi",
+    "local_name": "Inkhundla Ngwempisi",
+    "name_en": null,
+    "all_tags": {
+      "name": "Inkhundla Ngwempisi",
+      "boundary": "administrative",
+      "way_area": "0.0531494",
+      "wikidata": "Q3798849",
+      "admin_level": "6",
+      "wikipedia:en": "Ngwempisi"
+    }
+  }
+]

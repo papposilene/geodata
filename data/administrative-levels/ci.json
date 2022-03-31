@@ -1,0 +1,1037 @@
+[
+  {
+    "osm_id": -3706107,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1609811,-3578769,-192779",
+    "name": "Bettié",
+    "local_name": "Bettié",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bettié",
+      "boundary": "administrative",
+      "way_area": "0.0889065",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -3706106,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1609811,-3578769,-192779",
+    "name": "Agnibilékrou",
+    "local_name": "Agnibilékrou",
+    "name_en": null,
+    "all_tags": {
+      "name": "Agnibilékrou",
+      "boundary": "administrative",
+      "way_area": "0.151685",
+      "wikidata": "Q4693215",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -3706105,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1609811,-3578769,-192779",
+    "name": "Abengourou",
+    "local_name": "Abengourou",
+    "name_en": null,
+    "all_tags": {
+      "name": "Abengourou",
+      "name:ar": "أبنغورو",
+      "boundary": "administrative",
+      "way_area": "0.326318",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -3704475,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1609814,-3578769,-192779",
+    "name": "Grand-Bassam",
+    "local_name": "Grand-Bassam",
+    "name_en": null,
+    "all_tags": {
+      "name": "Grand-Bassam",
+      "boundary": "administrative",
+      "way_area": "0.0750482",
+      "wikidata": "Q5594198",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -3704474,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1609814,-3578769,-192779",
+    "name": "Adiaké",
+    "local_name": "Adiaké",
+    "name_en": null,
+    "all_tags": {
+      "name": "Adiaké",
+      "boundary": "administrative",
+      "way_area": "0.0688593",
+      "wikidata": "Q4682641",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -3704473,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1609814,-3578769,-192779",
+    "name": "Aboisso",
+    "local_name": "Aboisso",
+    "name_en": null,
+    "all_tags": {
+      "name": "Aboisso",
+      "name:ru": "Абоисо",
+      "boundary": "administrative",
+      "way_area": "0.368148",
+      "wikidata": "Q3445349",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -3704452,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1609814,-3578769,-192779",
+    "name": "Tiapoum",
+    "local_name": "Tiapoum",
+    "name_en": null,
+    "all_tags": {
+      "name": "Tiapoum",
+      "boundary": "administrative",
+      "way_area": "0.0614718",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -3638880,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-3601645,-192779",
+    "name": "Moronou",
+    "local_name": "Moronou",
+    "name_en": null,
+    "all_tags": {
+      "name": "Moronou",
+      "boundary": "administrative",
+      "way_area": "0.452159",
+      "wikidata": "Q22080454",
+      "admin_level": "5",
+      "official_name": "Région du Moronou"
+    }
+  },
+  {
+    "osm_id": -3604146,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-1609809,-192779",
+    "name": "Tchologo",
+    "local_name": "Tchologo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Tchologo",
+      "boundary": "administrative",
+      "way_area": "1.4245",
+      "wikidata": "Q17355495",
+      "admin_level": "5",
+      "official_name": "Région du Tchologo"
+    }
+  },
+  {
+    "osm_id": -3604145,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-1609809,-192779",
+    "name": "Poro",
+    "local_name": "Poro",
+    "name_en": null,
+    "all_tags": {
+      "name": "Poro",
+      "name:ar": "بورو",
+      "boundary": "administrative",
+      "way_area": "1.04159",
+      "wikidata": "Q22080932",
+      "admin_level": "5",
+      "official_name": "Région du Poro",
+      "official_name:ar": "منطقة بورو"
+    }
+  },
+  {
+    "osm_id": -3604144,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-1609809,-192779",
+    "name": "Bagoué",
+    "local_name": "Bagoué",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bagoué",
+      "boundary": "administrative",
+      "way_area": "0.844971",
+      "wikidata": "Q2879161",
+      "admin_level": "5",
+      "official_name": "Région de la Bagoué"
+    }
+  },
+  {
+    "osm_id": -3603818,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-1609813,-192779",
+    "name": "Gontougo",
+    "local_name": "Gontougo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Gontougo",
+      "boundary": "administrative",
+      "way_area": "1.32914",
+      "wikidata": "Q17355494",
+      "admin_level": "5",
+      "official_name": "Région du Gontougo"
+    }
+  },
+  {
+    "osm_id": -3603817,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-1609813,-192779",
+    "name": "Bounkani",
+    "local_name": "Bounkani",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bounkani",
+      "boundary": "administrative",
+      "way_area": "1.80384",
+      "wikidata": "Q19830823",
+      "admin_level": "5",
+      "official_name": "Région du Bounkani"
+    }
+  },
+  {
+    "osm_id": -3603738,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-1609819,-192779",
+    "name": "Kabadougou",
+    "local_name": "Kabadougou",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kabadougou",
+      "boundary": "administrative",
+      "way_area": "1.20276",
+      "wikidata": "Q24756897",
+      "admin_level": "5",
+      "official_name": "Région du Kabadougou"
+    }
+  },
+  {
+    "osm_id": -3603737,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-1609819,-192779",
+    "name": "Folon",
+    "local_name": "Folon",
+    "name_en": null,
+    "all_tags": {
+      "name": "Folon",
+      "boundary": "administrative",
+      "way_area": "0.516215",
+      "wikidata": "Q3075118",
+      "admin_level": "5",
+      "official_name": "Région du Folon"
+    }
+  },
+  {
+    "osm_id": -3603715,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-3603714,-192779",
+    "name": "Béré",
+    "local_name": "Béré",
+    "name_en": null,
+    "all_tags": {
+      "name": "Béré",
+      "boundary": "administrative",
+      "way_area": "0.918196",
+      "wikidata": "Q22080753",
+      "admin_level": "5",
+      "official_name": "Région du Béré"
+    }
+  },
+  {
+    "osm_id": -3603714,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192779",
+    "name": "Woroba",
+    "local_name": "Woroba",
+    "name_en": null,
+    "all_tags": {
+      "name": "Woroba",
+      "boundary": "administrative",
+      "way_area": "2.58483",
+      "wikidata": "Q20980371",
+      "ISO3166-2": "CI-WR",
+      "wikipedia": "fr:Woroba",
+      "admin_level": "4",
+      "border_type": "district",
+      "official_name": "District du Woroba"
+    }
+  },
+  {
+    "osm_id": -3603162,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-1609817,-192779",
+    "name": "Hambol",
+    "local_name": "Hambol",
+    "name_en": null,
+    "all_tags": {
+      "name": "Hambol",
+      "boundary": "administrative",
+      "way_area": "1.57214",
+      "admin_level": "5",
+      "official_name": "Région du Hambol"
+    }
+  },
+  {
+    "osm_id": -3603161,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-1609817,-192779",
+    "name": "Gbêkê",
+    "local_name": "Gbêkê",
+    "name_en": null,
+    "all_tags": {
+      "name": "Gbêkê",
+      "boundary": "administrative",
+      "way_area": "0.694615",
+      "wikidata": "Q22080826",
+      "admin_level": "5",
+      "official_name": "Région de Gbêkê"
+    }
+  },
+  {
+    "osm_id": -3601647,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-3601645,-192779",
+    "name": "N’zi",
+    "local_name": "N’zi",
+    "name_en": null,
+    "all_tags": {
+      "name": "N’zi",
+      "alt_name": "Nzi",
+      "boundary": "administrative",
+      "way_area": "0.405175",
+      "admin_level": "5",
+      "official_name": "Région du N’zi"
+    }
+  },
+  {
+    "osm_id": -3601646,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-3601645,-192779",
+    "name": "Iffou",
+    "local_name": "Iffou",
+    "name_en": null,
+    "all_tags": {
+      "name": "Iffou",
+      "boundary": "administrative",
+      "way_area": "0.738406",
+      "wikidata": "Q21082947",
+      "admin_level": "5",
+      "official_name": "Région de l’Iffou"
+    }
+  },
+  {
+    "osm_id": -3601645,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192779",
+    "name": "Lacs",
+    "local_name": "Lacs",
+    "name_en": null,
+    "all_tags": {
+      "name": "Lacs",
+      "name:ru": "Лак",
+      "boundary": "administrative",
+      "way_area": "2.15324",
+      "wikidata": "Q20980363",
+      "ISO3166-2": "CI-LC",
+      "wikipedia": "fr:District des Lacs",
+      "admin_level": "4",
+      "border_type": "district",
+      "official_name": "District des Lacs"
+    }
+  },
+  {
+    "osm_id": -3601243,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192779",
+    "name": "Yamoussoukro",
+    "local_name": "Yamoussoukro",
+    "name_en": null,
+    "all_tags": {
+      "name": "Yamoussoukro",
+      "name:ru": "Ямусукро",
+      "boundary": "administrative",
+      "way_area": "0.15662",
+      "wikidata": "Q8048095",
+      "ISO3166-2": "CI-YM",
+      "admin_level": "4",
+      "border_type": "district",
+      "official_name": "District Autonome de Yamoussoukro"
+    }
+  },
+  {
+    "osm_id": -3601234,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192779",
+    "name": "Sassandra-Marahoué",
+    "local_name": "Sassandra-Marahoué",
+    "name_en": null,
+    "all_tags": {
+      "name": "Sassandra-Marahoué",
+      "name:ru": "О-Сассандра",
+      "boundary": "administrative",
+      "way_area": "1.98796",
+      "wikidata": "Q20365127",
+      "ISO3166-2": "CI-SM",
+      "wikipedia": "fr:Sassandra-Marahoué",
+      "admin_level": "4",
+      "border_type": "district",
+      "official_name": "District du Sassandra-Marahoué"
+    }
+  },
+  {
+    "osm_id": -3600378,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192779",
+    "name": "Montagnes",
+    "local_name": "Montagnes",
+    "name_en": null,
+    "all_tags": {
+      "name": "Montagnes",
+      "name:ar": "الجبال",
+      "boundary": "administrative",
+      "old_name": "Dix-Huit Montagnes",
+      "reg_name": "18 Montagnes",
+      "way_area": "2.50199",
+      "wikidata": "Q20980366",
+      "ISO3166-2": "CI-MG",
+      "wikipedia": "fr:Montagnes District",
+      "admin_level": "4",
+      "border_type": "district",
+      "old_name:ar": "ثمانية عشر جبال",
+      "reg_name:ar": "18 جبال",
+      "official_name": "District des Montagnes",
+      "official_name:ar": "مقاطعة الجبال"
+    }
+  },
+  {
+    "osm_id": -3600125,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-3600378,-192779",
+    "name": "Guémon",
+    "local_name": "Guémon",
+    "name_en": null,
+    "all_tags": {
+      "name": "Guémon",
+      "boundary": "administrative",
+      "way_area": "0.587764",
+      "wikidata": "Q21082912",
+      "admin_level": "5",
+      "official_name": "Région du Guémon"
+    }
+  },
+  {
+    "osm_id": -3597522,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192779",
+    "name": "Bas-Sassandra",
+    "local_name": "Bas-Sassandra",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bas-Sassandra",
+      "name:ar": "ساساندرا السفلى",
+      "boundary": "administrative",
+      "way_area": "2.27195",
+      "wikidata": "Q20980352",
+      "ISO3166-2": "CI-BS",
+      "wikipedia": "fr:Bas-Sassandra",
+      "admin_level": "4",
+      "border_type": "district",
+      "official_name": "District du Bas-Sassandra",
+      "official_name:ar": "مقاطعة ساساندرا السفلى"
+    }
+  },
+  {
+    "osm_id": -3597299,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-3597522,-192779",
+    "name": "San Pedro",
+    "local_name": "San Pedro",
+    "name_en": null,
+    "all_tags": {
+      "name": "San Pedro",
+      "name:ar": "سان بيدرو",
+      "boundary": "administrative",
+      "way_area": "1.02267",
+      "admin_level": "5",
+      "official_name": "Région de San Pedro",
+      "official_name:ar": "منطقة سان بيدرو"
+    }
+  },
+  {
+    "osm_id": -3596853,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-3597522,-192779",
+    "name": "Gbôklé",
+    "local_name": "Gbôklé",
+    "name_en": null,
+    "all_tags": {
+      "name": "Gbôklé",
+      "name:ar": "غبوكلي",
+      "boundary": "administrative",
+      "way_area": "0.503915",
+      "wikidata": "Q22080829",
+      "admin_level": "5",
+      "official_name": "Région du Gbôklé",
+      "official_name:ar": "منطقة غبوكلي"
+    }
+  },
+  {
+    "osm_id": -3596852,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-3597522,-192779",
+    "name": "Nawa",
+    "local_name": "Nawa",
+    "name_en": null,
+    "all_tags": {
+      "name": "Nawa",
+      "name:ar": "ناوا",
+      "boundary": "administrative",
+      "way_area": "0.745374",
+      "wikidata": "Q20743904",
+      "admin_level": "5",
+      "official_name": "Région de la Nawa",
+      "official_name:ar": "منطقة ناوا"
+    }
+  },
+  {
+    "osm_id": -3596728,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-3596727,-192779",
+    "name": "Lôh-Djiboua",
+    "local_name": "Lôh-Djiboua",
+    "name_en": null,
+    "all_tags": {
+      "name": "Lôh-Djiboua",
+      "name:ar": "لوه-جيبوا",
+      "boundary": "administrative",
+      "way_area": "0.720153",
+      "wikidata": "Q21084295",
+      "admin_level": "5",
+      "official_name": "Région du Lôh-Djiboua",
+      "official_name:ar": "مقاطعة لوه-جيبوا"
+    }
+  },
+  {
+    "osm_id": -3596727,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192779",
+    "name": "Gôh-Djiboua",
+    "local_name": "Gôh-Djiboua",
+    "name_en": null,
+    "all_tags": {
+      "name": "Gôh-Djiboua",
+      "name:ar": "غوه-جيبوا",
+      "boundary": "administrative",
+      "way_area": "1.28376",
+      "wikidata": "Q21003640",
+      "ISO3166-2": "CI-GD",
+      "wikipedia": "fr:Gôh-Djiboua",
+      "admin_level": "4",
+      "border_type": "district",
+      "official_name": "District du Gôh-Djiboua",
+      "official_name:ar": "مقاطعة غوه-جيبوا"
+    }
+  },
+  {
+    "osm_id": -3581398,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192779",
+    "name": "Lagunes",
+    "local_name": "Lagunes",
+    "name_en": null,
+    "all_tags": {
+      "name": "Lagunes",
+      "boundary": "administrative",
+      "way_area": "1.69515",
+      "wikidata": "Q20980365",
+      "ISO3166-2": "CI-LG",
+      "wikipedia": "fr:Lagunes District",
+      "admin_level": "4",
+      "border_type": "district",
+      "official_name": "District des Lagunes"
+    }
+  },
+  {
+    "osm_id": -3581389,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-3581398,-192779",
+    "name": "Grands-Ponts",
+    "local_name": "Grands-Ponts",
+    "name_en": null,
+    "all_tags": {
+      "name": "Grands-Ponts",
+      "boundary": "administrative",
+      "way_area": "0.388013",
+      "wikidata": "Q22080838",
+      "admin_level": "5",
+      "official_name": "Région des Grands Ponts"
+    }
+  },
+  {
+    "osm_id": -3579474,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-3581398,-192779",
+    "name": "Mé",
+    "local_name": "Mé",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mé",
+      "boundary": "administrative",
+      "way_area": "0.656815",
+      "wikidata": "Q17638767",
+      "admin_level": "5",
+      "official_name": "Région du Moronou"
+    }
+  },
+  {
+    "osm_id": -3578769,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192779",
+    "name": "Comoé",
+    "local_name": "Comoé",
+    "name_en": null,
+    "all_tags": {
+      "name": "Comoé",
+      "name:ar": "كوموي",
+      "boundary": "administrative",
+      "way_area": "1.14044",
+      "wikidata": "Q16629374",
+      "ISO3166-2": "CI-CM",
+      "wikipedia": "fr:Comoé",
+      "admin_level": "4",
+      "border_type": "district",
+      "official_name": "District de la Comoé",
+      "official_name:ar": "مقاطعة كوموي"
+    }
+  },
+  {
+    "osm_id": -3377982,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192779",
+    "name": "Abidjan",
+    "local_name": "Abidjan",
+    "name_en": "Abidjan",
+    "all_tags": {
+      "name": "Abidjan",
+      "name:af": "Abidjan",
+      "name:ar": "أبيدجان",
+      "name:be": "Абіджан",
+      "name:bg": "Абиджан",
+      "name:bn": "আবিজান",
+      "name:br": "Abidjan",
+      "name:bs": "Abidjan",
+      "name:ca": "Abidjan",
+      "name:cs": "Abidžan",
+      "name:cy": "Abidjan",
+      "name:da": "Abidjan",
+      "name:de": "Abidjan",
+      "name:el": "Αμπιτζάν",
+      "name:en": "Abidjan",
+      "name:eo": "Abiĝano",
+      "name:es": "Abiyán",
+      "name:et": "Abidjan",
+      "name:eu": "Abidjan",
+      "name:fa": "آبیجان",
+      "name:fi": "Abidjan",
+      "name:fr": "Abidjan",
+      "name:gd": "Abidjan",
+      "name:gl": "Abidjan",
+      "name:gv": "Abidjan",
+      "name:he": "אבידג'אן",
+      "name:hr": "Abidjan",
+      "name:hu": "Abidjan",
+      "name:id": "Abidjan",
+      "name:io": "Abidjan",
+      "name:is": "Abidjan",
+      "name:it": "Abidjan",
+      "name:ja": "アビジャン",
+      "name:jv": "Abidjan",
+      "name:ko": "아비장",
+      "name:la": "Abidjan",
+      "name:ln": "Abidjan",
+      "name:lt": "Abidžanas",
+      "name:lv": "Abidžāna",
+      "name:mg": "Abidjan",
+      "name:mk": "Абиџан",
+      "name:ml": "അബിജാൻ",
+      "name:mr": "आबिजान",
+      "name:ms": "Abidjan",
+      "name:nl": "Abidjan",
+      "name:nn": "Abidjan",
+      "name:no": "Abidjan",
+      "name:oc": "Abidjan",
+      "name:pl": "Abidżan",
+      "name:pt": "Abidjan",
+      "name:ro": "Abidjan",
+      "name:ru": "Абиджан",
+      "name:sc": "Abidjan",
+      "name:sk": "Abidjan",
+      "name:sl": "Abidžan",
+      "name:sq": "Abidjan",
+      "name:sr": "Абиџан",
+      "name:sv": "Abidjan",
+      "name:sw": "Abidjan",
+      "name:th": "อาบีจาน",
+      "name:tk": "Abijan",
+      "name:tr": "Abican",
+      "name:uk": "Абіджан",
+      "name:vi": "Abidjan",
+      "name:vo": "Abidjan",
+      "name:yo": "Abidjan",
+      "name:zh": "阿比让 / 阿必尚",
+      "boundary": "administrative",
+      "name:als": "Abidjan",
+      "name:kab": "Abidjan",
+      "name:lmo": "Abidjan",
+      "name:nan": "Abidjan",
+      "name:nov": "Abidjan",
+      "name:pms": "Abidjan",
+      "name:war": "Abidjan",
+      "way_area": "0.159441",
+      "wikidata": "Q4667612",
+      "ISO3166-2": "CI-AB",
+      "wikipedia": "fr:Département d'Abidjan",
+      "name:zh-CN": "阿比让",
+      "name:zh-TW": "阿必尚",
+      "population": "5000000",
+      "admin_level": "4",
+      "border_type": "district",
+      "name:bat-smg": "Abidžans",
+      "name:roa-rup": "Abidjan",
+      "name:zh-Hans": "阿比让",
+      "name:zh-Hant": "阿比讓 / 阿必尚",
+      "official_name": "District Autonome d’Abidjan",
+      "name:be-tarask": "Абіджан"
+    }
+  },
+  {
+    "osm_id": -1609820,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-3601645,-192779",
+    "name": "Bélier",
+    "local_name": "Bélier",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bélier",
+      "boundary": "administrative",
+      "way_area": "0.557498",
+      "admin_level": "5",
+      "official_name": "Région du Bélier"
+    }
+  },
+  {
+    "osm_id": -1609819,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192779",
+    "name": "Denguélé",
+    "local_name": "Denguélé",
+    "name_en": null,
+    "all_tags": {
+      "name": "Denguélé",
+      "name:ru": "Денгеле",
+      "boundary": "administrative",
+      "way_area": "1.71898",
+      "wikidata": "Q20980374",
+      "ISO3166-2": "CI-DN",
+      "wikipedia": "fr:Denguélé",
+      "admin_level": "4",
+      "border_type": "district",
+      "official_name": "District du Denguélé"
+    }
+  },
+  {
+    "osm_id": -1609818,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-3600378,-192779",
+    "name": "Tonkpi",
+    "local_name": "Tonkpi",
+    "name_en": null,
+    "all_tags": {
+      "name": "Tonkpi",
+      "name:ar": "تنكبي",
+      "boundary": "administrative",
+      "way_area": "0.991821",
+      "wikidata": "Q17355578",
+      "admin_level": "5",
+      "official_name": "Région du Tonkpi",
+      "official_name:ar": "منطقة تنكبي"
+    }
+  },
+  {
+    "osm_id": -1609817,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192779",
+    "name": "Vallée du Bandama",
+    "local_name": "Vallée du Bandama",
+    "name_en": null,
+    "all_tags": {
+      "name": "Vallée du Bandama",
+      "name:ru": "Валле-дю-Бандама",
+      "boundary": "administrative",
+      "way_area": "2.26675",
+      "wikidata": "Q21002356",
+      "ISO3166-2": "CI-VB",
+      "wikipedia": "fr:Vallée du Bandama",
+      "admin_level": "4",
+      "border_type": "district",
+      "official_name": "District de la Vallée du Bandama"
+    }
+  },
+  {
+    "osm_id": -1609815,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-3603714,-192779",
+    "name": "Bafing",
+    "local_name": "Bafing",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bafing",
+      "name:ru": "Бафин",
+      "boundary": "administrative",
+      "way_area": "0.731253",
+      "wikidata": "Q799800",
+      "admin_level": "5",
+      "official_name": "Région du Bafing"
+    }
+  },
+  {
+    "osm_id": -1609814,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-3578769,-192779",
+    "name": "Sud-Comoé",
+    "local_name": "Sud-Comoé",
+    "name_en": null,
+    "all_tags": {
+      "name": "Sud-Comoé",
+      "boundary": "administrative",
+      "way_area": "0.573527",
+      "wikidata": "Q842495",
+      "admin_level": "5",
+      "official_name": "Région du Sud-Comoé"
+    }
+  },
+  {
+    "osm_id": -1609813,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192779",
+    "name": "Zanzan",
+    "local_name": "Zanzan",
+    "name_en": null,
+    "all_tags": {
+      "name": "Zanzan",
+      "name:ru": "Занзан",
+      "boundary": "administrative",
+      "way_area": "3.13297",
+      "wikidata": "Q21003689",
+      "ISO3166-2": "CI-ZZ",
+      "wikipedia": "fr:Zanzan",
+      "admin_level": "4",
+      "border_type": "district",
+      "official_name": "District du Zanzan"
+    }
+  },
+  {
+    "osm_id": -1609811,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-3578769,-192779",
+    "name": "Indénié-Djuablin",
+    "local_name": "Indénié-Djuablin",
+    "name_en": null,
+    "all_tags": {
+      "name": "Indénié-Djuablin",
+      "name:ar": "إندانيه-جوابلان",
+      "boundary": "administrative",
+      "way_area": "0.56691",
+      "wikidata": "Q16643482",
+      "admin_level": "5",
+      "official_name": "Région de l’Indénié-Djuablin",
+      "official_name:ar": "منطقة إندانيه-جوابلان"
+    }
+  },
+  {
+    "osm_id": -1609810,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-3601234,-192779",
+    "name": "Haut-Sassandra",
+    "local_name": "Haut-Sassandra",
+    "name_en": null,
+    "all_tags": {
+      "name": "Haut-Sassandra",
+      "boundary": "administrative",
+      "way_area": "1.24316",
+      "wikidata": "Q845709",
+      "admin_level": "5",
+      "official_name": "Règion du Haut-Sassandra"
+    }
+  },
+  {
+    "osm_id": -1609809,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192779",
+    "name": "Savanes",
+    "local_name": "Savanes",
+    "name_en": null,
+    "all_tags": {
+      "name": "Savanes",
+      "name:ar": "السهول العشبية",
+      "name:ru": "Саван",
+      "boundary": "administrative",
+      "way_area": "3.31106",
+      "wikidata": "Q21002161",
+      "ISO3166-2": "CI-SV",
+      "wikipedia": "fr:Savanes (district de Côte-d'Ivoire)",
+      "admin_level": "4",
+      "border_type": "district",
+      "official_name": "District des Savanes",
+      "official_name:ar": "مقاطعة السهول العشبية"
+    }
+  },
+  {
+    "osm_id": -1609807,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-3603714,-192779",
+    "name": "Worodougou",
+    "local_name": "Worodougou",
+    "name_en": null,
+    "all_tags": {
+      "name": "Worodougou",
+      "name:ru": "Вородугу",
+      "boundary": "administrative",
+      "way_area": "0.935384",
+      "wikidata": "Q846056",
+      "wikipedia": "fr:Worodougou",
+      "admin_level": "5",
+      "official_name": "Région du Worodougou"
+    }
+  },
+  {
+    "osm_id": -1609806,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-3601234,-192779",
+    "name": "Marahoué",
+    "local_name": "Marahoué",
+    "name_en": null,
+    "all_tags": {
+      "name": "Marahoué",
+      "boundary": "administrative",
+      "way_area": "0.744799",
+      "wikidata": "Q839083",
+      "admin_level": "5",
+      "official_name": "Région de la Marahoué"
+    }
+  },
+  {
+    "osm_id": -1609805,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-3581398,-192779",
+    "name": "Agnéby-Tiassa",
+    "local_name": "Agnéby-Tiassa",
+    "name_en": null,
+    "all_tags": {
+      "name": "Agnéby-Tiassa",
+      "name:ar": "أنيبي-تياسا",
+      "boundary": "administrative",
+      "way_area": "0.650326",
+      "admin_level": "5",
+      "official_name": "Région de l’Agnéby-Tiassa",
+      "official_name:ar": "منطقة أنيبي-تياسا"
+    }
+  },
+  {
+    "osm_id": -1609804,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-3600378,-192779",
+    "name": "Cavally",
+    "local_name": "Cavally",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cavally",
+      "boundary": "administrative",
+      "way_area": "0.922404",
+      "wikidata": "Q20641894",
+      "admin_level": "5",
+      "official_name": "Région du Cavally"
+    }
+  },
+  {
+    "osm_id": -1609803,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-3596727,-192779",
+    "name": "Gôh",
+    "local_name": "Gôh",
+    "name_en": null,
+    "all_tags": {
+      "name": "Gôh",
+      "name:ar": "غوه",
+      "boundary": "administrative",
+      "way_area": "0.563609",
+      "admin_level": "5",
+      "official_name": "Région du Gôh",
+      "official_name:ar": "منطقة غوه"
+    }
+  }
+]

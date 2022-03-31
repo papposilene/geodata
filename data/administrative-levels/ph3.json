@@ -1,0 +1,3118 @@
+[
+  {
+    "osm_id": -13716577,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-48393,-3873457,-11144440",
+    "name": "Kitaotao",
+    "local_name": "Kitaotao",
+    "name_en": null,
+    "all_tags": {
+      "ref": "101309000",
+      "name": "Kitaotao",
+      "boundary": "administrative",
+      "old_name": "Kitao-Tao",
+      "way_area": "0.0439835",
+      "wikidata": "Q357175",
+      "wikipedia": "en:Kitaotao",
+      "population": "53796",
+      "start_date": "1966-06-18",
+      "admin_level": "6",
+      "postal_code": "8716",
+      "official_name": "Municipality of Kitaotao",
+      "is_in:province": "Bukidnon",
+      "population:date": "2020-05-01"
+    }
+  },
+  {
+    "osm_id": -13656917,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-48393,-3873457,-11144440",
+    "name": "Dangcagan",
+    "local_name": "Dangcagan",
+    "name_en": null,
+    "all_tags": {
+      "name": "Dangcagan",
+      "boundary": "administrative",
+      "way_area": "0.00601882",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13645658,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-48393,-3873457,-11144440",
+    "name": "Kadingilan",
+    "local_name": "Kadingilan",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kadingilan",
+      "boundary": "administrative",
+      "way_area": "0.0134312",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13645657,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-48393,-3873457,-11144440",
+    "name": "Don Carlos",
+    "local_name": "Don Carlos",
+    "name_en": null,
+    "all_tags": {
+      "name": "Don Carlos",
+      "boundary": "administrative",
+      "way_area": "0.0185423",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13644548,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-48393,-3873457,-11144440",
+    "name": "Kalilangan",
+    "local_name": "Kalilangan",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kalilangan",
+      "boundary": "administrative",
+      "way_area": "0.0188886",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13644546,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-48393,-3873457,-11144440",
+    "name": "Pangantucan",
+    "local_name": "Pangantucan",
+    "name_en": null,
+    "all_tags": {
+      "name": "Pangantucan",
+      "boundary": "administrative",
+      "way_area": "0.0355919",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13644434,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-48393,-3873457,-11144440",
+    "name": "Talakag",
+    "local_name": "Talakag",
+    "name_en": null,
+    "all_tags": {
+      "name": "Talakag",
+      "boundary": "administrative",
+      "way_area": "0.0603056",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13640911,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-48393,-3873457,-11144440",
+    "name": "Maramag",
+    "local_name": "Maramag",
+    "name_en": null,
+    "all_tags": {
+      "name": "Maramag",
+      "boundary": "administrative",
+      "way_area": "0.0316314",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13640718,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-48393,-3873457,-11144440",
+    "name": "Quezon",
+    "local_name": "Quezon",
+    "name_en": null,
+    "all_tags": {
+      "name": "Quezon",
+      "boundary": "administrative",
+      "way_area": "0.0457931",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13541071,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-48393,-3873457,-11144440",
+    "name": "Baungon",
+    "local_name": "Baungon",
+    "name_en": null,
+    "all_tags": {
+      "name": "Baungon",
+      "boundary": "administrative",
+      "way_area": "0.0274154",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13467025,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-48393,-3873457,-11144440",
+    "name": "Libona",
+    "local_name": "Libona",
+    "name_en": null,
+    "all_tags": {
+      "name": "Libona",
+      "boundary": "administrative",
+      "way_area": "0.0308472",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13456537,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-48393,-3873457,-11144440",
+    "name": "Malitbog",
+    "local_name": "Malitbog",
+    "name_en": null,
+    "all_tags": {
+      "name": "Malitbog",
+      "boundary": "administrative",
+      "way_area": "0.0341318",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13452750,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-48393,-3873457,-11144440",
+    "name": "Manolo Fortich",
+    "local_name": "Manolo Fortich",
+    "name_en": null,
+    "all_tags": {
+      "name": "Manolo Fortich",
+      "boundary": "administrative",
+      "way_area": "0.0357428",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13448457,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-48393,-3873457,-11144440",
+    "name": "Sumilao",
+    "local_name": "Sumilao",
+    "name_en": null,
+    "all_tags": {
+      "name": "Sumilao",
+      "boundary": "administrative",
+      "way_area": "0.0178221",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13439339,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1507283,-3936842,-11144440",
+    "name": "Laak",
+    "local_name": "Laak",
+    "name_en": null,
+    "all_tags": {
+      "ref": "118202000",
+      "name": "Laak",
+      "boundary": "administrative",
+      "old_name": "San Vicente",
+      "way_area": "0.052283",
+      "wikidata": "Q315468",
+      "wikipedia": "en:Laak, Davao de Oro",
+      "population": "79744",
+      "start_date": "1979-04-04",
+      "admin_level": "6",
+      "postal_code": "8810",
+      "official_name": "Municipality of Laak",
+      "is_in:province": "Davao de Oro",
+      "population:date": "2020-05-01"
+    }
+  },
+  {
+    "osm_id": -13437331,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-48393,-3873457,-11144440",
+    "name": "Impasugong",
+    "local_name": "Impasugong",
+    "name_en": null,
+    "all_tags": {
+      "name": "Impasugong",
+      "boundary": "administrative",
+      "way_area": "0.0758164",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13437290,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-48393,-3873457,-11144440",
+    "name": "Lantapan",
+    "local_name": "Lantapan",
+    "name_en": null,
+    "all_tags": {
+      "name": "Lantapan",
+      "boundary": "administrative",
+      "way_area": "0.0268132",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13437285,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-48393,-3873457,-11144440",
+    "name": "Valencia",
+    "local_name": "Valencia",
+    "name_en": null,
+    "all_tags": {
+      "name": "Valencia",
+      "boundary": "administrative",
+      "way_area": "0.0525524",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13434580,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-48393,-3873457,-11144440",
+    "name": "Cabanglasan",
+    "local_name": "Cabanglasan",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cabanglasan",
+      "boundary": "administrative",
+      "way_area": "0.0235384",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13434541,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-48393,-3873457,-11144440",
+    "name": "Malaybalay",
+    "local_name": "Malaybalay",
+    "name_en": null,
+    "all_tags": {
+      "name": "Malaybalay",
+      "boundary": "administrative",
+      "way_area": "0.09483",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13402002,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1513050,-3936842,-11144440",
+    "name": "Kiblawan",
+    "local_name": "Kiblawan",
+    "name_en": null,
+    "all_tags": {
+      "ref": "112406000",
+      "name": "Kiblawan",
+      "boundary": "administrative",
+      "way_area": "0.0276431",
+      "wikidata": "Q314844",
+      "wikipedia": "en:Kiblawan",
+      "population": "49381",
+      "start_date": "1966-06-18",
+      "admin_level": "6",
+      "postal_code": "8008",
+      "official_name": "Municipality of Kiblawan",
+      "is_in:province": "Davao del Sur",
+      "population:date": "2020-05-01"
+    }
+  },
+  {
+    "osm_id": -13177015,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1513050,-3936842,-11144440",
+    "name": "Digos",
+    "local_name": "Digos",
+    "name_en": null,
+    "all_tags": {
+      "ref": "112403000",
+      "name": "Digos",
+      "name:ja": "ディゴス",
+      "name:zh": "狄高斯",
+      "alt_name": "Digos City",
+      "boundary": "administrative",
+      "way_area": "0.027143",
+      "wikidata": "Q1020939",
+      "wikipedia": "en:Digos",
+      "population": "188376",
+      "start_date": "1949-07-19",
+      "admin_level": "6",
+      "postal_code": "8002",
+      "official_name": "City of Digos",
+      "is_in:province": "Davao del Sur",
+      "population:date": "2020-05-01",
+      "official_name:tl": "Lungsod ng Digos",
+      "official_name:ceb": "Dakbayan sa Digos"
+    }
+  },
+  {
+    "osm_id": -13163926,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1513050,-3936842,-11144440",
+    "name": "Hagonoy",
+    "local_name": "Hagonoy",
+    "name_en": null,
+    "all_tags": {
+      "ref": "112404000",
+      "name": "Hagonoy",
+      "boundary": "administrative",
+      "way_area": "0.0144054",
+      "wikidata": "Q314808",
+      "wikipedia": "en:Hagonoy, Davao del Sur",
+      "population": "56919",
+      "start_date": "1953-05-28",
+      "admin_level": "6",
+      "postal_code": "8006",
+      "is_in:province": "Davao del Sur",
+      "population:date": "2020-05-01"
+    }
+  },
+  {
+    "osm_id": -13163740,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1513050,-3936842,-11144440",
+    "name": "Padada",
+    "local_name": "Padada",
+    "name_en": null,
+    "all_tags": {
+      "ref": "112411000",
+      "name": "Padada",
+      "boundary": "administrative",
+      "way_area": "0.0040866",
+      "wikidata": "Q314944",
+      "wikipedia": "en:Padada",
+      "population": "29878",
+      "start_date": "1949-07-01",
+      "admin_level": "6",
+      "postal_code": "8007",
+      "is_in:province": "Davao del Sur",
+      "population:date": "2020-05-01"
+    }
+  },
+  {
+    "osm_id": -13023504,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1513190,-3873457,-11144440",
+    "name": "Gingoog",
+    "local_name": "Gingoog",
+    "name_en": null,
+    "all_tags": {
+      "ref": "104308000",
+      "name": "Gingoog",
+      "boundary": "administrative",
+      "way_area": "0.0512476",
+      "admin_level": "6",
+      "postal_code": "9014"
+    }
+  },
+  {
+    "osm_id": -12969496,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1513208,-3873457,-11144440",
+    "name": "Bonifacio",
+    "local_name": "Bonifacio",
+    "name_en": null,
+    "all_tags": {
+      "ref": "104203000",
+      "name": "Bonifacio",
+      "boundary": "administrative",
+      "way_area": "0.0110565",
+      "wikidata": "Q196076",
+      "wikipedia": "en:Bonifacio, Misamis Occidental",
+      "population": "32345",
+      "start_date": "1942",
+      "admin_level": "6",
+      "postal_code": "7215",
+      "official_name": "Municipality of Bonifacio",
+      "is_in:province": "Misamis Occidental",
+      "population:date": "2015-08-01"
+    }
+  },
+  {
+    "osm_id": -12969495,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1513208,-3873457,-11144440",
+    "name": "Ozamiz",
+    "local_name": "Ozamiz",
+    "name_en": null,
+    "all_tags": {
+      "ref": "104210000",
+      "name": "Ozamiz",
+      "name:ja": "オザミス",
+      "boundary": "administrative",
+      "old_name": "Misamis",
+      "way_area": "0.0173163",
+      "wikidata": "Q263837",
+      "wikipedia": "en:Ozamiz",
+      "population": "141828",
+      "start_date": "1948-07-16",
+      "admin_level": "6",
+      "postal_code": "7200",
+      "official_name": "City of Ozamiz",
+      "is_in:province": "Misamis Occidental",
+      "population:date": "2015-08-01"
+    }
+  },
+  {
+    "osm_id": -12969494,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1513208,-3873457,-11144440",
+    "name": "Tangub",
+    "local_name": "Tangub",
+    "name_en": null,
+    "all_tags": {
+      "ref": "104215000",
+      "name": "Tangub",
+      "boundary": "administrative",
+      "old_name": "Regidor",
+      "way_area": "0.0162709",
+      "wikidata": "Q1026277",
+      "wikipedia": "en:Tangub",
+      "population": "63011",
+      "start_date": "1929-12-04",
+      "admin_level": "6",
+      "postal_code": "7214",
+      "official_name": "City of Tangub",
+      "is_in:province": "Misamis Occidental",
+      "population:date": "2015-08-01"
+    }
+  },
+  {
+    "osm_id": -12895026,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1513227,-3777290,-11144440",
+    "name": "Payao",
+    "local_name": "Payao",
+    "name_en": null,
+    "all_tags": {
+      "ref": "098311000",
+      "name": "Payao",
+      "boundary": "administrative",
+      "way_area": "0.0722105",
+      "wikidata": "Q131941",
+      "wikipedia": "en:Payao, Zamboanga Sibugay",
+      "population": "34952",
+      "start_date": "1977-12-22",
+      "admin_level": "6",
+      "postal_code": "7008",
+      "population:date": "2020-05-01"
+    }
+  },
+  {
+    "osm_id": -12894518,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1513227,-3777290,-11144440",
+    "name": "Alicia",
+    "local_name": "Alicia",
+    "name_en": null,
+    "all_tags": {
+      "ref": "098301000",
+      "name": "Alicia",
+      "boundary": "administrative",
+      "way_area": "0.0301175",
+      "wikidata": "Q131797",
+      "wikipedia": "en:Alicia, Zamboanga Sibugay",
+      "population": "39456",
+      "start_date": "1951-08-22",
+      "admin_level": "6",
+      "postal_code": "7040",
+      "population:date": "2020-05-01"
+    }
+  },
+  {
+    "osm_id": -12853393,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1513050,-3936842,-11144440",
+    "name": "Sulop",
+    "local_name": "Sulop",
+    "name_en": null,
+    "all_tags": {
+      "ref": "112414000",
+      "name": "Sulop",
+      "boundary": "administrative",
+      "way_area": "0.0103675",
+      "wikidata": "Q315014",
+      "wikipedia": "en:Sulop",
+      "population": "33613",
+      "start_date": "1958-04-24",
+      "admin_level": "6",
+      "postal_code": "8009",
+      "is_in:province": "Davao del Sur",
+      "population:date": "2015-08-01"
+    }
+  },
+  {
+    "osm_id": -12852978,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1513050,-3936842,-11144440",
+    "name": "Malalag",
+    "local_name": "Malalag",
+    "name_en": null,
+    "all_tags": {
+      "ref": "112408000",
+      "name": "Malalag",
+      "boundary": "administrative",
+      "way_area": "0.0116149",
+      "wikidata": "Q314885",
+      "wikipedia": "en:Malalag",
+      "population": "38731",
+      "start_date": "1953-05-28",
+      "admin_level": "6",
+      "postal_code": "8010",
+      "is_in:province": "Davao del Sur",
+      "population:date": "2015-08-01"
+    }
+  },
+  {
+    "osm_id": -12811792,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1507007,-3870502,-11144440",
+    "name": "Loreto",
+    "local_name": "Loreto",
+    "name_en": null,
+    "all_tags": {
+      "ref": "168505000",
+      "name": "Loreto",
+      "boundary": "administrative",
+      "way_area": "0.121471",
+      "wikidata": "Q314356",
+      "wikipedia": "en:Loreto, Dinagat Islands",
+      "population": "9690",
+      "admin_level": "6",
+      "population:date": "2020-05-01"
+    }
+  },
+  {
+    "osm_id": -12661795,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1513233,-3777290,-11144440",
+    "name": "Sominot",
+    "local_name": "Sominot",
+    "name_en": null,
+    "all_tags": {
+      "ref": "097340000",
+      "name": "Sominot",
+      "alt_name": "Don Mariano Marcos",
+      "boundary": "administrative",
+      "old_name": "Don Mariano Marcos",
+      "way_area": "0.00914852",
+      "wikidata": "Q132353",
+      "wikipedia": "en:Sominot",
+      "population": "19061",
+      "start_date": "1980-03-27",
+      "admin_level": "6",
+      "postal_code": "7022",
+      "population:date": "2020-05-01"
+    }
+  },
+  {
+    "osm_id": -12661692,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1513233,-3777290,-11144440",
+    "name": "Midsalip",
+    "local_name": "Midsalip",
+    "name_en": null,
+    "all_tags": {
+      "ref": "097318000",
+      "name": "Midsalip",
+      "boundary": "administrative",
+      "way_area": "0.0228192",
+      "wikidata": "Q132262",
+      "wikipedia": "en:Midsalip",
+      "population": "33711",
+      "start_date": "1964-09-09",
+      "admin_level": "6",
+      "postal_code": "7021",
+      "population:date": "2020-05-01"
+    }
+  },
+  {
+    "osm_id": -12646960,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1513151,-3851570,-11144440",
+    "name": "Magpet",
+    "local_name": "Magpet",
+    "name_en": null,
+    "all_tags": {
+      "ref": "124706000",
+      "name": "Magpet",
+      "boundary": "administrative",
+      "way_area": "0.0340288",
+      "wikidata": "Q267975",
+      "wikipedia": "en:Magpet, Cotabato",
+      "population": "49201",
+      "start_date": "1963-06-22",
+      "admin_level": "6",
+      "postal_code": "9404",
+      "is_in:province": "North Cotabato",
+      "population:date": "2015-08-01"
+    }
+  },
+  {
+    "osm_id": -12646089,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1513151,-3851570,-11144440",
+    "name": "Antipas",
+    "local_name": "Antipas",
+    "name_en": null,
+    "all_tags": {
+      "ref": "124715000",
+      "name": "Antipas",
+      "boundary": "administrative",
+      "way_area": "0.00916528",
+      "wikidata": "Q315081",
+      "wikipedia": "en:Antipas, Cotabato",
+      "population": "25304",
+      "start_date": "1981-03-07",
+      "admin_level": "6",
+      "postal_code": "9414",
+      "is_in:province": "North Cotabato",
+      "population:date": "2015-08-01"
+    }
+  },
+  {
+    "osm_id": -12618159,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1507031,-3870502,-11144440",
+    "name": "Alegria",
+    "local_name": "Alegria",
+    "name_en": null,
+    "all_tags": {
+      "ref": "166701000",
+      "name": "Alegria",
+      "boundary": "administrative",
+      "way_area": "0.00795356",
+      "wikidata": "Q155706",
+      "wikipedia": "en:Alegria, Surigao Del Norte",
+      "population": "16011",
+      "admin_level": "6",
+      "postal_code": "8425",
+      "is_in:province": "Surigao del Norte",
+      "population:date": "2015-08-01"
+    }
+  },
+  {
+    "osm_id": -12613005,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1513151,-3851570,-11144440",
+    "name": "President Roxas",
+    "local_name": "President Roxas",
+    "name_en": null,
+    "all_tags": {
+      "ref": "124713000",
+      "name": "President Roxas",
+      "boundary": "administrative",
+      "way_area": "0.0291639",
+      "wikidata": "Q315334",
+      "wikipedia": "en:President Roxas, Cotabato",
+      "population": "47575",
+      "start_date": "1967-05-08",
+      "admin_level": "6",
+      "postal_code": "9405",
+      "is_in:province": "North Cotabato",
+      "population:date": "2015-08-01"
+    }
+  },
+  {
+    "osm_id": -12608237,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1507282,-3870502,-11144440",
+    "name": "Kitcharao",
+    "local_name": "Kitcharao",
+    "name_en": null,
+    "all_tags": {
+      "ref": "160206000",
+      "name": "Kitcharao",
+      "boundary": "administrative",
+      "way_area": "0.0157726",
+      "wikidata": "Q627495",
+      "wikipedia": "en:Kitcharao",
+      "population": "18659",
+      "admin_level": "6",
+      "postal_code": "8609",
+      "is_in:province": "Agusan del Norte",
+      "population:date": "2015-08-01"
+    }
+  },
+  {
+    "osm_id": -12561821,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-48393,-3873457,-11144440",
+    "name": "San Fernando",
+    "local_name": "San Fernando",
+    "name_en": null,
+    "all_tags": {
+      "name": "San Fernando",
+      "boundary": "administrative",
+      "way_area": "0.056317",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12268571,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1513151,-3851570,-11144440",
+    "name": "Arakan",
+    "local_name": "Arakan",
+    "name_en": null,
+    "all_tags": {
+      "name": "Arakan",
+      "boundary": "administrative",
+      "way_area": "0.0364343",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -11768990,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-52297,-3870502,-11144440",
+    "name": "Veruela",
+    "local_name": "Veruela",
+    "name_en": null,
+    "all_tags": {
+      "name": "Veruela",
+      "boundary": "administrative",
+      "way_area": "0.0255962",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -11768008,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1507313,-3936842,-11144440",
+    "name": "Braulio E. Dujali",
+    "local_name": "Braulio E. Dujali",
+    "name_en": null,
+    "all_tags": {
+      "name": "Braulio E. Dujali",
+      "boundary": "administrative",
+      "way_area": "0.00762042",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -11768007,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1507313,-3936842,-11144440",
+    "name": "Panabo",
+    "local_name": "Panabo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Panabo",
+      "boundary": "administrative",
+      "way_area": "0.0249555",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -11768006,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1507313,-3936842,-11144440",
+    "name": "Carmen",
+    "local_name": "Carmen",
+    "name_en": null,
+    "all_tags": {
+      "name": "Carmen",
+      "boundary": "administrative",
+      "way_area": "0.0121961",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -10903143,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1513131,-3851570,-11144440",
+    "name": "Koronadal",
+    "local_name": "Koronadal",
+    "name_en": null,
+    "all_tags": {
+      "ref": "126306000",
+      "name": "Koronadal",
+      "is_in": "South Cotabato",
+      "boundary": "administrative",
+      "way_area": "0.0242159",
+      "admin_level": "6",
+      "official_name": "City of Koronadal"
+    }
+  },
+  {
+    "osm_id": -5197621,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1507067,-3870502,-11144440",
+    "name": "Lingig",
+    "local_name": "Lingig",
+    "name_en": null,
+    "all_tags": {
+      "name": "Lingig",
+      "name:uk": "Лінґіґ",
+      "boundary": "administrative",
+      "way_area": "0.0948739",
+      "wikidata": "Q155598",
+      "wikipedia": "tl:Lingig, Surigao del Sur",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -4664581,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1507031,-3870502,-11144440",
+    "name": "Socorro",
+    "local_name": "Socorro",
+    "name_en": null,
+    "all_tags": {
+      "name": "Socorro",
+      "boundary": "administrative",
+      "way_area": "0.0101204",
+      "admin_level": "6",
+      "is_in:state": "Surigao del Norte",
+      "postal_code": "8416"
+    }
+  },
+  {
+    "osm_id": -4664553,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1507031,-3870502,-11144440",
+    "name": "Santa Monica",
+    "local_name": "Santa Monica",
+    "name_en": null,
+    "all_tags": {
+      "name": "Santa Monica",
+      "boundary": "administrative",
+      "way_area": "0.00151422",
+      "admin_level": "6",
+      "postal_code": "8422",
+      "is_in:province": "Surigao Del Norte"
+    }
+  },
+  {
+    "osm_id": -4664542,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1507031,-3870502,-11144440",
+    "name": "San Benito",
+    "local_name": "San Benito",
+    "name_en": null,
+    "all_tags": {
+      "name": "San Benito",
+      "boundary": "administrative",
+      "way_area": "0.00382985",
+      "admin_level": "6",
+      "postal_code": "8423",
+      "is_in:province": "Surigao Del Norte"
+    }
+  },
+  {
+    "osm_id": -4664539,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1507031,-3870502,-11144440",
+    "name": "Burgos",
+    "local_name": "Burgos",
+    "name_en": null,
+    "all_tags": {
+      "name": "Burgos",
+      "boundary": "administrative",
+      "way_area": "0.00100155",
+      "admin_level": "6",
+      "postal_code": "8424",
+      "is_in:province": "Surigao Del Norte"
+    }
+  },
+  {
+    "osm_id": -4664529,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1507031,-3870502,-11144440",
+    "name": "San Isidro",
+    "local_name": "San Isidro",
+    "name_en": null,
+    "all_tags": {
+      "name": "San Isidro",
+      "boundary": "administrative",
+      "way_area": "0.00488795",
+      "admin_level": "6",
+      "postal_code": "8421",
+      "is_in:province": "Surigao Del Norte"
+    }
+  },
+  {
+    "osm_id": -4664507,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1507031,-3870502,-11144440",
+    "name": "Del Carmen",
+    "local_name": "Del Carmen",
+    "name_en": null,
+    "all_tags": {
+      "name": "Del Carmen",
+      "boundary": "administrative",
+      "way_area": "0.00608989",
+      "admin_level": "6",
+      "postal_code": "8418",
+      "is_in:province": "Surigao Del Norte"
+    }
+  },
+  {
+    "osm_id": -4664481,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1507031,-3870502,-11144440",
+    "name": "Pilar",
+    "local_name": "Pilar",
+    "name_en": null,
+    "all_tags": {
+      "name": "Pilar",
+      "boundary": "administrative",
+      "way_area": "0.00449597",
+      "admin_level": "6",
+      "postal_code": "8420",
+      "is_in:province": "Surigao Del Norte"
+    }
+  },
+  {
+    "osm_id": -4664474,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1507031,-3870502,-11144440",
+    "name": "General Luna",
+    "local_name": "General Luna",
+    "name_en": null,
+    "all_tags": {
+      "name": "General Luna",
+      "boundary": "administrative",
+      "way_area": "0.00288167",
+      "admin_level": "6",
+      "postal_code": "8419",
+      "is_in:province": "Surigao Del Norte"
+    }
+  },
+  {
+    "osm_id": -4664450,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1507031,-3870502,-11144440",
+    "name": "Dapa",
+    "local_name": "Dapa",
+    "name_en": null,
+    "all_tags": {
+      "name": "Dapa",
+      "boundary": "administrative",
+      "way_area": "0.00961278",
+      "admin_level": "6",
+      "postal_code": "8417",
+      "is_in:province": "Surigao Del Norte"
+    }
+  },
+  {
+    "osm_id": -4657023,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1507067,-3870502,-11144440",
+    "name": "Hinatuan",
+    "local_name": "Hinatuan",
+    "name_en": null,
+    "all_tags": {
+      "name": "Hinatuan",
+      "boundary": "administrative",
+      "way_area": "0.0772664",
+      "wikidata": "Q155576",
+      "wikipedia": "en:Hinatuan, Surigao del Sur",
+      "population": "39842",
+      "admin_level": "6",
+      "postal_code": "8310",
+      "is_in:province": "Surigao Del Sur"
+    }
+  },
+  {
+    "osm_id": -4656531,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1507067,-3870502,-11144440",
+    "name": "Bislig",
+    "local_name": "Bislig",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bislig",
+      "boundary": "administrative",
+      "way_area": "0.0300782",
+      "population": "94535",
+      "admin_level": "6",
+      "postal_code": "8311",
+      "addr:province": "Surigao Del Sur"
+    }
+  },
+  {
+    "osm_id": -3936841,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3936842,-11144440",
+    "name": "Davao City",
+    "local_name": "Davao City",
+    "name_en": null,
+    "all_tags": {
+      "ref": "112402000",
+      "name": "Davao City",
+      "name:af": "Davao Stad",
+      "name:ar": "مدينة دافاو",
+      "name:bg": "Давао",
+      "name:ce": "Давао",
+      "name:eo": "Dabao Urbo",
+      "name:es": "Ciudad de Dávao",
+      "name:fa": "داوائو سیتی",
+      "name:he": "דבאו סיטי",
+      "name:hi": "डेवाओ शहर",
+      "name:hy": "Դավաո",
+      "name:id": "Kota Davao",
+      "name:is": "Davaó",
+      "name:ja": "ダバオ",
+      "name:ka": "დავაო",
+      "name:kn": "ದಾಬವ್",
+      "name:ko": "다바오시",
+      "name:ky": "Давао",
+      "name:la": "Urbs Davaensis",
+      "name:mn": "Давао",
+      "name:ms": "Bandar Davao",
+      "name:my": "ဒါဗောင်းမြို့",
+      "name:ru": "Давао",
+      "name:sr": "Давао",
+      "name:ta": "டவாவோ நகரம்",
+      "name:th": "ดาเบา",
+      "name:tl": "Lungsod ng Davao",
+      "name:tt": "Давао-Сити",
+      "name:uk": "Давао",
+      "name:ur": "داوائو شہر",
+      "name:zh": "达沃市/纳卯市/達沃市",
+      "boundary": "administrative",
+      "name:ast": "Ciudá de Dávao",
+      "name:bcl": "Syudad nin Davao",
+      "name:ceb": "Dakbayan sa Davao",
+      "name:hil": "Syudad sang Davao",
+      "name:ilo": "Siudad ti Davao",
+      "name:nan": "Davao Chhī",
+      "name:pag": "Siyudad na Davao",
+      "name:pam": "Davao Lakanbalen",
+      "name:sah": "Давао",
+      "name:war": "Syudad han Davao",
+      "name:yue": "達沃",
+      "old_name": "Nueva Vergara",
+      "way_area": "0.204345",
+      "wikidata": "Q1473",
+      "wikipedia": "en:Davao City",
+      "name:zh-hk": "達沃市",
+      "population": "1632991",
+      "start_date": "1848-06-29",
+      "admin_level": "6",
+      "name:zh-Hans": "达沃市",
+      "name:zh-Hant": "纳卯市/達沃市",
+      "contact:email": "cio@davaocity.gov.ph",
+      "contact:phone": "+63 82 241 1000",
+      "official_name": "City of Davao",
+      "short_name:ar": "دافاو",
+      "short_name:fa": "داوائو",
+      "short_name:ur": "داوائو",
+      "is_in:province": "Davao del Sur",
+      "contact:twitter": "https://twitter.com/davaocity/",
+      "contact:website": "https://www.davaocity.gov.ph/",
+      "population:date": "2015-08-01",
+      "contact:facebook": "https://www.facebook.com/davaocitygov/",
+      "official_name:hil": "Dakbanwa sang Davao"
+    }
+  },
+  {
+    "osm_id": -3870471,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-52297,-3870502,-11144440",
+    "name": "Trento",
+    "local_name": "Trento",
+    "name_en": null,
+    "all_tags": {
+      "name": "Trento",
+      "boundary": "administrative",
+      "way_area": "0.0510505",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -3870470,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-52297,-3870502,-11144440",
+    "name": "Talacogon",
+    "local_name": "Talacogon",
+    "name_en": null,
+    "all_tags": {
+      "ref": "160311000",
+      "name": "Talacogon",
+      "boundary": "administrative",
+      "way_area": "0.0321502",
+      "wikidata": "Q627286",
+      "wikipedia": "en:Talacogon",
+      "population": "39678",
+      "start_date": "1872-11-13",
+      "admin_level": "6",
+      "postal_code": "8510",
+      "official_name": "Municipality of Talacogon",
+      "is_in:province": "Agusan del Sur",
+      "population:date": "2020-05-01"
+    }
+  },
+  {
+    "osm_id": -3870469,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-52297,-3870502,-11144440",
+    "name": "Sibagat",
+    "local_name": "Sibagat",
+    "name_en": null,
+    "all_tags": {
+      "name": "Sibagat",
+      "boundary": "administrative",
+      "way_area": "0.0368473",
+      "wikidata": "Q627260",
+      "wikipedia": "en:Sibagat, Agusan del Sur",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -3870468,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-52297,-3870502,-11144440",
+    "name": "Santa Josefa",
+    "local_name": "Santa Josefa",
+    "name_en": null,
+    "all_tags": {
+      "name": "Santa Josefa",
+      "boundary": "administrative",
+      "way_area": "0.0113341",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -3870467,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-52297,-3870502,-11144440",
+    "name": "San Luis",
+    "local_name": "San Luis",
+    "name_en": null,
+    "all_tags": {
+      "ref": "160309000",
+      "name": "San Luis",
+      "boundary": "administrative",
+      "way_area": "0.0895416",
+      "wikidata": "Q627210",
+      "wikipedia": "en:San Luis, Agusan del Sur",
+      "population": "35196",
+      "start_date": "1968-06-15",
+      "admin_level": "6",
+      "postal_code": "8511",
+      "official_name": "Municipality of San Luis",
+      "is_in:province": "Agusan del Sur",
+      "population:date": "2020-05-01"
+    }
+  },
+  {
+    "osm_id": -3870466,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-52297,-3870502,-11144440",
+    "name": "San Francisco",
+    "local_name": "San Francisco",
+    "name_en": null,
+    "all_tags": {
+      "name": "San Francisco",
+      "boundary": "administrative",
+      "way_area": "0.0266355",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -3870465,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-52297,-3870502,-11144440",
+    "name": "Rosario",
+    "local_name": "Rosario",
+    "name_en": null,
+    "all_tags": {
+      "name": "Rosario",
+      "boundary": "administrative",
+      "way_area": "0.0303262",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -3870464,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-52297,-3870502,-11144440",
+    "name": "Prosperidad",
+    "local_name": "Prosperidad",
+    "name_en": null,
+    "all_tags": {
+      "name": "Prosperidad",
+      "boundary": "administrative",
+      "way_area": "0.0498245",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -3870463,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-52297,-3870502,-11144440",
+    "name": "La Paz",
+    "local_name": "La Paz",
+    "name_en": null,
+    "all_tags": {
+      "ref": "160304000",
+      "name": "La Paz",
+      "boundary": "administrative",
+      "way_area": "0.0709693",
+      "wikidata": "Q627107",
+      "wikipedia": "en:La Paz, Agusan del Sur",
+      "population": "30969",
+      "admin_level": "6",
+      "postal_code": "8508",
+      "official_name": "Municipality of La Paz",
+      "is_in:province": "Agusan del Sur",
+      "population:date": "2020-05-01"
+    }
+  },
+  {
+    "osm_id": -3870462,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-52297,-3870502,-11144440",
+    "name": "Esperanza",
+    "local_name": "Esperanza",
+    "name_en": null,
+    "all_tags": {
+      "name": "Esperanza",
+      "boundary": "administrative",
+      "way_area": "0.102003",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -3870461,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-52297,-3870502,-11144440",
+    "name": "Bunawan",
+    "local_name": "Bunawan",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bunawan",
+      "boundary": "administrative",
+      "way_area": "0.0344518",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -3870460,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-52297,-3870502,-11144440",
+    "name": "Bayugan",
+    "local_name": "Bayugan",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bayugan",
+      "boundary": "administrative",
+      "way_area": "0.0385872",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -3821368,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3821409,-11144440",
+    "name": "Cotabato City",
+    "local_name": "Cotabato City",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cotabato City",
+      "boundary": "administrative",
+      "way_area": "0.015845",
+      "wikidata": "Q726993",
+      "wikipedia": "en:Cotabato City",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -3818838,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3873457,-11144440",
+    "name": "Iligan",
+    "local_name": "Iligan",
+    "name_en": null,
+    "all_tags": {
+      "name": "Iligan",
+      "boundary": "administrative",
+      "way_area": "0.0762608",
+      "wikidata": "Q285488",
+      "wikipedia": "en:Iligan",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -3816071,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1513281,-11144440",
+    "name": "Ungkaya Pukan",
+    "local_name": "Ungkaya Pukan",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ungkaya Pukan",
+      "boundary": "administrative",
+      "way_area": "0.0120695",
+      "population": "18441",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -3816070,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1513281,-11144440",
+    "name": "Tuburan",
+    "local_name": "Tuburan",
+    "name_en": null,
+    "all_tags": {
+      "name": "Tuburan",
+      "boundary": "administrative",
+      "way_area": "0.00783084",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -3816069,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1513281,-11144440",
+    "name": "Tipo-Tipo",
+    "local_name": "Tipo-Tipo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Tipo-Tipo",
+      "boundary": "administrative",
+      "way_area": "0.00599734",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -3816068,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1513281,-11144440",
+    "name": "Tabuan-Lasa",
+    "local_name": "Tabuan-Lasa",
+    "name_en": null,
+    "all_tags": {
+      "name": "Tabuan-Lasa",
+      "boundary": "administrative",
+      "way_area": "0.0563301",
+      "population": "24188",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -3816067,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1513281,-11144440",
+    "name": "Sumisip",
+    "local_name": "Sumisip",
+    "name_en": null,
+    "all_tags": {
+      "name": "Sumisip",
+      "boundary": "administrative",
+      "way_area": "0.027938",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -3816066,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1513281,-11144440",
+    "name": "Maluso",
+    "local_name": "Maluso",
+    "name_en": null,
+    "all_tags": {
+      "name": "Maluso",
+      "boundary": "administrative",
+      "way_area": "0.0492566",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -3816065,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1513281,-11144440",
+    "name": "Lantawan",
+    "local_name": "Lantawan",
+    "name_en": null,
+    "all_tags": {
+      "name": "Lantawan",
+      "boundary": "administrative",
+      "way_area": "0.0382926",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -3816064,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1513281,-11144440",
+    "name": "Lamitan",
+    "local_name": "Lamitan",
+    "name_en": null,
+    "all_tags": {
+      "name": "Lamitan",
+      "boundary": "administrative",
+      "way_area": "0.0335139",
+      "wikidata": "Q1714",
+      "wikipedia": "en:Lamitan",
+      "admin_level": "6",
+      "postal_code": "7302"
+    }
+  },
+  {
+    "osm_id": -3816063,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1513281,-11144440",
+    "name": "Isabela",
+    "local_name": "Isabela",
+    "name_en": "Isabela",
+    "all_tags": {
+      "name": "Isabela",
+      "place": "city",
+      "name:en": "Isabela",
+      "name:et": "Isabela",
+      "name:ja": "イサベラ",
+      "name:ru": "Исабела",
+      "name:uk": "Ісабела",
+      "boundary": "administrative",
+      "way_area": "0.0441051",
+      "wikidata": "Q1710",
+      "wikipedia": "en:Isabela, Basilan",
+      "population": "130379",
+      "admin_level": "6",
+      "postal_code": "7300",
+      "population:date": "2020-05-01"
+    }
+  },
+  {
+    "osm_id": -3816062,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1513281,-11144440",
+    "name": "Hadji Muhtamad",
+    "local_name": "Hadji Muhtamad",
+    "name_en": null,
+    "all_tags": {
+      "name": "Hadji Muhtamad",
+      "boundary": "administrative",
+      "way_area": "0.180481",
+      "population": "25085",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -3816061,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1513281,-11144440",
+    "name": "Hadji Mohammad Ajul",
+    "local_name": "Hadji Mohammad Ajul",
+    "name_en": null,
+    "all_tags": {
+      "name": "Hadji Mohammad Ajul",
+      "boundary": "administrative",
+      "way_area": "0.0803712",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -3816060,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1513281,-11144440",
+    "name": "Al-Barka",
+    "local_name": "Al-Barka",
+    "name_en": null,
+    "all_tags": {
+      "name": "Al-Barka",
+      "boundary": "administrative",
+      "way_area": "0.0343161",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -3816059,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1513281,-11144440",
+    "name": "Akbar",
+    "local_name": "Akbar",
+    "name_en": null,
+    "all_tags": {
+      "name": "Akbar",
+      "boundary": "administrative",
+      "way_area": "0.0170747",
+      "population": "17531",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -3813855,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1513292,-3821409,-11144440",
+    "name": "Tapul",
+    "local_name": "Tapul",
+    "name_en": null,
+    "all_tags": {
+      "name": "Tapul",
+      "boundary": "administrative",
+      "way_area": "0.0524988",
+      "population": "18197",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -3813854,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1513292,-3821409,-11144440",
+    "name": "Siasi",
+    "local_name": "Siasi",
+    "name_en": null,
+    "all_tags": {
+      "name": "Siasi",
+      "boundary": "administrative",
+      "way_area": "0.0582824",
+      "population": "67705",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -3813853,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1513292,-3821409,-11144440",
+    "name": "Pata",
+    "local_name": "Pata",
+    "name_en": null,
+    "all_tags": {
+      "name": "Pata",
+      "name:uk": "Пата",
+      "boundary": "administrative",
+      "way_area": "0.0472437",
+      "population": "22163",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -3813852,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1513292,-3821409,-11144440",
+    "name": "Pangutaran",
+    "local_name": "Pangutaran",
+    "name_en": null,
+    "all_tags": {
+      "name": "Pangutaran",
+      "boundary": "administrative",
+      "way_area": "0.56887",
+      "population": "30613",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -3813851,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1513292,-3821409,-11144440",
+    "name": "Pandami",
+    "local_name": "Pandami",
+    "name_en": null,
+    "all_tags": {
+      "name": "Pandami",
+      "boundary": "administrative",
+      "way_area": "0.049761",
+      "population": "25885",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -3813850,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1513292,-3821409,-11144440",
+    "name": "Lugus",
+    "local_name": "Lugus",
+    "name_en": null,
+    "all_tags": {
+      "name": "Lugus",
+      "boundary": "administrative",
+      "way_area": "0.0258021",
+      "population": "21897",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -3813849,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1513292,-3821409,-11144440",
+    "name": "Hadji Panglima Tahil",
+    "local_name": "Hadji Panglima Tahil",
+    "name_en": null,
+    "all_tags": {
+      "name": "Hadji Panglima Tahil",
+      "boundary": "administrative",
+      "old_name": "Marunggas",
+      "way_area": "0.106613",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -3813848,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1513292,-3821409,-11144440",
+    "name": "Banguingui",
+    "local_name": "Banguingui",
+    "name_en": null,
+    "all_tags": {
+      "name": "Banguingui",
+      "boundary": "administrative",
+      "old_name": "Tongkil",
+      "way_area": "0.227696",
+      "population": "24161",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -3811052,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1513298,-3821409,-11144440",
+    "name": "Turtle Islands",
+    "local_name": "Turtle Islands",
+    "name_en": null,
+    "all_tags": {
+      "ref": "157008000",
+      "name": "Turtle Islands",
+      "boundary": "administrative",
+      "way_area": "0.150712",
+      "wikidata": "Q155396",
+      "wikipedia": "en:Turtle Islands, Tawi-Tawi",
+      "population": "5683",
+      "admin_level": "6",
+      "postal_code": "7507",
+      "population:date": "2020-05-01"
+    }
+  },
+  {
+    "osm_id": -3811051,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1513298,-3821409,-11144440",
+    "name": "Tandubas",
+    "local_name": "Tandubas",
+    "name_en": null,
+    "all_tags": {
+      "ref": "157007000",
+      "name": "Tandubas",
+      "boundary": "administrative",
+      "way_area": "0.0424377",
+      "wikidata": "Q155377",
+      "wikipedia": "en:Tandubas",
+      "population": "29390",
+      "admin_level": "6",
+      "postal_code": "7502",
+      "population:date": "2015-08-01"
+    }
+  },
+  {
+    "osm_id": -3811050,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1513298,-3821409,-11144440",
+    "name": "South Ubian",
+    "local_name": "South Ubian",
+    "name_en": null,
+    "all_tags": {
+      "ref": "157006000",
+      "name": "South Ubian",
+      "boundary": "administrative",
+      "way_area": "0.192607",
+      "wikidata": "Q155355",
+      "wikipedia": "en:South Ubian",
+      "population": "25935",
+      "admin_level": "6",
+      "postal_code": "7504",
+      "population:date": "2015-08-01"
+    }
+  },
+  {
+    "osm_id": -3811049,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1513298,-3821409,-11144440",
+    "name": "Sitangkai",
+    "local_name": "Sitangkai",
+    "name_en": null,
+    "all_tags": {
+      "ref": "157005000",
+      "name": "Sitangkai",
+      "boundary": "administrative",
+      "way_area": "0.165448",
+      "wikidata": "Q155334",
+      "wikipedia": "en:Sitangkai",
+      "population": "33334",
+      "admin_level": "6",
+      "postal_code": "7506",
+      "population:date": "2015-08-01"
+    }
+  },
+  {
+    "osm_id": -3811048,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1513298,-3821409,-11144440",
+    "name": "Simunul",
+    "local_name": "Simunul",
+    "name_en": null,
+    "all_tags": {
+      "ref": "157004000",
+      "name": "Simunul",
+      "name:uk": "Сімунуль",
+      "boundary": "administrative",
+      "way_area": "0.0649479",
+      "wikidata": "Q155318",
+      "wikipedia": "en:Simunul",
+      "population": "31223",
+      "admin_level": "6",
+      "postal_code": "7505",
+      "population:date": "2015-08-01"
+    }
+  },
+  {
+    "osm_id": -3811047,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1513298,-3821409,-11144440",
+    "name": "Sibutu",
+    "local_name": "Sibutu",
+    "name_en": null,
+    "all_tags": {
+      "ref": "157011000",
+      "name": "Sibutu",
+      "boundary": "administrative",
+      "way_area": "0.0910562",
+      "wikidata": "Q155288",
+      "wikipedia": "en:Sibutu",
+      "population": "30387",
+      "admin_level": "6",
+      "postal_code": "7505",
+      "population:date": "2015-08-01"
+    }
+  },
+  {
+    "osm_id": -3811046,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1513298,-3821409,-11144440",
+    "name": "Sapa-Sapa",
+    "local_name": "Sapa-Sapa",
+    "name_en": null,
+    "all_tags": {
+      "ref": "157010000",
+      "name": "Sapa-Sapa",
+      "boundary": "administrative",
+      "way_area": "0.0651578",
+      "wikidata": "Q155274",
+      "wikipedia": "en:Sapa-Sapa",
+      "population": "30917",
+      "admin_level": "6",
+      "postal_code": "7503",
+      "population:date": "2015-08-01"
+    }
+  },
+  {
+    "osm_id": -3811045,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1513298,-3821409,-11144440",
+    "name": "Panglima Sugala",
+    "local_name": "Panglima Sugala",
+    "name_en": null,
+    "all_tags": {
+      "ref": "157001000",
+      "name": "Panglima Sugala",
+      "name:ja": "パングリマ・スガラ",
+      "alt_name": "Balimbing",
+      "boundary": "administrative",
+      "way_area": "0.0791531",
+      "wikidata": "Q155259",
+      "wikipedia": "en:Panglima Sugala",
+      "population": "44184",
+      "admin_level": "6",
+      "postal_code": "7501",
+      "population:date": "2015-08-01"
+    }
+  },
+  {
+    "osm_id": -3811044,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1513298,-3821409,-11144440",
+    "name": "Languyan",
+    "local_name": "Languyan",
+    "name_en": null,
+    "all_tags": {
+      "ref": "157009000",
+      "name": "Languyan",
+      "boundary": "administrative",
+      "way_area": "0.115695",
+      "wikidata": "Q155221",
+      "wikipedia": "en:Languyan",
+      "population": "33494",
+      "admin_level": "6",
+      "postal_code": "7509",
+      "population:date": "2015-08-01"
+    }
+  },
+  {
+    "osm_id": -3811043,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1513298,-3821409,-11144440",
+    "name": "Bongao",
+    "local_name": "Bongao",
+    "name_en": null,
+    "all_tags": {
+      "ref": "157002000",
+      "name": "Bongao",
+      "boundary": "administrative",
+      "way_area": "0.0612508",
+      "wikidata": "Q155195",
+      "wikipedia": "en:Bongao",
+      "population": "100527",
+      "admin_level": "6",
+      "postal_code": "7500",
+      "population:date": "2015-08-01"
+    }
+  },
+  {
+    "osm_id": -3617877,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3777290,-11144440",
+    "name": "Zamboanga City",
+    "local_name": "Zamboanga City",
+    "name_en": "Zamboanga City",
+    "all_tags": {
+      "ref": "097332000",
+      "name": "Zamboanga City",
+      "name:en": "Zamboanga City",
+      "name:es": "Ciudad de Zamboanga",
+      "name:ja": "サンボアンガ",
+      "name:ko": "잠보앙가",
+      "name:ru": "Замбоанга",
+      "name:uk": "Замбоанга",
+      "name:zh": "三宝颜",
+      "boundary": "administrative",
+      "name:cbk": "Ciudad de Zamboanga",
+      "way_area": "0.336491",
+      "wikidata": "Q1629",
+      "wikipedia": "en:Zamboanga City",
+      "population": "977234",
+      "start_date": "1635-06-23",
+      "admin_level": "6",
+      "postal_code": "7000",
+      "population:date": "2020-05-01"
+    }
+  },
+  {
+    "osm_id": -3304170,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3304098,-3936842,-11144440",
+    "name": "Sarangani",
+    "local_name": "Sarangani",
+    "name_en": null,
+    "all_tags": {
+      "ref": "118605000",
+      "name": "Sarangani",
+      "boundary": "administrative",
+      "way_area": "0.11351",
+      "wikidata": "Q314999",
+      "wikipedia": "en:Sarangani, Davao Occidental",
+      "population": "22515",
+      "admin_level": "6",
+      "postal_code": "8015",
+      "population:date": "2020-05-01"
+    }
+  },
+  {
+    "osm_id": -3304169,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3304098,-3936842,-11144440",
+    "name": "Jose Abad Santos",
+    "local_name": "Jose Abad Santos",
+    "name_en": null,
+    "all_tags": {
+      "ref": "118602000",
+      "name": "Jose Abad Santos",
+      "boundary": "administrative",
+      "old_name": "Trinidad",
+      "way_area": "0.131019",
+      "wikidata": "Q314824",
+      "wikipedia": "en:Jose Abad Santos, Davao Occidental",
+      "population": "76332",
+      "start_date": "1948-08-01",
+      "admin_level": "6",
+      "postal_code": "8014",
+      "is_in:province": "Davao Occidental",
+      "population:date": "2015-08-01"
+    }
+  },
+  {
+    "osm_id": -3304168,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3304098,-3936842,-11144440",
+    "name": "Malita",
+    "local_name": "Malita",
+    "name_en": null,
+    "all_tags": {
+      "ref": "118603000",
+      "name": "Malita",
+      "boundary": "administrative",
+      "way_area": "0.0873869",
+      "wikidata": "Q314907",
+      "wikipedia": "en:Malita, Davao Occidental",
+      "population": "117746",
+      "admin_level": "6",
+      "postal_code": "8012",
+      "is_in:province": "Davao Occidental",
+      "population:date": "2015-08-01"
+    }
+  },
+  {
+    "osm_id": -3304167,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3304098,-3936842,-11144440",
+    "name": "Don Marcelino",
+    "local_name": "Don Marcelino",
+    "name_en": null,
+    "all_tags": {
+      "ref": "118601000",
+      "name": "Don Marcelino",
+      "boundary": "administrative",
+      "way_area": "0.0753163",
+      "wikidata": "Q314796",
+      "wikipedia": "en:Don Marcelino",
+      "population": "44554",
+      "admin_level": "6",
+      "postal_code": "8013",
+      "is_in:province": "Davao Occidental",
+      "population:date": "2015-08-01"
+    }
+  },
+  {
+    "osm_id": -3304121,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3304098,-3936842,-11144440",
+    "name": "Santa Maria",
+    "local_name": "Santa Maria",
+    "name_en": null,
+    "all_tags": {
+      "ref": "118604000",
+      "name": "Santa Maria",
+      "boundary": "administrative",
+      "way_area": "0.0531283",
+      "wikidata": "Q314980",
+      "wikipedia": "en:Santa Maria, Davao Occidental",
+      "population": "53671",
+      "admin_level": "6",
+      "postal_code": "8011",
+      "is_in:province": "Davao Occidental",
+      "population:date": "2015-08-01"
+    }
+  },
+  {
+    "osm_id": -3304098,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3936842,-11144440",
+    "name": "Davao Occidental",
+    "local_name": "Davao Occidental",
+    "name_en": null,
+    "all_tags": {
+      "ref": "118600000",
+      "name": "Davao Occidental",
+      "int_ref": "PH-DVO",
+      "boundary": "administrative",
+      "way_area": "0.46036",
+      "wikidata": "Q3656379",
+      "ISO3166-2": "PH-DVO",
+      "wikipedia": "en:Davao Occidental",
+      "start_date": "2013-10-28",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -3283854,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1552824,-3873457,-11144440",
+    "name": "Sagay",
+    "local_name": "Sagay",
+    "name_en": null,
+    "all_tags": {
+      "ref": "101805000",
+      "name": "Sagay",
+      "boundary": "administrative",
+      "way_area": "0.00911513",
+      "wikidata": "Q356549",
+      "wikipedia": "en:Sagay, Camiguin",
+      "population": "12826",
+      "admin_level": "6",
+      "postal_code": "9103",
+      "population:date": "2020-05-01"
+    }
+  },
+  {
+    "osm_id": -3283853,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1552824,-3873457,-11144440",
+    "name": "Mambajao",
+    "local_name": "Mambajao",
+    "name_en": null,
+    "all_tags": {
+      "ref": "101804000",
+      "name": "Mambajao",
+      "name:ja": "マンバヤオ",
+      "boundary": "administrative",
+      "way_area": "0.0529208",
+      "wikidata": "Q356518",
+      "wikipedia": "en:Mambajao",
+      "population": "41094",
+      "admin_level": "6",
+      "postal_code": "9100",
+      "population:date": "2020-05-01"
+    }
+  },
+  {
+    "osm_id": -3283852,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1552824,-3873457,-11144440",
+    "name": "Mahinog",
+    "local_name": "Mahinog",
+    "name_en": null,
+    "all_tags": {
+      "ref": "101803000",
+      "name": "Mahinog",
+      "boundary": "administrative",
+      "way_area": "0.0253233",
+      "wikidata": "Q176033",
+      "wikipedia": "en:Mahinog",
+      "population": "14634",
+      "admin_level": "6",
+      "postal_code": "9101",
+      "population:date": "2020-05-01"
+    }
+  },
+  {
+    "osm_id": -3283851,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1552824,-3873457,-11144440",
+    "name": "Guinsiliban",
+    "local_name": "Guinsiliban",
+    "name_en": null,
+    "all_tags": {
+      "ref": "101802000",
+      "name": "Guinsiliban",
+      "boundary": "administrative",
+      "way_area": "0.0101269",
+      "wikidata": "Q356472",
+      "wikipedia": "en:Guinsiliban",
+      "population": "6685",
+      "admin_level": "6",
+      "postal_code": "9102",
+      "population:date": "2020-05-01"
+    }
+  },
+  {
+    "osm_id": -3283850,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1552824,-3873457,-11144440",
+    "name": "Catarman",
+    "local_name": "Catarman",
+    "name_en": null,
+    "all_tags": {
+      "ref": "101801000",
+      "name": "Catarman",
+      "boundary": "administrative",
+      "way_area": "0.0404385",
+      "wikidata": "Q356442",
+      "wikipedia": "en:Catarman, Camiguin",
+      "population": "17569",
+      "admin_level": "6",
+      "postal_code": "9104",
+      "population:date": "2020-05-01"
+    }
+  },
+  {
+    "osm_id": -3120576,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1507283,-3936842,-11144440",
+    "name": "New Bataan",
+    "local_name": "New Bataan",
+    "name_en": null,
+    "all_tags": {
+      "name": "New Bataan",
+      "boundary": "administrative",
+      "way_area": "0.0454401",
+      "admin_level": "6",
+      "is_in:province": "Davao de Oro"
+    }
+  },
+  {
+    "osm_id": -2627950,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1513298,-3821409,-11144440",
+    "name": "Mapun",
+    "local_name": "Mapun",
+    "name_en": null,
+    "all_tags": {
+      "ref": "157003000",
+      "name": "Mapun",
+      "alt_name": "Cagayan de Tawi-Tawi;Cagayan de Sulu",
+      "boundary": "administrative",
+      "way_area": "0.234682",
+      "wikidata": "Q155241",
+      "wikipedia": "en:Mapun",
+      "population": "30038",
+      "admin_level": "6",
+      "postal_code": "7508",
+      "population:date": "2020-05-01"
+    }
+  },
+  {
+    "osm_id": -2387482,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3873457,-11144440",
+    "name": "Cagayan de Oro",
+    "local_name": "Cagayan de Oro",
+    "name_en": "Cagayan de Oro",
+    "all_tags": {
+      "ref": "104305000",
+      "name": "Cagayan de Oro",
+      "name:en": "Cagayan de Oro",
+      "name:es": "Cagayán de Oro",
+      "name:fr": "Cagayán de Oro",
+      "name:ja": "カガヤン・デ・オロ",
+      "name:ru": "Кагаян-де-Оро",
+      "name:tl": "Cagayan de Oro",
+      "name:zh": "卡加延德奥罗",
+      "boundary": "administrative",
+      "name:ceb": "Cagayan de Oro",
+      "way_area": "0.0438401",
+      "wikidata": "Q1645",
+      "wikipedia": "en:Cagayan de Oro",
+      "population": "728402",
+      "short_name": "CDO",
+      "admin_level": "6",
+      "postal_code": "9000",
+      "population:date": "2020-05-01",
+      "official_name:en": "City of Cagayan de Oro",
+      "official_name:es": "Ciudad de Cagayán de Oro",
+      "official_name:tl": "Lungsod ng Cagayan de Oro",
+      "official_name:ceb": "Dakbayan sa Cagayan de Oro"
+    }
+  },
+  {
+    "osm_id": -2223521,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1513050,-3936842,-11144440",
+    "name": "Santa Cruz",
+    "local_name": "Santa Cruz",
+    "name_en": null,
+    "all_tags": {
+      "name": "Santa Cruz",
+      "boundary": "administrative",
+      "way_area": "0.045147",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -2192576,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-52297,-3870502,-11144440",
+    "name": "Loreto",
+    "local_name": "Loreto",
+    "name_en": null,
+    "all_tags": {
+      "name": "Loreto",
+      "boundary": "administrative",
+      "way_area": "0.0871566",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -1604621,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1507313,-3936842,-11144440",
+    "name": "Samal",
+    "local_name": "Samal",
+    "name_en": null,
+    "all_tags": {
+      "name": "Samal",
+      "boundary": "administrative",
+      "way_area": "0.108189",
+      "name:abbr": "IGaCoS",
+      "admin_level": "6",
+      "official_name": "Island Garden City of Samal"
+    }
+  },
+  {
+    "osm_id": -1552824,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3873457,-11144440",
+    "name": "Camiguin",
+    "local_name": "Camiguin",
+    "name_en": null,
+    "all_tags": {
+      "ref": "101800000",
+      "name": "Camiguin",
+      "int_ref": "PH-CAM",
+      "name:eo": "Kamigino",
+      "name:hu": "Camiguin",
+      "name:ja": "カミギン",
+      "name:ru": "Камигин",
+      "boundary": "administrative",
+      "way_area": "0.137925",
+      "wikidata": "Q13769",
+      "ISO3166-2": "PH-CAM",
+      "wikipedia": "en:Camiguin",
+      "population": "92808",
+      "admin_level": "4",
+      "population:date": "2020-05-01"
+    }
+  },
+  {
+    "osm_id": -1513759,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1513151,-3851570,-11144440",
+    "name": "Kidapawan",
+    "local_name": "Kidapawan",
+    "name_en": null,
+    "all_tags": {
+      "ref": "124704000",
+      "name": "Kidapawan",
+      "name:ja": "キダパワン",
+      "boundary": "administrative",
+      "way_area": "0.0241279",
+      "wikidata": "Q583137",
+      "wikipedia": "en:Kidapawan",
+      "population": "140195",
+      "admin_level": "6",
+      "postal_code": "9400",
+      "population:date": "2015-08-01"
+    }
+  },
+  {
+    "osm_id": -1513298,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3821409,-11144440",
+    "name": "Tawi-Tawi",
+    "local_name": "Tawi-Tawi",
+    "name_en": null,
+    "all_tags": {
+      "ref": "157000000",
+      "name": "Tawi-Tawi",
+      "int_ref": "PH-TAW",
+      "name:ja": "タウイタウイ",
+      "boundary": "administrative",
+      "way_area": "1.26315",
+      "wikidata": "Q13893",
+      "ISO3166-2": "PH-TAW",
+      "wikipedia": "en:Tawi-Tawi",
+      "population": "440276",
+      "admin_level": "4",
+      "population:date": "2020-05-01"
+    }
+  },
+  {
+    "osm_id": -1513292,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3821409,-11144440",
+    "name": "Sulu",
+    "local_name": "Sulu",
+    "name_en": null,
+    "all_tags": {
+      "ref": "156600000",
+      "name": "Sulu",
+      "int_ref": "PH-SLU",
+      "name:ja": "スールー",
+      "boundary": "administrative",
+      "way_area": "1.38012",
+      "wikidata": "Q13887",
+      "ISO3166-2": "PH-SLU",
+      "wikipedia": "en:Sulu",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -1513281,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-11144440",
+    "name": "Basilan",
+    "local_name": "Basilan",
+    "name_en": null,
+    "all_tags": {
+      "ref": "150700000",
+      "name": "Basilan",
+      "int_ref": "PH-BAS",
+      "name:ja": "バシラン",
+      "boundary": "administrative",
+      "way_area": "0.587577",
+      "wikidata": "Q13737",
+      "ISO3166-2": "PH-BAS",
+      "wikipedia": "en:Basilan",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -1513233,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3777290,-11144440",
+    "name": "Zamboanga del Sur",
+    "local_name": "Zamboanga del Sur",
+    "name_en": null,
+    "all_tags": {
+      "ref": "097300000",
+      "name": "Zamboanga del Sur",
+      "int_ref": "PH-ZAS",
+      "name:ja": "南サンボアンガ",
+      "boundary": "administrative",
+      "way_area": "0.487909",
+      "wikidata": "Q13900",
+      "ISO3166-2": "PH-ZAS",
+      "wikipedia": "en:Zamboanga del Sur",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -1513227,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3777290,-11144440",
+    "name": "Zamboanga Sibugay",
+    "local_name": "Zamboanga Sibugay",
+    "name_en": null,
+    "all_tags": {
+      "ref": "098300000",
+      "name": "Zamboanga Sibugay",
+      "int_ref": "PH-ZSI",
+      "name:ja": "サンボアンガ・シブガイ",
+      "boundary": "administrative",
+      "way_area": "0.468091",
+      "wikidata": "Q13902",
+      "ISO3166-2": "PH-ZSI",
+      "wikipedia": "en:Zamboanga Sibugay",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -1513211,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3777290,-11144440",
+    "name": "Zamboanga del Norte",
+    "local_name": "Zamboanga del Norte",
+    "name_en": null,
+    "all_tags": {
+      "ref": "097200000",
+      "name": "Zamboanga del Norte",
+      "int_ref": "PH-ZAN",
+      "name:ja": "北サンボアンガ",
+      "boundary": "administrative",
+      "way_area": "1.0018",
+      "wikidata": "Q13899",
+      "ISO3166-2": "PH-ZAN",
+      "wikipedia": "en:Zamboanga del Norte",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -1513208,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3873457,-11144440",
+    "name": "Misamis Occidental",
+    "local_name": "Misamis Occidental",
+    "name_en": null,
+    "all_tags": {
+      "ref": "104200000",
+      "name": "Misamis Occidental",
+      "int_ref": "PH-MSC",
+      "name:ja": "西ミサミス",
+      "boundary": "administrative",
+      "way_area": "0.262529",
+      "wikidata": "Q13857",
+      "ISO3166-2": "PH-MSC",
+      "wikipedia": "en:Misamis Occidental",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -1513190,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3873457,-11144440",
+    "name": "Misamis Oriental",
+    "local_name": "Misamis Oriental",
+    "name_en": null,
+    "all_tags": {
+      "ref": "104300000",
+      "name": "Misamis Oriental",
+      "int_ref": "PH-MSR",
+      "name:eo": "Orienta Misamiso",
+      "name:hu": "Misamis Oriental",
+      "name:ja": "東ミサミス",
+      "name:ru": "Восточный Мисамис",
+      "boundary": "administrative",
+      "way_area": "0.483841",
+      "wikidata": "Q13860",
+      "ISO3166-2": "PH-MSR",
+      "wikipedia": "en:Misamis Oriental",
+      "population": "956900",
+      "admin_level": "4",
+      "population:date": "2020-05-01"
+    }
+  },
+  {
+    "osm_id": -1513179,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3873457,-11144440",
+    "name": "Lanao del Norte",
+    "local_name": "Lanao del Norte",
+    "name_en": null,
+    "all_tags": {
+      "ref": "103500000",
+      "name": "Lanao del Norte",
+      "int_ref": "PH-LAN",
+      "name:ja": "北ラナオ",
+      "boundary": "administrative",
+      "way_area": "0.258078",
+      "wikidata": "Q13841",
+      "ISO3166-2": "PH-LAN",
+      "wikipedia": "en:Lanao del Norte",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -1513166,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3821409,-11144440",
+    "name": "Lanao del Sur",
+    "local_name": "Lanao del Sur",
+    "name_en": null,
+    "all_tags": {
+      "ref": "153600000",
+      "name": "Lanao del Sur",
+      "int_ref": "PH-LAS",
+      "name:ja": "南ラナオ",
+      "boundary": "administrative",
+      "way_area": "0.342308",
+      "wikidata": "Q13843",
+      "ISO3166-2": "PH-LAS",
+      "wikipedia": "en:Lanao del Sur",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -1513165,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3821409,-11144440",
+    "name": "Maguindanao",
+    "local_name": "Maguindanao",
+    "name_en": null,
+    "all_tags": {
+      "ref": "153800000",
+      "name": "Maguindanao",
+      "int_ref": "PH-MAG",
+      "name:ja": "マギンダナオ",
+      "boundary": "administrative",
+      "way_area": "0.52103",
+      "wikidata": "Q13845",
+      "ISO3166-2": "PH-MAG",
+      "wikipedia": "en:Maguindanao",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -1513160,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3851570,-11144440",
+    "name": "Sultan Kudarat",
+    "local_name": "Sultan Kudarat",
+    "name_en": null,
+    "all_tags": {
+      "ref": "126500000",
+      "name": "Sultan Kudarat",
+      "int_ref": "PH-SUK",
+      "name:ja": "スルタン・クダラット",
+      "boundary": "administrative",
+      "way_area": "0.48572",
+      "wikidata": "Q13885",
+      "ISO3166-2": "PH-SUK",
+      "wikipedia": "en:Sultan Kudarat",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -1513151,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3851570,-11144440",
+    "name": "North Cotabato",
+    "local_name": "North Cotabato",
+    "name_en": null,
+    "all_tags": {
+      "ref": "124700000",
+      "name": "North Cotabato",
+      "int_ref": "PH-NCO",
+      "name:ja": "コタバト",
+      "boundary": "administrative",
+      "way_area": "0.501967",
+      "wikidata": "Q13791",
+      "ISO3166-2": "PH-NCO",
+      "wikipedia": "en:Cotabato",
+      "admin_level": "4",
+      "official_name": "Cotabato"
+    }
+  },
+  {
+    "osm_id": -1513131,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3851570,-11144440",
+    "name": "South Cotabato",
+    "local_name": "South Cotabato",
+    "name_en": null,
+    "all_tags": {
+      "ref": "126300000",
+      "name": "South Cotabato",
+      "int_ref": "PH-SCO",
+      "name:ja": "南コタバト",
+      "boundary": "administrative",
+      "way_area": "0.346237",
+      "wikidata": "Q13882",
+      "ISO3166-2": "PH-SCO",
+      "wikipedia": "en:South Cotabato",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -1513098,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3851570,-11144440",
+    "name": "Sarangani",
+    "local_name": "Sarangani",
+    "name_en": null,
+    "all_tags": {
+      "ref": "128000000",
+      "name": "Sarangani",
+      "int_ref": "PH-SAR",
+      "name:ja": "サランガニ",
+      "boundary": "administrative",
+      "way_area": "0.499202",
+      "wikidata": "Q13877",
+      "ISO3166-2": "PH-SAR",
+      "wikipedia": "en:Sarangani",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -1513050,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3936842,-11144440",
+    "name": "Davao del Sur",
+    "local_name": "Davao del Sur",
+    "name_en": null,
+    "all_tags": {
+      "ref": "112400000",
+      "name": "Davao del Sur",
+      "int_ref": "PH-DAS",
+      "name:ja": "南ダバオ",
+      "boundary": "administrative",
+      "way_area": "0.19385",
+      "wikidata": "Q13794",
+      "ISO3166-2": "PH-DAS",
+      "wikipedia": "en:Davao del Sur",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -1507313,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3936842,-11144440",
+    "name": "Davao del Norte",
+    "local_name": "Davao del Norte",
+    "name_en": null,
+    "all_tags": {
+      "ref": "112300000",
+      "name": "Davao del Norte",
+      "int_ref": "PH-DAV",
+      "name:ja": "北ダバオ",
+      "name:ru": "Северный Давао",
+      "boundary": "administrative",
+      "way_area": "0.344881",
+      "wikidata": "Q13792",
+      "ISO3166-2": "PH-DAV",
+      "wikipedia": "en:Davao del Norte",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -1507283,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3936842,-11144440",
+    "name": "Davao de Oro",
+    "local_name": "Davao de Oro",
+    "name_en": null,
+    "all_tags": {
+      "ref": "118200000",
+      "name": "Davao de Oro",
+      "int_ref": "PH-COM",
+      "boundary": "administrative",
+      "old_name": "Compostela Valley",
+      "way_area": "0.363347",
+      "wikidata": "Q13789",
+      "ISO3166-2": "PH-COM",
+      "wikipedia": "en:Davao de Oro",
+      "admin_level": "4",
+      "old_name:ja": "コンポステラ・バレー"
+    }
+  },
+  {
+    "osm_id": -1507282,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3870502,-11144440",
+    "name": "Agusan del Norte",
+    "local_name": "Agusan del Norte",
+    "name_en": null,
+    "all_tags": {
+      "ref": "160200000",
+      "name": "Agusan del Norte",
+      "int_ref": "PH-AGN",
+      "name:ja": "北アグサン",
+      "boundary": "administrative",
+      "way_area": "0.324515",
+      "wikidata": "Q13714",
+      "ISO3166-2": "PH-AGN",
+      "wikipedia": "en:Agusan del Norte",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -1507233,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1507095,-3936842,-11144440",
+    "name": "Boston",
+    "local_name": "Boston",
+    "name_en": null,
+    "all_tags": {
+      "name": "Boston",
+      "name:ta": "பாஸ்டன்",
+      "boundary": "administrative",
+      "way_area": "0.0395378",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -1507216,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1507095,-3936842,-11144440",
+    "name": "Cateel",
+    "local_name": "Cateel",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cateel",
+      "boundary": "administrative",
+      "way_area": "0.0399276",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -1507210,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1507095,-3936842,-11144440",
+    "name": "Baganga",
+    "local_name": "Baganga",
+    "name_en": null,
+    "all_tags": {
+      "name": "Baganga",
+      "name:uk": "Баґанґа",
+      "boundary": "administrative",
+      "way_area": "0.151571",
+      "wikidata": "Q314522",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -1507202,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1507095,-3936842,-11144440",
+    "name": "Caraga",
+    "local_name": "Caraga",
+    "name_en": null,
+    "all_tags": {
+      "name": "Caraga",
+      "boundary": "administrative",
+      "way_area": "0.0755968",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -1507200,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1507095,-3936842,-11144440",
+    "name": "Manay",
+    "local_name": "Manay",
+    "name_en": null,
+    "all_tags": {
+      "name": "Manay",
+      "boundary": "administrative",
+      "way_area": "0.0626771",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -1507198,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1507095,-3936842,-11144440",
+    "name": "Tarragona",
+    "local_name": "Tarragona",
+    "name_en": null,
+    "all_tags": {
+      "name": "Tarragona",
+      "boundary": "administrative",
+      "way_area": "0.0536496",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -1507186,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1507095,-3936842,-11144440",
+    "name": "Mati",
+    "local_name": "Mati",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mati",
+      "boundary": "administrative",
+      "way_area": "0.200404",
+      "population": "141141",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -1507185,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1507095,-3936842,-11144440",
+    "name": "Governor Generoso",
+    "local_name": "Governor Generoso",
+    "name_en": null,
+    "all_tags": {
+      "name": "Governor Generoso",
+      "boundary": "administrative",
+      "way_area": "0.105957",
+      "population": "55109",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -1507160,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1507095,-3936842,-11144440",
+    "name": "San Isidro",
+    "local_name": "San Isidro",
+    "name_en": null,
+    "all_tags": {
+      "name": "San Isidro",
+      "boundary": "administrative",
+      "way_area": "0.0348499",
+      "population": "36032",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -1507125,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1507095,-3936842,-11144440",
+    "name": "Lupon",
+    "local_name": "Lupon",
+    "name_en": null,
+    "all_tags": {
+      "name": "Lupon",
+      "boundary": "administrative",
+      "way_area": "0.0445532",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -1507124,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1507095,-3936842,-11144440",
+    "name": "Banaybanay",
+    "local_name": "Banaybanay",
+    "name_en": null,
+    "all_tags": {
+      "name": "Banaybanay",
+      "boundary": "administrative",
+      "way_area": "0.0477082",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -1507095,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3936842,-11144440",
+    "name": "Davao Oriental",
+    "local_name": "Davao Oriental",
+    "name_en": null,
+    "all_tags": {
+      "ref": "112500000",
+      "name": "Davao Oriental",
+      "int_ref": "PH-DAO",
+      "name:ja": "東ダバオ",
+      "name:uk": "Східне Давао",
+      "boundary": "administrative",
+      "way_area": "0.856433",
+      "wikidata": "Q13806",
+      "ISO3166-2": "PH-DAO",
+      "wikipedia": "en:Davao Oriental",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -1507067,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3870502,-11144440",
+    "name": "Surigao del Sur",
+    "local_name": "Surigao del Sur",
+    "name_en": null,
+    "all_tags": {
+      "ref": "166800000",
+      "name": "Surigao del Sur",
+      "int_ref": "PH-SUR",
+      "name:ja": "南スリガオ",
+      "name:uk": "Південий Суріґао",
+      "boundary": "administrative",
+      "way_area": "0.755136",
+      "wikidata": "Q13891",
+      "ISO3166-2": "PH-SUR",
+      "wikipedia": "en:Surigao del Sur",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -1507031,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3870502,-11144440",
+    "name": "Surigao del Norte",
+    "local_name": "Surigao del Norte",
+    "name_en": null,
+    "all_tags": {
+      "ref": "166700000",
+      "name": "Surigao del Norte",
+      "int_ref": "PH-SUN",
+      "name:ja": "北スリガオ",
+      "name:uk": "Північний Суріґао",
+      "boundary": "administrative",
+      "way_area": "0.57083",
+      "wikidata": "Q13889",
+      "ISO3166-2": "PH-SUN",
+      "wikipedia": "en:Surigao del Norte",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -1507007,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3870502,-11144440",
+    "name": "Dinagat Islands",
+    "local_name": "Dinagat Islands",
+    "name_en": null,
+    "all_tags": {
+      "ref": "168500000",
+      "name": "Dinagat Islands",
+      "int_ref": "PH-DIN",
+      "name:ja": "ディナガット・アイランズ",
+      "boundary": "administrative",
+      "way_area": "0.286945",
+      "wikidata": "Q13807",
+      "ISO3166-2": "PH-DIN",
+      "wikipedia": "en:Dinagat Islands",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -52297,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3870502,-11144440",
+    "name": "Agusan del Sur",
+    "local_name": "Agusan del Sur",
+    "name_en": null,
+    "all_tags": {
+      "ref": "160300000",
+      "name": "Agusan del Sur",
+      "int_ref": "PH-AGS",
+      "name:ja": "南アグサン",
+      "boundary": "administrative",
+      "way_area": "0.686474",
+      "wikidata": "Q13721",
+      "ISO3166-2": "PH-AGS",
+      "wikipedia": "en:Agusan del Sur",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -48393,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3873457,-11144440",
+    "name": "Bukidnon",
+    "local_name": "Bukidnon",
+    "name_en": null,
+    "all_tags": {
+      "ref": "101300000",
+      "name": "Bukidnon",
+      "int_ref": "PH-BUK",
+      "name:ja": "ブキドノン",
+      "boundary": "administrative",
+      "way_area": "0.77885",
+      "wikidata": "Q13753",
+      "ISO3166-2": "PH-BUK",
+      "wikipedia": "en:Bukidnon",
+      "admin_level": "4"
+    }
+  }
+]

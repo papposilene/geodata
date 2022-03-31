@@ -1,0 +1,289 @@
+[
+  {
+    "osm_id": -11146288,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-555717",
+    "name": "Arima",
+    "local_name": "Arima",
+    "name_en": null,
+    "all_tags": {
+      "name": "Arima",
+      "boundary": "administrative",
+      "way_area": "0.00108099",
+      "wikidata": "Q661405",
+      "ISO3166-2": "TT-ARI",
+      "wikipedia": "en:Arima",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -7363641,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-555717",
+    "name": "Chaguanas",
+    "local_name": "Chaguanas",
+    "name_en": null,
+    "all_tags": {
+      "name": "Chaguanas",
+      "name:ru": "Чагуанас",
+      "boundary": "administrative",
+      "way_area": "0.00486426",
+      "wikidata": "Q1444575",
+      "ISO3166-2": "TT-CHA",
+      "wikipedia": "en:Chaguanas",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -7363640,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-555717",
+    "name": "Sangre Grande",
+    "local_name": "Sangre Grande",
+    "name_en": null,
+    "all_tags": {
+      "name": "Sangre Grande",
+      "name:ru": "Сангре-Гранде",
+      "boundary": "administrative",
+      "way_area": "0.0778978",
+      "wikidata": "Q290292",
+      "ISO3166-2": "TT-SGE",
+      "wikipedia": "en:Sangre Grande Regional Corporation",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -7363639,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-555717",
+    "name": "Tunapuna-Piarco",
+    "local_name": "Tunapuna-Piarco",
+    "name_en": null,
+    "all_tags": {
+      "name": "Tunapuna-Piarco",
+      "name:ru": "Тунапуна-Пиарко",
+      "boundary": "administrative",
+      "way_area": "0.0443677",
+      "wikidata": "Q1899163",
+      "ISO3166-2": "TT-TUP",
+      "wikipedia": "en:Tunapuna-Piarco Regional Corporation",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -7363638,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-555717",
+    "name": "San Juan-Laventille",
+    "local_name": "San Juan-Laventille",
+    "name_en": null,
+    "all_tags": {
+      "name": "San Juan-Laventille",
+      "name:ru": "Сан-Хуан-Лавентиль",
+      "boundary": "administrative",
+      "way_area": "0.0176445",
+      "wikidata": "Q979608",
+      "ISO3166-2": "TT-SJL",
+      "wikipedia": "en:San Juan–Laventille",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -7363637,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-555717",
+    "name": "Port of Spain",
+    "local_name": "Port of Spain",
+    "name_en": null,
+    "all_tags": {
+      "name": "Port of Spain",
+      "name:ru": "Порт-оф-Спейн",
+      "boundary": "administrative",
+      "way_area": "0.0011215",
+      "wikidata": "Q39178",
+      "ISO3166-2": "TT-POS",
+      "wikipedia": "en:Port of Spain",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -7363636,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-555717",
+    "name": "Diego Martin",
+    "local_name": "Diego Martin",
+    "name_en": null,
+    "all_tags": {
+      "name": "Diego Martin",
+      "name:ru": "Диего-Мартин",
+      "boundary": "administrative",
+      "way_area": "0.0114081",
+      "wikidata": "Q2679107",
+      "ISO3166-2": "TT-DMN",
+      "wikipedia": "en:Diego Martin Regional Corporation",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -7363419,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-555717",
+    "name": "Penal-Debe",
+    "local_name": "Penal-Debe",
+    "name_en": null,
+    "all_tags": {
+      "name": "Penal-Debe",
+      "name:ru": "Пенал-Дебе",
+      "boundary": "administrative",
+      "way_area": "0.0198495",
+      "wikidata": "Q2056273",
+      "ISO3166-2": "TT-PED",
+      "wikipedia": "en:Penal-Debe Regional Corporation",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -7363418,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-555717",
+    "name": "Point Fortin",
+    "local_name": "Point Fortin",
+    "name_en": null,
+    "all_tags": {
+      "name": "Point Fortin",
+      "name:ru": "Пойнт-Фортин",
+      "boundary": "administrative",
+      "way_area": "0.00217403",
+      "wikidata": "Q786957",
+      "ISO3166-2": "TT-PTF",
+      "wikipedia": "en:Point Fortin",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -7363417,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-555717",
+    "name": "Siparia",
+    "local_name": "Siparia",
+    "name_en": null,
+    "all_tags": {
+      "name": "Siparia",
+      "name:ru": "Сипария",
+      "boundary": "administrative",
+      "way_area": "0.0412561",
+      "wikidata": "Q2679119",
+      "ISO3166-2": "TT-SIP",
+      "wikipedia": "en:Siparia Regional Corporation",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -7363416,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-555717",
+    "name": "San Fernando",
+    "local_name": "San Fernando",
+    "name_en": null,
+    "all_tags": {
+      "name": "San Fernando",
+      "name:ru": "Сан-Фернандо",
+      "boundary": "administrative",
+      "way_area": "0.00157675",
+      "wikidata": "Q1023712",
+      "ISO3166-2": "TT-SFO",
+      "wikipedia": "en:San Fernando, Trinidad and Tobago",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -7363415,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-555717",
+    "name": "Couva-Tabaquite-Talparo",
+    "local_name": "Couva-Tabaquite-Talparo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Couva-Tabaquite-Talparo",
+      "name:ru": "Кува-Табаките-Тальпаро",
+      "boundary": "administrative",
+      "way_area": "0.0598313",
+      "wikidata": "Q2679127",
+      "ISO3166-2": "TT-CTT",
+      "wikipedia": "en:Couva-Tabaquite-Talparo Regional Corporation",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -7361804,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-555717",
+    "name": "Rio Claro-Mayaro",
+    "local_name": "Rio Claro-Mayaro",
+    "name_en": null,
+    "all_tags": {
+      "name": "Rio Claro-Mayaro",
+      "name:ru": "Рио Кларо-Майяро",
+      "boundary": "administrative",
+      "name:szl": "Trynidad i Tobago",
+      "way_area": "0.0658471",
+      "wikidata": "Q2487249",
+      "ISO3166-2": "TT-MRC",
+      "wikipedia": "en:Rio Claro-Mayaro Regional Corporation",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -7361803,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-555717",
+    "name": "Princes Town",
+    "local_name": "Princes Town",
+    "name_en": null,
+    "all_tags": {
+      "name": "Princes Town",
+      "name:ru": "Принсес-Таун",
+      "boundary": "administrative",
+      "way_area": "0.0503988",
+      "wikidata": "Q2228167",
+      "ISO3166-2": "TT-PRT",
+      "wikipedia": "en:Princes Town Regional Corporation",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -5176041,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-555717",
+    "name": "Tobago",
+    "local_name": "Tobago",
+    "name_en": null,
+    "all_tags": {
+      "name": "Tobago",
+      "place": "island",
+      "name:ru": "Тобаго",
+      "boundary": "administrative",
+      "way_area": "0.0248177",
+      "wikidata": "Q185111",
+      "ISO3166-2": "TT-TOB",
+      "wikipedia": "en:Tobago",
+      "population": "54000",
+      "admin_level": "4"
+    }
+  }
+]

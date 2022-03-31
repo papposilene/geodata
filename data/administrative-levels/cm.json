@@ -1,0 +1,1280 @@
+[
+  {
+    "osm_id": -6312405,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-6312404,-192830",
+    "name": "Mifi",
+    "local_name": "Mifi",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mifi",
+      "ref:COG": "OU01",
+      "boundary": "administrative",
+      "way_area": "0.0334583",
+      "wikidata": "Q2445728",
+      "wikipedia": "fr:Mifi",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -6312404,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192830",
+    "name": "West",
+    "local_name": "Ouest",
+    "name_en": "West",
+    "all_tags": {
+      "name": "Ouest",
+      "name:de": "West",
+      "name:en": "West",
+      "name:pt": "Oeste",
+      "name:ru": "Западный регион",
+      "ref:COG": "OU",
+      "boundary": "administrative",
+      "way_area": "1.13785",
+      "wikidata": "Q165784",
+      "ISO3166-2": "CM-OU",
+      "wikipedia": "fr:Région de l'Ouest (Cameroun)",
+      "short_name": "OU",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -2751434,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2750875,-192830",
+    "name": "Ndian",
+    "local_name": "Ndian",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ndian",
+      "ref:COG": "SW05",
+      "boundary": "administrative",
+      "way_area": "0.680065",
+      "wikidata": "Q2445180",
+      "wikipedia": "fr:Ndian",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -2751433,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2750875,-192830",
+    "name": "Meme",
+    "local_name": "Meme",
+    "name_en": null,
+    "all_tags": {
+      "name": "Meme",
+      "ref:COG": "SW04",
+      "boundary": "administrative",
+      "way_area": "0.232203",
+      "wikidata": "Q2582684",
+      "wikipedia": "fr:Meme",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -2751432,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2750875,-192830",
+    "name": "Manyu",
+    "local_name": "Manyu",
+    "name_en": null,
+    "all_tags": {
+      "name": "Manyu",
+      "ref:COG": "SW02",
+      "boundary": "administrative",
+      "way_area": "0.773298",
+      "wikidata": "Q636257",
+      "wikipedia": "fr:Manyu",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -2751431,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2750875,-192830",
+    "name": "Lebialem",
+    "local_name": "Lebialem",
+    "name_en": null,
+    "all_tags": {
+      "name": "Lebialem",
+      "ref:COG": "SW03",
+      "boundary": "administrative",
+      "way_area": "0.0523754",
+      "wikidata": "Q2443757",
+      "wikipedia": "fr:Lebialem",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -2751430,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2750875,-192830",
+    "name": "Kupe-Muanenguba",
+    "local_name": "Kupe-Muanenguba",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kupe-Muanenguba",
+      "ref:COG": "SW06",
+      "boundary": "administrative",
+      "way_area": "0.281589",
+      "wikidata": "Q2444337",
+      "wikipedia": "fr:Koupé-Manengouba",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -2751429,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2750875,-192830",
+    "name": "Fako",
+    "local_name": "Fako",
+    "name_en": null,
+    "all_tags": {
+      "name": "Fako",
+      "ref:COG": "SW01",
+      "boundary": "administrative",
+      "way_area": "0.274681",
+      "wikidata": "Q955885",
+      "wikipedia": "fr:Fako",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -2751404,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2750874,-192830",
+    "name": "Ngoketunjia",
+    "local_name": "Ngoketunjia",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ngoketunjia",
+      "ref:COG": "NW07",
+      "boundary": "administrative",
+      "way_area": "0.0866534",
+      "wikidata": "Q2445374",
+      "wikipedia": "fr:Ngo-Ketunjia",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -2751403,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2750874,-192830",
+    "name": "Momo",
+    "local_name": "Momo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Momo",
+      "ref:COG": "NW04",
+      "boundary": "administrative",
+      "way_area": "0.146371",
+      "wikidata": "Q2538015",
+      "wikipedia": "fr:Momo (département)",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -2751402,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2750874,-192830",
+    "name": "Mezam",
+    "local_name": "Mezam",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mezam",
+      "ref:COG": "NW01",
+      "boundary": "administrative",
+      "way_area": "0.151122",
+      "wikidata": "Q966674",
+      "wikipedia": "fr:Mezam",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -2751401,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2750874,-192830",
+    "name": "Menchum",
+    "local_name": "Menchum",
+    "name_en": null,
+    "all_tags": {
+      "name": "Menchum",
+      "ref:COG": "NW05",
+      "boundary": "administrative",
+      "way_area": "0.3714",
+      "wikidata": "Q685677",
+      "wikipedia": "fr:Menchum",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -2751400,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2750874,-192830",
+    "name": "Donga-Mantung",
+    "local_name": "Donga-Mantung",
+    "name_en": null,
+    "all_tags": {
+      "name": "Donga-Mantung",
+      "ref:COG": "NW03",
+      "boundary": "administrative",
+      "way_area": "0.352437",
+      "wikidata": "Q2442736",
+      "wikipedia": "fr:Donga-Mantung",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -2751399,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2750874,-192830",
+    "name": "Bui",
+    "local_name": "Bui",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bui",
+      "ref:COG": "NW02",
+      "boundary": "administrative",
+      "way_area": "0.181614",
+      "wikidata": "Q702284",
+      "wikipedia": "fr:Bui",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -2751398,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2750874,-192830",
+    "name": "Boyo",
+    "local_name": "Boyo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Boyo",
+      "name:ar": "بويو",
+      "name:fr": "Boyo",
+      "ref:COG": "NW06",
+      "boundary": "administrative",
+      "way_area": "0.13494",
+      "wikidata": "Q2442750",
+      "wikipedia": "fr:Boyo (Cameroun)",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -2751229,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-6312404,-192830",
+    "name": "Noun",
+    "local_name": "Noun",
+    "name_en": null,
+    "all_tags": {
+      "name": "Noun",
+      "ref:COG": "OU03",
+      "boundary": "administrative",
+      "way_area": "0.623164",
+      "wikidata": "Q2445359",
+      "wikipedia": "fr:Noun (département)",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -2751228,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-6312404,-192830",
+    "name": "Ndé",
+    "local_name": "Ndé",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ndé",
+      "ref:COG": "OU06",
+      "boundary": "administrative",
+      "way_area": "0.130031",
+      "wikidata": "Q2445638",
+      "wikipedia": "fr:Ndé",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -2751226,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-6312404,-192830",
+    "name": "Menoua",
+    "local_name": "Menoua",
+    "name_en": null,
+    "all_tags": {
+      "name": "Menoua",
+      "ref:COG": "OU05",
+      "boundary": "administrative",
+      "way_area": "0.113003",
+      "wikidata": "Q921417",
+      "wikipedia": "fr:Menoua (département)",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -2751225,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-6312404,-192830",
+    "name": "Nkoung-Khi",
+    "local_name": "Nkoung-Khi",
+    "name_en": null,
+    "all_tags": {
+      "name": "Nkoung-Khi",
+      "ref:COG": "OU07",
+      "boundary": "administrative",
+      "way_area": "0.0280708",
+      "wikidata": "Q2443749",
+      "wikipedia": "fr:Koung-Khi",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -2751224,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-6312404,-192830",
+    "name": "Hauts-Plateaux",
+    "local_name": "Hauts-Plateaux",
+    "name_en": null,
+    "all_tags": {
+      "name": "Hauts-Plateaux",
+      "ref:COG": "OU08",
+      "boundary": "administrative",
+      "way_area": "0.0353754",
+      "wikidata": "Q2443778",
+      "wikipedia": "fr:Hauts-Plateaux (Cameroun)",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -2751223,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-6312404,-192830",
+    "name": "Haut-Nkam",
+    "local_name": "Haut-Nkam",
+    "name_en": null,
+    "all_tags": {
+      "name": "Haut-Nkam",
+      "ref:COG": "OU04",
+      "boundary": "administrative",
+      "way_area": "0.0790336",
+      "wikidata": "Q2442640",
+      "wikipedia": "fr:Haut-Nkam",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -2751222,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-6312404,-192830",
+    "name": "Bamboutos",
+    "local_name": "Bamboutos",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bamboutos",
+      "ref:COG": "OU02",
+      "boundary": "administrative",
+      "way_area": "0.0957132",
+      "wikidata": "Q2442690",
+      "wikipedia": "fr:Bamboutos",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -2750984,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2750851,-192830",
+    "name": "Wouri",
+    "local_name": "Wouri",
+    "name_en": null,
+    "all_tags": {
+      "name": "Wouri",
+      "ref:COG": "LT01",
+      "boundary": "administrative",
+      "way_area": "0.158962",
+      "wikidata": "Q769841",
+      "wikipedia": "fr:Wouri (département)",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -2750983,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2750851,-192830",
+    "name": "Sanaga-Maritime",
+    "local_name": "Sanaga-Maritime",
+    "name_en": null,
+    "all_tags": {
+      "name": "Sanaga-Maritime",
+      "ref:COG": "LT04",
+      "boundary": "administrative",
+      "way_area": "0.87683",
+      "wikidata": "Q2445164",
+      "wikipedia": "fr:Sanaga-Maritime",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -2750982,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2750851,-192830",
+    "name": "Nkam",
+    "local_name": "Nkam",
+    "name_en": null,
+    "all_tags": {
+      "name": "Nkam",
+      "ref:COG": "LT03",
+      "boundary": "administrative",
+      "way_area": "0.501896",
+      "wikidata": "Q2445718",
+      "wikipedia": "fr:Nkam",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -2750981,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2750851,-192830",
+    "name": "Moungo",
+    "local_name": "Moungo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Moungo",
+      "ref:COG": "LT02",
+      "boundary": "administrative",
+      "way_area": "0.316448",
+      "wikidata": "Q2445609",
+      "wikipedia": "fr:Moungo",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -2750875,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192830",
+    "name": "Southwest",
+    "local_name": "Southwest",
+    "name_en": "Southwest",
+    "all_tags": {
+      "name": "Southwest",
+      "name:de": "Südwest",
+      "name:en": "Southwest",
+      "name:fr": "Sud-Ouest",
+      "ref:COG": "SW",
+      "boundary": "administrative",
+      "way_area": "2.29421",
+      "wikidata": "Q607499",
+      "ISO3166-2": "CM-SW",
+      "wikipedia": "en:Southwest Region (Cameroon)",
+      "short_name": "SW",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -2750874,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192830",
+    "name": "Northwest",
+    "local_name": "Northwest",
+    "name_en": "Northwest",
+    "all_tags": {
+      "name": "Northwest",
+      "name:de": "Nordwest",
+      "name:en": "Northwest",
+      "name:fr": "Nord-Ouest",
+      "name:ko": "북서부주",
+      "ref:COG": "NW",
+      "boundary": "administrative",
+      "way_area": "1.42454",
+      "wikidata": "Q823946",
+      "ISO3166-2": "CM-NW",
+      "wikipedia": "en:Northwest Region (Cameroon)",
+      "short_name": "NW",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -2750851,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192830",
+    "name": "Littoral",
+    "local_name": "Littoral",
+    "name_en": "Littoral",
+    "all_tags": {
+      "name": "Littoral",
+      "name:de": "Küste",
+      "name:en": "Littoral",
+      "ref:COG": "LT",
+      "boundary": "administrative",
+      "way_area": "1.85414",
+      "wikidata": "Q845172",
+      "ISO3166-2": "CM-LT",
+      "wikipedia": "fr:Région du Littoral",
+      "short_name": "LT",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -2750837,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2750833,-192830",
+    "name": "Vallée-du-Ntem",
+    "local_name": "Vallée-du-Ntem",
+    "name_en": null,
+    "all_tags": {
+      "name": "Vallée-du-Ntem",
+      "ref:COG": "SU04",
+      "boundary": "administrative",
+      "way_area": "0.589433",
+      "wikidata": "Q2445579",
+      "wikipedia": "fr:Vallée-du-Ntem",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -2750836,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2750833,-192830",
+    "name": "Océan",
+    "local_name": "Océan",
+    "name_en": null,
+    "all_tags": {
+      "name": "Océan",
+      "ref:COG": "SU03",
+      "boundary": "administrative",
+      "way_area": "1.10263",
+      "wikidata": "Q2445229",
+      "wikipedia": "fr:Océan (département)",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -2750835,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2750833,-192830",
+    "name": "Mvila",
+    "local_name": "Mvila",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mvila",
+      "ref:COG": "SU01",
+      "boundary": "administrative",
+      "way_area": "0.706098",
+      "wikidata": "Q2445743",
+      "wikipedia": "fr:Mvila",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -2750834,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2750833,-192830",
+    "name": "Dja-et-Lobo",
+    "local_name": "Dja-et-Lobo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Dja-et-Lobo",
+      "ref:COG": "SU02",
+      "boundary": "administrative",
+      "way_area": "1.61838",
+      "wikidata": "Q784802",
+      "wikipedia": "fr:Dja-et-Lobo",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -2750833,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192830",
+    "name": "South",
+    "local_name": "Sud",
+    "name_en": "South",
+    "all_tags": {
+      "name": "Sud",
+      "name:de": "Süd",
+      "name:en": "South",
+      "ref:COG": "SU",
+      "boundary": "administrative",
+      "way_area": "4.01654",
+      "wikidata": "Q857122",
+      "ISO3166-2": "CM-SU",
+      "wikipedia": "fr:Région du Sud",
+      "short_name": "SU",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -2750798,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2750789,-192830",
+    "name": "Nyong-et-So'o",
+    "local_name": "Nyong-et-So'o",
+    "name_en": null,
+    "all_tags": {
+      "name": "Nyong-et-So'o",
+      "ref:COG": "CE05",
+      "boundary": "administrative",
+      "way_area": "0.291786",
+      "wikidata": "Q2445625",
+      "wikipedia": "fr:Nyong-et-So'o",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -2750797,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2750789,-192830",
+    "name": "Nyong-et-Foumou",
+    "local_name": "Nyong-et-Foumou",
+    "name_en": null,
+    "all_tags": {
+      "name": "Nyong-et-Foumou",
+      "ref:COG": "CE04",
+      "boundary": "administrative",
+      "way_area": "0.49916",
+      "wikidata": "Q587099",
+      "wikipedia": "fr:Nyong-et-Mfoumou",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -2750796,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2750789,-192830",
+    "name": "Nyong-et-Kéllé",
+    "local_name": "Nyong-et-Kéllé",
+    "name_en": null,
+    "all_tags": {
+      "name": "Nyong-et-Kéllé",
+      "ref:COG": "CE02",
+      "boundary": "administrative",
+      "way_area": "0.517274",
+      "wikidata": "Q729464",
+      "wikipedia": "fr:Nyong-et-Kéllé",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -2750795,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2750789,-192830",
+    "name": "Méfou-et-Akono",
+    "local_name": "Méfou-et-Akono",
+    "name_en": null,
+    "all_tags": {
+      "name": "Méfou-et-Akono",
+      "ref:COG": "CE10",
+      "boundary": "administrative",
+      "way_area": "0.108578",
+      "wikidata": "Q2444484",
+      "wikipedia": "fr:Méfou-et-Akono",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -2750794,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2750789,-192830",
+    "name": "Méfou-et-Afamba",
+    "local_name": "Méfou-et-Afamba",
+    "name_en": null,
+    "all_tags": {
+      "name": "Méfou-et-Afamba",
+      "ref:COG": "CE09",
+      "boundary": "administrative",
+      "way_area": "0.273778",
+      "wikidata": "Q2445054",
+      "wikipedia": "fr:Méfou-et-Afamba",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -2750793,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2750789,-192830",
+    "name": "Mbam-et-Kim",
+    "local_name": "Mbam-et-Kim",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mbam-et-Kim",
+      "ref:COG": "CE08",
+      "boundary": "administrative",
+      "way_area": "2.12656",
+      "wikidata": "Q2445194",
+      "wikipedia": "fr:Mbam-et-Kim",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -2750792,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2750789,-192830",
+    "name": "Mbam-et-Inoubou",
+    "local_name": "Mbam-et-Inoubou",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mbam-et-Inoubou",
+      "ref:COG": "CE07",
+      "boundary": "administrative",
+      "way_area": "0.556796",
+      "wikidata": "Q2445034",
+      "wikipedia": "fr:Mbam-et-Inoubou",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -2750791,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2750789,-192830",
+    "name": "Lekié",
+    "local_name": "Lekié",
+    "name_en": null,
+    "all_tags": {
+      "name": "Lekié",
+      "ref:COG": "CE06",
+      "boundary": "administrative",
+      "way_area": "0.247354",
+      "wikidata": "Q607493",
+      "wikipedia": "fr:Lekié (département)",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -2750790,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2750789,-192830",
+    "name": "Haute-Sanaga",
+    "local_name": "Haute-Sanaga",
+    "name_en": null,
+    "all_tags": {
+      "name": "Haute-Sanaga",
+      "ref:COG": "CE03",
+      "boundary": "administrative",
+      "way_area": "0.956254",
+      "wikidata": "Q2443161",
+      "wikipedia": "fr:Haute-Sanaga",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -2750789,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192830",
+    "name": "Centre",
+    "local_name": "Centre",
+    "name_en": "Centre",
+    "all_tags": {
+      "name": "Centre",
+      "name:de": "Zentrum",
+      "name:en": "Centre",
+      "ref:COG": "CE",
+      "boundary": "administrative",
+      "way_area": "5.60109",
+      "wikidata": "Q739951",
+      "ISO3166-2": "CM-CE",
+      "wikipedia": "fr:Région du Centre (Cameroun)",
+      "short_name": "CE",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -2750742,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2750738,-192830",
+    "name": "Lom-et-Djérem",
+    "local_name": "Lom-et-Djérem",
+    "name_en": null,
+    "all_tags": {
+      "name": "Lom-et-Djérem",
+      "ref:COG": "ES01",
+      "boundary": "administrative",
+      "way_area": "2.12569",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -2750741,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2750738,-192830",
+    "name": "Kadey",
+    "local_name": "Kadey",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kadey",
+      "ref:COG": "ES04",
+      "boundary": "administrative",
+      "way_area": "1.3111",
+      "wikidata": "Q2444345",
+      "wikipedia": "fr:Kadey",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -2750740,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2750738,-192830",
+    "name": "Haut-Nyong",
+    "local_name": "Haut-Nyong",
+    "name_en": null,
+    "all_tags": {
+      "name": "Haut-Nyong",
+      "ref:COG": "ES03",
+      "boundary": "administrative",
+      "way_area": "2.93499",
+      "wikidata": "Q2442655",
+      "wikipedia": "fr:Haut-Nyong",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -2750739,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2750738,-192830",
+    "name": "Boumba-et-Ngoko",
+    "local_name": "Boumba-et-Ngoko",
+    "name_en": null,
+    "all_tags": {
+      "name": "Boumba-et-Ngoko",
+      "ref:COG": "ES02",
+      "boundary": "administrative",
+      "way_area": "2.50295",
+      "wikidata": "Q2443133",
+      "wikipedia": "fr:Boumba-et-Ngoko",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -2750738,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192830",
+    "name": "East",
+    "local_name": "Est",
+    "name_en": "East",
+    "all_tags": {
+      "name": "Est",
+      "name:de": "Ost",
+      "name:en": "East",
+      "name:ru": "Восточный регион",
+      "ref:COG": "ES",
+      "boundary": "administrative",
+      "way_area": "8.87473",
+      "wikidata": "Q845168",
+      "ISO3166-2": "CM-ES",
+      "wikipedia": "fr:Région de l'Est (Cameroun)",
+      "short_name": "ES",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -2750699,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2750694,-192830",
+    "name": "Vina",
+    "local_name": "Vina",
+    "name_en": null,
+    "all_tags": {
+      "name": "Vina",
+      "ref:COG": "AD01",
+      "boundary": "administrative",
+      "way_area": "1.40479",
+      "wikidata": "Q667019",
+      "wikipedia": "fr:Vina (département)",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -2750698,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2750694,-192830",
+    "name": "Mbéré",
+    "local_name": "Mbéré",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mbéré",
+      "ref:COG": "AD03",
+      "boundary": "administrative",
+      "way_area": "1.1809",
+      "wikidata": "Q937235",
+      "wikipedia": "fr:Mbéré",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -2750697,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2750694,-192830",
+    "name": "Mayo-Banyo",
+    "local_name": "Mayo-Banyo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mayo-Banyo",
+      "ref:COG": "AD02",
+      "boundary": "administrative",
+      "way_area": "0.692947",
+      "wikidata": "Q2443291",
+      "wikipedia": "fr:Mayo-Banyo",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -2750696,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2750694,-192830",
+    "name": "Faro-et-Déo",
+    "local_name": "Faro-et-Déo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Faro-et-Déo",
+      "ref:COG": "AD05",
+      "boundary": "administrative",
+      "way_area": "0.870325",
+      "wikidata": "Q2583647",
+      "wikipedia": "fr:Faro-et-Déo",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -2750695,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2750694,-192830",
+    "name": "Djérem",
+    "local_name": "Djérem",
+    "name_en": null,
+    "all_tags": {
+      "name": "Djérem",
+      "ref:COG": "AD04",
+      "boundary": "administrative",
+      "way_area": "1.08737",
+      "wikidata": "Q1232309",
+      "wikipedia": "fr:Djérem",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -2750694,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192830",
+    "name": "Adamawa",
+    "local_name": "Adamaoua",
+    "name_en": "Adamawa",
+    "all_tags": {
+      "name": "Adamaoua",
+      "name:de": "Adamaua",
+      "name:en": "Adamawa",
+      "name:ru": "Адамава",
+      "ref:COG": "AD",
+      "boundary": "administrative",
+      "way_area": "5.23633",
+      "wikidata": "Q351514",
+      "ISO3166-2": "CM-AD",
+      "wikipedia": "fr:Région de l'Adamaoua",
+      "short_name": "AD",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -2750666,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2750662,-192830",
+    "name": "Mayo-Rey",
+    "local_name": "Mayo-Rey",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mayo-Rey",
+      "ref:COG": "NO04",
+      "boundary": "administrative",
+      "way_area": "2.99933",
+      "wikidata": "Q2443767",
+      "wikipedia": "fr:Mayo-Rey",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -2750665,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2750662,-192830",
+    "name": "Mayo-Louti",
+    "local_name": "Mayo-Louti",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mayo-Louti",
+      "ref:COG": "NO02",
+      "boundary": "administrative",
+      "way_area": "0.348486",
+      "wikidata": "Q2443752",
+      "wikipedia": "fr:Mayo-Louti",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -2750664,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2750662,-192830",
+    "name": "Faro",
+    "local_name": "Faro",
+    "name_en": null,
+    "all_tags": {
+      "name": "Faro",
+      "ref:COG": "NO03",
+      "boundary": "administrative",
+      "way_area": "0.959462",
+      "wikidata": "Q2443138",
+      "wikipedia": "fr:Faro (département)",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -2750663,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2750662,-192830",
+    "name": "Bénoué",
+    "local_name": "Bénoué",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bénoué",
+      "name:ar": "بينوي",
+      "ref:COG": "NO01",
+      "boundary": "administrative",
+      "way_area": "1.12446",
+      "wikidata": "Q2442627",
+      "wikipedia": "fr:Bénoué (département)",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -2750662,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192830",
+    "name": "North",
+    "local_name": "Nord",
+    "name_en": "North",
+    "all_tags": {
+      "name": "Nord",
+      "name:ar": "الشمال",
+      "name:en": "North",
+      "name:ru": "Северный регион",
+      "ref:COG": "NO",
+      "boundary": "administrative",
+      "way_area": "5.43174",
+      "wikidata": "Q502341",
+      "ISO3166-2": "CM-NO",
+      "wikipedia": "fr:Région du Nord (Cameroun)",
+      "short_name": "NO",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -2750416,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2749663,-192830",
+    "name": "Mayo-Tsanaga",
+    "local_name": "Mayo-Tsanaga",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mayo-Tsanaga",
+      "ref:COG": "EN06",
+      "boundary": "administrative",
+      "way_area": "0.361357",
+      "wikidata": "Q2443777",
+      "wikipedia": "fr:Mayo-Tsanaga",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -2750415,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2749663,-192830",
+    "name": "Mayo-Sava",
+    "local_name": "Mayo-Sava",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mayo-Sava",
+      "name:ar": "مايو سافا",
+      "ref:COG": "EN05",
+      "boundary": "administrative",
+      "way_area": "0.21771",
+      "wikidata": "Q613340",
+      "wikipedia": "fr:Mayo-Sava",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -2750414,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2749663,-192830",
+    "name": "Mayo-Kani",
+    "local_name": "Mayo-Kani",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mayo-Kani",
+      "name:ar": "مايو كاني",
+      "ref:COG": "EN04",
+      "boundary": "administrative",
+      "way_area": "0.412408",
+      "wikidata": "Q2444363",
+      "wikipedia": "fr:Mayo-Kani",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -2750413,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2749663,-192830",
+    "name": "Mayo-Danay",
+    "local_name": "Mayo-Danay",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mayo-Danay",
+      "ref:COG": "EN03",
+      "boundary": "administrative",
+      "way_area": "0.438625",
+      "wikidata": "Q2444290",
+      "wikipedia": "fr:Mayo-Danay",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -2750412,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2749663,-192830",
+    "name": "Logone-et-Chari",
+    "local_name": "Logone-et-Chari",
+    "name_en": null,
+    "all_tags": {
+      "name": "Logone-et-Chari",
+      "name:ar": "لوقون وشاري",
+      "ref:COG": "EN02",
+      "boundary": "administrative",
+      "way_area": "1.00252",
+      "wikidata": "Q576311",
+      "wikipedia": "fr:Logone-et-Chari",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -2750411,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2749663,-192830",
+    "name": "Diamaré",
+    "local_name": "Diamaré",
+    "name_en": null,
+    "all_tags": {
+      "name": "Diamaré",
+      "name:ar": "دياماري",
+      "ref:COG": "EN01",
+      "boundary": "administrative",
+      "way_area": "0.393608",
+      "wikidata": "Q2583656",
+      "wikipedia": "fr:Diamaré",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -2749663,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192830",
+    "name": "Far-North",
+    "local_name": "Extrême-Nord",
+    "name_en": "Far-North",
+    "all_tags": {
+      "name": "Extrême-Nord",
+      "name:ar": "الشمال الأقصى",
+      "name:de": "Hoher Norden",
+      "name:en": "Far-North",
+      "ref:COG": "EN",
+      "boundary": "administrative",
+      "way_area": "2.82623",
+      "wikidata": "Q823976",
+      "ISO3166-2": "CM-EN",
+      "wikipedia": "fr:Région de l'Extrême-Nord (Cameroun)",
+      "short_name": "EN",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -2746230,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-2750789,-192830",
+    "name": "Mfoundi",
+    "local_name": "Mfoundi",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mfoundi",
+      "ref:COG": "CE01",
+      "boundary": "administrative",
+      "way_area": "0.0235465",
+      "wikidata": "Q2445046",
+      "wikipedia": "fr:Mfoundi",
+      "admin_level": "6"
+    }
+  }
+]

@@ -1,0 +1,204 @@
+[
+  {
+    "osm_id": -2325659,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-307823",
+    "name": "Saint Peter Parish",
+    "local_name": "Saint Peter Parish",
+    "name_en": null,
+    "all_tags": {
+      "name": "Saint Peter Parish",
+      "is_in": "Dominica",
+      "boundary": "administrative",
+      "way_area": "0.00275296",
+      "wikidata": "Q1476294",
+      "ISO3166-2": "DM-11",
+      "wikipedia": "en:Saint Peter Parish, Dominica",
+      "population": "1427",
+      "admin_level": "4",
+      "border_type": "parish"
+    }
+  },
+  {
+    "osm_id": -2325658,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-307823",
+    "name": "Saint Joseph Parish",
+    "local_name": "Saint Joseph Parish",
+    "name_en": null,
+    "all_tags": {
+      "name": "Saint Joseph Parish",
+      "is_in": "Dominica",
+      "boundary": "administrative",
+      "way_area": "0.0104543",
+      "wikidata": "Q1476302",
+      "ISO3166-2": "DM-06",
+      "wikipedia": "en:Saint Joseph Parish, Dominica",
+      "population": "5626",
+      "admin_level": "4",
+      "border_type": "parish"
+    }
+  },
+  {
+    "osm_id": -2325657,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-307823",
+    "name": "Saint Paul Parish",
+    "local_name": "Saint Paul Parish",
+    "name_en": null,
+    "all_tags": {
+      "name": "Saint Paul Parish",
+      "boundary": "administrative",
+      "way_area": "0.00550817",
+      "wikidata": "Q339063",
+      "ISO3166-2": "DM-10",
+      "wikipedia": "en:Saint Paul Parish, Dominica",
+      "population": "9658",
+      "admin_level": "4",
+      "border_type": "parish"
+    }
+  },
+  {
+    "osm_id": -2315070,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-307823",
+    "name": "Saint John Parish",
+    "local_name": "Saint John Parish",
+    "name_en": null,
+    "all_tags": {
+      "name": "Saint John Parish",
+      "is_in": "Dominica",
+      "boundary": "administrative",
+      "way_area": "0.00465448",
+      "wikidata": "Q1476285",
+      "ISO3166-2": "DM-05",
+      "wikipedia": "en:Saint John Parish, Dominica",
+      "population": "6529",
+      "admin_level": "4",
+      "border_type": "parish"
+    }
+  },
+  {
+    "osm_id": -2315027,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-307823",
+    "name": "Saint Andrew Parish",
+    "local_name": "Saint Andrew Parish",
+    "name_en": null,
+    "all_tags": {
+      "name": "Saint Andrew Parish",
+      "is_in": "Dominica",
+      "name:zh": "聖安德魯區",
+      "boundary": "administrative",
+      "way_area": "0.0156367",
+      "wikidata": "Q732322",
+      "ISO3166-2": "DM-02",
+      "wikipedia": "en:Saint Andrew Parish, Dominica",
+      "population": "9437",
+      "admin_level": "4",
+      "border_type": "parish"
+    }
+  },
+  {
+    "osm_id": -2314472,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-307823",
+    "name": "Saint David Parish",
+    "local_name": "Saint David Parish",
+    "name_en": null,
+    "all_tags": {
+      "name": "Saint David Parish",
+      "boundary": "administrative",
+      "way_area": "0.0108016",
+      "wikidata": "Q1431129",
+      "ISO3166-2": "DM-03",
+      "wikipedia": "en:Saint David Parish, Dominica",
+      "population": "6043",
+      "admin_level": "4",
+      "border_type": "parish"
+    }
+  },
+  {
+    "osm_id": -2306401,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-307823",
+    "name": "Saint Luke Parish",
+    "local_name": "Saint Luke Parish",
+    "name_en": null,
+    "all_tags": {
+      "name": "Saint Luke Parish",
+      "boundary": "administrative",
+      "way_area": "0.000690727",
+      "wikidata": "Q1431099",
+      "ISO3166-2": "DM-07",
+      "wikipedia": "en:Saint Luke Parish, Dominica",
+      "population": "1664",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -2306400,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-307823",
+    "name": "Saint Mark Parish",
+    "local_name": "Saint Mark Parish",
+    "name_en": null,
+    "all_tags": {
+      "name": "Saint Mark Parish",
+      "boundary": "administrative",
+      "way_area": "0.000852933",
+      "wikidata": "Q1431115",
+      "ISO3166-2": "DM-08",
+      "wikipedia": "en:Saint Mark Parish, Dominica",
+      "population": "1829",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -2304770,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-307823",
+    "name": "Saint Patrick Parish",
+    "local_name": "Saint Patrick Parish",
+    "name_en": null,
+    "all_tags": {
+      "name": "Saint Patrick Parish",
+      "is_in": "Dominica",
+      "boundary": "administrative",
+      "way_area": "0.00726456",
+      "wikidata": "Q1431108",
+      "ISO3166-2": "DM-09",
+      "wikipedia": "en:Saint Patrick Parish, Dominica",
+      "population": "7606",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -1793745,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-307823",
+    "name": "Saint George Parish",
+    "local_name": "Saint George Parish",
+    "name_en": null,
+    "all_tags": {
+      "name": "Saint George Parish",
+      "boundary": "administrative",
+      "way_area": "0.00464038",
+      "wikidata": "Q617801",
+      "ISO3166-2": "DM-04",
+      "wikipedia": "en:Saint George Parish, Dominica",
+      "population": "20920",
+      "admin_level": "4"
+    }
+  }
+]

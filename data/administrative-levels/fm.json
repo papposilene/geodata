@@ -1,0 +1,81 @@
+[
+  {
+    "osm_id": -3819481,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-571802",
+    "name": "Pohnpei",
+    "local_name": "Pohnpei",
+    "name_en": null,
+    "all_tags": {
+      "name": "Pohnpei",
+      "name:es": "Ponapé",
+      "name:hu": "Pohnpei",
+      "name:ru": "Понпеи",
+      "boundary": "administrative",
+      "timezone": "Pacific/Pohnpei",
+      "way_area": "1.98774",
+      "wikidata": "Q7771127",
+      "ISO3166-2": "FM-PNI",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -3819480,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-571802",
+    "name": "Kosrae",
+    "local_name": "Kosrae",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kosrae",
+      "place": "state",
+      "name:hu": "Kosrae",
+      "name:ru": "Косраэ",
+      "boundary": "administrative",
+      "timezone": "Pacific/Kosrae",
+      "way_area": "0.219683",
+      "wikidata": "Q1785093",
+      "ISO3166-2": "FM-KSA",
+      "wikipedia": "de:Kosrae (Bundesstaat)",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -3819479,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-571802",
+    "name": "Chuuk",
+    "local_name": "Chuuk",
+    "name_en": null,
+    "all_tags": {
+      "name": "Chuuk",
+      "boundary": "administrative",
+      "timezone": "Pacific/Chuuk",
+      "way_area": "3.2001",
+      "wikidata": "Q221684",
+      "ISO3166-2": "FM-TRK",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -3819422,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-571802",
+    "name": "Yap",
+    "local_name": "Yap",
+    "name_en": null,
+    "all_tags": {
+      "name": "Yap",
+      "boundary": "administrative",
+      "timezone": "Pacific/Chuuk",
+      "way_area": "2.93833",
+      "wikidata": "Q11342951",
+      "ISO3166-2": "FM-YAP",
+      "admin_level": "4"
+    }
+  }
+]

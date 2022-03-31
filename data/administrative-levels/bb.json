@@ -1,0 +1,189 @@
+[
+  {
+    "osm_id": -3961988,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-547511",
+    "name": "Saint George",
+    "local_name": "Saint George",
+    "name_en": null,
+    "all_tags": {
+      "name": "Saint George",
+      "boundary": "administrative",
+      "way_area": "0.00369552",
+      "wikidata": "Q1647443",
+      "ISO3166-2": "BB-03",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -3961387,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-547511",
+    "name": "Saint Thomas",
+    "local_name": "Saint Thomas",
+    "name_en": null,
+    "all_tags": {
+      "name": "Saint Thomas",
+      "boundary": "administrative",
+      "way_area": "0.00272857",
+      "wikidata": "Q1647432",
+      "ISO3166-2": "BB-11",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -3961386,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-547511",
+    "name": "Saint Philip",
+    "local_name": "Saint Philip",
+    "name_en": null,
+    "all_tags": {
+      "name": "Saint Philip",
+      "boundary": "administrative",
+      "way_area": "0.00503175",
+      "wikidata": "Q1647436",
+      "ISO3166-2": "BB-10",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -3961385,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-547511",
+    "name": "Saint Peter",
+    "local_name": "Saint Peter",
+    "name_en": null,
+    "all_tags": {
+      "name": "Saint Peter",
+      "boundary": "administrative",
+      "way_area": "0.00261247",
+      "wikidata": "Q932723",
+      "ISO3166-2": "BB-09",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -3961384,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-547511",
+    "name": "Saint Michael",
+    "local_name": "Saint Michael",
+    "name_en": null,
+    "all_tags": {
+      "name": "Saint Michael",
+      "boundary": "administrative",
+      "way_area": "0.00324454",
+      "wikidata": "Q819170",
+      "ISO3166-2": "BB-08",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -3961383,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-547511",
+    "name": "Saint Lucy",
+    "local_name": "Saint Lucy",
+    "name_en": null,
+    "all_tags": {
+      "name": "Saint Lucy",
+      "boundary": "administrative",
+      "way_area": "0.00292702",
+      "wikidata": "Q1647447",
+      "ISO3166-2": "BB-07",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -3961382,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-547511",
+    "name": "Saint Joseph",
+    "local_name": "Saint Joseph",
+    "name_en": null,
+    "all_tags": {
+      "name": "Saint Joseph",
+      "boundary": "administrative",
+      "way_area": "0.00222497",
+      "wikidata": "Q550249",
+      "ISO3166-2": "BB-06",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -3961381,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-547511",
+    "name": "Saint John",
+    "local_name": "Saint John",
+    "name_en": null,
+    "all_tags": {
+      "name": "Saint John",
+      "boundary": "administrative",
+      "way_area": "0.00288486",
+      "wikidata": "Q1626540",
+      "ISO3166-2": "BB-05",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -3961380,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-547511",
+    "name": "Saint James",
+    "local_name": "Saint James",
+    "name_en": null,
+    "all_tags": {
+      "name": "Saint James",
+      "boundary": "administrative",
+      "way_area": "0.00296077",
+      "wikidata": "Q592141",
+      "ISO3166-2": "BB-04",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -3961379,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-547511",
+    "name": "Saint Andrew",
+    "local_name": "Saint Andrew",
+    "name_en": null,
+    "all_tags": {
+      "name": "Saint Andrew",
+      "boundary": "administrative",
+      "way_area": "0.00271178",
+      "wikidata": "Q1647439",
+      "ISO3166-2": "BB-02",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -3961378,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-547511",
+    "name": "Christ Church",
+    "local_name": "Christ Church",
+    "name_en": null,
+    "all_tags": {
+      "name": "Christ Church",
+      "boundary": "administrative",
+      "way_area": "0.00507561",
+      "wikidata": "Q1626524",
+      "ISO3166-2": "BB-01",
+      "admin_level": "6"
+    }
+  }
+]

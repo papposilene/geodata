@@ -1,0 +1,1150 @@
+[
+  {
+    "osm_id": -13067455,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-2892079,-192775",
+    "name": "Département de Keur Massar",
+    "local_name": "Département de Keur Massar",
+    "name_en": null,
+    "all_tags": {
+      "name": "Département de Keur Massar",
+      "boundary": "administrative",
+      "way_area": "0.00489254",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -13052902,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-3405109,-192775",
+    "name": "Département de Tambacounda",
+    "local_name": "Département de Tambacounda",
+    "name_en": null,
+    "all_tags": {
+      "name": "Département de Tambacounda",
+      "boundary": "administrative",
+      "way_area": "1.13798",
+      "wikidata": "Q2086236",
+      "wikipedia": "fr:Département de Tambacounda",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -13052901,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-3405109,-192775",
+    "name": "Département de Koumpentoum",
+    "local_name": "Département de Koumpentoum",
+    "name_en": null,
+    "all_tags": {
+      "name": "Département de Koumpentoum",
+      "boundary": "administrative",
+      "way_area": "0.528432",
+      "wikidata": "Q2086832",
+      "wikipedia": "fr:Département de Koumpentoum",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -13052421,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-3405109,-192775",
+    "name": "Département de Goudiry",
+    "local_name": "Département de Goudiry",
+    "name_en": null,
+    "all_tags": {
+      "name": "Département de Goudiry",
+      "boundary": "administrative",
+      "way_area": "1.3375",
+      "wikidata": "Q2075487",
+      "wikipedia": "fr:Département de Goudiry",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -13049761,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-3405109,-192775",
+    "name": "Département de Bakel",
+    "local_name": "Département de Bakel",
+    "name_en": null,
+    "all_tags": {
+      "name": "Département de Bakel",
+      "boundary": "administrative",
+      "way_area": "0.526165",
+      "wikidata": "Q429338",
+      "wikipedia": "fr:Département de Bakel",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -13008539,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-2738475,-192775",
+    "name": "Département de Saraya",
+    "local_name": "Département de Saraya",
+    "name_en": null,
+    "all_tags": {
+      "name": "Département de Saraya",
+      "boundary": "administrative",
+      "way_area": "0.619229",
+      "wikidata": "Q942594",
+      "wikipedia": "fr:Département de Saraya",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -13008538,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-2738475,-192775",
+    "name": "Département de Kédougou",
+    "local_name": "Département de Kédougou",
+    "name_en": null,
+    "all_tags": {
+      "name": "Département de Kédougou",
+      "boundary": "administrative",
+      "way_area": "0.61573",
+      "wikidata": "Q2083190",
+      "wikipedia": "fr:Département de Kédougou",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -13008231,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-2738475,-192775",
+    "name": "Département de Salemata",
+    "local_name": "Département de Salemata",
+    "name_en": null,
+    "all_tags": {
+      "name": "Département de Salemata",
+      "boundary": "administrative",
+      "way_area": "0.163331",
+      "wikidata": "Q2075446",
+      "wikipedia": "fr:Département de Salemata",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -13006069,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-3405492,-192775",
+    "name": "Département de Kanel",
+    "local_name": "Département de Kanel",
+    "name_en": null,
+    "all_tags": {
+      "name": "Département de Kanel",
+      "boundary": "administrative",
+      "way_area": "0.730561",
+      "wikidata": "Q2085269",
+      "wikipedia": "fr:Département de Kanel",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -13006068,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-3405492,-192775",
+    "name": "Département de Matam",
+    "local_name": "Département de Matam",
+    "name_en": null,
+    "all_tags": {
+      "name": "Département de Matam",
+      "boundary": "administrative",
+      "way_area": "0.511412",
+      "wikidata": "Q2085162",
+      "wikipedia": "fr:Département de Matam",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -13006067,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-3405492,-192775",
+    "name": "Département de Ranérou-Ferlo",
+    "local_name": "Département de Ranérou-Ferlo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Département de Ranérou-Ferlo",
+      "boundary": "administrative",
+      "way_area": "1.2142",
+      "wikidata": "Q2085443",
+      "wikipedia": "fr:Département de Ranérou-Ferlo",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -12992892,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-3405262,-192775",
+    "name": "Département de Kaffrine",
+    "local_name": "Département de Kaffrine",
+    "name_en": null,
+    "all_tags": {
+      "name": "Département de Kaffrine",
+      "boundary": "administrative",
+      "way_area": "0.216572",
+      "wikidata": "Q2068509",
+      "wikipedia": "fr:Département de Kaffrine",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -12992880,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-3405262,-192775",
+    "name": "Département de Malem Hodar",
+    "local_name": "Département de Malem Hodar",
+    "name_en": null,
+    "all_tags": {
+      "name": "Département de Malem Hodar",
+      "boundary": "administrative",
+      "way_area": "0.228774",
+      "wikidata": "Q2075437",
+      "wikipedia": "fr:Département de Malem Hodar",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -12992871,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-3405262,-192775",
+    "name": "Département de Koungheul",
+    "local_name": "Département de Koungheul",
+    "name_en": null,
+    "all_tags": {
+      "name": "Département de Koungheul",
+      "boundary": "administrative",
+      "way_area": "0.401953",
+      "wikidata": "Q929723",
+      "wikipedia": "fr:Département de Koungheul",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -12992858,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-3405262,-192775",
+    "name": "Département de Birkelane",
+    "local_name": "Département de Birkelane",
+    "name_en": null,
+    "all_tags": {
+      "name": "Département de Birkelane",
+      "boundary": "administrative",
+      "way_area": "0.105467",
+      "wikidata": "Q2068560",
+      "wikipedia": "fr:Département de Birkelane",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -12992030,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-3405263,-192775",
+    "name": "Département de Nioro du Rip",
+    "local_name": "Département de Nioro du Rip",
+    "name_en": null,
+    "all_tags": {
+      "name": "Département de Nioro du Rip",
+      "boundary": "administrative",
+      "way_area": "0.185151",
+      "wikidata": "Q2083026",
+      "wikipedia": "fr:Département de Nioro du Rip",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -12992029,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-3405263,-192775",
+    "name": "Département de Kaolack",
+    "local_name": "Département de Kaolack",
+    "name_en": null,
+    "all_tags": {
+      "name": "Département de Kaolack",
+      "boundary": "administrative",
+      "way_area": "0.162418",
+      "wikidata": "Q2082914",
+      "wikipedia": "fr:Département de Kaolack",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -12989768,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-2908218,-192775",
+    "name": "Département de Foundiougne",
+    "local_name": "Département de Foundiougne",
+    "name_en": null,
+    "all_tags": {
+      "name": "Département de Foundiougne",
+      "boundary": "administrative",
+      "way_area": "0.256844",
+      "wikidata": "Q2068339",
+      "wikipedia": "fr:Département de Foundiougne",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -12989767,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-2908218,-192775",
+    "name": "Département de Fatick",
+    "local_name": "Département de Fatick",
+    "name_en": null,
+    "all_tags": {
+      "name": "Département de Fatick",
+      "boundary": "administrative",
+      "way_area": "0.230574",
+      "wikidata": "Q2068250",
+      "wikipedia": "fr:Département de Fatick",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -12989766,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-2908218,-192775",
+    "name": "Département de Gossas",
+    "local_name": "Département de Gossas",
+    "name_en": null,
+    "all_tags": {
+      "name": "Département de Gossas",
+      "boundary": "administrative",
+      "way_area": "0.104243",
+      "wikidata": "Q2068411",
+      "wikipedia": "fr:Département de Gossas",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -12989765,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-3405263,-192775",
+    "name": "Département de Guinguinéo",
+    "local_name": "Département de Guinguinéo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Département de Guinguinéo",
+      "boundary": "administrative",
+      "way_area": "0.0974674",
+      "wikidata": "Q932767",
+      "wikipedia": "fr:Département de Guinguinéo",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -12989764,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-2908186,-192775",
+    "name": "Département de Mbacké",
+    "local_name": "Département de Mbacké",
+    "name_en": null,
+    "all_tags": {
+      "name": "Département de Mbacké",
+      "boundary": "administrative",
+      "way_area": "0.173294",
+      "wikidata": "Q2068182",
+      "wikipedia": "fr:Département de Mbacké",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -12989763,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-2908186,-192775",
+    "name": "Département de Diourbel",
+    "local_name": "Département de Diourbel",
+    "name_en": null,
+    "all_tags": {
+      "name": "Département de Diourbel",
+      "boundary": "administrative",
+      "way_area": "0.108177",
+      "wikidata": "Q2068102",
+      "wikipedia": "fr:Département de Diourbel",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -12989762,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-2908186,-192775",
+    "name": "Département de Bambey",
+    "local_name": "Département de Bambey",
+    "name_en": null,
+    "all_tags": {
+      "name": "Département de Bambey",
+      "boundary": "administrative",
+      "way_area": "0.111754",
+      "wikidata": "Q2067986",
+      "wikipedia": "fr:Département de Bambey",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -12989761,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-2908172,-192775",
+    "name": "Département de Louga",
+    "local_name": "Département de Louga",
+    "name_en": null,
+    "all_tags": {
+      "name": "Département de Louga",
+      "boundary": "administrative",
+      "way_area": "0.477399",
+      "wikidata": "Q1976570",
+      "wikipedia": "fr:Département de Louga",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -12989760,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-2908172,-192775",
+    "name": "Département de Kébémer",
+    "local_name": "Département de Kébémer",
+    "name_en": null,
+    "all_tags": {
+      "name": "Département de Kébémer",
+      "boundary": "administrative",
+      "way_area": "0.321769",
+      "wikidata": "Q2086510",
+      "wikipedia": "fr:Département de Kébémer",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -12989759,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-2908172,-192775",
+    "name": "Département de Linguère",
+    "local_name": "Département de Linguère",
+    "name_en": null,
+    "all_tags": {
+      "name": "Département de Linguère",
+      "boundary": "administrative",
+      "way_area": "1.33436",
+      "wikidata": "Q2084742",
+      "wikipedia": "fr:Département de Linguère",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -12982308,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-2906477,-192775",
+    "name": "Département de M'bour",
+    "local_name": "Département de M'bour",
+    "name_en": null,
+    "all_tags": {
+      "name": "Département de M'bour",
+      "boundary": "administrative",
+      "way_area": "0.155962",
+      "wikidata": "Q2086960",
+      "wikipedia": "fr:Département de M'bour",
+      "admin_level": "5",
+      "alt_name:fr": "Département de Mbour"
+    }
+  },
+  {
+    "osm_id": -12982306,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-2906477,-192775",
+    "name": "Département de Thiès",
+    "local_name": "Département de Thiès",
+    "name_en": null,
+    "all_tags": {
+      "name": "Département de Thiès",
+      "boundary": "administrative",
+      "way_area": "0.137172",
+      "wikidata": "Q2087146",
+      "wikipedia": "fr:Département de Thiès",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -12982305,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-2906477,-192775",
+    "name": "Département de Tivaouane",
+    "local_name": "Département de Tivaouane",
+    "name_en": null,
+    "all_tags": {
+      "name": "Département de Tivaouane",
+      "boundary": "administrative",
+      "way_area": "0.269051",
+      "wikidata": "Q2087361",
+      "wikipedia": "fr:Département de Tivaouane",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -12982166,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-2892079,-192775",
+    "name": "Rufisque Department",
+    "local_name": "Département de Rufisque",
+    "name_en": "Rufisque Department",
+    "all_tags": {
+      "name": "Département de Rufisque",
+      "place": "department",
+      "name:ar": "مقاطعة روفيسك",
+      "name:en": "Rufisque Department",
+      "name:fa": "دپارتمان روفیسک",
+      "boundary": "administrative",
+      "way_area": "0.0319946",
+      "wikidata": "Q2067770",
+      "wikipedia": "fr:Département de Rufisque",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -12982152,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-2892079,-192775",
+    "name": "Pikine Department",
+    "local_name": "Département de Pikine",
+    "name_en": "Pikine Department",
+    "all_tags": {
+      "name": "Département de Pikine",
+      "place": "department",
+      "name:ar": "مقاطعة بيكين",
+      "name:en": "Pikine Department",
+      "name:fa": "دپارتمان پیکین",
+      "boundary": "administrative",
+      "way_area": "0.00380134",
+      "wikidata": "Q255486",
+      "wikipedia": "fr:Département de Pikine",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -12982146,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-2892079,-192775",
+    "name": "Guédiawaye Department",
+    "local_name": "Département de Guédiawaye",
+    "name_en": "Guédiawaye Department",
+    "all_tags": {
+      "name": "Département de Guédiawaye",
+      "place": "department",
+      "name:ar": "مقاطعة جديوي",
+      "name:en": "Guédiawaye Department",
+      "name:fa": "دپارتمان گدیوی",
+      "boundary": "administrative",
+      "way_area": "0.00205161",
+      "wikidata": "Q957409",
+      "wikipedia": "fr:Guédiawaye (département)",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -12982139,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-2892079,-192775",
+    "name": "Dakar",
+    "local_name": "Dakar",
+    "name_en": "Dakar",
+    "all_tags": {
+      "name": "Dakar",
+      "place": "city",
+      "name:ar": "داكار",
+      "name:en": "Dakar",
+      "name:fa": "داکار",
+      "name:fr": "Dakar",
+      "boundary": "administrative",
+      "way_area": "0.00924701",
+      "wikidata": "Q2066372",
+      "wikipedia": "fr:Département de Dakar",
+      "admin_level": "5",
+      "official_name:ar": "مقاطعة داكار",
+      "official_name:en": "Dakar Department",
+      "official_name:fa": "دپارتمان داکار",
+      "official_name:fr": "Département de Dakar"
+    }
+  },
+  {
+    "osm_id": -8759695,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-3405108,-192775",
+    "name": "Département de Vélingara",
+    "local_name": "Département de Vélingara",
+    "name_en": null,
+    "all_tags": {
+      "name": "Département de Vélingara",
+      "boundary": "administrative",
+      "way_area": "0.462813",
+      "wikidata": "Q2084519",
+      "wikipedia": "fr:Département de Vélingara",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -8759644,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-3405259,-192775",
+    "name": "Département de Sédhiou",
+    "local_name": "Département de Sédhiou",
+    "name_en": null,
+    "all_tags": {
+      "name": "Département de Sédhiou",
+      "boundary": "administrative",
+      "way_area": "0.227816",
+      "wikidata": "Q2066333",
+      "wikipedia": "fr:Département de Sédhiou",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -8759643,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-3405259,-192775",
+    "name": "Département de Bounkiling",
+    "local_name": "Département de Bounkiling",
+    "name_en": null,
+    "all_tags": {
+      "name": "Département de Bounkiling",
+      "boundary": "administrative",
+      "way_area": "0.24051",
+      "wikidata": "Q2066229",
+      "wikipedia": "fr:Département de Bounkiling",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -5593899,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-2909649,-192775",
+    "name": "Département d'Oussouye",
+    "local_name": "Département d'Oussouye",
+    "name_en": null,
+    "all_tags": {
+      "name": "Département d'Oussouye",
+      "boundary": "administrative",
+      "way_area": "0.07351",
+      "wikidata": "Q2087689",
+      "wikipedia": "fr:Département d'Oussouye",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -5568936,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-2909649,-192775",
+    "name": "Département de Ziguinchor",
+    "local_name": "Département de Ziguinchor",
+    "name_en": null,
+    "all_tags": {
+      "name": "Département de Ziguinchor",
+      "boundary": "administrative",
+      "way_area": "0.0936772",
+      "wikidata": "Q2087556",
+      "wikipedia": "fr:Département de Ziguinchor",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -5568664,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-2909649,-192775",
+    "name": "Département de Bignona",
+    "local_name": "Département de Bignona",
+    "name_en": null,
+    "all_tags": {
+      "name": "Département de Bignona",
+      "boundary": "administrative",
+      "way_area": "0.443163",
+      "wikidata": "Q2087854",
+      "wikipedia": "fr:Département de Bignona",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -5560444,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-3405108,-192775",
+    "name": "Département de Kolda",
+    "local_name": "Département de Kolda",
+    "name_en": null,
+    "all_tags": {
+      "name": "Département de Kolda",
+      "boundary": "administrative",
+      "way_area": "0.300172",
+      "wikidata": "Q2084154",
+      "wikipedia": "fr:Département de Kolda",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -5559573,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-3405259,-192775",
+    "name": "Département de Goudomp",
+    "local_name": "Département de Goudomp",
+    "name_en": null,
+    "all_tags": {
+      "name": "Département de Goudomp",
+      "boundary": "administrative",
+      "way_area": "0.143738",
+      "wikidata": "Q2066279",
+      "wikipedia": "fr:Département de Goudomp",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -5557141,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-3405108,-192775",
+    "name": "Département de Médina Yoro Foulah",
+    "local_name": "Département de Médina Yoro Foulah",
+    "name_en": null,
+    "all_tags": {
+      "name": "Département de Médina Yoro Foulah",
+      "boundary": "administrative",
+      "way_area": "0.392102",
+      "wikidata": "Q2082655",
+      "wikipedia": "fr:Département de Médina Yoro Foulah",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -3405492,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192775",
+    "name": "Matam Region",
+    "local_name": "Région de Matam",
+    "name_en": "Matam Region",
+    "all_tags": {
+      "name": "Région de Matam",
+      "place": "region",
+      "name:ar": "ماتام",
+      "name:de": "Region Matam",
+      "name:en": "Matam Region",
+      "name:es": "Matam",
+      "name:fr": "Matam",
+      "boundary": "administrative",
+      "way_area": "2.45618",
+      "wikidata": "Q856275",
+      "ISO3166-2": "SN-MT",
+      "wikipedia": "en:Matam Region",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -3405263,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192775",
+    "name": "Kaolack Region",
+    "local_name": "Région de Kaolack",
+    "name_en": "Kaolack Region",
+    "all_tags": {
+      "name": "Région de Kaolack",
+      "place": "region",
+      "name:ar": "منطقة كاولاك",
+      "name:de": "Region Kaolack",
+      "name:en": "Kaolack Region",
+      "name:es": "Kaolack",
+      "name:fr": "Région de Kaolack",
+      "boundary": "administrative",
+      "way_area": "0.445036",
+      "wikidata": "Q847671",
+      "ISO3166-2": "SN-KL",
+      "wikipedia": "en:Kaolack Region",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -3405262,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192775",
+    "name": "Kaffrine Region",
+    "local_name": "Région de Kaffrine",
+    "name_en": "Kaffrine Region",
+    "all_tags": {
+      "name": "Région de Kaffrine",
+      "place": "region",
+      "name:de": "Region Kaffrine",
+      "name:en": "Kaffrine Region",
+      "name:es": "Kaffrine",
+      "name:fr": "Région de Kaffrine",
+      "boundary": "administrative",
+      "way_area": "0.952766",
+      "wikidata": "Q1059694",
+      "ISO3166-2": "SN-KA",
+      "wikipedia": "en:Kaffrine Region",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -3405259,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192775",
+    "name": "Sédhiou Region",
+    "local_name": "Région de Sédhiou",
+    "name_en": "Sédhiou Region",
+    "all_tags": {
+      "name": "Région de Sédhiou",
+      "place": "region",
+      "name:de": "Region Sédhiou",
+      "name:en": "Sédhiou Region",
+      "name:es": "Sédhiou",
+      "name:fr": "Région deSédhiou",
+      "boundary": "administrative",
+      "way_area": "0.612064",
+      "wikidata": "Q589848",
+      "ISO3166-2": "SN-SE",
+      "wikipedia": "fr:Sédhiou (région)",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -3405109,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192775",
+    "name": "Tambacounda Region",
+    "local_name": "Región de Tambacounda",
+    "name_en": "Tambacounda Region",
+    "all_tags": {
+      "name": "Región de Tambacounda",
+      "place": "region",
+      "name:ar": "تامباكوندا",
+      "name:de": "Region Tambacounda",
+      "name:en": "Tambacounda Region",
+      "name:es": "Región de Tambacounda",
+      "name:fr": "Región de Tambacounda",
+      "boundary": "administrative",
+      "way_area": "3.53008",
+      "wikidata": "Q848554",
+      "ISO3166-2": "SN-TC",
+      "wikipedia": "en:Tambacounda Region",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -3405108,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192775",
+    "name": "Kolda Region",
+    "local_name": "Région de Kolda",
+    "name_en": "Kolda Region",
+    "all_tags": {
+      "name": "Région de Kolda",
+      "place": "region",
+      "name:en": "Kolda Region",
+      "name:es": "Kolda",
+      "name:fr": "Kolda",
+      "boundary": "administrative",
+      "way_area": "1.15509",
+      "wikidata": "Q738081",
+      "ISO3166-2": "SN-KD",
+      "wikipedia": "fr:Kolda (région)",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -3046985,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-3046921,-192775",
+    "name": "Département de Saint-Louis",
+    "local_name": "Département de Saint-Louis",
+    "name_en": null,
+    "all_tags": {
+      "name": "Département de Saint-Louis",
+      "name:ar": "سانت لويس",
+      "boundary": "administrative",
+      "way_area": "0.0683431",
+      "wikidata": "Q2066134",
+      "wikipedia": "fr:Département de Saint-Louis",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -3046984,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-3046921,-192775",
+    "name": "Département de Podor",
+    "local_name": "Département de Podor",
+    "name_en": null,
+    "all_tags": {
+      "name": "Département de Podor",
+      "name:ar": "مقاطعة بودور",
+      "boundary": "administrative",
+      "way_area": "1.09271",
+      "wikidata": "Q2066068",
+      "wikipedia": "fr:Département de Podor",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -3046983,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-3046921,-192775",
+    "name": "Département de Dagana",
+    "local_name": "Département de Dagana",
+    "name_en": null,
+    "all_tags": {
+      "name": "Département de Dagana",
+      "name:ar": "داغانا",
+      "boundary": "administrative",
+      "way_area": "0.443072",
+      "wikidata": "Q3044632",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -3046921,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192775",
+    "name": "Saint-Louis Region",
+    "local_name": "Région de Saint-Louis",
+    "name_en": "Saint-Louis Region",
+    "all_tags": {
+      "name": "Région de Saint-Louis",
+      "place": "region",
+      "name:ar": "سانت لويس",
+      "name:de": "Region Saint-Louis",
+      "name:en": "Saint-Louis Region",
+      "name:es": "Saint-Louis",
+      "name:fr": "Saint-Louis",
+      "boundary": "administrative",
+      "way_area": "1.60413",
+      "wikidata": "Q178872",
+      "ISO3166-2": "SN-SL",
+      "wikipedia": "en:Saint-Louis Region",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -2909649,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192775",
+    "name": "Ziguinchor Region",
+    "local_name": "Région de Ziguinchor",
+    "name_en": "Ziguinchor Region",
+    "all_tags": {
+      "ref": "SN-ZG",
+      "name": "Région de Ziguinchor",
+      "place": "region",
+      "name:ar": "زيغنشور",
+      "name:de": "Region Ziguinchor",
+      "name:en": "Ziguinchor Region",
+      "name:es": "Región de Ziguinchor",
+      "name:fr": "Région de Ziguinchor",
+      "name:ur": "زیگینچور",
+      "boundary": "administrative",
+      "way_area": "0.61035",
+      "wikidata": "Q822692",
+      "ISO3166-2": "SN-ZG",
+      "wikipedia": "fr:Ziguinchor (région)",
+      "admin_level": "4",
+      "alt_name:ar": "زيغينشور;زيجوينكور",
+      "official_name:ar": "إقليم زيغنشور"
+    }
+  },
+  {
+    "osm_id": -2908218,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192775",
+    "name": "Fatick Region",
+    "local_name": "Région de Fatick",
+    "name_en": "Fatick Region",
+    "all_tags": {
+      "name": "Région de Fatick",
+      "place": "region",
+      "name:ar": "فتيك",
+      "name:de": "Region Fatick",
+      "name:en": "Fatick Region",
+      "name:es": "Fatick",
+      "name:fr": "Fatick",
+      "alt_name": "Jinnak Bolon",
+      "boundary": "administrative",
+      "way_area": "0.591661",
+      "wikidata": "Q856282",
+      "ISO3166-2": "SN-FK",
+      "wikipedia": "en:Fatick Region",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -2908186,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192775",
+    "name": "Diourbel Region",
+    "local_name": "Région de Diourbel",
+    "name_en": "Diourbel Region",
+    "all_tags": {
+      "name": "Région de Diourbel",
+      "place": "region",
+      "name:ar": "ديوربل",
+      "name:de": "Region Diourbel",
+      "name:en": "Diourbel Region",
+      "name:es": "Diourbel",
+      "name:fr": "Diourbel",
+      "name:ur": "دیوربیل",
+      "boundary": "administrative",
+      "way_area": "0.393225",
+      "wikidata": "Q856261",
+      "ISO3166-2": "SN-DB",
+      "wikipedia": "fr:Diourbel (région)",
+      "admin_level": "4",
+      "alt_name:ar": "ديوربيل;ديوربِل",
+      "official_name:ar": "إقليم ديوربل"
+    }
+  },
+  {
+    "osm_id": -2908172,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192775",
+    "name": "Louga Region",
+    "local_name": "Région de Louga",
+    "name_en": "Louga Region",
+    "all_tags": {
+      "name": "Région de Louga",
+      "place": "region",
+      "name:ar": "لوغا",
+      "name:de": "Region Louga",
+      "name:en": "Louga Region",
+      "name:es": "Louga",
+      "name:fa": "لوگا",
+      "name:fr": "Louga",
+      "name:ur": "لؤگا",
+      "boundary": "administrative",
+      "way_area": "2.13353",
+      "wikidata": "Q738061",
+      "ISO3166-2": "SN-LG",
+      "wikipedia": "en:Louga Region",
+      "admin_level": "4",
+      "alt_name:ar": "لوجا",
+      "official_name:ar": "إقليم لوغا"
+    }
+  },
+  {
+    "osm_id": -2906477,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192775",
+    "name": "Thiès Region",
+    "local_name": "Région de Thiès",
+    "name_en": "Thiès Region",
+    "all_tags": {
+      "name": "Région de Thiès",
+      "place": "region",
+      "name:ar": "ثيس",
+      "name:de": "Region Thiès",
+      "name:en": "Thiès Region",
+      "name:es": "Thiès",
+      "name:fr": "Thiès",
+      "boundary": "administrative",
+      "way_area": "0.562185",
+      "wikidata": "Q847682",
+      "ISO3166-2": "SN-TH",
+      "wikipedia": "en:Thiès Region",
+      "admin_level": "4",
+      "alt_name:en": "Thies Region"
+    }
+  },
+  {
+    "osm_id": -2892079,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192775",
+    "name": "Dakar Region",
+    "local_name": "Région de Dakar",
+    "name_en": "Dakar Region",
+    "all_tags": {
+      "name": "Région de Dakar",
+      "place": "region",
+      "name:de": "Region Dakar",
+      "name:en": "Dakar Region",
+      "name:es": "Región de Dakar",
+      "name:fr": "Région de Dakar",
+      "boundary": "administrative",
+      "way_area": "0.0519872",
+      "wikidata": "Q856268",
+      "ISO3166-2": "SN-DK",
+      "wikipedia": "fr:Dakar (région)",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -2738475,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192775",
+    "name": "Kédougou Region",
+    "local_name": "Région de Kédougou",
+    "name_en": "Kédougou Region",
+    "all_tags": {
+      "name": "Région de Kédougou",
+      "place": "region",
+      "name:ar": "منطقة كيدوغو",
+      "name:en": "Kédougou Region",
+      "name:es": "Kédougou",
+      "name:fr": "Région de Kédougou",
+      "boundary": "administrative",
+      "way_area": "1.39829",
+      "wikidata": "Q1046666",
+      "ISO3166-2": "SN-KE",
+      "wikipedia": "en:Kédougou Region",
+      "admin_level": "4",
+      "short_name:ar": "كيدوغو"
+    }
+  }
+]

@@ -1,0 +1,99 @@
+[
+  {
+    "osm_id": -1061147,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-62269",
+    "name": "Glenfaba",
+    "local_name": "Glenfaba",
+    "name_en": null,
+    "all_tags": {
+      "name": "Glenfaba",
+      "boundary": "administrative",
+      "way_area": "0.0122951",
+      "wikidata": "Q432500",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -1061146,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-62269",
+    "name": "Middle",
+    "local_name": "Middle",
+    "name_en": null,
+    "all_tags": {
+      "name": "Middle",
+      "boundary": "administrative",
+      "way_area": "0.0166933",
+      "wikidata": "Q1145116",
+      "admin_level": "6",
+      "is_in:country": "Isle of Man"
+    }
+  },
+  {
+    "osm_id": -1061145,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-62269",
+    "name": "Garff",
+    "local_name": "Garff",
+    "name_en": null,
+    "all_tags": {
+      "name": "Garff",
+      "boundary": "administrative",
+      "way_area": "0.0104689",
+      "wikidata": "Q2759593",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -1061144,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-62269",
+    "name": "Ayre",
+    "local_name": "Ayre",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ayre",
+      "boundary": "administrative",
+      "way_area": "0.0159433",
+      "wikidata": "Q2484719",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -1061135,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-62269",
+    "name": "Rushen",
+    "local_name": "Rushen",
+    "name_en": null,
+    "all_tags": {
+      "name": "Rushen",
+      "boundary": "administrative",
+      "way_area": "0.0131772",
+      "wikidata": "Q2089477",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -1028022,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-62269",
+    "name": "Michael",
+    "local_name": "Michael",
+    "name_en": null,
+    "all_tags": {
+      "name": "Michael",
+      "boundary": "administrative",
+      "way_area": "0.0103702",
+      "wikidata": "Q3307970",
+      "admin_level": "6"
+    }
+  }
+]

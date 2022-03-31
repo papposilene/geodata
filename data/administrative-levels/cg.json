@@ -1,0 +1,867 @@
+[
+  {
+    "osm_id": -9316600,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-3947631,-192794",
+    "name": "Mvou-Mvou",
+    "local_name": "Mvou-Mvou",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mvou-Mvou",
+      "boundary": "administrative",
+      "way_area": "0.000422878",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -9316592,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-192794",
+    "name": "Ngoyo",
+    "local_name": "Ngoyo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ngoyo",
+      "boundary": "administrative",
+      "way_area": "0.00591026",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -9316591,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-3947631,-192794",
+    "name": "Lumumba",
+    "local_name": "Lumumba",
+    "name_en": null,
+    "all_tags": {
+      "name": "Lumumba",
+      "boundary": "administrative",
+      "way_area": "0.00233559",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -3947631,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192794",
+    "name": "Pointe-Noire",
+    "local_name": "Pointe-Noire",
+    "name_en": null,
+    "all_tags": {
+      "name": "Pointe-Noire",
+      "name:zh": "黑角省",
+      "boundary": "administrative",
+      "way_area": "0.0406235",
+      "wikidata": "Q42749862",
+      "ISO3166-2": "CG-16",
+      "wikipedia": "fr:Pointe-Noire (département)",
+      "admin_level": "4",
+      "name:zh-Hans": "黑角省"
+    }
+  },
+  {
+    "osm_id": -3947308,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192794",
+    "name": "Brazzaville",
+    "local_name": "Brazzaville",
+    "name_en": null,
+    "all_tags": {
+      "name": "Brazzaville",
+      "name:zh": "布拉柴维尔省",
+      "boundary": "administrative",
+      "way_area": "0.491689",
+      "wikidata": "Q3844",
+      "ISO3166-2": "CG-BZV",
+      "admin_level": "4",
+      "name:zh-Hans": "布拉柴维尔省"
+    }
+  },
+  {
+    "osm_id": -3224446,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3220587,-192794",
+    "name": "Nkayi",
+    "local_name": "Nkayi",
+    "name_en": null,
+    "all_tags": {
+      "name": "Nkayi",
+      "boundary": "administrative",
+      "way_area": "0.0964181",
+      "wikidata": "Q7042543",
+      "wikipedia": "en:Nkayi District, Republic of the Congo",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -3224445,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3220587,-192794",
+    "name": "Mouyondzi",
+    "local_name": "Mouyondzi",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mouyondzi",
+      "boundary": "administrative",
+      "way_area": "0.423211",
+      "wikidata": "Q4299914",
+      "wikipedia": "en:Mouyondzi District",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -3224444,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3220587,-192794",
+    "name": "Mfouati",
+    "local_name": "Mfouati",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mfouati",
+      "boundary": "administrative",
+      "way_area": "0.0293191",
+      "wikidata": "Q4309156",
+      "wikipedia": "en:Mfouati District",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -3224443,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3220587,-192794",
+    "name": "Madingou",
+    "local_name": "Madingou",
+    "name_en": null,
+    "all_tags": {
+      "name": "Madingou",
+      "boundary": "administrative",
+      "way_area": "0.0815177",
+      "wikidata": "Q3891811",
+      "wikipedia": "en:Madingou District",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -3224442,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3220587,-192794",
+    "name": "Loudima",
+    "local_name": "Loudima",
+    "name_en": null,
+    "all_tags": {
+      "name": "Loudima",
+      "boundary": "administrative",
+      "way_area": "0.240284",
+      "wikidata": "Q4267430",
+      "wikipedia": "en:Loudima District",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -3224441,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3220587,-192794",
+    "name": "Boko-Songho",
+    "local_name": "Boko-Songho",
+    "name_en": null,
+    "all_tags": {
+      "name": "Boko-Songho",
+      "boundary": "administrative",
+      "way_area": "0.1454",
+      "wikidata": "Q4090572",
+      "wikipedia": "en:Boko-Songho District",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -3224384,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3220592,-192794",
+    "name": "Zanaga",
+    "local_name": "Zanaga",
+    "name_en": null,
+    "all_tags": {
+      "name": "Zanaga",
+      "boundary": "administrative",
+      "way_area": "0.478053",
+      "wikidata": "Q17141546",
+      "wikipedia": "en:Zanaga District",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -3224383,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3220592,-192794",
+    "name": "Sibiti",
+    "local_name": "Sibiti",
+    "name_en": null,
+    "all_tags": {
+      "name": "Sibiti",
+      "boundary": "administrative",
+      "way_area": "0.589099",
+      "wikidata": "Q7507106",
+      "wikipedia": "en:Sibiti District",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -3224382,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3220592,-192794",
+    "name": "Komono",
+    "local_name": "Komono",
+    "name_en": null,
+    "all_tags": {
+      "name": "Komono",
+      "boundary": "administrative",
+      "way_area": "0.377257",
+      "wikidata": "Q6428470",
+      "wikipedia": "en:Komono District",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -3224381,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3220592,-192794",
+    "name": "Bambama",
+    "local_name": "Bambama",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bambama",
+      "boundary": "administrative",
+      "way_area": "0.263382",
+      "wikidata": "Q4853322",
+      "wikipedia": "en:Bambama District",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -3223110,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-192794",
+    "name": "Hinda",
+    "local_name": "Hinda",
+    "name_en": null,
+    "all_tags": {
+      "name": "Hinda",
+      "boundary": "administrative",
+      "way_area": "0.339543",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -3223109,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3220590,-192794",
+    "name": "Mvouti",
+    "local_name": "Mvouti",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mvouti",
+      "boundary": "administrative",
+      "way_area": "0.296174",
+      "wikidata": "Q6944590",
+      "wikipedia": "en:Mvouti District",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -3223108,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3220590,-192794",
+    "name": "Madingo-Kayes",
+    "local_name": "Madingo-Kayes",
+    "name_en": null,
+    "all_tags": {
+      "name": "Madingo-Kayes",
+      "boundary": "administrative",
+      "way_area": "0.551479",
+      "wikidata": "Q6727799",
+      "wikipedia": "en:Madingo-Kayes District",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -3223107,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3220590,-192794",
+    "name": "Kakamoeka",
+    "local_name": "Kakamoeka",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kakamoeka",
+      "boundary": "administrative",
+      "way_area": "0.226505",
+      "wikidata": "Q6349206",
+      "wikipedia": "en:Kakamoeka District",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -3222735,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3220594,-192794",
+    "name": "Lékana",
+    "local_name": "Lékana",
+    "name_en": null,
+    "all_tags": {
+      "name": "Lékana",
+      "boundary": "administrative",
+      "way_area": "0.348308",
+      "wikidata": "Q6520562",
+      "wikipedia": "en:Lekana District",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -3222734,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3220594,-192794",
+    "name": "Gamboma",
+    "local_name": "Gamboma",
+    "name_en": null,
+    "all_tags": {
+      "name": "Gamboma",
+      "boundary": "administrative",
+      "way_area": "0.814825",
+      "wikidata": "Q5519726",
+      "wikipedia": "en:Gamboma District",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -3222733,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3220594,-192794",
+    "name": "Djambala",
+    "local_name": "Djambala",
+    "name_en": null,
+    "all_tags": {
+      "name": "Djambala",
+      "name:ru": "Джамбала",
+      "boundary": "administrative",
+      "way_area": "1.37211",
+      "wikidata": "Q5285212",
+      "wikipedia": "en:Djambala District",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -3222732,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3220594,-192794",
+    "name": "Abala",
+    "local_name": "Abala",
+    "name_en": null,
+    "all_tags": {
+      "name": "Abala",
+      "boundary": "administrative",
+      "way_area": "0.693042",
+      "wikidata": "Q4663312",
+      "wikipedia": "en:Abala District",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -3221351,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3220588,-192794",
+    "name": "Owando",
+    "local_name": "Owando",
+    "name_en": null,
+    "all_tags": {
+      "name": "Owando",
+      "boundary": "administrative",
+      "way_area": "0.865552",
+      "wikidata": "Q7114278",
+      "wikipedia": "en:Owando District",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -3221350,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3220588,-192794",
+    "name": "Okoyo",
+    "local_name": "Okoyo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Okoyo",
+      "boundary": "administrative",
+      "way_area": "0.414919",
+      "wikidata": "Q7082540",
+      "wikipedia": "en:Okoyo District",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -3221349,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3220588,-192794",
+    "name": "Mossaka",
+    "local_name": "Mossaka",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mossaka",
+      "boundary": "administrative",
+      "way_area": "0.959101",
+      "wikidata": "Q3324948",
+      "wikipedia": "fr:Mossaka (district)",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -3221348,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3220588,-192794",
+    "name": "Makoua",
+    "local_name": "Makoua",
+    "name_en": null,
+    "all_tags": {
+      "name": "Makoua",
+      "boundary": "administrative",
+      "way_area": "0.691212",
+      "wikidata": "Q6740009",
+      "wikipedia": "en:Makoua District",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -3221347,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3220588,-192794",
+    "name": "Loukoléla",
+    "local_name": "Loukoléla",
+    "name_en": null,
+    "all_tags": {
+      "name": "Loukoléla",
+      "boundary": "administrative",
+      "way_area": "0.456342",
+      "wikidata": "Q3263917",
+      "wikipedia": "fr:Loukoléla (district)",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -3221346,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3220588,-192794",
+    "name": "Boundji",
+    "local_name": "Boundji",
+    "name_en": null,
+    "all_tags": {
+      "name": "Boundji",
+      "boundary": "administrative",
+      "way_area": "0.253839",
+      "wikidata": "Q4950001",
+      "wikipedia": "en:Boundji District",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -3221152,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3220589,-192794",
+    "name": "Mbomo",
+    "local_name": "Mbomo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mbomo",
+      "boundary": "administrative",
+      "way_area": "0.943818",
+      "wikidata": "Q3303547",
+      "wikipedia": "en:Mbomo District",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -3221151,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3220589,-192794",
+    "name": "Kellé",
+    "local_name": "Kellé",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kellé",
+      "boundary": "administrative",
+      "way_area": "0.577778",
+      "wikidata": "Q6385648",
+      "wikipedia": "en:Kelle District",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -3221150,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3220589,-192794",
+    "name": "Ewo",
+    "local_name": "Ewo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ewo",
+      "boundary": "administrative",
+      "way_area": "0.46542",
+      "wikidata": "Q5419068",
+      "wikipedia": "en:Ewo District",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -3221106,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3220596,-192794",
+    "name": "Souanké",
+    "local_name": "Souanké",
+    "name_en": null,
+    "all_tags": {
+      "name": "Souanké",
+      "boundary": "administrative",
+      "way_area": "0.923885",
+      "wikidata": "Q7564060",
+      "wikipedia": "en:Souanké District",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -3221105,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3220596,-192794",
+    "name": "Sembé",
+    "local_name": "Sembé",
+    "name_en": null,
+    "all_tags": {
+      "name": "Sembé",
+      "boundary": "administrative",
+      "way_area": "0.705587",
+      "wikidata": "Q7449182",
+      "wikipedia": "en:Sembé District",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -3221104,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3220596,-192794",
+    "name": "Ouésso",
+    "local_name": "Ouésso",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ouésso",
+      "name:ru": "Весо",
+      "boundary": "administrative",
+      "way_area": "3.06187",
+      "wikidata": "Q7113182",
+      "wikipedia": "en:Ouésso District",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -3221054,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3220591,-192794",
+    "name": "Impfondo",
+    "local_name": "Impfondo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Impfondo",
+      "name:ru": "Импофондо",
+      "boundary": "administrative",
+      "way_area": "0.548231",
+      "wikidata": "Q6007122",
+      "wikipedia": "en:Impfondo District",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -3221053,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3220591,-192794",
+    "name": "Epéna",
+    "local_name": "Epéna",
+    "name_en": null,
+    "all_tags": {
+      "name": "Epéna",
+      "boundary": "administrative",
+      "way_area": "2.34319",
+      "wikidata": "Q5382098",
+      "wikipedia": "en:Epena District",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -3221052,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3220591,-192794",
+    "name": "Dongou",
+    "local_name": "Dongou",
+    "name_en": null,
+    "all_tags": {
+      "name": "Dongou",
+      "boundary": "administrative",
+      "way_area": "2.51628",
+      "wikidata": "Q5295993",
+      "wikipedia": "en:Dongou District",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -3220596,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192794",
+    "name": "Sangha",
+    "local_name": "Sangha",
+    "name_en": null,
+    "all_tags": {
+      "name": "Sangha",
+      "name:zh": "桑加省",
+      "boundary": "administrative",
+      "way_area": "4.69134",
+      "wikidata": "Q775410",
+      "ISO3166-2": "CG-13",
+      "wikipedia": "fr:Sangha (département congolais)",
+      "population": "205986",
+      "admin_level": "4",
+      "name:zh-Hans": "桑加省",
+      "population:date": "1990"
+    }
+  },
+  {
+    "osm_id": -3220595,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192794",
+    "name": "Pool",
+    "local_name": "Pool",
+    "name_en": null,
+    "all_tags": {
+      "name": "Pool",
+      "name:zh": "普尔省",
+      "boundary": "administrative",
+      "way_area": "2.35307",
+      "wikidata": "Q864647",
+      "ISO3166-2": "CG-12",
+      "wikipedia": "en:Pool Department",
+      "population": "188285",
+      "admin_level": "4",
+      "name:zh-Hans": "普尔省",
+      "population:date": "1990"
+    }
+  },
+  {
+    "osm_id": -3220594,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192794",
+    "name": "Plateaux",
+    "local_name": "Plateaux",
+    "name_en": null,
+    "all_tags": {
+      "name": "Plateaux",
+      "name:zh": "高原省",
+      "boundary": "administrative",
+      "way_area": "3.22828",
+      "wikidata": "Q765370",
+      "ISO3166-2": "CG-14",
+      "wikipedia": "fr:Plateaux (département)",
+      "population": "114629",
+      "admin_level": "4",
+      "name:zh-Hans": "高原省",
+      "population:date": "1990"
+    }
+  },
+  {
+    "osm_id": -3220593,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192794",
+    "name": "Niari",
+    "local_name": "Niari",
+    "name_en": null,
+    "all_tags": {
+      "name": "Niari",
+      "name:zh": "尼阿里省",
+      "boundary": "administrative",
+      "way_area": "2.26992",
+      "wikidata": "Q969317",
+      "ISO3166-2": "CG-9",
+      "wikipedia": "fr:Niari",
+      "population": "197700",
+      "admin_level": "4",
+      "name:zh-Hans": "尼阿里省",
+      "population:date": "1990"
+    }
+  },
+  {
+    "osm_id": -3220592,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192794",
+    "name": "Lékoumou",
+    "local_name": "Lékoumou",
+    "name_en": null,
+    "all_tags": {
+      "name": "Lékoumou",
+      "name:zh": "莱库穆省",
+      "boundary": "administrative",
+      "way_area": "1.70779",
+      "wikidata": "Q862753",
+      "ISO3166-2": "CG-2",
+      "wikipedia": "fr:Lékoumou",
+      "population": "71248",
+      "admin_level": "4",
+      "name:zh-Hans": "莱库穆省",
+      "population:date": "1990"
+    }
+  },
+  {
+    "osm_id": -3220591,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192794",
+    "name": "Likouala",
+    "local_name": "Likouala",
+    "name_en": null,
+    "all_tags": {
+      "name": "Likouala",
+      "name:zh": "利夸拉省",
+      "boundary": "administrative",
+      "way_area": "5.4077",
+      "wikidata": "Q863554",
+      "ISO3166-2": "CG-7",
+      "wikipedia": "fr:Likouala (département)",
+      "population": "61358",
+      "admin_level": "4",
+      "name:zh-Hans": "利夸拉省",
+      "wikipedia:en": "Likouala Department",
+      "population:date": "1990"
+    }
+  },
+  {
+    "osm_id": -3220590,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192794",
+    "name": "Kouilou",
+    "local_name": "Kouilou",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kouilou",
+      "name:zh": "奎卢省",
+      "boundary": "administrative",
+      "way_area": "1.37308",
+      "wikidata": "Q855327",
+      "ISO3166-2": "CG-5",
+      "wikipedia": "fr:Kouilou",
+      "population": "91955",
+      "admin_level": "4",
+      "name:zh-Hans": "奎卢省",
+      "population:date": "2007"
+    }
+  },
+  {
+    "osm_id": -3220589,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192794",
+    "name": "Cuvette-Ouest",
+    "local_name": "Cuvette-Ouest",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cuvette-Ouest",
+      "name:zh": "西盆地省",
+      "boundary": "administrative",
+      "way_area": "1.98702",
+      "wikidata": "Q125711",
+      "ISO3166-2": "CG-15",
+      "wikipedia": "fr:Cuvette-Ouest",
+      "admin_level": "4",
+      "name:zh-Hans": "西盆地省"
+    }
+  },
+  {
+    "osm_id": -3220588,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192794",
+    "name": "Cuvette",
+    "local_name": "Cuvette",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cuvette",
+      "name:zh": "盆地省",
+      "boundary": "administrative",
+      "way_area": "3.64096",
+      "wikidata": "Q780884",
+      "ISO3166-2": "CG-8",
+      "wikipedia": "fr:Cuvette (département)",
+      "population": "156044",
+      "admin_level": "4",
+      "name:zh-Hans": "盆地省",
+      "population:date": "2007"
+    }
+  },
+  {
+    "osm_id": -3220587,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192794",
+    "name": "Bouenza",
+    "local_name": "Bouenza",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bouenza",
+      "name:zh": "布恩扎省",
+      "boundary": "administrative",
+      "way_area": "1.01615",
+      "wikidata": "Q827015",
+      "ISO3166-2": "CG-11",
+      "wikipedia": "fr:Bouenza",
+      "population": "205986",
+      "admin_level": "4",
+      "name:zh-Hans": "布恩扎省",
+      "population:date": "1990"
+    }
+  }
+]

@@ -1,0 +1,1835 @@
+[
+  {
+    "osm_id": -193085,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192795",
+    "name": "Haut-Katanga",
+    "local_name": "Haut-Katanga",
+    "name_en": null,
+    "all_tags": {
+      "name": "Haut-Katanga",
+      "name:de": "Ober-Katanga",
+      "name:fr": "Haut-Katanga",
+      "name:kg": "Katanga ya Minani",
+      "name:sw": "Katanga Juu",
+      "boundary": "administrative",
+      "timezone": "Africa/Lubumbashi",
+      "way_area": "10.3069",
+      "wikidata": "Q130268",
+      "ISO3166-2": "CD-HK",
+      "start_date": "2015-06",
+      "admin_level": "4",
+      "description": "ancien district devenu province en juin 2015",
+      "admin_type:CD": "province",
+      "admin_level:-2015-06": "5",
+      "admin_level:2015-06-": "4",
+      "admin_type:CD:-2005-06": "district",
+      "admin_type:CD:2005-06-": "province"
+    }
+  },
+  {
+    "osm_id": -11111575,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-192795",
+    "name": "Mutshatsha",
+    "local_name": "Mutshatsha",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mutshatsha",
+      "boundary": "administrative",
+      "way_area": "1.99126",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -5328045,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-193086,-192795",
+    "name": "Bukama",
+    "local_name": "Bukama",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bukama",
+      "boundary": "administrative",
+      "way_area": "1.54357",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -5327780,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-5642697,-192795",
+    "name": "Kabambare",
+    "local_name": "Kabambare",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kabambare",
+      "boundary": "administrative",
+      "way_area": "1.4997",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -5327794,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-5642697,-192795",
+    "name": "Punia",
+    "local_name": "Punia",
+    "name_en": null,
+    "all_tags": {
+      "name": "Punia",
+      "boundary": "administrative",
+      "way_area": "1.20742",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -11719840,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-192822,-192795",
+    "name": "Bosobolo",
+    "local_name": "Bosobolo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bosobolo",
+      "boundary": "administrative",
+      "way_area": "1.04506",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -5646651,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192795",
+    "name": "Kinshasa",
+    "local_name": "Kinshasa",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kinshasa",
+      "name:fr": "Kinshasa",
+      "name:kg": "Kinsasa",
+      "name:ln": "Kinsásá",
+      "name:sw": "Kinshasa",
+      "name:zh": "金沙萨市/金沙薩市",
+      "boundary": "administrative",
+      "name:lua": "Cìnsansà",
+      "timezone": "Africa/Kinshasa",
+      "way_area": "0.874737",
+      "wikidata": "Q3838",
+      "ISO3166-2": "CD-KN",
+      "admin_level": "4",
+      "description": "province conservée en juin 2005",
+      "name:zh-Hans": "金沙萨市",
+      "name:zh-Hant": "金沙薩市",
+      "admin_type:CD": "ville"
+    }
+  },
+  {
+    "osm_id": -3654168,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192795",
+    "name": "Kasai-Oriental",
+    "local_name": "Kasaï-Oriental",
+    "name_en": "Kasai-Oriental",
+    "all_tags": {
+      "name": "Kasaï-Oriental",
+      "name:de": "Ostkasai",
+      "name:en": "Kasai-Oriental",
+      "name:es": "Kasai Oriental",
+      "name:fr": "Kasaï-Oriental",
+      "name:it": "Kasai Orientale",
+      "name:kg": "Kasâyi ya Esete",
+      "name:ln": "Kasai ya Monyɛlɛ",
+      "name:nl": "Oost-Kasaï",
+      "name:ru": "Восточное Касаи",
+      "name:sw": "Kasai Mashariki",
+      "boundary": "administrative",
+      "name:lua": "Kàsaayì wa mubàndu",
+      "timezone": "Africa/Lubumbashi",
+      "way_area": "0.826755",
+      "wikidata": "Q917992",
+      "ISO3166-2": "CD-KE",
+      "start_date": "2015-06",
+      "admin_level": "4",
+      "description": "ancien district devenu province en juin 2015",
+      "admin_type:CD": "province",
+      "admin_level:-2015-06": "5",
+      "admin_level:2015-06-": "4",
+      "admin_type:CD:-2005-06": "district",
+      "admin_type:CD:2005-06-": "province"
+    }
+  },
+  {
+    "osm_id": -5327846,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-193090,-192795",
+    "name": "Mbanza-Ngungu",
+    "local_name": "Mbanza-Ngungu",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mbanza-Ngungu",
+      "name:zh": "姆班加恩贡古",
+      "boundary": "administrative",
+      "way_area": "0.718493",
+      "admin_level": "6",
+      "name:zh-Hans": "姆班加恩贡古"
+    }
+  },
+  {
+    "osm_id": -5327843,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-193090,-192795",
+    "name": "Luozi",
+    "local_name": "Luozi",
+    "name_en": null,
+    "all_tags": {
+      "name": "Luozi",
+      "name:zh": "卢奥济",
+      "boundary": "administrative",
+      "way_area": "0.578764",
+      "admin_level": "6",
+      "name:zh-Hans": "卢奥济"
+    }
+  },
+  {
+    "osm_id": -11294846,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-192818,-192795",
+    "name": "Mahagi",
+    "local_name": "Mahagi",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mahagi",
+      "ref:ins": "505401",
+      "boundary": "administrative",
+      "way_area": "0.412619",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -402103,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-192821,-192795",
+    "name": "Territoire de Bumba",
+    "local_name": "Territoire de Bumba",
+    "name_en": null,
+    "all_tags": {
+      "name": "Territoire de Bumba",
+      "name:zh": "本巴地区",
+      "boundary": "administrative",
+      "way_area": "1.29402",
+      "admin_level": "6",
+      "name:zh-Hans": "本巴地区"
+    }
+  },
+  {
+    "osm_id": -8974600,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-5642698,-192795",
+    "name": "Nyiragongo",
+    "local_name": "Nyiragongo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Nyiragongo",
+      "boundary": "administrative",
+      "way_area": "0.0321702",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -9982840,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-192820,-192795",
+    "name": "Aketi",
+    "local_name": "Aketi",
+    "name_en": null,
+    "all_tags": {
+      "name": "Aketi",
+      "boundary": "administrative",
+      "way_area": "2.2266",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -5327839,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-193090,-192795",
+    "name": "Boma",
+    "local_name": "Boma",
+    "name_en": null,
+    "all_tags": {
+      "name": "Boma",
+      "name:zh": "博马",
+      "boundary": "administrative",
+      "way_area": "0.24499",
+      "admin_level": "6",
+      "name:zh-Hans": "博马"
+    }
+  },
+  {
+    "osm_id": -5327847,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-193090,-192795",
+    "name": "Moanda",
+    "local_name": "Moanda",
+    "name_en": null,
+    "all_tags": {
+      "name": "Moanda",
+      "name:zh": "莫安达",
+      "boundary": "administrative",
+      "way_area": "0.17427",
+      "admin_level": "6",
+      "name:zh-Hans": "莫安达"
+    }
+  },
+  {
+    "osm_id": -193099,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192795",
+    "name": "Sankuru",
+    "local_name": "Sankuru",
+    "name_en": null,
+    "all_tags": {
+      "name": "Sankuru",
+      "boundary": "administrative",
+      "timezone": "Africa/Lubumbashi",
+      "way_area": "8.6397",
+      "wikidata": "Q209829",
+      "ISO3166-2": "CD-SA",
+      "start_date": "2015-06",
+      "admin_level": "4",
+      "description": "ancien district devenu province en juin 2015",
+      "admin_type:CD": "province",
+      "admin_level:-2015-06": "5",
+      "admin_level:2015-06-": "4",
+      "admin_type:CD:-2005-06": "district",
+      "admin_type:CD:2005-06-": "province"
+    }
+  },
+  {
+    "osm_id": -193094,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-192795",
+    "name": "Dilolo",
+    "local_name": "Dilolo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Dilolo",
+      "boundary": "administrative",
+      "way_area": "2.04569",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -11719784,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-192821,-192795",
+    "name": "Lisala",
+    "local_name": "Lisala",
+    "name_en": null,
+    "all_tags": {
+      "name": "Lisala",
+      "name:zh": "利萨拉",
+      "boundary": "administrative",
+      "way_area": "1.31614",
+      "admin_level": "6",
+      "name:zh-Hans": "利萨拉"
+    }
+  },
+  {
+    "osm_id": -12720424,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-192818,-192795",
+    "name": "Aru",
+    "local_name": "Aru",
+    "name_en": null,
+    "all_tags": {
+      "name": "Aru",
+      "boundary": "administrative",
+      "way_area": "0.57616",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -11107202,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-193090,-192795",
+    "name": "Lukula",
+    "local_name": "Lukula",
+    "name_en": null,
+    "all_tags": {
+      "name": "Lukula",
+      "name:zh": "卢库拉",
+      "boundary": "administrative",
+      "way_area": "0.268447",
+      "admin_level": "6",
+      "name:zh-Hans": "卢库拉"
+    }
+  },
+  {
+    "osm_id": -5327840,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-193090,-192795",
+    "name": "Kasangulu",
+    "local_name": "Kasangulu",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kasangulu",
+      "name:zh": "卡桑古卢",
+      "boundary": "administrative",
+      "way_area": "0.292339",
+      "admin_level": "6",
+      "name:zh-Hans": "卡桑古卢"
+    }
+  },
+  {
+    "osm_id": -5327841,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-193090,-192795",
+    "name": "Kimvula",
+    "local_name": "Kimvula",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kimvula",
+      "name:zh": "金布巴",
+      "boundary": "administrative",
+      "way_area": "0.314427",
+      "admin_level": "6",
+      "name:zh-Hans": "金布巴"
+    }
+  },
+  {
+    "osm_id": -5646653,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192795",
+    "name": "Kwilu",
+    "local_name": "Kwilu",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kwilu",
+      "name:zh": "基奎特省",
+      "boundary": "administrative",
+      "timezone": "Africa/Kinshasa",
+      "way_area": "6.45952",
+      "wikidata": "Q559537",
+      "ISO3166-2": "CD-KL",
+      "start_date": "2015-06",
+      "admin_level": "4",
+      "description": "ancien district devenu province en juin 2015",
+      "name:zh-Hans": "基奎特省",
+      "admin_type:CD": "province",
+      "admin_level:-2015-06": "5",
+      "admin_level:2015-06-": "4",
+      "admin_type:CD:-2005-06": "district",
+      "admin_type:CD:2005-06-": "province"
+    }
+  },
+  {
+    "osm_id": -193092,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-5646653,-192795",
+    "name": "Kwilu",
+    "local_name": "Kwilu",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kwilu",
+      "name:zh": "基奎特",
+      "boundary": "administrative",
+      "way_area": "6.43234",
+      "admin_level": "6",
+      "name:zh-Hans": "基奎特"
+    }
+  },
+  {
+    "osm_id": -5327613,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-5647368,-192795",
+    "name": "Plateaux",
+    "local_name": "Plateaux",
+    "name_en": null,
+    "all_tags": {
+      "name": "Plateaux",
+      "name:zh": "高原区",
+      "boundary": "administrative",
+      "way_area": "2.58668",
+      "admin_level": "6",
+      "name:zh-Hans": "高原区"
+    }
+  },
+  {
+    "osm_id": -11912737,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-193085,-192795",
+    "name": "Sakania",
+    "local_name": "Sakania",
+    "name_en": null,
+    "all_tags": {
+      "name": "Sakania",
+      "boundary": "administrative",
+      "way_area": "1.76455",
+      "wikidata": "Q7402815",
+      "wikipedia": "en:Sakania Territory",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -6820610,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3654168,-192795",
+    "name": "Miabi",
+    "local_name": "Miabi",
+    "name_en": null,
+    "all_tags": {
+      "name": "Miabi",
+      "boundary": "administrative",
+      "way_area": "0.13528",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -6820699,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3654168,-192795",
+    "name": "Kabeya-Kamuanga",
+    "local_name": "Kabeya-Kamuanga",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kabeya-Kamuanga",
+      "boundary": "administrative",
+      "way_area": "0.181188",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -6820700,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3654168,-192795",
+    "name": "Lupatapata",
+    "local_name": "Lupatapata",
+    "name_en": null,
+    "all_tags": {
+      "name": "Lupatapata",
+      "boundary": "administrative",
+      "way_area": "0.166364",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -193093,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-5646600,-192795",
+    "name": "Kabinda",
+    "local_name": "Kabinda",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kabinda",
+      "boundary": "administrative",
+      "way_area": "4.37623",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -5646600,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192795",
+    "name": "Lomami",
+    "local_name": "Lomami",
+    "name_en": null,
+    "all_tags": {
+      "name": "Lomami",
+      "boundary": "administrative",
+      "timezone": "Africa/Lubumbashi",
+      "way_area": "4.37623",
+      "wikidata": "Q241886",
+      "ISO3166-2": "CD-LO",
+      "start_date": "2015-06",
+      "admin_level": "4",
+      "description": "ancien district devenu province en juin 2015",
+      "admin_type:CD": "province",
+      "admin_level:-2015-06": "5",
+      "admin_level:2015-06-": "4",
+      "admin_type:CD:-2005-06": "district",
+      "admin_type:CD:2005-06-": "province"
+    }
+  },
+  {
+    "osm_id": -193086,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192795",
+    "name": "Haut-Lomami",
+    "local_name": "Haut-Lomami",
+    "name_en": null,
+    "all_tags": {
+      "name": "Haut-Lomami",
+      "name:de": "Ober-Lomami",
+      "name:fr": "Haut-Lomami",
+      "name:kg": "Lomami ya Minani",
+      "name:sw": "Lomami Juu",
+      "boundary": "administrative",
+      "timezone": "Africa/Lubumbashi",
+      "way_area": "9.0214",
+      "wikidata": "Q605672",
+      "ISO3166-2": "CD-HL",
+      "start_date": "2015-06",
+      "admin_level": "4",
+      "description": "ancien district devenu province en juin 2015",
+      "admin_type:CD": "province",
+      "admin_level:-2015-06": "5",
+      "admin_level:2015-06-": "4",
+      "admin_type:CD:-2005-06": "district",
+      "admin_type:CD:2005-06-": "province"
+    }
+  },
+  {
+    "osm_id": -5327795,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-5642699,-192795",
+    "name": "Shabunda",
+    "local_name": "Shabunda",
+    "name_en": null,
+    "all_tags": {
+      "name": "Shabunda",
+      "boundary": "administrative",
+      "way_area": "2.02791",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -5327778,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-5642699,-192795",
+    "name": "Fizi",
+    "local_name": "Fizi",
+    "name_en": null,
+    "all_tags": {
+      "name": "Fizi",
+      "boundary": "administrative",
+      "way_area": "1.23661",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -5327797,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-5642699,-192795",
+    "name": "Uvira",
+    "local_name": "Uvira",
+    "name_en": null,
+    "all_tags": {
+      "name": "Uvira",
+      "boundary": "administrative",
+      "way_area": "0.28923",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -5327799,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-5642699,-192795",
+    "name": "Walungu",
+    "local_name": "Walungu",
+    "name_en": null,
+    "all_tags": {
+      "name": "Walungu",
+      "boundary": "administrative",
+      "way_area": "0.134993",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -5327777,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-5642699,-192795",
+    "name": "Bukavu",
+    "local_name": "Bukavu",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bukavu",
+      "boundary": "administrative",
+      "way_area": "0.00464162",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -5327785,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-5642699,-192795",
+    "name": "Kalehe",
+    "local_name": "Kalehe",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kalehe",
+      "boundary": "administrative",
+      "way_area": "0.327653",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12766434,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-5642699,-192795",
+    "name": "Idjwi",
+    "local_name": "Idjwi",
+    "name_en": null,
+    "all_tags": {
+      "name": "Idjwi",
+      "boundary": "administrative",
+      "way_area": "0.137961",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -5327779,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-5642698,-192795",
+    "name": "Goma",
+    "local_name": "Goma",
+    "name_en": null,
+    "all_tags": {
+      "name": "Goma",
+      "boundary": "administrative",
+      "way_area": "0.00472136",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -5327791,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-5642698,-192795",
+    "name": "Masisi",
+    "local_name": "Masisi",
+    "name_en": null,
+    "all_tags": {
+      "name": "Masisi",
+      "boundary": "administrative",
+      "way_area": "0.356647",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8974983,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-5642698,-192795",
+    "name": "Rutshuru",
+    "local_name": "Rutshuru",
+    "name_en": null,
+    "all_tags": {
+      "name": "Rutshuru",
+      "boundary": "administrative",
+      "way_area": "0.430073",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -5642698,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192795",
+    "name": "North Kivu",
+    "local_name": "Nord-Kivu",
+    "name_en": "North Kivu",
+    "all_tags": {
+      "name": "Nord-Kivu",
+      "name:de": "Nordkivu",
+      "name:en": "North Kivu",
+      "name:fr": "Nord-Kivu",
+      "name:kg": "Kivu ya Node",
+      "name:ln": "Kivu ya Nole",
+      "name:nl": "Noord-Kivu",
+      "name:ru": "Северное Киву",
+      "name:sw": "Kivu Kaskazini",
+      "boundary": "administrative",
+      "timezone": "Africa/Lubumbashi",
+      "way_area": "4.75482",
+      "wikidata": "Q130625",
+      "ISO3166-2": "CD-NK",
+      "wikipedia": "en:North Kivu",
+      "admin_level": "4",
+      "description": "province conservée en juin 2005",
+      "admin_type:CD": "province"
+    }
+  },
+  {
+    "osm_id": -5327789,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-5642698,-192795",
+    "name": "Lubero",
+    "local_name": "Lubero",
+    "name_en": null,
+    "all_tags": {
+      "name": "Lubero",
+      "boundary": "administrative",
+      "way_area": "1.22575",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -9231673,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-193085,-192795",
+    "name": "Kipushi",
+    "local_name": "Kipushi",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kipushi",
+      "boundary": "administrative",
+      "way_area": "0.712937",
+      "wikidata": "Q6414722",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -193084,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192795",
+    "name": "Équateur",
+    "local_name": "Équateur",
+    "name_en": null,
+    "all_tags": {
+      "name": "Équateur",
+      "name:fr": "Équateur",
+      "name:kg": "Ekwatelo",
+      "name:ln": "Ekwatéli",
+      "name:nl": "Evenaarsprovincie",
+      "name:pt": "Equador",
+      "name:zh": "赤道省",
+      "boundary": "administrative",
+      "timezone": "Africa/Kinshasa",
+      "way_area": "8.30506",
+      "wikidata": "Q988104",
+      "ISO3166-2": "CD-EQ",
+      "start_date": "2015-06",
+      "admin_level": "4",
+      "description": "ancien district devenu province en juin 2015",
+      "name:zh-Hans": "赤道省",
+      "admin_type:CD": "province",
+      "admin_level:-2015-06": "5",
+      "admin_level:2015-06-": "4",
+      "admin_type:CD:-2005-06": "district",
+      "admin_type:CD:2005-06-": "province"
+    }
+  },
+  {
+    "osm_id": -192820,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192795",
+    "name": "Lower Uele",
+    "local_name": "Bas-Uele",
+    "name_en": "Lower Uele",
+    "all_tags": {
+      "name": "Bas-Uele",
+      "name:de": "Nieder-Uelle",
+      "name:en": "Lower Uele",
+      "name:fr": "Bas-Uele",
+      "name:kg": "Uwele ya Mitiu",
+      "name:ln": "Wɛlɛ ya Nsé",
+      "name:pl": "Dolne Uele",
+      "name:sw": "Wele Chini",
+      "name:zh": "下韦莱省",
+      "alt_name": "Bas-Uélé",
+      "boundary": "administrative",
+      "timezone": "Africa/Lubumbashi",
+      "way_area": "12.0666",
+      "wikidata": "Q652056",
+      "ISO3166-2": "CD-BU",
+      "start_date": "2015-06",
+      "admin_level": "4",
+      "alt_name:fr": "Bas-Uélé",
+      "description": "ancien district devenu province en juin 2015",
+      "name:zh-Hans": "下韦莱省",
+      "admin_type:CD": "province",
+      "alt_name:fr-BE": "Bas-Ouélé",
+      "admin_level:-2015-06": "5",
+      "admin_level:2015-06-": "4",
+      "admin_type:CD:-2005-06": "district",
+      "admin_type:CD:2005-06-": "province"
+    }
+  },
+  {
+    "osm_id": -8972963,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-5642698,-192795",
+    "name": "Beni",
+    "local_name": "Beni",
+    "name_en": null,
+    "all_tags": {
+      "name": "Beni",
+      "boundary": "administrative",
+      "way_area": "0.0364548",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -11132472,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-192818,-192795",
+    "name": "Mambasa",
+    "local_name": "Mambasa",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mambasa",
+      "boundary": "administrative",
+      "way_area": "2.93592",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -192818,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192795",
+    "name": "Ituri",
+    "local_name": "Ituri",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ituri",
+      "name:fr": "Ituri",
+      "boundary": "administrative",
+      "timezone": "Africa/Lubumbashi",
+      "way_area": "5.32475",
+      "wikidata": "Q750659",
+      "ISO3166-2": "CD-IT",
+      "start_date": "2015-06",
+      "admin_level": "4",
+      "description": "ancien district devenu province en juin 2015",
+      "admin_type:CD": "province",
+      "admin_level:-2015-06": "5",
+      "admin_level:2015-06-": "4",
+      "admin_type:CD:-2005-06": "district",
+      "admin_type:CD:2005-06-": "province"
+    }
+  },
+  {
+    "osm_id": -11294845,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-192818,-192795",
+    "name": "Djugu",
+    "local_name": "Djugu",
+    "name_en": null,
+    "all_tags": {
+      "name": "Djugu",
+      "boundary": "administrative",
+      "way_area": "0.753393",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -192817,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192795",
+    "name": "Upper Uele",
+    "local_name": "Haut-Uele",
+    "name_en": "Upper Uele",
+    "all_tags": {
+      "name": "Haut-Uele",
+      "name:de": "Ober-Uelle",
+      "name:en": "Upper Uele",
+      "name:fr": "Haut-Uele",
+      "name:kg": "Uwele ya Minani",
+      "name:ln": "Wɛlɛ ya Likólo",
+      "name:sw": "Wele Juu",
+      "name:zh": "上韦莱省",
+      "alt_name": "Haut-Uélé",
+      "boundary": "administrative",
+      "timezone": "Africa/Lubumbashi",
+      "way_area": "7.44833",
+      "wikidata": "Q751632",
+      "ISO3166-2": "CD-HU",
+      "start_date": "2015-06",
+      "admin_level": "4",
+      "alt_name:fr": "Haut-Uélé",
+      "description": "ancien district devenu province en juin 2015",
+      "name:zh-Hans": "上韦莱省",
+      "admin_type:CD": "province",
+      "alt_name:fr-BE": "Haut-Uélé",
+      "admin_level:-2015-06": "5",
+      "admin_level:2015-06-": "4",
+      "admin_type:CD:-2005-06": "district",
+      "admin_type:CD:2005-06-": "province"
+    }
+  },
+  {
+    "osm_id": -6820509,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3654168,-192795",
+    "name": "Katanda",
+    "local_name": "Katanda",
+    "name_en": null,
+    "all_tags": {
+      "name": "Katanda",
+      "boundary": "administrative",
+      "way_area": "0.175658",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -5327793,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-5642697,-192795",
+    "name": "Pangi",
+    "local_name": "Pangi",
+    "name_en": null,
+    "all_tags": {
+      "name": "Pangi",
+      "boundary": "administrative",
+      "way_area": "1.15357",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -192819,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192795",
+    "name": "Tshopo",
+    "local_name": "Tshopo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Tshopo",
+      "name:fr": "Tshopo",
+      "name:kg": "Tshópo",
+      "boundary": "administrative",
+      "timezone": "Africa/Lubumbashi",
+      "way_area": "15.9402",
+      "wikidata": "Q630900",
+      "ISO3166-2": "CD-TO",
+      "start_date": "2015-06",
+      "admin_level": "4",
+      "description": "ancien district devenu province en juin 2015",
+      "admin_type:CD": "province",
+      "admin_level:-2015-06": "5",
+      "admin_level:2015-06-": "4",
+      "admin_type:CD:-2005-06": "district",
+      "admin_type:CD:2005-06-": "province"
+    }
+  },
+  {
+    "osm_id": -193083,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192795",
+    "name": "Tshuapa",
+    "local_name": "Tshuapa",
+    "name_en": null,
+    "all_tags": {
+      "name": "Tshuapa",
+      "name:zh": "楚阿帕省",
+      "boundary": "administrative",
+      "timezone": "Africa/Kinshasa",
+      "way_area": "11.2268",
+      "wikidata": "Q427246",
+      "ISO3166-2": "CD-TU",
+      "start_date": "2015-06",
+      "admin_level": "4",
+      "description": "ancien district devenu province en juin 2015",
+      "name:zh-Hans": "楚阿帕省",
+      "admin_type:CD": "province",
+      "admin_level:-2015-06": "5",
+      "admin_level:2015-06-": "4",
+      "admin_type:CD:-2005-06": "district",
+      "admin_type:CD:2005-06-": "province"
+    }
+  },
+  {
+    "osm_id": -5642697,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192795",
+    "name": "Maniema",
+    "local_name": "Maniema",
+    "name_en": "Maniema",
+    "all_tags": {
+      "name": "Maniema",
+      "name:en": "Maniema",
+      "name:fr": "Maniema",
+      "name:ru": "Маниема",
+      "boundary": "administrative",
+      "timezone": "Africa/Lubumbashi",
+      "way_area": "10.5567",
+      "wikidata": "Q130566",
+      "ISO3166-2": "CD-MA",
+      "admin_level": "4",
+      "description": "province conservée en juin 2005",
+      "admin_type:CD": "province"
+    }
+  },
+  {
+    "osm_id": -192821,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192795",
+    "name": "Mongala",
+    "local_name": "Mongala",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mongala",
+      "name:zh": "蒙加拉省",
+      "boundary": "administrative",
+      "timezone": "Africa/Kinshasa",
+      "way_area": "4.56",
+      "wikidata": "Q847527",
+      "ISO3166-2": "CD-MO",
+      "start_date": "2015-06",
+      "admin_level": "4",
+      "description": "ancien district devenu province en juin 2015",
+      "name:zh-Hans": "蒙加拉省",
+      "admin_type:CD": "province",
+      "admin_level:-2015-06": "5",
+      "admin_level:2015-06-": "4",
+      "admin_type:CD:-2005-06": "district",
+      "admin_type:CD:2005-06-": "province"
+    }
+  },
+  {
+    "osm_id": -193090,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192795",
+    "name": "Kongo-Central",
+    "local_name": "Kongo-Central",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kongo-Central",
+      "name:fr": "Kongo-Central",
+      "name:kg": "Kôngo ya Kati",
+      "name:ln": "Kɔ́ngɔ ya Káti",
+      "name:sw": "Kongo Kati",
+      "name:zh": "下刚果省",
+      "boundary": "administrative",
+      "old_name": "Bas-Congo",
+      "timezone": "Africa/Kinshasa",
+      "way_area": "4.4419",
+      "wikidata": "Q1043494",
+      "ISO3166-2": "CD-BC",
+      "admin_level": "4",
+      "description": "province conservée mais renommée en juin 2005",
+      "old_name:fr": "Bas-Congo",
+      "old_name:pt": "Baixo Congo",
+      "name:zh-Hans": "下刚果省",
+      "admin_type:CD": "province"
+    }
+  },
+  {
+    "osm_id": -11719861,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-193101,-192795",
+    "name": "Zongo",
+    "local_name": "Zongo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Zongo",
+      "boundary": "administrative",
+      "way_area": "0.0640728",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -11111431,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-192795",
+    "name": "Kapanga",
+    "local_name": "Kapanga",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kapanga",
+      "boundary": "administrative",
+      "way_area": "2.03395",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -5327786,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-5642697,-192795",
+    "name": "Kasongo",
+    "local_name": "Kasongo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kasongo",
+      "boundary": "administrative",
+      "way_area": "1.32365",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -5327626,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-5646653,-192795",
+    "name": "Bandundu City",
+    "local_name": "Bandundu City",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bandundu City",
+      "name:zh": "班顿杜市",
+      "boundary": "administrative",
+      "way_area": "0.0271748",
+      "admin_level": "6",
+      "name:zh-Hans": "班顿杜市"
+    }
+  },
+  {
+    "osm_id": -5327845,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-193090,-192795",
+    "name": "Matadi",
+    "local_name": "Matadi",
+    "name_en": null,
+    "all_tags": {
+      "name": "Matadi",
+      "name:zh": "马塔迪",
+      "boundary": "administrative",
+      "way_area": "0.0205924",
+      "admin_level": "6",
+      "name:zh-Hans": "马塔迪"
+    }
+  },
+  {
+    "osm_id": -5642699,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192795",
+    "name": "South Kivu",
+    "local_name": "Sud-Kivu",
+    "name_en": "South Kivu",
+    "all_tags": {
+      "name": "Sud-Kivu",
+      "name:de": "Südkivu",
+      "name:en": "South Kivu",
+      "name:fr": "Sud-Kivu",
+      "name:kg": "Kivu ya Sudi",
+      "name:ln": "Kivu ya Sidi",
+      "name:nl": "Zuid-Kivu",
+      "name:sw": "Kivu Kusini",
+      "boundary": "administrative",
+      "timezone": "Africa/Lubumbashi",
+      "way_area": "5.23567",
+      "wikidata": "Q488326",
+      "ISO3166-2": "CD-SK",
+      "admin_level": "4",
+      "description": "province conservée en juin 2005",
+      "admin_type:CD": "province"
+    }
+  },
+  {
+    "osm_id": -5327850,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-193090,-192795",
+    "name": "Tshela",
+    "local_name": "Tshela",
+    "name_en": null,
+    "all_tags": {
+      "name": "Tshela",
+      "name:zh": "切拉",
+      "boundary": "administrative",
+      "way_area": "0.311394",
+      "admin_level": "6",
+      "name:zh-Hans": "切拉"
+    }
+  },
+  {
+    "osm_id": -6178732,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3654168,-192795",
+    "name": "Ville de Mbujimayi",
+    "local_name": "Ville de Mbujimayi",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ville de Mbujimayi",
+      "name:ar": "مدينة مبوجي-مايي",
+      "boundary": "administrative",
+      "way_area": "0.0116084",
+      "admin_level": "6",
+      "alt_name:ar": "مدينة مبوجيمايي"
+    }
+  },
+  {
+    "osm_id": -5387758,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-193085,-192795",
+    "name": "Ville de Lubumbashi",
+    "local_name": "Ville de Lubumbashi",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ville de Lubumbashi",
+      "boundary": "administrative",
+      "way_area": "0.0679455",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -193091,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192795",
+    "name": "Kwango",
+    "local_name": "Kwango",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kwango",
+      "name:zh": "宽果省",
+      "boundary": "administrative",
+      "timezone": "Africa/Kinshasa",
+      "way_area": "7.3387",
+      "wikidata": "Q757095",
+      "ISO3166-2": "CD-KG",
+      "start_date": "2015-06",
+      "admin_level": "4",
+      "description": "ancien district devenu province en juin 2015",
+      "name:zh-Hans": "宽果省",
+      "admin_type:CD": "province",
+      "admin_level:-2015-06": "5",
+      "admin_level:2015-06-": "4",
+      "admin_type:CD:-2005-06": "district",
+      "admin_type:CD:2005-06-": "province"
+    }
+  },
+  {
+    "osm_id": -5327787,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-5642697,-192795",
+    "name": "Kibombo",
+    "local_name": "Kibombo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kibombo",
+      "boundary": "administrative",
+      "way_area": "1.89424",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -11719860,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-193101,-192795",
+    "name": "Libenge",
+    "local_name": "Libenge",
+    "name_en": null,
+    "all_tags": {
+      "name": "Libenge",
+      "boundary": "administrative",
+      "way_area": "1.02133",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -11701911,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-192818,-192795",
+    "name": "Bunia",
+    "local_name": "Bunia",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bunia",
+      "boundary": "administrative",
+      "way_area": "0.00698963",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -11250678,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-192795",
+    "name": "Kolwezi",
+    "local_name": "Kolwezi",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kolwezi",
+      "boundary": "administrative",
+      "way_area": "0.00854995",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8972965,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-5642698,-192795",
+    "name": "Butembo",
+    "local_name": "Butembo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Butembo",
+      "boundary": "administrative",
+      "way_area": "0.0127372",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -5327783,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-5642699,-192795",
+    "name": "Kabare",
+    "local_name": "Kabare",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kabare",
+      "boundary": "administrative",
+      "way_area": "0.169543",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -3652373,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192795",
+    "name": "Kasai",
+    "local_name": "Kasaï",
+    "name_en": "Kasai",
+    "all_tags": {
+      "name": "Kasaï",
+      "name:de": "Kasai",
+      "name:en": "Kasai",
+      "name:fr": "Kasaï",
+      "name:ln": "Kasai",
+      "boundary": "administrative",
+      "timezone": "Africa/Lubumbashi",
+      "way_area": "7.8136",
+      "wikidata": "Q255655",
+      "ISO3166-2": "CD-KS",
+      "start_date": "2015-06",
+      "admin_level": "4",
+      "description": "ancien district devenu province en juin 2015",
+      "admin_type:CD": "province",
+      "admin_level:-2015-06": "5",
+      "admin_level:2015-06-": "4",
+      "admin_type:CD:-2005-06": "district",
+      "admin_type:CD:2005-06-": "province"
+    }
+  },
+  {
+    "osm_id": -5646599,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192795",
+    "name": "Central Kasai",
+    "local_name": "Kasaï-Central",
+    "name_en": "Central Kasai",
+    "all_tags": {
+      "name": "Kasaï-Central",
+      "name:de": "Zentralkasai",
+      "name:en": "Central Kasai",
+      "name:fr": "Kasaï-Central",
+      "name:ln": "Kasai ya Káti",
+      "name:nl": "Centraal-Kasaï",
+      "boundary": "administrative",
+      "timezone": "Africa/Lubumbashi",
+      "way_area": "4.68689",
+      "wikidata": "Q6702952",
+      "ISO3166-2": "CD-KC",
+      "start_date": "2015-06",
+      "admin_level": "4",
+      "description": "ancien district devenu province en juin 2015",
+      "admin_type:CD": "province",
+      "admin_level:-2015-06": "5",
+      "admin_level:2015-06-": "4",
+      "admin_type:CD:-2005-06": "district",
+      "admin_type:CD:2005-06-": "province"
+    }
+  },
+  {
+    "osm_id": -9984940,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-192818,-192795",
+    "name": "Irumu",
+    "local_name": "Irumu",
+    "name_en": null,
+    "all_tags": {
+      "name": "Irumu",
+      "boundary": "administrative",
+      "way_area": "0.639667",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -5327788,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-5642697,-192795",
+    "name": "Kindu",
+    "local_name": "Kindu",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kindu",
+      "boundary": "administrative",
+      "way_area": "2.25141",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -5647368,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192795",
+    "name": "Mai-Ndombe",
+    "local_name": "Mai-Ndombe",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mai-Ndombe",
+      "name:fr": "Mai-Ndombe",
+      "name:zh": "马伊恩东贝省",
+      "boundary": "administrative",
+      "timezone": "Africa/Kinshasa",
+      "way_area": "10.4906",
+      "wikidata": "Q130679",
+      "ISO3166-2": "CD-MN",
+      "start_date": "2015-06",
+      "admin_level": "4",
+      "description": "ancien district devenu province en juin 2015",
+      "name:zh-Hans": "马伊恩东贝省",
+      "admin_type:CD": "province",
+      "admin_level:-2015-06": "5",
+      "admin_level:2015-06-": "4",
+      "admin_type:CD:-2005-06": "district",
+      "admin_type:CD:2005-06-": "province"
+    }
+  },
+  {
+    "osm_id": -5327792,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-5642699,-192795",
+    "name": "Mwenga",
+    "local_name": "Mwenga",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mwenga",
+      "boundary": "administrative",
+      "way_area": "0.907133",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -5327790,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-5642697,-192795",
+    "name": "Lubutu",
+    "local_name": "Lubutu",
+    "name_en": null,
+    "all_tags": {
+      "name": "Lubutu",
+      "boundary": "administrative",
+      "way_area": "1.22674",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -193095,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-5646599,-192795",
+    "name": "Lulua",
+    "local_name": "Lulua",
+    "name_en": null,
+    "all_tags": {
+      "name": "Lulua",
+      "alt_name": "Lulua",
+      "boundary": "administrative",
+      "way_area": "4.68689",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -192822,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192795",
+    "name": "Nord-Ubangi",
+    "local_name": "Nord-Ubangi",
+    "name_en": null,
+    "all_tags": {
+      "name": "Nord-Ubangi",
+      "name:fr": "Nord-Ubangi",
+      "name:kg": "Ubangi ya Node",
+      "name:ln": "Ubangi ya Nole",
+      "name:nl": "Noord-Ubangi",
+      "name:sw": "Ubangi Kaskazini",
+      "name:zh": "北乌班吉省",
+      "boundary": "administrative",
+      "name:lua": "Ubangi wa kumutù",
+      "timezone": "Africa/Kinshasa",
+      "way_area": "4.39844",
+      "wikidata": "Q843312",
+      "ISO3166-2": "CD-NU",
+      "start_date": "2015-06",
+      "admin_level": "4",
+      "description": "ancien district devenu province en juin 2015",
+      "name:zh-Hans": "北乌班吉省",
+      "admin_type:CD": "province",
+      "admin_level:-2015-06": "5",
+      "admin_level:2015-06-": "4",
+      "admin_type:CD:-2005-06": "district",
+      "admin_type:CD:2005-06-": "province"
+    }
+  },
+  {
+    "osm_id": -5327844,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-193090,-192795",
+    "name": "Madimba",
+    "local_name": "Madimba",
+    "name_en": null,
+    "all_tags": {
+      "name": "Madimba",
+      "name:zh": "马丁巴",
+      "boundary": "administrative",
+      "way_area": "0.633629",
+      "admin_level": "6",
+      "name:zh-Hans": "马丁巴"
+    }
+  },
+  {
+    "osm_id": -5327776,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-5642698,-192795",
+    "name": "Beni",
+    "local_name": "Beni",
+    "name_en": null,
+    "all_tags": {
+      "name": "Beni",
+      "boundary": "administrative",
+      "way_area": "0.586066",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -5327848,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-193090,-192795",
+    "name": "Seke-Banza",
+    "local_name": "Seke-Banza",
+    "name_en": null,
+    "all_tags": {
+      "name": "Seke-Banza",
+      "name:zh": "赛凯班扎",
+      "boundary": "administrative",
+      "way_area": "0.239805",
+      "admin_level": "6",
+      "name:zh-Hans": "赛凯班扎"
+    }
+  },
+  {
+    "osm_id": -5327849,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-193090,-192795",
+    "name": "Songololo",
+    "local_name": "Songololo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Songololo",
+      "name:zh": "松戈洛洛",
+      "boundary": "administrative",
+      "way_area": "0.644747",
+      "admin_level": "6",
+      "name:zh-Hans": "松戈洛洛"
+    }
+  },
+  {
+    "osm_id": -6820698,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3654168,-192795",
+    "name": "Tshilenge",
+    "local_name": "Tshilenge",
+    "name_en": null,
+    "all_tags": {
+      "name": "Tshilenge",
+      "boundary": "administrative",
+      "way_area": "0.156657",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -5327798,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-5642698,-192795",
+    "name": "Walikale",
+    "local_name": "Walikale",
+    "name_en": null,
+    "all_tags": {
+      "name": "Walikale",
+      "boundary": "administrative",
+      "way_area": "1.93543",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -193101,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192795",
+    "name": "Sud-Ubangi",
+    "local_name": "Sud-Ubangi",
+    "name_en": null,
+    "all_tags": {
+      "name": "Sud-Ubangi",
+      "name:de": "Süd-Ubangi",
+      "name:fr": "Sud-Ubangi",
+      "name:kg": "Ubangi ya Sudi",
+      "name:ln": "Ubangi ya Sidi",
+      "name:nl": "Zuid-Ubangi",
+      "name:sw": "Ubangi Kusini",
+      "name:zh": "南乌班吉省",
+      "boundary": "administrative",
+      "name:lua": "Ubangi wa kumàndà",
+      "timezone": "Africa/Kinshasa",
+      "way_area": "4.31527",
+      "wikidata": "Q834551",
+      "ISO3166-2": "CD-SU",
+      "start_date": "2015-06",
+      "admin_level": "4",
+      "description": "ancien district devenu province en juin 2015",
+      "name:zh-Hans": "南乌班吉省",
+      "admin_type:CD": "province",
+      "admin_level:-2015-06": "5",
+      "admin_level:2015-06-": "4",
+      "admin_type:CD:-2005-06": "district",
+      "admin_type:CD:2005-06-": "province"
+    }
+  },
+  {
+    "osm_id": -193096,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-5647368,-192795",
+    "name": "Mai-Ndombe",
+    "local_name": "Mai-Ndombe",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mai-Ndombe",
+      "name:zh": "马伊恩东贝",
+      "boundary": "administrative",
+      "way_area": "7.90396",
+      "admin_level": "6",
+      "name:zh-Hans": "马伊恩东贝"
+    }
+  },
+  {
+    "osm_id": -193102,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-192795",
+    "name": "Tanganyika",
+    "local_name": "Tanganyika",
+    "name_en": null,
+    "all_tags": {
+      "name": "Tanganyika",
+      "boundary": "administrative",
+      "timezone": "Africa/Lubumbashi",
+      "way_area": "10.7176",
+      "wikidata": "Q826585",
+      "ISO3166-2": "CD-TA",
+      "start_date": "2015-06",
+      "admin_level": "4",
+      "description": "ancien district devenu province en juin 2015",
+      "admin_type:CD": "province",
+      "admin_level:-2015-06": "5",
+      "admin_level:2015-06-": "4",
+      "admin_type:CD:-2005-06": "district",
+      "admin_type:CD:2005-06-": "province"
+    }
+  },
+  {
+    "osm_id": -11111430,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-192795",
+    "name": "Sandoa",
+    "local_name": "Sandoa",
+    "name_en": null,
+    "all_tags": {
+      "name": "Sandoa",
+      "boundary": "administrative",
+      "way_area": "2.42319",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -11116707,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-192795",
+    "name": "Lubudi",
+    "local_name": "Lubudi",
+    "name_en": null,
+    "all_tags": {
+      "name": "Lubudi",
+      "boundary": "administrative",
+      "way_area": "1.49522",
+      "admin_level": "6"
+    }
+  }
+]

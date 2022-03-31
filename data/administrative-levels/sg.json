@@ -1,0 +1,94 @@
+[
+  {
+    "osm_id": -3831716,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-536780",
+    "name": "Southwest",
+    "local_name": "Southwest",
+    "name_en": null,
+    "all_tags": {
+      "name": "Southwest",
+      "name:zh": "西南区",
+      "boundary": "administrative",
+      "way_area": "0.0530889",
+      "wikidata": "Q5784126",
+      "ISO3166-2": "SG-05",
+      "wikipedia": "en:South West Community Development Council",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -3831715,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-536780",
+    "name": "Southeast",
+    "local_name": "Southeast",
+    "name_en": null,
+    "all_tags": {
+      "name": "Southeast",
+      "name:zh": "东南区",
+      "boundary": "administrative",
+      "way_area": "0.0342392",
+      "wikidata": "Q1687545",
+      "ISO3166-2": "SG-04",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -3831714,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-536780",
+    "name": "Northwest",
+    "local_name": "Northwest",
+    "name_en": null,
+    "all_tags": {
+      "name": "Northwest",
+      "name:zh": "西北区",
+      "boundary": "administrative",
+      "way_area": "0.0115597",
+      "wikidata": "Q5784118",
+      "ISO3166-2": "SG-03",
+      "wikipedia": "en:North West Community Development Council",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -3831713,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-536780",
+    "name": "Northeast",
+    "local_name": "Northeast",
+    "name_en": null,
+    "all_tags": {
+      "name": "Northeast",
+      "name:zh": "东北区",
+      "boundary": "administrative",
+      "way_area": "0.00612292",
+      "wikidata": "Q3710534",
+      "ISO3166-2": "SG-02",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -3831712,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-536780",
+    "name": "Central",
+    "local_name": "Central",
+    "name_en": null,
+    "all_tags": {
+      "name": "Central",
+      "name:zh": "中区",
+      "boundary": "administrative",
+      "way_area": "0.0122906",
+      "wikidata": "Q2544592",
+      "ISO3166-2": "SG-01",
+      "admin_level": "6"
+    }
+  }
+]

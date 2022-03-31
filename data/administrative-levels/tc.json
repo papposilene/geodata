@@ -1,0 +1,96 @@
+[
+  {
+    "osm_id": -4027467,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-547479",
+    "name": "Providenciales",
+    "local_name": "Providenciales",
+    "name_en": null,
+    "all_tags": {
+      "name": "Providenciales",
+      "boundary": "administrative",
+      "way_area": "0.0125825",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -4027454,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-547479",
+    "name": "North Caicos",
+    "local_name": "North Caicos",
+    "name_en": null,
+    "all_tags": {
+      "name": "North Caicos",
+      "boundary": "administrative",
+      "way_area": "0.0136184",
+      "wikidata": "Q174861",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -4024933,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-547479",
+    "name": "Middle Caicos",
+    "local_name": "Middle Caicos",
+    "name_en": null,
+    "all_tags": {
+      "name": "Middle Caicos",
+      "place": "island",
+      "boundary": "administrative",
+      "way_area": "0.012525",
+      "wikidata": "Q1475037",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -4022028,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-547479",
+    "name": "East Caicos",
+    "local_name": "East Caicos",
+    "name_en": null,
+    "all_tags": {
+      "name": "East Caicos",
+      "place": "island",
+      "boundary": "administrative",
+      "way_area": "0.00828463",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -4022022,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-547479",
+    "name": "Grand Turk",
+    "local_name": "Grand Turk",
+    "name_en": null,
+    "all_tags": {
+      "name": "Grand Turk",
+      "boundary": "administrative",
+      "way_area": "0.00160357",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -4022017,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-547479",
+    "name": "Salt Cay",
+    "local_name": "Salt Cay",
+    "name_en": null,
+    "all_tags": {
+      "name": "Salt Cay",
+      "boundary": "administrative",
+      "way_area": "0.00078814",
+      "admin_level": "6"
+    }
+  }
+]

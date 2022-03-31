@@ -1,0 +1,3428 @@
+[
+  {
+    "osm_id": -7407721,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3422565,-307828",
+    "name": "Pedro Brand",
+    "local_name": "Pedro Brand",
+    "name_en": null,
+    "all_tags": {
+      "name": "Pedro Brand",
+      "boundary": "administrative",
+      "way_area": "0.0189871",
+      "wikidata": "Q3898635",
+      "one_munid": "103207",
+      "wikipedia": "en:Pedro_Brand",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7407715,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3422565,-307828",
+    "name": "Los Alcarrizos",
+    "local_name": "Los Alcarrizos",
+    "name_en": null,
+    "all_tags": {
+      "name": "Los Alcarrizos",
+      "boundary": "administrative",
+      "way_area": "0.00384417",
+      "wikidata": "Q2560011",
+      "one_munid": "103206",
+      "wikipedia": "en:Los_Alcarrizos",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7407701,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3422565,-307828",
+    "name": "Boca Chica",
+    "local_name": "Boca Chica",
+    "name_en": null,
+    "all_tags": {
+      "name": "Boca Chica",
+      "boundary": "administrative",
+      "way_area": "0.0120075",
+      "one_munid": "103204",
+      "wikipedia": "en:Boca Chica",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7407691,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3422565,-307828",
+    "name": "Santo Domingo Norte",
+    "local_name": "Santo Domingo Norte",
+    "name_en": null,
+    "all_tags": {
+      "name": "Santo Domingo Norte",
+      "boundary": "administrative",
+      "way_area": "0.0332317",
+      "wikidata": "Q3949487",
+      "one_munid": "103203",
+      "wikipedia": "en:Santo Domingo Norte",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7407687,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3422565,-307828",
+    "name": "Santo Domingo Oeste",
+    "local_name": "Santo Domingo Oeste",
+    "name_en": null,
+    "all_tags": {
+      "name": "Santo Domingo Oeste",
+      "boundary": "administrative",
+      "way_area": "0.00461703",
+      "wikidata": "Q3949488",
+      "one_munid": "103202",
+      "wikipedia": "en:Santo_Domingo_Oeste",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7407685,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3422565,-307828",
+    "name": "Santo Domingo Este",
+    "local_name": "Santo Domingo Este",
+    "name_en": null,
+    "all_tags": {
+      "name": "Santo Domingo Este",
+      "boundary": "administrative",
+      "way_area": "0.0144641",
+      "wikidata": "Q2713354",
+      "one_munid": "103201",
+      "wikipedia": "en:Santo Domingo Este",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7407678,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-53161,-307828",
+    "name": "Santo Domingo de Guzmán",
+    "local_name": "Santo Domingo de Guzmán",
+    "name_en": null,
+    "all_tags": {
+      "name": "Santo Domingo de Guzmán",
+      "boundary": "administrative",
+      "way_area": "0.00783193",
+      "wikidata": "Q34820",
+      "one_munid": "100101",
+      "wikipedia": "fr:Saint-Domingue (ville)",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7407668,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3422239,-307828",
+    "name": "Sabana de la Mar",
+    "local_name": "Sabana de la Mar",
+    "name_en": null,
+    "all_tags": {
+      "name": "Sabana de la Mar",
+      "boundary": "administrative",
+      "way_area": "0.0440076",
+      "one_munid": "93002",
+      "wikipedia": "en:Sabana_de_la_Mar",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7405683,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3422239,-307828",
+    "name": "アト・マジョール州",
+    "local_name": "Hato Mayor",
+    "name_en": "アト・マジョール州",
+    "all_tags": {
+      "name": "Hato Mayor",
+      "name:en": "アト・マジョール州",
+      "boundary": "administrative",
+      "way_area": "0.055198",
+      "one_munid": "93001",
+      "wikipedia": "en:Hato_Mayor_del_Rey",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7405676,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3420529,-307828",
+    "name": "Yamasá",
+    "local_name": "Yamasá",
+    "name_en": null,
+    "all_tags": {
+      "name": "Yamasá",
+      "boundary": "administrative",
+      "way_area": "0.0372244",
+      "wikidata": "Q4022462",
+      "one_munid": "92904",
+      "wikipedia": "en:Yamasá",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7405672,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3420529,-307828",
+    "name": "Sabana Grande De Boyá",
+    "local_name": "Sabana Grande De Boyá",
+    "name_en": null,
+    "all_tags": {
+      "name": "Sabana Grande De Boyá",
+      "boundary": "administrative",
+      "way_area": "0.045266",
+      "wikidata": "Q3944200",
+      "one_munid": "92903",
+      "wikipedia": "en:Sabana Grande de Boyá",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7405667,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3420529,-307828",
+    "name": "Bayaguana",
+    "local_name": "Bayaguana",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bayaguana",
+      "boundary": "administrative",
+      "way_area": "0.0748747",
+      "wikidata": "Q1770505",
+      "one_munid": "92902",
+      "wikipedia": "en:Bayaguana",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7405660,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3420529,-307828",
+    "name": "Monte Plata",
+    "local_name": "Monte Plata",
+    "name_en": null,
+    "all_tags": {
+      "name": "Monte Plata",
+      "boundary": "administrative",
+      "way_area": "0.0541155",
+      "one_munid": "92901",
+      "wikipedia": "en:Monte_Plata",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7405613,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3422259,-307828",
+    "name": "Guayacanes",
+    "local_name": "Guayacanes",
+    "name_en": null,
+    "all_tags": {
+      "name": "Guayacanes",
+      "boundary": "administrative",
+      "way_area": "0.0115571",
+      "wikidata": "Q3778456",
+      "one_munid": "92306",
+      "wikipedia": "en:Guayacanes, San Pedro de Macorís",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7405604,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3422259,-307828",
+    "name": "Los Llanos",
+    "local_name": "Los Llanos",
+    "name_en": null,
+    "all_tags": {
+      "name": "Los Llanos",
+      "boundary": "administrative",
+      "way_area": "0.037679",
+      "wikidata": "Q3947425",
+      "one_munid": "92302",
+      "wikipedia": "en:San José de los Llanos",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7405581,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3422258,-307828",
+    "name": "Villa Hermosa",
+    "local_name": "Villa Hermosa",
+    "name_en": null,
+    "all_tags": {
+      "name": "Villa Hermosa",
+      "boundary": "administrative",
+      "way_area": "0.0100677",
+      "wikidata": "Q4012090",
+      "one_munid": "81203",
+      "wikipedia": "en:Villa_Hermosa",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7405546,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3422259,-307828",
+    "name": "San Pedro de Macorís",
+    "local_name": "San Pedro de Macorís",
+    "name_en": null,
+    "all_tags": {
+      "name": "San Pedro de Macorís",
+      "boundary": "administrative",
+      "way_area": "0.0125861",
+      "wikidata": "Q680596",
+      "one_munid": "92301",
+      "wikipedia": "en:San Pedro de Macorís",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7405535,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3422258,-307828",
+    "name": "Guaymate",
+    "local_name": "Guaymate",
+    "name_en": null,
+    "all_tags": {
+      "name": "Guaymate",
+      "boundary": "administrative",
+      "way_area": "0.0224624",
+      "wikidata": "Q628537",
+      "one_munid": "81202",
+      "wikipedia": "en:Guaymate",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7405532,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3422258,-307828",
+    "name": "La Romana",
+    "local_name": "La Romana",
+    "name_en": null,
+    "all_tags": {
+      "name": "La Romana",
+      "boundary": "administrative",
+      "way_area": "0.0139299",
+      "one_munid": "81201",
+      "wikipedia": "en:La_Romana,_La_Romana",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7405521,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3422240,-307828",
+    "name": "San Rafael del Yuma",
+    "local_name": "San Rafael del Yuma",
+    "name_en": null,
+    "all_tags": {
+      "name": "San Rafael del Yuma",
+      "boundary": "administrative",
+      "way_area": "0.0838116",
+      "wikidata": "Q649483",
+      "one_munid": "81102",
+      "wikipedia": "en:San Rafael del Yuma",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7401358,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3422240,-307828",
+    "name": "Higüey",
+    "local_name": "Higüey",
+    "name_en": null,
+    "all_tags": {
+      "name": "Higüey",
+      "name:ru": "Игуэй",
+      "boundary": "administrative",
+      "way_area": "0.172733",
+      "wikidata": "Q1020261",
+      "one_munid": "81101",
+      "wikipedia": "en:Higüey (city)",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7400887,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3422238,-307828",
+    "name": "Miches",
+    "local_name": "Miches",
+    "name_en": null,
+    "all_tags": {
+      "name": "Miches",
+      "boundary": "administrative",
+      "way_area": "0.0380917",
+      "wikidata": "Q1770668",
+      "one_munid": "80802",
+      "wikipedia": "en:Miches",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7400878,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3422238,-307828",
+    "name": "El Seibo",
+    "local_name": "El Seibo",
+    "name_en": null,
+    "all_tags": {
+      "name": "El Seibo",
+      "boundary": "administrative",
+      "way_area": "0.115308",
+      "one_munid": "80801",
+      "wikipedia": "en:El_Seibo_(city)",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7400868,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3420316,-307828",
+    "name": "Las Matas De Farfán",
+    "local_name": "Las Matas De Farfán",
+    "name_en": null,
+    "all_tags": {
+      "name": "Las Matas De Farfán",
+      "boundary": "administrative",
+      "way_area": "0.0545925",
+      "wikidata": "Q3827246",
+      "one_munid": "72205",
+      "wikipedia": "en:Las Matas de Farfán",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7400853,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3420316,-307828",
+    "name": "Juan de Herrera",
+    "local_name": "Juan de Herrera",
+    "name_en": null,
+    "all_tags": {
+      "name": "Juan de Herrera",
+      "boundary": "administrative",
+      "way_area": "0.00796245",
+      "wikidata": "Q3810939",
+      "one_munid": "72204",
+      "wikipedia": "en:Juan_de_Herrera,_Dominican_Republic",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7400847,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3420316,-307828",
+    "name": "San Juan",
+    "local_name": "San Juan",
+    "name_en": null,
+    "all_tags": {
+      "name": "San Juan",
+      "boundary": "administrative",
+      "way_area": "0.148088",
+      "one_munid": "72201",
+      "wikipedia": "en:San Juan de la Maguana",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7400837,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3420312,-307828",
+    "name": "Pedro Santana",
+    "local_name": "Pedro Santana",
+    "name_en": null,
+    "all_tags": {
+      "name": "Pedro Santana",
+      "boundary": "administrative",
+      "way_area": "0.0470452",
+      "wikidata": "Q386353",
+      "one_munid": "70705",
+      "wikipedia": "en:Pedro Santana, Dominican Republic",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7400827,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3420312,-307828",
+    "name": "Bánica",
+    "local_name": "Bánica",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bánica",
+      "boundary": "administrative",
+      "way_area": "0.0228072",
+      "wikidata": "Q1771472",
+      "one_munid": "70702",
+      "wikipedia": "en:Bánica",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7400760,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3420312,-307828",
+    "name": "Comendador",
+    "local_name": "Comendador",
+    "name_en": null,
+    "all_tags": {
+      "name": "Comendador",
+      "boundary": "administrative",
+      "way_area": "0.0215372",
+      "wikidata": "Q617647",
+      "one_munid": "70701",
+      "wikipedia": "en:Comendador, Dominican Republic",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7400753,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-7124584,-307828",
+    "name": "Jaquimeyes",
+    "local_name": "Jaquimeyes",
+    "name_en": null,
+    "all_tags": {
+      "name": "Jaquimeyes",
+      "boundary": "administrative",
+      "way_area": "0.00985079",
+      "wikidata": "Q3807300",
+      "one_munid": "60411",
+      "wikipedia": "en:Jaquimeyes",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7400721,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-7124584,-307828",
+    "name": "Polo",
+    "local_name": "Polo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Polo",
+      "boundary": "administrative",
+      "way_area": "0.017636",
+      "wikidata": "Q1770610",
+      "one_munid": "60410",
+      "wikipedia": "en:Polo, Barahona",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7394881,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-7124584,-307828",
+    "name": "Paraíso",
+    "local_name": "Paraíso",
+    "name_en": null,
+    "all_tags": {
+      "name": "Paraíso",
+      "boundary": "administrative",
+      "way_area": "0.0116111",
+      "wikidata": "Q1988637",
+      "one_munid": "60404",
+      "wikipedia": "en:Paraíso, Barahona",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7394873,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-7124584,-307828",
+    "name": "Enriquillo",
+    "local_name": "Enriquillo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Enriquillo",
+      "boundary": "administrative",
+      "way_area": "0.027961",
+      "one_munid": "60403",
+      "wikipedia": "en:Enriquillo, Barahona",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7394842,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3420663,-307828",
+    "name": "Tamayo",
+    "local_name": "Tamayo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Tamayo",
+      "boundary": "administrative",
+      "way_area": "0.0371541",
+      "wikidata": "Q3980579",
+      "one_munid": "60303",
+      "wikipedia": "en:Tamayo,_Dominican_Republic",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7394827,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3421243,-307828",
+    "name": "Sabana Larga",
+    "local_name": "Sabana Larga",
+    "name_en": null,
+    "all_tags": {
+      "name": "Sabana Larga",
+      "boundary": "administrative",
+      "way_area": "0.014007",
+      "wikidata": "Q3944205",
+      "one_munid": "53102",
+      "wikipedia": "en:Sabana_Larga",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7394824,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3421243,-307828",
+    "name": "San José de Ocoa",
+    "local_name": "San José de Ocoa",
+    "name_en": null,
+    "all_tags": {
+      "name": "San José de Ocoa",
+      "boundary": "administrative",
+      "way_area": "0.0415018",
+      "wikidata": "Q2119082",
+      "one_munid": "53101",
+      "wikipedia": "en:San José de Ocoa",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7394816,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3422564,-307828",
+    "name": "Los Cacaos",
+    "local_name": "Los Cacaos",
+    "name_en": null,
+    "all_tags": {
+      "name": "Los Cacaos",
+      "boundary": "administrative",
+      "way_area": "0.0159193",
+      "wikidata": "Q3837396",
+      "one_munid": "52108",
+      "wikipedia": "en:Los_Cacaos",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7394815,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3422564,-307828",
+    "name": "Cambita Garabitos",
+    "local_name": "Cambita Garabitos",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cambita Garabitos",
+      "boundary": "administrative",
+      "way_area": "0.0147827",
+      "wikidata": "Q3651189",
+      "one_munid": "52104",
+      "wikipedia": "en:Cambita_Garabitos",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7394810,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3422564,-307828",
+    "name": "San Cristóbal",
+    "local_name": "San Cristóbal",
+    "name_en": null,
+    "all_tags": {
+      "name": "San Cristóbal",
+      "boundary": "administrative",
+      "way_area": "0.0181943",
+      "wikidata": "Q373759",
+      "one_munid": "52101",
+      "wikipedia": "en:San Cristóbal, Dominican Republic",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7394787,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3421246,-307828",
+    "name": "Nizao",
+    "local_name": "Nizao",
+    "name_en": null,
+    "all_tags": {
+      "name": "Nizao",
+      "boundary": "administrative",
+      "way_area": "0.00376553",
+      "wikidata": "Q3877399",
+      "one_munid": "51702",
+      "wikipedia": "en:Nizao",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7394782,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3421246,-307828",
+    "name": "Baní",
+    "local_name": "Baní",
+    "name_en": null,
+    "all_tags": {
+      "name": "Baní",
+      "boundary": "administrative",
+      "way_area": "0.0633109",
+      "wikidata": "Q1902349",
+      "one_munid": "51701",
+      "wikipedia": "en:Baní",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7394777,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3421245,-307828",
+    "name": "Estebanía",
+    "local_name": "Estebanía",
+    "name_en": null,
+    "all_tags": {
+      "name": "Estebanía",
+      "boundary": "administrative",
+      "way_area": "0.0182278",
+      "wikidata": "Q3733396",
+      "one_munid": "50210",
+      "wikipedia": "en:Estebanía, Azua",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7394770,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3421245,-307828",
+    "name": "Guayabal",
+    "local_name": "Guayabal",
+    "name_en": null,
+    "all_tags": {
+      "name": "Guayabal",
+      "boundary": "administrative",
+      "way_area": "0.0201823",
+      "wikidata": "Q984301",
+      "one_munid": "50209",
+      "wikipedia": "en:Guayabal,_Azua",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7394767,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3421245,-307828",
+    "name": "Tábara Arriba",
+    "local_name": "Tábara Arriba",
+    "name_en": null,
+    "all_tags": {
+      "name": "Tábara Arriba",
+      "boundary": "administrative",
+      "way_area": "0.0234929",
+      "wikidata": "Q1770884",
+      "one_munid": "50208",
+      "wikipedia": "en:Tábara Arriba",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7394762,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3421245,-307828",
+    "name": "Sabana Yegua",
+    "local_name": "Sabana Yegua",
+    "name_en": null,
+    "all_tags": {
+      "name": "Sabana Yegua",
+      "boundary": "administrative",
+      "way_area": "0.00972931",
+      "wikidata": "Q3944209",
+      "one_munid": "50206",
+      "wikipedia": "en:Sabana Yegua",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7394756,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3421245,-307828",
+    "name": "Peralta",
+    "local_name": "Peralta",
+    "name_en": null,
+    "all_tags": {
+      "name": "Peralta",
+      "boundary": "administrative",
+      "way_area": "0.0110736",
+      "wikidata": "Q3899640",
+      "one_munid": "50205",
+      "wikipedia": "en:Peralta,_Azua",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7394737,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3421245,-307828",
+    "name": "Padre Las Casas",
+    "local_name": "Padre Las Casas",
+    "name_en": null,
+    "all_tags": {
+      "name": "Padre Las Casas",
+      "boundary": "administrative",
+      "way_area": "0.0491743",
+      "wikidata": "Q966782",
+      "one_munid": "50204",
+      "wikipedia": "en:Padre_Las_Casas_(Azua)",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7394727,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3421245,-307828",
+    "name": "Las Yayas De Viajama",
+    "local_name": "Las Yayas De Viajama",
+    "name_en": null,
+    "all_tags": {
+      "name": "Las Yayas De Viajama",
+      "boundary": "administrative",
+      "way_area": "0.0368907",
+      "wikidata": "Q3827307",
+      "one_munid": "50203",
+      "wikipedia": "en:Yayas_de_Viajama",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7391027,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3421245,-307828",
+    "name": "Azua",
+    "local_name": "Azua",
+    "name_en": null,
+    "all_tags": {
+      "name": "Azua",
+      "boundary": "administrative",
+      "way_area": "0.0355978",
+      "one_munid": "50201",
+      "wikipedia": "en:Azua (city)",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7391022,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3412369,-307828",
+    "name": "Laguna Salada",
+    "local_name": "Laguna Salada",
+    "name_en": null,
+    "all_tags": {
+      "name": "Laguna Salada",
+      "boundary": "administrative",
+      "way_area": "0.0160299",
+      "wikidata": "Q1770074",
+      "one_munid": "42703",
+      "wikipedia": "en:Laguna_Salada",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7391016,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3412369,-307828",
+    "name": "Esperanza",
+    "local_name": "Esperanza",
+    "name_en": null,
+    "all_tags": {
+      "name": "Esperanza",
+      "boundary": "administrative",
+      "way_area": "0.0190922",
+      "wikidata": "Q1770079",
+      "one_munid": "42702",
+      "wikipedia": "en:Esperanza,_Dominican_Republic",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7391009,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3412369,-307828",
+    "name": "Mao",
+    "local_name": "Mao",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mao",
+      "boundary": "administrative",
+      "way_area": "0.0357132",
+      "wikidata": "Q23765188",
+      "one_munid": "42701",
+      "wikipedia": "en:Mao_(city)",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7391002,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3412368,-307828",
+    "name": "Monción",
+    "local_name": "Monción",
+    "name_en": null,
+    "all_tags": {
+      "name": "Monción",
+      "boundary": "administrative",
+      "way_area": "0.0119448",
+      "wikidata": "Q3307947",
+      "one_munid": "42603",
+      "wikipedia": "en:Monción",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7390993,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3412368,-307828",
+    "name": "Villa Los Almácigos",
+    "local_name": "Villa Los Almácigos",
+    "name_en": null,
+    "all_tags": {
+      "name": "Villa Los Almácigos",
+      "boundary": "administrative",
+      "way_area": "0.0178",
+      "wikidata": "Q1771482",
+      "one_munid": "42602",
+      "wikipedia": "en:Villa Los Almácigos",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7390991,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3412368,-307828",
+    "name": "San Ignacio De Sabaneta",
+    "local_name": "San Ignacio De Sabaneta",
+    "name_en": null,
+    "all_tags": {
+      "name": "San Ignacio De Sabaneta",
+      "boundary": "administrative",
+      "way_area": "0.0688704",
+      "one_munid": "42601",
+      "wikipedia": "en:Sabaneta, Dominican Republic",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7390982,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3411021,-307828",
+    "name": "Guayubín",
+    "local_name": "Guayubín",
+    "name_en": null,
+    "all_tags": {
+      "name": "Guayubín",
+      "boundary": "administrative",
+      "way_area": "0.0718007",
+      "wikidata": "Q377948",
+      "one_munid": "41503",
+      "wikipedia": "en:Guayubín",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7390957,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3411021,-307828",
+    "name": "Monte Cristi",
+    "local_name": "Monte Cristi",
+    "name_en": null,
+    "all_tags": {
+      "name": "Monte Cristi",
+      "boundary": "administrative",
+      "way_area": "0.0445536",
+      "one_munid": "41501",
+      "wikipedia": "en:San_Fernando_de_Monte_Cristi",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7390953,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3412367,-307828",
+    "name": "Restauración",
+    "local_name": "Restauración",
+    "name_en": null,
+    "all_tags": {
+      "name": "Restauración",
+      "boundary": "administrative",
+      "way_area": "0.0237456",
+      "wikidata": "Q1770897",
+      "one_munid": "40504",
+      "wikipedia": "en:Restauración",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7390919,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3412367,-307828",
+    "name": "Partido",
+    "local_name": "Partido",
+    "name_en": null,
+    "all_tags": {
+      "name": "Partido",
+      "boundary": "administrative",
+      "way_area": "0.0128891",
+      "wikidata": "Q3896653",
+      "one_munid": "40503",
+      "wikipedia": "en:Partido (Dajabón)",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7390913,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3412367,-307828",
+    "name": "Loma De Cabrera",
+    "local_name": "Loma De Cabrera",
+    "name_en": null,
+    "all_tags": {
+      "name": "Loma De Cabrera",
+      "boundary": "administrative",
+      "way_area": "0.0211201",
+      "wikidata": "Q1771467",
+      "one_munid": "40502",
+      "wikipedia": "en:Loma de Cabrera",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7386768,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3422242,-307828",
+    "name": "Sánchez",
+    "local_name": "Sánchez",
+    "name_en": null,
+    "all_tags": {
+      "name": "Sánchez",
+      "boundary": "administrative",
+      "way_area": "0.0292326",
+      "wikidata": "Q516965",
+      "one_munid": "32002",
+      "wikipedia": "en:Sánchez, Samaná",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7386746,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3422242,-307828",
+    "name": "Samaná",
+    "local_name": "Samaná",
+    "name_en": null,
+    "all_tags": {
+      "name": "Samaná",
+      "boundary": "administrative",
+      "way_area": "0.0352391",
+      "wikidata": "Q579950",
+      "one_munid": "32001",
+      "wikipedia": "en:Samaná (town)",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7386660,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3420313,-307828",
+    "name": "Villa Tapia",
+    "local_name": "Villa Tapia",
+    "name_en": null,
+    "all_tags": {
+      "name": "Villa Tapia",
+      "boundary": "administrative",
+      "way_area": "0.00786176",
+      "wikidata": "Q1770889",
+      "one_munid": "31903",
+      "wikipedia": "es:Villa Tapia",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7386647,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3420313,-307828",
+    "name": "Tenares",
+    "local_name": "Tenares",
+    "name_en": null,
+    "all_tags": {
+      "name": "Tenares",
+      "boundary": "administrative",
+      "way_area": "0.0136743",
+      "wikidata": "Q1770877",
+      "one_munid": "31902",
+      "wikipedia": "en:Tenares",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7386646,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3420313,-307828",
+    "name": "Salcedo",
+    "local_name": "Salcedo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Salcedo",
+      "boundary": "administrative",
+      "way_area": "0.0152353",
+      "one_munid": "31901",
+      "wikipedia": "es:Salcedo (República Dominicana)",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7386633,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3422241,-307828",
+    "name": "El Factor",
+    "local_name": "El Factor",
+    "name_en": null,
+    "all_tags": {
+      "name": "El Factor",
+      "boundary": "administrative",
+      "way_area": "0.0126166",
+      "wikidata": "Q3720911",
+      "one_munid": "31403",
+      "wikipedia": "en:El_Factor",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7386616,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3422241,-307828",
+    "name": "Nagua",
+    "local_name": "Nagua",
+    "name_en": null,
+    "all_tags": {
+      "name": "Nagua",
+      "boundary": "administrative",
+      "way_area": "0.0468877",
+      "wikidata": "Q23764659",
+      "one_munid": "31401",
+      "wikipedia": "en:Nagua",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7386448,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3420664,-307828",
+    "name": "Eugenio María De Hostos",
+    "local_name": "Eugenio María De Hostos",
+    "name_en": null,
+    "all_tags": {
+      "name": "Eugenio María De Hostos",
+      "boundary": "administrative",
+      "way_area": "0.00681832",
+      "wikidata": "Q3734395",
+      "one_munid": "30607",
+      "wikipedia": "en:Eugenio María de Hostos, Duarte",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7386390,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3420664,-307828",
+    "name": "Las Guáranas",
+    "local_name": "Las Guáranas",
+    "name_en": null,
+    "all_tags": {
+      "name": "Las Guáranas",
+      "boundary": "administrative",
+      "way_area": "0.00772595",
+      "wikidata": "Q3827243",
+      "one_munid": "30606",
+      "wikipedia": "en:Las Guáranas",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7386377,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3420664,-307828",
+    "name": "Villa Riva",
+    "local_name": "Villa Riva",
+    "name_en": null,
+    "all_tags": {
+      "name": "Villa Riva",
+      "boundary": "administrative",
+      "way_area": "0.0276249",
+      "wikidata": "Q949768",
+      "one_munid": "30605",
+      "wikipedia": "en:Villa Riva",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7386295,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3420664,-307828",
+    "name": "Pimentel",
+    "local_name": "Pimentel",
+    "name_en": null,
+    "all_tags": {
+      "name": "Pimentel",
+      "boundary": "administrative",
+      "way_area": "0.0104456",
+      "wikidata": "Q3905064",
+      "one_munid": "30604",
+      "wikipedia": "en:Pimentel, Dominican Republic",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7386285,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3420664,-307828",
+    "name": "Castillo",
+    "local_name": "Castillo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Castillo",
+      "boundary": "administrative",
+      "way_area": "0.0114449",
+      "wikidata": "Q3663066",
+      "one_munid": "30603",
+      "wikipedia": "en:Castillo_(Duarte)",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7386251,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3420664,-307828",
+    "name": "San Francisco de Macorís",
+    "local_name": "San Francisco de Macorís",
+    "name_en": null,
+    "all_tags": {
+      "name": "San Francisco de Macorís",
+      "boundary": "administrative",
+      "way_area": "0.0653298",
+      "wikidata": "Q681999",
+      "one_munid": "30601",
+      "wikipedia": "en:San Francisco de Macorís",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7384722,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3420315,-307828",
+    "name": "Maimón",
+    "local_name": "Maimón",
+    "name_en": null,
+    "all_tags": {
+      "name": "Maimón",
+      "boundary": "administrative",
+      "way_area": "0.00708289",
+      "wikidata": "Q3843528",
+      "one_munid": "22802",
+      "wikipedia": "en:Maimón, Monseñor Nouel",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7384719,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3420315,-307828",
+    "name": "Bonao",
+    "local_name": "Bonao",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bonao",
+      "boundary": "administrative",
+      "way_area": "0.0581726",
+      "one_munid": "22801",
+      "wikipedia": "en:Bonao",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7384718,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3420666,-307828",
+    "name": "La Mata",
+    "local_name": "La Mata",
+    "name_en": null,
+    "all_tags": {
+      "name": "La Mata",
+      "boundary": "administrative",
+      "way_area": "0.0163312",
+      "wikidata": "Q3820978",
+      "one_munid": "22404",
+      "wikipedia": "en:La Mata, Dominican Republic",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7384712,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3420666,-307828",
+    "name": "Fantino",
+    "local_name": "Fantino",
+    "name_en": null,
+    "all_tags": {
+      "name": "Fantino",
+      "boundary": "administrative",
+      "way_area": "0.00764174",
+      "wikidata": "Q3739410",
+      "one_munid": "22403",
+      "wikipedia": "en:Fantino",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7384706,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3420666,-307828",
+    "name": "Cevicos",
+    "local_name": "Cevicos",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cevicos",
+      "boundary": "administrative",
+      "way_area": "0.0210447",
+      "wikidata": "Q3665682",
+      "one_munid": "22402",
+      "wikipedia": "en:Cevicos",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7384704,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3420666,-307828",
+    "name": "Cotuí",
+    "local_name": "Cotuí",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cotuí",
+      "boundary": "administrative",
+      "way_area": "0.0567637",
+      "wikidata": "Q2087489",
+      "one_munid": "22401",
+      "wikipedia": "en:Cotuí",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7380800,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3420314,-307828",
+    "name": "Jarabacoa",
+    "local_name": "Jarabacoa",
+    "name_en": null,
+    "all_tags": {
+      "name": "Jarabacoa",
+      "boundary": "administrative",
+      "way_area": "0.0578668",
+      "wikidata": "Q23770738",
+      "one_munid": "21303",
+      "wikipedia": "en:Jarabacoa",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7380786,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3420314,-307828",
+    "name": "Constanza",
+    "local_name": "Constanza",
+    "name_en": null,
+    "all_tags": {
+      "name": "Constanza",
+      "boundary": "administrative",
+      "way_area": "0.0729129",
+      "wikidata": "Q23776742",
+      "one_munid": "21302",
+      "wikipedia": "en:Constanza,_Dominican_Republic",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7380779,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3420314,-307828",
+    "name": "La Vega",
+    "local_name": "La Vega",
+    "name_en": null,
+    "all_tags": {
+      "name": "La Vega",
+      "boundary": "administrative",
+      "way_area": "0.0551755",
+      "one_munid": "21301",
+      "wikipedia": "en:La Vega (city)",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7380752,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3412920,-307828",
+    "name": "Sabana Iglesia",
+    "local_name": "Sabana Iglesia",
+    "name_en": null,
+    "all_tags": {
+      "name": "Sabana Iglesia",
+      "boundary": "administrative",
+      "way_area": "0.00505579",
+      "wikidata": "Q3944203",
+      "one_munid": "12509",
+      "wikipedia": "en:Sabana_Iglesia",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7380742,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3412920,-307828",
+    "name": "Puñal",
+    "local_name": "Puñal",
+    "name_en": null,
+    "all_tags": {
+      "name": "Puñal",
+      "boundary": "administrative",
+      "way_area": "0.00521247",
+      "wikidata": "Q3926050",
+      "one_munid": "12508",
+      "wikipedia": "en:Puñal",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7380703,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3412920,-307828",
+    "name": "Tamboril",
+    "local_name": "Tamboril",
+    "name_en": null,
+    "all_tags": {
+      "name": "Tamboril",
+      "boundary": "administrative",
+      "way_area": "0.00612214",
+      "wikidata": "Q3980588",
+      "one_munid": "12506",
+      "wikipedia": "en:Tamboril, Dominican Republic",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7380701,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3412920,-307828",
+    "name": "San José De Las Matas",
+    "local_name": "San José De Las Matas",
+    "name_en": null,
+    "all_tags": {
+      "name": "San José De Las Matas",
+      "boundary": "administrative",
+      "way_area": "0.130458",
+      "wikidata": "Q3947426",
+      "one_munid": "12505",
+      "wikipedia": "en:San José de las Matas",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7380690,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3412920,-307828",
+    "name": "Licey Al Medio",
+    "local_name": "Licey Al Medio",
+    "name_en": null,
+    "all_tags": {
+      "name": "Licey Al Medio",
+      "boundary": "administrative",
+      "way_area": "0.00232632",
+      "wikidata": "Q3831982",
+      "one_munid": "12504",
+      "wikipedia": "en:Licey_al_Medio",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7380651,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3412920,-307828",
+    "name": "Jánico",
+    "local_name": "Jánico",
+    "name_en": null,
+    "all_tags": {
+      "name": "Jánico",
+      "boundary": "administrative",
+      "way_area": "0.0346272",
+      "wikidata": "Q1770660",
+      "one_munid": "12503",
+      "wikipedia": "en:Jánico",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7380647,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3412920,-307828",
+    "name": "Bisonó",
+    "local_name": "Bisonó",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bisonó",
+      "boundary": "administrative",
+      "way_area": "0.00800628",
+      "wikidata": "Q2690547",
+      "one_munid": "12502",
+      "wikipedia": "en:Villa Bisonó",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7380638,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3412920,-307828",
+    "name": "Santiago",
+    "local_name": "Santiago",
+    "name_en": null,
+    "all_tags": {
+      "name": "Santiago",
+      "name:zh": "圣地牙哥",
+      "boundary": "administrative",
+      "way_area": "0.0407925",
+      "wikidata": "Q42763",
+      "one_munid": "12501",
+      "wikipedia": "en:Santiago de los Caballeros",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7380629,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3412919,-307828",
+    "name": "Luperón",
+    "local_name": "Luperón",
+    "name_en": null,
+    "all_tags": {
+      "name": "Luperón",
+      "boundary": "administrative",
+      "way_area": "0.0220611",
+      "wikidata": "Q3840823",
+      "one_munid": "11806",
+      "wikipedia": "en:Luperón, Puerto Plata",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7380617,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3412919,-307828",
+    "name": "Altamira",
+    "local_name": "Altamira",
+    "name_en": null,
+    "all_tags": {
+      "name": "Altamira",
+      "boundary": "administrative",
+      "way_area": "0.0152766",
+      "wikidata": "Q3613119",
+      "one_munid": "11802",
+      "wikipedia": "en:Altamira, Dominican Republic",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7380607,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3412919,-307828",
+    "name": "Puerto Plata",
+    "local_name": "Puerto Plata",
+    "name_en": null,
+    "all_tags": {
+      "name": "Puerto Plata",
+      "boundary": "administrative",
+      "way_area": "0.0433447",
+      "wikidata": "Q988413",
+      "one_munid": "11801",
+      "wikipedia": "en:Puerto Plata, Dominican Republic",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7380533,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3412918,-307828",
+    "name": "Moca",
+    "local_name": "Moca",
+    "name_en": null,
+    "all_tags": {
+      "name": "Moca",
+      "boundary": "administrative",
+      "way_area": "0.0292527",
+      "wikidata": "Q1241374",
+      "one_munid": "10901",
+      "wikipedia": "es:Moca, Espaillat",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7376886,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3422565,-307828",
+    "name": "San Antonio de Guerra",
+    "local_name": "San Antonio de Guerra",
+    "name_en": null,
+    "all_tags": {
+      "name": "San Antonio de Guerra",
+      "boundary": "administrative",
+      "way_area": "0.0242977",
+      "wikidata": "Q1770873",
+      "one_munid": "103205",
+      "wikipedia": "en:San_Antonio_de_Guerra",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7376870,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3420664,-307828",
+    "name": "Arenoso",
+    "local_name": "Arenoso",
+    "name_en": null,
+    "all_tags": {
+      "name": "Arenoso",
+      "boundary": "administrative",
+      "way_area": "0.0124395",
+      "wikidata": "Q3622180",
+      "one_munid": "30602",
+      "wikipedia": "es:Arenoso",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7373854,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3420315,-307828",
+    "name": "Piedra Blanca",
+    "local_name": "Piedra Blanca",
+    "name_en": null,
+    "all_tags": {
+      "name": "Piedra Blanca",
+      "boundary": "administrative",
+      "way_area": "0.0198355",
+      "wikidata": "Q1770214",
+      "one_munid": "22803",
+      "wikipedia": "en:Piedra_Blanca",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7373852,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3420314,-307828",
+    "name": "Jima Abajo",
+    "local_name": "Jima Abajo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Jima Abajo",
+      "boundary": "administrative",
+      "way_area": "0.010827",
+      "wikidata": "Q3808393",
+      "one_munid": "21304",
+      "wikipedia": "en:Jima Abajo",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7373398,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3412920,-307828",
+    "name": "Villa González",
+    "local_name": "Villa González",
+    "name_en": null,
+    "all_tags": {
+      "name": "Villa González",
+      "boundary": "administrative",
+      "way_area": "0.00862739",
+      "wikidata": "Q4012077",
+      "one_munid": "12507",
+      "wikipedia": "en:Villa González",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7373133,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3412919,-307828",
+    "name": "Villa Montellano",
+    "local_name": "Villa Montellano",
+    "name_en": null,
+    "all_tags": {
+      "name": "Villa Montellano",
+      "boundary": "administrative",
+      "way_area": "0.00619724",
+      "wikidata": "Q4012342",
+      "one_munid": "11809",
+      "wikipedia": "en:Villa Montellano",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7367030,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3412919,-307828",
+    "name": "Villa Isabela",
+    "local_name": "Villa Isabela",
+    "name_en": null,
+    "all_tags": {
+      "name": "Villa Isabela",
+      "boundary": "administrative",
+      "way_area": "0.018243",
+      "one_munid": "11808",
+      "wikipedia": "en:Villa_Isabela",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7367027,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3412919,-307828",
+    "name": "Sosúa",
+    "local_name": "Sosúa",
+    "name_en": null,
+    "all_tags": {
+      "name": "Sosúa",
+      "boundary": "administrative",
+      "way_area": "0.0230738",
+      "wikidata": "Q1639488",
+      "one_munid": "11807",
+      "wikipedia": "en:Sosúa",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7366401,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3412919,-307828",
+    "name": "Los Hidalgos",
+    "local_name": "Los Hidalgos",
+    "name_en": null,
+    "all_tags": {
+      "name": "Los Hidalgos",
+      "boundary": "administrative",
+      "way_area": "0.00840304",
+      "wikidata": "Q518820",
+      "one_munid": "11805",
+      "wikipedia": "en:Los_Hidalgos",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7366345,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3412919,-307828",
+    "name": "Imbert",
+    "local_name": "Imbert",
+    "name_en": null,
+    "all_tags": {
+      "name": "Imbert",
+      "boundary": "administrative",
+      "way_area": "0.0138641",
+      "wikidata": "Q3796589",
+      "one_munid": "11804",
+      "wikipedia": "en:Imbert,_Puerto_Plata",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7366332,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3412919,-307828",
+    "name": "Guananico",
+    "local_name": "Guananico",
+    "name_en": null,
+    "all_tags": {
+      "name": "Guananico",
+      "boundary": "administrative",
+      "way_area": "0.00513898",
+      "wikidata": "Q3778171",
+      "one_munid": "11803",
+      "wikipedia": "en:Guananico",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7366308,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3412918,-307828",
+    "name": "Jamao Al Norte",
+    "local_name": "Jamao Al Norte",
+    "name_en": null,
+    "all_tags": {
+      "name": "Jamao Al Norte",
+      "boundary": "administrative",
+      "way_area": "0.00982136",
+      "wikidata": "Q3806431",
+      "one_munid": "10904",
+      "wikipedia": "es:Jamao Al Norte",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7366018,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3412918,-307828",
+    "name": "Gaspar Hernández",
+    "local_name": "Gaspar Hernández",
+    "name_en": null,
+    "all_tags": {
+      "name": "Gaspar Hernández",
+      "boundary": "administrative",
+      "way_area": "0.0319153",
+      "wikidata": "Q3758618",
+      "one_munid": "10903",
+      "wikipedia": "en:Gaspar Hernández",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7366014,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3412918,-307828",
+    "name": "Cayetano Germosén",
+    "local_name": "Cayetano Germosén",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cayetano Germosén",
+      "boundary": "administrative",
+      "way_area": "0.00154236",
+      "wikidata": "Q3664033",
+      "one_munid": "10902",
+      "wikipedia": "en:Cayetano Germosen",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7187336,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3422242,-307828",
+    "name": "Las Terrenas",
+    "local_name": "Las Terrenas",
+    "name_en": null,
+    "all_tags": {
+      "name": "Las Terrenas",
+      "boundary": "administrative",
+      "way_area": "0.00958316",
+      "wikidata": "Q1806486",
+      "one_munid": "32003",
+      "wikipedia": "en:Las Terrenas",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7187312,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3422241,-307828",
+    "name": "Río San Juan",
+    "local_name": "Río San Juan",
+    "name_en": null,
+    "all_tags": {
+      "name": "Río San Juan",
+      "boundary": "administrative",
+      "way_area": "0.0210417",
+      "wikidata": "Q3943218",
+      "one_munid": "31404",
+      "admin_level": "6",
+      "wikipedia:fixme": "en:Río San Juan, María Trinidad Sán"
+    }
+  },
+  {
+    "osm_id": -7187309,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3422241,-307828",
+    "name": "Cabrera",
+    "local_name": "Cabrera",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cabrera",
+      "boundary": "administrative",
+      "way_area": "0.0232593",
+      "wikidata": "Q3649225",
+      "one_munid": "31402",
+      "wikipedia": "en:Cabrera, María Trinidad Sánchez",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7187306,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3411021,-307828",
+    "name": "Las Matas de Santa Cruz",
+    "local_name": "Las Matas de Santa Cruz",
+    "name_en": null,
+    "all_tags": {
+      "name": "Las Matas de Santa Cruz",
+      "boundary": "administrative",
+      "way_area": "0.00618489",
+      "wikidata": "Q3827245",
+      "one_munid": "41504",
+      "wikipedia": "en:Las Matas de Santa Cruz",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7187303,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3411021,-307828",
+    "name": "Castañuelas",
+    "local_name": "Castañuelas",
+    "name_en": null,
+    "all_tags": {
+      "name": "Castañuelas",
+      "boundary": "administrative",
+      "way_area": "0.00747185",
+      "wikidata": "Q519050",
+      "one_munid": "41502",
+      "wikipedia": "en:Castañuela",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7187302,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3412367,-307828",
+    "name": "El Pino",
+    "local_name": "El Pino",
+    "name_en": null,
+    "all_tags": {
+      "name": "El Pino",
+      "boundary": "administrative",
+      "way_area": "0.00754201",
+      "wikidata": "Q3720977",
+      "one_munid": "40505",
+      "wikipedia": "en:El Pino, Dominican Republic",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7187300,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3412367,-307828",
+    "name": "Dajabón",
+    "local_name": "Dajabón",
+    "name_en": null,
+    "all_tags": {
+      "name": "Dajabón",
+      "boundary": "administrative",
+      "way_area": "0.0224324",
+      "wikidata": "Q1969407",
+      "one_munid": "40501",
+      "wikipedia": "en:Dajabón",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7167287,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3411021,-307828",
+    "name": "Pepillo Salcedo",
+    "local_name": "Pepillo Salcedo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Pepillo Salcedo",
+      "boundary": "administrative",
+      "way_area": "0.0130098",
+      "wikidata": "Q3899368",
+      "one_munid": "41505",
+      "wikipedia": "es:Pepillo Salcedo",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7167186,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3411021,-307828",
+    "name": "Villa Vásquez",
+    "local_name": "Villa Vásquez",
+    "name_en": null,
+    "all_tags": {
+      "name": "Villa Vásquez",
+      "boundary": "administrative",
+      "way_area": "0.0193459",
+      "wikidata": "Q1770880",
+      "one_munid": "41506",
+      "wikipedia": "es:Villa Vásquez",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7162902,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3421245,-307828",
+    "name": "Pueblo Viejo",
+    "local_name": "Pueblo Viejo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Pueblo Viejo",
+      "boundary": "administrative",
+      "way_area": "0.00411374",
+      "wikidata": "Q3925382",
+      "one_munid": "50207",
+      "wikipedia": "es:Pueblo Viejo, Dominican Republic",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7162901,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3421245,-307828",
+    "name": "Las Charcas",
+    "local_name": "Las Charcas",
+    "name_en": null,
+    "all_tags": {
+      "name": "Las Charcas",
+      "boundary": "administrative",
+      "way_area": "0.0210934",
+      "wikidata": "Q676874",
+      "one_munid": "50202",
+      "wikipedia": "en:Las Charcas",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7159852,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3422564,-307828",
+    "name": "San Gregorio de Nigua",
+    "local_name": "San Gregorio de Nigua",
+    "name_en": null,
+    "all_tags": {
+      "name": "San Gregorio de Nigua",
+      "boundary": "administrative",
+      "way_area": "0.00436916",
+      "wikidata": "Q3947356",
+      "one_munid": "52107",
+      "wikipedia": "en:San Gregorio de Nigua",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7159850,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3422564,-307828",
+    "name": "Yaguate",
+    "local_name": "Yaguate",
+    "name_en": null,
+    "all_tags": {
+      "name": "Yaguate",
+      "boundary": "administrative",
+      "way_area": "0.0104698",
+      "wikidata": "Q4022373",
+      "one_munid": "52106",
+      "wikipedia": "en:Yaguate",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7159844,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3422564,-307828",
+    "name": "Villa Altagracia",
+    "local_name": "Villa Altagracia",
+    "name_en": null,
+    "all_tags": {
+      "name": "Villa Altagracia",
+      "boundary": "administrative",
+      "way_area": "0.0365097",
+      "wikidata": "Q4011765",
+      "one_munid": "52105",
+      "wikipedia": "en:Villa Altagracia",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7159796,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3422564,-307828",
+    "name": "Bajos de Haina",
+    "local_name": "Bajos de Haina",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bajos de Haina",
+      "boundary": "administrative",
+      "way_area": "0.00340183",
+      "wikidata": "Q2438383",
+      "one_munid": "52103",
+      "wikipedia": "en:Bajos de Haina",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7159795,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3422564,-307828",
+    "name": "Sabana Grande de Palenque",
+    "local_name": "Sabana Grande de Palenque",
+    "name_en": null,
+    "all_tags": {
+      "name": "Sabana Grande de Palenque",
+      "boundary": "administrative",
+      "way_area": "0.00256616",
+      "wikidata": "Q3944201",
+      "one_munid": "52102",
+      "wikipedia": "en:Sabana Grande de Palenque",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7158801,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3422239,-307828",
+    "name": "El Valle",
+    "local_name": "El Valle",
+    "name_en": null,
+    "all_tags": {
+      "name": "El Valle",
+      "boundary": "administrative",
+      "way_area": "0.0139744",
+      "ISO3166-2": "DO-37",
+      "one_munid": "93003",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7158797,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3420529,-307828",
+    "name": "Peralvillo",
+    "local_name": "Peralvillo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Peralvillo",
+      "boundary": "administrative",
+      "way_area": "0.0116649",
+      "wikidata": "Q3733090",
+      "one_munid": "92905",
+      "wikipedia": "en:Peralvillo",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7158790,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3422259,-307828",
+    "name": "Quisqueya",
+    "local_name": "Quisqueya",
+    "name_en": null,
+    "all_tags": {
+      "name": "Quisqueya",
+      "boundary": "administrative",
+      "way_area": "0.0128034",
+      "wikidata": "Q3928010",
+      "one_munid": "92305",
+      "wikipedia": "en:Quisqueya, Dominican Republic",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7158789,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3422259,-307828",
+    "name": "Consuelo",
+    "local_name": "Consuelo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Consuelo",
+      "boundary": "administrative",
+      "way_area": "0.0112966",
+      "wikidata": "Q3687664",
+      "one_munid": "92304",
+      "wikipedia": "en:Consuelo, Dominican Republic",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7158788,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3422259,-307828",
+    "name": "Ramón Santana",
+    "local_name": "Ramón Santana",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ramón Santana",
+      "boundary": "administrative",
+      "way_area": "0.0214735",
+      "wikidata": "Q3929979",
+      "one_munid": "92303",
+      "wikipedia": "en:Ramón Santana",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7156019,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3421243,-307828",
+    "name": "Rancho Arriba",
+    "local_name": "Rancho Arriba",
+    "name_en": null,
+    "all_tags": {
+      "name": "Rancho Arriba",
+      "boundary": "administrative",
+      "way_area": "0.0175671",
+      "wikidata": "Q3930002",
+      "one_munid": "53103",
+      "wikipedia": "en:Rancho Arriba",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7156012,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3420663,-307828",
+    "name": "Neiba",
+    "local_name": "Neiba",
+    "name_en": null,
+    "all_tags": {
+      "name": "Neiba",
+      "boundary": "administrative",
+      "way_area": "0.0241374",
+      "wikidata": "Q2107258",
+      "one_munid": "60301",
+      "wikipedia": "en:Neiba",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7155992,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3420316,-307828",
+    "name": "Vallejuelo",
+    "local_name": "Vallejuelo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Vallejuelo",
+      "boundary": "administrative",
+      "way_area": "0.0189713",
+      "wikidata": "Q4008204",
+      "one_munid": "72206",
+      "wikipedia": "en:Vallejuelo",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7155990,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3420316,-307828",
+    "name": "El Cercado",
+    "local_name": "El Cercado",
+    "name_en": null,
+    "all_tags": {
+      "name": "El Cercado",
+      "boundary": "administrative",
+      "way_area": "0.0237907",
+      "wikidata": "Q3720880",
+      "one_munid": "72203",
+      "wikipedia": "en:El Cercado",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7155987,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3420316,-307828",
+    "name": "Bohechío",
+    "local_name": "Bohechío",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bohechío",
+      "boundary": "administrative",
+      "way_area": "0.0348166",
+      "wikidata": "Q4490010",
+      "one_munid": "72202",
+      "wikipedia": "en:Bohechío",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7155984,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3420312,-307828",
+    "name": "Juan Santiago",
+    "local_name": "Juan Santiago",
+    "name_en": null,
+    "all_tags": {
+      "name": "Juan Santiago",
+      "boundary": "administrative",
+      "way_area": "0.00874361",
+      "wikidata": "Q2430390",
+      "one_munid": "70706",
+      "wikipedia": "en:Juan Santiago, Dominican Republic",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7155960,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3420312,-307828",
+    "name": "Hondo Valle",
+    "local_name": "Hondo Valle",
+    "name_en": null,
+    "all_tags": {
+      "name": "Hondo Valle",
+      "boundary": "administrative",
+      "way_area": "0.0104527",
+      "wikidata": "Q2430363",
+      "one_munid": "70704",
+      "wikipedia": "en:Hondo Valle",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7155959,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3420312,-307828",
+    "name": "El Llano",
+    "local_name": "El Llano",
+    "name_en": null,
+    "all_tags": {
+      "name": "El Llano",
+      "boundary": "administrative",
+      "way_area": "0.00847299",
+      "wikidata": "Q2430423",
+      "one_munid": "70703",
+      "wikipedia": "en:El Llano, Dominican Republic",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7153752,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3421242,-307828",
+    "name": "Oviedo",
+    "local_name": "Oviedo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Oviedo",
+      "boundary": "administrative",
+      "way_area": "0.0817171",
+      "wikidata": "Q1770802",
+      "one_munid": "61602",
+      "wikipedia": "en:Oviedo, Dominican Republic",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7153751,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3421242,-307828",
+    "name": "Pedernales",
+    "local_name": "Pedernales",
+    "name_en": null,
+    "all_tags": {
+      "name": "Pedernales",
+      "boundary": "administrative",
+      "way_area": "0.0955352",
+      "wikidata": "Q2628384",
+      "one_munid": "61601",
+      "wikipedia": "en:Pedernales, Dominican Republic",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7153747,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3420665,-307828",
+    "name": "Mella",
+    "local_name": "Mella",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mella",
+      "boundary": "administrative",
+      "way_area": "0.0327246",
+      "wikidata": "Q3854258",
+      "one_munid": "61006",
+      "wikipedia": "en:Mella, Independencia",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7153746,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3420665,-307828",
+    "name": "Cristóbal",
+    "local_name": "Cristóbal",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cristóbal",
+      "boundary": "administrative",
+      "way_area": "0.0135521",
+      "wikidata": "Q963497",
+      "one_munid": "61005",
+      "wikipedia": "en:Cristóbal, Dominican Republic",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7153745,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3420665,-307828",
+    "name": "Postrer Río",
+    "local_name": "Postrer Río",
+    "name_en": null,
+    "all_tags": {
+      "name": "Postrer Río",
+      "boundary": "administrative",
+      "way_area": "0.010494",
+      "wikidata": "Q3909478",
+      "one_munid": "61004",
+      "wikipedia": "en:Postrer Río",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7153737,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3420665,-307828",
+    "name": "La Descubierta",
+    "local_name": "La Descubierta",
+    "name_en": null,
+    "all_tags": {
+      "name": "La Descubierta",
+      "boundary": "administrative",
+      "way_area": "0.0163574",
+      "wikidata": "Q3820813",
+      "one_munid": "61003",
+      "wikipedia": "en:La Descubierta",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7153735,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3420665,-307828",
+    "name": "Duvergé",
+    "local_name": "Duvergé",
+    "name_en": null,
+    "all_tags": {
+      "name": "Duvergé",
+      "boundary": "administrative",
+      "way_area": "0.0376584",
+      "wikidata": "Q3716731",
+      "one_munid": "61002",
+      "wikipedia": "en:Duvergé",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7153734,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3420665,-307828",
+    "name": "Jimaní",
+    "local_name": "Jimaní",
+    "name_en": null,
+    "all_tags": {
+      "name": "Jimaní",
+      "boundary": "administrative",
+      "way_area": "0.0401138",
+      "wikidata": "Q1409818",
+      "one_munid": "61001",
+      "wikipedia": "en:Jimaní",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7151622,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-7124584,-307828",
+    "name": "Las Salinas",
+    "local_name": "Las Salinas",
+    "name_en": null,
+    "all_tags": {
+      "name": "Las Salinas",
+      "boundary": "administrative",
+      "way_area": "0.0108029",
+      "wikidata": "Q3827252",
+      "one_munid": "60409",
+      "wikipedia": "en:Las Salinas",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7151620,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-7124584,-307828",
+    "name": "Fundación",
+    "local_name": "Fundación",
+    "name_en": null,
+    "all_tags": {
+      "name": "Fundación",
+      "boundary": "administrative",
+      "way_area": "0.00445843",
+      "wikidata": "Q3754387",
+      "one_munid": "60408",
+      "wikipedia": "en:Fundación, Dominican Republic",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7151619,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-7124584,-307828",
+    "name": "La Ciénaga",
+    "local_name": "La Ciénaga",
+    "name_en": null,
+    "all_tags": {
+      "name": "La Ciénaga",
+      "boundary": "administrative",
+      "way_area": "0.00996789",
+      "wikidata": "Q3820737",
+      "one_munid": "60407",
+      "wikipedia": "en:La Ciénaga",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7151618,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-7124584,-307828",
+    "name": "El Peñón",
+    "local_name": "El Peñón",
+    "name_en": null,
+    "all_tags": {
+      "name": "El Peñón",
+      "boundary": "administrative",
+      "way_area": "0.00356992",
+      "wikidata": "Q1770893",
+      "one_munid": "60406",
+      "wikipedia": "en:El Peñón, Dominican Republic",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7151616,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-7124584,-307828",
+    "name": "Vicente Noble",
+    "local_name": "Vicente Noble",
+    "name_en": null,
+    "all_tags": {
+      "name": "Vicente Noble",
+      "boundary": "administrative",
+      "way_area": "0.0210419",
+      "wikidata": "Q1770645",
+      "one_munid": "60405",
+      "wikipedia": "en:Vicente Noble",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7151468,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-7124584,-307828",
+    "name": "Barahona",
+    "local_name": "Barahona",
+    "name_en": null,
+    "all_tags": {
+      "name": "Barahona",
+      "boundary": "administrative",
+      "way_area": "0.0143895",
+      "wikidata": "Q958586",
+      "one_munid": "60401",
+      "wikipedia": "en:Barahona, Dominican Republic",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7151462,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3420663,-307828",
+    "name": "Los Ríos",
+    "local_name": "Los Ríos",
+    "name_en": null,
+    "all_tags": {
+      "name": "Los Ríos",
+      "boundary": "administrative",
+      "way_area": "0.0127754",
+      "wikidata": "Q3837408",
+      "one_munid": "60305",
+      "wikipedia": "en:Los Ríos, Dominican Republic",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7151459,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3420663,-307828",
+    "name": "Villa Jaragua",
+    "local_name": "Villa Jaragua",
+    "name_en": null,
+    "all_tags": {
+      "name": "Villa Jaragua",
+      "boundary": "administrative",
+      "way_area": "0.0117313",
+      "wikidata": "Q4012143",
+      "one_munid": "60304",
+      "wikipedia": "en:Villa Jaragua",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7151393,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3420663,-307828",
+    "name": "Galván",
+    "local_name": "Galván",
+    "name_en": null,
+    "all_tags": {
+      "name": "Galván",
+      "boundary": "administrative",
+      "way_area": "0.0240672",
+      "wikidata": "Q3757889",
+      "one_munid": "60302",
+      "wikipedia": "en:Galván, Dominican Republic",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7149200,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-7124584,-307828",
+    "name": "Cabral",
+    "local_name": "Cabral",
+    "name_en": null,
+    "all_tags": {
+      "name": "Cabral",
+      "boundary": "administrative",
+      "way_area": "0.0103757",
+      "wikidata": "Q1770655",
+      "one_munid": "60402",
+      "wikipedia": "en:Cabral, Dominican Republic",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -7124584,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-307828",
+    "name": "Barahona",
+    "local_name": "Barahona",
+    "name_en": null,
+    "all_tags": {
+      "name": "Barahona",
+      "name:ja": "バラオーナ州",
+      "ref:ONE": "0604",
+      "boundary": "administrative",
+      "way_area": "0.141665",
+      "wikidata": "Q1137551",
+      "ISO3166-2": "DO-04",
+      "wikipedia": "es:Barahona (República Dominicana)",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -3422565,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-307828",
+    "name": "Santo Domingo",
+    "local_name": "Santo Domingo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Santo Domingo",
+      "name:ja": "サント・ドミンゴ州",
+      "ref:ONE": "1032",
+      "boundary": "administrative",
+      "way_area": "0.111435",
+      "wikidata": "Q1352536",
+      "ISO3166-2": "DO-32",
+      "wikipedia": "es:Santo Domingo (provincia)",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -3422564,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-307828",
+    "name": "San Cristóbal",
+    "local_name": "San Cristóbal",
+    "name_en": null,
+    "all_tags": {
+      "name": "San Cristóbal",
+      "ref:ONE": "0521",
+      "boundary": "administrative",
+      "way_area": "0.106213",
+      "wikidata": "Q1366107",
+      "ISO3166-2": "DO-21",
+      "wikipedia": "es:San Cristóbal (provincia)",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -3422259,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-307828",
+    "name": "San Pedro de Macorís",
+    "local_name": "San Pedro de Macorís",
+    "name_en": null,
+    "all_tags": {
+      "name": "San Pedro de Macorís",
+      "name:ja": "サン・ペドロ・デ・マコリス州",
+      "ref:ONE": "0923",
+      "boundary": "administrative",
+      "way_area": "0.107396",
+      "wikidata": "Q1366119",
+      "ISO3166-2": "DO-23",
+      "wikipedia": "es:San Pedro de Macorís",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -3422258,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-307828",
+    "name": "La Romana",
+    "local_name": "La Romana",
+    "name_en": null,
+    "all_tags": {
+      "name": "La Romana",
+      "name:ja": "ラ・ロマーナ州",
+      "ref:ONE": "0812",
+      "boundary": "administrative",
+      "way_area": "0.04646",
+      "wikidata": "Q1140742",
+      "ISO3166-2": "DO-12",
+      "wikipedia": "es:La Romana (provincia)",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -3422242,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-307828",
+    "name": "Samaná",
+    "local_name": "Samaná",
+    "name_en": null,
+    "all_tags": {
+      "name": "Samaná",
+      "ref:ONE": "0320",
+      "boundary": "administrative",
+      "way_area": "0.0740549",
+      "wikidata": "Q1145487",
+      "ISO3166-2": "DO-20",
+      "wikipedia": "es:Samaná",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -3422241,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-307828",
+    "name": "María Trinidad Sánchez",
+    "local_name": "María Trinidad Sánchez",
+    "name_en": null,
+    "all_tags": {
+      "name": "María Trinidad Sánchez",
+      "name:ja": "マリア・トリニダー・サンチェス州",
+      "ref:ONE": "0314",
+      "boundary": "administrative",
+      "way_area": "0.103805",
+      "wikidata": "Q1949656",
+      "ISO3166-2": "DO-14",
+      "wikipedia": "es:María Trinidad Sánchez (provincia)",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -3422240,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-307828",
+    "name": "La Altagracia",
+    "local_name": "La Altagracia",
+    "name_en": null,
+    "all_tags": {
+      "name": "La Altagracia",
+      "name:ja": "ラ・アルタグラシア州",
+      "name:ru": "Ла-Альтаграсия",
+      "ref:ONE": "0811",
+      "boundary": "administrative",
+      "way_area": "0.265832",
+      "wikidata": "Q1323353",
+      "ISO3166-2": "DO-11",
+      "wikipedia": "es:Provincia de La Altagracia",
+      "admin_level": "4",
+      "border_type": "province"
+    }
+  },
+  {
+    "osm_id": -3422239,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-307828",
+    "name": "Hato Mayor",
+    "local_name": "Hato Mayor",
+    "name_en": null,
+    "all_tags": {
+      "name": "Hato Mayor",
+      "name:ru": "Ато-Майор",
+      "ref:ONE": "0930",
+      "boundary": "administrative",
+      "way_area": "0.11318",
+      "wikidata": "Q937217",
+      "ISO3166-2": "DO-30",
+      "wikipedia": "es:Hato Mayor",
+      "admin_level": "4",
+      "border_type": "province"
+    }
+  },
+  {
+    "osm_id": -3422238,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-307828",
+    "name": "El Seibo",
+    "local_name": "El Seibo",
+    "name_en": null,
+    "all_tags": {
+      "name": "El Seibo",
+      "name:ja": "エル・セイボ州",
+      "ref:ONE": "0808",
+      "boundary": "administrative",
+      "way_area": "0.153391",
+      "wikidata": "Q1774831",
+      "ISO3166-2": "DO-08",
+      "wikipedia": "es: Provincia_de_El_Seibo",
+      "admin_level": "4",
+      "border_type": "province"
+    }
+  },
+  {
+    "osm_id": -3421246,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-307828",
+    "name": "Peravia",
+    "local_name": "Peravia",
+    "name_en": null,
+    "all_tags": {
+      "name": "Peravia",
+      "name:ja": "ペラビア州",
+      "ref:ONE": "0517",
+      "boundary": "administrative",
+      "way_area": "0.0670764",
+      "wikidata": "Q1331932",
+      "ISO3166-2": "DO-17",
+      "wikipedia": "es:Peravia",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -3421245,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-307828",
+    "name": "Azua",
+    "local_name": "Azua",
+    "name_en": null,
+    "all_tags": {
+      "name": "Azua",
+      "name:ja": "アスア州",
+      "ref:ONE": "0502",
+      "boundary": "administrative",
+      "way_area": "0.229576",
+      "wikidata": "Q794239",
+      "ISO3166-2": "DO-02",
+      "wikipedia": "es:Azua",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -3421243,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-307828",
+    "name": "San José de Ocoa",
+    "local_name": "San José de Ocoa",
+    "name_en": null,
+    "all_tags": {
+      "name": "San José de Ocoa",
+      "name:ja": "サン・ホセ・デ・オコア州",
+      "ref:ONE": "0531",
+      "boundary": "administrative",
+      "way_area": "0.073076",
+      "wikidata": "Q1424391",
+      "ISO3166-2": "DO-31",
+      "wikipedia": "es:San José de Ocoa",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -3421242,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-307828",
+    "name": "Pedernales",
+    "local_name": "Pedernales",
+    "name_en": null,
+    "all_tags": {
+      "name": "Pedernales",
+      "name:ja": "ペデルナレス州",
+      "name:ru": "Педерналес",
+      "ref:ONE": "0616",
+      "boundary": "administrative",
+      "way_area": "0.177237",
+      "wikidata": "Q1352533",
+      "ISO3166-2": "DO-16",
+      "wikipedia": "es:Provincia de Pedernales",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -3420666,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-307828",
+    "name": "Sánchez Ramírez",
+    "local_name": "Sánchez Ramírez",
+    "name_en": null,
+    "all_tags": {
+      "name": "Sánchez Ramírez",
+      "name:ja": "Sánchez Ramírez",
+      "ref:ONE": "0224",
+      "boundary": "administrative",
+      "way_area": "0.101781",
+      "wikidata": "Q1836903",
+      "ISO3166-2": "DO-24",
+      "wikipedia": "es:Sánchez Ramírez (provincia)",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -3420665,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-307828",
+    "name": "Independencia",
+    "local_name": "Independencia",
+    "name_en": null,
+    "all_tags": {
+      "name": "Independencia",
+      "name:ja": "インデペンデンシア州",
+      "ref:ONE": "0610",
+      "boundary": "administrative",
+      "way_area": "0.1509",
+      "wikidata": "Q1424401",
+      "ISO3166-2": "DO-10",
+      "wikipedia": "es:Independencia (República Dominicana)",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -3420664,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-307828",
+    "name": "Duarte",
+    "local_name": "Duarte",
+    "name_en": null,
+    "all_tags": {
+      "name": "Duarte",
+      "name:ja": "ドゥアルテ州",
+      "ref:ONE": "0306",
+      "boundary": "administrative",
+      "way_area": "0.141829",
+      "wikidata": "Q1262745",
+      "ISO3166-2": "DO-06",
+      "wikipedia": "es:Duarte (provincia)",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -3420663,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-307828",
+    "name": "Baoruco",
+    "local_name": "Baoruco",
+    "name_en": null,
+    "all_tags": {
+      "name": "Baoruco",
+      "name:ja": "バオルコ州",
+      "ref:ONE": "0603",
+      "boundary": "administrative",
+      "old_name": "Bahoruco",
+      "way_area": "0.109865",
+      "wikidata": "Q807079",
+      "ISO3166-2": "DO-03",
+      "wikipedia": "es:Bahoruco",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -3420529,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-307828",
+    "name": "Monte Plata",
+    "local_name": "Monte Plata",
+    "name_en": null,
+    "all_tags": {
+      "name": "Monte Plata",
+      "name:ja": "モンテ・プラタ州",
+      "name:ru": "Монте-Плата",
+      "ref:ONE": "0929",
+      "boundary": "administrative",
+      "way_area": "0.223146",
+      "wikidata": "Q1772745",
+      "ISO3166-2": "DO-29",
+      "wikipedia": "es:Monte Plata",
+      "admin_level": "4",
+      "border_type": "province"
+    }
+  },
+  {
+    "osm_id": -3420316,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-307828",
+    "name": "San Juan",
+    "local_name": "San Juan",
+    "name_en": null,
+    "all_tags": {
+      "name": "San Juan",
+      "name:ja": "サン・フアン州",
+      "ref:ONE": "0722",
+      "boundary": "administrative",
+      "way_area": "0.288222",
+      "wikidata": "Q2001793",
+      "ISO3166-2": "DO-22",
+      "wikipedia": "es:San Juan (República Dominicana)",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -3420315,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-307828",
+    "name": "Monseñor Nouel",
+    "local_name": "Monseñor Nouel",
+    "name_en": null,
+    "all_tags": {
+      "name": "Monseñor Nouel",
+      "name:ja": "モンセニョール・ノウエル州",
+      "ref:ONE": "0228",
+      "boundary": "administrative",
+      "way_area": "0.0850911",
+      "wikidata": "Q1295496",
+      "ISO3166-2": "DO-28",
+      "wikipedia": "es:Monseñor Nouel (provincia)",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -3420314,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-307828",
+    "name": "La Vega",
+    "local_name": "La Vega",
+    "name_en": null,
+    "all_tags": {
+      "name": "La Vega",
+      "name:ja": "ラ・ベガ州",
+      "name:ru": "Ла-Вега",
+      "ref:ONE": "0213",
+      "boundary": "administrative",
+      "way_area": "0.196782",
+      "wikidata": "Q594405",
+      "ISO3166-2": "DO-13",
+      "wikipedia": "es:La Vega (República Dominicana)",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -3420313,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-307828",
+    "name": "Hermanas Mirabal",
+    "local_name": "Hermanas Mirabal",
+    "name_en": null,
+    "all_tags": {
+      "name": "Hermanas Mirabal",
+      "name:ja": "エルマーナス・ミラバル州",
+      "ref:ONE": "0319",
+      "boundary": "administrative",
+      "way_area": "0.0367714",
+      "wikidata": "Q549386",
+      "ISO3166-2": "DO-19",
+      "wikipedia": "es:Hermanas Mirabal (provincia)",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -3420312,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-307828",
+    "name": "Elías Piña",
+    "local_name": "Elías Piña",
+    "name_en": null,
+    "all_tags": {
+      "name": "Elías Piña",
+      "name:ja": "エリアス・ピーニャ州",
+      "ref:ONE": "0707",
+      "boundary": "administrative",
+      "way_area": "0.119059",
+      "wikidata": "Q1137545",
+      "ISO3166-2": "DO-07",
+      "wikipedia": "es:Elías Piña",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -3412920,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-307828",
+    "name": "Santiago",
+    "local_name": "Santiago",
+    "name_en": null,
+    "all_tags": {
+      "name": "Santiago",
+      "ref:ONE": "0125",
+      "boundary": "administrative",
+      "way_area": "0.241228",
+      "wikidata": "Q1772983",
+      "ISO3166-2": "DO-25",
+      "wikipedia": "es:Santiago (República Dominicana)",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -3412919,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-307828",
+    "name": "Puerto Plata",
+    "local_name": "Puerto Plata",
+    "name_en": null,
+    "all_tags": {
+      "name": "Puerto Plata",
+      "name:ja": "プエルト・プラタ州",
+      "name:ru": "Пуэрто-Плата",
+      "ref:ONE": "0118",
+      "boundary": "administrative",
+      "way_area": "0.1556",
+      "wikidata": "Q693487",
+      "ISO3166-2": "DO-18",
+      "wikipedia": "es:Puerto Plata",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -3412918,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-307828",
+    "name": "Espaillat",
+    "local_name": "Espaillat",
+    "name_en": null,
+    "all_tags": {
+      "name": "Espaillat",
+      "name:ja": "エスパイジャト州",
+      "ref:ONE": "0109",
+      "boundary": "administrative",
+      "way_area": "0.0725317",
+      "wikidata": "Q530231",
+      "ISO3166-2": "DO-09",
+      "wikipedia": "es:Espaillat",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -3412369,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-307828",
+    "name": "Valverde",
+    "local_name": "Valverde",
+    "name_en": null,
+    "all_tags": {
+      "name": "Valverde",
+      "name:ja": "バルベルデ州",
+      "ref:ONE": "0427",
+      "boundary": "administrative",
+      "way_area": "0.0708353",
+      "wikidata": "Q1774848",
+      "ISO3166-2": "DO-27",
+      "wikipedia": "es:Valverde (República Dominicana)",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -3412368,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-307828",
+    "name": "Santiago Rodríguez",
+    "local_name": "Santiago Rodríguez",
+    "name_en": null,
+    "all_tags": {
+      "name": "Santiago Rodríguez",
+      "name:ja": "サンティアゴ・ロドリゲス州",
+      "ref:ONE": "0426",
+      "boundary": "administrative",
+      "way_area": "0.0986151",
+      "wikidata": "Q2021942",
+      "ISO3166-2": "DO-26",
+      "wikipedia": "es:Santiago Rodríguez (provincia)",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -3412367,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-307828",
+    "name": "Dajabón",
+    "local_name": "Dajabón",
+    "name_en": null,
+    "all_tags": {
+      "name": "Dajabón",
+      "name:ja": "ダハボン州",
+      "name:ru": "Дахабон",
+      "ref:ONE": "0405",
+      "boundary": "administrative",
+      "way_area": "0.0877292",
+      "wikidata": "Q1138575",
+      "ISO3166-2": "DO-05",
+      "wikipedia": "es:Provincia de Dajabón",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -3411021,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-307828",
+    "name": "Monte Cristi",
+    "local_name": "Monte Cristi",
+    "name_en": null,
+    "all_tags": {
+      "name": "Monte Cristi",
+      "name:ja": "モンテ・クリスティ州",
+      "name:ru": "Монте-Кристи",
+      "ref:ONE": "0415",
+      "boundary": "administrative",
+      "way_area": "0.162367",
+      "wikidata": "Q592624",
+      "ISO3166-2": "DO-15",
+      "wikipedia": "es:Monte Cristi (provincia)",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -53161,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-307828",
+    "name": "Distrito Nacional",
+    "local_name": "Distrito Nacional",
+    "name_en": null,
+    "all_tags": {
+      "name": "Distrito Nacional",
+      "name:ja": "ドミニカ共和国国家地区",
+      "ref:ONE": "1001",
+      "boundary": "administrative",
+      "way_area": "0.00783193",
+      "wikidata": "Q2499228",
+      "ISO3166-2": "DO-01",
+      "wikipedia": "es:Distrito Nacional",
+      "admin_level": "4"
+    }
+  }
+]

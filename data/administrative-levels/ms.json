@@ -1,0 +1,56 @@
+[
+  {
+    "osm_id": -3994463,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-537257",
+    "name": "Saint Peter",
+    "local_name": "Saint Peter",
+    "name_en": "Saint Peter",
+    "all_tags": {
+      "name": "Saint Peter",
+      "name:en": "Saint Peter",
+      "name:mk": "Сент Питер",
+      "boundary": "administrative",
+      "way_area": "0.00294218",
+      "wikidata": "Q3464018",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -3994462,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-537257",
+    "name": "Saint Georges",
+    "local_name": "Saint Georges",
+    "name_en": "Saint Georges",
+    "all_tags": {
+      "name": "Saint Georges",
+      "name:en": "Saint Georges",
+      "name:mk": "Сент Џорџес",
+      "boundary": "administrative",
+      "way_area": "0.00256441",
+      "wikidata": "Q3463799",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -3994461,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-537257",
+    "name": "Saint Anthony",
+    "local_name": "Saint Anthony",
+    "name_en": "Saint Anthony",
+    "all_tags": {
+      "name": "Saint Anthony",
+      "name:en": "Saint Anthony",
+      "name:mk": "Сент Ентони",
+      "boundary": "administrative",
+      "way_area": "0.003199",
+      "wikidata": "Q3463656",
+      "admin_level": "6"
+    }
+  }
+]

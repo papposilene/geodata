@@ -1,0 +1,4070 @@
+[
+  {
+    "osm_id": -3501822,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3771442,-192796",
+    "name": "Lamwo",
+    "local_name": "Lamwo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Lamwo",
+      "boundary": "administrative",
+      "way_area": "0.4554",
+      "wikidata": "Q3539277",
+      "ISO3166-2": "UG-326",
+      "wikipedia": "en:Lamwo District",
+      "admin_level": "4",
+      "border_type": "district"
+    }
+  },
+  {
+    "osm_id": -3497439,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3771442,-192796",
+    "name": "Napak",
+    "local_name": "Napak",
+    "name_en": null,
+    "all_tags": {
+      "name": "Napak",
+      "boundary": "administrative",
+      "way_area": "0.404591",
+      "wikidata": "Q3539495",
+      "ISO3166-2": "UG-327",
+      "wikipedia": "en:Napak District",
+      "admin_level": "4",
+      "border_type": "district"
+    }
+  },
+  {
+    "osm_id": -3498012,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3772011,-192796",
+    "name": "Kiruhura",
+    "local_name": "Kiruhura",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kiruhura",
+      "boundary": "administrative",
+      "way_area": "0.374031",
+      "wikidata": "Q1318865",
+      "ISO3166-2": "UG-419",
+      "wikipedia": "en:Kiruhura District",
+      "admin_level": "4",
+      "border_type": "district"
+    }
+  },
+  {
+    "osm_id": -3501830,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3771442,-192796",
+    "name": "Moroto",
+    "local_name": "Moroto",
+    "name_en": null,
+    "all_tags": {
+      "name": "Moroto",
+      "boundary": "administrative",
+      "way_area": "0.287727",
+      "wikidata": "Q1375850",
+      "ISO3166-2": "UG-308",
+      "wikipedia": "en:Moroto District",
+      "admin_level": "4",
+      "border_type": "district"
+    }
+  },
+  {
+    "osm_id": -3501794,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3772011,-192796",
+    "name": "Buliisa",
+    "local_name": "Buliisa",
+    "name_en": null,
+    "all_tags": {
+      "name": "Buliisa",
+      "boundary": "administrative",
+      "way_area": "0.273993",
+      "wikidata": "Q1229793",
+      "ISO3166-2": "UG-416",
+      "wikipedia": "en:Buliisa District",
+      "admin_level": "4",
+      "border_type": "district"
+    }
+  },
+  {
+    "osm_id": -3497126,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3771442,-192796",
+    "name": "Apac",
+    "local_name": "Apac",
+    "name_en": null,
+    "all_tags": {
+      "name": "Apac",
+      "boundary": "administrative",
+      "way_area": "0.264649",
+      "wikidata": "Q1229750",
+      "ISO3166-2": "UG-302",
+      "admin_level": "4",
+      "border_type": "district"
+    }
+  },
+  {
+    "osm_id": -3497167,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3771442,-192796",
+    "name": "Pader",
+    "local_name": "Pader",
+    "name_en": null,
+    "all_tags": {
+      "name": "Pader",
+      "boundary": "administrative",
+      "way_area": "0.273956",
+      "wikidata": "Q1230035",
+      "ISO3166-2": "UG-312",
+      "wikipedia": "en:Pader District",
+      "admin_level": "4",
+      "border_type": "district"
+    }
+  },
+  {
+    "osm_id": -3497438,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3771442,-192796",
+    "name": "Kotido",
+    "local_name": "Kotido",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kotido",
+      "boundary": "administrative",
+      "way_area": "0.301165",
+      "wikidata": "Q1318843",
+      "ISO3166-2": "UG-306",
+      "admin_level": "4",
+      "border_type": "district"
+    }
+  },
+  {
+    "osm_id": -3497363,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3771442,-192796",
+    "name": "Alebtong",
+    "local_name": "Alebtong",
+    "name_en": null,
+    "all_tags": {
+      "name": "Alebtong",
+      "boundary": "administrative",
+      "old_name": "Lira",
+      "way_area": "0.124243",
+      "wikidata": "Q3536082",
+      "ISO3166-2": "UG-323",
+      "wikipedia": "en:Alebtong District",
+      "admin_level": "4",
+      "border_type": "district"
+    }
+  },
+  {
+    "osm_id": -8086186,
+    "boundary": "refugee_camp",
+    "admin_level": 5,
+    "parents": "-8085580,-8085728,-192796",
+    "name": "Village 03",
+    "local_name": "Village 03",
+    "name_en": "Village 03",
+    "all_tags": {
+      "name": "Village 03",
+      "landuse": "residential",
+      "name:en": "Village 03",
+      "refugee": "yes",
+      "boundary": "refugee_camp",
+      "way_area": "3.08252e-05",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -8085582,
+    "boundary": "refugee_camp",
+    "admin_level": 4,
+    "parents": "-8085646,-192796",
+    "name": "Point J",
+    "local_name": "Point J",
+    "name_en": "Point J",
+    "all_tags": {
+      "name": "Point J",
+      "landuse": "residential",
+      "name:en": "Point J",
+      "refugee": "yes",
+      "boundary": "refugee_camp",
+      "way_area": "0.000377899",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -8085576,
+    "boundary": "refugee_camp",
+    "admin_level": 4,
+    "parents": "-8085646,-192796",
+    "name": "Point F",
+    "local_name": "Point F",
+    "name_en": "Point F",
+    "all_tags": {
+      "name": "Point F",
+      "landuse": "residential",
+      "name:en": "Point F",
+      "refugee": "yes",
+      "boundary": "refugee_camp",
+      "way_area": "0.000376611",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -8086149,
+    "boundary": "refugee_camp",
+    "admin_level": 5,
+    "parents": "-8085579,-8085646,-192796",
+    "name": "Village 21",
+    "local_name": "Village 21",
+    "name_en": "Village 21",
+    "all_tags": {
+      "name": "Village 21",
+      "landuse": "residential",
+      "name:en": "Village 21",
+      "refugee": "yes",
+      "boundary": "refugee_camp",
+      "way_area": "2.3444e-05",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -3498031,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3772011,-192796",
+    "name": "Buhweju",
+    "local_name": "Buhweju",
+    "name_en": null,
+    "all_tags": {
+      "name": "Buhweju",
+      "boundary": "administrative",
+      "old_name": "Bushenyi",
+      "way_area": "0.0651273",
+      "wikidata": "Q3537661",
+      "ISO3166-2": "UG-420",
+      "wikipedia": "en:Buhweju District",
+      "admin_level": "4",
+      "border_type": "district",
+      "historic:name": "Nsiika County -"
+    }
+  },
+  {
+    "osm_id": -8089199,
+    "boundary": "refugee_camp",
+    "admin_level": 5,
+    "parents": "-8085728,-192796",
+    "name": "Village 35",
+    "local_name": "Village 35",
+    "name_en": "Village 35",
+    "all_tags": {
+      "name": "Village 35",
+      "landuse": "residential",
+      "name:en": "Village 35",
+      "refugee": "yes",
+      "boundary": "refugee_camp",
+      "way_area": "1.7461e-05",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -8085581,
+    "boundary": "refugee_camp",
+    "admin_level": 4,
+    "parents": "-8085646,-192796",
+    "name": "Point G",
+    "local_name": "Point G",
+    "name_en": "Point G",
+    "all_tags": {
+      "name": "Point G",
+      "landuse": "residential",
+      "name:en": "Point G",
+      "refugee": "yes",
+      "boundary": "refugee_camp",
+      "way_area": "0.000242454",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -8086172,
+    "boundary": "refugee_camp",
+    "admin_level": 5,
+    "parents": "-8085580,-8085728,-192796",
+    "name": "Village 16",
+    "local_name": "Village 16",
+    "name_en": "Village 16",
+    "all_tags": {
+      "name": "Village 16",
+      "landuse": "residential",
+      "name:en": "Village 16",
+      "refugee": "yes",
+      "boundary": "refugee_camp",
+      "way_area": "1.38699e-05",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -8089176,
+    "boundary": "refugee_camp",
+    "admin_level": 5,
+    "parents": "-8085728,-192796",
+    "name": "Village 37",
+    "local_name": "Village 37",
+    "name_en": "Village 37",
+    "all_tags": {
+      "name": "Village 37",
+      "landuse": "residential",
+      "name:en": "Village 37",
+      "refugee": "yes",
+      "boundary": "refugee_camp",
+      "way_area": "1.2478e-05",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -3501836,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3771602,-192796",
+    "name": "Bukwo",
+    "local_name": "Bukwo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bukwo",
+      "name:fr": "Bukwa",
+      "boundary": "administrative",
+      "way_area": "0.0418357",
+      "wikidata": "Q1375868",
+      "ISO3166-2": "UG-220",
+      "wikipedia": "en:Bukwo District",
+      "admin_level": "4",
+      "border_type": "district"
+    }
+  },
+  {
+    "osm_id": -7652581,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3501887,-3771649,-192796",
+    "name": "Kyamuswa",
+    "local_name": "Kyamuswa",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kyamuswa",
+      "boundary": "administrative",
+      "way_area": "0.519149",
+      "wikidata": "Q31937313",
+      "land_area": "administrative",
+      "admin_level": "6",
+      "border_type": "county",
+      "admin_type:UG": "county"
+    }
+  },
+  {
+    "osm_id": -3501860,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3771649,-192796",
+    "name": "Buvuma",
+    "local_name": "Buvuma",
+    "name_en": null,
+    "all_tags": {
+      "name": "Buvuma",
+      "boundary": "administrative",
+      "way_area": "0.778023",
+      "wikidata": "Q3321608",
+      "ISO3166-2": "UG-120",
+      "wikipedia": "en:Buvuma District",
+      "admin_level": "4",
+      "border_type": "district"
+    }
+  },
+  {
+    "osm_id": -3501887,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3771649,-192796",
+    "name": "Kalangala",
+    "local_name": "Kalangala",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kalangala",
+      "boundary": "administrative",
+      "way_area": "0.631197",
+      "wikidata": "Q867219",
+      "ISO3166-2": "UG-101",
+      "land_area": "administrative",
+      "wikipedia": "en:Kalangala District",
+      "admin_level": "4",
+      "border_type": "district",
+      "admin_type:UG": "district"
+    }
+  },
+  {
+    "osm_id": -8086159,
+    "boundary": "refugee_camp",
+    "admin_level": 5,
+    "parents": "-8085646,-192796",
+    "name": "Village 14",
+    "local_name": "Village 14",
+    "name_en": "Village 14",
+    "all_tags": {
+      "name": "Village 14",
+      "landuse": "residential",
+      "name:en": "Village 14",
+      "refugee": "yes",
+      "boundary": "refugee_camp",
+      "way_area": "2.9498e-05",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -6489978,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3772011,-192796",
+    "name": "Kisoro",
+    "local_name": "Kisoro",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kisoro",
+      "boundary": "administrative",
+      "way_area": "0.0594977",
+      "wikidata": "Q580538",
+      "ISO3166-2": "UG-408",
+      "wikipedia": "en:Kisoro District",
+      "admin_level": "4",
+      "border_type": "district"
+    }
+  },
+  {
+    "osm_id": -3501894,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3772011,-192796",
+    "name": "Kabale",
+    "local_name": "Kabale",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kabale",
+      "boundary": "administrative",
+      "way_area": "0.141919",
+      "wikidata": "Q3526470",
+      "ISO3166-2": "UG-404",
+      "wikipedia": "en:Kabale District",
+      "admin_level": "4",
+      "border_type": "district"
+    }
+  },
+  {
+    "osm_id": -934567,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-934530,-3772011,-192796",
+    "name": "Mpungu Sub-County",
+    "local_name": "Mpungu Sub-County",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mpungu Sub-County",
+      "boundary": "administrative",
+      "way_area": "0.0162171",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -934568,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-934530,-3772011,-192796",
+    "name": "Kayonza Sub-County",
+    "local_name": "Kayonza Sub-County",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kayonza Sub-County",
+      "boundary": "administrative",
+      "way_area": "0.00983713",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -934562,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-934530,-3772011,-192796",
+    "name": "Kanyantoroogo",
+    "local_name": "Kanyantoroogo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kanyantoroogo",
+      "boundary": "administrative",
+      "way_area": "0.00560328",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -3501899,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3772011,-192796",
+    "name": "Ntungamo",
+    "local_name": "Ntungamo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ntungamo",
+      "boundary": "administrative",
+      "way_area": "0.166993",
+      "wikidata": "Q204642",
+      "ISO3166-2": "UG-411",
+      "wikipedia": "en:Ntungamo District",
+      "admin_level": "4",
+      "border_type": "district"
+    }
+  },
+  {
+    "osm_id": -3501893,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3772011,-192796",
+    "name": "Isingiro",
+    "local_name": "Isingiro",
+    "name_en": null,
+    "all_tags": {
+      "name": "Isingiro",
+      "boundary": "administrative",
+      "way_area": "0.2178",
+      "wikidata": "Q1318887",
+      "ISO3166-2": "UG-418",
+      "wikipedia": "en:Isingiro District",
+      "addr:region": "Western region",
+      "admin_level": "4",
+      "border_type": "district",
+      "addr:country": "UG",
+      "admin_type:UG": "district",
+      "addr:subregion": "Ankoli-Kigezi"
+    }
+  },
+  {
+    "osm_id": -3498063,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3772011,-192796",
+    "name": "Mbarara",
+    "local_name": "Mbarara",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mbarara",
+      "boundary": "administrative",
+      "way_area": "0.144597",
+      "wikidata": "Q1091595",
+      "ISO3166-2": "UG-410",
+      "wikipedia": "en:Mbarara District",
+      "addr:region": "Western region",
+      "admin_level": "4",
+      "border_type": "district",
+      "addr:country": "UG"
+    }
+  },
+  {
+    "osm_id": -3501890,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3771649,-192796",
+    "name": "Rakai",
+    "local_name": "Rakai",
+    "name_en": null,
+    "all_tags": {
+      "name": "Rakai",
+      "boundary": "administrative",
+      "way_area": "0.329921",
+      "wikidata": "Q976873",
+      "ISO3166-2": "UG-110",
+      "wikipedia": "en:Rakai District",
+      "addr:region": "Central region",
+      "admin_level": "4",
+      "border_type": "district",
+      "addr:country": "UG",
+      "admin_type:UG": "district"
+    }
+  },
+  {
+    "osm_id": -3501889,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3771649,-192796",
+    "name": "Mukono",
+    "local_name": "Mukono",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mukono",
+      "boundary": "administrative",
+      "way_area": "0.331388",
+      "wikidata": "Q1151066",
+      "ISO3166-2": "UG-108",
+      "land_area": "administrative",
+      "admin_level": "4",
+      "border_type": "district",
+      "admin_type:UG": "district"
+    }
+  },
+  {
+    "osm_id": -3501863,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3771602,-192796",
+    "name": "Namayingo",
+    "local_name": "Namayingo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Namayingo",
+      "boundary": "administrative",
+      "old_name": "Bugiri",
+      "way_area": "0.379298",
+      "wikidata": "Q1114915",
+      "ISO3166-2": "UG-230",
+      "wikipedia": "en:Namayingo District",
+      "admin_level": "4",
+      "border_type": "district"
+    }
+  },
+  {
+    "osm_id": -8089174,
+    "boundary": "refugee_camp",
+    "admin_level": 5,
+    "parents": "-8085728,-192796",
+    "name": "Village 18",
+    "local_name": "Village 18",
+    "name_en": "Village 18",
+    "all_tags": {
+      "name": "Village 18",
+      "landuse": "residential",
+      "name:en": "Village 18",
+      "refugee": "yes",
+      "boundary": "refugee_camp",
+      "way_area": "2.33232e-05",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -8089189,
+    "boundary": "refugee_camp",
+    "admin_level": 5,
+    "parents": "-8085728,-192796",
+    "name": "Village 55",
+    "local_name": "Village 55",
+    "name_en": "Village 55",
+    "all_tags": {
+      "name": "Village 55",
+      "landuse": "residential",
+      "name:en": "Village 55",
+      "refugee": "yes",
+      "boundary": "refugee_camp",
+      "way_area": "2.43105e-05",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -8089182,
+    "boundary": "refugee_camp",
+    "admin_level": 5,
+    "parents": "-8085728,-192796",
+    "name": "Village 49",
+    "local_name": "Village 49",
+    "name_en": "Village 49",
+    "all_tags": {
+      "name": "Village 49",
+      "landuse": "residential",
+      "name:en": "Village 49",
+      "refugee": "yes",
+      "boundary": "refugee_camp",
+      "way_area": "2.26294e-05",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -8086156,
+    "boundary": "refugee_camp",
+    "admin_level": 5,
+    "parents": "-8085646,-192796",
+    "name": "Village 24",
+    "local_name": "Village 24",
+    "name_en": "Village 24",
+    "all_tags": {
+      "name": "Village 24",
+      "landuse": "residential",
+      "name:en": "Village 24",
+      "refugee": "yes",
+      "boundary": "refugee_camp",
+      "way_area": "2.07603e-05",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -8089188,
+    "boundary": "refugee_camp",
+    "admin_level": 5,
+    "parents": "-8085728,-192796",
+    "name": "Village 57",
+    "local_name": "Village 57",
+    "name_en": "Village 57",
+    "all_tags": {
+      "name": "Village 57",
+      "landuse": "residential",
+      "name:en": "Village 57",
+      "refugee": "yes",
+      "boundary": "refugee_camp",
+      "way_area": "2.23232e-05",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -8086187,
+    "boundary": "refugee_camp",
+    "admin_level": 5,
+    "parents": "-8085580,-8085728,-192796",
+    "name": "Village 01",
+    "local_name": "Village 01",
+    "name_en": "Village 01",
+    "all_tags": {
+      "name": "Village 01",
+      "landuse": "residential",
+      "name:en": "Village 01",
+      "refugee": "yes",
+      "boundary": "refugee_camp",
+      "way_area": "2.04993e-05",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -3501892,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3772011,-192796",
+    "name": "Bundibugyo",
+    "local_name": "Bundibugyo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bundibugyo",
+      "boundary": "administrative",
+      "way_area": "0.0666477",
+      "wikidata": "Q1362129",
+      "ISO3166-2": "UG-401",
+      "wikipedia": "en:Bundibugyo District",
+      "admin_level": "4",
+      "border_type": "district"
+    }
+  },
+  {
+    "osm_id": -6489998,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3772011,-192796",
+    "name": "Kamwenge",
+    "local_name": "Kamwenge",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kamwenge",
+      "boundary": "administrative",
+      "way_area": "0.195763",
+      "wikidata": "Q1318806",
+      "ISO3166-2": "UG-413",
+      "wikipedia": "en:Kamwenge District",
+      "addr:region": "Western region",
+      "admin_level": "4",
+      "border_type": "district",
+      "addr:country": "UG",
+      "admin_type:UG": "district"
+    }
+  },
+  {
+    "osm_id": -3498021,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3772011,-192796",
+    "name": "Kabarole",
+    "local_name": "Kabarole",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kabarole",
+      "boundary": "administrative",
+      "way_area": "0.146686",
+      "wikidata": "Q1229910",
+      "ISO3166-2": "UG-405",
+      "wikipedia": "en:Kabarole District",
+      "admin_level": "4",
+      "border_type": "district"
+    }
+  },
+  {
+    "osm_id": -3498023,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3772011,-192796",
+    "name": "Kyenjojo",
+    "local_name": "Kyenjojo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kyenjojo",
+      "boundary": "administrative",
+      "way_area": "0.190975",
+      "wikidata": "Q1318815",
+      "ISO3166-2": "UG-415",
+      "admin_level": "4",
+      "border_type": "district"
+    }
+  },
+  {
+    "osm_id": -3498024,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3772011,-192796",
+    "name": "Ntoroko",
+    "local_name": "Ntoroko",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ntoroko",
+      "boundary": "administrative",
+      "old_name": "Bundibugyo",
+      "way_area": "0.113336",
+      "wikidata": "Q3539547",
+      "ISO3166-2": "UG-424",
+      "wikipedia": "en:Ntoroko District",
+      "admin_level": "4",
+      "border_type": "district"
+    }
+  },
+  {
+    "osm_id": -3498013,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3772011,-192796",
+    "name": "Kyegegwa",
+    "local_name": "Kyegegwa",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kyegegwa",
+      "boundary": "administrative",
+      "old_name": "Kyenjojo",
+      "way_area": "0.142167",
+      "wikidata": "Q3539256",
+      "ISO3166-2": "UG-422",
+      "wikipedia": "en:Kyegegwa District",
+      "admin_level": "4",
+      "border_type": "district"
+    }
+  },
+  {
+    "osm_id": -3498093,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3771649,-192796",
+    "name": "Butambala",
+    "local_name": "Butambala",
+    "name_en": null,
+    "all_tags": {
+      "name": "Butambala",
+      "boundary": "administrative",
+      "old_name": "Mpigi",
+      "way_area": "0.0329435",
+      "wikidata": "Q3321622",
+      "ISO3166-2": "UG-119",
+      "admin_level": "4",
+      "border_type": "district"
+    }
+  },
+  {
+    "osm_id": -3498022,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3772011,-192796",
+    "name": "Kibaale",
+    "local_name": "Kibaale",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kibaale",
+      "boundary": "administrative",
+      "way_area": "0.356263",
+      "wikidata": "Q604966",
+      "ISO3166-2": "UG-407",
+      "wikipedia": "en:Kibaale District",
+      "admin_level": "4",
+      "border_type": "district"
+    }
+  },
+  {
+    "osm_id": -3498106,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3771649,-192796",
+    "name": "Wakiso",
+    "local_name": "Wakiso",
+    "name_en": null,
+    "all_tags": {
+      "name": "Wakiso",
+      "boundary": "administrative",
+      "way_area": "0.228925",
+      "wikidata": "Q976848",
+      "ISO3166-2": "UG-113",
+      "land_area": "administrative",
+      "admin_level": "4",
+      "border_type": "district",
+      "admin_type:UG": "district"
+    }
+  },
+  {
+    "osm_id": -5457274,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3771649,-192796",
+    "name": "Kampala",
+    "local_name": "Kampala",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kampala",
+      "name:ar": "كمبالا",
+      "name:fa": "کامپالا",
+      "name:ps": "کامپالا",
+      "name:ug": "كامپالا",
+      "name:ur": "کمپالا",
+      "boundary": "administrative",
+      "name:azb": "کامپالا",
+      "name:ckb": "کامپالا",
+      "name:pnb": "کمپالا",
+      "way_area": "0.0158847",
+      "wikidata": "Q926417",
+      "ISO3166-2": "UG-102",
+      "wikipedia": "en:Kampala District",
+      "admin_level": "4",
+      "alt_name:ar": "كامبالا",
+      "border_type": "district"
+    }
+  },
+  {
+    "osm_id": -10546821,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-5457274,-3771649,-192796",
+    "name": "Kampala Capital City",
+    "local_name": "Kampala Capital City",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kampala Capital City",
+      "name:ar": "مدينة كمبالا العاصمة",
+      "boundary": "administrative",
+      "way_area": "0.0158847",
+      "wikidata": "Q3894",
+      "admin_level": "6",
+      "border_type": "county"
+    }
+  },
+  {
+    "osm_id": -3498102,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3771649,-192796",
+    "name": "Buikwe",
+    "local_name": "Buikwe",
+    "name_en": null,
+    "all_tags": {
+      "name": "Buikwe",
+      "boundary": "administrative",
+      "old_name": "Mukono",
+      "way_area": "0.118663",
+      "wikidata": "Q3321631",
+      "ISO3166-2": "UG-117",
+      "wikipedia": "en:Buikwe District",
+      "admin_level": "4",
+      "border_type": "district"
+    }
+  },
+  {
+    "osm_id": -3498111,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3771602,-192796",
+    "name": "Jinja",
+    "local_name": "Jinja",
+    "name_en": null,
+    "all_tags": {
+      "name": "Jinja",
+      "boundary": "administrative",
+      "way_area": "0.0595323",
+      "wikidata": "Q983748",
+      "ISO3166-2": "UG-204",
+      "wikipedia": "en:Jinja District",
+      "admin_level": "4",
+      "border_type": "district"
+    }
+  },
+  {
+    "osm_id": -3501825,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3771442,-192796",
+    "name": "Nebbi",
+    "local_name": "Nebbi",
+    "name_en": null,
+    "all_tags": {
+      "name": "Nebbi",
+      "boundary": "administrative",
+      "way_area": "0.162354",
+      "wikidata": "Q1375825",
+      "ISO3166-2": "UG-310",
+      "wikipedia": "en:Nebbi District",
+      "admin_level": "4",
+      "border_type": "district"
+    }
+  },
+  {
+    "osm_id": -3501793,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3771442,-192796",
+    "name": "Arua",
+    "local_name": "Arua",
+    "name_en": null,
+    "all_tags": {
+      "fix": "This boundary is out of date, this district was divided in 2007, see its wikipedia page for details",
+      "name": "Arua",
+      "boundary": "administrative",
+      "way_area": "0.355371",
+      "wikidata": "Q1229758",
+      "ISO3166-2": "UG-303",
+      "wikipedia": "en:Arua District",
+      "admin_level": "4",
+      "border_type": "district"
+    }
+  },
+  {
+    "osm_id": -3501826,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3771442,-192796",
+    "name": "Yumbe",
+    "local_name": "Yumbe",
+    "name_en": null,
+    "all_tags": {
+      "name": "Yumbe",
+      "boundary": "administrative",
+      "way_area": "0.18844",
+      "wikidata": "Q1362587",
+      "ISO3166-2": "UG-313",
+      "wikipedia": "en:Yumbe District",
+      "admin_level": "4",
+      "border_type": "district"
+    }
+  },
+  {
+    "osm_id": -3501792,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3771442,-192796",
+    "name": "Amuru",
+    "local_name": "Amuru",
+    "name_en": null,
+    "all_tags": {
+      "name": "Amuru",
+      "boundary": "administrative",
+      "way_area": "0.295215",
+      "wikidata": "Q1375771",
+      "ISO3166-2": "UG-316",
+      "wikipedia": "en:Amuru District",
+      "admin_level": "4",
+      "border_type": "district"
+    }
+  },
+  {
+    "osm_id": -3501791,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3771442,-192796",
+    "name": "Adjumani",
+    "local_name": "Adjumani",
+    "name_en": null,
+    "all_tags": {
+      "name": "Adjumani",
+      "boundary": "administrative",
+      "way_area": "0.251657",
+      "wikidata": "Q1229734",
+      "ISO3166-2": "UG-301",
+      "wikipedia": "en:Adjumani District",
+      "admin_level": "4",
+      "border_type": "district"
+    }
+  },
+  {
+    "osm_id": -3501824,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3771442,-192796",
+    "name": "Moyo",
+    "local_name": "Moyo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Moyo",
+      "boundary": "administrative",
+      "way_area": "0.151169",
+      "wikidata": "Q2183668",
+      "ISO3166-2": "UG-309",
+      "wikipedia": "en:Moyo District",
+      "admin_level": "4",
+      "border_type": "district"
+    }
+  },
+  {
+    "osm_id": -3497245,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3771442,-192796",
+    "name": "Gulu",
+    "local_name": "Gulu",
+    "name_en": null,
+    "all_tags": {
+      "name": "Gulu",
+      "website": "https://www.gulu.go.ug/",
+      "boundary": "administrative",
+      "way_area": "0.280466",
+      "wikidata": "Q1028215",
+      "ISO3166-2": "UG-304",
+      "wikipedia": "en:Gulu District",
+      "admin_level": "4",
+      "border_type": "district"
+    }
+  },
+  {
+    "osm_id": -3498135,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3771602,-192796",
+    "name": "Bugiri",
+    "local_name": "Bugiri",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bugiri",
+      "boundary": "administrative",
+      "way_area": "0.085724",
+      "wikidata": "Q1229798",
+      "ISO3166-2": "UG-201",
+      "wikipedia": "en:Bugiri District",
+      "admin_level": "4",
+      "border_type": "district"
+    }
+  },
+  {
+    "osm_id": -3501859,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3771602,-192796",
+    "name": "Busia",
+    "local_name": "Busia",
+    "name_en": null,
+    "all_tags": {
+      "name": "Busia",
+      "boundary": "administrative",
+      "way_area": "0.0619481",
+      "wikidata": "Q1229800",
+      "ISO3166-2": "UG-202",
+      "wikipedia": "en:Busia District",
+      "admin_level": "4",
+      "border_type": "district"
+    }
+  },
+  {
+    "osm_id": -3498136,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3771602,-192796",
+    "name": "Butaleja",
+    "local_name": "Butaleja",
+    "name_en": null,
+    "all_tags": {
+      "name": "Butaleja",
+      "boundary": "administrative",
+      "way_area": "0.0525238",
+      "wikidata": "Q1375755",
+      "ISO3166-2": "UG-221",
+      "wikipedia": "en:Butaleja District",
+      "admin_level": "4",
+      "border_type": "district"
+    }
+  },
+  {
+    "osm_id": -3498160,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3771602,-192796",
+    "name": "Mbale",
+    "local_name": "Mbale",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mbale",
+      "boundary": "administrative",
+      "way_area": "0.0421598",
+      "wikidata": "Q581822",
+      "ISO3166-2": "UG-209",
+      "admin_level": "4",
+      "border_type": "district"
+    }
+  },
+  {
+    "osm_id": -3501974,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3771602,-192796",
+    "name": "Bududa",
+    "local_name": "Bududa",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bududa",
+      "boundary": "administrative",
+      "way_area": "0.0199839",
+      "wikidata": "Q1365449",
+      "ISO3166-2": "UG-218",
+      "wikipedia": "en:Bududa District",
+      "admin_level": "4",
+      "border_type": "district"
+    }
+  },
+  {
+    "osm_id": -3498172,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3771602,-192796",
+    "name": "Bukedea",
+    "local_name": "Bukedea",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bukedea",
+      "boundary": "administrative",
+      "way_area": "0.0859523",
+      "wikidata": "Q1375812",
+      "ISO3166-2": "UG-219",
+      "wikipedia": "en:Bukedea District",
+      "admin_level": "4",
+      "border_type": "district"
+    }
+  },
+  {
+    "osm_id": -3497425,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3771442,-192796",
+    "name": "Abim",
+    "local_name": "Abim",
+    "name_en": null,
+    "all_tags": {
+      "name": "Abim",
+      "boundary": "administrative",
+      "way_area": "0.191403",
+      "wikidata": "Q1375780",
+      "ISO3166-2": "UG-314",
+      "wikipedia": "en:Abim District",
+      "admin_level": "4",
+      "border_type": "district"
+    }
+  },
+  {
+    "osm_id": -8086160,
+    "boundary": "refugee_camp",
+    "admin_level": 5,
+    "parents": "-8085646,-192796",
+    "name": "Village 11",
+    "local_name": "Village 11",
+    "name_en": "Village 11",
+    "all_tags": {
+      "name": "Village 11",
+      "landuse": "residential",
+      "name:en": "Village 11",
+      "refugee": "yes",
+      "boundary": "refugee_camp",
+      "way_area": "1.98731e-05",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -8086163,
+    "boundary": "refugee_camp",
+    "admin_level": 5,
+    "parents": "-8085582,-8085646,-192796",
+    "name": "Village 08",
+    "local_name": "Village 08",
+    "name_en": "Village 08",
+    "all_tags": {
+      "name": "Village 08",
+      "landuse": "residential",
+      "name:en": "Village 08",
+      "refugee": "yes",
+      "boundary": "refugee_camp",
+      "way_area": "1.96651e-05",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -8086154,
+    "boundary": "refugee_camp",
+    "admin_level": 5,
+    "parents": "-8085581,-8085646,-192796",
+    "name": "Village 26",
+    "local_name": "Village 26",
+    "name_en": "Village 26",
+    "all_tags": {
+      "name": "Village 26",
+      "landuse": "residential",
+      "name:en": "Village 26",
+      "refugee": "yes",
+      "boundary": "refugee_camp",
+      "way_area": "1.91784e-05",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -8086183,
+    "boundary": "refugee_camp",
+    "admin_level": 5,
+    "parents": "-8085580,-8085728,-192796",
+    "name": "Village 08",
+    "local_name": "Village 08",
+    "name_en": "Village 08",
+    "all_tags": {
+      "name": "Village 08",
+      "landuse": "residential",
+      "name:en": "Village 08",
+      "refugee": "yes",
+      "boundary": "refugee_camp",
+      "way_area": "1.87751e-05",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -8089179,
+    "boundary": "refugee_camp",
+    "admin_level": 5,
+    "parents": "-8085728,-192796",
+    "name": "Village 36",
+    "local_name": "Village 36",
+    "name_en": "Village 36",
+    "all_tags": {
+      "name": "Village 36",
+      "landuse": "residential",
+      "name:en": "Village 36",
+      "refugee": "yes",
+      "boundary": "refugee_camp",
+      "way_area": "1.86537e-05",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -3501888,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3771649,-192796",
+    "name": "Kalungu",
+    "local_name": "Kalungu",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kalungu",
+      "boundary": "administrative",
+      "old_name": "Masaka",
+      "way_area": "0.0686608",
+      "wikidata": "Q3321614",
+      "ISO3166-2": "UG-122",
+      "admin_level": "4",
+      "border_type": "district"
+    }
+  },
+  {
+    "osm_id": -3497388,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3771442,-192796",
+    "name": "Amolatar",
+    "local_name": "Amolatar",
+    "name_en": null,
+    "all_tags": {
+      "name": "Amolatar",
+      "boundary": "administrative",
+      "way_area": "0.14288",
+      "wikidata": "Q1318822",
+      "ISO3166-2": "UG-315",
+      "wikipedia": "en:Amolatar District",
+      "admin_level": "4",
+      "border_type": "district"
+    }
+  },
+  {
+    "osm_id": -8089204,
+    "boundary": "refugee_camp",
+    "admin_level": 5,
+    "parents": "-8085728,-192796",
+    "name": "Village 27",
+    "local_name": "Village 27",
+    "name_en": "Village 27",
+    "all_tags": {
+      "name": "Village 27",
+      "landuse": "residential",
+      "name:en": "Village 27",
+      "refugee": "yes",
+      "boundary": "refugee_camp",
+      "way_area": "1.73845e-05",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -8089205,
+    "boundary": "refugee_camp",
+    "admin_level": 5,
+    "parents": "-8085728,-192796",
+    "name": "Village 28",
+    "local_name": "Village 28",
+    "name_en": "Village 28",
+    "all_tags": {
+      "name": "Village 28",
+      "landuse": "residential",
+      "name:en": "Village 28",
+      "refugee": "yes",
+      "boundary": "refugee_camp",
+      "way_area": "1.31308e-05",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -3498096,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3771649,-192796",
+    "name": "Mpigi",
+    "local_name": "Mpigi",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mpigi",
+      "boundary": "administrative",
+      "way_area": "0.123936",
+      "wikidata": "Q1362109",
+      "ISO3166-2": "UG-106",
+      "wikipedia": "en:Mpigi District",
+      "admin_level": "4",
+      "border_type": "district"
+    }
+  },
+  {
+    "osm_id": -3498110,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3771602,-192796",
+    "name": "Iganga",
+    "local_name": "Iganga",
+    "name_en": null,
+    "all_tags": {
+      "name": "Iganga",
+      "boundary": "administrative",
+      "way_area": "0.0826995",
+      "wikidata": "Q1229869",
+      "ISO3166-2": "UG-203",
+      "wikipedia": "en:Iganga District",
+      "admin_level": "4",
+      "border_type": "district"
+    }
+  },
+  {
+    "osm_id": -5994233,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3498015,-3771649,-192796",
+    "name": "Mawogola",
+    "local_name": "Mawogola",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mawogola",
+      "alt_name": "Mawogola County",
+      "boundary": "administrative",
+      "way_area": "0.122206",
+      "wikidata": "Q28446262",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8089168,
+    "boundary": "refugee_camp",
+    "admin_level": 5,
+    "parents": "-8085728,-192796",
+    "name": "Village 43",
+    "local_name": "Village 43",
+    "name_en": "Village 43",
+    "all_tags": {
+      "name": "Village 43",
+      "landuse": "residential",
+      "name:en": "Village 43",
+      "refugee": "yes",
+      "boundary": "refugee_camp",
+      "way_area": "1.30302e-05",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -7652580,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-3501887,-3771649,-192796",
+    "name": "Bujumba",
+    "local_name": "Bujumba",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bujumba",
+      "boundary": "administrative",
+      "way_area": "0.112048",
+      "admin_level": "5",
+      "border_type": "county"
+    }
+  },
+  {
+    "osm_id": -3490438,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3771442,-192796",
+    "name": "Kole",
+    "local_name": "Kole",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kole",
+      "boundary": "administrative",
+      "old_name": "Apac",
+      "way_area": "0.0873051",
+      "wikidata": "Q3539151",
+      "ISO3166-2": "UG-325",
+      "wikipedia": "en:Kole District",
+      "admin_level": "4",
+      "border_type": "district"
+    }
+  },
+  {
+    "osm_id": -3501821,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3771442,-192796",
+    "name": "Koboko",
+    "local_name": "Koboko",
+    "name_en": null,
+    "all_tags": {
+      "name": "Koboko",
+      "boundary": "administrative",
+      "way_area": "0.0611559",
+      "wikidata": "Q1318857",
+      "ISO3166-2": "UG-319",
+      "wikipedia": "en:Koboko District",
+      "admin_level": "4",
+      "border_type": "district"
+    }
+  },
+  {
+    "osm_id": -3497965,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3772011,-192796",
+    "name": "Kiryandongo",
+    "local_name": "Kiryandongo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kiryandongo",
+      "boundary": "administrative",
+      "old_name": "Masindi",
+      "way_area": "0.294707",
+      "wikidata": "Q3539116",
+      "ISO3166-2": "UG-421",
+      "wikipedia": "en:Kiryandongo District",
+      "admin_level": "4",
+      "border_type": "district"
+    }
+  },
+  {
+    "osm_id": -3501820,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3771442,-192796",
+    "name": "Kitgum",
+    "local_name": "Kitgum",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kitgum",
+      "boundary": "administrative",
+      "way_area": "0.322277",
+      "wikidata": "Q500162",
+      "ISO3166-2": "UG-305",
+      "wikipedia": "en:Kitgum District",
+      "admin_level": "4",
+      "border_type": "district"
+    }
+  },
+  {
+    "osm_id": -3497128,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3771442,-192796",
+    "name": "Lira District",
+    "local_name": "Lira District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Lira District",
+      "boundary": "administrative",
+      "way_area": "0.108051",
+      "wikidata": "Q206519",
+      "ISO3166-2": "UG-307",
+      "wikipedia": "en:Lira District",
+      "admin_level": "4",
+      "border_type": "district"
+    }
+  },
+  {
+    "osm_id": -3501898,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3771649,-192796",
+    "name": "Lyantonde",
+    "local_name": "Lyantonde",
+    "name_en": null,
+    "all_tags": {
+      "name": "Lyantonde",
+      "boundary": "administrative",
+      "way_area": "0.0721538",
+      "wikidata": "Q1375878",
+      "ISO3166-2": "UG-114",
+      "wikipedia": "en:Lyantonde District",
+      "admin_level": "4",
+      "border_type": "district"
+    }
+  },
+  {
+    "osm_id": -7652579,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-7652580,-3501887,-3771649,-192796",
+    "name": "Bujumba",
+    "local_name": "Bujumba",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bujumba",
+      "boundary": "administrative",
+      "way_area": "0.0677724",
+      "admin_level": "6",
+      "border_type": "subcounty"
+    }
+  },
+  {
+    "osm_id": -3501829,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3771442,-192796",
+    "name": "Kaabong",
+    "local_name": "Kaabong",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kaabong",
+      "boundary": "administrative",
+      "way_area": "0.58779",
+      "wikidata": "Q1229881",
+      "ISO3166-2": "UG-318",
+      "wikipedia": "en:Kaabong District",
+      "admin_level": "4",
+      "border_type": "district"
+    }
+  },
+  {
+    "osm_id": -3498085,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3771649,-192796",
+    "name": "Masaka",
+    "local_name": "Masaka",
+    "name_en": null,
+    "all_tags": {
+      "name": "Masaka",
+      "boundary": "administrative",
+      "way_area": "0.187559",
+      "wikidata": "Q1032233",
+      "ISO3166-2": "UG-105",
+      "admin_level": "4",
+      "border_type": "district"
+    }
+  },
+  {
+    "osm_id": -3497974,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3772011,-192796",
+    "name": "Masindi",
+    "local_name": "Masindi",
+    "name_en": null,
+    "all_tags": {
+      "name": "Masindi",
+      "boundary": "administrative",
+      "way_area": "0.209939",
+      "wikidata": "Q1032238",
+      "ISO3166-2": "UG-409",
+      "wikipedia": "en:Masindi District",
+      "admin_level": "4",
+      "border_type": "district"
+    }
+  },
+  {
+    "osm_id": -7652578,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-7652580,-3501887,-3771649,-192796",
+    "name": "Mugoye",
+    "local_name": "Mugoye",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mugoye",
+      "boundary": "administrative",
+      "way_area": "0.0442753",
+      "wikidata": "Q31960470",
+      "admin_level": "6",
+      "border_type": "subcounty"
+    }
+  },
+  {
+    "osm_id": -3498127,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3771602,-192796",
+    "name": "Kibuku",
+    "local_name": "Kibuku",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kibuku",
+      "boundary": "administrative",
+      "old_name": "Pallisa",
+      "way_area": "0.0399553",
+      "wikidata": "Q1114885",
+      "ISO3166-2": "UG-227",
+      "wikipedia": "en:Kibuku District",
+      "admin_level": "4",
+      "border_type": "district",
+      "official_name": "Kibuku District"
+    }
+  },
+  {
+    "osm_id": -8086148,
+    "boundary": "refugee_camp",
+    "admin_level": 5,
+    "parents": "-8085646,-192796",
+    "name": "Village 20",
+    "local_name": "Village 20",
+    "name_en": "Village 20",
+    "all_tags": {
+      "name": "Village 20",
+      "landuse": "residential",
+      "name:en": "Village 20",
+      "refugee": "yes",
+      "boundary": "refugee_camp",
+      "way_area": "2.53098e-05",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -8086158,
+    "boundary": "refugee_camp",
+    "admin_level": 5,
+    "parents": "-8085581,-8085646,-192796",
+    "name": "Village 13",
+    "local_name": "Village 13",
+    "name_en": "Village 13",
+    "all_tags": {
+      "name": "Village 13",
+      "landuse": "residential",
+      "name:en": "Village 13",
+      "refugee": "yes",
+      "boundary": "refugee_camp",
+      "way_area": "2.41389e-05",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -8086168,
+    "boundary": "refugee_camp",
+    "admin_level": 5,
+    "parents": "-8085582,-8085646,-192796",
+    "name": "Village 05",
+    "local_name": "Village 05",
+    "name_en": "Village 05",
+    "all_tags": {
+      "name": "Village 05",
+      "landuse": "residential",
+      "name:en": "Village 05",
+      "refugee": "yes",
+      "boundary": "refugee_camp",
+      "way_area": "2.25132e-05",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -8086178,
+    "boundary": "refugee_camp",
+    "admin_level": 5,
+    "parents": "-8085580,-8085728,-192796",
+    "name": "Village 11",
+    "local_name": "Village 11",
+    "name_en": "Village 11",
+    "all_tags": {
+      "name": "Village 11",
+      "landuse": "residential",
+      "name:en": "Village 11",
+      "refugee": "yes",
+      "boundary": "refugee_camp",
+      "way_area": "2.13369e-05",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -8089198,
+    "boundary": "refugee_camp",
+    "admin_level": 5,
+    "parents": "-8085728,-192796",
+    "name": "Village 24",
+    "local_name": "Village 24",
+    "name_en": "Village 24",
+    "all_tags": {
+      "name": "Village 24",
+      "landuse": "residential",
+      "name:en": "Village 24",
+      "refugee": "yes",
+      "boundary": "refugee_camp",
+      "way_area": "2.12104e-05",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -8089178,
+    "boundary": "refugee_camp",
+    "admin_level": 5,
+    "parents": "-8085728,-192796",
+    "name": "Village 40",
+    "local_name": "Village 40",
+    "name_en": "Village 40",
+    "all_tags": {
+      "name": "Village 40",
+      "landuse": "residential",
+      "name:en": "Village 40",
+      "refugee": "yes",
+      "boundary": "refugee_camp",
+      "way_area": "2.87811e-05",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -8089208,
+    "boundary": "refugee_camp",
+    "admin_level": 5,
+    "parents": "-8085728,-192796",
+    "name": "Village 30",
+    "local_name": "Village 30",
+    "name_en": "Village 30",
+    "all_tags": {
+      "name": "Village 30",
+      "landuse": "residential",
+      "name:en": "Village 30",
+      "refugee": "yes",
+      "boundary": "refugee_camp",
+      "way_area": "2.79978e-05",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -8086169,
+    "boundary": "refugee_camp",
+    "admin_level": 5,
+    "parents": "-8085582,-8085646,-192796",
+    "name": "Village 01",
+    "local_name": "Village 01",
+    "name_en": "Village 01",
+    "all_tags": {
+      "name": "Village 01",
+      "landuse": "residential",
+      "name:en": "Village 01",
+      "refugee": "yes",
+      "boundary": "refugee_camp",
+      "way_area": "2.08471e-05",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -8086179,
+    "boundary": "refugee_camp",
+    "admin_level": 5,
+    "parents": "-8085580,-8085728,-192796",
+    "name": "Village 14",
+    "local_name": "Village 14",
+    "name_en": "Village 14",
+    "all_tags": {
+      "name": "Village 14",
+      "landuse": "residential",
+      "name:en": "Village 14",
+      "refugee": "yes",
+      "boundary": "refugee_camp",
+      "way_area": "1.96867e-05",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -8089209,
+    "boundary": "refugee_camp",
+    "admin_level": 5,
+    "parents": "-8085728,-192796",
+    "name": "Village 32",
+    "local_name": "Village 32",
+    "name_en": "Village 32",
+    "all_tags": {
+      "name": "Village 32",
+      "landuse": "residential",
+      "name:en": "Village 32",
+      "refugee": "yes",
+      "boundary": "refugee_camp",
+      "way_area": "1.96453e-05",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -3501864,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3771602,-192796",
+    "name": "Tororo",
+    "local_name": "Tororo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Tororo",
+      "boundary": "administrative",
+      "way_area": "0.098291",
+      "wikidata": "Q1186541",
+      "ISO3166-2": "UG-212",
+      "wikipedia": "en:Tororo District",
+      "admin_level": "4",
+      "border_type": "district"
+    }
+  },
+  {
+    "osm_id": -8085578,
+    "boundary": "refugee_camp",
+    "admin_level": 4,
+    "parents": "-8085646,-192796",
+    "name": "Point I",
+    "local_name": "Point I",
+    "name_en": "Point I",
+    "all_tags": {
+      "name": "Point I",
+      "landuse": "residential",
+      "name:en": "Point I",
+      "refugee": "yes",
+      "boundary": "refugee_camp",
+      "way_area": "0.000107764",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -8089201,
+    "boundary": "refugee_camp",
+    "admin_level": 5,
+    "parents": "-8085728,-192796",
+    "name": "Village 34",
+    "local_name": "Village 34",
+    "name_en": "Village 34",
+    "all_tags": {
+      "name": "Village 34",
+      "landuse": "residential",
+      "name:en": "Village 34",
+      "refugee": "yes",
+      "boundary": "refugee_camp",
+      "way_area": "4.20383e-05",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -8089191,
+    "boundary": "refugee_camp",
+    "admin_level": 5,
+    "parents": "-8085728,-192796",
+    "name": "Village 58",
+    "local_name": "Village 58",
+    "name_en": "Village 58",
+    "all_tags": {
+      "name": "Village 58",
+      "landuse": "residential",
+      "name:en": "Village 58",
+      "refugee": "yes",
+      "boundary": "refugee_camp",
+      "way_area": "2.12628e-05",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -8086151,
+    "boundary": "refugee_camp",
+    "admin_level": 5,
+    "parents": "-8085581,-8085646,-192796",
+    "name": "Village 23",
+    "local_name": "Village 23",
+    "name_en": "Village 23",
+    "all_tags": {
+      "name": "Village 23",
+      "landuse": "residential",
+      "name:en": "Village 23",
+      "refugee": "yes",
+      "boundary": "refugee_camp",
+      "way_area": "1.95161e-05",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -8089181,
+    "boundary": "refugee_camp",
+    "admin_level": 5,
+    "parents": "-8085728,-192796",
+    "name": "Village 51",
+    "local_name": "Village 51",
+    "name_en": "Village 51",
+    "all_tags": {
+      "name": "Village 51",
+      "landuse": "residential",
+      "name:en": "Village 51",
+      "refugee": "yes",
+      "boundary": "refugee_camp",
+      "way_area": "1.73441e-05",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -8086161,
+    "boundary": "refugee_camp",
+    "admin_level": 5,
+    "parents": "-8085582,-8085646,-192796",
+    "name": "Village 12",
+    "local_name": "Village 12",
+    "name_en": "Village 12",
+    "all_tags": {
+      "name": "Village 12",
+      "landuse": "residential",
+      "name:en": "Village 12",
+      "refugee": "yes",
+      "boundary": "refugee_camp",
+      "way_area": "1.36074e-05",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -8089171,
+    "boundary": "refugee_camp",
+    "admin_level": 5,
+    "parents": "-8085728,-192796",
+    "name": "Village 41",
+    "local_name": "Village 41",
+    "name_en": "Village 41",
+    "all_tags": {
+      "name": "Village 41",
+      "landuse": "residential",
+      "name:en": "Village 41",
+      "refugee": "yes",
+      "boundary": "refugee_camp",
+      "way_area": "1.18418e-05",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -8086164,
+    "boundary": "refugee_camp",
+    "admin_level": 5,
+    "parents": "-8085582,-8085646,-192796",
+    "name": "Village 09",
+    "local_name": "Village 09",
+    "name_en": "Village 09",
+    "all_tags": {
+      "name": "Village 09",
+      "landuse": "residential",
+      "name:en": "Village 09",
+      "refugee": "yes",
+      "boundary": "refugee_camp",
+      "way_area": "2.45891e-05",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -8086174,
+    "boundary": "refugee_camp",
+    "admin_level": 5,
+    "parents": "-8085580,-8085728,-192796",
+    "name": "Village 02",
+    "local_name": "Village 02",
+    "name_en": "Village 02",
+    "all_tags": {
+      "name": "Village 02",
+      "landuse": "residential",
+      "name:en": "Village 02",
+      "refugee": "yes",
+      "boundary": "refugee_camp",
+      "way_area": "1.16732e-05",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -8089184,
+    "boundary": "refugee_camp",
+    "admin_level": 5,
+    "parents": "-3501793,-3771442,-192796",
+    "name": "Village 47",
+    "local_name": "Village 47",
+    "name_en": "Village 47",
+    "all_tags": {
+      "name": "Village 47",
+      "landuse": "residential",
+      "name:en": "Village 47",
+      "refugee": "yes",
+      "boundary": "refugee_camp",
+      "way_area": "2.2225e-05",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -8089194,
+    "boundary": "refugee_camp",
+    "admin_level": 5,
+    "parents": "-3501793,-3771442,-192796",
+    "name": "Village 60",
+    "local_name": "Village 60",
+    "name_en": "Village 60",
+    "all_tags": {
+      "name": "Village 60",
+      "landuse": "residential",
+      "name:en": "Village 60",
+      "refugee": "yes",
+      "boundary": "refugee_camp",
+      "way_area": "1.92341e-05",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -8086173,
+    "boundary": "refugee_camp",
+    "admin_level": 5,
+    "parents": "-8085580,-8085728,-192796",
+    "name": "Village 15",
+    "local_name": "Village 15",
+    "name_en": "Village 15",
+    "all_tags": {
+      "name": "Village 15",
+      "landuse": "residential",
+      "name:en": "Village 15",
+      "refugee": "yes",
+      "boundary": "refugee_camp",
+      "way_area": "2.14087e-05",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -8089203,
+    "boundary": "refugee_camp",
+    "admin_level": 5,
+    "parents": "-8085728,-192796",
+    "name": "Village 26",
+    "local_name": "Village 26",
+    "name_en": "Village 26",
+    "all_tags": {
+      "name": "Village 26",
+      "landuse": "residential",
+      "name:en": "Village 26",
+      "refugee": "yes",
+      "boundary": "refugee_camp",
+      "way_area": "1.87515e-05",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -8089173,
+    "boundary": "refugee_camp",
+    "admin_level": 5,
+    "parents": "-8085728,-192796",
+    "name": "Village 38",
+    "local_name": "Village 38",
+    "name_en": "Village 38",
+    "all_tags": {
+      "name": "Village 38",
+      "landuse": "residential",
+      "name:en": "Village 38",
+      "refugee": "yes",
+      "boundary": "refugee_camp",
+      "way_area": "1.39055e-05",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -8086153,
+    "boundary": "refugee_camp",
+    "admin_level": 5,
+    "parents": "-8085646,-192796",
+    "name": "Village 27",
+    "local_name": "Village 27",
+    "name_en": "Village 27",
+    "all_tags": {
+      "name": "Village 27",
+      "landuse": "residential",
+      "name:en": "Village 27",
+      "refugee": "yes",
+      "boundary": "refugee_camp",
+      "way_area": "1.1487e-05",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -8089193,
+    "boundary": "refugee_camp",
+    "admin_level": 5,
+    "parents": "-8085728,-192796",
+    "name": "Village 56",
+    "local_name": "Village 56",
+    "name_en": "Village 56",
+    "all_tags": {
+      "name": "Village 56",
+      "landuse": "residential",
+      "name:en": "Village 56",
+      "refugee": "yes",
+      "boundary": "refugee_camp",
+      "way_area": "2.01722e-05",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -8089183,
+    "boundary": "refugee_camp",
+    "admin_level": 5,
+    "parents": "-3501793,-3771442,-192796",
+    "name": "Village 46",
+    "local_name": "Village 46",
+    "name_en": "Village 46",
+    "all_tags": {
+      "name": "Village 46",
+      "landuse": "residential",
+      "name:en": "Village 46",
+      "refugee": "yes",
+      "boundary": "refugee_camp",
+      "way_area": "8.44433e-06",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -5999168,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3497128,-3771442,-192796",
+    "name": "Erute",
+    "local_name": "Erute",
+    "name_en": null,
+    "all_tags": {
+      "name": "Erute",
+      "boundary": "administrative",
+      "way_area": "0.10593",
+      "wikidata": "Q22918977",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8086175,
+    "boundary": "refugee_camp",
+    "admin_level": 5,
+    "parents": "-8085580,-8085728,-192796",
+    "name": "Village 04",
+    "local_name": "Village 04",
+    "name_en": "Village 04",
+    "all_tags": {
+      "name": "Village 04",
+      "landuse": "residential",
+      "name:en": "Village 04",
+      "refugee": "yes",
+      "boundary": "refugee_camp",
+      "way_area": "2.21323e-05",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -8089175,
+    "boundary": "refugee_camp",
+    "admin_level": 5,
+    "parents": "-8085728,-192796",
+    "name": "Village 20",
+    "local_name": "Village 20",
+    "name_en": "Village 20",
+    "all_tags": {
+      "name": "Village 20",
+      "landuse": "residential",
+      "name:en": "Village 20",
+      "refugee": "yes",
+      "boundary": "refugee_camp",
+      "way_area": "2.57502e-05",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -8089185,
+    "boundary": "refugee_camp",
+    "admin_level": 5,
+    "parents": "-8085728,-192796",
+    "name": "Village 48",
+    "local_name": "Village 48",
+    "name_en": "Village 48",
+    "all_tags": {
+      "name": "Village 48",
+      "landuse": "residential",
+      "name:en": "Village 48",
+      "refugee": "yes",
+      "boundary": "refugee_camp",
+      "way_area": "2.25966e-05",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -8086145,
+    "boundary": "refugee_camp",
+    "admin_level": 5,
+    "parents": "-8085646,-192796",
+    "name": "Village 17",
+    "local_name": "Village 17",
+    "name_en": "Village 17",
+    "all_tags": {
+      "name": "Village 17",
+      "landuse": "residential",
+      "name:en": "Village 17",
+      "refugee": "yes",
+      "boundary": "refugee_camp",
+      "way_area": "2.18964e-05",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -8089195,
+    "boundary": "refugee_camp",
+    "admin_level": 5,
+    "parents": "-8085728,-192796",
+    "name": "Village 54",
+    "local_name": "Village 54",
+    "name_en": "Village 54",
+    "all_tags": {
+      "name": "Village 54",
+      "landuse": "residential",
+      "name:en": "Village 54",
+      "refugee": "yes",
+      "boundary": "refugee_camp",
+      "way_area": "1.36795e-05",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -8089200,
+    "boundary": "refugee_camp",
+    "admin_level": 5,
+    "parents": "-8085728,-192796",
+    "name": "Village 23",
+    "local_name": "Village 23",
+    "name_en": "Village 23",
+    "all_tags": {
+      "name": "Village 23",
+      "landuse": "residential",
+      "name:en": "Village 23",
+      "refugee": "yes",
+      "boundary": "refugee_camp",
+      "way_area": "2.47398e-05",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -8086170,
+    "boundary": "refugee_camp",
+    "admin_level": 5,
+    "parents": "-8085582,-8085646,-192796",
+    "name": "Village 02",
+    "local_name": "Village 02",
+    "name_en": "Village 02",
+    "all_tags": {
+      "name": "Village 02",
+      "landuse": "residential",
+      "name:en": "Village 02",
+      "refugee": "yes",
+      "boundary": "refugee_camp",
+      "way_area": "2.24091e-05",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -8086150,
+    "boundary": "refugee_camp",
+    "admin_level": 5,
+    "parents": "-8085581,-8085646,-192796",
+    "name": "Village 16",
+    "local_name": "Village 16",
+    "name_en": "Village 16",
+    "all_tags": {
+      "name": "Village 16",
+      "landuse": "residential",
+      "name:en": "Village 16",
+      "refugee": "yes",
+      "boundary": "refugee_camp",
+      "way_area": "2.19918e-05",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -8086180,
+    "boundary": "refugee_camp",
+    "admin_level": 5,
+    "parents": "-8085580,-8085728,-192796",
+    "name": "Village 12",
+    "local_name": "Village 12",
+    "name_en": "Village 12",
+    "all_tags": {
+      "name": "Village 12",
+      "landuse": "residential",
+      "name:en": "Village 12",
+      "refugee": "yes",
+      "boundary": "refugee_camp",
+      "way_area": "1.9065e-05",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -8089210,
+    "boundary": "refugee_camp",
+    "admin_level": 5,
+    "parents": "-8085728,-192796",
+    "name": "Village 33",
+    "local_name": "Village 33",
+    "name_en": "Village 33",
+    "all_tags": {
+      "name": "Village 33",
+      "landuse": "residential",
+      "name:en": "Village 33",
+      "refugee": "yes",
+      "boundary": "refugee_camp",
+      "way_area": "1.41377e-05",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -8089180,
+    "boundary": "refugee_camp",
+    "admin_level": 5,
+    "parents": "-8085728,-192796",
+    "name": "Village 45",
+    "local_name": "Village 45",
+    "name_en": "Village 45",
+    "all_tags": {
+      "name": "Village 45",
+      "landuse": "residential",
+      "name:en": "Village 45",
+      "refugee": "yes",
+      "boundary": "refugee_camp",
+      "way_area": "1.59038e-05",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -8089170,
+    "boundary": "refugee_camp",
+    "admin_level": 5,
+    "parents": "-8085728,-192796",
+    "name": "Village 42",
+    "local_name": "Village 42",
+    "name_en": "Village 42",
+    "all_tags": {
+      "name": "Village 42",
+      "landuse": "residential",
+      "name:en": "Village 42",
+      "refugee": "yes",
+      "boundary": "refugee_camp",
+      "way_area": "4.20428e-06",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -8086162,
+    "boundary": "refugee_camp",
+    "admin_level": 5,
+    "parents": "-8085582,-8085646,-192796",
+    "name": "Village 10",
+    "local_name": "Village 10",
+    "name_en": "Village 10",
+    "all_tags": {
+      "name": "Village 10",
+      "landuse": "residential",
+      "name:en": "Village 10",
+      "refugee": "yes",
+      "boundary": "refugee_camp",
+      "way_area": "2.77393e-05",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -8086152,
+    "boundary": "refugee_camp",
+    "admin_level": 5,
+    "parents": "-8085646,-192796",
+    "name": "Village 22",
+    "local_name": "Village 22",
+    "name_en": "Village 22",
+    "all_tags": {
+      "name": "Village 22",
+      "landuse": "residential",
+      "name:en": "Village 22",
+      "refugee": "yes",
+      "boundary": "refugee_camp",
+      "way_area": "1.63283e-05",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -8089202,
+    "boundary": "refugee_camp",
+    "admin_level": 5,
+    "parents": "-8085728,-192796",
+    "name": "Village 25",
+    "local_name": "Village 25",
+    "name_en": "Village 25",
+    "all_tags": {
+      "name": "Village 25",
+      "landuse": "residential",
+      "name:en": "Village 25",
+      "refugee": "yes",
+      "boundary": "refugee_camp",
+      "way_area": "2.24293e-05",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -8089172,
+    "boundary": "refugee_camp",
+    "admin_level": 5,
+    "parents": "-8085728,-192796",
+    "name": "Village 39",
+    "local_name": "Village 39",
+    "name_en": "Village 39",
+    "all_tags": {
+      "name": "Village 39",
+      "landuse": "residential",
+      "name:en": "Village 39",
+      "refugee": "yes",
+      "boundary": "refugee_camp",
+      "way_area": "8.91861e-06",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -8089192,
+    "boundary": "refugee_camp",
+    "admin_level": 5,
+    "parents": "-8085728,-192796",
+    "name": "Village 59",
+    "local_name": "Village 59",
+    "name_en": "Village 59",
+    "all_tags": {
+      "name": "Village 59",
+      "landuse": "residential",
+      "name:en": "Village 59",
+      "refugee": "yes",
+      "boundary": "refugee_camp",
+      "way_area": "2.11029e-05",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -8089206,
+    "boundary": "refugee_camp",
+    "admin_level": 5,
+    "parents": "-8085728,-192796",
+    "name": "Village 29",
+    "local_name": "Village 29",
+    "name_en": "Village 29",
+    "all_tags": {
+      "name": "Village 29",
+      "landuse": "residential",
+      "name:en": "Village 29",
+      "refugee": "yes",
+      "boundary": "refugee_camp",
+      "way_area": "2.19056e-05",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -8089186,
+    "boundary": "refugee_camp",
+    "admin_level": 5,
+    "parents": "-8085728,-192796",
+    "name": "Village 50",
+    "local_name": "Village 50",
+    "name_en": "Village 50",
+    "all_tags": {
+      "name": "Village 50",
+      "landuse": "residential",
+      "name:en": "Village 50",
+      "refugee": "yes",
+      "boundary": "refugee_camp",
+      "way_area": "2.14076e-05",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -8089196,
+    "boundary": "refugee_camp",
+    "admin_level": 5,
+    "parents": "-8085728,-192796",
+    "name": "Village 19",
+    "local_name": "Village 19",
+    "name_en": "Village 19",
+    "all_tags": {
+      "name": "Village 19",
+      "landuse": "residential",
+      "name:en": "Village 19",
+      "refugee": "yes",
+      "boundary": "refugee_camp",
+      "way_area": "2.82988e-05",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -8086166,
+    "boundary": "refugee_camp",
+    "admin_level": 5,
+    "parents": "-8085582,-8085646,-192796",
+    "name": "Village 06",
+    "local_name": "Village 06",
+    "name_en": "Village 06",
+    "all_tags": {
+      "name": "Village 06",
+      "landuse": "residential",
+      "name:en": "Village 06",
+      "refugee": "yes",
+      "boundary": "refugee_camp",
+      "way_area": "2.27791e-05",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -8086176,
+    "boundary": "refugee_camp",
+    "admin_level": 5,
+    "parents": "-8085580,-8085728,-192796",
+    "name": "Village 06",
+    "local_name": "Village 06",
+    "name_en": "Village 06",
+    "all_tags": {
+      "name": "Village 06",
+      "landuse": "residential",
+      "name:en": "Village 06",
+      "refugee": "yes",
+      "boundary": "refugee_camp",
+      "way_area": "2.01444e-05",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -8086146,
+    "boundary": "refugee_camp",
+    "admin_level": 5,
+    "parents": "-8085646,-192796",
+    "name": "Village 18",
+    "local_name": "Village 18",
+    "name_en": "Village 18",
+    "all_tags": {
+      "name": "Village 18",
+      "landuse": "residential",
+      "name:en": "Village 18",
+      "refugee": "yes",
+      "boundary": "refugee_camp",
+      "way_area": "1.22717e-05",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -5457271,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3771649,-192796",
+    "name": "Lwengo",
+    "local_name": "Lwengo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Lwengo",
+      "boundary": "administrative",
+      "way_area": "0.0743133",
+      "wikidata": "Q1114954",
+      "ISO3166-2": "UG-124",
+      "wikipedia": "en:Lwengo District",
+      "admin_level": "4",
+      "border_type": "district"
+    }
+  },
+  {
+    "osm_id": -3501862,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3771602,-192796",
+    "name": "Mayuge",
+    "local_name": "Mayuge",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mayuge",
+      "boundary": "administrative",
+      "way_area": "0.278879",
+      "wikidata": "Q1364824",
+      "ISO3166-2": "UG-214",
+      "wikipedia": "en:Mayuge District",
+      "admin_level": "4",
+      "border_type": "district"
+    }
+  },
+  {
+    "osm_id": -8085577,
+    "boundary": "refugee_camp",
+    "admin_level": 4,
+    "parents": "-8085646,-192796",
+    "name": "Point D",
+    "local_name": "Point D",
+    "name_en": "Point D",
+    "all_tags": {
+      "name": "Point D",
+      "landuse": "residential",
+      "name:en": "Point D",
+      "refugee": "yes",
+      "boundary": "refugee_camp",
+      "way_area": "0.000528629",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -8085727,
+    "boundary": "refugee_camp",
+    "admin_level": 4,
+    "parents": "-8085728,-192796",
+    "name": "Point E",
+    "local_name": "Point E",
+    "name_en": "Point E",
+    "all_tags": {
+      "name": "Point E",
+      "landuse": "residential",
+      "name:en": "Point E",
+      "refugee": "yes",
+      "boundary": "refugee_camp",
+      "way_area": "0.000163905",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -934571,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-934530,-3772011,-192796",
+    "name": "Kambuga Sub-County",
+    "local_name": "Kambuga Sub-County",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kambuga Sub-County",
+      "boundary": "administrative",
+      "way_area": "0.00893851",
+      "wikidata": "Q21997176",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -3501895,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3772011,-192796",
+    "name": "Kasese",
+    "local_name": "Kasese",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kasese",
+      "boundary": "administrative",
+      "way_area": "0.273438",
+      "wikidata": "Q1229919",
+      "ISO3166-2": "UG-406",
+      "wikipedia": "en:Kasese District",
+      "admin_level": "4",
+      "border_type": "district"
+    }
+  },
+  {
+    "osm_id": -5994232,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3498015,-3771649,-192796",
+    "name": "Lwemiyaga",
+    "local_name": "Lwemiyaga",
+    "name_en": null,
+    "all_tags": {
+      "name": "Lwemiyaga",
+      "alt_name": "Lwemiyaga County",
+      "boundary": "administrative",
+      "way_area": "0.0648356",
+      "wikidata": "Q22670087",
+      "wikipedia": "en:Lwemiyaga county",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -3498014,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3771649,-192796",
+    "name": "Mubende",
+    "local_name": "Mubende",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mubende",
+      "boundary": "administrative",
+      "way_area": "0.375825",
+      "wikidata": "Q891962",
+      "ISO3166-2": "UG-107",
+      "wikipedia": "en:Mubende District",
+      "admin_level": "4",
+      "border_type": "district"
+    }
+  },
+  {
+    "osm_id": -3498094,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3771649,-192796",
+    "name": "Gomba",
+    "local_name": "Gomba",
+    "name_en": null,
+    "all_tags": {
+      "name": "Gomba",
+      "boundary": "administrative",
+      "old_name": "Mpigi",
+      "way_area": "0.137278",
+      "wikidata": "Q3321637",
+      "ISO3166-2": "UG-121",
+      "admin_level": "4",
+      "border_type": "district"
+    }
+  },
+  {
+    "osm_id": -3498003,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3771649,-192796",
+    "name": "Kyankwanzi",
+    "local_name": "Kyankwanzi",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kyankwanzi",
+      "boundary": "administrative",
+      "old_name": "Kiboga",
+      "way_area": "0.199499",
+      "wikidata": "Q534203",
+      "ISO3166-2": "UG-123",
+      "wikipedia": "en:Kyankwanzi District",
+      "admin_level": "4",
+      "border_type": "district"
+    }
+  },
+  {
+    "osm_id": -3497424,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3771602,-192796",
+    "name": "Amuria",
+    "local_name": "Amuria",
+    "name_en": null,
+    "all_tags": {
+      "name": "Amuria",
+      "boundary": "administrative",
+      "way_area": "0.210435",
+      "wikidata": "Q1375762",
+      "ISO3166-2": "UG-216",
+      "wikipedia": "en:Amuria District",
+      "admin_level": "4",
+      "border_type": "district"
+    }
+  },
+  {
+    "osm_id": -3497114,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3771442,-192796",
+    "name": "Oyam",
+    "local_name": "Oyam",
+    "name_en": null,
+    "all_tags": {
+      "name": "Oyam",
+      "boundary": "administrative",
+      "way_area": "0.178129",
+      "wikidata": "Q1318833",
+      "ISO3166-2": "UG-321",
+      "wikipedia": "en:Oyam District",
+      "admin_level": "4",
+      "border_type": "district"
+    }
+  },
+  {
+    "osm_id": -3497399,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3771602,-192796",
+    "name": "Serere",
+    "local_name": "Serere",
+    "name_en": null,
+    "all_tags": {
+      "name": "Serere",
+      "boundary": "administrative",
+      "old_name": "Soroti",
+      "way_area": "0.159693",
+      "wikidata": "Q1114927",
+      "ISO3166-2": "UG-232",
+      "wikipedia": "en:Serere District",
+      "admin_level": "4",
+      "border_type": "district"
+    }
+  },
+  {
+    "osm_id": -3497166,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3771442,-192796",
+    "name": "Otuke",
+    "local_name": "Otuke",
+    "name_en": null,
+    "all_tags": {
+      "name": "Otuke",
+      "boundary": "administrative",
+      "old_name": "Lira",
+      "way_area": "0.12602",
+      "wikidata": "Q3539602",
+      "ISO3166-2": "UG-329",
+      "admin_level": "4",
+      "border_type": "district"
+    }
+  },
+  {
+    "osm_id": -8089169,
+    "boundary": "refugee_camp",
+    "admin_level": 5,
+    "parents": "-8085728,-192796",
+    "name": "Village 44",
+    "local_name": "Village 44",
+    "name_en": "Village 44",
+    "all_tags": {
+      "name": "Village 44",
+      "landuse": "residential",
+      "name:en": "Village 44",
+      "refugee": "yes",
+      "boundary": "refugee_camp",
+      "way_area": "5.10975e-06",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -3501838,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3771602,-192796",
+    "name": "Kween",
+    "local_name": "Kween",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kween",
+      "boundary": "administrative",
+      "old_name": "Kapchorwa",
+      "way_area": "0.0700042",
+      "wikidata": "Q3321998",
+      "ISO3166-2": "UG-228",
+      "wikipedia": "en:Kween District",
+      "admin_level": "4",
+      "border_type": "district"
+    }
+  },
+  {
+    "osm_id": -8089207,
+    "boundary": "refugee_camp",
+    "admin_level": 5,
+    "parents": "-8085728,-192796",
+    "name": "Village 31",
+    "local_name": "Village 31",
+    "name_en": "Village 31",
+    "all_tags": {
+      "name": "Village 31",
+      "landuse": "residential",
+      "name:en": "Village 31",
+      "refugee": "yes",
+      "boundary": "refugee_camp",
+      "way_area": "2.42789e-05",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -8086177,
+    "boundary": "refugee_camp",
+    "admin_level": 5,
+    "parents": "-8085580,-8085728,-192796",
+    "name": "Village 13",
+    "local_name": "Village 13",
+    "name_en": "Village 13",
+    "all_tags": {
+      "name": "Village 13",
+      "landuse": "residential",
+      "name:en": "Village 13",
+      "refugee": "yes",
+      "boundary": "refugee_camp",
+      "way_area": "2.20401e-05",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -8089197,
+    "boundary": "refugee_camp",
+    "admin_level": 5,
+    "parents": "-8085728,-192796",
+    "name": "Village 21",
+    "local_name": "Village 21",
+    "name_en": "Village 21",
+    "all_tags": {
+      "name": "Village 21",
+      "landuse": "residential",
+      "name:en": "Village 21",
+      "refugee": "yes",
+      "boundary": "refugee_camp",
+      "way_area": "2.06338e-05",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -8089187,
+    "boundary": "refugee_camp",
+    "admin_level": 5,
+    "parents": "-8085728,-192796",
+    "name": "Village 52",
+    "local_name": "Village 52",
+    "name_en": "Village 52",
+    "all_tags": {
+      "name": "Village 52",
+      "landuse": "residential",
+      "name:en": "Village 52",
+      "refugee": "yes",
+      "boundary": "refugee_camp",
+      "way_area": "1.7215e-05",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -8089177,
+    "boundary": "refugee_camp",
+    "admin_level": 5,
+    "parents": "-8085728,-192796",
+    "name": "Village 22",
+    "local_name": "Village 22",
+    "name_en": "Village 22",
+    "all_tags": {
+      "name": "Village 22",
+      "landuse": "residential",
+      "name:en": "Village 22",
+      "refugee": "yes",
+      "boundary": "refugee_camp",
+      "way_area": "1.7176e-05",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -3497127,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3771442,-192796",
+    "name": "Dokolo",
+    "local_name": "Dokolo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Dokolo",
+      "boundary": "administrative",
+      "way_area": "0.0873324",
+      "wikidata": "Q1318872",
+      "ISO3166-2": "UG-317",
+      "wikipedia": "en:Dokolo District",
+      "admin_level": "4",
+      "border_type": "district"
+    }
+  },
+  {
+    "osm_id": -3501861,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3771602,-192796",
+    "name": "Manafwa",
+    "local_name": "Manafwa",
+    "name_en": null,
+    "all_tags": {
+      "name": "Manafwa",
+      "boundary": "administrative",
+      "way_area": "0.0489652",
+      "wikidata": "Q1375789",
+      "ISO3166-2": "UG-223",
+      "wikipedia": "en:Manafwa District",
+      "start_date": "01-01-2005",
+      "admin_level": "4",
+      "border_type": "district"
+    }
+  },
+  {
+    "osm_id": -934565,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-934530,-3772011,-192796",
+    "name": "Kirima Sub-County",
+    "local_name": "Kirima Sub-County",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kirima Sub-County",
+      "boundary": "administrative",
+      "way_area": "0.00637415",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -3501823,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3771442,-192796",
+    "name": "Maracha",
+    "local_name": "Maracha",
+    "name_en": null,
+    "all_tags": {
+      "name": "Maracha",
+      "boundary": "administrative",
+      "old_name": "Maracha (Nyadri)",
+      "way_area": "0.0365297",
+      "wikidata": "Q588927",
+      "ISO3166-2": "UG-320",
+      "wikipedia": "en:Maracha District",
+      "admin_level": "4",
+      "border_type": "district"
+    }
+  },
+  {
+    "osm_id": -8085579,
+    "boundary": "refugee_camp",
+    "admin_level": 4,
+    "parents": "-8085646,-192796",
+    "name": "Point H",
+    "local_name": "Point H",
+    "name_en": "Point H",
+    "all_tags": {
+      "name": "Point H",
+      "landuse": "residential",
+      "name:en": "Point H",
+      "refugee": "yes",
+      "boundary": "refugee_camp",
+      "way_area": "0.00073199",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -8085725,
+    "boundary": "refugee_camp",
+    "admin_level": 4,
+    "parents": "-8085728,-192796",
+    "name": "Point A",
+    "local_name": "Point A",
+    "name_en": "Point A",
+    "all_tags": {
+      "name": "Point A",
+      "landuse": "residential",
+      "name:en": "Point A",
+      "refugee": "yes",
+      "boundary": "refugee_camp",
+      "way_area": "0.00012922",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -3497165,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3771442,-192796",
+    "name": "Agago",
+    "local_name": "Agago",
+    "name_en": null,
+    "all_tags": {
+      "name": "Agago",
+      "boundary": "administrative",
+      "way_area": "0.283999",
+      "wikidata": "Q3536053",
+      "ISO3166-2": "UG-322",
+      "wikipedia": "en:Agago District",
+      "admin_level": "4",
+      "border_type": "district"
+    }
+  },
+  {
+    "osm_id": -3501835,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3771442,-192796",
+    "name": "Amudat",
+    "local_name": "Amudat",
+    "name_en": null,
+    "all_tags": {
+      "name": "Amudat",
+      "boundary": "administrative",
+      "way_area": "0.131345",
+      "wikidata": "Q3536116",
+      "ISO3166-2": "UG-324",
+      "wikipedia": "en:Amudat District",
+      "admin_level": "4",
+      "border_type": "district"
+    }
+  },
+  {
+    "osm_id": -3498083,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3771649,-192796",
+    "name": "Bukomansimbi",
+    "local_name": "Bukomansimbi",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bukomansimbi",
+      "boundary": "administrative",
+      "old_name": "Masaka",
+      "way_area": "0.0487422",
+      "wikidata": "Q3321599",
+      "ISO3166-2": "UG-118",
+      "wikipedia": "en:Bukomansimbi District",
+      "admin_level": "4",
+      "border_type": "district"
+    }
+  },
+  {
+    "osm_id": -5940222,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3771602,-192796",
+    "name": "Bugisa sub-region",
+    "local_name": "Bugisa sub-region",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bugisa sub-region",
+      "boundary": "administrative",
+      "way_area": "0.200983",
+      "wikidata": "Q4986200",
+      "wikipedia": "en:Bugisu sub-region",
+      "admin_level": "6",
+      "border_type": "district"
+    }
+  },
+  {
+    "osm_id": -3498054,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3772011,-192796",
+    "name": "Bushenyi",
+    "local_name": "Bushenyi",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bushenyi",
+      "boundary": "administrative",
+      "way_area": "0.0765063",
+      "wikidata": "Q1229797",
+      "ISO3166-2": "UG-402",
+      "wikipedia": "en:Bushenyi District",
+      "admin_level": "4",
+      "border_type": "district"
+    }
+  },
+  {
+    "osm_id": -3498159,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3771602,-192796",
+    "name": "Budaka",
+    "local_name": "Budaka",
+    "name_en": null,
+    "all_tags": {
+      "name": "Budaka",
+      "boundary": "administrative",
+      "way_area": "0.0339423",
+      "wikidata": "Q1362085",
+      "ISO3166-2": "UG-217",
+      "wikipedia": "en:Budaka District",
+      "admin_level": "4",
+      "border_type": "district"
+    }
+  },
+  {
+    "osm_id": -3498117,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3771602,-192796",
+    "name": "Buyende",
+    "local_name": "Buyende",
+    "name_en": null,
+    "all_tags": {
+      "name": "Buyende",
+      "boundary": "administrative",
+      "old_name": "Kamuli",
+      "way_area": "0.152858",
+      "wikidata": "Q1114938",
+      "ISO3166-2": "UG-226",
+      "wikipedia": "en:Buyende District",
+      "admin_level": "4",
+      "border_type": "district"
+    }
+  },
+  {
+    "osm_id": -3498161,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3771602,-192796",
+    "name": "Bulambuli",
+    "local_name": "Bulambuli",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bulambuli",
+      "boundary": "administrative",
+      "old_name": "Sironko",
+      "way_area": "0.0536168",
+      "wikidata": "Q1114868",
+      "ISO3166-2": "UG-225",
+      "admin_level": "4",
+      "border_type": "district"
+    }
+  },
+  {
+    "osm_id": -934563,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-934530,-3772011,-192796",
+    "name": "Rugyeyo Sub-County",
+    "local_name": "Rugyeyo Sub-County",
+    "name_en": null,
+    "all_tags": {
+      "name": "Rugyeyo Sub-County",
+      "boundary": "administrative",
+      "way_area": "0.0053079",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -3498002,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3771649,-192796",
+    "name": "Kiboga",
+    "local_name": "Kiboga",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kiboga",
+      "boundary": "administrative",
+      "way_area": "0.128936",
+      "wikidata": "Q892064",
+      "ISO3166-2": "UG-103",
+      "wikipedia": "en:Kiboga District",
+      "admin_level": "4",
+      "border_type": "district"
+    }
+  },
+  {
+    "osm_id": -3498173,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3771602,-192796",
+    "name": "Kumi",
+    "local_name": "Kumi",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kumi",
+      "boundary": "administrative",
+      "way_area": "0.0873271",
+      "wikidata": "Q1151062",
+      "ISO3166-2": "UG-208",
+      "admin_level": "4",
+      "border_type": "district"
+    }
+  },
+  {
+    "osm_id": -3498118,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3771602,-192796",
+    "name": "Kamuli",
+    "local_name": "Kamuli",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kamuli",
+      "boundary": "administrative",
+      "way_area": "0.126507",
+      "wikidata": "Q164474",
+      "ISO3166-2": "UG-205",
+      "wikipedia": "en:Kamuli District",
+      "admin_level": "4",
+      "border_type": "district",
+      "official_name": "Kamuli District"
+    }
+  },
+  {
+    "osm_id": -934566,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-934530,-3772011,-192796",
+    "name": "Kanungu Town Council",
+    "local_name": "Kanungu Town Council",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kanungu Town Council",
+      "boundary": "administrative",
+      "way_area": "0.00342118",
+      "wikidata": "Q31929817",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -6088794,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3772011,-192796",
+    "name": "Ibanda",
+    "local_name": "Ibanda",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ibanda",
+      "boundary": "administrative",
+      "way_area": "0.0783228",
+      "wikidata": "Q1318877",
+      "ISO3166-2": "UG-417",
+      "wikipedia": "en:Ibanda District",
+      "addr:region": "Western region",
+      "admin_level": "4",
+      "border_type": "district",
+      "addr:country": "UG",
+      "admin_type:UG": "district"
+    }
+  },
+  {
+    "osm_id": -934530,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3772011,-192796",
+    "name": "Kanungu",
+    "local_name": "Kanungu",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kanungu",
+      "boundary": "administrative",
+      "way_area": "0.104775",
+      "wikidata": "Q1032245",
+      "ISO3166-2": "UG-414",
+      "wikipedia": "en:Kanungu District",
+      "admin_level": "4",
+      "border_type": "district"
+    }
+  },
+  {
+    "osm_id": -3498112,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3771602,-192796",
+    "name": "Luuka",
+    "local_name": "Luuka",
+    "name_en": null,
+    "all_tags": {
+      "name": "Luuka",
+      "boundary": "administrative",
+      "old_name": "Iganga",
+      "way_area": "0.052882",
+      "wikidata": "Q1114977",
+      "ISO3166-2": "UG-229",
+      "wikipedia": "en:Luuka District",
+      "admin_level": "4",
+      "border_type": "district"
+    }
+  },
+  {
+    "osm_id": -3497364,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3771602,-192796",
+    "name": "Kaberamaido",
+    "local_name": "Kaberamaido",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kaberamaido",
+      "boundary": "administrative",
+      "way_area": "0.131862",
+      "wikidata": "Q1229906",
+      "ISO3166-2": "UG-213",
+      "wikipedia": "en:Kaberamaido District",
+      "admin_level": "4",
+      "border_type": "district"
+    }
+  },
+  {
+    "osm_id": -3498104,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3771649,-192796",
+    "name": "Kayunga",
+    "local_name": "Kayunga",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kayunga",
+      "boundary": "administrative",
+      "way_area": "0.138498",
+      "wikidata": "Q1207391",
+      "ISO3166-2": "UG-112",
+      "wikipedia": "en:Kayunga District",
+      "admin_level": "4",
+      "border_type": "district"
+    }
+  },
+  {
+    "osm_id": -5994231,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3497425,-3771442,-192796",
+    "name": "Labwor",
+    "local_name": "Labwor",
+    "name_en": null,
+    "all_tags": {
+      "name": "Labwor",
+      "alt_name": "Labwor County",
+      "boundary": "administrative",
+      "way_area": "0.191403",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -5999169,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3497128,-3771442,-192796",
+    "name": "Lira Municipality",
+    "local_name": "Lira Municipality",
+    "name_en": null,
+    "all_tags": {
+      "name": "Lira Municipality",
+      "boundary": "administrative",
+      "way_area": "0.00212085",
+      "wikidata": "Q22914739",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -3498105,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3771649,-192796",
+    "name": "Luweero",
+    "local_name": "Luweero",
+    "name_en": null,
+    "all_tags": {
+      "name": "Luweero",
+      "boundary": "administrative",
+      "way_area": "0.180178",
+      "wikidata": "Q1364817",
+      "ISO3166-2": "UG-104",
+      "wikipedia": "en:Luweero District",
+      "admin_level": "4",
+      "border_type": "district"
+    }
+  },
+  {
+    "osm_id": -3498128,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3771602,-192796",
+    "name": "Namutumba",
+    "local_name": "Namutumba",
+    "name_en": null,
+    "all_tags": {
+      "name": "Namutumba",
+      "boundary": "administrative",
+      "way_area": "0.0660719",
+      "wikidata": "Q1375819",
+      "ISO3166-2": "UG-224",
+      "wikipedia": "en:Namutumba District",
+      "admin_level": "4",
+      "border_type": "district"
+    }
+  },
+  {
+    "osm_id": -3497398,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3771602,-192796",
+    "name": "Ngora",
+    "local_name": "Ngora",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ngora",
+      "boundary": "administrative",
+      "old_name": "Kumi",
+      "way_area": "0.0586474",
+      "wikidata": "Q1114903",
+      "ISO3166-2": "UG-231",
+      "wikipedia": "en:Ngora District",
+      "admin_level": "4",
+      "border_type": "district"
+    }
+  },
+  {
+    "osm_id": -3498251,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3771442,-192796",
+    "name": "Nakapiripirit",
+    "local_name": "Nakapiripirit",
+    "name_en": null,
+    "all_tags": {
+      "name": "Nakapiripirit",
+      "boundary": "administrative",
+      "way_area": "0.341685",
+      "wikidata": "Q1375853",
+      "ISO3166-2": "UG-311",
+      "wikipedia": "en:Nakapiripirit District",
+      "admin_level": "4",
+      "border_type": "district"
+    }
+  },
+  {
+    "osm_id": -3497981,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3771649,-192796",
+    "name": "Nakasongola",
+    "local_name": "Nakasongola",
+    "name_en": null,
+    "all_tags": {
+      "name": "Nakasongola",
+      "boundary": "administrative",
+      "way_area": "0.285375",
+      "wikidata": "Q976859",
+      "ISO3166-2": "UG-109",
+      "wikipedia": "en:Nakasongola District",
+      "admin_level": "4",
+      "border_type": "district"
+    }
+  },
+  {
+    "osm_id": -3498095,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3771649,-192796",
+    "name": "Mityana",
+    "local_name": "Mityana",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mityana",
+      "boundary": "administrative",
+      "way_area": "0.128305",
+      "wikidata": "Q1230005",
+      "ISO3166-2": "UG-115",
+      "wikipedia": "en:Mityana District",
+      "admin_level": "4",
+      "border_type": "district"
+    }
+  },
+  {
+    "osm_id": -3498004,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3771649,-192796",
+    "name": "Nakaseke",
+    "local_name": "Nakaseke",
+    "name_en": null,
+    "all_tags": {
+      "name": "Nakaseke",
+      "boundary": "administrative",
+      "way_area": "0.282546",
+      "wikidata": "Q432438",
+      "ISO3166-2": "UG-116",
+      "wikipedia": "en:Nakaseke District",
+      "admin_level": "4",
+      "border_type": "district"
+    }
+  },
+  {
+    "osm_id": -3498129,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3771602,-192796",
+    "name": "Pallisa",
+    "local_name": "Pallisa",
+    "name_en": null,
+    "all_tags": {
+      "name": "Pallisa",
+      "boundary": "administrative",
+      "way_area": "0.0890793",
+      "wikidata": "Q1375843",
+      "ISO3166-2": "UG-210",
+      "wikipedia": "en:Pallisa District",
+      "admin_level": "4",
+      "border_type": "district"
+    }
+  },
+  {
+    "osm_id": -934564,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-934530,-3772011,-192796",
+    "name": "Nyamirama Sub-County",
+    "local_name": "Nyamirama Sub-County",
+    "name_en": null,
+    "all_tags": {
+      "name": "Nyamirama Sub-County",
+      "boundary": "administrative",
+      "way_area": "0.00657367",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -3501926,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3772011,-192796",
+    "name": "Hoima",
+    "local_name": "Hoima",
+    "name_en": null,
+    "all_tags": {
+      "name": "Hoima",
+      "boundary": "administrative",
+      "way_area": "0.458613",
+      "wikidata": "Q1186535",
+      "ISO3166-2": "UG-403",
+      "wikipedia": "en:Hoima District",
+      "admin_level": "4",
+      "border_type": "district"
+    }
+  },
+  {
+    "osm_id": -8085580,
+    "boundary": "refugee_camp",
+    "admin_level": 4,
+    "parents": "-8085728,-192796",
+    "name": "Point C",
+    "local_name": "Point C",
+    "name_en": "Point C",
+    "all_tags": {
+      "name": "Point C",
+      "landuse": "residential",
+      "name:en": "Point C",
+      "refugee": "yes",
+      "boundary": "refugee_camp",
+      "way_area": "0.000449983",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -3498126,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3771602,-192796",
+    "name": "Kaliro",
+    "local_name": "Kaliro",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kaliro",
+      "boundary": "administrative",
+      "way_area": "0.0705788",
+      "wikidata": "Q1375859",
+      "ISO3166-2": "UG-222",
+      "wikipedia": "en:Kaliro District",
+      "admin_level": "4",
+      "border_type": "district",
+      "official_name": "Kaliro Distric"
+    }
+  },
+  {
+    "osm_id": -3498162,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3771602,-192796",
+    "name": "Sironko",
+    "local_name": "Sironko",
+    "name_en": null,
+    "all_tags": {
+      "name": "Sironko",
+      "boundary": "administrative",
+      "way_area": "0.0362572",
+      "wikidata": "Q1375835",
+      "ISO3166-2": "UG-215",
+      "admin_level": "4",
+      "border_type": "district"
+    }
+  },
+  {
+    "osm_id": -8085726,
+    "boundary": "refugee_camp",
+    "admin_level": 4,
+    "parents": "-8085728,-192796",
+    "name": "Point B",
+    "local_name": "Point B",
+    "name_en": "Point B",
+    "all_tags": {
+      "name": "Point B",
+      "landuse": "residential",
+      "name:en": "Point B",
+      "refugee": "yes",
+      "boundary": "refugee_camp",
+      "way_area": "0.000418918",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -8086171,
+    "boundary": "refugee_camp",
+    "admin_level": 5,
+    "parents": "-8085582,-8085646,-192796",
+    "name": "Village 03",
+    "local_name": "Village 03",
+    "name_en": "Village 03",
+    "all_tags": {
+      "name": "Village 03",
+      "landuse": "residential",
+      "name:en": "Village 03",
+      "refugee": "yes",
+      "boundary": "refugee_camp",
+      "way_area": "2.18417e-05",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -3498056,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3772011,-192796",
+    "name": "Mitooma",
+    "local_name": "Mitooma",
+    "name_en": null,
+    "all_tags": {
+      "name": "Mitooma",
+      "boundary": "administrative",
+      "old_name": "Bushenyi",
+      "way_area": "0.0442402",
+      "wikidata": "Q3539414",
+      "ISO3166-2": "UG-423",
+      "wikipedia": "en:Mitooma District",
+      "admin_level": "4",
+      "border_type": "district"
+    }
+  },
+  {
+    "osm_id": -3497970,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3771442,-192796",
+    "name": "Nwoya",
+    "local_name": "Nwoya",
+    "name_en": null,
+    "all_tags": {
+      "name": "Nwoya",
+      "boundary": "administrative",
+      "way_area": "0.388027",
+      "wikidata": "Q3539572",
+      "ISO3166-2": "UG-328",
+      "admin_level": "4",
+      "border_type": "district"
+    }
+  },
+  {
+    "osm_id": -934570,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-934530,-3772011,-192796",
+    "name": "Nyaka Sub-County",
+    "local_name": "Nyaka Sub-County",
+    "name_en": null,
+    "all_tags": {
+      "name": "Nyaka Sub-County",
+      "boundary": "administrative",
+      "way_area": "0.0313169",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -3498015,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3771649,-192796",
+    "name": "Sembabule",
+    "local_name": "Sembabule",
+    "name_en": null,
+    "all_tags": {
+      "name": "Sembabule",
+      "boundary": "administrative",
+      "way_area": "0.187041",
+      "wikidata": "Q976883",
+      "ISO3166-2": "UG-111",
+      "wikipedia": "en:Sembabule District",
+      "admin_level": "4",
+      "border_type": "district"
+    }
+  },
+  {
+    "osm_id": -3498055,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3772011,-192796",
+    "name": "Sheema",
+    "local_name": "Sheema",
+    "name_en": null,
+    "all_tags": {
+      "name": "Sheema",
+      "boundary": "administrative",
+      "old_name": "Bushenyi",
+      "way_area": "0.0567882",
+      "wikidata": "Q3539711",
+      "ISO3166-2": "UG-426",
+      "addr:region": "Western region",
+      "admin_level": "4",
+      "border_type": "district",
+      "addr:country": "UG",
+      "historic:name": "Kibingo"
+    }
+  },
+  {
+    "osm_id": -3501900,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3772011,-192796",
+    "name": "Rukungiri",
+    "local_name": "Rukungiri",
+    "name_en": null,
+    "all_tags": {
+      "name": "Rukungiri",
+      "boundary": "administrative",
+      "way_area": "0.122886",
+      "wikidata": "Q289419",
+      "ISO3166-2": "UG-412",
+      "admin_level": "4",
+      "border_type": "district"
+    }
+  },
+  {
+    "osm_id": -3497400,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3771602,-192796",
+    "name": "Soroti",
+    "local_name": "Soroti",
+    "name_en": null,
+    "all_tags": {
+      "name": "Soroti",
+      "boundary": "administrative",
+      "way_area": "0.114741",
+      "wikidata": "Q1091337",
+      "ISO3166-2": "UG-211",
+      "wikipedia": "en:Soroti District",
+      "admin_level": "4",
+      "border_type": "district"
+    }
+  },
+  {
+    "osm_id": -8089190,
+    "boundary": "refugee_camp",
+    "admin_level": 5,
+    "parents": "-8085728,-192796",
+    "name": "Village 53",
+    "local_name": "Village 53",
+    "name_en": "Village 53",
+    "all_tags": {
+      "name": "Village 53",
+      "landuse": "residential",
+      "name:en": "Village 53",
+      "refugee": "yes",
+      "boundary": "refugee_camp",
+      "way_area": "1.60978e-05",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -3501896,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3772011,-192796",
+    "name": "Rubirizi",
+    "local_name": "Rubirizi",
+    "name_en": null,
+    "all_tags": {
+      "name": "Rubirizi",
+      "boundary": "administrative",
+      "old_name": "Bushenyi",
+      "way_area": "0.104734",
+      "wikidata": "Q3539648",
+      "ISO3166-2": "UG-425",
+      "wikipedia": "en:Rubirizi District",
+      "admin_level": "4",
+      "border_type": "district"
+    }
+  },
+  {
+    "osm_id": -3501837,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3771602,-192796",
+    "name": "Kapchorwa",
+    "local_name": "Kapchorwa",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kapchorwa",
+      "boundary": "administrative",
+      "way_area": "0.028818",
+      "wikidata": "Q1229921",
+      "ISO3166-2": "UG-206",
+      "wikipedia": "en:Kapchorwa District",
+      "admin_level": "4",
+      "border_type": "district"
+    }
+  },
+  {
+    "osm_id": -3497397,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3771602,-192796",
+    "name": "Katakwi",
+    "local_name": "Katakwi",
+    "name_en": null,
+    "all_tags": {
+      "name": "Katakwi",
+      "boundary": "administrative",
+      "way_area": "0.197476",
+      "wikidata": "Q1229930",
+      "ISO3166-2": "UG-207",
+      "wikipedia": "en:Katakwi District",
+      "admin_level": "4",
+      "border_type": "district"
+    }
+  },
+  {
+    "osm_id": -3501827,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-3771442,-192796",
+    "name": "Zombo",
+    "local_name": "Zombo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Zombo",
+      "boundary": "administrative",
+      "old_name": "Nebbi",
+      "way_area": "0.0731206",
+      "wikidata": "Q3539730",
+      "ISO3166-2": "UG-330",
+      "wikipedia": "en:Zombo District",
+      "admin_level": "4",
+      "border_type": "district"
+    }
+  }
+]

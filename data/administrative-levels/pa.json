@@ -1,0 +1,1636 @@
+[
+  {
+    "osm_id": -13458933,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-287668",
+    "name": "Naso Tjër Di",
+    "local_name": "Naso Tjër Di",
+    "name_en": null,
+    "all_tags": {
+      "name": "Naso Tjër Di",
+      "alt_name": "Comarca Naso Tjër Di",
+      "boundary": "administrative",
+      "way_area": "0.130548",
+      "wikidata": "Q103838707",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -9341674,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-5740658,-287668",
+    "name": "Distrito Gaigirgordub",
+    "local_name": "Distrito Gaigirgordub",
+    "name_en": null,
+    "all_tags": {
+      "name": "Distrito Gaigirgordub",
+      "alt_name": "Distrito El Porvenir",
+      "boundary": "administrative",
+      "way_area": "0.186022",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8468046,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-5740663,-287668",
+    "name": "Distrito Jirondai",
+    "local_name": "Distrito Jirondai",
+    "name_en": null,
+    "all_tags": {
+      "name": "Distrito Jirondai",
+      "alt_name": "Jirondai",
+      "boundary": "administrative",
+      "way_area": "0.112672",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8468032,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-5740663,-287668",
+    "name": "Distrito Kankintú",
+    "local_name": "Distrito Kankintú",
+    "name_en": null,
+    "all_tags": {
+      "name": "Distrito Kankintú",
+      "alt_name": "Kankintú",
+      "boundary": "administrative",
+      "way_area": "0.0862428",
+      "wikidata": "Q2659227",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8467991,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-5740663,-287668",
+    "name": "Distrito Kusapín",
+    "local_name": "Distrito Kusapín",
+    "name_en": null,
+    "all_tags": {
+      "name": "Distrito Kusapín",
+      "alt_name": "Kusapín",
+      "boundary": "administrative",
+      "way_area": "0.0748946",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8467968,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-5740663,-287668",
+    "name": "Distrito Santa Catalina",
+    "local_name": "Distrito Santa Catalina",
+    "name_en": null,
+    "all_tags": {
+      "name": "Distrito Santa Catalina",
+      "alt_name": "Santa Catalina",
+      "boundary": "administrative",
+      "way_area": "0.0682757",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8467888,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-5740663,-287668",
+    "name": "Distrito Ñürüm",
+    "local_name": "Distrito Ñürüm",
+    "name_en": null,
+    "all_tags": {
+      "name": "Distrito Ñürüm",
+      "alt_name": "Distrito Ñurum",
+      "boundary": "administrative",
+      "way_area": "0.0401108",
+      "wikidata": "Q3711636",
+      "admin_level": "6",
+      "official_name": "Ñurum"
+    }
+  },
+  {
+    "osm_id": -8467530,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-5740663,-287668",
+    "name": "Distrito Müna",
+    "local_name": "Distrito Müna",
+    "name_en": null,
+    "all_tags": {
+      "name": "Distrito Müna",
+      "alt_name": "Muna",
+      "boundary": "administrative",
+      "way_area": "0.0662439",
+      "wikidata": "Q656667",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8467471,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-5740663,-287668",
+    "name": "Distrito Nole Duima",
+    "local_name": "Distrito Nole Duima",
+    "name_en": null,
+    "all_tags": {
+      "name": "Distrito Nole Duima",
+      "alt_name": "Nole Duima",
+      "boundary": "administrative",
+      "way_area": "0.0152592",
+      "wikidata": "Q3711257",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8467451,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-5740663,-287668",
+    "name": "Distrito Mironó",
+    "local_name": "Distrito Mironó",
+    "name_en": null,
+    "all_tags": {
+      "name": "Distrito Mironó",
+      "alt_name": "Mironó",
+      "boundary": "administrative",
+      "way_area": "0.028358",
+      "wikidata": "Q598049",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8467388,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-5740663,-287668",
+    "name": "Distrito Besikó",
+    "local_name": "Distrito Besikó",
+    "name_en": null,
+    "all_tags": {
+      "name": "Distrito Besikó",
+      "alt_name": "Besikó",
+      "boundary": "administrative",
+      "way_area": "0.0619524",
+      "wikidata": "Q3710719",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8466271,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-5740666,-287668",
+    "name": "Distrito Cañazas",
+    "local_name": "Distrito Cañazas",
+    "name_en": null,
+    "all_tags": {
+      "name": "Distrito Cañazas",
+      "alt_name": "Cañazas",
+      "boundary": "administrative",
+      "way_area": "0.0691833",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8466220,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-5740666,-287668",
+    "name": "Distrito Las Palmas",
+    "local_name": "Distrito Las Palmas",
+    "name_en": null,
+    "all_tags": {
+      "name": "Distrito Las Palmas",
+      "alt_name": "Las Palmas",
+      "boundary": "administrative",
+      "way_area": "0.0853304",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8466174,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-5740666,-287668",
+    "name": "Distrito Santa Fé",
+    "local_name": "Distrito Santa Fé",
+    "name_en": null,
+    "all_tags": {
+      "name": "Distrito Santa Fé",
+      "alt_name": "Santa Fé",
+      "boundary": "administrative",
+      "way_area": "0.157743",
+      "wikipedia": "es:Distrito de Santa Fe",
+      "admin_level": "6",
+      "is_in:province": "Veraguas"
+    }
+  },
+  {
+    "osm_id": -8466104,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-5740666,-287668",
+    "name": "Distrito Calobre",
+    "local_name": "Distrito Calobre",
+    "name_en": null,
+    "all_tags": {
+      "name": "Distrito Calobre",
+      "alt_name": "Calobre",
+      "boundary": "administrative",
+      "way_area": "0.066",
+      "wikipedia": "es:Distrito de Calobre",
+      "admin_level": "6",
+      "is_in:province": "Veraguas"
+    }
+  },
+  {
+    "osm_id": -8466018,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-5740666,-287668",
+    "name": "Distrito San Francisco",
+    "local_name": "Distrito San Francisco",
+    "name_en": null,
+    "all_tags": {
+      "name": "Distrito San Francisco",
+      "alt_name": "San Francisco",
+      "boundary": "administrative",
+      "way_area": "0.035846",
+      "wikipedia": "es:Distrito de San Francisco (Veraguas)",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8465843,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-5740666,-287668",
+    "name": "Distrito Santiago",
+    "local_name": "Distrito Santiago",
+    "name_en": null,
+    "all_tags": {
+      "name": "Distrito Santiago",
+      "alt_name": "Santiago",
+      "boundary": "administrative",
+      "way_area": "0.080102",
+      "admin_level": "6",
+      "is_in:province": "Veraguas"
+    }
+  },
+  {
+    "osm_id": -8465805,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-5740666,-287668",
+    "name": "Distrito La Mesa",
+    "local_name": "Distrito La Mesa",
+    "name_en": null,
+    "all_tags": {
+      "name": "Distrito La Mesa",
+      "alt_name": "La Mesa",
+      "boundary": "administrative",
+      "way_area": "0.0420493",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8465742,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-5740666,-287668",
+    "name": "Distrito Soná",
+    "local_name": "Distrito Soná",
+    "name_en": null,
+    "all_tags": {
+      "name": "Distrito Soná",
+      "alt_name": "Soná",
+      "boundary": "administrative",
+      "way_area": "0.12481",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8450750,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-5740666,-287668",
+    "name": "Distrito Río de Jesús",
+    "local_name": "Distrito Río de Jesús",
+    "name_en": null,
+    "all_tags": {
+      "name": "Distrito Río de Jesús",
+      "alt_name": "Río de Jesús",
+      "boundary": "administrative",
+      "way_area": "0.0258223",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8450653,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-5740666,-287668",
+    "name": "Distrito Montijo",
+    "local_name": "Distrito Montijo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Distrito Montijo",
+      "alt_name": "Montijo",
+      "boundary": "administrative",
+      "way_area": "0.0627596",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8450641,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-5740666,-287668",
+    "name": "Distrito Mariato",
+    "local_name": "Distrito Mariato",
+    "name_en": null,
+    "all_tags": {
+      "name": "Distrito Mariato",
+      "alt_name": "Mariato",
+      "boundary": "administrative",
+      "way_area": "0.113237",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8450549,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-5740666,-287668",
+    "name": "Distrito Atalaya",
+    "local_name": "Distrito Atalaya",
+    "name_en": null,
+    "all_tags": {
+      "name": "Distrito Atalaya",
+      "alt_name": "Atalaya",
+      "boundary": "administrative",
+      "way_area": "0.0127985",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8450442,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-5740659,-287668",
+    "name": "Distrito Ocú",
+    "local_name": "Distrito Ocú",
+    "name_en": null,
+    "all_tags": {
+      "name": "Distrito Ocú",
+      "alt_name": "Ocú",
+      "boundary": "administrative",
+      "way_area": "0.0508103",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8450390,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-5740659,-287668",
+    "name": "Distrito Las Minas",
+    "local_name": "Distrito Las Minas",
+    "name_en": null,
+    "all_tags": {
+      "name": "Distrito Las Minas",
+      "alt_name": "Las Minas",
+      "boundary": "administrative",
+      "way_area": "0.0380174",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8450026,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-5740659,-287668",
+    "name": "Distrito Pesé",
+    "local_name": "Distrito Pesé",
+    "name_en": null,
+    "all_tags": {
+      "name": "Distrito Pesé",
+      "alt_name": "Pesé",
+      "boundary": "administrative",
+      "way_area": "0.0237094",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8449954,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-5740659,-287668",
+    "name": "Distrito Los Pozos",
+    "local_name": "Distrito Los Pozos",
+    "name_en": null,
+    "all_tags": {
+      "name": "Distrito Los Pozos",
+      "alt_name": "Los Pozos",
+      "boundary": "administrative",
+      "way_area": "0.0311318",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8436377,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-5740659,-287668",
+    "name": "Distrito Parita",
+    "local_name": "Distrito Parita",
+    "name_en": null,
+    "all_tags": {
+      "name": "Distrito Parita",
+      "alt_name": "Parita",
+      "boundary": "administrative",
+      "way_area": "0.0289601",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8436357,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-5740659,-287668",
+    "name": "Distrito Santa María",
+    "local_name": "Distrito Santa María",
+    "name_en": null,
+    "all_tags": {
+      "name": "Distrito Santa María",
+      "alt_name": "Santa María",
+      "boundary": "administrative",
+      "way_area": "0.0130572",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8436344,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-5740659,-287668",
+    "name": "Distrito Chitré",
+    "local_name": "Distrito Chitré",
+    "name_en": null,
+    "all_tags": {
+      "name": "Distrito Chitré",
+      "alt_name": "Chitré",
+      "boundary": "administrative",
+      "way_area": "0.00727076",
+      "wikidata": "Q2216071",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8436142,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-5740662,-287668",
+    "name": "Distrito Tonosí",
+    "local_name": "Distrito Tonosí",
+    "name_en": null,
+    "all_tags": {
+      "name": "Distrito Tonosí",
+      "alt_name": "Tonosí",
+      "boundary": "administrative",
+      "way_area": "0.106293",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8435890,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-5740662,-287668",
+    "name": "Distrito Pedasí",
+    "local_name": "Distrito Pedasí",
+    "name_en": null,
+    "all_tags": {
+      "name": "Distrito Pedasí",
+      "alt_name": "Pedasí",
+      "boundary": "administrative",
+      "way_area": "0.0309348",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8435754,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-5740662,-287668",
+    "name": "Distrito Pocrí",
+    "local_name": "Distrito Pocrí",
+    "name_en": null,
+    "all_tags": {
+      "name": "Distrito Pocrí",
+      "alt_name": "Pocrí",
+      "boundary": "administrative",
+      "way_area": "0.0228014",
+      "wikidata": "Q6420907",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8435498,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-5740662,-287668",
+    "name": "Distrito Las Tablas",
+    "local_name": "Distrito Las Tablas",
+    "name_en": null,
+    "all_tags": {
+      "name": "Distrito Las Tablas",
+      "alt_name": "Las Tablas",
+      "boundary": "administrative",
+      "way_area": "0.0585806",
+      "wikidata": "Q2217049",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8435463,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-5740662,-287668",
+    "name": "Distrito Macaracas",
+    "local_name": "Distrito Macaracas",
+    "name_en": null,
+    "all_tags": {
+      "name": "Distrito Macaracas",
+      "alt_name": "Macaracas",
+      "boundary": "administrative",
+      "way_area": "0.0421648",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8434804,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-5740662,-287668",
+    "name": "Distrito Guararé",
+    "local_name": "Distrito Guararé",
+    "name_en": null,
+    "all_tags": {
+      "name": "Distrito Guararé",
+      "alt_name": "Guarare",
+      "boundary": "administrative",
+      "way_area": "0.017409",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8434756,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-5740662,-287668",
+    "name": "Distrito Los Santos",
+    "local_name": "Distrito Los Santos",
+    "name_en": null,
+    "all_tags": {
+      "name": "Distrito Los Santos",
+      "alt_name": "Los Santos",
+      "boundary": "administrative",
+      "way_area": "0.0353273",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8434677,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-5748368,-287668",
+    "name": "Distrito Aguadulce",
+    "local_name": "Distrito Aguadulce",
+    "name_en": null,
+    "all_tags": {
+      "name": "Distrito Aguadulce",
+      "alt_name": "Aguadulce",
+      "boundary": "administrative",
+      "way_area": "0.0387336",
+      "admin_level": "6",
+      "expected_level_8:2010": "5"
+    }
+  },
+  {
+    "osm_id": -8434519,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-5748368,-287668",
+    "name": "Distrito Penonomé",
+    "local_name": "Distrito Penonomé",
+    "name_en": null,
+    "all_tags": {
+      "name": "Distrito Penonomé",
+      "alt_name": "Penonomé",
+      "boundary": "administrative",
+      "way_area": "0.140307",
+      "admin_level": "6",
+      "expected_level_8:2010": "10"
+    }
+  },
+  {
+    "osm_id": -8434415,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-5748368,-287668",
+    "name": "Distrito La Pintada",
+    "local_name": "Distrito La Pintada",
+    "name_en": null,
+    "all_tags": {
+      "name": "Distrito La Pintada",
+      "alt_name": "La Pintada",
+      "boundary": "administrative",
+      "way_area": "0.0848263",
+      "admin_level": "6",
+      "expected_level_8:2010": "6"
+    }
+  },
+  {
+    "osm_id": -8434350,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-5748368,-287668",
+    "name": "Distrito Olá",
+    "local_name": "Distrito Olá",
+    "name_en": null,
+    "all_tags": {
+      "name": "Distrito Olá",
+      "alt_name": "Olá",
+      "boundary": "administrative",
+      "way_area": "0.0312669",
+      "admin_level": "6",
+      "expected_level_8:2010": "5"
+    }
+  },
+  {
+    "osm_id": -8434006,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-5748368,-287668",
+    "name": "Distrito Natá",
+    "local_name": "Distrito Natá",
+    "name_en": null,
+    "all_tags": {
+      "name": "Distrito Natá",
+      "alt_name": "Nata",
+      "boundary": "administrative",
+      "way_area": "0.0502752",
+      "admin_level": "6",
+      "expected_level_8:2010": "6"
+    }
+  },
+  {
+    "osm_id": -8433063,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-5748368,-287668",
+    "name": "Distrito Antón",
+    "local_name": "Distrito Antón",
+    "name_en": null,
+    "all_tags": {
+      "name": "Distrito Antón",
+      "alt_name": "Antón",
+      "boundary": "administrative",
+      "way_area": "0.0614233",
+      "admin_level": "6",
+      "expected_level_8:2010": "10"
+    }
+  },
+  {
+    "osm_id": -8421612,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-5740664,-287668",
+    "name": "Distrito Arraiján",
+    "local_name": "Distrito Arraiján",
+    "name_en": null,
+    "all_tags": {
+      "name": "Distrito Arraiján",
+      "alt_name": "Arraiján",
+      "boundary": "administrative",
+      "way_area": "0.0355605",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8421533,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-5740664,-287668",
+    "name": "Distrito La Chorrera",
+    "local_name": "Distrito La Chorrera",
+    "name_en": null,
+    "all_tags": {
+      "name": "Distrito La Chorrera",
+      "alt_name": "La Chorrera",
+      "boundary": "administrative",
+      "way_area": "0.0725967",
+      "wikidata": "Q2217021",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8421491,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-5740664,-287668",
+    "name": "Distrito Capira",
+    "local_name": "Distrito Capira",
+    "name_en": null,
+    "all_tags": {
+      "name": "Distrito Capira",
+      "alt_name": "Capira",
+      "boundary": "administrative",
+      "way_area": "0.0799756",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8421374,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-5740664,-287668",
+    "name": "Distrito Chame",
+    "local_name": "Distrito Chame",
+    "name_en": null,
+    "all_tags": {
+      "name": "Distrito Chame",
+      "alt_name": "Chame",
+      "boundary": "administrative",
+      "way_area": "0.0308773",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8421297,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-5740664,-287668",
+    "name": "Distrito San Carlos",
+    "local_name": "Distrito San Carlos",
+    "name_en": null,
+    "all_tags": {
+      "name": "Distrito San Carlos",
+      "alt_name": "San Carlos",
+      "boundary": "administrative",
+      "way_area": "0.027695",
+      "wikidata": "Q2072542",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8421155,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-5740655,-287668",
+    "name": "Distrito Colón",
+    "local_name": "Distrito Colón",
+    "name_en": null,
+    "all_tags": {
+      "name": "Distrito Colón",
+      "alt_name": "Colón",
+      "boundary": "administrative",
+      "way_area": "0.121625",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8421106,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-5740655,-287668",
+    "name": "Distrito Donoso",
+    "local_name": "Distrito Donoso",
+    "name_en": null,
+    "all_tags": {
+      "name": "Distrito Donoso",
+      "alt_name": "Donoso",
+      "boundary": "administrative",
+      "way_area": "0.133903",
+      "wikidata": "Q2217007",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8421025,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-5740655,-287668",
+    "name": "Distrito Omar Torrijos Herrera",
+    "local_name": "Distrito Omar Torrijos Herrera",
+    "name_en": null,
+    "all_tags": {
+      "name": "Distrito Omar Torrijos Herrera",
+      "alt_name": "Omar Torrijos",
+      "boundary": "administrative",
+      "way_area": "0.0163837",
+      "alt_name_1": "Distrito Omar Torrijos",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8420882,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-5740655,-287668",
+    "name": "Distrito Chagres",
+    "local_name": "Distrito Chagres",
+    "name_en": null,
+    "all_tags": {
+      "name": "Distrito Chagres",
+      "alt_name": "Chagres",
+      "boundary": "administrative",
+      "way_area": "0.036761",
+      "wikidata": "Q2786644",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8420745,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-5740655,-287668",
+    "name": "Distrito Portobelo",
+    "local_name": "Distrito Portobelo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Distrito Portobelo",
+      "alt_name": "Portobelo",
+      "boundary": "administrative",
+      "way_area": "0.0328858",
+      "wikidata": "Q1650732",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8419943,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-5740656,-287668",
+    "name": "Distrito Pinogana",
+    "local_name": "Distrito Pinogana",
+    "name_en": null,
+    "all_tags": {
+      "name": "Distrito Pinogana",
+      "alt_name": "Pinogana",
+      "boundary": "administrative",
+      "way_area": "0.326315",
+      "wikidata": "Q2216562",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8419895,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-5740656,-287668",
+    "name": "Distrito Chepigana",
+    "local_name": "Distrito Chepigana",
+    "name_en": null,
+    "all_tags": {
+      "name": "Distrito Chepigana",
+      "boundary": "administrative",
+      "way_area": "0.392446",
+      "wikidata": "Q1651404",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8419717,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-5740656,-287668",
+    "name": "Distrito Santa Fe",
+    "local_name": "Distrito Santa Fe",
+    "name_en": null,
+    "all_tags": {
+      "name": "Distrito Santa Fe",
+      "alt_name": "Santa Fe",
+      "boundary": "administrative",
+      "way_area": "0.200696",
+      "wikidata": "Q51284700",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8419471,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-5740665,-287668",
+    "name": "Distrito Chimán",
+    "local_name": "Distrito Chimán",
+    "name_en": null,
+    "all_tags": {
+      "name": "Distrito Chimán",
+      "alt_name": "Chimán",
+      "boundary": "administrative",
+      "way_area": "0.0824809",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8419314,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-5740665,-287668",
+    "name": "Distrito Chepo",
+    "local_name": "Distrito Chepo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Distrito Chepo",
+      "boundary": "administrative",
+      "way_area": "0.245176",
+      "wikidata": "Q2215925",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8417547,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-5740655,-287668",
+    "name": "Distrito Santa Isabel",
+    "local_name": "Distrito Santa Isabel",
+    "name_en": null,
+    "all_tags": {
+      "name": "Distrito Santa Isabel",
+      "alt_name": "Santa Isabel",
+      "boundary": "administrative",
+      "way_area": "0.0608725",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8415626,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-5740665,-287668",
+    "name": "Distrito Panamá",
+    "local_name": "Distrito Panamá",
+    "name_en": null,
+    "all_tags": {
+      "name": "Distrito Panamá",
+      "alt_name": "Panamá",
+      "boundary": "administrative",
+      "way_area": "0.171689",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8410053,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-5740665,-287668",
+    "name": "Distrito Taboga",
+    "local_name": "Distrito Taboga",
+    "name_en": null,
+    "all_tags": {
+      "name": "Distrito Taboga",
+      "alt_name": "Taboga",
+      "boundary": "administrative",
+      "way_area": "0.000945284",
+      "wikidata": "Q21065817",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8408712,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-5740657,-287668",
+    "name": "Distrito Cémaco",
+    "local_name": "Distrito Cémaco",
+    "name_en": null,
+    "all_tags": {
+      "name": "Distrito Cémaco",
+      "alt_name": "Cémaco",
+      "boundary": "administrative",
+      "way_area": "0.245938",
+      "wikidata": "Q3710848",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8408620,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-5740657,-287668",
+    "name": "Distrito Sambú",
+    "local_name": "Distrito Sambú",
+    "name_en": null,
+    "all_tags": {
+      "name": "Distrito Sambú",
+      "alt_name": "Sambú",
+      "boundary": "administrative",
+      "way_area": "0.0962579",
+      "wikidata": "Q3711428",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8403218,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-5740681,-287668",
+    "name": "Distrito Gualaca",
+    "local_name": "Distrito Gualaca",
+    "name_en": null,
+    "all_tags": {
+      "name": "Distrito Gualaca",
+      "alt_name": "Gualaca",
+      "boundary": "administrative",
+      "way_area": "0.0512332",
+      "population": "9750",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8403130,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-5740681,-287668",
+    "name": "Distrito Tolé",
+    "local_name": "Distrito Tolé",
+    "name_en": null,
+    "all_tags": {
+      "name": "Distrito Tolé",
+      "alt_name": "Tolé",
+      "boundary": "administrative",
+      "way_area": "0.0410491",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8402973,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-5740681,-287668",
+    "name": "Distrito Remedios",
+    "local_name": "Distrito Remedios",
+    "name_en": null,
+    "all_tags": {
+      "name": "Distrito Remedios",
+      "alt_name": "Remedios",
+      "boundary": "administrative",
+      "way_area": "0.0145904",
+      "wikipedia": "Distrito de Remedios",
+      "population": "4052",
+      "admin_level": "6",
+      "is_in:state": "Chiriquí",
+      "is_in:country": "Panamá"
+    }
+  },
+  {
+    "osm_id": -8402832,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-5740681,-287668",
+    "name": "Distrito San Félix",
+    "local_name": "Distrito San Félix",
+    "name_en": null,
+    "all_tags": {
+      "name": "Distrito San Félix",
+      "alt_name": "San Félix",
+      "boundary": "administrative",
+      "way_area": "0.0182881",
+      "population": "6304",
+      "admin_level": "6",
+      "is_in:state": "Chiriquí",
+      "is_in:country": "Panamá"
+    }
+  },
+  {
+    "osm_id": -8400470,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-5740681,-287668",
+    "name": "Distrito San Lorenzo",
+    "local_name": "Distrito San Lorenzo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Distrito San Lorenzo",
+      "alt_name": "San Lorenzo",
+      "boundary": "administrative",
+      "way_area": "0.0612248",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8400067,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-5740681,-287668",
+    "name": "Distrito Boquete",
+    "local_name": "Distrito Boquete",
+    "name_en": null,
+    "all_tags": {
+      "name": "Distrito Boquete",
+      "alt_name": "Boquete",
+      "boundary": "administrative",
+      "way_area": "0.0404641",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8398180,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-5740681,-287668",
+    "name": "Distrito Dolega",
+    "local_name": "Distrito Dolega",
+    "name_en": null,
+    "all_tags": {
+      "name": "Distrito Dolega",
+      "alt_name": "Dolega",
+      "boundary": "administrative",
+      "way_area": "0.0206294",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8398055,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-5740681,-287668",
+    "name": "Distrito David",
+    "local_name": "Distrito David",
+    "name_en": null,
+    "all_tags": {
+      "name": "Distrito David",
+      "alt_name": "David",
+      "boundary": "administrative",
+      "way_area": "0.0792873",
+      "wikipedia": "en:David District",
+      "population": "144858",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8397730,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-5740681,-287668",
+    "name": "Distrito Tierras Altas",
+    "local_name": "Distrito Tierras Altas",
+    "name_en": null,
+    "all_tags": {
+      "name": "Distrito Tierras Altas",
+      "alt_name": "Tierras Altas",
+      "boundary": "administrative",
+      "way_area": "0.0296436",
+      "wikidata": "Q21065819",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8397703,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-5740681,-287668",
+    "name": "Distrito Bugaba",
+    "local_name": "Distrito Bugaba",
+    "name_en": null,
+    "all_tags": {
+      "name": "Distrito Bugaba",
+      "alt_name": "Bugaba",
+      "boundary": "administrative",
+      "way_area": "0.0420222",
+      "population": "78209",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8395537,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-5740681,-287668",
+    "name": "Distrito Boquerón",
+    "local_name": "Distrito Boquerón",
+    "name_en": null,
+    "all_tags": {
+      "name": "Distrito Boquerón",
+      "alt_name": "Boquerón",
+      "boundary": "administrative",
+      "way_area": "0.0243287",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8394839,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3420383,-287668",
+    "name": "Distrito Chiriquí Grande",
+    "local_name": "Distrito Chiriquí Grande",
+    "name_en": null,
+    "all_tags": {
+      "name": "Distrito Chiriquí Grande",
+      "alt_name": "Chiriquí Grande",
+      "boundary": "administrative",
+      "way_area": "0.0178584",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8394712,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3420383,-287668",
+    "name": "Distrito Almirante",
+    "local_name": "Distrito Almirante",
+    "name_en": null,
+    "all_tags": {
+      "name": "Distrito Almirante",
+      "alt_name": "Almirante",
+      "boundary": "administrative",
+      "way_area": "0.104888",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8394593,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3420383,-287668",
+    "name": "Distrito Bocas del Toro",
+    "local_name": "Distrito Bocas del Toro",
+    "name_en": null,
+    "all_tags": {
+      "name": "Distrito Bocas del Toro",
+      "alt_name": "Bocas del Toro",
+      "boundary": "administrative",
+      "way_area": "0.0337276",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8392157,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3420383,-287668",
+    "name": "Distrito Changuinola",
+    "local_name": "Distrito Changuinola",
+    "name_en": null,
+    "all_tags": {
+      "name": "Distrito Changuinola",
+      "alt_name": "Changuinola",
+      "boundary": "administrative",
+      "way_area": "0.0944292",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8391689,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-5740681,-287668",
+    "name": "Distrito Renacimiento",
+    "local_name": "Distrito Renacimiento",
+    "name_en": null,
+    "all_tags": {
+      "name": "Distrito Renacimiento",
+      "alt_name": "Renacimiento",
+      "boundary": "administrative",
+      "way_area": "0.0433405",
+      "wikidata": "Q2216549",
+      "population": "20524",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8389576,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-5740681,-287668",
+    "name": "Distrito Alanje",
+    "local_name": "Distrito Alanje",
+    "name_en": null,
+    "all_tags": {
+      "name": "Distrito Alanje",
+      "alt_name": "Municipio de Alanje",
+      "boundary": "administrative",
+      "way_area": "0.0385478",
+      "addr:state": "Chiriquí",
+      "population": "16508",
+      "admin_level": "6",
+      "addr:country": "PA"
+    }
+  },
+  {
+    "osm_id": -8389496,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-5740681,-287668",
+    "name": "Distrito Barú",
+    "local_name": "Distrito Barú",
+    "name_en": null,
+    "all_tags": {
+      "name": "Distrito Barú",
+      "alt_name": "Barú",
+      "boundary": "administrative",
+      "way_area": "0.0487086",
+      "wikidata": "Q522183",
+      "population": "55775",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8389373,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-5740665,-287668",
+    "name": "Distrito Balboa",
+    "local_name": "Distrito Balboa",
+    "name_en": null,
+    "all_tags": {
+      "name": "Distrito Balboa",
+      "alt_name": "Balboa",
+      "boundary": "administrative",
+      "way_area": "0.0264388",
+      "wikidata": "Q2216400",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8389079,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-5740665,-287668",
+    "name": "Distrito San Miguelito",
+    "local_name": "Distrito San Miguelito",
+    "name_en": null,
+    "all_tags": {
+      "name": "Distrito San Miguelito",
+      "alt_name": "San Miguelito",
+      "boundary": "administrative",
+      "way_area": "0.00410421",
+      "wikidata": "Q932699",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -5748368,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-287668",
+    "name": "Coclé",
+    "local_name": "Coclé",
+    "name_en": null,
+    "all_tags": {
+      "name": "Coclé",
+      "name:ja": "コクレ県",
+      "boundary": "administrative",
+      "way_area": "0.534147",
+      "wikidata": "Q825799",
+      "ISO3166-2": "PA-2",
+      "wikipedia": "en:Coclé Province",
+      "admin_level": "4",
+      "expected_level_6:2010": "6"
+    }
+  },
+  {
+    "osm_id": -5740681,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-287668",
+    "name": "Chiriquí",
+    "local_name": "Chiriquí",
+    "name_en": null,
+    "all_tags": {
+      "name": "Chiriquí",
+      "name:ja": "チリキ県",
+      "natural": "drainage_divide",
+      "boundary": "administrative",
+      "way_area": "1.36881",
+      "wikidata": "Q739651",
+      "ISO3166-2": "PA-4",
+      "wikipedia": "es:Provincia de Chiriquí",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -5740666,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-287668",
+    "name": "Veraguas",
+    "local_name": "Veraguas",
+    "name_en": null,
+    "all_tags": {
+      "name": "Veraguas",
+      "name:ja": "ベラグアス県",
+      "boundary": "administrative",
+      "way_area": "1.97942",
+      "wikidata": "Q593137",
+      "ISO3166-2": "PA-9",
+      "wikipedia": "en:Veraguas Province",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -5740665,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-287668",
+    "name": "Panamá",
+    "local_name": "Panamá",
+    "name_en": null,
+    "all_tags": {
+      "name": "Panamá",
+      "name:ja": "パナマ県",
+      "boundary": "administrative",
+      "way_area": "2.07424",
+      "wikidata": "Q557506",
+      "ISO3166-2": "PA-8",
+      "wikipedia": "en:Panamá Province",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -5740664,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-287668",
+    "name": "Panamá Oeste",
+    "local_name": "Panamá Oeste",
+    "name_en": null,
+    "all_tags": {
+      "name": "Panamá Oeste",
+      "name:ja": "西パナマ県",
+      "boundary": "administrative",
+      "way_area": "0.629005",
+      "wikidata": "Q16250688",
+      "ISO3166-2": "PA-10",
+      "wikipedia": "en:Panamá Oeste Province",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -5740663,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-287668",
+    "name": "Ngäbe-Buglé",
+    "local_name": "Ngäbe-Buglé",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ngäbe-Buglé",
+      "name:ja": "ノベ・ブグレ自治県",
+      "alt_name": "Comarca Ngäbe-Buglé",
+      "boundary": "administrative",
+      "way_area": "0.783261",
+      "wikidata": "Q1129783",
+      "ISO3166-2": "PA-NB",
+      "wikipedia": "en:Ngäbe-Buglé Comarca",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -5740662,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-287668",
+    "name": "Los Santos",
+    "local_name": "Los Santos",
+    "name_en": null,
+    "all_tags": {
+      "name": "Los Santos",
+      "name:ja": "ロス・サントス県",
+      "boundary": "administrative",
+      "way_area": "1.17708",
+      "wikidata": "Q911278",
+      "ISO3166-2": "PA-7",
+      "wikipedia": "en:Los Santos Province",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -5740659,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-287668",
+    "name": "Herrera",
+    "local_name": "Herrera",
+    "name_en": null,
+    "all_tags": {
+      "name": "Herrera",
+      "name:ja": "エレーラ県",
+      "boundary": "administrative",
+      "way_area": "0.207522",
+      "wikidata": "Q842886",
+      "ISO3166-2": "PA-6",
+      "wikipedia": "en:Herrera Province",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -5740658,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-287668",
+    "name": "Guna Yala",
+    "local_name": "Guna Yala",
+    "name_en": null,
+    "all_tags": {
+      "name": "Guna Yala",
+      "alt_name": "Comarca Guna Yala",
+      "boundary": "administrative",
+      "old_name": "San Blas",
+      "way_area": "0.756443",
+      "wikidata": "Q919017",
+      "ISO3166-2": "PA-KY",
+      "wikipedia": "en:Guna Yala",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -5740657,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-287668",
+    "name": "Emberá-Wounaan",
+    "local_name": "Emberá-Wounaan",
+    "name_en": null,
+    "all_tags": {
+      "name": "Emberá-Wounaan",
+      "alt_name": "Comarca Emberá-Wounaan",
+      "boundary": "administrative",
+      "way_area": "0.342196",
+      "wikidata": "Q1141041",
+      "ISO3166-2": "PA-EM",
+      "wikipedia": "en:Comarca Emberá-Wounaan",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -5740656,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-287668",
+    "name": "Darién",
+    "local_name": "Darién",
+    "name_en": null,
+    "all_tags": {
+      "name": "Darién",
+      "name:ja": "ダリエン県",
+      "boundary": "administrative",
+      "way_area": "1.87667",
+      "wikidata": "Q688660",
+      "ISO3166-2": "PA-5",
+      "admin_level": "4",
+      "wikipedia:en": "Darién Province"
+    }
+  },
+  {
+    "osm_id": -5740655,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-287668",
+    "name": "Colón",
+    "local_name": "Colón",
+    "name_en": null,
+    "all_tags": {
+      "name": "Colón",
+      "name:ja": "コロン県",
+      "boundary": "administrative",
+      "way_area": "1.15847",
+      "wikidata": "Q820514",
+      "ISO3166-2": "PA-3",
+      "wikipedia": "cs:Colón (provincie)",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -3420383,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-287668",
+    "name": "Bocas del Toro",
+    "local_name": "Bocas del Toro",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bocas del Toro",
+      "name:ja": "ボカス・デル・トーロ県",
+      "natural": "drainage_divide",
+      "boundary": "administrative",
+      "way_area": "0.621367",
+      "wikidata": "Q217138",
+      "ISO3166-2": "PA-1",
+      "admin_level": "4"
+    }
+  }
+]

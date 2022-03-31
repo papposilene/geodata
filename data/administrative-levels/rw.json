@@ -1,0 +1,610 @@
+[
+  {
+    "osm_id": -3963734,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1708283,-171496",
+    "name": "Nyarugenge District",
+    "local_name": "Akarere ka Nyarugenge",
+    "name_en": "Nyarugenge District",
+    "all_tags": {
+      "name": "Akarere ka Nyarugenge",
+      "name:en": "Nyarugenge District",
+      "name:fr": "District de Nyarugenge",
+      "website": "https://www.nyarugenge.gov.rw/index.php?id=39",
+      "boundary": "administrative",
+      "way_area": "0.0108074",
+      "wikidata": "Q21405821",
+      "wikipedia": "en:Nyarugenge District",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -3963733,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1708283,-171496",
+    "name": "Gasabo District",
+    "local_name": "Akarere ka Gasabo",
+    "name_en": "Gasabo District",
+    "all_tags": {
+      "name": "Akarere ka Gasabo",
+      "name:en": "Gasabo District",
+      "name:fr": "District de Gasabo",
+      "website": "https://www.gasabo.gov.rw/index.php?id=140",
+      "boundary": "administrative",
+      "way_area": "0.0351949",
+      "wikidata": "Q2424659",
+      "wikipedia": "en:Gasabo District",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -3963721,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1708283,-171496",
+    "name": "Kicukiro District",
+    "local_name": "Akarere ka Kicukiro",
+    "name_en": "Kicukiro District",
+    "all_tags": {
+      "name": "Akarere ka Kicukiro",
+      "name:en": "Kicukiro District",
+      "name:fr": "District de Kicukiro",
+      "website": "http://www.kicukiro.gov.rw/index.php?id=39",
+      "boundary": "administrative",
+      "way_area": "0.0139454",
+      "wikidata": "Q2424726",
+      "wikipedia": "en:Kicukiro District",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -1730914,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1707122,-171496",
+    "name": "Ruhango",
+    "local_name": "Ruhango",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ruhango",
+      "boundary": "administrative",
+      "way_area": "0.0510683",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -1730905,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1707122,-171496",
+    "name": "Kamonyi",
+    "local_name": "Kamonyi",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kamonyi",
+      "boundary": "administrative",
+      "way_area": "0.0532838",
+      "wikidata": "Q2424592",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -1730903,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1707122,-171496",
+    "name": "Muhanga District",
+    "local_name": "Akarere ka Muhanga",
+    "name_en": "Muhanga District",
+    "all_tags": {
+      "name": "Akarere ka Muhanga",
+      "name:en": "Muhanga District",
+      "website": "http://muhanga.gov.rw/index.php?id=147",
+      "boundary": "administrative",
+      "way_area": "0.0530064",
+      "wikidata": "Q2632789",
+      "wikipedia": "en:Muhanga District",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -1711949,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1708131,-171496",
+    "name": "Ngororero",
+    "local_name": "Ngororero",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ngororero",
+      "boundary": "administrative",
+      "way_area": "0.0549188",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -1711391,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1708131,-171496",
+    "name": "Rutsiro",
+    "local_name": "Rutsiro",
+    "name_en": null,
+    "all_tags": {
+      "name": "Rutsiro",
+      "boundary": "administrative",
+      "way_area": "0.0941944",
+      "wikidata": "Q2724023",
+      "admin_level": "6",
+      "wikipedia:en": "Rutsiro District"
+    }
+  },
+  {
+    "osm_id": -1711383,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1708131,-171496",
+    "name": "Rubavu",
+    "local_name": "Rubavu",
+    "name_en": null,
+    "all_tags": {
+      "name": "Rubavu",
+      "boundary": "administrative",
+      "way_area": "0.0319476",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -1711322,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1708131,-171496",
+    "name": "Nyabihu",
+    "local_name": "Nyabihu",
+    "name_en": null,
+    "all_tags": {
+      "name": "Nyabihu",
+      "boundary": "administrative",
+      "way_area": "0.0429255",
+      "wikidata": "Q2424699",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -1711209,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1708298,-171496",
+    "name": "Gicumbi",
+    "local_name": "Gicumbi",
+    "name_en": null,
+    "all_tags": {
+      "name": "Gicumbi",
+      "boundary": "administrative",
+      "way_area": "0.0682861",
+      "wikidata": "Q2424750",
+      "wikipedia": "en:Gicumbi District",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -1711195,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1708298,-171496",
+    "name": "Rulindo",
+    "local_name": "Rulindo",
+    "name_en": null,
+    "all_tags": {
+      "name": "Rulindo",
+      "boundary": "administrative",
+      "way_area": "0.0455663",
+      "wikidata": "Q2424625",
+      "admin_level": "6",
+      "wikipedia:en": "Rulindo District"
+    }
+  },
+  {
+    "osm_id": -1711194,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1708298,-171496",
+    "name": "Burera District",
+    "local_name": "Akarere ka Burera",
+    "name_en": "Burera District",
+    "all_tags": {
+      "name": "Akarere ka Burera",
+      "name:en": "Burera District",
+      "website": "http://burera.gov.rw/index.php?id=177",
+      "boundary": "administrative",
+      "way_area": "0.0521701",
+      "wikidata": "Q2724063",
+      "admin_level": "6",
+      "wikipedia:en": "Burera District"
+    }
+  },
+  {
+    "osm_id": -1711192,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1708298,-171496",
+    "name": "Gakenke",
+    "local_name": "Gakenke",
+    "name_en": null,
+    "all_tags": {
+      "name": "Gakenke",
+      "boundary": "administrative",
+      "way_area": "0.057714",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -1711187,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1708298,-171496",
+    "name": "Musanze",
+    "local_name": "Musanze",
+    "name_en": null,
+    "all_tags": {
+      "name": "Musanze",
+      "boundary": "administrative",
+      "way_area": "0.0433845",
+      "wikidata": "Q2360921",
+      "wikipedia": "en:Musanze District",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -1711167,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-171591,-171496",
+    "name": "Ngoma District",
+    "local_name": "Ngoma District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ngoma District",
+      "boundary": "administrative",
+      "way_area": "0.0706944",
+      "wikidata": "Q2724035",
+      "admin_level": "6",
+      "wikipedia:en": "Ngoma District"
+    }
+  },
+  {
+    "osm_id": -1711163,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-171591,-171496",
+    "name": "Kayonza District",
+    "local_name": "Kayonza District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kayonza District",
+      "boundary": "administrative",
+      "way_area": "0.157597",
+      "wikidata": "Q426211",
+      "admin_level": "6",
+      "wikipedia:en": "Kayonza District"
+    }
+  },
+  {
+    "osm_id": -1711142,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-171591,-171496",
+    "name": "Rwamagana District",
+    "local_name": "Rwamagana District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Rwamagana District",
+      "boundary": "administrative",
+      "way_area": "0.0549559",
+      "wikidata": "Q921255",
+      "admin_level": "6",
+      "wikipedia:en": "Rwamagana District"
+    }
+  },
+  {
+    "osm_id": -1711131,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-171591,-171496",
+    "name": "Gatsibo District",
+    "local_name": "Gatsibo District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Gatsibo District",
+      "boundary": "administrative",
+      "way_area": "0.127819",
+      "wikidata": "Q2724046",
+      "admin_level": "6",
+      "wikipedia:en": "Gatsibo District"
+    }
+  },
+  {
+    "osm_id": -1711124,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-171591,-171496",
+    "name": "Nyagatare District",
+    "local_name": "Nyagatare District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Nyagatare District",
+      "boundary": "administrative",
+      "way_area": "0.155298",
+      "wikidata": "Q2632814",
+      "admin_level": "6",
+      "wikipedia:en": "Nyagatare District"
+    }
+  },
+  {
+    "osm_id": -1709867,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1708131,-171496",
+    "name": "Karongi",
+    "local_name": "Karongi",
+    "name_en": null,
+    "all_tags": {
+      "name": "Karongi",
+      "boundary": "administrative",
+      "way_area": "0.0805759",
+      "wikidata": "Q429825",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -1709854,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1708131,-171496",
+    "name": "Nyamasheke",
+    "local_name": "Nyamasheke",
+    "name_en": null,
+    "all_tags": {
+      "name": "Nyamasheke",
+      "boundary": "administrative",
+      "way_area": "0.096853",
+      "wikidata": "Q2005905",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -1708895,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1708131,-171496",
+    "name": "Rusizi",
+    "local_name": "Rusizi",
+    "name_en": null,
+    "all_tags": {
+      "name": "Rusizi",
+      "boundary": "administrative",
+      "way_area": "0.0779437",
+      "wikidata": "Q781590",
+      "admin_level": "6",
+      "border_type": "district",
+      "wikipedia:en": "Rusizi District"
+    }
+  },
+  {
+    "osm_id": -1708298,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-171496",
+    "name": "Northern Province",
+    "local_name": "Majyaruguru",
+    "name_en": "Northern Province",
+    "all_tags": {
+      "name": "Majyaruguru",
+      "name:cs": "Severní provincie",
+      "name:en": "Northern Province",
+      "name:ru": "Северная провинция",
+      "boundary": "administrative",
+      "way_area": "0.267121",
+      "wikidata": "Q845807",
+      "ISO3166-2": "RW-03",
+      "admin_level": "4",
+      "alt_name:de": "Nordprovinz"
+    }
+  },
+  {
+    "osm_id": -1708283,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-171496",
+    "name": "Kigali City",
+    "local_name": "Umujyi wa Kigali",
+    "name_en": "Kigali City",
+    "all_tags": {
+      "name": "Umujyi wa Kigali",
+      "name:de": "Kigali",
+      "name:en": "Kigali City",
+      "boundary": "administrative",
+      "way_area": "0.0599478",
+      "wikidata": "Q3859",
+      "ISO3166-2": "RW-01",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -1708131,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-171496",
+    "name": "Western Province",
+    "local_name": "Iburengerazuba",
+    "name_en": "Western Province",
+    "all_tags": {
+      "name": "Iburengerazuba",
+      "name:cs": "Západní provincie",
+      "name:de": "West Provinz",
+      "name:en": "Western Province",
+      "boundary": "administrative",
+      "way_area": "0.479359",
+      "wikidata": "Q737354",
+      "ISO3166-2": "RW-04",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -1707127,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1707122,-171496",
+    "name": "Nyaruguru District",
+    "local_name": "Akarere ka Nyaruguru",
+    "name_en": "Nyaruguru District",
+    "all_tags": {
+      "name": "Akarere ka Nyaruguru",
+      "name:en": "Nyaruguru District",
+      "website": "https://www.nyaruguru.gov.rw/index.php?id=39",
+      "boundary": "administrative",
+      "way_area": "0.0821908",
+      "wikidata": "Q2632798",
+      "admin_level": "6",
+      "wikipedia:en": "Nyaruguru District"
+    }
+  },
+  {
+    "osm_id": -1707126,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1707122,-171496",
+    "name": "Nyanza",
+    "local_name": "Nyanza",
+    "name_en": null,
+    "all_tags": {
+      "name": "Nyanza",
+      "boundary": "administrative",
+      "way_area": "0.054218",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -1707125,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1707122,-171496",
+    "name": "Nyamagabe",
+    "local_name": "Nyamagabe",
+    "name_en": null,
+    "all_tags": {
+      "name": "Nyamagabe",
+      "boundary": "administrative",
+      "way_area": "0.0869482",
+      "wikidata": "Q2632783",
+      "admin_level": "6",
+      "wikipedia:en": "Nyamagabe District"
+    }
+  },
+  {
+    "osm_id": -1707124,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1707122,-171496",
+    "name": "Huye",
+    "local_name": "Huye",
+    "name_en": null,
+    "all_tags": {
+      "name": "Huye",
+      "boundary": "administrative",
+      "way_area": "0.0467317",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -1707123,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-1707122,-171496",
+    "name": "Gisagara",
+    "local_name": "Gisagara",
+    "name_en": null,
+    "all_tags": {
+      "name": "Gisagara",
+      "boundary": "administrative",
+      "way_area": "0.0546874",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -1707122,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-171496",
+    "name": "Southern Province",
+    "local_name": "Amajvepfo",
+    "name_en": "Southern Province",
+    "all_tags": {
+      "name": "Amajvepfo",
+      "name:cs": "Jižní provincie",
+      "name:en": "Southern Province",
+      "name:ru": "Южная провинция",
+      "boundary": "administrative",
+      "way_area": "0.482135",
+      "wikidata": "Q853162",
+      "ISO3166-2": "RW-05",
+      "admin_level": "4",
+      "alt_name:de": "Süd Provinz"
+    }
+  },
+  {
+    "osm_id": -171663,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-171591,-171496",
+    "name": "Bugesera District",
+    "local_name": "Bugesera District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Bugesera District",
+      "boundary": "administrative",
+      "way_area": "0.104429",
+      "wikidata": "Q2724056",
+      "admin_level": "6",
+      "wikipedia:en": "Bugesera District"
+    }
+  },
+  {
+    "osm_id": -171655,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-171591,-171496",
+    "name": "Kirehe District",
+    "local_name": "Kirehe District",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kirehe District",
+      "boundary": "administrative",
+      "way_area": "0.0951887",
+      "wikidata": "Q596210",
+      "admin_level": "6",
+      "wikipedia:en": "Kirehe District"
+    }
+  },
+  {
+    "osm_id": -171591,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-171496",
+    "name": "East Province",
+    "local_name": "Iburasirasuba",
+    "name_en": "East Province",
+    "all_tags": {
+      "name": "Iburasirasuba",
+      "name:cs": "Východní provincie",
+      "name:en": "East Province",
+      "boundary": "administrative",
+      "way_area": "0.765983",
+      "wikidata": "Q853152",
+      "ISO3166-2": "RW-02",
+      "admin_level": "4"
+    }
+  }
+]

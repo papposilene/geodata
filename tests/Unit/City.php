@@ -2,7 +2,7 @@
 
 namespace Papposilene\Geodata\Tests;
 
-class ContiCitynent extends \Papposilene\Geodata\Models\Continent
+class City extends \Papposilene\Geodata\Models\Continent
 {
     protected $visible = [
         'id',

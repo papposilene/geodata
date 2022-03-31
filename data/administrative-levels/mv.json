@@ -1,0 +1,418 @@
+[
+  {
+    "osm_id": -6600315,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-536773",
+    "name": "Vaavu",
+    "local_name": "Vaavu",
+    "name_en": null,
+    "all_tags": {
+      "name": "Vaavu",
+      "name:zh": "费利杜环礁",
+      "boundary": "administrative",
+      "way_area": "0.433625",
+      "wikidata": "Q2709111",
+      "ISO3166-2": "MV-04",
+      "wikipedia": "en:Vaavu Atoll",
+      "admin_level": "4",
+      "official_name": "Felidhu Atholhu"
+    }
+  },
+  {
+    "osm_id": -6599423,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-536773",
+    "name": "Kaafu",
+    "local_name": "Kaafu",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kaafu",
+      "name:zh": "马累市",
+      "boundary": "administrative",
+      "way_area": "0.91535",
+      "wikidata": "Q1468407",
+      "ISO3166-2": "MV-26",
+      "wikipedia": "en:Kaafu Atoll",
+      "admin_level": "4",
+      "official_name": "Malé Atholhu"
+    }
+  },
+  {
+    "osm_id": -6599413,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-536773",
+    "name": "Addu",
+    "local_name": "Addu",
+    "name_en": null,
+    "all_tags": {
+      "name": "Addu",
+      "name:zh": "阿杜市",
+      "boundary": "administrative",
+      "way_area": "0.261954",
+      "wikidata": "Q353375",
+      "ISO3166-2": "MV-01",
+      "admin_level": "4",
+      "official_name": "Addu City"
+    }
+  },
+  {
+    "osm_id": -6599412,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-536773",
+    "name": "Gnaviyani",
+    "local_name": "Gnaviyani",
+    "name_en": null,
+    "all_tags": {
+      "name": "Gnaviyani",
+      "name:zh": "福阿穆拉库环礁",
+      "boundary": "administrative",
+      "way_area": "0.308281",
+      "wikidata": "Q1811116",
+      "ISO3166-2": "MV-29",
+      "wikipedia": "en:Gnaviyani Atoll",
+      "admin_level": "4",
+      "official_name": "Fuvahmulah"
+    }
+  },
+  {
+    "osm_id": -6599411,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-536773",
+    "name": "Gaafu Dhaalu",
+    "local_name": "Gaafu Dhaalu",
+    "name_en": null,
+    "all_tags": {
+      "name": "Gaafu Dhaalu",
+      "name:zh": "南苏瓦迪瓦环礁",
+      "boundary": "administrative",
+      "way_area": "0.457402",
+      "wikidata": "Q2640183",
+      "ISO3166-2": "MV-28",
+      "wikipedia": "en:Gaafu Dhaalu Atoll",
+      "admin_level": "4",
+      "official_name": "Huvadhu Atholhu Dhekunuburi"
+    }
+  },
+  {
+    "osm_id": -6599410,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-536773",
+    "name": "Gaafu Alif",
+    "local_name": "Gaafu Alif",
+    "name_en": null,
+    "all_tags": {
+      "name": "Gaafu Alif",
+      "name:zh": "北苏瓦迪瓦环礁",
+      "boundary": "administrative",
+      "way_area": "0.922108",
+      "wikidata": "Q1116203",
+      "ISO3166-2": "MV-27",
+      "admin_level": "4",
+      "official_name": "Huvadhu Atholhu Uthuruburi"
+    }
+  },
+  {
+    "osm_id": -6599390,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-536773",
+    "name": "Laamu",
+    "local_name": "Laamu",
+    "name_en": null,
+    "all_tags": {
+      "name": "Laamu",
+      "name:zh": "哈杜马蒂环礁",
+      "boundary": "administrative",
+      "way_area": "0.783068",
+      "wikidata": "Q1996432",
+      "ISO3166-2": "MV-05",
+      "wikipedia": "en:Laamu Atoll",
+      "admin_level": "4",
+      "official_name": "Haddhunmathi"
+    }
+  },
+  {
+    "osm_id": -6599381,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-536773",
+    "name": "Thaa",
+    "local_name": "Thaa",
+    "name_en": null,
+    "all_tags": {
+      "name": "Thaa",
+      "name:zh": "科卢马杜卢环礁",
+      "boundary": "administrative",
+      "way_area": "0.59303",
+      "wikidata": "Q2709118",
+      "ISO3166-2": "MV-08",
+      "wikipedia": "en:Thaa Atoll",
+      "admin_level": "4",
+      "official_name": "Kolhumadulu"
+    }
+  },
+  {
+    "osm_id": -6599372,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-536773",
+    "name": "Faafu",
+    "local_name": "Faafu",
+    "name_en": null,
+    "all_tags": {
+      "name": "Faafu",
+      "name:zh": "北尼兰杜环礁",
+      "boundary": "administrative",
+      "way_area": "0.227837",
+      "wikidata": "Q2469227",
+      "ISO3166-2": "MV-14",
+      "wikipedia": "en:Faafu Atoll",
+      "admin_level": "4",
+      "official_name": "Nilandhe Atholhu Uthuruburi"
+    }
+  },
+  {
+    "osm_id": -6599371,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-536773",
+    "name": "Dhaalu",
+    "local_name": "Dhaalu",
+    "name_en": null,
+    "all_tags": {
+      "name": "Dhaalu",
+      "name:zh": "南尼兰杜环礁",
+      "boundary": "administrative",
+      "way_area": "0.249333",
+      "wikidata": "Q2290784",
+      "ISO3166-2": "MV-17",
+      "wikipedia": "en:Dhaalu Atoll",
+      "admin_level": "4",
+      "official_name": "Nilandhe Atholhu Dhekunuburi"
+    }
+  },
+  {
+    "osm_id": -6599365,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-536773",
+    "name": "Meemu",
+    "local_name": "Meemu",
+    "name_en": null,
+    "all_tags": {
+      "name": "Meemu",
+      "name:zh": "穆拉库环礁",
+      "boundary": "administrative",
+      "way_area": "0.380624",
+      "wikidata": "Q2210716",
+      "ISO3166-2": "MV-12",
+      "wikipedia": "en:Meemu Atoll",
+      "admin_level": "4",
+      "official_name": "Mulak Atholhu"
+    }
+  },
+  {
+    "osm_id": -6599352,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-536773",
+    "name": "Alif Dhaalu",
+    "local_name": "Alif Dhaalu",
+    "name_en": null,
+    "all_tags": {
+      "name": "Alif Dhaalu",
+      "name:zh": "南阿里环礁",
+      "boundary": "administrative",
+      "way_area": "0.351537",
+      "wikidata": "Q2316922",
+      "ISO3166-2": "MV-00",
+      "wikipedia": "en:Alif Dhaal Atoll",
+      "admin_level": "4",
+      "official_name": "Ari Atholhu Dhekunuburi"
+    }
+  },
+  {
+    "osm_id": -6599351,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-536773",
+    "name": "Alif Alif",
+    "local_name": "Alif Alif",
+    "name_en": null,
+    "all_tags": {
+      "name": "Alif Alif",
+      "name:zh": "北阿里环礁",
+      "boundary": "administrative",
+      "way_area": "0.553961",
+      "wikidata": "Q775323",
+      "ISO3166-2": "MV-02",
+      "admin_level": "4",
+      "official_name": "Ari Atholhu Uthuruburi"
+    }
+  },
+  {
+    "osm_id": -6599336,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-536773",
+    "name": "Malé",
+    "local_name": "މާލެ",
+    "name_en": "Malé",
+    "all_tags": {
+      "name": "މާލެ",
+      "name:en": "Malé",
+      "boundary": "administrative",
+      "way_area": "0.000821743",
+      "wikidata": "Q9347",
+      "ISO3166-2": "MV-MLE",
+      "wikipedia": "en:Malé",
+      "admin_level": "4",
+      "official_name": "Malé City"
+    }
+  },
+  {
+    "osm_id": -6599335,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-536773",
+    "name": "Baa",
+    "local_name": "Baa",
+    "name_en": null,
+    "all_tags": {
+      "name": "Baa",
+      "name:zh": "南马洛斯马杜卢环礁",
+      "boundary": "administrative",
+      "way_area": "0.481843",
+      "wikidata": "Q949513",
+      "ISO3166-2": "MV-20",
+      "admin_level": "4",
+      "official_name": "Maalhosmadulu Dhekunuburi"
+    }
+  },
+  {
+    "osm_id": -6599331,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-536773",
+    "name": "Raa",
+    "local_name": "Raa",
+    "name_en": null,
+    "all_tags": {
+      "name": "Raa",
+      "name:zh": "北马洛斯马杜卢环礁",
+      "boundary": "administrative",
+      "way_area": "0.614064",
+      "wikidata": "Q1457965",
+      "ISO3166-2": "MV-13",
+      "wikipedia": "en:Raa Atoll",
+      "admin_level": "4",
+      "official_name": "Maalhosmadulu Uthuruburi"
+    }
+  },
+  {
+    "osm_id": -6599328,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-536773",
+    "name": "Lhaviyani",
+    "local_name": "Lhaviyani",
+    "name_en": null,
+    "all_tags": {
+      "name": "Lhaviyani",
+      "name:zh": "法迪福卢环礁",
+      "boundary": "administrative",
+      "way_area": "0.334642",
+      "wikidata": "Q1390048",
+      "ISO3166-2": "MV-03",
+      "wikipedia": "en:Lhaviyani Atoll",
+      "admin_level": "4",
+      "official_name": "Faadhippolhu"
+    }
+  },
+  {
+    "osm_id": -6599324,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-536773",
+    "name": "Shaviyani",
+    "local_name": "Shaviyani",
+    "name_en": null,
+    "all_tags": {
+      "name": "Shaviyani",
+      "name:zh": "北米拉杜马杜卢环礁",
+      "boundary": "administrative",
+      "way_area": "0.362825",
+      "wikidata": "Q2190334",
+      "ISO3166-2": "MV-24",
+      "wikipedia": "en:Shaviyani Atoll",
+      "admin_level": "4",
+      "official_name": "Miladhunmadulu Uthuruburi"
+    }
+  },
+  {
+    "osm_id": -6599323,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-536773",
+    "name": "Noonu",
+    "local_name": "Noonu",
+    "name_en": null,
+    "all_tags": {
+      "name": "Noonu",
+      "name:zh": "南米拉杜马杜卢环礁",
+      "boundary": "administrative",
+      "way_area": "0.271579",
+      "wikidata": "Q2406322",
+      "ISO3166-2": "MV-25",
+      "wikipedia": "en:Noonu Atoll",
+      "admin_level": "4",
+      "official_name": "Miladhunmadulu Dhekunuburi"
+    }
+  },
+  {
+    "osm_id": -6599297,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-536773",
+    "name": "Haa Dhaalu",
+    "local_name": "Haa Dhaalu",
+    "name_en": null,
+    "all_tags": {
+      "name": "Haa Dhaalu",
+      "name:zh": "南蒂拉杜马蒂环礁",
+      "boundary": "administrative",
+      "way_area": "0.453742",
+      "wikidata": "Q2360368",
+      "ISO3166-2": "MV-23",
+      "wikipedia": "en:Haa Dhaalu Atoll",
+      "admin_level": "4",
+      "official_name": "Thiladhunmathi Dhekunuburi"
+    }
+  },
+  {
+    "osm_id": -6599296,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-536773",
+    "name": "Haa Alif",
+    "local_name": "Haa Alif",
+    "name_en": null,
+    "all_tags": {
+      "name": "Haa Alif",
+      "name:zh": "北蒂拉杜马蒂环礁",
+      "boundary": "administrative",
+      "way_area": "0.368442",
+      "wikidata": "Q2360912",
+      "ISO3166-2": "MV-07",
+      "wikipedia": "en:Haa Alif Atoll",
+      "admin_level": "4",
+      "official_name": "Thiladhunmathi Uthuruburi"
+    }
+  }
+]

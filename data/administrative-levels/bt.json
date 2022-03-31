@@ -1,0 +1,4040 @@
+[
+  {
+    "osm_id": -8317274,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899603,-184629",
+    "name": "Bongo Gewog",
+    "local_name": "སྦོང་སྒོར་ Bongo Gewog",
+    "name_en": "Bongo Gewog",
+    "all_tags": {
+      "name": "སྦོང་སྒོར་ Bongo Gewog",
+      "name:dz": "སྦོང་སྒོར་",
+      "name:en": "Bongo Gewog",
+      "name:zh": "Bongo格窝",
+      "boundary": "administrative",
+      "way_area": "0.0363449",
+      "wikidata": "Q20923033",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12182776,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899612,-184629",
+    "name": "Toedwang Gewog",
+    "local_name": "Toedwang Gewog",
+    "name_en": "Toedwang Gewog",
+    "all_tags": {
+      "name": "Toedwang Gewog",
+      "name:en": "Toedwang Gewog",
+      "name:zh": "Toedwang格窝",
+      "boundary": "administrative",
+      "way_area": "0.0381595",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12171899,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899616,-184629",
+    "name": "Lingzhi Gewog",
+    "local_name": "Lingzhi Gewog",
+    "name_en": "Lingzhi Gewog",
+    "all_tags": {
+      "name": "Lingzhi Gewog",
+      "name:en": "Lingzhi Gewog",
+      "name:zh": "Lingzhi格窝",
+      "boundary": "administrative",
+      "way_area": "0.03571",
+      "wikidata": "Q4261913",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12088545,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899602,-184629",
+    "name": "Chhumig Gewog",
+    "local_name": "Chhumig Gewog",
+    "name_en": "Chhumig Gewog",
+    "all_tags": {
+      "name": "Chhumig Gewog",
+      "name:en": "Chhumig Gewog",
+      "name:zh": "楚美格窝",
+      "boundary": "administrative",
+      "way_area": "0.0366457",
+      "wikidata": "Q4518054",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -3899622,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-184629",
+    "name": "Zhemgang District",
+    "local_name": "གཞལམ་སྒང་རྫོང་ཁག་",
+    "name_en": "Zhemgang District",
+    "all_tags": {
+      "name": "གཞལམ་སྒང་རྫོང་ཁག་",
+      "name:de": "Zhemgang",
+      "name:en": "Zhemgang District",
+      "name:es": "Distrito de Zhemgang",
+      "name:fr": "Zhemgang",
+      "name:ja": "シェムガン",
+      "name:zh": "谢姆冈宗",
+      "alt_name": "Shemgang Dzongkhag",
+      "boundary": "administrative",
+      "loc_name": "གཞལ་སྒང་",
+      "way_area": "0.219745",
+      "wikidata": "Q197564",
+      "ISO3166-2": "BT-34",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -12165476,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899606,-184629",
+    "name": "Khatoed Gewogs",
+    "local_name": "Khatoed Gewogs",
+    "name_en": "Khatoed Gewogs",
+    "all_tags": {
+      "name": "Khatoed Gewogs",
+      "name:en": "Khatoed Gewogs",
+      "name:zh": "Khatoed格窝",
+      "boundary": "administrative",
+      "way_area": "0.0296153",
+      "wikidata": "Q6400934",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8310884,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899607,-184629",
+    "name": "Sangbay Gewog",
+    "local_name": "གསང་སྦས Sangbay Gewog",
+    "name_en": "Sangbay Gewog",
+    "all_tags": {
+      "name": "གསང་སྦས Sangbay Gewog",
+      "name:bo": "གསང་སྦས",
+      "name:dz": "གསང་སྦས",
+      "name:en": "Sangbay Gewog",
+      "name:zh": "格窝",
+      "boundary": "administrative",
+      "way_area": "0.0345624",
+      "wikidata": "Q7417888",
+      "admin_level": "6",
+      "alt_name:en": "Sangbay;Sangbe",
+      "name:bo_wylie": "gsang sbas"
+    }
+  },
+  {
+    "osm_id": -8310807,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899607,-184629",
+    "name": "Gakiling Gewog",
+    "local_name": "དགའ་སྐྱིད་གླིང་ Gakiling Gewog",
+    "name_en": "Gakiling Gewog",
+    "all_tags": {
+      "name": "དགའ་སྐྱིད་གླིང་ Gakiling Gewog",
+      "name:dz": "དགའ་སྐྱིད་གླིང་",
+      "name:en": "Gakiling Gewog",
+      "name:zh": "Gakiling格窝",
+      "alt_name": "Gakidling Gewog",
+      "boundary": "administrative",
+      "way_area": "0.0335444",
+      "wikidata": "Q5517672",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12192345,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899619,-184629",
+    "name": "Tangsibji Gewog",
+    "local_name": "Tangsibji Gewog",
+    "name_en": "Tangsibji Gewog",
+    "all_tags": {
+      "name": "Tangsibji Gewog",
+      "name:en": "Tangsibji Gewog",
+      "name:zh": "Tangsibji格窝",
+      "boundary": "administrative",
+      "way_area": "0.0335284",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12192689,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899622,-184629",
+    "name": "Trong Gewog",
+    "local_name": "Trong Gewog",
+    "name_en": "Trong Gewog",
+    "all_tags": {
+      "name": "Trong Gewog",
+      "name:en": "Trong Gewog",
+      "name:zh": "特龙格窝",
+      "boundary": "administrative",
+      "way_area": "0.0330296",
+      "wikidata": "Q20923019",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12089053,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899608,-184629",
+    "name": "Kurtoed Gewog",
+    "local_name": "Kurtoed Gewog",
+    "name_en": "Kurtoed Gewog",
+    "all_tags": {
+      "name": "Kurtoed Gewog",
+      "name:en": "Kurtoed Gewog",
+      "name:zh": "Kurtoed 格窝",
+      "boundary": "administrative",
+      "way_area": "0.0324516",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12183125,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899621,-184629",
+    "name": "Darkar Gewog",
+    "local_name": "Darkar Gewog",
+    "name_en": "Darkar Gewog",
+    "all_tags": {
+      "name": "Darkar Gewog",
+      "name:en": "Darkar Gewog",
+      "name:zh": "Darkar格窝",
+      "boundary": "administrative",
+      "way_area": "0.0318493",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12100843,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899617,-184629",
+    "name": "Kangpar Gewog",
+    "local_name": "Kangpar Gewog",
+    "name_en": "Kangpar Gewog",
+    "all_tags": {
+      "name": "Kangpar Gewog",
+      "name:en": "Kangpar Gewog",
+      "name:zh": "Kangpar 格窝",
+      "boundary": "administrative",
+      "way_area": "0.0316998",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12192250,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899620,-184629",
+    "name": "Barshong Gewog",
+    "local_name": "Barshong Gewog",
+    "name_en": "Barshong Gewog",
+    "all_tags": {
+      "name": "Barshong Gewog",
+      "name:en": "Barshong Gewog",
+      "name:zh": "盖里冈格窝",
+      "boundary": "administrative",
+      "way_area": "0.00187683",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13698515,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899618,-184629",
+    "name": "Boomdeling",
+    "local_name": "Boomdeling",
+    "name_en": null,
+    "all_tags": {
+      "name": "Boomdeling",
+      "boundary": "administrative",
+      "way_area": "0.0772717",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12183116,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899621,-184629",
+    "name": "Thedtsho Gewog",
+    "local_name": "Thedtsho Gewog",
+    "name_en": "Thedtsho Gewog",
+    "all_tags": {
+      "name": "Thedtsho Gewog",
+      "name:en": "Thedtsho Gewog",
+      "name:zh": "Thedtsho格窝",
+      "boundary": "administrative",
+      "way_area": "0.00182795",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12192696,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899622,-184629",
+    "name": "Shingkhar Gewog",
+    "local_name": "Shingkhar Gewog",
+    "name_en": "Shingkhar Gewog",
+    "all_tags": {
+      "name": "Shingkhar Gewog",
+      "name:en": "Shingkhar Gewog",
+      "name:zh": "幸卡尔格窝",
+      "boundary": "administrative",
+      "way_area": "0.0281291",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12171660,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899610,-184629",
+    "name": "Wangchang Gewog",
+    "local_name": "Wangchang Gewog",
+    "name_en": "Wangchang Gewog",
+    "all_tags": {
+      "name": "Wangchang Gewog",
+      "name:en": "Wangchang Gewog",
+      "name:zh": "Wangchang格窝",
+      "boundary": "administrative",
+      "way_area": "0.00180974",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12193049,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899609,-184629",
+    "name": "Shermuhoong Gewog",
+    "local_name": "Shermuhoong Gewog",
+    "name_en": "Shermuhoong Gewog",
+    "all_tags": {
+      "name": "Shermuhoong Gewog",
+      "name:en": "Shermuhoong Gewog",
+      "name:zh": "Shermuhoong格窝",
+      "boundary": "administrative",
+      "way_area": "0.0277815",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12097693,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899613,-184629",
+    "name": "Serthig Gewog",
+    "local_name": "Serthig Gewog",
+    "name_en": "Serthig Gewog",
+    "all_tags": {
+      "name": "Serthig Gewog",
+      "name:en": "Serthig Gewog",
+      "name:zh": "Serthig 格窝",
+      "boundary": "administrative",
+      "way_area": "0.0275247",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12171907,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899616,-184629",
+    "name": "Chang Gewog",
+    "local_name": "Chang Gewog",
+    "name_en": "Chang Gewog",
+    "all_tags": {
+      "name": "Chang Gewog",
+      "name:en": "Chang Gewog",
+      "name:zh": "Chang格窝",
+      "boundary": "administrative",
+      "way_area": "0.0157547",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12097696,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899613,-184629",
+    "name": "Martshala Gewog",
+    "local_name": "Martshala Gewog",
+    "name_en": "Martshala Gewog",
+    "all_tags": {
+      "name": "Martshala Gewog",
+      "name:en": "Martshala Gewog",
+      "name:zh": "Martshala 格窝",
+      "boundary": "administrative",
+      "way_area": "0.0265335",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12165772,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899614,-184629",
+    "name": "Ugyentse Gewog",
+    "local_name": "Ugyentse Gewog",
+    "name_en": "Ugyentse Gewog",
+    "all_tags": {
+      "name": "Ugyentse Gewog",
+      "name:en": "Ugyentse Gewog",
+      "name:zh": "Ugyentse格窝",
+      "boundary": "administrative",
+      "way_area": "0.00168652",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12192245,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899620,-184629",
+    "name": "Kilkhorthang Gewog",
+    "local_name": "Kilkhorthang Gewog",
+    "name_en": "Kilkhorthang Gewog",
+    "all_tags": {
+      "name": "Kilkhorthang Gewog",
+      "name:en": "Kilkhorthang Gewog",
+      "name:zh": "吉克尔桑格窝",
+      "boundary": "administrative",
+      "way_area": "0.00164922",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12192348,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899619,-184629",
+    "name": "Korphu Gewog",
+    "local_name": "Korphu Gewog",
+    "name_en": "Korphu Gewog",
+    "all_tags": {
+      "name": "Korphu Gewog",
+      "name:en": "Korphu Gewog",
+      "name:zh": "Korphu格窝",
+      "boundary": "administrative",
+      "way_area": "0.0261125",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8308538,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899607,-184629",
+    "name": "Bji Gewog",
+    "local_name": "སྦྱིས་ Bji Gewog",
+    "name_en": "Bji Gewog",
+    "all_tags": {
+      "name": "སྦྱིས་ Bji Gewog",
+      "name:dz": "སྦྱིས་",
+      "name:en": "Bji Gewog",
+      "name:zh": "Bji格窝",
+      "boundary": "administrative",
+      "way_area": "0.0257412",
+      "wikidata": "Q4919618",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12171905,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899616,-184629",
+    "name": "Naro Gewog",
+    "local_name": "Naro Gewog",
+    "name_en": "Naro Gewog",
+    "all_tags": {
+      "name": "Naro Gewog",
+      "name:en": "Naro Gewog",
+      "name:zh": "Naro格窝",
+      "boundary": "administrative",
+      "way_area": "0.0255694",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12101416,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899618,-184629",
+    "name": "Yangtse Gewog",
+    "local_name": "Yangtse Gewog",
+    "name_en": null,
+    "all_tags": {
+      "name": "Yangtse Gewog",
+      "boundary": "administrative",
+      "way_area": "0.024576",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12097692,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899613,-184629",
+    "name": "Lauri Gewog",
+    "local_name": "Lauri Gewog",
+    "name_en": "Lauri Gewog",
+    "all_tags": {
+      "name": "Lauri Gewog",
+      "name:en": "Lauri Gewog",
+      "name:zh": "Lauri 格窝",
+      "boundary": "administrative",
+      "way_area": "0.0247159",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12183112,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899621,-184629",
+    "name": "Saephu Gewog",
+    "local_name": "Saephu Gewog",
+    "name_en": "Saephu Gewog",
+    "all_tags": {
+      "name": "Saephu Gewog",
+      "name:en": "Saephu Gewog",
+      "name:zh": "Saephu格窝",
+      "boundary": "administrative",
+      "way_area": "0.10048",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12088471,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899602,-184629",
+    "name": "Ura Gewog",
+    "local_name": "Ura Gewog",
+    "name_en": "Ura Gewog",
+    "all_tags": {
+      "name": "Ura Gewog",
+      "name:en": "Ura Gewog",
+      "name:zh": "乌拉格窝",
+      "boundary": "administrative",
+      "way_area": "0.0241329",
+      "wikidata": "Q2499909",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -3899614,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-184629",
+    "name": "Samtse District",
+    "local_name": "བསམ་རྩེ་རྫོང་ཁག་",
+    "name_en": "Samtse District",
+    "all_tags": {
+      "name": "བསམ་རྩེ་རྫོང་ཁག་",
+      "name:de": "Samtse",
+      "name:en": "Samtse District",
+      "name:es": "Distrito de Samtse",
+      "name:fr": "Samtse",
+      "name:ja": "サムツェ",
+      "name:ru": "Самце",
+      "name:zh": "萨姆奇宗",
+      "alt_name": "Samchi Dzongkhag",
+      "boundary": "administrative",
+      "way_area": "0.118444",
+      "wikidata": "Q728917",
+      "ISO3166-2": "BT-14",
+      "wikipedia": "en:Samtse District",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -12165765,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899614,-184629",
+    "name": "Norgaygang Gewog",
+    "local_name": "Norgaygang Gewog",
+    "name_en": "Norgaygang Gewog",
+    "all_tags": {
+      "name": "Norgaygang Gewog",
+      "name:en": "Norgaygang Gewog",
+      "name:zh": "Norgaygang格窝",
+      "boundary": "administrative",
+      "way_area": "0.017194",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -3899607,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-184629",
+    "name": "Haa District",
+    "local_name": "ཧཱ་རྫོང་ཁག་",
+    "name_en": "Haa District",
+    "all_tags": {
+      "name": "ཧཱ་རྫོང་ཁག་",
+      "name:de": "Haa",
+      "name:en": "Haa District",
+      "name:es": "Distrito de Haa",
+      "name:fr": "Haa",
+      "name:ja": "ハ",
+      "name:ru": "Хаа",
+      "name:zh": "哈阿宗",
+      "boundary": "administrative",
+      "way_area": "0.119453",
+      "wikidata": "Q754448",
+      "ISO3166-2": "BT-13",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -3899603,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-184629",
+    "name": "Chukha District",
+    "local_name": "ཆུ་ཁ་རྫོང་ཁག་",
+    "name_en": "Chukha District",
+    "all_tags": {
+      "name": "ཆུ་ཁ་རྫོང་ཁག་",
+      "name:cs": "okres Čchukha",
+      "name:de": "Chukha",
+      "name:en": "Chukha District",
+      "name:es": "Distrito de Chukha",
+      "name:fr": "Chukha",
+      "name:ja": "チュカ",
+      "name:zh": "楚卡宗",
+      "boundary": "administrative",
+      "way_area": "0.169414",
+      "wikidata": "Q652754",
+      "ISO3166-2": "BT-12",
+      "admin_level": "4",
+      "sorting_name:cs": "Čchukha"
+    }
+  },
+  {
+    "osm_id": -12188005,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899605,-184629",
+    "name": "Tsenda-Gang Gewog",
+    "local_name": "Tsenda-Gang Gewog",
+    "name_en": "Tsenda-Gang Gewog",
+    "all_tags": {
+      "name": "Tsenda-Gang Gewog",
+      "name:en": "Tsenda-Gang Gewog",
+      "name:zh": "Tsenda-Gang格窝",
+      "boundary": "administrative",
+      "way_area": "0.00864045",
+      "wikidata": "Q7849525",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -3899605,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-184629",
+    "name": "Dagana District",
+    "local_name": "དར་དཀར་ན་རྫོང་ཁག་",
+    "name_en": "Dagana District",
+    "all_tags": {
+      "name": "དར་དཀར་ན་རྫོང་ཁག་",
+      "name:cs": "okres Dagana",
+      "name:de": "Dagana",
+      "name:en": "Dagana District",
+      "name:es": "Dagana",
+      "name:fr": "Distrito de Dagana",
+      "name:ja": "ダガナ",
+      "name:zh": "达加纳宗",
+      "boundary": "administrative",
+      "way_area": "0.158559",
+      "wikidata": "Q735146",
+      "ISO3166-2": "BT-22",
+      "admin_level": "4",
+      "sorting_name:cs": "Dagana"
+    }
+  },
+  {
+    "osm_id": -12171649,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899610,-184629",
+    "name": "Tsento Gewog",
+    "local_name": "Tsento Gewog",
+    "name_en": "Tsento Gewog",
+    "all_tags": {
+      "name": "Tsento Gewog",
+      "name:en": "Tsento Gewog",
+      "name:zh": "Tsento格窝",
+      "boundary": "administrative",
+      "way_area": "0.0525378",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -3899610,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-184629",
+    "name": "Paro District",
+    "local_name": "སྤ་རོ་རྫོང་ཁག་",
+    "name_en": "Paro District",
+    "all_tags": {
+      "name": "སྤ་རོ་རྫོང་ཁག་",
+      "name:cs": "okres Paro",
+      "name:de": "Paro",
+      "name:en": "Paro District",
+      "name:es": "Distrito de Paro",
+      "name:fr": "Paro",
+      "name:ja": "パロ",
+      "name:ru": "Паро",
+      "name:zh": "帕罗宗",
+      "boundary": "administrative",
+      "way_area": "0.116746",
+      "wikidata": "Q652784",
+      "ISO3166-2": "BT-11",
+      "admin_level": "4",
+      "sorting_name:cs": "Paro"
+    }
+  },
+  {
+    "osm_id": -3899606,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-184629",
+    "name": "Gasa District",
+    "local_name": "མགར་ས་རྫོང་ཁག་",
+    "name_en": "Gasa District",
+    "all_tags": {
+      "name": "མགར་ས་རྫོང་ཁག་",
+      "name:cs": "okres Gasa",
+      "name:de": "Gasa",
+      "name:en": "Gasa District",
+      "name:es": "Distrito de Gasa",
+      "name:fr": "Gasa",
+      "name:ja": "ガサ",
+      "name:ru": "Гаса",
+      "name:zh": "加萨宗",
+      "boundary": "administrative",
+      "loc_name": "མགར་ས་",
+      "way_area": "0.287438",
+      "wikidata": "Q578294",
+      "ISO3166-2": "BT-GA",
+      "admin_level": "4",
+      "sorting_name:cs": "Gasa"
+    }
+  },
+  {
+    "osm_id": -12183124,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899621,-184629",
+    "name": "Athang Gewog",
+    "local_name": "Athang Gewog",
+    "name_en": "Athang Gewog",
+    "all_tags": {
+      "name": "Athang Gewog",
+      "name:en": "Athang Gewog",
+      "name:zh": "Athang格窝",
+      "boundary": "administrative",
+      "way_area": "0.0709842",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12165464,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899606,-184629",
+    "name": "Laya Gewogs",
+    "local_name": "Laya Gewogs",
+    "name_en": "Laya Gewogs",
+    "all_tags": {
+      "name": "Laya Gewogs",
+      "name:en": "Laya Gewogs",
+      "name:zh": "Laya格窝",
+      "boundary": "administrative",
+      "way_area": "0.0852869",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12089052,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899608,-184629",
+    "name": "Khoma Gewog",
+    "local_name": "Khoma Gewog",
+    "name_en": "Khoma Gewog",
+    "all_tags": {
+      "name": "Khoma Gewog",
+      "name:en": "Khoma Gewog",
+      "name:zh": "Khoma 格窝",
+      "boundary": "administrative",
+      "way_area": "0.0596595",
+      "wikidata": "Q6402137",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13388751,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899621,-184629",
+    "name": "Kazhi",
+    "local_name": "Kazhi",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kazhi",
+      "boundary": "administrative",
+      "way_area": "0.0574473",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -9246393,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899605,-184629",
+    "name": "Tseza Gewog",
+    "local_name": "Tseza Gewog",
+    "name_en": "Tseza Gewog",
+    "all_tags": {
+      "name": "Tseza Gewog",
+      "name:en": "Tseza Gewog",
+      "name:zh": "Tseza格窝",
+      "boundary": "administrative",
+      "way_area": "0.052728",
+      "wikidata": "Q7849597",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12192344,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899619,-184629",
+    "name": "Nubi Gewog",
+    "local_name": "Nubi Gewog",
+    "name_en": "Nubi Gewog",
+    "all_tags": {
+      "name": "Nubi Gewog",
+      "name:en": "Nubi Gewog",
+      "name:zh": "Nubi格窝",
+      "boundary": "administrative",
+      "way_area": "0.0508043",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12192690,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899622,-184629",
+    "name": "Phangkhar Gewog",
+    "local_name": "འཕངས་མཁར། Phangkhar Gewog",
+    "name_en": "Phangkhar Gewog",
+    "all_tags": {
+      "name": "འཕངས་མཁར། Phangkhar Gewog",
+      "name:en": "Phangkhar Gewog",
+      "name:zh": "庞卡尔格窝",
+      "boundary": "administrative",
+      "way_area": "0.0486262",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12089054,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899608,-184629",
+    "name": "Gangzur Gewog",
+    "local_name": "Gangzur Gewog",
+    "name_en": "Gangzur Gewog",
+    "all_tags": {
+      "name": "Gangzur Gewog",
+      "name:en": "Gangzur Gewog",
+      "name:zh": "Gangzur 格窝",
+      "boundary": "administrative",
+      "way_area": "0.0488664",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12088472,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899602,-184629",
+    "name": "Tang Gewog",
+    "local_name": "Tang Gewog",
+    "name_en": "Tang Gewog",
+    "all_tags": {
+      "name": "Tang Gewog",
+      "name:en": "Tang Gewog",
+      "name:zh": "唐格窝",
+      "boundary": "administrative",
+      "way_area": "0.0473619",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12192346,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899619,-184629",
+    "name": "Langthil Gewog",
+    "local_name": "Langthil Gewog",
+    "name_en": "Langthil Gewog",
+    "all_tags": {
+      "name": "Langthil Gewog",
+      "name:en": "Langthil Gewog",
+      "name:zh": "Langthil格窝",
+      "boundary": "administrative",
+      "way_area": "0.0463536",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12188738,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899615,-184629",
+    "name": "Jigme Chhoeling Gewog",
+    "local_name": "Jigme Chhoeling Gewog",
+    "name_en": "Jigme Chhoeling Gewog",
+    "all_tags": {
+      "name": "Jigme Chhoeling Gewog",
+      "name:en": "Jigme Chhoeling Gewog",
+      "name:zh": "吉格美畴琳格窝",
+      "boundary": "administrative",
+      "way_area": "0.0454963",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12192695,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899622,-184629",
+    "name": "Nangkor Gewog",
+    "local_name": "Nangkor Gewog",
+    "name_en": "Nangkor Gewog",
+    "all_tags": {
+      "name": "Nangkor Gewog",
+      "name:en": "Nangkor Gewog",
+      "name:zh": "南科尔格窝",
+      "boundary": "administrative",
+      "way_area": "0.0448317",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12193044,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899609,-184629",
+    "name": "Saling Gewog",
+    "local_name": "Saling Gewog",
+    "name_en": "Saling Gewog",
+    "all_tags": {
+      "name": "Saling Gewog",
+      "name:en": "Saling Gewog",
+      "name:zh": "Saling格窝",
+      "boundary": "administrative",
+      "way_area": "0.0425635",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12171910,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899616,-184629",
+    "name": "Maedwang Gewog",
+    "local_name": "Maedwang Gewog",
+    "name_en": "Maedwang Gewog",
+    "all_tags": {
+      "name": "Maedwang Gewog",
+      "name:en": "Maedwang Gewog",
+      "name:zh": "Maedwang格窝",
+      "boundary": "administrative",
+      "way_area": "0.0205519",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12188739,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899615,-184629",
+    "name": "Chhudzom Gewog",
+    "local_name": "Chhudzom Gewog",
+    "name_en": "Chhudzom Gewog",
+    "all_tags": {
+      "name": "Chhudzom Gewog",
+      "name:en": "Chhudzom Gewog",
+      "name:zh": "楚佐姆格窝",
+      "boundary": "administrative",
+      "way_area": "0.0203827",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8317318,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899603,-184629",
+    "name": "Geling Gewog",
+    "local_name": "དགེ་གླིང་ Geling Gewog",
+    "name_en": "Geling Gewog",
+    "all_tags": {
+      "name": "དགེ་གླིང་ Geling Gewog",
+      "name:dz": "དགེ་གླིང་",
+      "name:en": "Geling Gewog",
+      "name:zh": "Geling格窝",
+      "boundary": "administrative",
+      "way_area": "0.0201836",
+      "wikidata": "Q5530447",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12097694,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899613,-184629",
+    "name": "Langchenphu Gewog",
+    "local_name": "Langchenphu Gewog",
+    "name_en": "Langchenphu Gewog",
+    "all_tags": {
+      "name": "Langchenphu Gewog",
+      "name:en": "Langchenphu Gewog",
+      "name:zh": "Langchenphu 格窝",
+      "boundary": "administrative",
+      "way_area": "0.0199027",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8317325,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899603,-184629",
+    "name": "Getana Gewog",
+    "local_name": "གད་སྟག་ན Getana Gewog་",
+    "name_en": "Getana Gewog",
+    "all_tags": {
+      "name": "གད་སྟག་ན Getana Gewog་",
+      "name:dz": "གད་སྟག་ན",
+      "name:en": "Getana Gewog",
+      "name:zh": "Getana格窝",
+      "boundary": "administrative",
+      "way_area": "0.0199",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12089058,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899608,-184629",
+    "name": "Maedtsho Gewog",
+    "local_name": "Maedtsho Gewog",
+    "name_en": "Maedtsho Gewog",
+    "all_tags": {
+      "name": "Maedtsho Gewog",
+      "name:en": "Maedtsho Gewog",
+      "name:zh": "Maedtsho 格窝",
+      "boundary": "administrative",
+      "way_area": "0.0198969",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12192691,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899622,-184629",
+    "name": "Ngangla Gewog",
+    "local_name": "ངང་ལ།",
+    "name_en": "Ngangla Gewog",
+    "all_tags": {
+      "name": "ངང་ལ།",
+      "name:en": "Ngangla Gewog",
+      "name:zh": "恩甘格拉格窝",
+      "boundary": "administrative",
+      "way_area": "0.0196286",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13457343,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899615,-184629",
+    "name": "Seng-Gey Gewog",
+    "local_name": "Seng-Gey Gewog",
+    "name_en": null,
+    "all_tags": {
+      "name": "Seng-Gey Gewog",
+      "name:zh": "森哥格窝",
+      "boundary": "administrative",
+      "way_area": "0.0195338",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12183119,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899621,-184629",
+    "name": "Gase Tshowogm Gewog",
+    "local_name": "Gase Tshowogm Gewog",
+    "name_en": "Gase Tshowogm Gewog",
+    "all_tags": {
+      "name": "Gase Tshowogm Gewog",
+      "name:en": "Gase Tshowogm Gewog",
+      "name:zh": "Gase Tshowogm格窝",
+      "boundary": "administrative",
+      "way_area": "0.0189102",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12192693,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899622,-184629",
+    "name": "Bardo Gewog",
+    "local_name": "Bardo Gewog",
+    "name_en": "Bardo Gewog",
+    "all_tags": {
+      "name": "Bardo Gewog",
+      "name:en": "Bardo Gewog",
+      "name:zh": "巴多格窝",
+      "boundary": "administrative",
+      "way_area": "0.0188777",
+      "wikidata": "Q4860185",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12182774,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899612,-184629",
+    "name": "Kabisa Gewog",
+    "local_name": "Kabisa Gewog",
+    "name_en": "Kabisa Gewog",
+    "all_tags": {
+      "name": "Kabisa Gewog",
+      "name:en": "Kabisa Gewog",
+      "name:zh": "Kabisa格窝",
+      "boundary": "administrative",
+      "way_area": "0.0187124",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12171908,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899616,-184629",
+    "name": "Darkarla Gewog",
+    "local_name": "Darkarla Gewog",
+    "name_en": "Darkarla Gewog",
+    "all_tags": {
+      "name": "Darkarla Gewog",
+      "name:en": "Darkarla Gewog",
+      "name:zh": "Darkarla格窝",
+      "boundary": "administrative",
+      "way_area": "0.0186818",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8317309,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899603,-184629",
+    "name": "Doongna Gewog",
+    "local_name": "གདུང་ན་ Doongna Gewog",
+    "name_en": "Doongna Gewog",
+    "all_tags": {
+      "name": "གདུང་ན་ Doongna Gewog",
+      "name:dz": "གདུང་ན་",
+      "name:en": "Doongna Gewog",
+      "name:zh": "Doongna格窝",
+      "boundary": "administrative",
+      "way_area": "0.0181878",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12192694,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899622,-184629",
+    "name": "Bjoka Gewog",
+    "local_name": "Bjoka Gewog",
+    "name_en": "Bjoka Gewog",
+    "all_tags": {
+      "name": "Bjoka Gewog",
+      "name:en": "Bjoka Gewog",
+      "name:zh": "布乔卡格窝",
+      "boundary": "administrative",
+      "way_area": "0.0175852",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12097697,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899613,-184629",
+    "name": "Dewathang Gewog",
+    "local_name": "Dewathang Gewog",
+    "name_en": "Dewathang Gewog",
+    "all_tags": {
+      "name": "Dewathang Gewog",
+      "name:en": "Dewathang Gewog",
+      "name:zh": "Dewathang 格窝",
+      "boundary": "administrative",
+      "way_area": "0.0175569",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12171654,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899610,-184629",
+    "name": "Doteng Gewog",
+    "local_name": "Doteng Gewog",
+    "name_en": "Doteng Gewog",
+    "all_tags": {
+      "name": "Doteng Gewog",
+      "name:en": "Doteng Gewog",
+      "name:zh": "Doteng格窝",
+      "boundary": "administrative",
+      "way_area": "0.0173241",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12188000,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899605,-184629",
+    "name": "Karna Gewog",
+    "local_name": "དཀར་ན། Karna Gewog",
+    "name_en": "Karna Gewog",
+    "all_tags": {
+      "name": "དཀར་ན། Karna Gewog",
+      "name:en": "Karna Gewog",
+      "name:zh": "Karna格窝",
+      "boundary": "administrative",
+      "way_area": "0.0171879",
+      "wikidata": "Q6372790",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12193059,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899609,-184629",
+    "name": "Gongdue Gewog",
+    "local_name": "Gongdue Gewog",
+    "name_en": "Gongdue Gewog",
+    "all_tags": {
+      "name": "Gongdue Gewog",
+      "name:en": "Gongdue Gewog",
+      "name:zh": "Gongdue格窝",
+      "boundary": "administrative",
+      "way_area": "0.0168315",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12192248,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899620,-184629",
+    "name": "Mendrelgang Gewog",
+    "local_name": "Mendrelgang Gewog",
+    "name_en": "Mendrelgang Gewog",
+    "all_tags": {
+      "name": "Mendrelgang Gewog",
+      "name:en": "Mendrelgang Gewog",
+      "name:zh": "门德叻尔冈(拉米丹格拉)格窝",
+      "boundary": "administrative",
+      "way_area": "0.00133682",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12098109,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899611,-184629",
+    "name": "Norboogang Gewog",
+    "local_name": "Norboogang Gewog",
+    "name_en": "Norboogang Gewog",
+    "all_tags": {
+      "name": "Norboogang Gewog",
+      "name:en": "Norboogang Gewog",
+      "name:zh": "Norboogang 格窝",
+      "boundary": "administrative",
+      "way_area": "0.0166485",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12171893,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899616,-184629",
+    "name": "Soe Gewog",
+    "local_name": "Soe Gewog",
+    "name_en": "Soe Gewog",
+    "all_tags": {
+      "name": "Soe Gewog",
+      "name:en": "Soe Gewog",
+      "name:zh": "Soe格窝",
+      "boundary": "administrative",
+      "way_area": "0.0159478",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12183113,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899621,-184629",
+    "name": "Dangchhu Gewog",
+    "local_name": "Dangchhu Gewog",
+    "name_en": "Dangchhu Gewog",
+    "all_tags": {
+      "name": "Dangchhu Gewog",
+      "name:en": "Dangchhu Gewog",
+      "name:zh": "Dangchhu格窝",
+      "boundary": "administrative",
+      "way_area": "0.0158524",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8310883,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899607,-184629",
+    "name": "Samar Gewog",
+    "local_name": "ས་དམར་ Samar Gewog",
+    "name_en": "Samar Gewog",
+    "all_tags": {
+      "name": "ས་དམར་ Samar Gewog",
+      "name:dz": "ས་དམར་",
+      "name:en": "Samar Gewog",
+      "name:zh": "Samar格窝",
+      "boundary": "administrative",
+      "way_area": "0.0158116",
+      "wikidata": "Q7408407",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12192242,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899620,-184629",
+    "name": "Semjong Gewog",
+    "local_name": "Semjong Gewog",
+    "name_en": "Semjong Gewog",
+    "all_tags": {
+      "name": "Semjong Gewog",
+      "name:en": "Semjong Gewog",
+      "name:zh": "瑟姆疆格窝",
+      "boundary": "administrative",
+      "way_area": "0.00130321",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12192247,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899620,-184629",
+    "name": "Patshaling Gewog",
+    "local_name": "Patshaling Gewog",
+    "name_en": null,
+    "all_tags": {
+      "name": "Patshaling Gewog",
+      "boundary": "administrative",
+      "way_area": "0.0155232",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12097700,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899613,-184629",
+    "name": "Orong Gewog",
+    "local_name": "Orong Gewog",
+    "name_en": "Orong Gewog",
+    "all_tags": {
+      "name": "Orong Gewog",
+      "name:en": "Orong Gewog",
+      "name:zh": "Orong 格窝",
+      "boundary": "administrative",
+      "way_area": "0.01486",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12193060,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899609,-184629",
+    "name": "Silambi Gewog",
+    "local_name": "Silambi Gewog",
+    "name_en": "Silambi Gewog",
+    "all_tags": {
+      "name": "Silambi Gewog",
+      "name:en": "Silambi Gewog",
+      "name:zh": "Silambi格窝",
+      "boundary": "administrative",
+      "way_area": "0.0144788",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -3899611,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-184629",
+    "name": "Pemagatshel District",
+    "local_name": "པདྨ་དགའ་ཚལ་རྫོང་ཁག་",
+    "name_en": "Pemagatshel District",
+    "all_tags": {
+      "name": "པདྨ་དགའ་ཚལ་རྫོང་ཁག་",
+      "name:de": "Pemagatshel",
+      "name:en": "Pemagatshel District",
+      "name:es": "Distrito de Pemagatshel",
+      "name:fr": "Pemagatshel",
+      "name:ja": "ペマガットシェル",
+      "name:zh": "佩马加策尔宗",
+      "boundary": "administrative",
+      "way_area": "0.0930799",
+      "wikidata": "Q167279",
+      "ISO3166-2": "BT-43",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -3899609,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-184629",
+    "name": "Mongar District",
+    "local_name": "མོང་སྒར་རྫོང་ཁག་",
+    "name_en": "Mongar District",
+    "all_tags": {
+      "name": "མོང་སྒར་རྫོང་ཁག་",
+      "name:de": "Mongar",
+      "name:en": "Mongar District",
+      "name:es": "Distrito de Mongar",
+      "name:fr": "Mongar",
+      "name:ja": "モンガー",
+      "name:zh": "蒙加尔宗",
+      "website": "www.dzongkhag.gov.bt",
+      "boundary": "administrative",
+      "loc_name": "མོང་སྒར་",
+      "way_area": "0.177807",
+      "wikidata": "Q389734",
+      "ISO3166-2": "BT-42",
+      "admin_level": "4",
+      "is_in:country_code": "BT"
+    }
+  },
+  {
+    "osm_id": -3899621,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-184629",
+    "name": "Wangdue Phodrang District",
+    "local_name": "དབང་འདུས་ཕོ་བྲང་རྫོང་ཁག་",
+    "name_en": "Wangdue Phodrang District",
+    "all_tags": {
+      "name": "དབང་འདུས་ཕོ་བྲང་རྫོང་ཁག་",
+      "name:cs": "okres Wangdü Phodrang",
+      "name:de": "Wangdue Phodrang",
+      "name:en": "Wangdue Phodrang District",
+      "name:es": "Distrito de Wangdue Phodrang",
+      "name:fr": "Wangdue Phodrang",
+      "name:ja": "ワンデ・ポドラン",
+      "name:ru": "Вангди-Пходранг",
+      "name:zh": "旺杜波德朗宗",
+      "boundary": "administrative",
+      "way_area": "0.368151",
+      "wikidata": "Q728933",
+      "ISO3166-2": "BT-24",
+      "admin_level": "4",
+      "sorting_name:cs": "Wangdü Phodrang"
+    }
+  },
+  {
+    "osm_id": -3899619,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-184629",
+    "name": "Trongsa District",
+    "local_name": "ཀྲོང་གསར་རྫོང་ཁག་",
+    "name_en": "Trongsa District",
+    "all_tags": {
+      "name": "ཀྲོང་གསར་རྫོང་ཁག་",
+      "name:de": "Trongsa",
+      "name:en": "Trongsa District",
+      "name:es": "Distrito de Trongsa",
+      "name:fr": "Trongsa",
+      "name:ja": "トンサ",
+      "name:zh": "通萨宗",
+      "boundary": "administrative",
+      "way_area": "0.164562",
+      "wikidata": "Q728938",
+      "ISO3166-2": "BT-32",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -12165470,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899606,-184629",
+    "name": "Lunana Gewogs",
+    "local_name": "Lunana Gewogs",
+    "name_en": "Lunana Gewogs",
+    "all_tags": {
+      "name": "Lunana Gewogs",
+      "name:en": "Lunana Gewogs",
+      "name:zh": "Lunana格窝",
+      "boundary": "administrative",
+      "way_area": "0.158766",
+      "wikidata": "Q4269389",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12088300,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899602,-184629",
+    "name": "Chhoekhor Gewog",
+    "local_name": "ས་འར། Chhoekhor Gewog",
+    "name_en": "Chhoekhor Gewog",
+    "all_tags": {
+      "name": "ས་འར། Chhoekhor Gewog",
+      "name:en": "Chhoekhor Gewog",
+      "name:zh": "畴克格窝",
+      "boundary": "administrative",
+      "way_area": "0.140315",
+      "wikidata": "Q4517107",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -3899602,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-184629",
+    "name": "Bumthang District",
+    "local_name": "བུམ་ཐང་རྫོང་ཁག་",
+    "name_en": "Bumthang District",
+    "all_tags": {
+      "name": "བུམ་ཐང་རྫོང་ཁག་",
+      "name:de": "Bumthang",
+      "name:dz": "བུམ་ཐང་རྫོང་ཁག་",
+      "name:en": "Bumthang District",
+      "name:es": "Distrito de Bumthang",
+      "name:fr": "Bumthang",
+      "name:ja": "ブムタン",
+      "name:ru": "Бумтанг",
+      "name:zh": "布姆唐宗",
+      "boundary": "administrative",
+      "way_area": "0.24767",
+      "wikidata": "Q463242",
+      "ISO3166-2": "BT-33",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -3899608,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-184629",
+    "name": "Lhuntse District",
+    "local_name": "ལྷུན་རྩེ་རྫོང་ཁག་",
+    "name_en": "Lhuntse District",
+    "all_tags": {
+      "name": "ལྷུན་རྩེ་རྫོང་ཁག་",
+      "name:de": "Lhuntse",
+      "name:en": "Lhuntse District",
+      "name:es": "Distrito de Lhuntse",
+      "name:fr": "Lhuntse",
+      "name:ja": "ルハントス",
+      "name:ru": "Лхунце",
+      "name:zh": "伦奇宗",
+      "website": "www.dzongkhag.gov.bt",
+      "alt_name": "Lhuntshi Dzongkhag",
+      "boundary": "administrative",
+      "loc_name": "ལྷུན་རྩེ་",
+      "way_area": "0.205384",
+      "wikidata": "Q598793",
+      "ISO3166-2": "BT-44",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -12100842,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899617,-184629",
+    "name": "Merag Gewog",
+    "local_name": "Merag Gewog",
+    "name_en": "Merag Gewog",
+    "all_tags": {
+      "name": "Merag Gewog",
+      "name:en": "Merag Gewog",
+      "name:zh": "墨拉格窝",
+      "boundary": "administrative",
+      "way_area": "0.0419974",
+      "admin_level": "6",
+      "alt_name:zh": "墨拉乡"
+    }
+  },
+  {
+    "osm_id": -3899618,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-184629",
+    "name": "Trashiyangtse District",
+    "local_name": "བཀྲ་ཤིས་གཡང་རྩེ་རྫོང་ཁག་",
+    "name_en": "Trashiyangtse District",
+    "all_tags": {
+      "name": "བཀྲ་ཤིས་གཡང་རྩེ་རྫོང་ཁག་",
+      "name:de": "Trashiyangtse",
+      "name:en": "Trashiyangtse District",
+      "name:es": "Distrito de Trashiyangste",
+      "name:fr": "Trashiyangtse",
+      "name:ja": "タシ ヤンツェ",
+      "name:ru": "Трашиянгце",
+      "boundary": "administrative",
+      "way_area": "0.131413",
+      "wikidata": "Q600200",
+      "ISO3166-2": "BT-TY",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -12183120,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899621,-184629",
+    "name": "Ruebisa Gewog",
+    "local_name": "Ruebisa Gewog",
+    "name_en": "Ruebisa Gewog",
+    "all_tags": {
+      "name": "Ruebisa Gewog",
+      "name:en": "Ruebisa Gewog",
+      "name:zh": "Ruebisa格窝",
+      "boundary": "administrative",
+      "way_area": "0.0143625",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12100846,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899617,-184629",
+    "name": "Khaling Gewog",
+    "local_name": "Khaling Gewog",
+    "name_en": "Khaling Gewog",
+    "all_tags": {
+      "name": "Khaling Gewog",
+      "name:en": "Khaling Gewog",
+      "name:zh": "Khaling 格窝",
+      "boundary": "administrative",
+      "way_area": "0.0141679",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12183123,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899621,-184629",
+    "name": "Phobji Gewog",
+    "local_name": "Phobji Gewog",
+    "name_en": "Phobji Gewog",
+    "all_tags": {
+      "name": "Phobji Gewog",
+      "name:en": "Phobji Gewog",
+      "name:zh": "Phobji格窝",
+      "boundary": "administrative",
+      "way_area": "0.0138861",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12165482,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899606,-184629",
+    "name": "Khamaed Gewogs",
+    "local_name": "Khamaed Gewogs",
+    "name_en": "Khamaed Gewogs",
+    "all_tags": {
+      "name": "Khamaed Gewogs",
+      "name:en": "Khamaed Gewogs",
+      "name:zh": "Khamaed格窝",
+      "boundary": "administrative",
+      "way_area": "0.0137698",
+      "wikidata": "Q6399893",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12192244,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899620,-184629",
+    "name": "Tsholingkhar Gewog",
+    "local_name": "Tsholingkhar Gewog",
+    "name_en": "Tsholingkhar Gewog",
+    "all_tags": {
+      "name": "Tsholingkhar Gewog",
+      "name:en": "Tsholingkhar Gewog",
+      "name:zh": "措卡那格窝",
+      "boundary": "administrative",
+      "way_area": "0.00121263",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12193045,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899609,-184629",
+    "name": "Tsamang Gewog",
+    "local_name": "Tsamang Gewog",
+    "name_en": "Tsamang Gewog",
+    "all_tags": {
+      "name": "Tsamang Gewog",
+      "name:en": "Tsamang Gewog",
+      "name:zh": "Tsamang格窝",
+      "boundary": "administrative",
+      "way_area": "0.0132457",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12188744,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899615,-184629",
+    "name": "Gakidling Gewog",
+    "local_name": "Gakidling Gewog",
+    "name_en": "Gakidling Gewog",
+    "all_tags": {
+      "name": "Gakidling Gewog",
+      "name:en": "Gakidling Gewog",
+      "name:zh": "布尔格窝",
+      "boundary": "administrative",
+      "way_area": "0.012845",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12188006,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899605,-184629",
+    "name": "Nichula Gewog",
+    "local_name": "Nichula Gewog",
+    "name_en": "Nichula Gewog",
+    "all_tags": {
+      "name": "Nichula Gewog",
+      "name:en": "Nichula Gewog",
+      "name:zh": "Nichula格窝",
+      "boundary": "administrative",
+      "way_area": "0.0129238",
+      "wikidata": "Q7026663",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13425580,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899618,-184629",
+    "name": "Ranjar Gewog",
+    "local_name": "Ranjar Gewog",
+    "name_en": null,
+    "all_tags": {
+      "name": "Ranjar Gewog",
+      "boundary": "administrative",
+      "way_area": "0.00211122",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8317236,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899603,-184629",
+    "name": "Bjagchhog Gewog",
+    "local_name": "བྱག་ཕྱོགས་ Bjagchhog Gewog",
+    "name_en": "Bjagchhog Gewog",
+    "all_tags": {
+      "name": "བྱག་ཕྱོགས་ Bjagchhog Gewog",
+      "name:dz": "བྱག་ཕྱོགས་",
+      "name:en": "Bjagchhog Gewog",
+      "name:zh": "Bjagchhog格窝",
+      "alt_name": "Bjachho",
+      "boundary": "administrative",
+      "way_area": "0.0127309",
+      "wikidata": "Q4919482",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12089059,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899608,-184629",
+    "name": "Jarey Gewog",
+    "local_name": "Jarey Gewog",
+    "name_en": "Jarey Gewog",
+    "all_tags": {
+      "name": "Jarey Gewog",
+      "name:en": "Jarey Gewog",
+      "name:zh": "Jarey 格窝",
+      "boundary": "administrative",
+      "way_area": "0.0124844",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12089056,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899608,-184629",
+    "name": "Minjay Gewog",
+    "local_name": "Minjay Gewog",
+    "name_en": "Minjay Gewog",
+    "all_tags": {
+      "name": "Minjay Gewog",
+      "name:en": "Minjay Gewog",
+      "name:zh": "Minjay 格窝",
+      "boundary": "administrative",
+      "way_area": "0.0126974",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12192239,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899620,-184629",
+    "name": "Sergithang Gewog",
+    "local_name": "Sergithang Gewog",
+    "name_en": null,
+    "all_tags": {
+      "name": "Sergithang Gewog",
+      "boundary": "administrative",
+      "way_area": "0.0126316",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12098110,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899611,-184629",
+    "name": "Dechhenling Gewog",
+    "local_name": "Dechhenling Gewog",
+    "name_en": "Dechhenling Gewog",
+    "all_tags": {
+      "name": "Dechhenling Gewog",
+      "name:en": "Dechhenling Gewog",
+      "name:zh": "Dechhenling 格窝",
+      "boundary": "administrative",
+      "way_area": "0.0124836",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8317302,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899603,-184629",
+    "name": "Darla Gewog",
+    "local_name": "དར་ལ་ Darla Gewog",
+    "name_en": "Darla Gewog",
+    "all_tags": {
+      "name": "དར་ལ་ Darla Gewog",
+      "name:dz": "དར་ལ་",
+      "name:en": "Darla Gewog",
+      "name:zh": "Darla格窝",
+      "boundary": "administrative",
+      "way_area": "0.0124788",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12192241,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899620,-184629",
+    "name": "Pungtenchhu Gewog",
+    "local_name": "Pungtenchhu Gewog",
+    "name_en": "Pungtenchhu Gewog",
+    "all_tags": {
+      "name": "Pungtenchhu Gewog",
+      "name:en": "Pungtenchhu Gewog",
+      "name:zh": "普腾楚格窝",
+      "boundary": "administrative",
+      "way_area": "0.0124425",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8317348,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899603,-184629",
+    "name": "Phuentshogling Gewog",
+    "local_name": "ཕུན་ཚོགས་གླིང་ Phuentshogling Gewog",
+    "name_en": "Phuentshogling Gewog",
+    "all_tags": {
+      "name": "ཕུན་ཚོགས་གླིང་ Phuentshogling Gewog",
+      "name:dz": "ཕུན་ཚོགས་གླིང་",
+      "name:en": "Phuentshogling Gewog",
+      "name:zh": "Phuentshogling格窝",
+      "boundary": "administrative",
+      "way_area": "0.0122353",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12171661,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899610,-184629",
+    "name": "Nagya Gewog",
+    "local_name": "Nagya Gewog",
+    "name_en": "Nagya Gewog",
+    "all_tags": {
+      "name": "Nagya Gewog",
+      "name:en": "Nagya Gewog",
+      "name:zh": "Nagya格窝",
+      "boundary": "administrative",
+      "way_area": "0.0124075",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8317281,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899603,-184629",
+    "name": "Chaapchha Gewog",
+    "local_name": "སྐྱབས་ཆ་ Chaapchha Gewog",
+    "name_en": "Chaapchha Gewog",
+    "all_tags": {
+      "name": "སྐྱབས་ཆ་ Chaapchha Gewog",
+      "name:dz": "སྐྱབས་ཆ་",
+      "name:en": "Chaapchha Gewog",
+      "name:zh": "Chaapchha格窝",
+      "alt_name": "Chapchha",
+      "boundary": "administrative",
+      "way_area": "0.0119217",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8317345,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899603,-184629",
+    "name": "Metabkha Gewog",
+    "local_name": "སྨད་བཏབ་ཁ་ Metabkha Gewog",
+    "name_en": "Metabkha Gewog",
+    "all_tags": {
+      "name": "སྨད་བཏབ་ཁ་ Metabkha Gewog",
+      "name:dz": "སྨད་བཏབ་ཁ་",
+      "name:en": "Metabkha Gewog",
+      "name:zh": "Metabkha格窝",
+      "alt_name": "Metap",
+      "boundary": "administrative",
+      "way_area": "0.0120489",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12165766,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899614,-184629",
+    "name": "Tendruk Gewog",
+    "local_name": "Tendruk Gewog",
+    "name_en": "Tendruk Gewog",
+    "all_tags": {
+      "name": "Tendruk Gewog",
+      "name:en": "Tendruk Gewog",
+      "name:zh": "Tendruk格窝",
+      "boundary": "administrative",
+      "way_area": "0.012023",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12097698,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899613,-184629",
+    "name": "Phuentshogthang Gewog",
+    "local_name": "Phuentshogthang Gewog",
+    "name_en": "Phuentshogthang Gewog",
+    "all_tags": {
+      "name": "Phuentshogthang Gewog",
+      "name:en": "Phuentshogthang Gewog",
+      "name:zh": "Phuentshogthang 格窝",
+      "boundary": "administrative",
+      "way_area": "0.0117177",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12165767,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899614,-184629",
+    "name": "Namgyalchhoeling Gewog",
+    "local_name": "Namgyalchhoeling Gewog",
+    "name_en": "Namgyalchhoeling Gewog",
+    "all_tags": {
+      "name": "Namgyalchhoeling Gewog",
+      "name:en": "Namgyalchhoeling Gewog",
+      "name:zh": "Namgyalchhoeling格窝",
+      "boundary": "administrative",
+      "way_area": "0.0115487",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12098111,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899611,-184629",
+    "name": "Chhoekhorling Gewog",
+    "local_name": "Chhoekhorling Gewog",
+    "name_en": "Chhoekhorling Gewog",
+    "all_tags": {
+      "name": "Chhoekhorling Gewog",
+      "name:en": "Chhoekhorling Gewog",
+      "name:zh": "Chhoekhorling 格窝",
+      "boundary": "administrative",
+      "way_area": "0.0115197",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12188748,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899615,-184629",
+    "name": "Umling Gewog",
+    "local_name": "Umling Gewog",
+    "name_en": "Umling Gewog",
+    "all_tags": {
+      "name": "Umling Gewog",
+      "name:en": "Umling Gewog",
+      "name:zh": "乌木林格窝",
+      "boundary": "administrative",
+      "way_area": "0.0111708",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12089057,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899608,-184629",
+    "name": "Tsaenkhar Gewog",
+    "local_name": "Tsaenkhar Gewog",
+    "name_en": "Tsaenkhar Gewog",
+    "all_tags": {
+      "name": "Tsaenkhar Gewog",
+      "name:en": "Tsaenkhar Gewog",
+      "name:zh": "Tsaenkhar 格窝",
+      "boundary": "administrative",
+      "way_area": "0.0112139",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12183121,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899621,-184629",
+    "name": "Bjenag Gewog",
+    "local_name": "Bjenag Gewog",
+    "name_en": "Bjenag Gewog",
+    "all_tags": {
+      "name": "Bjenag Gewog",
+      "name:en": "Bjenag Gewog",
+      "name:zh": "Bjenag格窝",
+      "boundary": "administrative",
+      "way_area": "0.010911",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12183114,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899621,-184629",
+    "name": "Nyishog Gewog",
+    "local_name": "Nyishog Gewog",
+    "name_en": "Nyishog Gewog",
+    "all_tags": {
+      "name": "Nyishog Gewog",
+      "name:en": "Nyishog Gewog",
+      "name:zh": "Nyishog格窝",
+      "boundary": "administrative",
+      "way_area": "0.0106894",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12165771,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899614,-184629",
+    "name": "Norboogang Gewog",
+    "local_name": "Norboogang Gewog",
+    "name_en": "Norboogang Gewog",
+    "all_tags": {
+      "name": "Norboogang Gewog",
+      "name:en": "Norboogang Gewog",
+      "name:zh": "Norboogang格窝",
+      "boundary": "administrative",
+      "way_area": "0.0106375",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12165778,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899614,-184629",
+    "name": "Samtse Gewog",
+    "local_name": "Samtse Gewog",
+    "name_en": "Samtse Gewog",
+    "all_tags": {
+      "name": "Samtse Gewog",
+      "name:en": "Samtse Gewog",
+      "name:zh": "Samtse格窝",
+      "boundary": "administrative",
+      "way_area": "0.0105321",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -3899612,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-184629",
+    "name": "Punakha District",
+    "local_name": "སྤུ་ན་ཁ་རྫོང་ཁག་",
+    "name_en": "Punakha District",
+    "all_tags": {
+      "name": "སྤུ་ན་ཁ་རྫོང་ཁག་",
+      "name:cs": "okres Punákha",
+      "name:de": "Punakha",
+      "name:en": "Punakha District",
+      "name:es": "Distrito de Punakha",
+      "name:fr": "Punakha",
+      "name:uk": "Пунакха",
+      "name:zh": "普那卡宗",
+      "boundary": "administrative",
+      "way_area": "0.101281",
+      "wikidata": "Q587062",
+      "ISO3166-2": "BT-23",
+      "admin_level": "4",
+      "sorting_name:cs": "Punákha"
+    }
+  },
+  {
+    "osm_id": -12098112,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899611,-184629",
+    "name": "Khar Gewog",
+    "local_name": "Khar Gewog",
+    "name_en": "Khar Gewog",
+    "all_tags": {
+      "name": "Khar Gewog",
+      "name:en": "Khar Gewog",
+      "name:zh": "Khar 格窝",
+      "boundary": "administrative",
+      "way_area": "0.0103476",
+      "wikidata": "Q20923042",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12188742,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899615,-184629",
+    "name": "Dekidling Gewog",
+    "local_name": "Dekidling Gewog",
+    "name_en": "Dekidling Gewog",
+    "all_tags": {
+      "name": "Dekidling Gewog",
+      "name:en": "Dekidling Gewog",
+      "name:zh": "戴吉林格窝",
+      "boundary": "administrative",
+      "way_area": "0.0104621",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12188749,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899615,-184629",
+    "name": "Tareythang Gewog",
+    "local_name": "Tareythang Gewog",
+    "name_en": "Tareythang Gewog",
+    "all_tags": {
+      "name": "Tareythang Gewog",
+      "name:en": "Tareythang Gewog",
+      "name:zh": "塔克莱格窝",
+      "boundary": "administrative",
+      "way_area": "0.00996665",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -3899616,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-184629",
+    "name": "Thimphu District",
+    "local_name": "ཐིམ་ཕུ་རྫོང་ཁག་",
+    "name_en": "Thimphu District",
+    "all_tags": {
+      "name": "ཐིམ་ཕུ་རྫོང་ཁག་",
+      "name:ar": "تيمفو",
+      "name:cs": "okres Thimbú",
+      "name:de": "Thimphu",
+      "name:en": "Thimphu District",
+      "name:es": "Distrito de Timbu",
+      "name:fa": "تیمفو",
+      "name:fr": "Thimphou",
+      "name:ja": "ティンプー",
+      "name:ru": "Тхимпху",
+      "name:ur": "تھمپو",
+      "name:zh": "廷布宗",
+      "boundary": "administrative",
+      "way_area": "0.164232",
+      "wikidata": "Q254889",
+      "ISO3166-2": "BT-15",
+      "admin_level": "4",
+      "sorting_name:cs": "Thimbú"
+    }
+  },
+  {
+    "osm_id": -12099783,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899611,-184629",
+    "name": "Dungmaed Gewog",
+    "local_name": "Dungmaed Gewog",
+    "name_en": "Dungmaed Gewog",
+    "all_tags": {
+      "name": "Dungmaed Gewog",
+      "name:en": "Dungmaed Gewog",
+      "name:zh": "Dungmaed 格窝",
+      "boundary": "administrative",
+      "way_area": "0.00990179",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12188002,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899605,-184629",
+    "name": "Largyab Gewog",
+    "local_name": "Largyab Gewog",
+    "name_en": "Largyab Gewog",
+    "all_tags": {
+      "name": "Largyab Gewog",
+      "name:en": "Largyab Gewog",
+      "name:zh": "Largyab格窝",
+      "alt_name": "Lagyab Gewog",
+      "boundary": "administrative",
+      "way_area": "0.00981875",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12165776,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899614,-184629",
+    "name": "Tading Gewog",
+    "local_name": "Tading Gewog",
+    "name_en": "Tading Gewog",
+    "all_tags": {
+      "name": "Tading Gewog",
+      "name:en": "Tading Gewog",
+      "name:zh": "Tading格窝",
+      "boundary": "administrative",
+      "way_area": "0.00978652",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12188008,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899605,-184629",
+    "name": "Dorona Gewog",
+    "local_name": "Dorona Gewog",
+    "name_en": "Dorona Gewog",
+    "all_tags": {
+      "name": "Dorona Gewog",
+      "name:en": "Dorona Gewog",
+      "name:zh": "Dorona格窝",
+      "boundary": "administrative",
+      "way_area": "0.00972004",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -9246392,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899605,-184629",
+    "name": "Lhamoyzingkha Gewog",
+    "local_name": "Lhamoyzingkha Gewog",
+    "name_en": "Lhamoyzingkha Gewog",
+    "all_tags": {
+      "name": "Lhamoyzingkha Gewog",
+      "name:en": "Lhamoyzingkha Gewog",
+      "name:zh": "Lhamoyzingkha格窝",
+      "alt_name": "Lhamoi Dzingkha Gewog",
+      "boundary": "administrative",
+      "way_area": "0.00956723",
+      "wikidata": "Q6538495",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12100845,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899617,-184629",
+    "name": "Lumang Gewog",
+    "local_name": "Lumang Gewog",
+    "name_en": "Lumang Gewog",
+    "all_tags": {
+      "name": "Lumang Gewog",
+      "name:en": "Lumang Gewog",
+      "name:zh": "Lumang 格窝",
+      "boundary": "administrative",
+      "way_area": "0.00967321",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12171662,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899610,-184629",
+    "name": "Dokar Gewog",
+    "local_name": "Dokar Gewog",
+    "name_en": "Dokar Gewog",
+    "all_tags": {
+      "name": "Dokar Gewog",
+      "name:en": "Dokar Gewog",
+      "name:zh": "Dokar格窝",
+      "boundary": "administrative",
+      "way_area": "0.00964216",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12165774,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899614,-184629",
+    "name": "Dophuchen Gewog",
+    "local_name": "Dophuchen Gewog",
+    "name_en": "Dophuchen Gewog",
+    "all_tags": {
+      "name": "Dophuchen Gewog",
+      "name:en": "Dophuchen Gewog",
+      "name:zh": "Dophuchen格窝",
+      "alt_name": "Dophoogchen Gewog",
+      "boundary": "administrative",
+      "way_area": "0.00940692",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12165775,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899614,-184629",
+    "name": "Duenchhukha Gewog",
+    "local_name": "Duenchhukha Gewog",
+    "name_en": "Duenchhukha Gewog",
+    "all_tags": {
+      "name": "Duenchhukha Gewog",
+      "name:en": "Duenchhukha Gewog",
+      "name:zh": "Duenchhukha格窝",
+      "boundary": "administrative",
+      "way_area": "0.00940362",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12165777,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899614,-184629",
+    "name": "Phuentshogpelri Gewog",
+    "local_name": "Phuentshogpelri Gewog",
+    "name_en": "Phuentshogpelri Gewog",
+    "all_tags": {
+      "name": "Phuentshogpelri Gewog",
+      "name:en": "Phuentshogpelri Gewog",
+      "name:zh": "Phuentshogpelri格窝",
+      "boundary": "administrative",
+      "way_area": "0.00940354",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12182773,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899612,-184629",
+    "name": "Toedpaisa Gewog",
+    "local_name": "Toedpaisa Gewog",
+    "name_en": "Toedpaisa Gewog",
+    "all_tags": {
+      "name": "Toedpaisa Gewog",
+      "name:en": "Toedpaisa Gewog",
+      "name:zh": "Toedpaisa格窝",
+      "boundary": "administrative",
+      "way_area": "0.00938129",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12101125,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899617,-184629",
+    "name": "Phongmed Gewog",
+    "local_name": "Phongmed Gewog",
+    "name_en": "Phongmed Gewog",
+    "all_tags": {
+      "name": "Phongmed Gewog",
+      "name:en": "Phongmed Gewog",
+      "name:zh": "Phongmed 格窝",
+      "boundary": "administrative",
+      "way_area": "0.00922449",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12193057,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899609,-184629",
+    "name": "Kengkhar Gewog",
+    "local_name": "Kengkhar Gewog",
+    "name_en": "Kengkhar Gewog",
+    "all_tags": {
+      "name": "Kengkhar Gewog",
+      "name:en": "Kengkhar Gewog",
+      "name:zh": "Kengkhar格窝",
+      "boundary": "administrative",
+      "way_area": "0.00892012",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12100847,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899617,-184629",
+    "name": "Udzorong Gewog",
+    "local_name": "Udzorong Gewog",
+    "name_en": "Udzorong Gewog",
+    "all_tags": {
+      "name": "Udzorong Gewog",
+      "name:en": "Udzorong Gewog",
+      "name:zh": "Udzorong 格窝",
+      "boundary": "administrative",
+      "way_area": "0.00919211",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12183122,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899621,-184629",
+    "name": "Gangteng Gewog",
+    "local_name": "Gangteng Gewog",
+    "name_en": "Gangteng Gewog",
+    "all_tags": {
+      "name": "Gangteng Gewog",
+      "name:en": "Gangteng Gewog",
+      "name:zh": "Gangteng格窝",
+      "boundary": "administrative",
+      "way_area": "0.00918445",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12192692,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899622,-184629",
+    "name": "Goshing Gewog",
+    "local_name": "Goshing Gewog",
+    "name_en": "Goshing Gewog",
+    "all_tags": {
+      "name": "Goshing Gewog",
+      "name:en": "Goshing Gewog",
+      "name:zh": "哥幸格窝",
+      "boundary": "administrative",
+      "way_area": "0.00903683",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12188001,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899605,-184629",
+    "name": "Khebisa Gewog",
+    "local_name": "Khebisa Gewog",
+    "name_en": "Khebisa Gewog",
+    "all_tags": {
+      "name": "Khebisa Gewog",
+      "name:en": "Khebisa Gewog",
+      "name:zh": "Khebisa格窝",
+      "boundary": "administrative",
+      "way_area": "0.00879291",
+      "wikidata": "Q6401167",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12182772,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899612,-184629",
+    "name": "Chhuboog Gewog",
+    "local_name": "Chhuboog Gewog",
+    "name_en": "Chhuboog Gewog",
+    "all_tags": {
+      "name": "Chhuboog Gewog",
+      "name:en": "Chhuboog Gewog",
+      "name:zh": "Chhuboog 格窝",
+      "boundary": "administrative",
+      "way_area": "0.00838822",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12188009,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899605,-184629",
+    "name": "Karmaling Gewog",
+    "local_name": "Karmaling Gewog",
+    "name_en": "Karmaling Gewog",
+    "all_tags": {
+      "name": "Karmaling Gewog",
+      "name:en": "Karmaling Gewog",
+      "name:zh": "Karmaling格窝",
+      "boundary": "administrative",
+      "way_area": "0.00828451",
+      "wikidata": "Q6372700",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12098115,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899611,-184629",
+    "name": "Shumar Gewog",
+    "local_name": "Shumar Gewog",
+    "name_en": "Shumar Gewog",
+    "all_tags": {
+      "name": "Shumar Gewog",
+      "name:en": "Shumar Gewog",
+      "name:zh": "Shumar 格窝",
+      "boundary": "administrative",
+      "way_area": "0.00844536",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12100851,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899617,-184629",
+    "name": "Shongphu Gewog",
+    "local_name": "Shongphu Gewog",
+    "name_en": "Shongphu Gewog",
+    "all_tags": {
+      "name": "Shongphu Gewog",
+      "name:en": "Shongphu Gewog",
+      "name:zh": "Shongphu 格窝",
+      "boundary": "administrative",
+      "way_area": "0.00842406",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13425226,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899618,-184629",
+    "name": "Yalang Gewog",
+    "local_name": "Yalang Gewog",
+    "name_en": null,
+    "all_tags": {
+      "name": "Yalang Gewog",
+      "boundary": "administrative",
+      "way_area": "0.00826345",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12100850,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899617,-184629",
+    "name": "Samkhar Gewog",
+    "local_name": "Samkhar Gewog",
+    "name_en": "Samkhar Gewog",
+    "all_tags": {
+      "name": "Samkhar Gewog",
+      "name:en": "Samkhar Gewog",
+      "name:zh": "Samkhar 格窝",
+      "boundary": "administrative",
+      "way_area": "0.0081447",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12089055,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899608,-184629",
+    "name": "Maenbi Gewog",
+    "local_name": "Maenbi Gewog",
+    "name_en": "Maenbi Gewog",
+    "all_tags": {
+      "name": "Maenbi Gewog",
+      "name:en": "Maenbi Gewog",
+      "name:zh": "Maenbi 格窝",
+      "boundary": "administrative",
+      "way_area": "0.00811397",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -3899617,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-184629",
+    "name": "Trashigang District",
+    "local_name": "བཀྲ་ཤིས་སྒང་རྫོང་ཁག་",
+    "name_en": "Trashigang District",
+    "all_tags": {
+      "name": "བཀྲ་ཤིས་སྒང་རྫོང་ཁག་",
+      "name:de": "Trashigang",
+      "name:en": "Trashigang District",
+      "name:es": "Distrito de Trashigang",
+      "name:fr": "Trashigang",
+      "name:ja": "タシガン",
+      "name:zh": "塔希冈宗",
+      "boundary": "administrative",
+      "way_area": "0.201093",
+      "wikidata": "Q652773",
+      "ISO3166-2": "BT-41",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -12188747,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899615,-184629",
+    "name": "Chhuzanggang Gewog",
+    "local_name": "Chhuzanggang Gewog",
+    "name_en": "Chhuzanggang Gewog",
+    "all_tags": {
+      "name": "Chhuzanggang Gewog",
+      "name:en": "Chhuzanggang Gewog",
+      "name:zh": "楚藏冈格窝",
+      "boundary": "administrative",
+      "way_area": "0.0018792",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12193046,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899609,-184629",
+    "name": "Tsakaling Gewog",
+    "local_name": "Tsakaling Gewog",
+    "name_en": "Tsakaling Gewog",
+    "all_tags": {
+      "name": "Tsakaling Gewog",
+      "name:en": "Tsakaling Gewog",
+      "name:zh": "Tsakaling格窝",
+      "boundary": "administrative",
+      "way_area": "0.00791575",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12182775,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899612,-184629",
+    "name": "Goenshari Gewog",
+    "local_name": "Goenshari Gewog",
+    "name_en": "Goenshari Gewog",
+    "all_tags": {
+      "name": "Goenshari Gewog",
+      "name:en": "Goenshari Gewog",
+      "name:zh": "Goenshari格窝",
+      "boundary": "administrative",
+      "way_area": "0.00788803",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12192347,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899619,-184629",
+    "name": "Draagteng Gewog",
+    "local_name": "Draagteng Gewog",
+    "name_en": "Draagteng Gewog",
+    "all_tags": {
+      "name": "Draagteng Gewog",
+      "name:en": "Draagteng Gewog",
+      "name:zh": "Draagteng格窝",
+      "boundary": "administrative",
+      "way_area": "0.00776291",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12188746,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899615,-184629",
+    "name": "Serzhong Gewog",
+    "local_name": "Serzhong Gewog",
+    "name_en": "Serzhong Gewog",
+    "all_tags": {
+      "name": "Serzhong Gewog",
+      "name:en": "Serzhong Gewog",
+      "name:zh": "瑟宗格窝",
+      "boundary": "administrative",
+      "way_area": "0.00714523",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12098113,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899611,-184629",
+    "name": "Nanong Gewog",
+    "local_name": "Nanong Gewog",
+    "name_en": "Nanong Gewog",
+    "all_tags": {
+      "name": "Nanong Gewog",
+      "name:en": "Nanong Gewog",
+      "name:zh": "Nanong 格窝",
+      "boundary": "administrative",
+      "way_area": "0.00733549",
+      "wikidata": "Q6964086",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12097702,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899613,-184629",
+    "name": "Wangphu Gewog",
+    "local_name": "Wangphu Gewog",
+    "name_en": "Wangphu Gewog",
+    "all_tags": {
+      "name": "Wangphu Gewog",
+      "name:en": "Wangphu Gewog",
+      "name:zh": "Wangphu 格窝",
+      "boundary": "administrative",
+      "way_area": "0.00731398",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12097699,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899613,-184629",
+    "name": "Pemathang Gewog",
+    "local_name": "Pemathang Gewog",
+    "name_en": "Pemathang Gewog",
+    "all_tags": {
+      "name": "Pemathang Gewog",
+      "name:en": "Pemathang Gewog",
+      "name:zh": "Pemathang 格窝",
+      "boundary": "administrative",
+      "way_area": "0.00730429",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12171657,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899610,-184629",
+    "name": "Sharpa Gewog",
+    "local_name": "Sharpa Gewog",
+    "name_en": "Sharpa Gewog",
+    "all_tags": {
+      "name": "Sharpa Gewog",
+      "name:en": "Sharpa Gewog",
+      "name:zh": "Sharpa格窝",
+      "boundary": "administrative",
+      "way_area": "0.00729781",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12097701,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899613,-184629",
+    "name": "Gomdar Gewog",
+    "local_name": "Gomdar Gewog",
+    "name_en": "Gomdar Gewog",
+    "all_tags": {
+      "name": "Gomdar Gewog",
+      "name:en": "Gomdar Gewog",
+      "name:zh": "Gomdar 格窝",
+      "boundary": "administrative",
+      "way_area": "0.00727842",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12171656,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899610,-184629",
+    "name": "Loong-nyi Gewog",
+    "local_name": "Loong-nyi Gewog",
+    "name_en": "Loong-nyi Gewog",
+    "all_tags": {
+      "name": "Loong-nyi Gewog",
+      "name:en": "Loong-nyi Gewog",
+      "name:zh": "Loong-nyi格窝",
+      "boundary": "administrative",
+      "way_area": "0.00690987",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12100848,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899617,-184629",
+    "name": "Yangnyer Gewog",
+    "local_name": "Yangnyer Gewog",
+    "name_en": "Yangnyer Gewog",
+    "all_tags": {
+      "name": "Yangnyer Gewog",
+      "name:en": "Yangnyer Gewog",
+      "name:zh": "Yangnyer 格窝",
+      "boundary": "administrative",
+      "way_area": "0.00685965",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8317210,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899603,-184629",
+    "name": "Samphelling Gewog",
+    "local_name": "བསམ་འཕེལ་གླིང་ Samphelling Gewog",
+    "name_en": "Samphelling Gewog",
+    "all_tags": {
+      "name": "བསམ་འཕེལ་གླིང་ Samphelling Gewog",
+      "name:dz": "བསམ་འཕེལ་གླིང་",
+      "name:en": "Samphelling Gewog",
+      "name:zh": "Samphelling格窝",
+      "boundary": "administrative",
+      "way_area": "0.00685583",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12193054,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899609,-184629",
+    "name": "Monggar Gewog",
+    "local_name": "Monggar Gewog",
+    "name_en": "Monggar Gewog",
+    "all_tags": {
+      "name": "Monggar Gewog",
+      "name:en": "Monggar Gewog",
+      "name:zh": "Monggar格窝",
+      "boundary": "administrative",
+      "way_area": "0.00677292",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12193048,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899609,-184629",
+    "name": "Ngatshang Gewog",
+    "local_name": "Ngatshang Gewog",
+    "name_en": "Ngatshang Gewog",
+    "all_tags": {
+      "name": "Ngatshang Gewog",
+      "name:en": "Ngatshang Gewog",
+      "name:zh": "Ngatshang格窝",
+      "boundary": "administrative",
+      "way_area": "0.00655792",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8317336,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899603,-184629",
+    "name": "Loggchina Gewog",
+    "local_name": "ལོག་ཅི་ན་ Loggchina Gewog",
+    "name_en": "Loggchina Gewog",
+    "all_tags": {
+      "name": "ལོག་ཅི་ན་ Loggchina Gewog",
+      "name:dz": "ལོག་ཅི་ན་",
+      "name:en": "Loggchina Gewog",
+      "name:zh": "Loggchina格窝",
+      "boundary": "administrative",
+      "way_area": "0.00652589",
+      "wikidata": "Q6667327",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12171659,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899610,-184629",
+    "name": "Hoongrel Gewog",
+    "local_name": "Hoongrel Gewog",
+    "name_en": "Hoongrel Gewog",
+    "all_tags": {
+      "name": "Hoongrel Gewog",
+      "name:en": "Hoongrel Gewog",
+      "name:zh": "Hoongrel格窝",
+      "boundary": "administrative",
+      "way_area": "0.000967708",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12192243,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899620,-184629",
+    "name": "Gosarling Gewog",
+    "local_name": "Gosarling Gewog",
+    "name_en": "Gosarling Gewog",
+    "all_tags": {
+      "name": "Gosarling Gewog",
+      "name:en": "Gosarling Gewog",
+      "name:zh": "哥瑟林格窝",
+      "boundary": "administrative",
+      "way_area": "0.000912854",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -3899615,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-184629",
+    "name": "Sarpang District",
+    "local_name": "གསར་སྤང་རྫོང་ཁག་",
+    "name_en": "Sarpang District",
+    "all_tags": {
+      "name": "གསར་སྤང་རྫོང་ཁག་",
+      "name:de": "Sarpang",
+      "name:en": "Sarpang District",
+      "name:es": "Distrito de Sarpang",
+      "name:fr": "Sarpang",
+      "name:ja": "サルパン",
+      "name:zh": "盖莱普宗",
+      "boundary": "administrative",
+      "way_area": "0.150806",
+      "wikidata": "Q728947",
+      "ISO3166-2": "BT-31",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -3899613,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-184629",
+    "name": "Samdrup Jongkhar District",
+    "local_name": "བསམ་གྲུབ་ལྗོངས་མཁར་རྫོང་ཁག་",
+    "name_en": "Samdrup Jongkhar District",
+    "all_tags": {
+      "name": "བསམ་གྲུབ་ལྗོངས་མཁར་རྫོང་ཁག་",
+      "name:de": "Samdrup Jongkhar",
+      "name:en": "Samdrup Jongkhar District",
+      "name:es": "Distrito de Samdrup Jongkhar",
+      "name:fr": "Samdrup Jongkhar",
+      "name:ja": "サムドラップ・ジョンカー",
+      "name:ru": "Самдруп-Джонгхар",
+      "name:zh": "萨姆德鲁琼卡尔宗",
+      "boundary": "administrative",
+      "way_area": "0.169521",
+      "wikidata": "Q728929",
+      "ISO3166-2": "BT-45",
+      "admin_level": "4"
+    }
+  },
+  {
+    "osm_id": -12183117,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899621,-184629",
+    "name": "Nahi Gewog",
+    "local_name": "Nahi Gewog",
+    "name_en": "Nahi Gewog",
+    "all_tags": {
+      "name": "Nahi Gewog",
+      "name:en": "Nahi Gewog",
+      "name:zh": "Nahi格窝",
+      "boundary": "administrative",
+      "way_area": "0.00618706",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12193056,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899609,-184629",
+    "name": "Thang-Rong Gweog",
+    "local_name": "Thang-Rong Gweog",
+    "name_en": "Thang-Rong Gweog",
+    "all_tags": {
+      "name": "Thang-Rong Gweog",
+      "name:en": "Thang-Rong Gweog",
+      "name:zh": "Thang-Rong格窝",
+      "boundary": "administrative",
+      "way_area": "0.0062422",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12098114,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899611,-184629",
+    "name": "Zobel Gewog",
+    "local_name": "Zobel Gewog",
+    "name_en": "Zobel Gewog",
+    "all_tags": {
+      "name": "Zobel Gewog",
+      "name:en": "Zobel Gewog",
+      "name:zh": "Zobel 格窝",
+      "boundary": "administrative",
+      "way_area": "0.00611037",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12100849,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899617,-184629",
+    "name": "Kanglung Gewog",
+    "local_name": "Kanglung Gewog",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kanglung Gewog",
+      "boundary": "administrative",
+      "way_area": "0.00602262",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13426263,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899618,-184629",
+    "name": "Tongmizhangsa Gewog",
+    "local_name": "Tongmizhangsa Gewog",
+    "name_en": null,
+    "all_tags": {
+      "name": "Tongmizhangsa Gewog",
+      "boundary": "administrative",
+      "way_area": "0.00591594",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8310890,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899607,-184629",
+    "name": "Uesu Gewog",
+    "local_name": "དབུས་སུ་ Uesu Gewog",
+    "name_en": "Uesu Gewog",
+    "all_tags": {
+      "name": "དབུས་སུ་ Uesu Gewog",
+      "name:dz": "དབུས་སུ་",
+      "name:en": "Uesu Gewog",
+      "name:zh": "Uesu格窝",
+      "boundary": "administrative",
+      "way_area": "0.0058786",
+      "wikidata": "Q7877475",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12182778,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899612,-184629",
+    "name": "Shelnga-Bjemi Gewog",
+    "local_name": "Shelnga-Bjemi Gewog",
+    "name_en": "Shelnga-Bjemi Gewog",
+    "all_tags": {
+      "name": "Shelnga-Bjemi Gewog",
+      "name:en": "Shelnga-Bjemi Gewog",
+      "name:zh": "Shelnga-Bjemi格窝",
+      "boundary": "administrative",
+      "way_area": "0.00580943",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12171909,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899616,-184629",
+    "name": "Ge-Nyen Gewog",
+    "local_name": "Ge-Nyen Gewog",
+    "name_en": "Ge-Nyen Gewog",
+    "all_tags": {
+      "name": "Ge-Nyen Gewog",
+      "name:en": "Ge-Nyen Gewog",
+      "name:zh": "Ge-nyen格窝",
+      "boundary": "administrative",
+      "way_area": "0.00551702",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12099785,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899611,-184629",
+    "name": "Chhimoong Gewog",
+    "local_name": "Chhimoong Gewog",
+    "name_en": "Chhimoong Gewog",
+    "all_tags": {
+      "name": "Chhimoong Gewog",
+      "name:en": "Chhimoong Gewog",
+      "name:zh": "Chhimoong 格窝",
+      "boundary": "administrative",
+      "way_area": "0.00484156",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12188003,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899605,-184629",
+    "name": "Drukjeygang Gewog",
+    "local_name": "Drukjeygang Gewog",
+    "name_en": "Drukjeygang Gewog",
+    "all_tags": {
+      "name": "Drukjeygang Gewog",
+      "name:en": "Drukjeygang Gewog",
+      "name:zh": "Drukjeygang格窝",
+      "alt_name": "Drukjegang Gewog",
+      "boundary": "administrative",
+      "way_area": "0.00524635",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12097695,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899613,-184629",
+    "name": "Samrang Gewog",
+    "local_name": "Samrang Gewog",
+    "name_en": "Samrang Gewog",
+    "all_tags": {
+      "name": "Samrang Gewog",
+      "name:en": "Samrang Gewog",
+      "name:zh": "Samrang 格窝",
+      "boundary": "administrative",
+      "way_area": "0.00481302",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12193058,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899609,-184629",
+    "name": "Jurmed Gewog",
+    "local_name": "Jurmed Gewog",
+    "name_en": "Jurmed Gewog",
+    "all_tags": {
+      "name": "Jurmed Gewog",
+      "name:en": "Jurmed Gewog",
+      "name:zh": "Jurmed格窝",
+      "boundary": "administrative",
+      "way_area": "0.00512482",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12193053,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899609,-184629",
+    "name": "Chagsakhar Gewog",
+    "local_name": "Chagsakhar Gewog",
+    "name_en": "Chagsakhar Gewog",
+    "all_tags": {
+      "name": "Chagsakhar Gewog",
+      "name:en": "Chagsakhar Gewog",
+      "name:zh": "Chagsakhar格窝",
+      "boundary": "administrative",
+      "way_area": "0.00476965",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12100844,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899617,-184629",
+    "name": "Thrimshing Gewog",
+    "local_name": "Thrimshing Gewog",
+    "name_en": "Thrimshing Gewog",
+    "all_tags": {
+      "name": "Thrimshing Gewog",
+      "name:en": "Thrimshing Gewog",
+      "name:zh": "Thrimshing 格窝",
+      "boundary": "administrative",
+      "way_area": "0.00496315",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12188745,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899615,-184629",
+    "name": "Gelegphu Gewog",
+    "local_name": "Gelegphu Gewog",
+    "name_en": "Gelegphu Gewog",
+    "all_tags": {
+      "name": "Gelegphu Gewog",
+      "name:en": "Gelegphu Gewog",
+      "name:zh": "盖莱普格窝",
+      "boundary": "administrative",
+      "way_area": "0.00495779",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13456095,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899615,-184629",
+    "name": "Samtenling Gewog",
+    "local_name": "Samtenling Gewog",
+    "name_en": null,
+    "all_tags": {
+      "name": "Samtenling Gewog",
+      "boundary": "administrative",
+      "way_area": "0.00495073",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13424990,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899618,-184629",
+    "name": "Jamkhar Gewog",
+    "local_name": "Jamkhar Gewog",
+    "name_en": null,
+    "all_tags": {
+      "name": "Jamkhar Gewog",
+      "boundary": "administrative",
+      "way_area": "0.00469484",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12165768,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899614,-184629",
+    "name": "Pemaling Gewog",
+    "local_name": "Pemaling Gewog",
+    "name_en": "Pemaling Gewog",
+    "all_tags": {
+      "name": "Pemaling Gewog",
+      "name:en": "Pemaling Gewog",
+      "name:zh": "Pemaling格窝",
+      "boundary": "administrative",
+      "way_area": "0.00461198",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12193050,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899609,-184629",
+    "name": "Dramedtse Gewog",
+    "local_name": "Dramedtse Gewog",
+    "name_en": "Dramedtse Gewog",
+    "all_tags": {
+      "name": "Dramedtse Gewog",
+      "name:en": "Dramedtse Gewog",
+      "name:zh": "Dramedtse格窝",
+      "boundary": "administrative",
+      "way_area": "0.00459656",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12193055,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899609,-184629",
+    "name": "Drepoong Gewog",
+    "local_name": "Drepoong Gewog",
+    "name_en": "Drepoong Gewog",
+    "all_tags": {
+      "name": "Drepoong Gewog",
+      "name:en": "Drepoong Gewog",
+      "name:zh": "Drepoong格窝",
+      "boundary": "administrative",
+      "way_area": "0.00458014",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12171655,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899610,-184629",
+    "name": "Lamgong Gewog",
+    "local_name": "Lamgong Gewog",
+    "name_en": "Lamgong Gewog",
+    "all_tags": {
+      "name": "Lamgong Gewog",
+      "name:en": "Lamgong Gewog",
+      "name:zh": "Lamgong格窝",
+      "boundary": "administrative",
+      "way_area": "0.00452495",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13425227,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899618,-184629",
+    "name": "Toedtsho Gewog",
+    "local_name": "Toedtsho Gewog",
+    "name_en": null,
+    "all_tags": {
+      "name": "Toedtsho Gewog",
+      "boundary": "administrative",
+      "way_area": "0.00442856",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12165773,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899614,-184629",
+    "name": "Doomtoed Gewog",
+    "local_name": "Doomtoed Gewog",
+    "name_en": "Doomtoed Gewog",
+    "all_tags": {
+      "name": "Doomtoed Gewog",
+      "name:en": "Doomtoed Gewog",
+      "name:zh": "Doomtoed格窝",
+      "alt_name": "Doongtoed Gewog",
+      "boundary": "administrative",
+      "way_area": "0.00433899",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12101124,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899617,-184629",
+    "name": "Bidoong Gewog",
+    "local_name": "Bidoong Gewog",
+    "name_en": "Bidoong Gewog",
+    "all_tags": {
+      "name": "Bidoong Gewog",
+      "name:en": "Bidoong Gewog",
+      "name:zh": "Bidoong 格窝",
+      "boundary": "administrative",
+      "way_area": "0.00416465",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12192246,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899620,-184629",
+    "name": "Doonglagang Gewog",
+    "local_name": "Doonglagang Gewog",
+    "name_en": "Doonglagang Gewog",
+    "all_tags": {
+      "name": "Doonglagang Gewog",
+      "name:en": "Doonglagang Gewog",
+      "name:zh": "敦叻冈格窝",
+      "boundary": "administrative",
+      "way_area": "0.00415911",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13423708,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899618,-184629",
+    "name": "Kamdang Gewog",
+    "local_name": "Kamdang Gewog",
+    "name_en": null,
+    "all_tags": {
+      "name": "Kamdang Gewog",
+      "boundary": "administrative",
+      "way_area": "0.00415078",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -8310892,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899607,-184629",
+    "name": "Katsho Gewog",
+    "local_name": "སྐར་ཚོགས་ Katsho Gewog",
+    "name_en": "Katsho Gewog",
+    "all_tags": {
+      "name": "སྐར་ཚོགས་ Katsho Gewog",
+      "name:dz": "སྐར་ཚོགས་",
+      "name:en": "Katsho Gewog",
+      "name:zh": "Katsho格窝",
+      "boundary": "administrative",
+      "way_area": "0.00391529",
+      "wikidata": "Q6378025",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12188007,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899605,-184629",
+    "name": "Tashiding Gewog",
+    "local_name": "Tashiding Gewog",
+    "name_en": "Tashiding Gewog",
+    "all_tags": {
+      "name": "Tashiding Gewog",
+      "name:en": "Tashiding Gewog",
+      "name:zh": "Tashiding格窝",
+      "boundary": "administrative",
+      "way_area": "0.00353895",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12188010,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899605,-184629",
+    "name": "Gesarling Gewog",
+    "local_name": "Gesarling Gewog",
+    "name_en": "Gesarling Gewog",
+    "all_tags": {
+      "name": "Gesarling Gewog",
+      "name:en": "Gesarling Gewog",
+      "name:zh": "Gesarling格窝",
+      "boundary": "administrative",
+      "way_area": "0.00352337",
+      "wikidata": "Q5553558",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12165770,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899614,-184629",
+    "name": "Sang-Ngag-Chhoeling Gewog",
+    "local_name": "Sang-Ngag-Chhoeling Gewog",
+    "name_en": "Sang-Ngag-Chhoeling Gewog",
+    "all_tags": {
+      "name": "Sang-Ngag-Chhoeling Gewog",
+      "name:en": "Sang-Ngag-Chhoeling Gewog",
+      "name:zh": "Sang-Ngag-Chhoeling格窝",
+      "boundary": "administrative",
+      "way_area": "0.0034945",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12188004,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899605,-184629",
+    "name": "Tsangkha Gewog",
+    "local_name": "གཙང་ཁ། Tsangkha Gewog",
+    "name_en": "Tsangkha Gewog",
+    "all_tags": {
+      "name": "གཙང་ཁ། Tsangkha Gewog",
+      "name:en": "Tsangkha Gewog",
+      "name:zh": "Tsangkha格窝",
+      "boundary": "administrative",
+      "way_area": "0.00335169",
+      "wikidata": "Q7849371",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12171658,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899610,-184629",
+    "name": "Dopshar-ri Gewog",
+    "local_name": "Dopshar-ri Gewog",
+    "name_en": "Dopshar-ri Gewog",
+    "all_tags": {
+      "name": "Dopshar-ri Gewog",
+      "name:en": "Dopshar-ri Gewog",
+      "name:zh": "Dopshar-ri格窝",
+      "boundary": "administrative",
+      "way_area": "0.00332425",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13410112,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899612,-184629",
+    "name": "Guma Gewog",
+    "local_name": "Guma Gewog",
+    "name_en": null,
+    "all_tags": {
+      "name": "Guma Gewog",
+      "boundary": "administrative",
+      "way_area": "0.00330154",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12183115,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899621,-184629",
+    "name": "Phangyuel Gewog",
+    "local_name": "Phangyuel Gewog",
+    "name_en": "Phangyuel Gewog",
+    "all_tags": {
+      "name": "Phangyuel Gewog",
+      "name:en": "Phangyuel Gewog",
+      "name:zh": "Phangyuel格窝",
+      "boundary": "administrative",
+      "way_area": "0.00292049",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12101123,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899617,-184629",
+    "name": "Bartsham Gewog",
+    "local_name": "Bartsham (བར་མཚམས།) Gewog",
+    "name_en": "Bartsham Gewog",
+    "all_tags": {
+      "name": "Bartsham (བར་མཚམས།) Gewog",
+      "name:en": "Bartsham Gewog",
+      "name:zh": "Bartsham 格窝",
+      "boundary": "administrative",
+      "way_area": "0.00314319",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12182770,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899612,-184629",
+    "name": "Lingmukha Gewog",
+    "local_name": "Lingmukha Gewog",
+    "name_en": "Lingmukha Gewog",
+    "all_tags": {
+      "name": "Lingmukha Gewog",
+      "name:en": "Lingmukha Gewog",
+      "name:zh": "Lingmukha格窝",
+      "boundary": "administrative",
+      "way_area": "0.00307864",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12099784,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899611,-184629",
+    "name": "Chongshing Gewog",
+    "local_name": "Chongshing Gewog",
+    "name_en": "Chongshing Gewog",
+    "all_tags": {
+      "name": "Chongshing Gewog",
+      "name:en": "Chongshing Gewog",
+      "name:zh": "Chongshing 格窝",
+      "boundary": "administrative",
+      "way_area": "0.0028945",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12192240,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899620,-184629",
+    "name": "Tsirang Toed Gewog",
+    "local_name": "Tsirang Toed Gewog",
+    "name_en": "Tsirang Toed Gewog",
+    "all_tags": {
+      "name": "Tsirang Toed Gewog",
+      "name:en": "Tsirang Toed Gewog",
+      "name:zh": "奇朗-丹哥拉格窝",
+      "boundary": "administrative",
+      "way_area": "0.00289257",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12193052,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899609,-184629",
+    "name": "Na-Rang Gewog",
+    "local_name": "ན་རང་། Na-Rang Gewog",
+    "name_en": "Na-Rang Gewog",
+    "all_tags": {
+      "name": "ན་རང་། Na-Rang Gewog",
+      "name:en": "Na-Rang Gewog",
+      "name:zh": "Na-Rang格窝",
+      "boundary": "administrative",
+      "way_area": "0.0026606",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -13405820,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899621,-184629",
+    "name": "Gase Tshogongm Gewog",
+    "local_name": "Gase Tshogongm Gewog",
+    "name_en": null,
+    "all_tags": {
+      "name": "Gase Tshogongm Gewog",
+      "boundary": "administrative",
+      "way_area": "0.00265904",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12099786,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899611,-184629",
+    "name": "Yurung Gewog",
+    "local_name": "Yurung Gewog",
+    "name_en": "Yurung Gewog",
+    "all_tags": {
+      "name": "Yurung Gewog",
+      "name:en": "Yurung Gewog",
+      "name:zh": "Yurung 格窝",
+      "boundary": "administrative",
+      "way_area": "0.0025515",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12193051,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899609,-184629",
+    "name": "Balam Gewog",
+    "local_name": "བ་ལམ། Balam Gewog",
+    "name_en": "Balam Gewog",
+    "all_tags": {
+      "name": "བ་ལམ། Balam Gewog",
+      "name:en": "Balam Gewog",
+      "name:zh": "Balam格窝",
+      "boundary": "administrative",
+      "way_area": "0.00252194",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12101126,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899617,-184629",
+    "name": "Radhi Gewog",
+    "local_name": "Radhi Gewog",
+    "name_en": "Radhi Gewog",
+    "all_tags": {
+      "name": "Radhi Gewog",
+      "name:en": "Radhi Gewog",
+      "name:zh": "Radhi 格窝",
+      "boundary": "administrative",
+      "way_area": "0.00251445",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12182769,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899612,-184629",
+    "name": "Barp Gewog",
+    "local_name": "Barp Gewog",
+    "name_en": "Barp Gewog",
+    "all_tags": {
+      "name": "Barp Gewog",
+      "name:en": "Barp Gewog",
+      "name:zh": "Barp格窝",
+      "boundary": "administrative",
+      "way_area": "0.00238434",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12165769,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899614,-184629",
+    "name": "Tashichhoeling Gewog",
+    "local_name": "Tashichhoeling Gewog",
+    "name_en": "Tashichhoeling Gewog",
+    "all_tags": {
+      "name": "Tashichhoeling Gewog",
+      "name:en": "Tashichhoeling Gewog",
+      "name:zh": "Tashichhoeling格窝",
+      "boundary": "administrative",
+      "way_area": "0.00232421",
+      "wikipedia": "en:Tashicholing Gewog",
+      "admin_level": "6",
+      "alt_name:en": "Tashicholing Gewog"
+    }
+  },
+  {
+    "osm_id": -12193047,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899609,-184629",
+    "name": "Chhaling Gewog",
+    "local_name": "Chhaling Gewog",
+    "name_en": "Chhaling Gewog",
+    "all_tags": {
+      "name": "Chhaling Gewog",
+      "name:en": "Chhaling Gewog",
+      "name:zh": "Chhaling格窝",
+      "boundary": "administrative",
+      "way_area": "0.00224349",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12182779,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899612,-184629",
+    "name": "Talog Gewog",
+    "local_name": "Talog Gewog",
+    "name_en": "Talog Gewog",
+    "all_tags": {
+      "name": "Talog Gewog",
+      "name:en": "Talog Gewog",
+      "name:zh": "Talog格窝",
+      "boundary": "administrative",
+      "way_area": "0.00217631",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12192249,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899620,-184629",
+    "name": "Rangthangling Gewog",
+    "local_name": "Rangthangling Gewog",
+    "name_en": "Rangthangling Gewog",
+    "all_tags": {
+      "name": "Rangthangling Gewog",
+      "name:en": "Rangthangling Gewog",
+      "name:zh": "查那武提格窝",
+      "boundary": "administrative",
+      "way_area": "0.00213546",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12165779,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899614,-184629",
+    "name": "Yoeseltse Gewog",
+    "local_name": "Yoeseltse Gewog",
+    "name_en": "Yoeseltse Gewog",
+    "all_tags": {
+      "name": "Yoeseltse Gewog",
+      "name:en": "Yoeseltse Gewog",
+      "name:zh": "Yoeseltse格窝",
+      "boundary": "administrative",
+      "way_area": "0.00205147",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12188743,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899615,-184629",
+    "name": "Shompangkha Gewog",
+    "local_name": "Shompangkha Gewog",
+    "name_en": "Shompangkha Gewog",
+    "all_tags": {
+      "name": "Shompangkha Gewog",
+      "name:en": "Shompangkha Gewog",
+      "name:zh": "盛邦卡格窝",
+      "boundary": "administrative",
+      "way_area": "0.00201615",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12188011,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899605,-184629",
+    "name": "Gozhi Gewog",
+    "local_name": "Gozhi Gewog",
+    "name_en": "Gozhi Gewog",
+    "all_tags": {
+      "name": "Gozhi Gewog",
+      "name:en": "Gozhi Gewog",
+      "name:zh": "Gozhi格窝",
+      "boundary": "administrative",
+      "way_area": "0.00201229",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12182777,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899612,-184629",
+    "name": "Dzomi Gewog",
+    "local_name": "Dzomi Gewog",
+    "name_en": "Dzomi Gewog",
+    "all_tags": {
+      "name": "Dzomi Gewog",
+      "name:en": "Dzomi Gewog",
+      "name:zh": "Dzomi格窝",
+      "boundary": "administrative",
+      "way_area": "0.00200086",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -12100841,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899617,-184629",
+    "name": "Sagteng Gewog",
+    "local_name": "Sagteng Gewog",
+    "name_en": "Sagteng Gewog",
+    "all_tags": {
+      "name": "Sagteng Gewog",
+      "name:en": "Sagteng Gewog",
+      "name:zh": "萨丁格窝",
+      "boundary": "administrative",
+      "way_area": "0.0409013",
+      "admin_level": "6",
+      "alt_name:zh": "萨丁乡"
+    }
+  },
+  {
+    "osm_id": -12171906,
+    "boundary": "administrative",
+    "admin_level": 6,
+    "parents": "-3899616,-184629",
+    "name": "Kawang Gewog",
+    "local_name": "Kawang Gewog",
+    "name_en": "Kawang Gewog",
+    "all_tags": {
+      "name": "Kawang Gewog",
+      "name:en": "Kawang Gewog",
+      "name:zh": "Kawang格窝",
+      "boundary": "administrative",
+      "way_area": "0.0269903",
+      "admin_level": "6"
+    }
+  },
+  {
+    "osm_id": -9330372,
+    "boundary": "administrative",
+    "admin_level": 5,
+    "parents": "-3899616,-184629",
+    "name": "Thimphu",
+    "local_name": "ཐིམ་ཕུ",
+    "name_en": "Thimphu",
+    "all_tags": {
+      "name": "ཐིམ་ཕུ",
+      "name:be": "Тхімпху",
+      "name:cs": "Thimbú",
+      "name:en": "Thimphu",
+      "boundary": "administrative",
+      "way_area": "0.00242435",
+      "admin_level": "5"
+    }
+  },
+  {
+    "osm_id": -3899620,
+    "boundary": "administrative",
+    "admin_level": 4,
+    "parents": "-184629",
+    "name": "Tsirang District",
+    "local_name": "རྩི་རང་རྫོང་ཁག་",
+    "name_en": "Tsirang District",
+    "all_tags": {
+      "name": "རྩི་རང་རྫོང་ཁག་",
+      "name:cs": "okres Tsirang",
+      "name:de": "Tsirang",
+      "name:en": "Tsirang District",
+      "name:es": "Distrito de Tsirang",
+      "name:fr": "Tsirang",
+      "name:ja": "チラン",
+      "name:zh": "奇朗宗",
+      "alt_name": "Chirang Dzongkhag",
+      "boundary": "administrative",
+      "loc_name": "རྩི་རང་",
+      "way_area": "0.058076",
+      "wikidata": "Q728922",
+      "ISO3166-2": "BT-21",
+      "admin_level": "4",
+      "sorting_name:cs": "Tsirang"
+    }
+  }
+]

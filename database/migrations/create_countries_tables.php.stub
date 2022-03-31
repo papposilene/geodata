@@ -53,6 +53,29 @@ return new class extends Migration
             $table->foreign('subcontinent_slug')->references('slug')->on('geodata__subcontinents');
         });
 
+        Schema::create('geodata__regions', function (Blueprint $table) {
+            $table->uuid()->primary();
+            // Country identifiers
+            $table->string('country_cca2', 2);
+            $table->string('country_cca3', 3);
+            // Region identifiers
+            $table->string('region_cca2', 6);
+            // OpenStreetMap ID
+            $table->bigInteger('osm_place_id', false)->nullable();
+            $table->integer('admin_level', false);
+            // Name, common and formal, in english
+            $table->string('name_loc', 255);
+            $table->string('name_eng', 255);
+            $table->json('name_translations');
+            $table->json('extra')->nullable();
+            // Internal data
+            $table->timestamps();
+            $table->softDeletes();
+
+            $table->foreign('country_cca2')->references('cca2')->on('geodata__countries');
+            $table->foreign('country_cca3')->references('cca3')->on('geodata__countries');
+        });
+
         Schema::create('geodata__cities', function (Blueprint $table) {
             $table->uuid()->primary();
             // Administrative layers
