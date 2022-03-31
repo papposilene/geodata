@@ -5,6 +5,7 @@ namespace Database\Seeders;
 use Illuminate\Database\Seeder;
 use Illuminate\Support\Facades\DB;
 use Illuminate\Support\Facades\File;
+use Illuminate\Support\Str;
 use Papposilene\Geodata\Models\City;
 use Papposilene\Geodata\Models\Country;
 use Papposilene\Geodata\Models\Region;
@@ -24,13 +25,15 @@ class CitiesSeeder extends Seeder
         foreach (glob(storage_path('data/geodata/cities/*.json')) as $filename) {
             $file = File::get($filename);
             $name = File::name($filename);
-            $json = json_decode($file);
+            $json = json_decode($file, true);
 
             $country = Country::where('cca2', strtolower(Str::substr($name, 0, 2)))->first();
 
             foreach ($json as $data) {
-                $region = Region::whereIn('osm_place_id', $data['parents'])
+                $region = Region::whereIn('osm_place_id', explode(',', $data['parents']))
                     ->orderBy('admin_level', 'desc')->first();
+
+                if(is_null($region)) { continue; }
 
                 $translations = [];
                 $getNames = $data['all_tags'];
@@ -47,13 +50,11 @@ class CitiesSeeder extends Seeder
                     'region_uuid' => (!empty($region) ? $region->uuid : null),
                     'osm_place_id' => intval($data['osm_id']),
                     'admin_level' => intval($data['admin_level']),
-                    'type' => (!is_null($data['boundary']) ? $data['boundary'] : $data['unknown']),
-                    'lat' => (float) $data->latitude,
-                    'lon' => (float) $data->longitude,
-                    'postcodes' => $data['all_tags']['postal_code'],
+                    'type' => (!is_null($data['boundary']) ? Str::slug($data['boundary'], '_') : $data['unknown']),
                     'name_loc' => $data['local_name'],
                     'name_eng' => (!is_null($data['name_en']) ? $data['name_en'] : $data['name']),
                     'name_translations' => json_encode($translations, JSON_FORCE_OBJECT),
+                    'postcodes' => (array_key_exists('postal_code', $data['all_tags']) ? $data['all_tags']['postal_code'] : null),
                     'extra' => [
                         'wikidata' => (array_key_exists('wikidata', $data['all_tags']) ? $data['all_tags']['wikidata'] : null),
                     ],

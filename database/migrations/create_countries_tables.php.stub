@@ -82,14 +82,15 @@ return new class extends Migration
             // Administrative layers
             $table->string('country_cca3', 3);
             $table->uuid('region_uuid')->nullable();
-            // City data
+            // OpenStreetMap ID
+            $table->bigInteger('osm_place_id', false)->nullable();
             $table->integer('admin_level', false);
             $table->string('type', 255)->nullable();
-            $table->string('name', 255);
-            $table->decimal('lat', 20, 16)->nullable();
-            $table->decimal('lon', 20, 16)->nullable();
+            $table->string('name_loc', 255);
+            $table->string('name_eng', 255);
             // Extra data in JSON
-            $table->json('postcodes')->nullable();
+            $table->json('name_translations');
+            $table->string('postcodes', 20)->nullable();
             $table->json('extra')->nullable();
             // Internal data
             $table->timestamps();

@@ -45,7 +45,7 @@ class RegionsSeeder extends Seeder
                     'region_cca2' => (array_key_exists('ISO3166-2', $data['all_tags']) ? $data['all_tags']['ISO3166-2'] : null),
                     'osm_place_id' => intval($data['osm_id']),
                     'admin_level' => intval($data['admin_level']),
-                    'type' => (!is_null($data['boundary']) ? $data['boundary'] : $data['unknown']),
+                    'type' => (!is_null($data['boundary']) ? Str::slug($data['boundary'], '_') : $data['unknown']),
                     'name_loc' => $data['local_name'],
                     'name_eng' => (!is_null($data['name_en']) ? $data['name_en'] : $data['name']),
                     'name_translations' => json_encode($translations, JSON_FORCE_OBJECT),
