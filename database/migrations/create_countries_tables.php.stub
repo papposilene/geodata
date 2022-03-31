@@ -90,7 +90,7 @@ return new class extends Migration
             $table->string('name_eng', 255);
             // Extra data in JSON
             $table->json('name_translations');
-            $table->string('postcodes', 10)->nullable();
+            $table->string('postcodes', 20)->nullable();
             $table->json('extra')->nullable();
             // Internal data
             $table->timestamps();
