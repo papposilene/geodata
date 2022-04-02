@@ -1,6 +1,33 @@
 # Geodata
 
-[geodata](https://github.com/papposilene/geodata) is a package that offers data about continents, countries, geolocation data.
+[geodata](https://github.com/papposilene/geodata) is a package that offers data about continents, countries, regions and cities.
+
+## Config folder
+The `config` folder contains a config file for Laravel.
+
+## Data Folder
+The `data` folder contains all the JSON files, with `countries`, `administrative-levels` (from 4 to 6), `cities`, `currencies`.
+A last folder, `flags`, contains the SVG-version of countries' flags. 
+
+## Database folder
+The `database` folder contains a `migrations` and a `seeders` folders. 
+The `migrations` one has the directives for creating some databases : 
+- `geodata__continents` ;
+- `geodata__subcontients` ;
+- `geodata__countries` ;
+- `geodata__regions` ;
+- `geodata__cities`.
+
+The `seeders` files will hydrate the databases :
+- `geodata__continents`: 6 rows ;
+- `geodata__subcontients`: 23 rows ;
+- `geodata__countries`: 250 rows ;
+- `geodata__regions`: 44,524 rows ;
+- `geodata__cities`: still counting...
+
+All data folders, except the `countries` one, has its files subdivided by country. 
+
+Obviously, you are totally free to install and hydrate the databases and their data you need for your own project. :)
 
 ## Installation
 
