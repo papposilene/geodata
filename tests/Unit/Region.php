@@ -9,7 +9,7 @@ class Region extends \Papposilene\Geodata\Models\Continent
         'country_cca2',
         'country_cca3',
         'region_cca2',
-        'osm_place_id',
+        'osm_id',
         'admin_level',
         'type',
         'name_loc',
