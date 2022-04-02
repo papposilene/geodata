@@ -27,6 +27,7 @@ class City extends Model
      */
     protected $casts = [
         //'uuid' => 'uuid',
+        'osm_parents' => 'array',
         'extra' => 'array',
     ];
 
@@ -52,6 +53,7 @@ class City extends Model
         'region_uuid',
         'osm_id',
         'osm_admin_level',
+        'osm_parents',
         'osm_type',
         'state',
         'name',
@@ -72,6 +74,7 @@ class City extends Model
         'region_uuid',
         'osm_id',
         'osm_admin_level',
+        'osm_parents',
         'osm_type',
         'state',
         'name',
