@@ -22,7 +22,7 @@ class CitiesSeeder extends Seeder
         // Drop the tables
         DB::table('geodata__cities')->delete();
 
-        foreach (glob(storage_path('data/geodata/cities/*.json')) as $filename) {
+        foreach (glob(storage_path('data/geodata/cities/bg.json')) as $filename) {
             $file = File::get($filename);
             $name = File::name($filename);
             $json = json_decode($file, true);
@@ -58,7 +58,8 @@ class CitiesSeeder extends Seeder
                 }, ARRAY_FILTER_USE_KEY);
                 foreach($getFiltered as $key => $value) {
                     $lang = explode(':', $key);
-                    $translations = [$lang[1] => $value];
+                    if (Str::contains($lang[1], ['prefix', 'suffix'])) { continue; }
+                    $translations[$lang[1]] = $value;
                 }
 
                 City::create([
