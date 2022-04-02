@@ -30,7 +30,7 @@ class CitiesSeeder extends Seeder
             $country = Country::where('cca2', strtolower(Str::substr($name, 0, 2)))->first();
 
             foreach ($json as $data) {
-                $region = Region::whereIn('osm_place_id', explode(',', $data['parents']))
+                $region = Region::whereIn('osm_id', explode(',', $data['parents']))
                     ->orderBy('admin_level', 'desc')->first();
 
                 if(is_null($region)) { continue; }
@@ -48,9 +48,9 @@ class CitiesSeeder extends Seeder
                 City::create([
                     'country_cca3' => $country->cca3,
                     'region_uuid' => (!empty($region) ? $region->uuid : null),
-                    'osm_place_id' => intval($data['osm_id']),
-                    'admin_level' => intval($data['admin_level']),
-                    'type' => (!is_null($data['boundary']) ? Str::slug($data['boundary'], '_') : $data['unknown']),
+                    'osm_id' => intval($data['osm_id']),
+                    'osm_admin_level' => intval($data['admin_level']),
+                    'osm_type' => (!is_null($data['boundary']) ? Str::slug($data['boundary'], '_') : null),
                     'name_loc' => $data['local_name'],
                     'name_eng' => (!is_null($data['name_en']) ? $data['name_en'] : $data['name']),
                     'name_translations' => json_encode($translations, JSON_FORCE_OBJECT),

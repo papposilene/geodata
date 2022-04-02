@@ -237,7 +237,7 @@ abstract class TestCase extends Orchestra
             'country_cca2' => $this->testCountry->cca2,
             'country_cca3' => $this->testCountry->cca3,
             'region_cca2' => 'FR-IDF',
-            'osm_place_id' => -8649,
+            'osm_id' => -8649,
             'admin_level' => 4,
             'boundary' => 'administrative',
             'name_loc' => 'Île-de-France',
@@ -256,6 +256,10 @@ abstract class TestCase extends Orchestra
 
         DB::table('geodata__cities')->insert([
             'country_cca3' => $this->testCountry->cca3,
+            'region_uuid' => $this->testRegion->uuid,
+            'osm_id' => 20727,
+            'osm_admin_level' => 9,
+            'osm_type' => 'administrative',
             'state' => '\u00c3\u008ele-de-France',
             'name' => 'Paris',
             'lat' => 48.86669293120,

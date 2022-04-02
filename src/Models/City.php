@@ -49,6 +49,10 @@ class City extends Model
      */
     protected $fillable = [
         'country_cca3',
+        'region_uuid',
+        'osm_id',
+        'osm_admin_level',
+        'osm_type',
         'state',
         'name',
         'lat',
@@ -65,6 +69,10 @@ class City extends Model
     protected $visible = [
         'uuid',
         'country_cca3',
+        'region_uuid',
+        'osm_id',
+        'osm_admin_level',
+        'osm_type',
         'state',
         'name',
         'lat',
@@ -101,6 +109,20 @@ class City extends Model
             Country::class,
             'country_cca3',
             'cca3'
+        );
+    }
+
+    /**
+     * A city belongs to one region.
+     *
+     * @return \Illuminate\Database\Eloquent\Relations\BelongsTo
+     */
+    public function belongsToRegion(): BelongsTo
+    {
+        return $this->belongsTo(
+            Region::class,
+            'region_uuid',
+            'uuid'
         );
     }
 
