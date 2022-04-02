@@ -47,10 +47,12 @@ class CitiesSeeder extends Seeder
                     }
                 }
 
+                // Find the region of the city
                 $region = Region::whereIn('osm_id', $cleanParents)
                     ->orderBy('osm_admin_level', 'desc')->first();
                 if(is_null($region)) { continue; }
 
+                // Names' translations
                 $translations = [];
                 $getNames = $data['all_tags'];
                 $getFiltered = array_filter($getNames, function($key) {
@@ -58,7 +60,8 @@ class CitiesSeeder extends Seeder
                 }, ARRAY_FILTER_USE_KEY);
                 foreach($getFiltered as $key => $value) {
                     $lang = explode(':', $key);
-                    $translations = [$lang[1] => $value];
+                    if (Str::contains($lang[1], ['prefix', 'suffix'])) { continue; }
+                    $translations[$lang[1]] = $value;
                 }
 
                 City::create([
