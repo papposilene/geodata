@@ -28,6 +28,7 @@ class City extends Model
     protected $casts = [
         //'uuid' => 'uuid',
         'osm_parents' => 'array',
+        'postcodes' => 'array',
         'extra' => 'array',
     ];
 
