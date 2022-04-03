@@ -71,8 +71,7 @@ class CitiesSeeder extends Seeder
                     'osm_admin_level' => intval($data['admin_level']),
                     'osm_parents' => $cleanParents,
                     'osm_type' => (!is_null($data['boundary']) ? Str::slug($data['boundary'], '_') : null),
-                    'name_loc' => $data['local_name'],
-                    'name_eng' => (!is_null($data['name_en']) ? $data['name_en'] : $data['name']),
+                    'name_local' => $data['local_name'],
                     'name_translations' => json_encode($translations, JSON_FORCE_OBJECT),
                     'postcodes' => $cleanPostcodes,
                     'extra' => [
