@@ -1,19 +1,56 @@
-# Folders
-/.github
+# Folders & directories #
+######################
 /.idea
 /.vscode
-/cache
-/coverage
-/logs
-/npm_modules
-/src/data/tmp
-/src/data/third-party/
-/storage
-/tmp
+/node_modules
 /vendor
 
-# Files
-*.cache
+# Dev files #
+######################
+.env
+.env.backup
+.phpunit.result.cache
+docker-compose.override.yml
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+
+# OS generated files #
+######################
 .DS_Store
-composer.phar
-composer.lock
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs and databases #
+######################
+**/adminer
+*.log
+*.sql
+*.sqlite
+
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Packages #
+############
+# it's better to unpack these files and commit the raw source
+# git has its own built in compression methods
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
