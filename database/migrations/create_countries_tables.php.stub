@@ -1,115 +1,51 @@
 <?php
 
-use Illuminate\Support\Facades\Schema;
-use Illuminate\Database\Schema\Blueprint;
-use Illuminate\Database\Migrations\Migration;
-use Papposilene\Geodata\GeodataRegistrar;
+namespace Database\Seeders;
 
-return new class extends Migration
+use Illuminate\Database\Seeder;
+use Illuminate\Support\Facades\DB;
+use Illuminate\Support\Facades\File;
+use Illuminate\Support\Str;
+use Papposilene\Geodata\Models\Country;
+use Papposilene\Geodata\Models\Region;
+
+class RegionsSeeder extends Seeder
 {
     /**
-     * Run the migrations.
+     * Run the database seeds.
      *
      * @return void
      */
-    public function up()
+    public function run()
     {
-        Schema::create('geodata__countries', function (Blueprint $table) {
-            $table->uuid();
-            $table->string('continent_slug', 255);
-            $table->string('subcontinent_slug', 255);
-            // Various identifiant codes
-            $table->string('cca2', 2)->unique();
-            $table->string('cca3', 3)->unique();
-            $table->string('ccn3', 3)->nullable();
-            // Name, common and formal, in english
-            $table->string('name_eng_common', 255)->unique();
-            $table->string('name_eng_formal', 255)->unique();
-            // Centered geolocation (for mainland if necessary)
-            $table->decimal('lat', 20, 16)->nullable();
-            $table->decimal('lon', 20, 16)->nullable();
-            // Borders
-            $table->boolean('landlocked')->default(false);
-            $table->json('neighbourhood')->nullable();
-            // Geopolitic status
-            $table->string('status', 255)->nullable();
-            $table->boolean('independent')->default(true);
-            // Flag
-            $table->string('flag', 50)->nullable();
-            // Extra data in JSON
-            $table->json('capital')->nullable();
-            $table->json('currencies')->nullable();
-            $table->json('demonyms')->nullable();
-            $table->json('dialling')->nullable();
-            $table->json('languages')->nullable();
-            $table->json('name_native')->nullable();
-            $table->json('name_translations')->nullable();
-            $table->json('extra')->nullable();
-            // Internal data
-            $table->timestamps();
-            $table->softDeletes();
+        // Drop the tables
+        DB::table('geodata__regions')->delete();
 
-            $table->foreign('continent_slug')->references('slug')->on('geodata__continents');
-            $table->foreign('subcontinent_slug')->references('slug')->on('geodata__subcontinents');
-        });
+        foreach (glob(storage_path('data/geodata/administrative-levels/*.json')) as $filename) {
+            $file = File::get($filename);
+            $name = File::name($filename);
+            $json = json_decode($file, true);
 
-        Schema::create('geodata__regions', function (Blueprint $table) {
-            $table->uuid()->primary();
-            // Country identifiers
-            $table->string('country_cca2', 2);
-            $table->string('country_cca3', 3);
-            // Region identifiers
-            $table->string('region_cca2', 6)->nullable();
-            // OpenStreetMap data
-            $table->bigInteger('osm_id', false)->nullable();
-            $table->bigInteger('osm_place_id', false)->nullable();
-            $table->integer('osm_admin_level', false)->nullable();
-            $table->string('osm_type', 255)->nullable();
-            $table->string('name_local', 255);
-            $table->json('name_translations');
-            $table->json('extra')->nullable();
-            // Internal data
-            $table->timestamps();
-            $table->softDeletes();
+            $country = Country::where('cca3', $name)->firstOrFail();
 
-            $table->foreign('country_cca2')->references('cca2')->on('geodata__countries');
-            $table->foreign('country_cca3')->references('cca3')->on('geodata__countries');
-        });
-
-        Schema::create('geodata__cities', function (Blueprint $table) {
-            $table->uuid()->primary();
-            // Administrative layers
-            $table->string('country_cca3', 3);
-            $table->uuid('region_uuid')->nullable();
-            // OpenStreetMap data
-            $table->bigInteger('osm_id', false)->nullable();
-            $table->bigInteger('osm_place_id', false)->nullable();
-            $table->integer('osm_admin_level', false);
-            $table->json('osm_parents')->nullable();
-            $table->string('osm_type', 255)->nullable();
-            $table->string('name_loc', 255);
-            $table->string('name_eng', 255);
-            $table->json('name_translations');
-            $table->json('postcodes')->nullable();
-            $table->json('extra')->nullable();
-            // Internal data
-            $table->timestamps();
-            $table->softDeletes();
-
-            $table->foreign('country_cca3')->references('cca3')->on('geodata__countries');
-            $table->foreign('region_uuid')->references('uuid')->on('geodata__regions');
-        });
+            foreach ($json as $data) {
+                Region::create([
+                    'country_cca2' => $country->cca2,
+                    'country_cca3' => $country->cca3,
+                    'region_cca2' => $data['region_cca2'],
+                    'osm_id' => $data['osm_id'],
+                    'osm_place_id' => $data['osm_place_id'],
+                    'osm_admin_level' => $data['osm_admin_level'],
+                    'osm_type' => $data['osm_type'],
+                    'name_loc' => $data['name_loc'],
+                    'name_eng' => $data['name_eng'],
+                    'name_translations' => json_encode($data['name_translations'], JSON_FORCE_OBJECT),
+                    'extra' => [
+                        'un_locode' => (array_key_exists('un_locode', $data['extra']) ? $data['extra']['un_locode'] : null),
+                        'wikidata' => (array_key_exists('wikidata', $data['extra']) ? $data['extra']['wikidata'] : null),
+                    ],
+                ]);
+            }
+        }
     }
-
-    /**
-     * Reverse the migrations.
-     *
-     * @return void
-     */
-    public function down()
-    {
-        Schema::drop('geodata__cities');
-        Schema::drop('geodata__regions');
-        Schema::drop('geodata__countries');
-    }
-};
+}
