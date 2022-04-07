@@ -1,0 +1,347 @@
+[
+    {
+        "country_cca2": "cf",
+        "country_cca3": "caf",
+        "region_cca2": "CF-BB",
+        "osm_id": 2634506,
+        "osm_place_id": 282321063,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Bamingui-Bangoran",
+        "name_eng": "Bamingui-Bangoran",
+        "name_translations": {
+            "ru": "\u0411\u0430\u043c\u0431\u0438\u043d\u0433\u0438-\u0411\u0430\u043d\u0433\u043e\u0440\u0430\u043d",
+            "sg": "Bam\u00efng\u00ef-Bangoran",
+            "uk": "\u0411\u0430\u043c\u0431\u0456\u043d\u0491\u0456-\u0411\u0430\u043d\u0491\u043e\u0440\u0430\u043d"
+        },
+        "extra": {
+            "wikidata": "Q741025",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cf",
+        "country_cca3": "caf",
+        "region_cca2": null,
+        "osm_id": 7322726,
+        "osm_place_id": 282852656,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Bang\u00ee - Bangui",
+        "name_eng": "Bangui",
+        "name_translations": {
+            "ar": "\u0628\u0627\u0646\u063a\u064a",
+            "en": "Bangui",
+            "fr": "Bangui",
+            "sg": "Bang\u00ee"
+        },
+        "extra": {
+            "wikidata": "Q3832",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cf",
+        "country_cca3": "caf",
+        "region_cca2": "CF-BK",
+        "osm_id": 2634533,
+        "osm_place_id": 282301080,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Basse-Kotto",
+        "name_eng": "Basse-Kotto",
+        "name_translations": {
+            "de": "Niederkotto",
+            "ru": "\u041d\u0438\u0436\u043d\u0435\u0435 \u041a\u043e\u0442\u0442\u043e",
+            "sg": "Do-K\u00f6t\u00f6",
+            "uk": "\u041d\u0438\u0436\u043d\u0454 \u041a\u043e\u0442\u0442\u043e"
+        },
+        "extra": {
+            "wikidata": "Q810484",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cf",
+        "country_cca3": "caf",
+        "region_cca2": "CF-HM",
+        "osm_id": 2634528,
+        "osm_place_id": 282332483,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Haut-Mbomou",
+        "name_eng": "Haut-Mbomou",
+        "name_translations": {
+            "de": "Obermbomou",
+            "ru": "\u0412\u0435\u0440\u0445\u043d\u0435\u0435 \u041c\u0431\u043e\u043c\u0443",
+            "sg": "T\u00f6-Mb\u00f6m\u00fc",
+            "uk": "\u0412\u0435\u0440\u0445\u043d\u0454 \u041c\u0431\u043e\u043c\u0443"
+        },
+        "extra": {
+            "wikidata": "Q848578",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cf",
+        "country_cca3": "caf",
+        "region_cca2": "CF-HK",
+        "osm_id": 2634510,
+        "osm_place_id": 282559729,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Haute-Kotto",
+        "name_eng": "Haute-Kotto",
+        "name_translations": {
+            "de": "Oberkotto",
+            "ru": "\u0412\u0435\u0440\u0445\u043d\u0435\u0435 \u041a\u043e\u0442\u0442\u043e",
+            "sg": "T\u00f6-K\u00f6t\u00f6",
+            "uk": "\u0412\u0435\u0440\u0445\u043d\u0454 \u041a\u043e\u0442\u0442\u043e"
+        },
+        "extra": {
+            "wikidata": "Q848596",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cf",
+        "country_cca3": "caf",
+        "region_cca2": "CF-KG",
+        "osm_id": 2954782,
+        "osm_place_id": 282803044,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "K\u00e9mo",
+        "name_eng": "K\u00e9mo",
+        "name_translations": {
+            "ru": "\u041a\u0435\u043c\u043e",
+            "sg": "Kem\u00f6",
+            "uk": "\u041a\u0435\u043c\u043e"
+        },
+        "extra": {
+            "wikidata": "Q848572",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cf",
+        "country_cca3": "caf",
+        "region_cca2": "CF-LB",
+        "osm_id": 3564719,
+        "osm_place_id": 282429371,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Lobaye",
+        "name_eng": "Lobaye",
+        "name_translations": {
+            "ru": "\u041b\u043e\u0431\u0430\u0435",
+            "sg": "Lob\u00e2ye",
+            "uk": "\u041b\u043e\u0431\u0430\u0435"
+        },
+        "extra": {
+            "wikidata": "Q821037",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cf",
+        "country_cca3": "caf",
+        "region_cca2": "CF-HS",
+        "osm_id": 2954783,
+        "osm_place_id": 282552576,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Mamb\u00e9r\u00e9-Kad\u00e9\u00ef",
+        "name_eng": "Mamb\u00e9r\u00e9-Kad\u00e9\u00ef",
+        "name_translations": {
+            "ru": "\u041c\u0430\u043c\u0431\u0435\u0440\u0435-\u041a\u0430\u0434\u0435\u0438",
+            "sg": "Mambere-Kadei",
+            "uk": "\u041c\u0430\u043c\u0431\u0435\u0440\u0435-\u041a\u0430\u0434\u0435\u0457"
+        },
+        "extra": {
+            "wikidata": "Q848567",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cf",
+        "country_cca3": "caf",
+        "region_cca2": "CF-MB",
+        "osm_id": 2634531,
+        "osm_place_id": 282320857,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Mbomou",
+        "name_eng": "Mbomou",
+        "name_translations": {
+            "ru": "\u041c\u0431\u043e\u043c\u0443",
+            "sg": "Mb\u00f6m\u00fc",
+            "uk": "\u041c\u0431\u043e\u043c\u0443"
+        },
+        "extra": {
+            "wikidata": "Q848582",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cf",
+        "country_cca3": "caf",
+        "region_cca2": "CF-KB",
+        "osm_id": 2954784,
+        "osm_place_id": 282348163,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Nana-Gr\u00e9bizi",
+        "name_eng": "Nana-Gr\u00e9bizi",
+        "name_translations": {
+            "ru": "\u041d\u0430\u043d\u0430-\u0413\u0440\u0435\u0431\u0438\u0437\u0438",
+            "sg": "Nan\u00e4-G\u00efr\u00efb\u00efz\u00ef",
+            "uk": "\u041d\u0430\u043d\u0430-\u0413\u0440\u0435\u0431\u0456\u0437\u0456"
+        },
+        "extra": {
+            "wikidata": "Q856227",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cf",
+        "country_cca3": "caf",
+        "region_cca2": "CF-NM",
+        "osm_id": 2954785,
+        "osm_place_id": 282595958,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Nana-Mamb\u00e9r\u00e9",
+        "name_eng": "Nana-Mamb\u00e9r\u00e9",
+        "name_translations": {
+            "ru": "\u041d\u0430\u043d\u0430-\u041c\u0430\u043c\u0431\u0435\u0440\u0435",
+            "sg": "Nan\u00e4-Mambere",
+            "uk": "\u041d\u0430\u043d\u0430-\u041c\u0430\u043c\u0431\u0435\u0440\u0435"
+        },
+        "extra": {
+            "wikidata": "Q742455",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cf",
+        "country_cca3": "caf",
+        "region_cca2": "CF-MP",
+        "osm_id": 2954675,
+        "osm_place_id": 282409028,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Ombella M'Poko",
+        "name_eng": "Ombella M'Poko",
+        "name_translations": {
+            "ru": "\u041e\u043c\u0431\u0435\u043b\u043b\u0430-\u041c\u043f\u043e\u043a\u043e",
+            "sg": "\u00d6mb\u00ebl\u00e4-P\u00f6k\u00f6",
+            "uk": "\u041e\u043c\u0431\u0435\u043b\u043b\u0430-\u041c\u043f\u043e\u043a\u043e"
+        },
+        "extra": {
+            "wikidata": "Q378970",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cf",
+        "country_cca3": "caf",
+        "region_cca2": "CF-UK",
+        "osm_id": 2954786,
+        "osm_place_id": 282542246,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Ouaka",
+        "name_eng": "Ouaka",
+        "name_translations": {
+            "ru": "\u0423\u0430\u043a\u0430",
+            "sg": "W\u00e4k\u00e4",
+            "uk": "\u0423\u0430\u043a\u0430"
+        },
+        "extra": {
+            "wikidata": "Q848560",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cf",
+        "country_cca3": "caf",
+        "region_cca2": "CF-AC",
+        "osm_id": 2954787,
+        "osm_place_id": 282704631,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Ouham",
+        "name_eng": "Ouham",
+        "name_translations": {
+            "ar": "\u0623\u0648\u0647\u0627\u0645",
+            "ru": "\u0423\u0430\u043c",
+            "sg": "W\u00e2mo",
+            "uk": "\u0423\u0430\u043c"
+        },
+        "extra": {
+            "wikidata": "Q726620",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cf",
+        "country_cca3": "caf",
+        "region_cca2": null,
+        "osm_id": 2954276,
+        "osm_place_id": 282681591,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Ouham-Pend\u00e9",
+        "name_eng": "Ouham-Pend\u00e9",
+        "name_translations": {
+            "ru": "\u0423\u0430\u043c-\u041f\u0435\u043d\u0434\u0435",
+            "sg": "W\u00e2mo-Pend\u00eb",
+            "uk": "\u0423\u0430\u043c-\u041f\u0435\u043d\u0434\u0435"
+        },
+        "extra": {
+            "wikidata": "Q848591",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cf",
+        "country_cca3": "caf",
+        "region_cca2": null,
+        "osm_id": 2954788,
+        "osm_place_id": 282390316,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Sangha-Mba\u00e9r\u00e9",
+        "name_eng": "Sangha-Mba\u00e9r\u00e9",
+        "name_translations": {
+            "ru": "\u0421\u0430\u043d\u0433\u0430-\u041c\u0431\u0430\u044d\u0440\u0435",
+            "sg": "Sang\u00e4-Mbaere",
+            "uk": "\u0421\u0430\u043d\u0433\u0430-\u041c\u0431\u0430\u0435\u0440\u0435"
+        },
+        "extra": {
+            "wikidata": "Q856237",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cf",
+        "country_cca3": "caf",
+        "region_cca2": "CF-VK",
+        "osm_id": 2634498,
+        "osm_place_id": 282388882,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Vakaga",
+        "name_eng": "Vakaga",
+        "name_translations": {
+            "ru": "\u0412\u0430\u043a\u0430\u0433\u0430",
+            "sg": "Vakaga",
+            "uk": "\u0412\u0430\u043a\u0430\u0433\u0430"
+        },
+        "extra": {
+            "wikidata": "Q848585",
+            "un_locode": null
+        }
+    }
+]

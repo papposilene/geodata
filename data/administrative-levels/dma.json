@@ -1,0 +1,165 @@
+[
+    {
+        "country_cca2": "dm",
+        "country_cca3": "dma",
+        "region_cca2": "DM-02",
+        "osm_id": 2315027,
+        "osm_place_id": 282826428,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Saint Andrew Parish",
+        "name_eng": "Saint Andrew Parish",
+        "name_translations": {
+            "en": "Saint Andrew Parish",
+            "zh": "\u8056\u5b89\u5fb7\u9b6f\u5340"
+        },
+        "extra": {
+            "wikidata": "Q732322",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "dm",
+        "country_cca3": "dma",
+        "region_cca2": "DM-03",
+        "osm_id": 2314472,
+        "osm_place_id": 282334064,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Saint David Parish",
+        "name_eng": "Saint David Parish",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1431129",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "dm",
+        "country_cca3": "dma",
+        "region_cca2": "DM-04",
+        "osm_id": 1793745,
+        "osm_place_id": 282262629,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Saint George Parish",
+        "name_eng": "Saint George Parish",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q617801",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "dm",
+        "country_cca3": "dma",
+        "region_cca2": "DM-05",
+        "osm_id": 2315070,
+        "osm_place_id": 282469975,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Saint John Parish",
+        "name_eng": "Saint John Parish",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1476285",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "dm",
+        "country_cca3": "dma",
+        "region_cca2": "DM-06",
+        "osm_id": 2325658,
+        "osm_place_id": 282601994,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Saint Joseph Parish",
+        "name_eng": "Saint Joseph Parish",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1476302",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "dm",
+        "country_cca3": "dma",
+        "region_cca2": "DM-07",
+        "osm_id": 2306401,
+        "osm_place_id": 282277527,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Saint Luke Parish",
+        "name_eng": "Saint Luke Parish",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1431099",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "dm",
+        "country_cca3": "dma",
+        "region_cca2": "DM-08",
+        "osm_id": 2306400,
+        "osm_place_id": 282411373,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Saint Mark Parish",
+        "name_eng": "Saint Mark Parish",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1431115",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "dm",
+        "country_cca3": "dma",
+        "region_cca2": "DM-09",
+        "osm_id": 2304770,
+        "osm_place_id": 282367205,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Saint Patrick Parish",
+        "name_eng": "Saint Patrick Parish",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1431108",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "dm",
+        "country_cca3": "dma",
+        "region_cca2": "DM-10",
+        "osm_id": 2325657,
+        "osm_place_id": 282530071,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Saint Paul Parish",
+        "name_eng": "Saint Paul Parish",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q339063",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "dm",
+        "country_cca3": "dma",
+        "region_cca2": "DM-11",
+        "osm_id": 2325659,
+        "osm_place_id": 282272969,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Saint Peter Parish",
+        "name_eng": "Saint Peter Parish",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1476294",
+            "un_locode": null
+        }
+    }
+]

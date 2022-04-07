@@ -1,0 +1,2396 @@
+[
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": null,
+        "osm_id": 13047861,
+        "osm_place_id": 283501908,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0100da\u017eu novads",
+        "name_eng": "\u0100da\u017eu novads",
+        "name_translations": {
+            "lv": "\u0100da\u017eu novads",
+            "ru": "\u0410\u0434\u0430\u0436\u0441\u043a\u0438\u0439"
+        },
+        "extra": {
+            "wikidata": "Q97233421",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": "LV-001",
+        "osm_id": 1806923,
+        "osm_place_id": 282516276,
+        "osm_admin_level": 6,
+        "osm_type": "historic",
+        "name_loc": "Aglonas novads",
+        "name_eng": "Aglonas novads",
+        "name_translations": {
+            "lt": "Agluonos savivaldyb\u0117",
+            "lv": "Aglonas novads",
+            "pl": "powiat Ag\u0142o\u0144ski",
+            "ru": "\u0410\u0433\u043b\u043e\u043d\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+            "ltg": "Aglyunys n\u016bvods"
+        },
+        "extra": {
+            "wikidata": "Q2045300",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": "LV-002",
+        "osm_id": 13047869,
+        "osm_place_id": 283438438,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Aizkraukles novads",
+        "name_eng": "Aizkraukles novads",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q97229842",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": "LV-003",
+        "osm_id": 1781237,
+        "osm_place_id": 282206827,
+        "osm_admin_level": 6,
+        "osm_type": "historic",
+        "name_loc": "Aizputes novads",
+        "name_eng": "Aizputes novads",
+        "name_translations": {
+            "ja": "\u30a2\u30a4\u30ba\u30d7\u30c6",
+            "lv": "Aizputes novads",
+            "ru": "\u0410\u0439\u0437\u043f\u0443\u0442\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439"
+        },
+        "extra": {
+            "wikidata": "Q2485015",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": "LV-004",
+        "osm_id": 1806924,
+        "osm_place_id": 282205947,
+        "osm_admin_level": 6,
+        "osm_type": "historic",
+        "name_loc": "Akn\u012bstes novads",
+        "name_eng": "Akn\u012bstes novads",
+        "name_translations": {
+            "lv": "Akn\u012bstes novads",
+            "ru": "\u0410\u043a\u043d\u0438\u0441\u0442\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439"
+        },
+        "extra": {
+            "wikidata": "Q865658",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": "LV-005",
+        "osm_id": 1797377,
+        "osm_place_id": 282242318,
+        "osm_admin_level": 6,
+        "osm_type": "historic",
+        "name_loc": "Alojas novads",
+        "name_eng": "Alojas novads",
+        "name_translations": {
+            "lv": "Alojas novads",
+            "ru": "\u0410\u043b\u043e\u0439\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439"
+        },
+        "extra": {
+            "wikidata": "Q2989420",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": "LV-007",
+        "osm_id": 1797378,
+        "osm_place_id": 282200999,
+        "osm_admin_level": 6,
+        "osm_type": "historic",
+        "name_loc": "Al\u016bksnes novads",
+        "name_eng": "Al\u016bksnes novads",
+        "name_translations": {
+            "lt": "Al\u016bksn\u0117s savivaldyb\u0117",
+            "lv": "Al\u016bksnes novads",
+            "ru": "\u0410\u043b\u0443\u043a\u0441\u043d\u0435\u043d\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+            "ltg": "Olyuksnys n\u016bvods"
+        },
+        "extra": {
+            "wikidata": "Q3393445",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": "LV-007",
+        "osm_id": 13047856,
+        "osm_place_id": 283511713,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Al\u016bksnes novads",
+        "name_eng": "Al\u016bksnes novads",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q3393445",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": "LV-008",
+        "osm_id": 1781275,
+        "osm_place_id": 282284232,
+        "osm_admin_level": 6,
+        "osm_type": "historic",
+        "name_loc": "Amatas novads",
+        "name_eng": "Amatas novads",
+        "name_translations": {
+            "lv": "Amatas novads",
+            "ru": "\u0410\u043c\u0430\u0442\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439"
+        },
+        "extra": {
+            "wikidata": "Q1892063",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": "LV-009",
+        "osm_id": 1797379,
+        "osm_place_id": 282198720,
+        "osm_admin_level": 6,
+        "osm_type": "historic",
+        "name_loc": "Apes novads",
+        "name_eng": "Apes novads",
+        "name_translations": {
+            "lt": "Ap\u0117s savivaldyb\u0117",
+            "lv": "Apes novads",
+            "ru": "\u0410\u043f\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439"
+        },
+        "extra": {
+            "wikidata": "Q2343837",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": "LV-010",
+        "osm_id": 1781239,
+        "osm_place_id": 282204925,
+        "osm_admin_level": 6,
+        "osm_type": "historic",
+        "name_loc": "Auces novads",
+        "name_eng": "Auces novads",
+        "name_translations": {
+            "lt": "Auc\u0117s savivaldyb\u0117",
+            "lv": "Auces novads",
+            "ru": "\u0410\u0443\u0446\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439"
+        },
+        "extra": {
+            "wikidata": "Q1934932",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": "LV-111",
+        "osm_id": 13047870,
+        "osm_place_id": 283402658,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Aug\u0161daugavas novads",
+        "name_eng": "Aug\u0161daugavas novads",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q97230083",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": "LV-014",
+        "osm_id": 1797381,
+        "osm_place_id": 282199798,
+        "osm_admin_level": 6,
+        "osm_type": "historic",
+        "name_loc": "Baltinavas novads",
+        "name_eng": "Baltinavas novads",
+        "name_translations": {
+            "lt": "Baltinavos savivaldyb\u0117",
+            "lv": "Baltinavas novads",
+            "ru": "\u0411\u0430\u043b\u0442\u0438\u043d\u0430\u0432\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+            "ltg": "Ba\u013ctinovys n\u016bvods"
+        },
+        "extra": {
+            "wikidata": "Q2361012",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": "LV-015",
+        "osm_id": 1797382,
+        "osm_place_id": 282204554,
+        "osm_admin_level": 6,
+        "osm_type": "historic",
+        "name_loc": "Balvu novads",
+        "name_eng": "Balvu novads",
+        "name_translations": {
+            "lt": "Balv\u0173 savivaldyb\u0117",
+            "lv": "Balvu novads",
+            "ru": "\u0411\u0430\u043b\u0432\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+            "ltg": "Bolvu n\u016bvods"
+        },
+        "extra": {
+            "wikidata": "Q2018672",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": "LV-015",
+        "osm_id": 13047873,
+        "osm_place_id": 283508208,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Balvu novads",
+        "name_eng": "Balvu novads",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q97230143",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": "LV-016",
+        "osm_id": 13047877,
+        "osm_place_id": 283485349,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Bauskas novads",
+        "name_eng": "Bauskas novads",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q97230156",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": "LV-016",
+        "osm_id": 1811621,
+        "osm_place_id": 282208433,
+        "osm_admin_level": 6,
+        "osm_type": "historic",
+        "name_loc": "Bauskas novads",
+        "name_eng": "Bauskas novads",
+        "name_translations": {
+            "lt": "Bausk\u0117s savivaldyb\u0117",
+            "lv": "Bauskas novads",
+            "ru": "\u0411\u0430\u0443\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439"
+        },
+        "extra": {
+            "wikidata": "Q2365998",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": "LV-017",
+        "osm_id": 1806925,
+        "osm_place_id": 282243283,
+        "osm_admin_level": 6,
+        "osm_type": "historic",
+        "name_loc": "Bever\u012bnas novads",
+        "name_eng": "Bever\u012bnas novads",
+        "name_translations": {
+            "lv": "Bever\u012bnas novads",
+            "ru": "\u0411\u0435\u0432\u0435\u0440\u0438\u043d\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439"
+        },
+        "extra": {
+            "wikidata": "Q2018692",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": "LV-018",
+        "osm_id": 1781241,
+        "osm_place_id": 327322299,
+        "osm_admin_level": 6,
+        "osm_type": "historic",
+        "name_loc": "Broc\u0113nu novads",
+        "name_eng": "Broc\u0113nu novads",
+        "name_translations": {
+            "lv": "Broc\u0113nu novads",
+            "ru": "\u0411\u0440\u043e\u0446\u0435\u043d\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439"
+        },
+        "extra": {
+            "wikidata": "Q865717",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": "LV-019",
+        "osm_id": 1797383,
+        "osm_place_id": 282277230,
+        "osm_admin_level": 6,
+        "osm_type": "historic",
+        "name_loc": "Burtnieku novads",
+        "name_eng": "Burtnieku novads",
+        "name_translations": {
+            "lv": "Burtnieku novads",
+            "ru": "\u0411\u0443\u0440\u0442\u043d\u0438\u0435\u043a\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439"
+        },
+        "extra": {
+            "wikidata": "Q2079428",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": "LV-022",
+        "osm_id": 13047857,
+        "osm_place_id": 283401070,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "C\u0113su novads",
+        "name_eng": "C\u0113su novads",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q97230394",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": "LV-023",
+        "osm_id": 1806926,
+        "osm_place_id": 282201983,
+        "osm_admin_level": 6,
+        "osm_type": "historic",
+        "name_loc": "Ciblas novads",
+        "name_eng": "Ciblas novads",
+        "name_translations": {
+            "lt": "Ciblos savivaldyb\u0117",
+            "lv": "Ciblas novads",
+            "ru": "\u0426\u0438\u0431\u043b\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+            "ltg": "Cyblys n\u016bvods"
+        },
+        "extra": {
+            "wikidata": "Q1955102",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": "LV-024",
+        "osm_id": 1806929,
+        "osm_place_id": 282200864,
+        "osm_admin_level": 6,
+        "osm_type": "historic",
+        "name_loc": "Dagdas novads",
+        "name_eng": "Dagdas novads",
+        "name_translations": {
+            "lt": "Dagdos savivaldyb\u0117",
+            "lv": "Dagdas novads",
+            "ru": "\u0414\u0430\u0433\u0434\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+            "ltg": "Dagdys n\u016bvods"
+        },
+        "extra": {
+            "wikidata": "Q2361131",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": null,
+        "osm_id": 13048683,
+        "osm_place_id": 283486071,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Daugavpils",
+        "name_eng": "Daugavpils",
+        "name_translations": {
+            "ar": "\u062f\u0648\u063a\u0641\u0628\u0644\u0633",
+            "be": "\u0414\u0430\u045e\u0433\u0430\u045e\u043f\u0456\u043b\u0441",
+            "de": "D\u00fcnaburg",
+            "en": "Daugavpils",
+            "es": "Daugavpils",
+            "fi": "V\u00e4in\u00e4nlinna",
+            "fr": "Daugavpils",
+            "la": "Duneburgum",
+            "lt": "Daugpilis",
+            "lv": "Daugavpils",
+            "pl": "Dyneburg",
+            "ru": "\u0414\u0430\u0443\u0433\u0430\u0432\u043f\u0438\u043b\u0441",
+            "uk": "\u0414\u0430\u0443\u0433\u0430\u0432\u043f\u0456\u043b\u0441",
+            "yi": "\u05d3\u05d9\u05e0\u05e2\u05d1\u05d5\u05e8\u05d2",
+            "be-tarask": "\u0414\u0437\u044c\u0432\u0456\u043d\u0441\u043a"
+        },
+        "extra": {
+            "wikidata": "Q80021",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": "LV-025",
+        "osm_id": 1806934,
+        "osm_place_id": 282463837,
+        "osm_admin_level": 6,
+        "osm_type": "historic",
+        "name_loc": "Daugavpils novads",
+        "name_eng": "Daugavpils novads",
+        "name_translations": {
+            "de": "Bezirk D\u00fcnaburg",
+            "lt": "Daugpilio savivaldyb\u0117",
+            "lv": "Daugavpils novads",
+            "pl": "powiat Dyneburski",
+            "ru": "\u0414\u0430\u0443\u0433\u0430\u0432\u043f\u0438\u043b\u0441\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+            "ltg": "Daugpi\u013cs n\u016bvods"
+        },
+        "extra": {
+            "wikidata": "Q960572",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": "LV-112",
+        "osm_id": 13047884,
+        "osm_place_id": 283439748,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Dienvidkurzemes novads",
+        "name_eng": "Dienvidkurzemes novads",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q97230452",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": "LV-026",
+        "osm_id": 1781243,
+        "osm_place_id": 282255948,
+        "osm_admin_level": 6,
+        "osm_type": "historic",
+        "name_loc": "Dobeles novads",
+        "name_eng": "Dobeles novads",
+        "name_translations": {
+            "de": "Bezirk Doblen",
+            "lv": "Dobeles novads"
+        },
+        "extra": {
+            "wikidata": "Q519580",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": "LV-026",
+        "osm_id": 13047879,
+        "osm_place_id": 283496938,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Dobeles novads",
+        "name_eng": "Dobeles novads",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q97230466",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": "LV-027",
+        "osm_id": 1781244,
+        "osm_place_id": 282284107,
+        "osm_admin_level": 6,
+        "osm_type": "historic",
+        "name_loc": "Dundagas novads",
+        "name_eng": "Dundagas novads",
+        "name_translations": {
+            "de": "Bezirk Dondangen",
+            "lv": "Dundagas novads"
+        },
+        "extra": {
+            "wikidata": "Q2274832",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": "LV-028",
+        "osm_id": 1781245,
+        "osm_place_id": 282215826,
+        "osm_admin_level": 6,
+        "osm_type": "historic",
+        "name_loc": "Durbes novads",
+        "name_eng": "Durbes novads",
+        "name_translations": {
+            "lv": "Durbes novads",
+            "ru": "\u0414\u0443\u0440\u0431\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439"
+        },
+        "extra": {
+            "wikidata": "Q1962356",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": null,
+        "osm_id": 1781246,
+        "osm_place_id": 282643518,
+        "osm_admin_level": 6,
+        "osm_type": "historic",
+        "name_loc": "Engures novads",
+        "name_eng": "Engures novads",
+        "name_translations": {
+            "de": "Bezirk Angern",
+            "lt": "Engur\u0117s savivaldyb\u0117",
+            "lv": "Engures novads"
+        },
+        "extra": {
+            "wikidata": "Q2079455",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": "LV-030",
+        "osm_id": 1806956,
+        "osm_place_id": 282230028,
+        "osm_admin_level": 6,
+        "osm_type": "historic",
+        "name_loc": "\u0112rg\u013cu novads",
+        "name_eng": "\u0112rg\u013cu novads",
+        "name_translations": {
+            "lv": "\u0112rg\u013cu novads",
+            "ru": "\u042d\u0440\u0433\u043b\u044c\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439"
+        },
+        "extra": {
+            "wikidata": "Q2079406",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": "LV-032",
+        "osm_id": 1781247,
+        "osm_place_id": 282418012,
+        "osm_admin_level": 6,
+        "osm_type": "historic",
+        "name_loc": "Grobi\u0146as novads",
+        "name_eng": "Grobi\u0146as novads",
+        "name_translations": {
+            "lv": "Grobi\u0146as novads",
+            "ru": "\u0413\u0440\u043e\u0431\u0438\u043d\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439"
+        },
+        "extra": {
+            "wikidata": "Q2320320",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": "LV-033",
+        "osm_id": 13047855,
+        "osm_place_id": 283566940,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Gulbenes novads",
+        "name_eng": "Gulbenes novads",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q209187",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": "LV-033",
+        "osm_id": 1797394,
+        "osm_place_id": 282257363,
+        "osm_admin_level": 6,
+        "osm_type": "historic",
+        "name_loc": "Gulbenes novads",
+        "name_eng": "Gulbenes novads",
+        "name_translations": {
+            "lv": "Gulbenes novads",
+            "ru": "\u0413\u0443\u043b\u0431\u0435\u043d\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439"
+        },
+        "extra": {
+            "wikidata": "Q209187",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": "LV-036",
+        "osm_id": 1806935,
+        "osm_place_id": 282536700,
+        "osm_admin_level": 6,
+        "osm_type": "historic",
+        "name_loc": "Il\u016bkstes novads",
+        "name_eng": "Il\u016bkstes novads",
+        "name_translations": {
+            "lt": "Al\u016bkstos savivaldyb\u0117",
+            "lv": "Il\u016bkstes novads",
+            "ru": "\u0418\u043b\u0443\u043a\u0441\u0442\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439"
+        },
+        "extra": {
+            "wikidata": "Q2025473",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": "LV-038",
+        "osm_id": 1811625,
+        "osm_place_id": 282218191,
+        "osm_admin_level": 6,
+        "osm_type": "historic",
+        "name_loc": "Jaunjelgavas novads",
+        "name_eng": "Jaunjelgavas novads",
+        "name_translations": {
+            "lv": "Jaunjelgavas novads",
+            "pl": "gmina Frydrychsztat",
+            "ru": "\u042f\u0443\u043d\u0435\u043b\u0433\u0430\u0432\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439"
+        },
+        "extra": {
+            "wikidata": "Q2880128",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": "LV-039",
+        "osm_id": 1806936,
+        "osm_place_id": 282208897,
+        "osm_admin_level": 6,
+        "osm_type": "historic",
+        "name_loc": "Jaunpiebalgas novads",
+        "name_eng": "Jaunpiebalgas novads",
+        "name_translations": {
+            "lv": "Jaunpiebalgas novads",
+            "ru": "\u042f\u0443\u043d\u043f\u0438\u0435\u0431\u0430\u043b\u0433\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439"
+        },
+        "extra": {
+            "wikidata": "Q2306846",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": "LV-040",
+        "osm_id": 1781248,
+        "osm_place_id": 282196688,
+        "osm_admin_level": 6,
+        "osm_type": "historic",
+        "name_loc": "Jaunpils novads",
+        "name_eng": "Jaunpils novads",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2072154",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": "LV-042",
+        "osm_id": 13047868,
+        "osm_place_id": 283401084,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "J\u0113kabpils novads",
+        "name_eng": "J\u0113kabpils novads",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q97231194",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": "LV-042",
+        "osm_id": 1806937,
+        "osm_place_id": 282741447,
+        "osm_admin_level": 6,
+        "osm_type": "historic",
+        "name_loc": "J\u0113kabpils novads",
+        "name_eng": "J\u0113kabpils novads",
+        "name_translations": {
+            "lt": "J\u0117kabpilio savivaldyb\u0117",
+            "lv": "J\u0113kabpils novads",
+            "ru": "\u0415\u043a\u0430\u0431\u043f\u0438\u043b\u0441\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439"
+        },
+        "extra": {
+            "wikidata": "Q1579101",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": null,
+        "osm_id": 13048684,
+        "osm_place_id": 283598021,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Jelgava",
+        "name_eng": "Jelgava",
+        "name_translations": {
+            "lv": "Jelgava"
+        },
+        "extra": {
+            "wikidata": "Q179830",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": "LV-041",
+        "osm_id": 1781250,
+        "osm_place_id": 282414827,
+        "osm_admin_level": 6,
+        "osm_type": "historic",
+        "name_loc": "Jelgavas novads",
+        "name_eng": "Jelgavas novads",
+        "name_translations": {
+            "lt": "Jelgavos savivaldyb\u0117",
+            "lv": "Jelgavas novads",
+            "pl": "Powiat Je\u0142gawa"
+        },
+        "extra": {
+            "wikidata": "Q1579113",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": "LV-041",
+        "osm_id": 13047878,
+        "osm_place_id": 283597935,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Jelgavas novads",
+        "name_eng": "Jelgavas novads",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q97231093",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": null,
+        "osm_id": 13048687,
+        "osm_place_id": 283564604,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "J\u016brmala",
+        "name_eng": "J\u016brmala",
+        "name_translations": {
+            "de": "Rigaer Strand",
+            "fi": "J\u016brmala",
+            "lt": "J\u016brmala",
+            "lv": "J\u016brmala",
+            "pl": "Jurma\u0142a",
+            "ru": "\u042e\u0440\u043c\u0430\u043b\u0430",
+            "uk": "\u042e\u0440\u043c\u0430\u043b\u0430",
+            "zh-Hans": "\u5c24\u5c14\u9a6c\u62c9",
+            "zh-Hant": "\u5c24\u723e\u99ac\u62c9"
+        },
+        "extra": {
+            "wikidata": "Q178382",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": "LV-043",
+        "osm_id": 1781251,
+        "osm_place_id": 282570325,
+        "osm_admin_level": 6,
+        "osm_type": "historic",
+        "name_loc": "Kandavas novads",
+        "name_eng": "Kandavas novads",
+        "name_translations": {
+            "lt": "Kandavos savivaldyb\u0117",
+            "lv": "Kandavas novads"
+        },
+        "extra": {
+            "wikidata": "Q2024643",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": "LV-044",
+        "osm_id": 1797385,
+        "osm_place_id": 282315111,
+        "osm_admin_level": 6,
+        "osm_type": "historic",
+        "name_loc": "K\u0101rsavas novads",
+        "name_eng": "K\u0101rsavas novads",
+        "name_translations": {
+            "lt": "Karsavos savivaldyb\u0117",
+            "lv": "K\u0101rsavas novads",
+            "ru": "\u041a\u0430\u0440\u0441\u0430\u0432\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+            "ltg": "Kuorsovys n\u016bvods"
+        },
+        "extra": {
+            "wikidata": "Q2395952",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": "LV-052",
+        "osm_id": 13047946,
+        "osm_place_id": 283440942,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0136ekavas novads",
+        "name_eng": "\u0136ekavas novads",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q97233440",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": "LV-045",
+        "osm_id": 1806950,
+        "osm_place_id": 282574077,
+        "osm_admin_level": 6,
+        "osm_type": "historic",
+        "name_loc": "Koc\u0113nu novads",
+        "name_eng": "Koc\u0113nu novads",
+        "name_translations": {
+            "lv": "Koc\u0113nu novads",
+            "ru": "\u041a\u043e\u0446\u0435\u043d\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439"
+        },
+        "extra": {
+            "wikidata": "Q2304840",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": "LV-046",
+        "osm_id": 1811626,
+        "osm_place_id": 282647459,
+        "osm_admin_level": 6,
+        "osm_type": "historic",
+        "name_loc": "Kokneses novads",
+        "name_eng": "Kokneses novads",
+        "name_translations": {
+            "lv": "Kokneses novads",
+            "ru": "\u041a\u043e\u043a\u043d\u0435\u0441\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439"
+        },
+        "extra": {
+            "wikidata": "Q865682",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": "LV-047",
+        "osm_id": 1811627,
+        "osm_place_id": 282420897,
+        "osm_admin_level": 6,
+        "osm_type": "historic",
+        "name_loc": "Kr\u0101slavas novads",
+        "name_eng": "Kr\u0101slavas novads",
+        "name_translations": {
+            "lt": "Kraslavos savivaldyb\u0117",
+            "lv": "Kr\u0101slavas novads",
+            "pl": "Powiat kras\u0142awski",
+            "ru": "\u041a\u0440\u0430\u0441\u043b\u0430\u0432\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+            "ltg": "Kruoslovys n\u016bvods"
+        },
+        "extra": {
+            "wikidata": "Q1831695",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": "LV-047",
+        "osm_id": 13047973,
+        "osm_place_id": 283432086,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Kr\u0101slavas novads",
+        "name_eng": "Kr\u0101slavas novads",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q97231555",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": null,
+        "osm_id": 1806939,
+        "osm_place_id": 282250119,
+        "osm_admin_level": 6,
+        "osm_type": "historic",
+        "name_loc": "Krustpils novads",
+        "name_eng": "Krustpils novads",
+        "name_translations": {
+            "lt": "Krustpilio savivaldyb\u0117",
+            "lv": "Krustpils novads",
+            "ru": "\u041a\u0440\u0443\u0441\u0442\u043f\u0438\u043b\u0441\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+            "ltg": "Krystapi\u013cs n\u016bvods"
+        },
+        "extra": {
+            "wikidata": "Q2277478",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": "LV-050",
+        "osm_id": 13047883,
+        "osm_place_id": 283496923,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Kuld\u012bgas novads",
+        "name_eng": "Kuld\u012bgas novads",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q97231583",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": null,
+        "osm_id": 1775676,
+        "osm_place_id": 282202926,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Kurzeme",
+        "name_eng": "Courland",
+        "name_translations": {
+            "ar": "\u0643\u0648\u0631\u0644\u0627\u0646\u062f",
+            "be": "\u041a\u0443\u0440\u043b\u044f\u043d\u0434\u044b\u044f",
+            "bg": "\u041a\u0443\u0440\u043b\u0430\u043d\u0434\u0438\u044f",
+            "ca": "Curl\u00e0ndia",
+            "cs": "Kuronsko",
+            "da": "Kurland",
+            "de": "Kurland",
+            "en": "Courland",
+            "es": "Curlandia",
+            "et": "Kuramaa",
+            "fi": "Kuurinmaa",
+            "fr": "Kurzeme",
+            "he": "\u05e7\u05d5\u05e8\u05dc\u05e0\u05d3",
+            "it": "Curlandia",
+            "ja": "\u30af\u30fc\u30eb\u30e9\u30f3\u30c8",
+            "ka": "\u10d9\u10e3\u10e0\u10da\u10d0\u10dc\u10d3\u10d8\u10d0",
+            "ko": "\ucfe0\ub97c\ub780\ud2b8",
+            "lt": "Kur\u0161as",
+            "lv": "Kurzeme",
+            "nl": "Koerland",
+            "pl": "Kurlandia",
+            "pt": "Curl\u00e2ndia",
+            "ru": "\u041a\u0443\u0440\u0437\u0435\u043c\u0435",
+            "sk": "Kur\u00f3nsko",
+            "tr": "Kurlandiya",
+            "uk": "\u041a\u0443\u0440\u0437\u0435\u043c\u0435",
+            "zh": "\u5eab\u723e\u862d",
+            "be-tarask": "\u041a\u0443\u0440\u043b\u044f\u043d\u0434\u044b\u044f"
+        },
+        "extra": {
+            "wikidata": "Q185072",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": null,
+        "osm_id": 1775821,
+        "osm_place_id": 282642385,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Latgale",
+        "name_eng": "Latgale",
+        "name_translations": {
+            "be": "\u041b\u0430\u0442\u0433\u0430\u043b\u0456\u044f",
+            "bg": "\u041b\u0430\u0442\u0433\u0430\u043b\u0435",
+            "da": "Letgallen",
+            "de": "Lettgallen",
+            "en": "Latgale",
+            "es": "Letgalia",
+            "fi": "Latgallia",
+            "fr": "Latgale",
+            "he": "\u05dc\u05d8\u05d2\u05dc\u05d9\u05d4",
+            "it": "Latgallia",
+            "ja": "\u30e9\u30c8\u30ac\u30ec",
+            "ka": "\u10da\u10d0\u10e2\u10d2\u10d0\u10da\u10d8\u10d0",
+            "ko": "\ub77c\ud2b8\uac08\ub808",
+            "lt": "Latgala",
+            "lv": "Latgale",
+            "pl": "\u0141atgalia",
+            "ru": "\u041b\u0430\u0442\u0433\u0430\u043b\u0438\u044f",
+            "uk": "\u041b\u0430\u0442\u0433\u0430\u043b\u0456\u044f",
+            "be-tarask": "\u041b\u0430\u0442\u0433\u0430\u043b\u0456\u044f"
+        },
+        "extra": {
+            "wikidata": "Q208113",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": null,
+        "osm_id": 13048685,
+        "osm_place_id": 283498154,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Liep\u0101ja",
+        "name_eng": "Liep\u0101ja",
+        "name_translations": {
+            "be": "\u041b\u0456\u0431\u0430\u0432\u0430",
+            "de": "Libau",
+            "en": "Liepaja",
+            "fi": "Liep\u0101ja",
+            "he": "\u05dc\u05d9\u05d9\u05e4\u05d0\u05d9\u05d4",
+            "hu": "Liep\u0101ja",
+            "lt": "Liepoja",
+            "lv": "Liep\u0101ja",
+            "pl": "Lipawa",
+            "ru": "\u041b\u0438\u0435\u043f\u0430\u044f",
+            "uk": "\u041b\u0456\u0454\u043f\u0430\u044f"
+        },
+        "extra": {
+            "wikidata": "Q167668",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": null,
+        "osm_id": 13047876,
+        "osm_place_id": 283619230,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Limba\u017eu novads",
+        "name_eng": "Limba\u017eu novads",
+        "name_translations": {
+            "lv": "Limba\u017eu novads"
+        },
+        "extra": {
+            "wikidata": "Q97231916",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": null,
+        "osm_id": 1781277,
+        "osm_place_id": 282643565,
+        "osm_admin_level": 6,
+        "osm_type": "historic",
+        "name_loc": "Limba\u017eu novads",
+        "name_eng": "Limba\u017eu novads",
+        "name_translations": {
+            "lv": "Limba\u017eu novads",
+            "ru": "\u041b\u0438\u043c\u0431\u0430\u0436\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439"
+        },
+        "extra": {
+            "wikidata": "Q1579076",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": "LV-056",
+        "osm_id": 13047865,
+        "osm_place_id": 283643532,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "L\u012bv\u0101nu novads",
+        "name_eng": "L\u012bv\u0101nu novads",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2277489",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": "LV-057",
+        "osm_id": 1797386,
+        "osm_place_id": 282463051,
+        "osm_admin_level": 6,
+        "osm_type": "historic",
+        "name_loc": "Lub\u0101nas novads",
+        "name_eng": "Lub\u0101nas novads",
+        "name_translations": {
+            "lt": "Lubanos savivaldyb\u0117",
+            "lv": "Lub\u0101nas novads",
+            "ru": "\u041b\u0443\u0431\u0430\u043d\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439"
+        },
+        "extra": {
+            "wikidata": "Q2072165",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": "LV-058",
+        "osm_id": 13047872,
+        "osm_place_id": 283461486,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Ludzas novads",
+        "name_eng": "Ludzas novads",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q97231943",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": "LV-058",
+        "osm_id": 1806940,
+        "osm_place_id": 282207953,
+        "osm_admin_level": 6,
+        "osm_type": "historic",
+        "name_loc": "Ludzas novads",
+        "name_eng": "Ludzas novads",
+        "name_translations": {
+            "lt": "Ludzos savivaldyb\u0117",
+            "lv": "Ludzas novads",
+            "pl": "gmina Lucyn",
+            "ru": "\u041b\u0443\u0434\u0437\u0435\u043d\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+            "ltg": "Ludzys n\u016bvods"
+        },
+        "extra": {
+            "wikidata": "Q932445",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": "LV-059",
+        "osm_id": 13047863,
+        "osm_place_id": 283438037,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Madonas novads",
+        "name_eng": "Madonas novads",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q97231990",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": "LV-059",
+        "osm_id": 1806943,
+        "osm_place_id": 282288645,
+        "osm_admin_level": 6,
+        "osm_type": "historic",
+        "name_loc": "Madonas novads",
+        "name_eng": "Madonas novads",
+        "name_translations": {
+            "lt": "Maduonos savivaldyb\u0117",
+            "lv": "Madonas novads",
+            "ru": "\u041c\u0430\u0434\u043e\u043d\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+            "ltg": "Modyunis n\u016bvods"
+        },
+        "extra": {
+            "wikidata": "Q2198472",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": "LV-062",
+        "osm_id": 13047859,
+        "osm_place_id": 283593096,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "M\u0101rupes novads",
+        "name_eng": "M\u0101rupes novads",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q97232200",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": "LV-060",
+        "osm_id": 1797387,
+        "osm_place_id": 282535849,
+        "osm_admin_level": 6,
+        "osm_type": "historic",
+        "name_loc": "Mazsalacas novads",
+        "name_eng": "Mazsalaca county",
+        "name_translations": {
+            "en": "Mazsalaca county",
+            "et": "Mazsalaca piirkond",
+            "lv": "Mazsalacas novads",
+            "ru": "\u041c\u0430\u0437\u0441\u0430\u043b\u0430\u0446\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439"
+        },
+        "extra": {
+            "wikidata": "Q2283334",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": "LV-064",
+        "osm_id": 1797388,
+        "osm_place_id": 282208031,
+        "osm_admin_level": 6,
+        "osm_type": "historic",
+        "name_loc": "Nauk\u0161\u0113nu novads",
+        "name_eng": "Nauk\u0161\u0113nu novads",
+        "name_translations": {
+            "lv": "Nauk\u0161\u0113nu novads",
+            "ru": "\u041d\u0430\u0443\u043a\u0448\u0435\u043d\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439"
+        },
+        "extra": {
+            "wikidata": "Q773027",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": "LV-065",
+        "osm_id": 1811629,
+        "osm_place_id": 282455260,
+        "osm_admin_level": 6,
+        "osm_type": "historic",
+        "name_loc": "Neretas novads",
+        "name_eng": "Neretas novads",
+        "name_translations": {
+            "lt": "Neretos savivaldyb\u0117",
+            "lv": "Neretas novads",
+            "ru": "\u041d\u0435\u0440\u0435\u0442\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439"
+        },
+        "extra": {
+            "wikidata": "Q2161795",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": "LV-066",
+        "osm_id": 1781255,
+        "osm_place_id": 282512944,
+        "osm_admin_level": 6,
+        "osm_type": "historic",
+        "name_loc": "N\u012bcas novads",
+        "name_eng": "N\u012bcas novads",
+        "name_translations": {
+            "lv": "N\u012bcas novads",
+            "ru": "\u041d\u0438\u0446\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439"
+        },
+        "extra": {
+            "wikidata": "Q1950456",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": "LV-067",
+        "osm_id": 13047866,
+        "osm_place_id": 283608444,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Ogres novads",
+        "name_eng": "Ogres novads",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q97232220",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": "LV-068",
+        "osm_id": 13047948,
+        "osm_place_id": 283566965,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Olaines novads",
+        "name_eng": "Olaine parish",
+        "name_translations": {
+            "en": "Olaine parish",
+            "lv": "Olaines novads"
+        },
+        "extra": {
+            "wikidata": "Q2451375",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": "LV-069",
+        "osm_id": 1781256,
+        "osm_place_id": 282203539,
+        "osm_admin_level": 6,
+        "osm_type": "historic",
+        "name_loc": "Ozolnieku novads",
+        "name_eng": "Ozolnieku novads",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2304926",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": "LV-070",
+        "osm_id": 1806946,
+        "osm_place_id": 282420341,
+        "osm_admin_level": 6,
+        "osm_type": "historic",
+        "name_loc": "P\u0101rgaujas novads",
+        "name_eng": "P\u0101rgaujas novads",
+        "name_translations": {
+            "lv": "P\u0101rgaujas novads",
+            "ru": "\u041f\u0430\u0440\u0433\u0430\u0443\u0439\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439"
+        },
+        "extra": {
+            "wikidata": "Q2304831",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": "LV-072",
+        "osm_id": 1811631,
+        "osm_place_id": 282574495,
+        "osm_admin_level": 6,
+        "osm_type": "historic",
+        "name_loc": "P\u013cavi\u0146u novads",
+        "name_eng": "P\u013cavi\u0146u novads",
+        "name_translations": {
+            "lv": "P\u013cavi\u0146u novads",
+            "ru": "\u041f\u043b\u044f\u0432\u0438\u043d\u044c\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439"
+        },
+        "extra": {
+            "wikidata": "Q865649",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": "LV-073",
+        "osm_id": 1806944,
+        "osm_place_id": 282217711,
+        "osm_admin_level": 6,
+        "osm_type": "historic",
+        "name_loc": "Prei\u013cu novads",
+        "name_eng": "Prei\u013cu novads",
+        "name_translations": {
+            "lt": "Preili\u0173 savivaldyb\u0117",
+            "lv": "Prei\u013cu novads",
+            "pl": "Powiat Prele",
+            "ru": "\u041f\u0440\u0435\u0439\u043b\u044c\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+            "ltg": "Prei\u013cu n\u016bvods"
+        },
+        "extra": {
+            "wikidata": "Q2277469",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": "LV-073",
+        "osm_id": 13047972,
+        "osm_place_id": 283497995,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Prei\u013cu novads",
+        "name_eng": "Prei\u013cu novads",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q97232413",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": "LV-074",
+        "osm_id": 1781257,
+        "osm_place_id": 282240585,
+        "osm_admin_level": 6,
+        "osm_type": "historic",
+        "name_loc": "Priekules novads",
+        "name_eng": "Priekules novads",
+        "name_translations": {
+            "ja": "\u30d7\u30ea\u30a8\u30af\u30ea",
+            "lv": "Priekules novads",
+            "ru": "\u041f\u0440\u0438\u0435\u043a\u0443\u043b\u044c\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439"
+        },
+        "extra": {
+            "wikidata": "Q2304893",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": "LV-075",
+        "osm_id": 1806945,
+        "osm_place_id": 282646859,
+        "osm_admin_level": 6,
+        "osm_type": "historic",
+        "name_loc": "Prieku\u013cu novads",
+        "name_eng": "Prieku\u013cu novads",
+        "name_translations": {
+            "lv": "Prieku\u013cu novads",
+            "ru": "\u041f\u0440\u0438\u0435\u043a\u0443\u043b\u044c\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439"
+        },
+        "extra": {
+            "wikidata": "Q2299231",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": null,
+        "osm_id": 13048682,
+        "osm_place_id": 283619283,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "R\u0113zekne",
+        "name_eng": "R\u0113zekne",
+        "name_translations": {
+            "be": "\u0420\u044d\u0437\u044d\u043a\u043d\u044d",
+            "de": "Rositten",
+            "en": "Rezekne",
+            "fi": "R\u0113zekne",
+            "lt": "R\u0117zekn\u0117",
+            "lv": "R\u0113zekne",
+            "pl": "Rze\u017cyca",
+            "ru": "\u0420\u0435\u0437\u0435\u043a\u043d\u0435",
+            "uk": "Rezekne"
+        },
+        "extra": {
+            "wikidata": "Q180379",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": "LV-077",
+        "osm_id": 1806949,
+        "osm_place_id": 282416874,
+        "osm_admin_level": 6,
+        "osm_type": "historic",
+        "name_loc": "R\u0113zeknes novads",
+        "name_eng": "R\u0113zeknes novads",
+        "name_translations": {
+            "lt": "R\u0117zekn\u0117s savivaldyb\u0117",
+            "lv": "R\u0113zeknes novads",
+            "pl": "powiat Rze\u017cyca",
+            "ru": "\u0420\u0435\u0437\u0435\u043a\u043d\u0435\u043d\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+            "ltg": "R\u0113zeknis n\u016bvods"
+        },
+        "extra": {
+            "wikidata": "Q1518841",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": "LV-077",
+        "osm_id": 13047871,
+        "osm_place_id": 283404366,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "R\u0113zeknes novads",
+        "name_eng": "R\u0113zeknes novads",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q97232589",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": "LV-078",
+        "osm_id": 1806948,
+        "osm_place_id": 282454757,
+        "osm_admin_level": 6,
+        "osm_type": "historic",
+        "name_loc": "Riebi\u0146u novads",
+        "name_eng": "Riebi\u0146u novads",
+        "name_translations": {
+            "lt": "Riebini\u0173 savivaldyb\u0117",
+            "lv": "Riebi\u0146u novads",
+            "ru": "\u0420\u0438\u0435\u0431\u0438\u043d\u044c\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+            "ltg": "Ribini\u0161ku n\u016bvods"
+        },
+        "extra": {
+            "wikidata": "Q2106159",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": null,
+        "osm_id": 13048688,
+        "osm_place_id": 283462497,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "R\u012bga",
+        "name_eng": "R\u012bga",
+        "name_translations": {
+            "lv": "R\u012bga"
+        },
+        "extra": {
+            "wikidata": "Q1773",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": "LV-080",
+        "osm_id": 13047860,
+        "osm_place_id": 283553401,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Ropa\u017eu novads",
+        "name_eng": "Ropa\u017eu novads",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q97232560",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": "LV-081",
+        "osm_id": 1781260,
+        "osm_place_id": 282348140,
+        "osm_admin_level": 6,
+        "osm_type": "historic",
+        "name_loc": "Rucavas novads",
+        "name_eng": "Rucavas novads",
+        "name_translations": {
+            "lt": "Rucavos savivaldyb\u0117",
+            "lv": "Rucavas novads",
+            "ru": "\u0420\u0443\u0446\u0430\u0432\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439"
+        },
+        "extra": {
+            "wikidata": "Q2124995",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": "LV-082",
+        "osm_id": 1797389,
+        "osm_place_id": 282740776,
+        "osm_admin_level": 6,
+        "osm_type": "historic",
+        "name_loc": "Rug\u0101ju novads",
+        "name_eng": "Rug\u0101ju novads",
+        "name_translations": {
+            "lt": "Rugaj\u0173 savivaldyb\u0117",
+            "lv": "Rug\u0101ju novads",
+            "ru": "\u0420\u0443\u0433\u0430\u0439\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439"
+        },
+        "extra": {
+            "wikidata": "Q1837354",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": "LV-084",
+        "osm_id": 1797390,
+        "osm_place_id": 282206408,
+        "osm_admin_level": 6,
+        "osm_type": "historic",
+        "name_loc": "R\u016bjienas novads",
+        "name_eng": "R\u016bjienas novads",
+        "name_translations": {
+            "lv": "R\u016bjienas novads",
+            "ru": "\u0420\u0443\u0439\u0438\u0435\u043d\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439"
+        },
+        "extra": {
+            "wikidata": "Q2299415",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": "LV-083",
+        "osm_id": 1781261,
+        "osm_place_id": 282198387,
+        "osm_admin_level": 6,
+        "osm_type": "historic",
+        "name_loc": "Rund\u0101les novads",
+        "name_eng": "Rund\u0101les novads",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2122124",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": null,
+        "osm_id": 1797321,
+        "osm_place_id": 282277118,
+        "osm_admin_level": 6,
+        "osm_type": "historic",
+        "name_loc": "Salacgr\u012bvas novads",
+        "name_eng": "Salacgr\u012bvas novads",
+        "name_translations": {
+            "lt": "Salacgryvos savivaldyb\u0117",
+            "lv": "Salacgr\u012bvas novads",
+            "ru": "\u0421\u0430\u043b\u0430\u0446\u0433\u0440\u0438\u0432\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439"
+        },
+        "extra": {
+            "wikidata": "Q2251931",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": "LV-085",
+        "osm_id": 1811632,
+        "osm_place_id": 282265608,
+        "osm_admin_level": 6,
+        "osm_type": "historic",
+        "name_loc": "Salas novads",
+        "name_eng": "Salas novads",
+        "name_translations": {
+            "lv": "Salas novads",
+            "ru": "\u0421\u0430\u043b\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439"
+        },
+        "extra": {
+            "wikidata": "Q2375848",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": "LV-087",
+        "osm_id": 13047947,
+        "osm_place_id": 283464489,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Salaspils novads",
+        "name_eng": "Salaspils novads",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2140753",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": "LV-088",
+        "osm_id": 13047880,
+        "osm_place_id": 283430906,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Saldus novads",
+        "name_eng": "Saldus novads",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q97232673",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": "LV-088",
+        "osm_id": 1764649,
+        "osm_place_id": 327322298,
+        "osm_admin_level": 6,
+        "osm_type": "historic",
+        "name_loc": "Saldus novads",
+        "name_eng": "Saldus novads",
+        "name_translations": {
+            "de": "Bezirk Frauenburg",
+            "lv": "Saldus novads",
+            "ru": "\u0421\u0430\u043b\u0434\u0443\u0441\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439"
+        },
+        "extra": {
+            "wikidata": "Q2299261",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": null,
+        "osm_id": 13047862,
+        "osm_place_id": 283592088,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Saulkrastu novads",
+        "name_eng": "Saulkrastu novads",
+        "name_translations": {
+            "lv": "Saulkrastu novads"
+        },
+        "extra": {
+            "wikidata": "Q97232692",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": "LV-091",
+        "osm_id": 13047858,
+        "osm_place_id": 283551288,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Siguldas novads",
+        "name_eng": "Siguldas novads",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q97232700",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": "LV-094",
+        "osm_id": 1806957,
+        "osm_place_id": 282185343,
+        "osm_admin_level": 6,
+        "osm_type": "historic",
+        "name_loc": "Smiltenes novads",
+        "name_eng": "Smiltenes novads",
+        "name_translations": {
+            "lv": "Smiltenes novads",
+            "ru": "\u0421\u043c\u0438\u043b\u0442\u0435\u043d\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439"
+        },
+        "extra": {
+            "wikidata": "Q1959984",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": "LV-094",
+        "osm_id": 13047874,
+        "osm_place_id": 283460180,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Smiltenes novads",
+        "name_eng": "Smiltenes novads",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q97232760",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": "LV-096",
+        "osm_id": 1797391,
+        "osm_place_id": 282249081,
+        "osm_admin_level": 6,
+        "osm_type": "historic",
+        "name_loc": "Stren\u010du novads",
+        "name_eng": "Stren\u010du novads",
+        "name_translations": {
+            "lv": "Stren\u010du novads",
+            "ru": "\u0421\u0442\u0440\u0435\u043d\u0447\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439"
+        },
+        "extra": {
+            "wikidata": "Q2299223",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": "LV-097",
+        "osm_id": 13047882,
+        "osm_place_id": 283461405,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Talsu novads",
+        "name_eng": "Talsu novads",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q97232890",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": "LV-097",
+        "osm_id": 1781263,
+        "osm_place_id": 320934489,
+        "osm_admin_level": 6,
+        "osm_type": "historic",
+        "name_loc": "Talsu novads",
+        "name_eng": "Talsu novads",
+        "name_translations": {
+            "lt": "Tals\u0173 savivaldyb\u0117",
+            "lv": "Talsu novads"
+        },
+        "extra": {
+            "wikidata": "Q2302964",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": "LV-098",
+        "osm_id": 1764656,
+        "osm_place_id": 282202849,
+        "osm_admin_level": 6,
+        "osm_type": "historic",
+        "name_loc": "T\u0113rvetes novads",
+        "name_eng": "T\u0113rvetes novads",
+        "name_translations": {
+            "lv": "T\u0113rvetes novads",
+            "ru": "\u0422\u0435\u0440\u0432\u0435\u0442\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439"
+        },
+        "extra": {
+            "wikidata": "Q2269685",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": "LV-099",
+        "osm_id": 13047881,
+        "osm_place_id": 283564391,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Tukuma novads",
+        "name_eng": "Tukuma novads",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q97232977",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": null,
+        "osm_id": 1781264,
+        "osm_place_id": 282194713,
+        "osm_admin_level": 6,
+        "osm_type": "historic",
+        "name_loc": "Tukuma novads",
+        "name_eng": "Tukuma novads",
+        "name_translations": {
+            "lt": "Tukumo savivaldyb\u0117",
+            "lv": "Tukuma novads"
+        },
+        "extra": {
+            "wikidata": "Q369007",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": "LV-100",
+        "osm_id": 1781265,
+        "osm_place_id": 282314138,
+        "osm_admin_level": 6,
+        "osm_type": "historic",
+        "name_loc": "Vai\u0146odes novads",
+        "name_eng": "Vai\u0146odes novads",
+        "name_translations": {
+            "lv": "Vai\u0146odes novads",
+            "ru": "\u0412\u0430\u0439\u043d\u0451\u0434\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439"
+        },
+        "extra": {
+            "wikidata": "Q511151",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": "LV-101",
+        "osm_id": 1797392,
+        "osm_place_id": 282206880,
+        "osm_admin_level": 6,
+        "osm_type": "historic",
+        "name_loc": "Valkas novads",
+        "name_eng": "Valkas novads",
+        "name_translations": {
+            "de": "Bezirk Walk",
+            "lv": "Valkas novads",
+            "ru": "\u0412\u0430\u043b\u043a\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439"
+        },
+        "extra": {
+            "wikidata": "Q1945263",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": "LV-101",
+        "osm_id": 13047854,
+        "osm_place_id": 283464418,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Valkas novads",
+        "name_eng": "Valkas novads",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1945263",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": "LV-113",
+        "osm_id": 13047875,
+        "osm_place_id": 283614183,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Valmieras novads",
+        "name_eng": "Valmieras novads",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q97233086",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": "LV-102",
+        "osm_id": 1806951,
+        "osm_place_id": 282265056,
+        "osm_admin_level": 6,
+        "osm_type": "historic",
+        "name_loc": "Varak\u013c\u0101nu novads",
+        "name_eng": "Varak\u013c\u0101nu novads",
+        "name_translations": {
+            "lt": "Varaklian\u0173 savivaldyb\u0117",
+            "lv": "Varak\u013c\u0101nu novads",
+            "ru": "\u0412\u0430\u0440\u0430\u043a\u043b\u044f\u043d\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+            "ltg": "Varak\u013cuonu n\u016bvods"
+        },
+        "extra": {
+            "wikidata": "Q432596",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": "LV-102",
+        "osm_id": 13047864,
+        "osm_place_id": 283575655,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Varak\u013c\u0101nu novads",
+        "name_eng": "Varak\u013c\u0101nu novads",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q432596",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": "LV-103",
+        "osm_id": 1806954,
+        "osm_place_id": 282516381,
+        "osm_admin_level": 6,
+        "osm_type": "historic",
+        "name_loc": "V\u0101rkavas novads",
+        "name_eng": "V\u0101rkavas novads",
+        "name_translations": {
+            "lt": "Varkavos savivaldyb\u0117",
+            "lv": "V\u0101rkavas novads",
+            "ru": "\u0412\u0430\u0440\u043a\u0430\u0432\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+            "ltg": "Vuorkovys n\u016bvods"
+        },
+        "extra": {
+            "wikidata": "Q1023757",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": "LV-104",
+        "osm_id": 1806952,
+        "osm_place_id": 282234866,
+        "osm_admin_level": 6,
+        "osm_type": "historic",
+        "name_loc": "Vecpiebalgas novads",
+        "name_eng": "Vecpiebalgas novads",
+        "name_translations": {
+            "lv": "Vecpiebalgas novads",
+            "ru": "\u0412\u0435\u0446\u043f\u0438\u0435\u0431\u0430\u043b\u0433\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439"
+        },
+        "extra": {
+            "wikidata": "Q1920815",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": "LV-105",
+        "osm_id": 1811635,
+        "osm_place_id": 282517065,
+        "osm_admin_level": 6,
+        "osm_type": "historic",
+        "name_loc": "Vecumnieku novads",
+        "name_eng": "Vecumnieku novads",
+        "name_translations": {
+            "ja": "\u30f4\u30a7\u30c4\u30e0\u30cb\u30a8\u30ad",
+            "lt": "Vecumniek\u0173 savivaldyb\u0117",
+            "lv": "Vecumnieku novads",
+            "ru": "\u0412\u0435\u0446\u0443\u043c\u043d\u0438\u0435\u043a\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439"
+        },
+        "extra": {
+            "wikidata": "Q2299436",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": null,
+        "osm_id": 13048686,
+        "osm_place_id": 283432278,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Ventspils",
+        "name_eng": "Ventspils",
+        "name_translations": {
+            "be": "\u0412\u0456\u043d\u0434\u0430\u0432\u0430",
+            "de": "Windau",
+            "et": "Vindavi",
+            "fi": "Ventspils",
+            "lt": "Ventspilis",
+            "lv": "Ventspils",
+            "pl": "Windawa",
+            "ru": "\u0412\u0435\u043d\u0442\u0441\u043f\u0438\u043b\u0441",
+            "uk": "\u0412\u0435\u043d\u0442\u0441\u043f\u0456\u043b\u0441",
+            "liv": "V\u01dfnta",
+            "ltg": "Ventspi\u013cs",
+            "sgs": "V\u0117ntsp\u0117lis"
+        },
+        "extra": {
+            "wikidata": "Q104036",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": "LV-106",
+        "osm_id": 2019173,
+        "osm_place_id": 282213809,
+        "osm_admin_level": 6,
+        "osm_type": "historic",
+        "name_loc": "Ventspils novads",
+        "name_eng": "Ventspils novads",
+        "name_translations": {
+            "ja": "\u30f4\u30a7\u30f3\u30c4\u30d4\u30eb\u30b9",
+            "lv": "Ventspils novads",
+            "ru": "\u0412\u0435\u043d\u0442\u0441\u043f\u0438\u043b\u0441\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439"
+        },
+        "extra": {
+            "wikidata": "Q1345325",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": "LV-106",
+        "osm_id": 13047867,
+        "osm_place_id": 283403759,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Ventspils novads",
+        "name_eng": "Ventspils novads",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1345325",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": null,
+        "osm_id": 1775823,
+        "osm_place_id": 282195631,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Vidzeme",
+        "name_eng": "Vidzeme",
+        "name_translations": {
+            "be": "\u0412\u0456\u0434\u0437\u044d\u043c\u044d",
+            "bg": "\u0412\u0438\u0434\u0437\u0435\u043c\u0435",
+            "de": "Livland",
+            "en": "Vidzeme",
+            "es": "Vidzeme",
+            "fi": "Vidzeme",
+            "fr": "Vidzeme",
+            "ja": "\u30f4\u30a3\u30c9\u30bc\u30e1",
+            "lt": "Vid\u017eem\u0117",
+            "lv": "Vidzeme",
+            "nl": "Lijfland",
+            "pl": "Liwonia",
+            "pt": "Vidzeme",
+            "ru": "\u0412\u0438\u0434\u0437\u0435\u043c\u0435",
+            "uk": "\u0412\u0456\u0434\u0437\u0435\u043c\u0435",
+            "be-tarask": "\u0412\u0456\u0434\u0437\u044d\u043c\u044d"
+        },
+        "extra": {
+            "wikidata": "Q745303",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": "LV-107",
+        "osm_id": 1811636,
+        "osm_place_id": 282206381,
+        "osm_admin_level": 6,
+        "osm_type": "historic",
+        "name_loc": "Vies\u012btes novads",
+        "name_eng": "Vies\u012btes novads",
+        "name_translations": {
+            "lt": "Viesyt\u0117s savivaldyb\u0117",
+            "lv": "Vies\u012btes novads",
+            "ru": "\u0412\u0438\u0435\u0441\u0438\u0442\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439"
+        },
+        "extra": {
+            "wikidata": "Q2093996",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": "LV-108",
+        "osm_id": 1797393,
+        "osm_place_id": 282296858,
+        "osm_admin_level": 6,
+        "osm_type": "historic",
+        "name_loc": "Vi\u013cakas novads",
+        "name_eng": "Vi\u013cakas novads",
+        "name_translations": {
+            "lv": "Vi\u013cakas novads",
+            "ru": "\u0412\u0438\u043b\u044f\u043a\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439"
+        },
+        "extra": {
+            "wikidata": "Q1869075",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": "LV-109",
+        "osm_id": 1806953,
+        "osm_place_id": 282241311,
+        "osm_admin_level": 6,
+        "osm_type": "historic",
+        "name_loc": "Vi\u013c\u0101nu novads",
+        "name_eng": "Vi\u013c\u0101nu novads",
+        "name_translations": {
+            "lt": "Vilian\u0173 savivaldyb\u0117",
+            "lv": "Vi\u013c\u0101nu novads",
+            "ru": "\u0412\u0438\u043b\u044f\u043d\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+            "ltg": "Vi\u013c\u0101nu n\u016bvods"
+        },
+        "extra": {
+            "wikidata": "Q2018681",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": null,
+        "osm_id": 1775647,
+        "osm_place_id": 282198213,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Zemgale",
+        "name_eng": "Zemgale",
+        "name_translations": {
+            "be": "\u0417\u044d\u043c\u0433\u0430\u043b\u044d",
+            "de": "Semgallen",
+            "en": "Zemgale",
+            "es": "Semigalia",
+            "fr": "Zemgale",
+            "it": "Semgallia",
+            "ja": "\u30bc\u30e0\u30ac\u30ec",
+            "lt": "\u017diemgala",
+            "lv": "Zemgale",
+            "pl": "Semigalia",
+            "pt": "Semigola",
+            "ru": "\u0417\u0435\u043c\u0433\u0430\u043b\u0435",
+            "sv": "Semgallen",
+            "uk": "\u0417\u0435\u043c\u0433\u0430\u043b\u0435",
+            "be-tarask": "\u0417\u044d\u043c\u0433\u0430\u043b\u044d"
+        },
+        "extra": {
+            "wikidata": "Q215389",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lv",
+        "country_cca3": "lva",
+        "region_cca2": "LV-110",
+        "osm_id": 1806955,
+        "osm_place_id": 282192072,
+        "osm_admin_level": 6,
+        "osm_type": "historic",
+        "name_loc": "Zilupes novads",
+        "name_eng": "Zilupes novads",
+        "name_translations": {
+            "ja": "\u30ba\u30a3\u30eb\u30da",
+            "lt": "Zilup\u0117s savivaldyb\u0117",
+            "lv": "Zilupes novads",
+            "ru": "\u0417\u0438\u043b\u0443\u043f\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+            "ltg": "S\u012bnuojis n\u016bvods"
+        },
+        "extra": {
+            "wikidata": "Q3274762",
+            "un_locode": null
+        }
+    }
+]

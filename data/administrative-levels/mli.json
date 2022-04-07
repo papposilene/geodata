@@ -1,0 +1,1294 @@
+[
+    {
+        "country_cca2": "ml",
+        "country_cca3": "mli",
+        "region_cca2": null,
+        "osm_id": 3083704,
+        "osm_place_id": 282378175,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Bafoulab\u00e9",
+        "name_eng": "Bafoulab\u00e9 Cercle",
+        "name_translations": {
+            "en": "Bafoulab\u00e9 Cercle",
+            "fr": "Cercle de Bafoulab\u00e9"
+        },
+        "extra": {
+            "wikidata": "Q648765",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ml",
+        "country_cca3": "mli",
+        "region_cca2": null,
+        "osm_id": 3544925,
+        "osm_place_id": 282512048,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Bamako",
+        "name_eng": "Bamako",
+        "name_translations": {
+            "am": "\u1263\u121b\u12ae",
+            "ar": "\u0628\u0627\u0645\u0627\u0643\u0648",
+            "be": "\u0411\u0430\u043c\u0430\u043a\u043e",
+            "bg": "\u0411\u0430\u043c\u0430\u043a\u043e",
+            "bm": "Bamak\u0254",
+            "bo": "\u0f56\u0f0b\u0f58\u0f0b\u0f40\u0f7c\u0f0d",
+            "cv": "\u0411\u0430\u043c\u0430\u043a\u043e",
+            "de": "Bamako",
+            "el": "\u039c\u03c0\u03b1\u03bc\u03ac\u03ba\u03bf",
+            "en": "Bamako",
+            "eo": "Bamako",
+            "fa": "\u0628\u0627\u0645\u0627\u06a9\u0648",
+            "fr": "Bamako",
+            "gl": "Bamaco",
+            "he": "\u05d1\u05de\u05e7\u05d5",
+            "hi": "\u092c\u092e\u093e\u0915\u094b",
+            "hu": "Bamako",
+            "hy": "\u0532\u0561\u0574\u0561\u056f\u0578",
+            "is": "Bamak\u00f3",
+            "ja": "\u30d0\u30de\u30b3",
+            "ka": "\u10d1\u10d0\u10db\u10d0\u10d9\u10dd",
+            "ko": "\ubc14\ub9c8\ucf54",
+            "ky": "\u0411\u0430\u043c\u0430\u043a\u043e",
+            "lt": "Bamakas",
+            "mk": "\u0411\u0430\u043c\u0430\u043a\u043e",
+            "mr": "\u092c\u092e\u093e\u0915\u094b",
+            "os": "\u0411\u0430\u043c\u0430\u043a\u043e",
+            "pl": "Bamako",
+            "ru": "\u0411\u0430\u043c\u0430\u043a\u043e",
+            "sr": "\u0411\u0430\u043c\u0430\u043a\u043e",
+            "sv": "Bamako",
+            "ta": "\u0baa\u0bae\u0bbe\u0b95\u0bcd\u0b95\u0bcb",
+            "tg": "\u0411\u0430\u043c\u0430\u043a\u043e",
+            "th": "\u0e1a\u0e32\u0e21\u0e32\u0e42\u0e01",
+            "uk": "\u0411\u0430\u043c\u0430\u043a\u043e",
+            "ur": "\u0628\u0645\u0627\u06a9\u0648",
+            "zh": "\u5df4\u99ac\u79d1",
+            "arc": "\u0712\u0721\u0729\u0718",
+            "ckb": "\u0628\u0627\u0645\u0627\u06a9\u06c6",
+            "kab": "Bamaku",
+            "mrj": "\u0411\u0430\u043c\u0430\u043a\u043e",
+            "pnb": "\u0628\u0645\u0627\u06a9\u0648",
+            "udm": "\u0411\u0430\u043c\u0430\u043a\u043e",
+            "be-tarask": "\u0411\u0430\u043c\u0430\u043a\u0430"
+        },
+        "extra": {
+            "wikidata": "Q3703",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ml",
+        "country_cca3": "mli",
+        "region_cca2": "ML-BKO",
+        "osm_id": 2105525,
+        "osm_place_id": 282359370,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Bamako",
+        "name_eng": "Bamako",
+        "name_translations": {
+            "am": "\u1263\u121b\u12ae",
+            "ar": "\u0628\u0627\u0645\u0627\u0643\u0648",
+            "be": "\u0411\u0430\u043c\u0430\u043a\u043e",
+            "bg": "\u0411\u0430\u043c\u0430\u043a\u043e",
+            "bm": "Bamak\u0254",
+            "bo": "\u0f56\u0f0b\u0f58\u0f0b\u0f40\u0f7c\u0f0d",
+            "cv": "\u0411\u0430\u043c\u0430\u043a\u043e",
+            "de": "Bamako",
+            "el": "\u039c\u03c0\u03b1\u03bc\u03ac\u03ba\u03bf",
+            "en": "Bamako",
+            "eo": "Bamako",
+            "fa": "\u0628\u0627\u0645\u0627\u06a9\u0648",
+            "fr": "Bamako",
+            "gl": "Bamaco",
+            "he": "\u05d1\u05de\u05e7\u05d5",
+            "hi": "\u092c\u092e\u093e\u0915\u094b",
+            "hu": "Bamako",
+            "hy": "\u0532\u0561\u0574\u0561\u056f\u0578",
+            "is": "Bamak\u00f3",
+            "ja": "\u30d0\u30de\u30b3",
+            "ka": "\u10d1\u10d0\u10db\u10d0\u10d9\u10dd",
+            "ko": "\ubc14\ub9c8\ucf54",
+            "ky": "\u0411\u0430\u043c\u0430\u043a\u043e",
+            "lt": "Bamakas",
+            "mk": "\u0411\u0430\u043c\u0430\u043a\u043e",
+            "mr": "\u092c\u092e\u093e\u0915\u094b",
+            "os": "\u0411\u0430\u043c\u0430\u043a\u043e",
+            "pl": "Bamako",
+            "ru": "\u0411\u0430\u043c\u0430\u043a\u043e",
+            "sr": "\u0411\u0430\u043c\u0430\u043a\u043e",
+            "sv": "Bamako",
+            "ta": "\u0baa\u0bae\u0bbe\u0b95\u0bcd\u0b95\u0bcb",
+            "tg": "\u0411\u0430\u043c\u0430\u043a\u043e",
+            "th": "\u0e1a\u0e32\u0e21\u0e32\u0e42\u0e01",
+            "uk": "\u0411\u0430\u043c\u0430\u043a\u043e",
+            "ur": "\u0628\u0645\u0627\u06a9\u0648",
+            "zh": "\u5df4\u99ac\u79d1",
+            "arc": "\u0712\u0721\u0729\u0718",
+            "ckb": "\u0628\u0627\u0645\u0627\u06a9\u06c6",
+            "kab": "Bamaku",
+            "mrj": "\u0411\u0430\u043c\u0430\u043a\u043e",
+            "pnb": "\u0628\u0645\u0627\u06a9\u0648",
+            "udm": "\u0411\u0430\u043c\u0430\u043a\u043e",
+            "be-tarask": "\u0411\u0430\u043c\u0430\u043a\u0430"
+        },
+        "extra": {
+            "wikidata": "Q3703",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ml",
+        "country_cca3": "mli",
+        "region_cca2": null,
+        "osm_id": 3078991,
+        "osm_place_id": 282932941,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Cercle d'Abe\u00efbara",
+        "name_eng": "Abe\u00efbara Cercle",
+        "name_translations": {
+            "ar": "\u062f\u0627\u0626\u0631\u0629 \u0623\u0628\u064a\u0628\u0627\u0631\u0627",
+            "en": "Abe\u00efbara Cercle",
+            "fr": "Cercle d'Abe\u00efbara"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ml",
+        "country_cca3": "mli",
+        "region_cca2": null,
+        "osm_id": 3079150,
+        "osm_place_id": 282454253,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Cercle d'Ansongo",
+        "name_eng": "Ansongo Cercle",
+        "name_translations": {
+            "ar": "\u062f\u0627\u0626\u0631\u0629 \u0623\u0646\u0633\u0646\u0643\u0648",
+            "en": "Ansongo Cercle",
+            "fr": "Cercle d'Ansongo"
+        },
+        "extra": {
+            "wikidata": "Q570016",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ml",
+        "country_cca3": "mli",
+        "region_cca2": null,
+        "osm_id": 3083889,
+        "osm_place_id": 282933562,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Cercle de Banamba",
+        "name_eng": "Banamba Cercle",
+        "name_translations": {
+            "en": "Banamba Cercle",
+            "fr": "Cercle de Banamba"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ml",
+        "country_cca3": "mli",
+        "region_cca2": null,
+        "osm_id": 3084278,
+        "osm_place_id": 282680696,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Cercle de Bandiagara",
+        "name_eng": "Bandiagara Cercle",
+        "name_translations": {
+            "ar": "\u062f\u0627\u0626\u0631\u0629 \u0628\u0627\u0646\u062f\u064a\u0627\u063a\u0627\u0631\u0627",
+            "en": "Bandiagara Cercle",
+            "fr": "Cercle de Bandiagara"
+        },
+        "extra": {
+            "wikidata": "Q806313",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ml",
+        "country_cca3": "mli",
+        "region_cca2": null,
+        "osm_id": 3084279,
+        "osm_place_id": 282383720,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Cercle de Bankass",
+        "name_eng": "Bankass Cercle",
+        "name_translations": {
+            "ar": "\u062f\u0627\u0626\u0631\u0629 \u0628\u0627\u0646\u0643\u0627\u0633",
+            "en": "Bankass Cercle",
+            "fr": "Cercle de Bankass"
+        },
+        "extra": {
+            "wikidata": "Q806721",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ml",
+        "country_cca3": "mli",
+        "region_cca2": null,
+        "osm_id": 3085044,
+        "osm_place_id": 282816743,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Cercle de Baraou\u00e9li",
+        "name_eng": "Baraou\u00e9li Cercle",
+        "name_translations": {
+            "en": "Baraou\u00e9li Cercle",
+            "fr": "Cercle de Baraou\u00e9li"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ml",
+        "country_cca3": "mli",
+        "region_cca2": null,
+        "osm_id": 3085045,
+        "osm_place_id": 282566300,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Cercle de Bla",
+        "name_eng": "Bla Cercle",
+        "name_translations": {
+            "ar": "\u0627\u0644\u062f\u0627\u0626\u0631\u0629 \u0628\u0644\u0627",
+            "en": "Bla Cercle",
+            "fr": "Cercle de Bla"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ml",
+        "country_cca3": "mli",
+        "region_cca2": null,
+        "osm_id": 3083940,
+        "osm_place_id": 282367096,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Cercle de Bougouni",
+        "name_eng": "Bougouni Cercle",
+        "name_translations": {
+            "en": "Bougouni Cercle",
+            "fr": "Cercle de Bougouni"
+        },
+        "extra": {
+            "wikidata": "Q895013",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ml",
+        "country_cca3": "mli",
+        "region_cca2": null,
+        "osm_id": 3079151,
+        "osm_place_id": 282405681,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Cercle de Bourem",
+        "name_eng": "Bourem Cercle",
+        "name_translations": {
+            "en": "Bourem Cercle",
+            "fr": "Cercle de Bourem"
+        },
+        "extra": {
+            "wikidata": "Q474936",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ml",
+        "country_cca3": "mli",
+        "region_cca2": null,
+        "osm_id": 3083890,
+        "osm_place_id": 282381469,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Cercle de Dio\u00efla",
+        "name_eng": "Dio\u00efla Cercle",
+        "name_translations": {
+            "en": "Dio\u00efla Cercle",
+            "fr": "Cercle de Dio\u00efla"
+        },
+        "extra": {
+            "wikidata": "Q1227118",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ml",
+        "country_cca3": "mli",
+        "region_cca2": null,
+        "osm_id": 3079410,
+        "osm_place_id": 282443600,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Cercle de Dir\u00e9",
+        "name_eng": "Dir\u00e9 Cercle",
+        "name_translations": {
+            "en": "Dir\u00e9 Cercle",
+            "fr": "Cercle de Dir\u00e9"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ml",
+        "country_cca3": "mli",
+        "region_cca2": null,
+        "osm_id": 3084281,
+        "osm_place_id": 282367159,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Cercle de Djenn\u00e9",
+        "name_eng": "Djenn\u00e9 Cercle",
+        "name_translations": {
+            "en": "Djenn\u00e9 Cercle",
+            "fr": "Cercle de Djenn\u00e9"
+        },
+        "extra": {
+            "wikidata": "Q374553",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ml",
+        "country_cca3": "mli",
+        "region_cca2": null,
+        "osm_id": 3084280,
+        "osm_place_id": 282413349,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Cercle de Douentza",
+        "name_eng": "Douentza Cercle",
+        "name_translations": {
+            "en": "Douentza Cercle",
+            "fr": "Cercle de Douentza"
+        },
+        "extra": {
+            "wikidata": "Q940936",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ml",
+        "country_cca3": "mli",
+        "region_cca2": null,
+        "osm_id": 3079152,
+        "osm_place_id": 282439144,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Cercle de Gao",
+        "name_eng": "Gao Cercle",
+        "name_translations": {
+            "ar": "\u0627\u0644\u062f\u0627\u0626\u0631\u0629 \u063a\u0627\u0648",
+            "en": "Gao Cercle",
+            "fr": "Cercle de Gao"
+        },
+        "extra": {
+            "wikidata": "Q1493783",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ml",
+        "country_cca3": "mli",
+        "region_cca2": null,
+        "osm_id": 3079411,
+        "osm_place_id": 282680296,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Cercle de Goundam",
+        "name_eng": "Goundam Cercle",
+        "name_translations": {
+            "ar": "\u062f\u0627\u0626\u0631\u0629 \u063a\u0648\u0646\u062f\u0627\u0645",
+            "en": "Goundam Cercle",
+            "fr": "Cercle de Goundam"
+        },
+        "extra": {
+            "wikidata": "Q1499253",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ml",
+        "country_cca3": "mli",
+        "region_cca2": null,
+        "osm_id": 3083941,
+        "osm_place_id": 282368963,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Cercle de Kadiolo",
+        "name_eng": "Kadiolo Cercle",
+        "name_translations": {
+            "ar": "\u0627\u0644\u062f\u0627\u0626\u0631\u0629 \u0643\u0627\u062f\u064a\u0648\u0644\u0648",
+            "en": "Kadiolo Cercle",
+            "fr": "Cercle de Kadiolo"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ml",
+        "country_cca3": "mli",
+        "region_cca2": null,
+        "osm_id": 3083891,
+        "osm_place_id": 282407791,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Cercle de Kangaba",
+        "name_eng": "Kangaba Cercle",
+        "name_translations": {
+            "ar": "\u0627\u0644\u062f\u0627\u0626\u0631\u0629 \u0643\u0627\u0646\u0643\u0627\u0628\u0627",
+            "en": "Kangaba Cercle",
+            "fr": "Cercle de Kangaba"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ml",
+        "country_cca3": "mli",
+        "region_cca2": null,
+        "osm_id": 3083892,
+        "osm_place_id": 282414260,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Cercle de Kati",
+        "name_eng": "Kati Cercle",
+        "name_translations": {
+            "ar": "\u0627\u0644\u062f\u0627\u0626\u0631\u0629 \u0643\u0627\u062a\u064a",
+            "en": "Kati Cercle",
+            "fr": "Cercle de Kati"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ml",
+        "country_cca3": "mli",
+        "region_cca2": null,
+        "osm_id": 3078992,
+        "osm_place_id": 282379744,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Cercle de Kidal",
+        "name_eng": "Kidal Cercle",
+        "name_translations": {
+            "ar": "\u062f\u0627\u0626\u0631\u0629 \u0643\u064a\u062f\u0627\u0644",
+            "en": "Kidal Cercle",
+            "fa": "\u062f\u0627\u06cc\u0631\u0647 \u06a9\u06cc\u062f\u0627\u0644",
+            "fr": "Cercle de Kidal"
+        },
+        "extra": {
+            "wikidata": "Q668196",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ml",
+        "country_cca3": "mli",
+        "region_cca2": null,
+        "osm_id": 3083893,
+        "osm_place_id": 282455324,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Cercle de Kolokani",
+        "name_eng": "Kolokani Cercle",
+        "name_translations": {
+            "en": "Kolokani Cercle",
+            "fr": "Cercle de Kolokani"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ml",
+        "country_cca3": "mli",
+        "region_cca2": null,
+        "osm_id": 3083942,
+        "osm_place_id": 282492669,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Cercle de Kolondi\u00e9ba",
+        "name_eng": "Kolondi\u00e9ba Cercle",
+        "name_translations": {
+            "ar": "\u0627\u0644\u062f\u0627\u0626\u0631\u0629 \u0643\u0648\u0644\u0648\u0646\u062f\u064a\u0628\u0627",
+            "en": "Kolondi\u00e9ba Cercle",
+            "fr": "Cercle de Kolondi\u00e9ba"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ml",
+        "country_cca3": "mli",
+        "region_cca2": null,
+        "osm_id": 3084282,
+        "osm_place_id": 282369204,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Cercle de Koro",
+        "name_eng": "Koro Cercle",
+        "name_translations": {
+            "ar": "\u0627\u0644\u062f\u0627\u0626\u0631\u0629 \u0643\u064a\u062a\u0627 \u0643\u0648\u0631\u0648",
+            "en": "Koro Cercle",
+            "fr": "Cercle de Koro"
+        },
+        "extra": {
+            "wikidata": "Q1783463",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ml",
+        "country_cca3": "mli",
+        "region_cca2": null,
+        "osm_id": 3083894,
+        "osm_place_id": 282406089,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Cercle de Koulikoro",
+        "name_eng": "Koulikoro Cercle",
+        "name_translations": {
+            "en": "Koulikoro Cercle",
+            "fr": "Cercle de Koulikoro"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ml",
+        "country_cca3": "mli",
+        "region_cca2": null,
+        "osm_id": 3083943,
+        "osm_place_id": 282370547,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Cercle de Koutiala",
+        "name_eng": "Koutiala Cercle",
+        "name_translations": {
+            "en": "Koutiala Cercle",
+            "fr": "Cercle de Koutiala"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ml",
+        "country_cca3": "mli",
+        "region_cca2": null,
+        "osm_id": 3085046,
+        "osm_place_id": 282367258,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Cercle de Macina",
+        "name_eng": "Macina Cercle",
+        "name_translations": {
+            "en": "Macina Cercle",
+            "fr": "Cercle de Macina"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ml",
+        "country_cca3": "mli",
+        "region_cca2": null,
+        "osm_id": 3084283,
+        "osm_place_id": 282492715,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Cercle de Mopti",
+        "name_eng": "Mopti Cercle",
+        "name_translations": {
+            "ar": "\u0627\u0644\u062f\u0627\u0626\u0631\u0629 \u0645\u0648\u0628\u062a\u064a",
+            "en": "Mopti Cercle",
+            "fr": "Cercle de Mopti"
+        },
+        "extra": {
+            "wikidata": "Q1816378",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ml",
+        "country_cca3": "mli",
+        "region_cca2": null,
+        "osm_id": 3083895,
+        "osm_place_id": 282439721,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Cercle de Nara",
+        "name_eng": "Nara Cercle",
+        "name_translations": {
+            "ar": "\u062f\u0627\u0626\u0631\u0629 \u0646\u0627\u0631\u0627",
+            "en": "Nara Cercle",
+            "fr": "Cercle de Nara"
+        },
+        "extra": {
+            "wikidata": "Q1814964",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ml",
+        "country_cca3": "mli",
+        "region_cca2": null,
+        "osm_id": 3079412,
+        "osm_place_id": 282383494,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Cercle de Niafounk\u00e9",
+        "name_eng": "Niafounk\u00e9 Cercle",
+        "name_translations": {
+            "ar": "\u0648\u0644\u0627\u064a\u0629 \u0646\u064a\u0627\u0641\u0648\u0646\u0643\u064a",
+            "en": "Niafounk\u00e9 Cercle",
+            "fr": "Cercle de Niafounk\u00e9"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ml",
+        "country_cca3": "mli",
+        "region_cca2": null,
+        "osm_id": 3085047,
+        "osm_place_id": 282612641,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Cercle de Niono",
+        "name_eng": "Niono Cercle",
+        "name_translations": {
+            "ar": "\u0627\u0644\u062f\u0627\u0626\u0631\u0629 \u0646\u064a\u0648\u0646\u0648",
+            "en": "Niono Cercle",
+            "fr": "Cercle de Niono"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ml",
+        "country_cca3": "mli",
+        "region_cca2": null,
+        "osm_id": 3085048,
+        "osm_place_id": 282571222,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Cercle de San",
+        "name_eng": "San Cercle",
+        "name_translations": {
+            "ar": "\u0627\u0644\u062f\u0627\u0626\u0631\u0629 \u0633\u0627\u0646",
+            "en": "San Cercle",
+            "fr": "Cercle de San"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ml",
+        "country_cca3": "mli",
+        "region_cca2": null,
+        "osm_id": 3085049,
+        "osm_place_id": 282736429,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Cercle de S\u00e9gou",
+        "name_eng": "S\u00e9gou Cercle",
+        "name_translations": {
+            "ar": "\u062f\u0627\u0626\u0631\u0629 \u0633\u064a\u063a\u0648",
+            "en": "S\u00e9gou Cercle",
+            "fr": "Cercle de S\u00e9gou"
+        },
+        "extra": {
+            "wikidata": "Q2064200",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ml",
+        "country_cca3": "mli",
+        "region_cca2": null,
+        "osm_id": 3083944,
+        "osm_place_id": 282373937,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Cercle de Sikasso",
+        "name_eng": "Sikasso Cercle",
+        "name_translations": {
+            "ar": "\u0627\u0644\u062f\u0627\u0626\u0631\u0629 \u0633\u064a\u0643\u0627\u0633\u0648",
+            "en": "Sikasso Cercle",
+            "fr": "Cercle de Sikasso"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ml",
+        "country_cca3": "mli",
+        "region_cca2": null,
+        "osm_id": 3084284,
+        "osm_place_id": 282370591,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Cercle de Tenenkou",
+        "name_eng": "Tenenkou Cercle",
+        "name_translations": {
+            "ar": "\u0627\u0644\u062f\u0627\u0626\u0631\u0629 \u062a\u064a\u0646\u064a\u0643\u0648",
+            "en": "Tenenkou Cercle",
+            "fr": "Cercle de Tenenkou"
+        },
+        "extra": {
+            "wikidata": "Q2064101",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ml",
+        "country_cca3": "mli",
+        "region_cca2": null,
+        "osm_id": 3078993,
+        "osm_place_id": 282407277,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Cercle de Tessalit",
+        "name_eng": "Tessalit Cercle",
+        "name_translations": {
+            "ar": "\u0648\u0644\u0627\u064a\u0629 \u062a\u0633\u0627\u0644\u064a\u062a",
+            "en": "Tessalit Cercle",
+            "fr": "Cercle de Tessalit"
+        },
+        "extra": {
+            "wikidata": "Q2064157",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ml",
+        "country_cca3": "mli",
+        "region_cca2": null,
+        "osm_id": 3078994,
+        "osm_place_id": 282413552,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Cercle de Tin-Essako",
+        "name_eng": "Tin-Essako Cercle",
+        "name_translations": {
+            "ar": "\u062f\u0627\u0626\u0631\u0629 \u062a\u064a\u0646 \u0625\u0633\u0627\u0643\u0648",
+            "en": "Tin-Essako Cercle",
+            "fr": "Cercle de Tin-Essako"
+        },
+        "extra": {
+            "wikidata": "Q2064111",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ml",
+        "country_cca3": "mli",
+        "region_cca2": null,
+        "osm_id": 3079413,
+        "osm_place_id": 282413048,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Cercle de Tombouctou",
+        "name_eng": "Tombouctou Cercle",
+        "name_translations": {
+            "ar": "\u062f\u0627\u0626\u0631\u0629 \u062a\u0645\u0628\u0643\u062a\u0648",
+            "en": "Tombouctou Cercle",
+            "fr": "Cercle de Tombouctou"
+        },
+        "extra": {
+            "wikidata": "Q174455",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ml",
+        "country_cca3": "mli",
+        "region_cca2": null,
+        "osm_id": 3085050,
+        "osm_place_id": 282410516,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Cercle de Tominian",
+        "name_eng": "Tominian Cercle",
+        "name_translations": {
+            "en": "Tominian Cercle",
+            "fr": "Cercle de Tominian"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ml",
+        "country_cca3": "mli",
+        "region_cca2": null,
+        "osm_id": 3083945,
+        "osm_place_id": 282420570,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Cercle de Yanfolila",
+        "name_eng": "Yanfolila Cercle",
+        "name_translations": {
+            "ar": "\u0627\u0644\u062f\u0627\u0626\u0631\u0629 \u064a\u0627\u0646\u0641\u0648\u0644\u064a\u0644\u0627",
+            "en": "Yanfolila Cercle",
+            "fr": "Cercle de Yanfolila"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ml",
+        "country_cca3": "mli",
+        "region_cca2": null,
+        "osm_id": 3083946,
+        "osm_place_id": 282368346,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Cercle de Yorosso",
+        "name_eng": "Yorosso Cercle",
+        "name_translations": {
+            "ar": "\u0627\u0644\u062f\u0627\u0626\u0631\u0629 \u064a\u0648\u0631\u0648\u0633\u0648",
+            "en": "Yorosso Cercle",
+            "fr": "Cercle de Yorosso"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ml",
+        "country_cca3": "mli",
+        "region_cca2": null,
+        "osm_id": 3084285,
+        "osm_place_id": 282373995,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Cercle de Youwarou",
+        "name_eng": "Youwarou Cercle",
+        "name_translations": {
+            "en": "Youwarou Cercle",
+            "fr": "Cercle de Youwarou"
+        },
+        "extra": {
+            "wikidata": "Q1816412",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ml",
+        "country_cca3": "mli",
+        "region_cca2": null,
+        "osm_id": 3079414,
+        "osm_place_id": 282366421,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Cercle Gourma-Rharous",
+        "name_eng": "Gourma-Rharous Cercle",
+        "name_translations": {
+            "ar": "\u062f\u0627\u0626\u0631\u0629 \u0642\u0631\u0645\u0627 \u063a\u0627\u0631\u0648\u0633",
+            "en": "Gourma-Rharous Cercle",
+            "fr": "Cercle de Gourma-Rharous"
+        },
+        "extra": {
+            "wikidata": "Q1540214",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ml",
+        "country_cca3": "mli",
+        "region_cca2": null,
+        "osm_id": 3083705,
+        "osm_place_id": 282407740,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Di\u00e9ma",
+        "name_eng": "Di\u00e9ma Cercle",
+        "name_translations": {
+            "ar": "\u0627\u0644\u062f\u0627\u0626\u0631\u0629 \u062f\u064a\u064a\u0645\u0627",
+            "en": "Di\u00e9ma Cercle",
+            "fr": "Cercle de Di\u00e9ma"
+        },
+        "extra": {
+            "wikidata": "Q1231874",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ml",
+        "country_cca3": "mli",
+        "region_cca2": "ML-7",
+        "osm_id": 2096895,
+        "osm_place_id": 282272530,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Gao",
+        "name_eng": "Gao",
+        "name_translations": {
+            "ar": "\u063a\u0627\u0648",
+            "en": "Gao",
+            "fr": "Gao",
+            "hu": "Gao",
+            "ru": "\u0413\u0430\u043e"
+        },
+        "extra": {
+            "wikidata": "Q332392",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ml",
+        "country_cca3": "mli",
+        "region_cca2": null,
+        "osm_id": 2096896,
+        "osm_place_id": 282332490,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Kayes",
+        "name_eng": "Kayes",
+        "name_translations": {
+            "ar": "\u0643\u0627\u064a\u0633",
+            "en": "Kayes",
+            "fr": "Kayes",
+            "ru": "\u041a\u0430\u0435\u0441",
+            "snk": "Xaayi"
+        },
+        "extra": {
+            "wikidata": "Q332113",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ml",
+        "country_cca3": "mli",
+        "region_cca2": null,
+        "osm_id": 3083706,
+        "osm_place_id": 282414073,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Kayes",
+        "name_eng": "Kayes Cercle",
+        "name_translations": {
+            "ar": "\u0627\u0644\u062f\u0627\u0626\u0631\u0629 \u0643\u0627\u064a\u0633",
+            "en": "Kayes Cercle",
+            "fr": "Cercle de Kayes"
+        },
+        "extra": {
+            "wikidata": "Q1538145",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ml",
+        "country_cca3": "mli",
+        "region_cca2": null,
+        "osm_id": 3083708,
+        "osm_place_id": 282406038,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "K\u00e9ni\u00e9ba",
+        "name_eng": "K\u00e9ni\u00e9ba",
+        "name_translations": {
+            "ar": "\u062f\u0627\u0626\u0631\u0629 \u0643\u064a\u0646\u064a\u064a\u0628\u0627",
+            "fr": "K\u00e9ni\u00e9ba Cercle"
+        },
+        "extra": {
+            "wikidata": "Q1537779",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ml",
+        "country_cca3": "mli",
+        "region_cca2": "ML-8",
+        "osm_id": 2096897,
+        "osm_place_id": 282561482,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Kidal",
+        "name_eng": "Kidal",
+        "name_translations": {
+            "ar": "\u0643\u064a\u062f\u0627\u0644",
+            "en": "Kidal",
+            "fa": "\u06a9\u06cc\u062f\u0627\u0644",
+            "fr": "Kidal",
+            "ru": "\u041a\u0438\u0434\u0430\u043b\u044c",
+            "ur": "\u06a9\u0688\u0627\u0644",
+            "azb": "\u06a9\u06cc\u062f\u0627\u0644"
+        },
+        "extra": {
+            "wikidata": "Q338988",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ml",
+        "country_cca3": "mli",
+        "region_cca2": null,
+        "osm_id": 3083707,
+        "osm_place_id": 282455161,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Kita",
+        "name_eng": "Kita Cercle",
+        "name_translations": {
+            "ar": "\u0627\u0644\u062f\u0627\u0626\u0631\u0629 \u0643\u064a\u062a\u0627",
+            "en": "Kita Cercle",
+            "fr": "Cercle de Kita"
+        },
+        "extra": {
+            "wikidata": "Q1247547",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ml",
+        "country_cca3": "mli",
+        "region_cca2": null,
+        "osm_id": 2096898,
+        "osm_place_id": 282250692,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Koulikoro",
+        "name_eng": "Koulikoro",
+        "name_translations": {
+            "ar": "\u0643\u0648\u0644\u064a\u0643\u0648\u0631\u0648",
+            "en": "Koulikoro",
+            "fr": "Koulikoro",
+            "ru": "\u041a\u0443\u043b\u0438\u043a\u043e\u0440\u043e",
+            "uk": "\u041a\u0443\u043b\u0456\u043a\u043e\u0440\u043e"
+        },
+        "extra": {
+            "wikidata": "Q287789",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ml",
+        "country_cca3": "mli",
+        "region_cca2": "ML-9",
+        "osm_id": 3079153,
+        "osm_place_id": 282386110,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "M\u00e9naka",
+        "name_eng": "M\u00e9naka",
+        "name_translations": {
+            "ar": "\u062f\u0627\u0626\u0631\u0629 \u0645\u064a\u0646\u0627\u0643\u0627",
+            "en": "M\u00e9naka",
+            "fr": "M\u00e9naka"
+        },
+        "extra": {
+            "wikidata": "Q3455550",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ml",
+        "country_cca3": "mli",
+        "region_cca2": "ML-5",
+        "osm_id": 2096899,
+        "osm_place_id": 282293195,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Mopti",
+        "name_eng": "Mopti",
+        "name_translations": {
+            "ar": "\u0645\u0648\u0628\u062a\u064a",
+            "en": "Mopti",
+            "fr": "Mopti",
+            "ru": "\u041c\u043e\u043f\u0442\u0438"
+        },
+        "extra": {
+            "wikidata": "Q214155",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ml",
+        "country_cca3": "mli",
+        "region_cca2": null,
+        "osm_id": 3083709,
+        "osm_place_id": 282439708,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Nioro",
+        "name_eng": "Nioro Cercle",
+        "name_translations": {
+            "ar": "\u0627\u0644\u062f\u0627\u0626\u0631\u0629 \u0646\u064a\u0648\u0631\u0648",
+            "en": "Nioro Cercle",
+            "fr": "Cercle de Nioro"
+        },
+        "extra": {
+            "wikidata": "Q743538",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ml",
+        "country_cca3": "mli",
+        "region_cca2": "ML-4",
+        "osm_id": 2096901,
+        "osm_place_id": 282238864,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "S\u00e9gou",
+        "name_eng": "S\u00e9gou",
+        "name_translations": {
+            "ar": "\u0633\u064a\u063a\u0648",
+            "fr": "S\u00e9gou",
+            "ru": "\u0421\u0435\u0433\u0443",
+            "ur": "\u0633\u06cc\u06af\u0648",
+            "azb": "\u0633\u0642\u0648"
+        },
+        "extra": {
+            "wikidata": "Q656845",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ml",
+        "country_cca3": "mli",
+        "region_cca2": "ML-3",
+        "osm_id": 2096900,
+        "osm_place_id": 282241665,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Sikasso",
+        "name_eng": "Sikasso",
+        "name_translations": {
+            "ar": "\u0633\u064a\u0643\u0627\u0633\u0648",
+            "en": "Sikasso",
+            "fr": "Sikasso",
+            "ru": "\u0421\u0438\u043a\u0430\u0441\u043e"
+        },
+        "extra": {
+            "wikidata": "Q461298",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ml",
+        "country_cca3": "mli",
+        "region_cca2": null,
+        "osm_id": 12558577,
+        "osm_place_id": 283551853,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Taoud\u00e9nit",
+        "name_eng": "Taoud\u00e9nit",
+        "name_translations": {
+            "fr": "Taoud\u00e9nit"
+        },
+        "extra": {
+            "wikidata": "Q2424657",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ml",
+        "country_cca3": "mli",
+        "region_cca2": "ML-6",
+        "osm_id": 2096902,
+        "osm_place_id": 282379569,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Tombouctou",
+        "name_eng": "Timbuktu",
+        "name_translations": {
+            "ar": "\u062a\u0645\u0628\u0643\u062a\u0648",
+            "ca": "Timbuct\u00fa",
+            "cs": "Timbuktu",
+            "de": "Timbuktu",
+            "en": "Timbuktu",
+            "es": "Tombuct\u00fa",
+            "fr": "Tombouctou",
+            "hi": "\u091f\u093f\u092e\u094d\u092c\u0915\u091f\u0942",
+            "kn": "\u0c9f\u0cbf\u0c82\u0cac\u0c95\u0ccd\u0c9f\u0cc2",
+            "lt": "Timbuktu",
+            "nl": "Timboektoe",
+            "ru": "\u0422\u0438\u043c\u0431\u0443\u043a\u0442\u0443",
+            "uk": "\u0422\u0456\u043c\u0431\u0443\u043a\u0442\u0443",
+            "zh": "\u5ef7\u5df4\u514b\u56fe",
+            "ssa": "Tumbutu",
+            "tmh": "Tin-Buktu"
+        },
+        "extra": {
+            "wikidata": "Q339462",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ml",
+        "country_cca3": "mli",
+        "region_cca2": null,
+        "osm_id": 3083710,
+        "osm_place_id": 282387640,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Y\u00e9liman\u00e9",
+        "name_eng": "Y\u00e9liman\u00e9 Cercle",
+        "name_translations": {
+            "ar": "\u0627\u0644\u062f\u0627\u0626\u0631\u0629 \u064a\u0644\u064a\u0645\u0627\u0646\u064a",
+            "en": "Y\u00e9liman\u00e9 Cercle",
+            "fr": "Cercle de Y\u00e9liman\u00e9"
+        },
+        "extra": {
+            "wikidata": "Q944313",
+            "un_locode": null
+        }
+    }
+]

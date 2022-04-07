@@ -1,0 +1,3494 @@
+[
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5884785,
+        "osm_place_id": 282683493,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Abreus",
+        "name_eng": "Abreus",
+        "name_translations": {
+            "es": "Abreus",
+            "ru": "\u0410\u0431\u0440\u0435\u0443\u0441"
+        },
+        "extra": {
+            "wikidata": "Q331384",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5884786,
+        "osm_place_id": 282721499,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Aguada de Pasajeros",
+        "name_eng": "Aguada de Pasajeros",
+        "name_translations": {
+            "es": "Aguada de Pasajeros",
+            "ru": "\u0410\u0433\u0443\u0430\u0434\u0430 \u0434\u0435 \u041f\u0430\u0441\u0430\u0445\u0435\u0440\u043e\u0441"
+        },
+        "extra": {
+            "wikidata": "Q2245953",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 2576645,
+        "osm_place_id": 282508426,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Alqu\u00edzar",
+        "name_eng": "Alqu\u00edzar",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q603163",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5901287,
+        "osm_place_id": 282705140,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Amancio",
+        "name_eng": "Amancio",
+        "name_translations": {
+            "es": "Amancio",
+            "ru": "\u0410\u043c\u0430\u043c\u0441\u0438\u043e"
+        },
+        "extra": {
+            "wikidata": "Q1936063",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5904268,
+        "osm_place_id": 282700093,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Antilla",
+        "name_eng": "Antilla",
+        "name_translations": {
+            "es": "Antilla",
+            "ru": "\u0410\u043d\u0442\u0438\u043b\u044c\u044f"
+        },
+        "extra": {
+            "wikidata": "Q2246518",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5489817,
+        "osm_place_id": 283598097,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Arroyo Naranjo",
+        "name_eng": "Arroyo Naranjo",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1936053",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": "CU-15",
+        "osm_id": 2576644,
+        "osm_place_id": 282746078,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Artemisa",
+        "name_eng": "Artemisa",
+        "name_translations": {
+            "es": "Artemisa",
+            "ru": "\u0410\u0440\u0442\u0435\u043c\u0438\u0441\u0430"
+        },
+        "extra": {
+            "wikidata": "Q115325",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 2576646,
+        "osm_place_id": 282301730,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Artemisa",
+        "name_eng": "Artemisa",
+        "name_translations": {
+            "es": "Artemisa",
+            "ru": "\u0410\u0440\u0442\u0435\u043c\u0438\u0441\u0430",
+            "uk": "\u0410\u0440\u0442\u0435\u043c\u0456\u0441\u0430"
+        },
+        "extra": {
+            "wikidata": "Q115006",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5904270,
+        "osm_place_id": 282659904,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "B\u00e1guanos",
+        "name_eng": "B\u00e1guanos",
+        "name_translations": {
+            "en": "Baguanos",
+            "es": "B\u00e1guanos",
+            "ru": "\u0411\u0430\u0433\u0443\u0430\u043d\u043e\u0441"
+        },
+        "extra": {
+            "wikidata": "Q281205",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 2576647,
+        "osm_place_id": 282548878,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Bah\u00eda Honda",
+        "name_eng": "Bah\u00eda Honda",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q571968",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5904269,
+        "osm_place_id": 283306200,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Banes",
+        "name_eng": "Banes",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q806424",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5927810,
+        "osm_place_id": 282864018,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Baracoa",
+        "name_eng": "Baracoa",
+        "name_translations": {
+            "es": "Baracoa",
+            "hu": "Baracoa",
+            "ru": "\u0411\u0430\u0440\u0430\u043a\u043e\u0430"
+        },
+        "extra": {
+            "wikidata": "Q94775",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5887664,
+        "osm_place_id": 282943297,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Baragu\u00e1",
+        "name_eng": "Baragu\u00e1",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1816192",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5915220,
+        "osm_place_id": 283146653,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Bartolom\u00e9 Mas\u00f3",
+        "name_eng": "Bartolom\u00e9 Mas\u00f3",
+        "name_translations": {
+            "es": "Bartolom\u00e9 Mas\u00f3",
+            "ru": "\u0411\u0430\u0440\u0442\u043e\u043b\u043e\u043c\u044d \u041c\u0430\u0441\u043e"
+        },
+        "extra": {
+            "wikidata": "Q809538",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5539163,
+        "osm_place_id": 282817123,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Bataban\u00f3",
+        "name_eng": "Bataban\u00f3",
+        "name_translations": {
+            "es": "Bataban\u00f3",
+            "ru": "\u0411\u0430\u0442\u0430\u0431\u0430\u043d\u043e"
+        },
+        "extra": {
+            "wikidata": "Q270305",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 2576648,
+        "osm_place_id": 282506931,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Bauta",
+        "name_eng": "Bauta",
+        "name_translations": {
+            "es": "Bauta",
+            "ru": "\u0411\u0430\u0443\u0442\u0430"
+        },
+        "extra": {
+            "wikidata": "Q114970",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5915221,
+        "osm_place_id": 282877688,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Bayamo",
+        "name_eng": "Bayamo",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q115382",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5539164,
+        "osm_place_id": 283005199,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Bejucal",
+        "name_eng": "Bejucal",
+        "name_translations": {
+            "es": "Bejucal",
+            "ru": "\u0411\u0435\u0445\u0443\u043a\u0430\u043b\u044c"
+        },
+        "extra": {
+            "wikidata": "Q814979",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5887665,
+        "osm_place_id": 282859918,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Bolivia",
+        "name_eng": "Bolivia",
+        "name_translations": {
+            "es": "Bolivia"
+        },
+        "extra": {
+            "wikidata": "Q526001",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5489818,
+        "osm_place_id": 282635444,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Boyeros",
+        "name_eng": "Boyeros",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1936076",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5915222,
+        "osm_place_id": 282670505,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Buey Arriba",
+        "name_eng": "Buey Arriba",
+        "name_translations": {
+            "es": "Buey Arriba",
+            "ru": "\u0411\u0443\u0435\u0439 \u0410\u0440\u0440\u0438\u0431\u0430"
+        },
+        "extra": {
+            "wikidata": "Q1935438",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5884862,
+        "osm_place_id": 282698711,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Cabaigu\u00e1n",
+        "name_eng": "Cabaigu\u00e1n",
+        "name_translations": {
+            "es": "Cabaigu\u00e1n",
+            "ru": "\u041a\u0430\u0431\u0430\u0439\u0433\u0443\u0430\u043d"
+        },
+        "extra": {
+            "wikidata": "Q862728",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5904271,
+        "osm_place_id": 282701733,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Cacocum",
+        "name_eng": "Cacocum",
+        "name_translations": {
+            "es": "Cacocum",
+            "ru": "\u041a\u0430\u043a\u043e\u043a\u0443\u043c"
+        },
+        "extra": {
+            "wikidata": "Q281104",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5884787,
+        "osm_place_id": 283022864,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Caibari\u00e9n",
+        "name_eng": "Caibari\u00e9n",
+        "name_translations": {
+            "es": "Caibari\u00e9n",
+            "hu": "Caibari\u00e9n",
+            "ru": "\u041a\u0430\u0439\u0431\u0430\u0440\u044c\u0435\u043d"
+        },
+        "extra": {
+            "wikidata": "Q289328",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5927811,
+        "osm_place_id": 283057136,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Caimanera",
+        "name_eng": "Caimanera",
+        "name_translations": {
+            "es": "Caimanera",
+            "ru": "\u041a\u0430\u0439\u043c\u0430\u043d\u0435\u0440\u0430"
+        },
+        "extra": {
+            "wikidata": "Q1025873",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 2576649,
+        "osm_place_id": 282673571,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Caimito",
+        "name_eng": "Caimito",
+        "name_translations": {
+            "es": "Caimito",
+            "ru": "\u041a\u0430\u0439\u043c\u0438\u0442\u043e"
+        },
+        "extra": {
+            "wikidata": "Q559793",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5875945,
+        "osm_place_id": 282665277,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Calimete",
+        "name_eng": "Calimete",
+        "name_translations": {
+            "es": "Calimete",
+            "ru": "\u041a\u0430\u043b\u0438\u043c\u0435\u0442\u0435"
+        },
+        "extra": {
+            "wikidata": "Q4999",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5904272,
+        "osm_place_id": 282812327,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Calixto Garc\u00eda",
+        "name_eng": "Calixto Garc\u00eda",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q281186",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5892220,
+        "osm_place_id": 282667193,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Camag\u00fcey",
+        "name_eng": "Camag\u00fcey",
+        "name_translations": {
+            "en": "Camag\u00fcey",
+            "es": "Camag\u00fcey",
+            "hu": "Camag\u00fcey",
+            "ru": "\u041a\u0430\u043c\u0430\u0433\u0443\u044d\u0439",
+            "uk": "\u041a\u0430\u043c\u0430\u0433\u0443\u0435\u0439"
+        },
+        "extra": {
+            "wikidata": "Q115329",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": "CU-09",
+        "osm_id": 1854630,
+        "osm_place_id": 282240905,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Camag\u00fcey",
+        "name_eng": "Camag\u00fcey",
+        "name_translations": {
+            "es": "Camag\u00fcey",
+            "ru": "\u041a\u0430\u043c\u0430\u0433\u0443\u044d\u0439"
+        },
+        "extra": {
+            "wikidata": "Q215147",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5884788,
+        "osm_place_id": 283601179,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Camajuan\u00ed",
+        "name_eng": "Camajuan\u00ed",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q280628",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5915223,
+        "osm_place_id": 282946193,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Campechuela",
+        "name_eng": "Campechuela",
+        "name_translations": {
+            "es": "Campechuela",
+            "ru": "\u041a\u0430\u043c\u043f\u0435\u0447\u0443\u0435\u043b\u0430"
+        },
+        "extra": {
+            "wikidata": "Q1332135",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 2576650,
+        "osm_place_id": 282354047,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Candelaria",
+        "name_eng": "Candelaria",
+        "name_translations": {
+            "es": "Candelaria",
+            "ru": "\u041a\u0430\u043d\u0434\u0435\u043b\u0430\u0440\u0438\u044f"
+        },
+        "extra": {
+            "wikidata": "Q603136",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5875948,
+        "osm_place_id": 283051433,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "C\u00e1rdenas",
+        "name_eng": "C\u00e1rdenas",
+        "name_translations": {
+            "es": "C\u00e1rdenas",
+            "ru": "\u041a\u0430\u0440\u0434\u0435\u043d\u0430\u0441"
+        },
+        "extra": {
+            "wikidata": "Q986387",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5915224,
+        "osm_place_id": 282862835,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Cauto Cristo",
+        "name_eng": "Cauto Cristo",
+        "name_translations": {
+            "es": "Cauto Cristo",
+            "ru": "\u041a\u0430\u0443\u0442\u043e-\u041a\u0440\u0438\u0441\u0442\u043e"
+        },
+        "extra": {
+            "wikidata": "Q1332179",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5489819,
+        "osm_place_id": 282595812,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Centro Habana",
+        "name_eng": "Centro Habana",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1054312",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5489820,
+        "osm_place_id": 282596865,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Cerro",
+        "name_eng": "Cerro",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1055715",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5892221,
+        "osm_place_id": 282943649,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "C\u00e9spedes",
+        "name_eng": "C\u00e9spedes",
+        "name_translations": {
+            "es": "C\u00e9spedes",
+            "ru": "\u0421\u0435\u0441\u043f\u0435\u0434\u0435\u0441"
+        },
+        "extra": {
+            "wikidata": "Q603146",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5887666,
+        "osm_place_id": 283052789,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Chambas",
+        "name_eng": "Chambas",
+        "name_translations": {
+            "es": "Chambas",
+            "ru": "\u0427\u0430\u043c\u0431\u0430\u0441"
+        },
+        "extra": {
+            "wikidata": "Q1060628",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": "CU-08",
+        "osm_id": 1854631,
+        "osm_place_id": 282247425,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Ciego de \u00c1vila",
+        "name_eng": "Ciego de Avila",
+        "name_translations": {
+            "en": "Ciego de Avila",
+            "es": "Ciego de \u00c1vila",
+            "ru": "\u0421\u044c\u0435\u0433\u043e-\u0434\u0435-\u0410\u0432\u0438\u043b\u0430"
+        },
+        "extra": {
+            "wikidata": "Q220692",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5887667,
+        "osm_place_id": 282781948,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Ciego de \u00c1vila",
+        "name_eng": "Ciego de \u00c1vila",
+        "name_translations": {
+            "es": "Ciego de \u00c1vila",
+            "ru": "\u0421\u044c\u0435\u0433\u043e-\u0434\u0435-\u0410\u0432\u0438\u043b\u0430"
+        },
+        "extra": {
+            "wikidata": "Q115465",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5875946,
+        "osm_place_id": 282942187,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Ci\u00e9naga de Zapata",
+        "name_eng": "Ci\u00e9naga de Zapata",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q5951909",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5884789,
+        "osm_place_id": 282694265,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Cienfuegos",
+        "name_eng": "Cienfuegos",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q190005",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": "CU-06",
+        "osm_id": 1854632,
+        "osm_place_id": 282534983,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Cienfuegos",
+        "name_eng": "Cienfuegos",
+        "name_translations": {
+            "es": "Cienfuegos",
+            "ru": "\u0421\u044c\u0435\u043d\u0444\u0443\u044d\u0433\u043e\u0441"
+        },
+        "extra": {
+            "wikidata": "Q115444",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5884790,
+        "osm_place_id": 282648403,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Cifuentes",
+        "name_eng": "Cifuentes",
+        "name_translations": {
+            "es": "Cifuentes",
+            "ru": "\u0421\u0438\u0444\u0443\u0435\u043d\u0442\u0435\u0441"
+        },
+        "extra": {
+            "wikidata": "Q2245934",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5887668,
+        "osm_place_id": 282683855,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Ciro Redondo",
+        "name_eng": "Ciro Redondo",
+        "name_translations": {
+            "es": "Ciro Redondo",
+            "ru": "\u0421\u0438\u0440\u043e-\u0420\u0435\u0434\u043e\u043d\u0434\u043e"
+        },
+        "extra": {
+            "wikidata": "Q1020273",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5901288,
+        "osm_place_id": 282660233,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Colombia",
+        "name_eng": "Colombia",
+        "name_translations": {
+            "es": "Colombia",
+            "ru": "\u041a\u043e\u043b\u043e\u043c\u0431\u0438\u044f"
+        },
+        "extra": {
+            "wikidata": "Q2733738",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5875947,
+        "osm_place_id": 282858402,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Col\u00f3n",
+        "name_eng": "Col\u00f3n",
+        "name_translations": {
+            "es": "Col\u00f3n",
+            "ru": "\u041a\u043e\u043b\u043e\u043d",
+            "uk": "\u041a\u043e\u043b\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q5029",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 2575065,
+        "osm_place_id": 282301627,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Consolaci\u00f3n del Sur",
+        "name_eng": "Consolaci\u00f3n del Sur",
+        "name_translations": {
+            "es": "Consolaci\u00f3n del Sur",
+            "ru": "\u041a\u043e\u043d\u0441\u043e\u043b\u0430\u0441\u044c\u043e\u043d-\u0434\u0435\u043b\u044c-\u0421\u0443\u0440"
+        },
+        "extra": {
+            "wikidata": "Q1127452",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5919047,
+        "osm_place_id": 282767268,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Contramaestre",
+        "name_eng": "Contramaestre",
+        "name_translations": {
+            "es": "Contramaestre",
+            "ru": "\u041a\u043e\u043d\u0442\u0440\u0430\u043c\u0430\u044d\u0441\u0442\u0440\u0435"
+        },
+        "extra": {
+            "wikidata": "Q1129122",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5884791,
+        "osm_place_id": 282649107,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Corralillo",
+        "name_eng": "Corralillo",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2573424",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5489821,
+        "osm_place_id": 282721031,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Cotorro",
+        "name_eng": "Cotorro",
+        "name_translations": {
+            "es": "Cotorro",
+            "ru": "\u041a\u043e\u0442\u043e\u0440\u0440\u043e"
+        },
+        "extra": {
+            "wikidata": "Q3646457",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5884792,
+        "osm_place_id": 282762353,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Cruces",
+        "name_eng": "Cruces",
+        "name_translations": {
+            "es": "Cruces",
+            "ru": "\u041a\u0440\u0443\u0441\u0435\u0441"
+        },
+        "extra": {
+            "wikidata": "Q5042",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5904273,
+        "osm_place_id": 282727242,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Cueto",
+        "name_eng": "Cueto",
+        "name_translations": {
+            "es": "Cueto",
+            "ru": "\u041a\u0443\u044d\u0442\u043e"
+        },
+        "extra": {
+            "wikidata": "Q280984",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5884793,
+        "osm_place_id": 282649757,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Cumanayagua",
+        "name_eng": "Cumanayagua",
+        "name_translations": {
+            "es": "Cumanayagua",
+            "ru": "\u041a\u0443\u043c\u0430\u043d\u0430\u0439\u044f\u0433\u0432\u0430"
+        },
+        "extra": {
+            "wikidata": "Q5044",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5489822,
+        "osm_place_id": 282595257,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Diez de Octubre",
+        "name_eng": "Diez de Octubre",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2397948",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5927812,
+        "osm_place_id": 282785419,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "El Salvador",
+        "name_eng": "El Salvador",
+        "name_translations": {
+            "es": "El Salvador",
+            "ru": "\u042d\u043b\u044c-\u0421\u0430\u043b\u044c\u0432\u0430\u0434\u043e\u0440"
+        },
+        "extra": {
+            "wikidata": "Q1026982",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5884794,
+        "osm_place_id": 282654706,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Encrucijada",
+        "name_eng": "Encrucijada",
+        "name_translations": {
+            "es": "Encrucijada",
+            "ru": "\u042d\u043d\u043a\u0440\u0443\u0441\u0438\u0445\u0430\u0434\u0430"
+        },
+        "extra": {
+            "wikidata": "Q370266",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5892222,
+        "osm_place_id": 282860949,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Esmeralda",
+        "name_eng": "Esmeralda",
+        "name_translations": {
+            "es": "Esmeralda",
+            "ru": "\u042d\u0441\u043c\u0435\u0440\u0430\u043b\u044c\u0434\u0430"
+        },
+        "extra": {
+            "wikidata": "Q643074",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5887669,
+        "osm_place_id": 282721798,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Florencia",
+        "name_eng": "Florencia",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1007702",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5892223,
+        "osm_place_id": 283053573,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Florida",
+        "name_eng": "Florida",
+        "name_translations": {
+            "de": "Florida",
+            "en": "Florida",
+            "es": "Florida",
+            "fr": "Floride",
+            "hu": "Florida",
+            "it": "Florida",
+            "ru": "\u0424\u043b\u043e\u0440\u0438\u0434\u0430",
+            "zh": "\u5f17\u6d1b\u91cc\u9054"
+        },
+        "extra": {
+            "wikidata": "Q643617",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5884863,
+        "osm_place_id": 283305057,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Fomento",
+        "name_eng": "Fomento",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q861489",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5904274,
+        "osm_place_id": 282738693,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Frank Pa\u00eds",
+        "name_eng": "Frank Pa\u00eds",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q280950",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5904275,
+        "osm_place_id": 282714357,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Gibara",
+        "name_eng": "Gibara",
+        "name_translations": {
+            "es": "Gibara",
+            "ru": "\u0425\u0438\u0431\u0430\u0440\u0430"
+        },
+        "extra": {
+            "wikidata": "Q281016",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": "CU-12",
+        "osm_id": 1854633,
+        "osm_place_id": 282212052,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Granma",
+        "name_eng": "Granma",
+        "name_translations": {
+            "es": "Granma",
+            "ru": "\u0413\u0440\u0430\u043d\u043c\u0430"
+        },
+        "extra": {
+            "wikidata": "Q115046",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5892224,
+        "osm_place_id": 282782326,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Gu\u00e1imaro",
+        "name_eng": "Gu\u00e1imaro",
+        "name_translations": {
+            "es": "Gu\u00e1imaro",
+            "ru": "\u0413\u0443\u0430\u0439\u043c\u0430\u0440\u043e"
+        },
+        "extra": {
+            "wikidata": "Q643059",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5919049,
+        "osm_place_id": 282662503,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Guam\u00e1",
+        "name_eng": "Guam\u00e1",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1193164",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5501389,
+        "osm_place_id": 282690130,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Guanabacoa",
+        "name_eng": "Guanabacoa",
+        "name_translations": {
+            "es": "Guanabacoa",
+            "ru": "\u0413\u0443\u0430\u043d\u0430\u0431\u0430\u043a\u043e\u0430"
+        },
+        "extra": {
+            "wikidata": "Q2723864",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 2576651,
+        "osm_place_id": 282327915,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Guanajay",
+        "name_eng": "Guanajay",
+        "name_translations": {
+            "es": "Guanajay",
+            "ru": "\u0413\u0443\u0430\u043d\u0430\u0445\u0430\u0439"
+        },
+        "extra": {
+            "wikidata": "Q114977",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 2575066,
+        "osm_place_id": 282548739,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Guane",
+        "name_eng": "Guane",
+        "name_translations": {
+            "es": "Guane",
+            "ru": "\u0413\u0443\u0430\u043d\u0435"
+        },
+        "extra": {
+            "wikidata": "Q535537",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": "CU-14",
+        "osm_id": 1854634,
+        "osm_place_id": 282249442,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Guant\u00e1namo",
+        "name_eng": "Guant\u00e1namo",
+        "name_translations": {
+            "es": "Guant\u00e1namo",
+            "ru": "\u0413\u0443\u0430\u043d\u0442\u0430\u043d\u0430\u043c\u043e"
+        },
+        "extra": {
+            "wikidata": "Q115319",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5927813,
+        "osm_place_id": 282690892,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Guant\u00e1namo",
+        "name_eng": "Guant\u00e1namo",
+        "name_translations": {
+            "da": "Guantanamo",
+            "en": "Guantanamo",
+            "es": "Guant\u00e1namo",
+            "hu": "Guant\u00e1namo",
+            "ru": "\u0413\u0443\u0430\u043d\u0442\u0430\u043d\u0430\u043c\u043e"
+        },
+        "extra": {
+            "wikidata": "Q185156",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5539165,
+        "osm_place_id": 282742101,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "G\u00fcines",
+        "name_eng": "G\u00fcines",
+        "name_translations": {
+            "es": "G\u00fcines",
+            "ru": "\u0413\u0432\u0438\u043d\u0435\u0441"
+        },
+        "extra": {
+            "wikidata": "Q270297",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 2576652,
+        "osm_place_id": 282383923,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "G\u00fcira de Melena",
+        "name_eng": "G\u00fcira de Melena",
+        "name_translations": {
+            "es": "G\u00fcira de Melena",
+            "ru": "\u0413\u0443\u0438\u0440\u0430-\u0434\u0435-\u041c\u0435\u043b\u0435\u043d\u0430"
+        },
+        "extra": {
+            "wikidata": "Q603115",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5915225,
+        "osm_place_id": 283056150,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Guisa",
+        "name_eng": "Guisa",
+        "name_translations": {
+            "es": "Guisa",
+            "ru": "\u0413\u0438\u0441\u0430"
+        },
+        "extra": {
+            "wikidata": "Q1935474",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5489823,
+        "osm_place_id": 282608316,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Habana del Este",
+        "name_eng": "Habana del Este",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1566695",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": "CU-11",
+        "osm_id": 1854635,
+        "osm_place_id": 282208135,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Holgu\u00edn",
+        "name_eng": "Holgu\u00edn",
+        "name_translations": {
+            "es": "Holgu\u00edn",
+            "ru": "\u041e\u043b\u044c\u0433\u0438\u043d"
+        },
+        "extra": {
+            "wikidata": "Q115302",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5904276,
+        "osm_place_id": 282660506,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Holgu\u00edn",
+        "name_eng": "Holgu\u00edn",
+        "name_translations": {
+            "en": "Holgu\u00edn",
+            "es": "Holgu\u00edn",
+            "hu": "Holgu\u00edn",
+            "ru": "\u041e\u043b\u044c\u0433\u0438\u043d",
+            "uk": "\u041e\u043b\u044c\u0433\u0456\u043d"
+        },
+        "extra": {
+            "wikidata": "Q244154",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5927814,
+        "osm_place_id": 282725474,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Im\u00edas",
+        "name_eng": "Im\u00edas",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q287136",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": "CU-99",
+        "osm_id": 1854614,
+        "osm_place_id": 282215268,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Isla de la Juventud",
+        "name_eng": "Isle of Youth",
+        "name_translations": {
+            "de": "Insel der Jugend",
+            "en": "Isle of Youth",
+            "es": "Isla de la Juventud",
+            "fr": "\u00cele de la Jeunesse",
+            "it": "Isola della Giovent\u00f9",
+            "la": "Insula Iuventutis",
+            "pt": "Ilha da Juventude",
+            "ru": "\u041e\u0441\u0442\u0440\u043e\u0432 \u0425\u0443\u0432\u0435\u043d\u0442\u0443\u0434"
+        },
+        "extra": {
+            "wikidata": "Q115027",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5875949,
+        "osm_place_id": 282780840,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Jag\u00fcey Grande",
+        "name_eng": "Jag\u00fcey Grande",
+        "name_translations": {
+            "es": "Jag\u00fcey Grande",
+            "ru": "\u0425\u0430\u0433\u0443\u044d\u0439-\u0413\u0440\u0430\u043d\u0434\u0435"
+        },
+        "extra": {
+            "wikidata": "Q2573456",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5539166,
+        "osm_place_id": 282636210,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Jaruco",
+        "name_eng": "Jaruco",
+        "name_translations": {
+            "es": "Jaruco",
+            "ru": "\u0425\u0430\u0440\u0443\u043a\u043e"
+        },
+        "extra": {
+            "wikidata": "Q1683722",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5884864,
+        "osm_place_id": 282657461,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Jatibonico",
+        "name_eng": "Jatibonico",
+        "name_translations": {
+            "es": "Jatibonico",
+            "ru": "\u0425\u0430\u0442\u0438\u0431\u043e\u043d\u0438\u043a\u043e"
+        },
+        "extra": {
+            "wikidata": "Q861575",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5901289,
+        "osm_place_id": 282735533,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Jes\u00fas Men\u00e9ndez",
+        "name_eng": "Jes\u00fas Men\u00e9ndez",
+        "name_translations": {
+            "es": "Jes\u00fas Men\u00e9ndez",
+            "ru": "\u0425\u0435\u0441\u0443\u0441-\u041c\u0435\u043d\u0435\u043d\u0434\u0435\u0437"
+        },
+        "extra": {
+            "wikidata": "Q1332144",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5915226,
+        "osm_place_id": 282784436,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Jiguan\u00ed",
+        "name_eng": "Jiguan\u00ed",
+        "name_translations": {
+            "es": "Jiguan\u00ed",
+            "ru": "\u0425\u0438\u0433\u0443\u0430\u043d\u0438"
+        },
+        "extra": {
+            "wikidata": "Q2234347",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5892225,
+        "osm_place_id": 282684226,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Jimaguay\u00fa",
+        "name_eng": "Jimaguay\u00fa",
+        "name_translations": {
+            "es": "Jimaguay\u00fa",
+            "ru": "\u0425\u0438\u043c\u0430\u0433\u0443\u0430\u044e"
+        },
+        "extra": {
+            "wikidata": "Q179701",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5901298,
+        "osm_place_id": 282738413,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Jobabo",
+        "name_eng": "Jobabo",
+        "name_translations": {
+            "es": "Jobabo",
+            "ru": "\u0425\u043e\u0431\u0430\u0431\u043e"
+        },
+        "extra": {
+            "wikidata": "Q600105",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5875950,
+        "osm_place_id": 282682848,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Jovellanos",
+        "name_eng": "Jovellanos",
+        "name_translations": {
+            "es": "Jovellanos",
+            "ru": "\u0425\u043e\u0432\u0435\u043b\u044c\u044f\u043d\u043e\u0441"
+        },
+        "extra": {
+            "wikidata": "Q2573404",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": "CU-03",
+        "osm_id": 1854615,
+        "osm_place_id": 282748039,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "La Habana",
+        "name_eng": "Havana",
+        "name_translations": {
+            "af": "Havana",
+            "am": "\u1200\u126b\u1293",
+            "an": "L'Habana",
+            "ar": "\u0647\u0627\u0641\u0627\u0646\u0627",
+            "az": "Havana",
+            "be": "\u0413\u0430\u0432\u0430\u043d\u0430",
+            "bg": "\u0425\u0430\u0432\u0430\u043d\u0430",
+            "bo": "\u0f67\u0f0b\u0f5d\u0f53",
+            "br": "La Habana",
+            "bs": "Havana",
+            "ca": "l'Havana",
+            "cs": "Havana",
+            "cv": "\u0413\u0430\u0432\u0430\u043d\u0430",
+            "cy": "La Habana",
+            "da": "Havana",
+            "de": "Havanna",
+            "el": "\u0391\u03b2\u03ac\u03bd\u03b1",
+            "en": "Havana",
+            "eo": "Havano",
+            "es": "La Habana",
+            "et": "Havanna",
+            "eu": "Habana",
+            "fa": "\u0647\u0627\u0648\u0627\u0646\u0627",
+            "fi": "Havanna",
+            "fr": "La Havane",
+            "fy": "Havana",
+            "gd": "Havana",
+            "gl": "A Habana",
+            "he": "\u05d4\u05d5\u05d5\u05d0\u05e0\u05d4",
+            "hr": "Havana",
+            "ht": "La Av\u00e0n",
+            "hu": "Havanna",
+            "hy": "\u0540\u0561\u057e\u0561\u0576\u0561",
+            "id": "Havana",
+            "io": "Havana",
+            "is": "Havana",
+            "it": "L'Avana",
+            "ja": "\u30cf\u30d0\u30ca",
+            "ka": "\u10f0\u10d0\u10d5\u10d0\u10dc\u10d0",
+            "kn": "\u0cb2\u0cbe \u0cb9\u0cac\u0ca8",
+            "ko": "\uc544\ubc14\ub098",
+            "ku": "Havana",
+            "kw": "La Habana",
+            "la": "Havana",
+            "lt": "Havana",
+            "lv": "Havana",
+            "mk": "\u0425\u0430\u0432\u0430\u043d\u0430",
+            "mr": "\u0939\u0935\u093e\u0928\u093e",
+            "ms": "Havana",
+            "mt": "\u0126avana",
+            "nl": "Havana",
+            "oc": "L'Avana",
+            "os": "\u0413\u0430\u0432\u0430\u043d\u00e6",
+            "pl": "Hawana",
+            "pt": "Havana",
+            "qu": "La Habana",
+            "ro": "Havana",
+            "ru": "\u0413\u0430\u0432\u0430\u043d\u0430",
+            "rw": "Havana",
+            "sc": "S'Avana",
+            "sh": "Havana",
+            "sk": "Havana",
+            "sl": "Havana",
+            "sq": "Havana",
+            "sr": "\u0425\u0430\u0432\u0430\u043d\u0430",
+            "sv": "Havanna",
+            "sw": "Havana",
+            "ta": "\u0b85\u0bb5\u0bbe\u0ba9\u0bbe",
+            "tg": "\u04b2\u0430\u0432\u0430\u043d\u0430",
+            "th": "\u0e2e\u0e32\u0e27\u0e32\u0e19\u0e32",
+            "tl": "Havana",
+            "tr": "Havana",
+            "uk": "\u0413\u0430\u0432\u0430\u043d\u0430",
+            "ur": "\u06c1\u0648\u0627\u0646\u0627",
+            "vi": "La Habana",
+            "vo": "La Habana",
+            "yo": "Havana",
+            "zh": "\u54c8\u74e6\u90a3",
+            "ace": "Havana",
+            "ang": "Hafana",
+            "ast": "L'Habana",
+            "bcl": "Habana",
+            "ceb": "La Habana",
+            "diq": "Havana",
+            "ext": "L'Avana",
+            "hif": "Havana",
+            "lij": "L'Avann-a",
+            "lmo": "L'Avana",
+            "nah": "La Ahuana",
+            "nan": "La Habana",
+            "nov": "Havana",
+            "pap": "Havana",
+            "pms": "L'Avan-a",
+            "pnb": "\u06c1\u0648\u0627\u0646\u0627",
+            "rmy": "La Habana",
+            "sah": "\u0425\u0430\u0432\u0430\u043d\u0430",
+            "scn": "L'Avana",
+            "sco": "Havana",
+            "srn": "Havana",
+            "vec": "\u0141'Avana",
+            "war": "La Habana",
+            "yue": "\u590f\u7063\u62ff",
+            "roa-rup": "La Habana",
+            "zh-Hans": "\u54c8\u74e6\u90a3",
+            "zh-Hant": "\u54c8\u74e6\u90a3",
+            "be-tarask": "\u0413\u0430\u0432\u0430\u043d\u0430"
+        },
+        "extra": {
+            "wikidata": "Q12588",
+            "un_locode": "CUHAV"
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5489824,
+        "osm_place_id": 282658936,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "La Habana Vieja",
+        "name_eng": "La Habana Vieja",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1165566",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5489825,
+        "osm_place_id": 282605240,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "La Lisa",
+        "name_eng": "La Lisa",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q3648399",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 2575067,
+        "osm_place_id": 282506795,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "La Palma",
+        "name_eng": "La Palma",
+        "name_translations": {
+            "es": "La Palma",
+            "ru": "\u041b\u0430-\u041f\u0430\u043b\u044c\u043c\u0430"
+        },
+        "extra": {
+            "wikidata": "Q2234325",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5884865,
+        "osm_place_id": 282699974,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "La Sierpe",
+        "name_eng": "La Sierpe",
+        "name_translations": {
+            "es": "La Sierpe",
+            "ru": "\u041b\u0430-\u0421\u044c\u0435\u0440\u043f\u044d"
+        },
+        "extra": {
+            "wikidata": "Q861630",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5901299,
+        "osm_place_id": 282713975,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Las Tunas",
+        "name_eng": "Las Tunas",
+        "name_translations": {
+            "es": "Las Tunas",
+            "hu": "Las Tunas",
+            "ru": "\u041b\u0430\u0441-\u0422\u0443\u043d\u0430\u0441",
+            "uk": "\u041b\u0430\u0441-\u0422\u0443\u043d\u0430\u0441"
+        },
+        "extra": {
+            "wikidata": "Q115527",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": "CU-10",
+        "osm_id": 1854636,
+        "osm_place_id": 282204903,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Las Tunas",
+        "name_eng": "Las Tunas",
+        "name_translations": {
+            "es": "Las Tunas",
+            "ru": "\u041b\u0430\u0441-\u0422\u0443\u043d\u0430\u0441"
+        },
+        "extra": {
+            "wikidata": "Q115334",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5875952,
+        "osm_place_id": 283021671,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Limonar",
+        "name_eng": "Limonar",
+        "name_translations": {
+            "es": "Limonar",
+            "ru": "\u041b\u0438\u043c\u043e\u043d\u0430\u0440"
+        },
+        "extra": {
+            "wikidata": "Q2737469",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5875953,
+        "osm_place_id": 283601140,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Los Arabos",
+        "name_eng": "Los Arabos",
+        "name_translations": {
+            "es": "Los Arabos",
+            "ru": "\u041b\u043e\u0441-\u0410\u0440\u0430\u0431\u043e\u0441"
+        },
+        "extra": {
+            "wikidata": "Q2245914",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 2575068,
+        "osm_place_id": 282673319,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Los Palacios",
+        "name_eng": "Los Palacios",
+        "name_translations": {
+            "es": "Los Palacios",
+            "ru": "\u041b\u043e\u0441-\u041f\u0430\u043b\u0430\u0441\u044c\u043e\u0441"
+        },
+        "extra": {
+            "wikidata": "Q1870561",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5539167,
+        "osm_place_id": 282683263,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Madruga",
+        "name_eng": "Madruga",
+        "name_translations": {
+            "es": "Madruga",
+            "ru": "\u041c\u0430\u0434\u0440\u0443\u0433\u0430"
+        },
+        "extra": {
+            "wikidata": "Q270290",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5927815,
+        "osm_place_id": 283028412,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Mais\u00ed",
+        "name_eng": "Mais\u00ed",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q911750",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5887679,
+        "osm_place_id": 282658864,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Majagua",
+        "name_eng": "Majagua",
+        "name_translations": {
+            "es": "Majagua",
+            "ru": "\u041c\u0430\u0445\u0430\u0433\u0432\u0430"
+        },
+        "extra": {
+            "wikidata": "Q1886040",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5901300,
+        "osm_place_id": 282659631,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Majibacoa",
+        "name_eng": "Majibacoa",
+        "name_translations": {
+            "es": "Majibacoa",
+            "ru": "\u041c\u0430\u0445\u0438\u0431\u0430\u043a\u043e\u0430"
+        },
+        "extra": {
+            "wikidata": "Q1332168",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5901301,
+        "osm_place_id": 283145446,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Manati",
+        "name_eng": "Manati",
+        "name_translations": {
+            "es": "Manati",
+            "ru": "\u041c\u0430\u043d\u0430\u0442\u0438"
+        },
+        "extra": {
+            "wikidata": "Q2234381",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5884795,
+        "osm_place_id": 282703554,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Manicaragua",
+        "name_eng": "Manicaragua",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2573328",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 2575069,
+        "osm_place_id": 282353802,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Mantua",
+        "name_eng": "Mantua",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2213002",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5927816,
+        "osm_place_id": 283601354,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Manuel Tames",
+        "name_eng": "Manuel Tames",
+        "name_translations": {
+            "es": "Manuel Tames",
+            "ru": "\u041c\u0430\u043d\u0443\u0435\u043b\u044c-\u0422\u0430\u043c\u0435\u0441"
+        },
+        "extra": {
+            "wikidata": "Q751418",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5915227,
+        "osm_place_id": 282688184,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Manzanillo",
+        "name_eng": "Manzanillo",
+        "name_translations": {
+            "es": "Manzanillo",
+            "hu": "Manzanillo",
+            "ru": "\u041c\u0430\u043d\u0441\u0430\u043d\u0438\u043b\u044c\u043e",
+            "uk": "\u041c\u0430\u043d\u0441\u0430\u043d\u0456\u043b\u044c\u043e"
+        },
+        "extra": {
+            "wikidata": "Q115403",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5489826,
+        "osm_place_id": 282689580,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Marianao",
+        "name_eng": "Marianao",
+        "name_translations": {
+            "es": "Marianao",
+            "ru": "\u041c\u0430\u0440\u0438\u044f\u043d\u0430\u043e"
+        },
+        "extra": {
+            "wikidata": "Q2553350",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 2576653,
+        "osm_place_id": 282614391,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Mariel",
+        "name_eng": "Mariel",
+        "name_translations": {
+            "es": "Mariel",
+            "ru": "\u041c\u0430\u0440\u0438\u0435\u043b\u044c"
+        },
+        "extra": {
+            "wikidata": "Q116156",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5875982,
+        "osm_place_id": 282719419,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Mart\u00ed",
+        "name_eng": "Mart\u00ed",
+        "name_translations": {
+            "es": "Mart\u00ed",
+            "ru": "\u041c\u0430\u0440\u0442\u0438"
+        },
+        "extra": {
+            "wikidata": "Q5054",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5875983,
+        "osm_place_id": 283021721,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Matanzas",
+        "name_eng": "Matanzas",
+        "name_translations": {
+            "es": "Matanzas",
+            "hu": "Matanzas",
+            "ru": "\u041c\u0430\u0442\u0430\u043d\u0441\u0430\u0441",
+            "uk": "\u041c\u0430\u0442\u0430\u043d\u0441\u0430\u0441"
+        },
+        "extra": {
+            "wikidata": "Q272471",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": "CU-04",
+        "osm_id": 1854616,
+        "osm_place_id": 282213719,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Matanzas",
+        "name_eng": "Matanzas",
+        "name_translations": {
+            "es": "Matanzas",
+            "ru": "\u041c\u0430\u0442\u0430\u043d\u0441\u0430\u0441"
+        },
+        "extra": {
+            "wikidata": "Q115438",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": "CU-16",
+        "osm_id": 2579313,
+        "osm_place_id": 282549434,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Mayabeque",
+        "name_eng": "Mayabeque",
+        "name_translations": {
+            "es": "Mayabeque",
+            "ru": "\u041c\u0430\u044f\u0431\u0435\u043a\u0435"
+        },
+        "extra": {
+            "wikidata": "Q115310",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5904277,
+        "osm_place_id": 283145816,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Mayar\u00ed",
+        "name_eng": "Mayar\u00ed",
+        "name_translations": {
+            "es": "Mayar\u00ed",
+            "ru": "\u041c\u0430\u044f\u0440\u0438"
+        },
+        "extra": {
+            "wikidata": "Q1020314",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5915228,
+        "osm_place_id": 282724389,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Media Luna",
+        "name_eng": "Media Luna",
+        "name_translations": {
+            "es": "Media Luna",
+            "ru": "\u041c\u0435\u0434\u0438\u044f-\u041b\u0443\u043d\u0430"
+        },
+        "extra": {
+            "wikidata": "Q995690",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5539168,
+        "osm_place_id": 282977374,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Melena del Sur",
+        "name_eng": "Melena del Sur",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q270310",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5919050,
+        "osm_place_id": 282707167,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Mella",
+        "name_eng": "Mella",
+        "name_translations": {
+            "es": "Mella",
+            "ru": "\u041c\u0435\u043b\u044c\u044f"
+        },
+        "extra": {
+            "wikidata": "Q658207",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5892226,
+        "osm_place_id": 282722391,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Minas",
+        "name_eng": "Minas",
+        "name_translations": {
+            "es": "Minas",
+            "ru": "\u041c\u0438\u043d\u0430\u0441"
+        },
+        "extra": {
+            "wikidata": "Q643025",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 2575070,
+        "osm_place_id": 282327682,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Minas de Matahambre",
+        "name_eng": "Minas de Matahambre",
+        "name_translations": {
+            "es": "Minas de Matahambre",
+            "ru": "\u041c\u0438\u043d\u0430\u0441-\u0434\u0435-\u041c\u0430\u0442\u0430\u0430\u043c\u0431\u0440\u0435"
+        },
+        "extra": {
+            "wikidata": "Q2204246",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5904287,
+        "osm_place_id": 283601272,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Moa",
+        "name_eng": "Moa",
+        "name_translations": {
+            "es": "Moa",
+            "ru": "\u041c\u043e\u0430"
+        },
+        "extra": {
+            "wikidata": "Q168965",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5887680,
+        "osm_place_id": 282734165,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Mor\u00f3n",
+        "name_eng": "Mor\u00f3n",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q959528",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5892227,
+        "osm_place_id": 283024133,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Najasa",
+        "name_eng": "Najasa",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q643028",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5927817,
+        "osm_place_id": 282698726,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Niceto P\u00e9rez",
+        "name_eng": "Niceto P\u00e9rez",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1026991",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5915229,
+        "osm_place_id": 283027233,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Niquero",
+        "name_eng": "Niquero",
+        "name_translations": {
+            "es": "Niquero",
+            "ru": "\u041d\u0438\u043a\u0435\u0440\u043e"
+        },
+        "extra": {
+            "wikidata": "Q972546",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5539169,
+        "osm_place_id": 283598528,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Nueva Paz",
+        "name_eng": "Nueva Paz",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q270581",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5892228,
+        "osm_place_id": 283601223,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Nuevitas",
+        "name_eng": "Nuevitas",
+        "name_translations": {
+            "es": "Nuevitas",
+            "ru": "\u041d\u0443\u044d\u0432\u0438\u0442\u0430\u0441"
+        },
+        "extra": {
+            "wikidata": "Q643081",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5919051,
+        "osm_place_id": 282662023,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Palma Soriano",
+        "name_eng": "Palma Soriano",
+        "name_translations": {
+            "es": "Palma Soriano",
+            "ru": "\u041f\u0430\u043b\u044c\u043c\u0430-\u0421\u043e\u0440\u044c\u044f\u043d\u043e"
+        },
+        "extra": {
+            "wikidata": "Q742835",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5884796,
+        "osm_place_id": 282658540,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Palmira",
+        "name_eng": "Palmira",
+        "name_translations": {
+            "es": "Palmira",
+            "ru": "\u041f\u0430\u043b\u044c\u043c\u0438\u0440\u0430"
+        },
+        "extra": {
+            "wikidata": "Q5008",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5875984,
+        "osm_place_id": 283601141,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Pedro Betancourt",
+        "name_eng": "Pedro Betancourt",
+        "name_translations": {
+            "es": "Pedro Betancourt",
+            "ru": "\u041f\u0435\u0434\u0440\u043e-\u0411\u0435\u0442\u0430\u043d\u043a\u0443\u0440"
+        },
+        "extra": {
+            "wikidata": "Q2245897",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5875951,
+        "osm_place_id": 282719414,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Perico",
+        "name_eng": "Perico",
+        "name_translations": {
+            "es": "Perico",
+            "ru": "\u041f\u0435\u0440\u0438\u043a\u043e"
+        },
+        "extra": {
+            "wikidata": "Q5001",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5915230,
+        "osm_place_id": 283601317,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Pil\u00f3n",
+        "name_eng": "Pil\u00f3n",
+        "name_translations": {
+            "es": "Pil\u00f3n",
+            "ru": "\u041f\u0438\u043b\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q1935454",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": "CU-01",
+        "osm_id": 1854617,
+        "osm_place_id": 282256391,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Pinar del R\u00edo",
+        "name_eng": "Pinar del Rio",
+        "name_translations": {
+            "en": "Pinar del Rio",
+            "es": "Pinar del R\u00edo",
+            "ru": "\u041f\u0438\u043d\u0430\u0440-\u0434\u0435\u043b\u044c-\u0420\u0438\u043e"
+        },
+        "extra": {
+            "wikidata": "Q115497",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 2575071,
+        "osm_place_id": 282383858,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Pinar del R\u00edo",
+        "name_eng": "Pinar del R\u00edo",
+        "name_translations": {
+            "en": "Pinar del Rio",
+            "es": "Pinar del R\u00edo",
+            "hu": "Pinar del R\u00edo",
+            "ru": "\u041f\u0438\u043d\u0430\u0440-\u0434\u0435\u043b\u044c-\u0420\u0438\u043e"
+        },
+        "extra": {
+            "wikidata": "Q244139",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5884797,
+        "osm_place_id": 282733892,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Placetas",
+        "name_eng": "Placetas",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q861701",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5489827,
+        "osm_place_id": 282918715,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Playa",
+        "name_eng": "Playa",
+        "name_translations": {
+            "es": "Playa",
+            "ru": "\u041f\u043b\u0430\u044f"
+        },
+        "extra": {
+            "wikidata": "Q2066897",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5489828,
+        "osm_place_id": 282953414,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Plaza de la Revoluci\u00f3n",
+        "name_eng": "Plaza de la Revoluci\u00f3n",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2099152",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5887681,
+        "osm_place_id": 282967204,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Primero de Enero",
+        "name_eng": "Primero de Enero",
+        "name_translations": {
+            "es": "Primero de Enero",
+            "ru": "\u041f\u0440\u0438\u043c\u0435\u0440\u043e-\u0434\u0435-\u042d\u043d\u0435\u0440\u043e"
+        },
+        "extra": {
+            "wikidata": "Q1020104",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5901302,
+        "osm_place_id": 282876494,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Puerto Padre",
+        "name_eng": "Puerto Padre",
+        "name_translations": {
+            "es": "Puerto Padre",
+            "ru": "\u041f\u0443\u0435\u0440\u0442\u043e \u041f\u0430\u0434\u0440\u0435"
+        },
+        "extra": {
+            "wikidata": "Q1938772",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5884798,
+        "osm_place_id": 282966942,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Quemado de G\u00fcines",
+        "name_eng": "Quemado de G\u00fcines",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q5006",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5539170,
+        "osm_place_id": 282641384,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Quivic\u00e1n",
+        "name_eng": "Quivic\u00e1n",
+        "name_translations": {
+            "es": "Quivic\u00e1n",
+            "ru": "\u041a\u0438\u0432\u0438\u043a\u0430\u043d"
+        },
+        "extra": {
+            "wikidata": "Q2123580",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5904288,
+        "osm_place_id": 282695954,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Rafael Freyre",
+        "name_eng": "Rafael Freyre",
+        "name_translations": {
+            "es": "Rafael Freyre",
+            "ru": "\u0420\u0430\u0444\u0430\u044d\u043b\u044c \u0424\u0440\u0435\u0439\u0440\u0435"
+        },
+        "extra": {
+            "wikidata": "Q281057",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5884799,
+        "osm_place_id": 282997246,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Ranchuelo",
+        "name_eng": "Ranchuelo",
+        "name_translations": {
+            "es": "Ranchuelo",
+            "ru": "\u0420\u0430\u043d\u0447\u0443\u0435\u043b\u043e"
+        },
+        "extra": {
+            "wikidata": "Q5003",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5489829,
+        "osm_place_id": 282650222,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Regla",
+        "name_eng": "Regla",
+        "name_translations": {
+            "es": "Regla",
+            "ru": "\u0420\u0435\u0433\u043b\u0430"
+        },
+        "extra": {
+            "wikidata": "Q2066278",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5884800,
+        "osm_place_id": 282698680,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Remedios",
+        "name_eng": "Remedios",
+        "name_translations": {
+            "es": "Remedios",
+            "ru": "\u0420\u0435\u043c\u0435\u0434\u0438\u043e\u0441"
+        },
+        "extra": {
+            "wikidata": "Q280795",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5915231,
+        "osm_place_id": 282696785,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "R\u00edo Cauto",
+        "name_eng": "R\u00edo Cauto",
+        "name_translations": {
+            "es": "R\u00edo Cauto",
+            "ru": "\u0420\u0438\u043e-\u041a\u0430\u0443\u0442\u043e"
+        },
+        "extra": {
+            "wikidata": "Q178931",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5884801,
+        "osm_place_id": 283305026,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Rodas",
+        "name_eng": "Rodas",
+        "name_translations": {
+            "es": "Rodas",
+            "ru": "\u0420\u043e\u0434\u0430\u0441"
+        },
+        "extra": {
+            "wikidata": "Q5004",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5904289,
+        "osm_place_id": 282652161,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Sagua de T\u00e1namo",
+        "name_eng": "Sagua de T\u00e1namo",
+        "name_translations": {
+            "es": "Sagua de T\u00e1namo",
+            "ru": "\u0421\u0430\u0433\u0443\u0430-\u0434\u0435-\u0422\u0430\u043d\u0430\u043c\u043e"
+        },
+        "extra": {
+            "wikidata": "Q281213",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5884802,
+        "osm_place_id": 282657604,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Sagua La Grande",
+        "name_eng": "Sagua La Grande",
+        "name_translations": {
+            "es": "Sagua la Grande",
+            "ru": "\u0421\u0430\u0433\u0443\u0430-\u043b\u0430-\u0413\u0440\u0430\u043d\u0434\u0435",
+            "uk": "\u0421\u0430\u0433\u0443\u0430-\u043b\u0430-\u0413\u0440\u0430\u043d\u0434\u0435"
+        },
+        "extra": {
+            "wikidata": "Q5030",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 2576654,
+        "osm_place_id": 282307968,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "San Antonio de los Ba\u00f1os",
+        "name_eng": "San Antonio de los Ba\u00f1os",
+        "name_translations": {
+            "en": "San Antonio de los Ba\u00f1os",
+            "es": "San Antonio de los Ba\u00f1os",
+            "ru": "\u0421\u0430\u043d-\u0410\u043d\u0442\u043e\u043d\u0438\u043e-\u0434\u0435-\u043b\u043e\u0441-\u0411\u0430\u043d\u044c\u043e\u0441"
+        },
+        "extra": {
+            "wikidata": "Q114984",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5927818,
+        "osm_place_id": 282654838,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "San Antonio del Sur",
+        "name_eng": "San Antonio del Sur",
+        "name_translations": {
+            "es": "San Antonio del Sur",
+            "ru": "\u0421\u0430\u043d-\u0410\u043d\u0442\u043e\u043d\u0438\u043e-\u0434\u0435\u043b\u044c-\u0421\u0443\u0440"
+        },
+        "extra": {
+            "wikidata": "Q167235",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 2575072,
+        "osm_place_id": 282614276,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "San Crist\u00f3bal",
+        "name_eng": "San Crist\u00f3bal",
+        "name_translations": {
+            "es": "San Crist\u00f3bal",
+            "ru": "\u0421\u0430\u043d-\u041a\u0440\u0438\u0441\u0442\u043e\u0431\u0430\u043b\u044c"
+        },
+        "extra": {
+            "wikidata": "Q559801",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5539171,
+        "osm_place_id": 282600485,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "San Jos\u00e9 de las Lajas",
+        "name_eng": "San Jos\u00e9 de las Lajas",
+        "name_translations": {
+            "es": "San Jos\u00e9 de las Lajas",
+            "ru": "\u0421\u0430\u043d-\u0425\u043e\u0441\u0435-\u0434\u0435-\u043b\u0430\u0441-\u041b\u0430\u0445\u0430\u0441"
+        },
+        "extra": {
+            "wikidata": "Q1001941",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 2575073,
+        "osm_place_id": 282307824,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "San Juan y Mart\u00ednez",
+        "name_eng": "San Juan y Mart\u00ednez",
+        "name_translations": {
+            "es": "San Juan y Mart\u00ednez",
+            "ru": "\u0421\u0430\u043d-\u0425\u0443\u0430\u043d-\u0438-\u041c\u0430\u0440\u0442\u0438\u043d\u0435\u0441"
+        },
+        "extra": {
+            "wikidata": "Q1716152",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5919052,
+        "osm_place_id": 282737166,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "San Luis",
+        "name_eng": "San Luis",
+        "name_translations": {
+            "es": "San Luis",
+            "ru": "\u0421\u0430\u043d-\u041b\u0443\u0438\u0441"
+        },
+        "extra": {
+            "wikidata": "Q555956",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 2575074,
+        "osm_place_id": 282351265,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "San Luis",
+        "name_eng": "San Luis",
+        "name_translations": {
+            "es": "San Luis",
+            "ru": "\u0421\u0430\u043d-\u041b\u0443\u0438\u0441"
+        },
+        "extra": {
+            "wikidata": "Q1817531",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5489830,
+        "osm_place_id": 283258103,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "San Miguel del Padr\u00f3n",
+        "name_eng": "San Miguel del Padr\u00f3n",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2234391",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5539172,
+        "osm_place_id": 282600731,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "San Nicol\u00e1s",
+        "name_eng": "San Nicol\u00e1s",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q270090",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": "CU-07",
+        "osm_id": 1923793,
+        "osm_place_id": 282540649,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Sancti Spiritus",
+        "name_eng": "Sancti Spiritus",
+        "name_translations": {
+            "en": "Sancti Spiritus",
+            "es": "Sancti Spiritus",
+            "ru": "\u0421\u0430\u043d\u043a\u0442\u0438-\u0421\u043f\u0438\u0440\u0438\u0442\u0443\u0441"
+        },
+        "extra": {
+            "wikidata": "Q115441",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5884866,
+        "osm_place_id": 282811279,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Sancti Spiritus",
+        "name_eng": "Sancti Spiritus",
+        "name_translations": {
+            "en": "Sancti Spiritus",
+            "es": "Sancti Spiritus",
+            "hu": "Sancti Spiritus",
+            "ru": "\u0421\u0430\u043d\u043a\u0442\u0438-\u0421\u043f\u0438\u0440\u0438\u0442\u0443\u0441"
+        },
+        "extra": {
+            "wikidata": "Q845720",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 2575075,
+        "osm_place_id": 282297132,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Sandino",
+        "name_eng": "Sandino",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q567769",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5884803,
+        "osm_place_id": 282699995,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Santa Clara",
+        "name_eng": "Santa Clara",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q211590",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5539173,
+        "osm_place_id": 282725855,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Santa Cruz del Norte",
+        "name_eng": "Santa Cruz del Norte",
+        "name_translations": {
+            "es": "Santa Cruz del Norte",
+            "ru": "\u0421\u0430\u043d\u0442\u0430-\u041a\u0440\u0443\u0441-\u0434\u0435\u043b\u044c-\u041d\u043e\u0440\u0442\u0435"
+        },
+        "extra": {
+            "wikidata": "Q270302",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5892229,
+        "osm_place_id": 282695066,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Santa Cruz del Sur",
+        "name_eng": "Santa Cruz del Sur",
+        "name_translations": {
+            "es": "Santa Cruz del Sur",
+            "ru": "\u0421\u0430\u043d\u0442\u0430-\u041a\u0440\u0443\u0441-\u0434\u0435\u043b\u044c-\u0421\u0443\u0440"
+        },
+        "extra": {
+            "wikidata": "Q643313",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5884804,
+        "osm_place_id": 282811233,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Santa Isabel de las Lajas",
+        "name_eng": "Santa Isabel de las Lajas",
+        "name_translations": {
+            "es": "Santa Isabel de las Lajas",
+            "ru": "\u041b\u0430\u0445\u0430\u0441"
+        },
+        "extra": {
+            "wikidata": "Q5045",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": "CU-13",
+        "osm_id": 1854638,
+        "osm_place_id": 282207837,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Santiago de Cuba",
+        "name_eng": "Santiago de Cuba",
+        "name_translations": {
+            "es": "Santiago de Cuba",
+            "ru": "\u0421\u0430\u043d\u0442\u044c\u044f\u0433\u043e-\u0434\u0435-\u041a\u0443\u0431\u0430"
+        },
+        "extra": {
+            "wikidata": "Q234200",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5919053,
+        "osm_place_id": 282969786,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Santiago de Cuba",
+        "name_eng": "Santiago de Cuba",
+        "name_translations": {
+            "en": "Santiago de Cuba",
+            "es": "Santiago de Cuba",
+            "hu": "Santiago de Cuba",
+            "ru": "\u0421\u0430\u043d\u0442\u044c\u044f\u0433\u043e-\u0434\u0435-\u041a\u0443\u0431\u0430",
+            "uk": "\u0421\u0430\u043d\u0442\u044c\u044f\u0433\u043e-\u0434\u0435-\u041a\u0443\u0431\u0430"
+        },
+        "extra": {
+            "wikidata": "Q117040",
+            "un_locode": "CUSCU"
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5884805,
+        "osm_place_id": 282725764,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Santo Domingo",
+        "name_eng": "Santo Domingo",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q765438",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5919054,
+        "osm_place_id": 283001357,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Segundo Frente",
+        "name_eng": "Segundo Frente",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1193189",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5892230,
+        "osm_place_id": 282649791,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Sibanic\u00fa",
+        "name_eng": "Sibanic\u00fa",
+        "name_translations": {
+            "es": "Sibanic\u00fa",
+            "ru": "\u0421\u0438\u0431\u0430\u043d\u0438\u043a\u0443"
+        },
+        "extra": {
+            "wikidata": "Q537161",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5892231,
+        "osm_place_id": 282649889,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Sierra de Cubitas",
+        "name_eng": "Sierra de Cubitas",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q643052",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5919055,
+        "osm_place_id": 282701132,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Songo - La Maya",
+        "name_eng": "Songo - La Maya",
+        "name_translations": {
+            "es": "Songo - La Maya"
+        },
+        "extra": {
+            "wikidata": "Q1193899",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5884867,
+        "osm_place_id": 282725874,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Taguasco",
+        "name_eng": "Taguasco",
+        "name_translations": {
+            "es": "Taguasco",
+            "ru": "\u0422\u0430\u0433\u0443\u0430\u0441\u043a\u043e"
+        },
+        "extra": {
+            "wikidata": "Q862734",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5919056,
+        "osm_place_id": 283307315,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Tercer Frente",
+        "name_eng": "Tercer Frente",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1193882",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5884868,
+        "osm_place_id": 282737176,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Trinidad",
+        "name_eng": "Trinidad",
+        "name_translations": {
+            "es": "Trinidad",
+            "hu": "Trinidad",
+            "ru": "\u0422\u0440\u0438\u043d\u0438\u0434\u0430\u0434"
+        },
+        "extra": {
+            "wikidata": "Q319272",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5875985,
+        "osm_place_id": 282693217,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Uni\u00f3n de Reyes",
+        "name_eng": "Uni\u00f3n de Reyes",
+        "name_translations": {
+            "es": "Uni\u00f3n de Reyes",
+            "ru": "\u0423\u043d\u0438\u043e\u043d-\u0434\u0435-\u0420\u0435\u0439\u0435\u0441"
+        },
+        "extra": {
+            "wikidata": "Q5002",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5904290,
+        "osm_place_id": 282651149,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Urbano Noris",
+        "name_eng": "Urbano Noris",
+        "name_translations": {
+            "es": "Urbano Noris",
+            "ru": "\u0421\u0430\u043d-\u0425\u0435\u0440\u043c\u0430\u043d"
+        },
+        "extra": {
+            "wikidata": "Q280929",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5887682,
+        "osm_place_id": 282997677,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Venezuela",
+        "name_eng": "Venezuela",
+        "name_translations": {
+            "es": "Venezuela",
+            "ru": "\u0412\u0435\u043d\u0435\u0437\u0443\u0435\u043b\u0430"
+        },
+        "extra": {
+            "wikidata": "Q593830",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5892232,
+        "osm_place_id": 282763344,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Vertientes",
+        "name_eng": "Vertientes",
+        "name_translations": {
+            "es": "Vertientes",
+            "ru": "\u0412\u0435\u0440\u0442\u0439\u0435\u043d\u0442\u0435\u0441"
+        },
+        "extra": {
+            "wikidata": "Q643047",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": "CU-05",
+        "osm_id": 1923804,
+        "osm_place_id": 282476023,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Villa Clara",
+        "name_eng": "Villa Clara",
+        "name_translations": {
+            "es": "Villa Clara",
+            "ru": "\u0412\u0438\u043b\u044c\u044f-\u041a\u043b\u0430\u0440\u0430"
+        },
+        "extra": {
+            "wikidata": "Q115434",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 2575076,
+        "osm_place_id": 282307431,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Vi\u00f1ales",
+        "name_eng": "Vi\u00f1ales",
+        "name_translations": {
+            "es": "Vi\u00f1ales",
+            "ru": "\u0412\u0438\u043d\u044c\u044f\u043b\u0435\u0441"
+        },
+        "extra": {
+            "wikidata": "Q1180693",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5884869,
+        "osm_place_id": 282712764,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Yaguajay",
+        "name_eng": "Yaguajay",
+        "name_translations": {
+            "es": "Yaguajay",
+            "ru": "\u042f\u0433\u0443\u0430\u0445\u0430\u0439"
+        },
+        "extra": {
+            "wikidata": "Q862092",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5915232,
+        "osm_place_id": 282652762,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Yara",
+        "name_eng": "Yara",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2061386",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cu",
+        "country_cca3": "cub",
+        "region_cca2": null,
+        "osm_id": 5927819,
+        "osm_place_id": 282653605,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Yateras",
+        "name_eng": "Yateras",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1026971",
+            "un_locode": null
+        }
+    }
+]

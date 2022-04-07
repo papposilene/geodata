@@ -1,0 +1,1032 @@
+[
+    {
+        "country_cca2": "ci",
+        "country_cca3": "civ",
+        "region_cca2": null,
+        "osm_id": 3706105,
+        "osm_place_id": 282484157,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Abengourou",
+        "name_eng": "Abengourou",
+        "name_translations": {
+            "ar": "\u0623\u0628\u0646\u063a\u0648\u0631\u0648",
+            "fr": "Abengourou"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ci",
+        "country_cca3": "civ",
+        "region_cca2": "CI-AB",
+        "osm_id": 3377982,
+        "osm_place_id": 282508713,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Abidjan",
+        "name_eng": "Abidjan",
+        "name_translations": {
+            "af": "Abidjan",
+            "ar": "\u0623\u0628\u064a\u062f\u062c\u0627\u0646",
+            "be": "\u0410\u0431\u0456\u0434\u0436\u0430\u043d",
+            "bg": "\u0410\u0431\u0438\u0434\u0436\u0430\u043d",
+            "bn": "\u0986\u09ac\u09bf\u099c\u09be\u09a8",
+            "br": "Abidjan",
+            "bs": "Abidjan",
+            "ca": "Abidjan",
+            "cs": "Abid\u017ean",
+            "cy": "Abidjan",
+            "da": "Abidjan",
+            "de": "Abidjan",
+            "el": "\u0391\u03bc\u03c0\u03b9\u03c4\u03b6\u03ac\u03bd",
+            "en": "Abidjan",
+            "eo": "Abi\u011dano",
+            "es": "Abiy\u00e1n",
+            "et": "Abidjan",
+            "eu": "Abidjan",
+            "fa": "\u0622\u0628\u06cc\u062c\u0627\u0646",
+            "fi": "Abidjan",
+            "fr": "Abidjan",
+            "gd": "Abidjan",
+            "gl": "Abidjan",
+            "gv": "Abidjan",
+            "he": "\u05d0\u05d1\u05d9\u05d3\u05d2'\u05d0\u05df",
+            "hr": "Abidjan",
+            "hu": "Abidjan",
+            "id": "Abidjan",
+            "io": "Abidjan",
+            "is": "Abidjan",
+            "it": "Abidjan",
+            "ja": "\u30a2\u30d3\u30b8\u30e3\u30f3",
+            "jv": "Abidjan",
+            "ko": "\uc544\ube44\uc7a5",
+            "la": "Abidjan",
+            "ln": "Abidjan",
+            "lt": "Abid\u017eanas",
+            "lv": "Abid\u017e\u0101na",
+            "mg": "Abidjan",
+            "mk": "\u0410\u0431\u0438\u045f\u0430\u043d",
+            "ml": "\u0d05\u0d2c\u0d3f\u0d1c\u0d3e\u0d7b",
+            "mr": "\u0906\u092c\u093f\u091c\u093e\u0928",
+            "ms": "Abidjan",
+            "nl": "Abidjan",
+            "nn": "Abidjan",
+            "no": "Abidjan",
+            "oc": "Abidjan",
+            "pl": "Abid\u017can",
+            "pt": "Abidjan",
+            "ro": "Abidjan",
+            "ru": "\u0410\u0431\u0438\u0434\u0436\u0430\u043d",
+            "sc": "Abidjan",
+            "sk": "Abidjan",
+            "sl": "Abid\u017ean",
+            "sq": "Abidjan",
+            "sr": "\u0410\u0431\u0438\u045f\u0430\u043d",
+            "sv": "Abidjan",
+            "sw": "Abidjan",
+            "th": "\u0e2d\u0e32\u0e1a\u0e35\u0e08\u0e32\u0e19",
+            "tk": "Abijan",
+            "tr": "Abican",
+            "uk": "\u0410\u0431\u0456\u0434\u0436\u0430\u043d",
+            "vi": "Abidjan",
+            "vo": "Abidjan",
+            "yo": "Abidjan",
+            "zh": "\u963f\u6bd4\u8ba9 \/ \u963f\u5fc5\u5c1a",
+            "als": "Abidjan",
+            "kab": "Abidjan",
+            "lmo": "Abidjan",
+            "nan": "Abidjan",
+            "nov": "Abidjan",
+            "pms": "Abidjan",
+            "war": "Abidjan",
+            "zh-CN": "\u963f\u6bd4\u8ba9",
+            "zh-TW": "\u963f\u5fc5\u5c1a",
+            "bat-smg": "Abid\u017eans",
+            "roa-rup": "Abidjan",
+            "zh-Hans": "\u963f\u6bd4\u8ba9",
+            "zh-Hant": "\u963f\u6bd4\u8b93 \/ \u963f\u5fc5\u5c1a",
+            "be-tarask": "\u0410\u0431\u0456\u0434\u0436\u0430\u043d"
+        },
+        "extra": {
+            "wikidata": "Q4667612",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ci",
+        "country_cca3": "civ",
+        "region_cca2": null,
+        "osm_id": 3704473,
+        "osm_place_id": 282450390,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Aboisso",
+        "name_eng": "Aboisso",
+        "name_translations": {
+            "fr": "Aboisso",
+            "ru": "\u0410\u0431\u043e\u0438\u0441\u043e"
+        },
+        "extra": {
+            "wikidata": "Q3445349",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ci",
+        "country_cca3": "civ",
+        "region_cca2": null,
+        "osm_id": 3704474,
+        "osm_place_id": 282548336,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Adiak\u00e9",
+        "name_eng": "Adiak\u00e9",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q4682641",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ci",
+        "country_cca3": "civ",
+        "region_cca2": null,
+        "osm_id": 1609805,
+        "osm_place_id": 282438134,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Agn\u00e9by-Tiassa",
+        "name_eng": "Agn\u00e9by-Tiassa",
+        "name_translations": {
+            "ar": "\u0623\u0646\u064a\u0628\u064a-\u062a\u064a\u0627\u0633\u0627",
+            "fr": "Agn\u00e9by-Tiassa"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ci",
+        "country_cca3": "civ",
+        "region_cca2": null,
+        "osm_id": 3706106,
+        "osm_place_id": 282525445,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Agnibil\u00e9krou",
+        "name_eng": "Agnibil\u00e9krou",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q4693215",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ci",
+        "country_cca3": "civ",
+        "region_cca2": null,
+        "osm_id": 1609815,
+        "osm_place_id": 282186304,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Bafing",
+        "name_eng": "Bafing",
+        "name_translations": {
+            "fr": "Bafing",
+            "ru": "\u0411\u0430\u0444\u0438\u043d"
+        },
+        "extra": {
+            "wikidata": "Q799800",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ci",
+        "country_cca3": "civ",
+        "region_cca2": null,
+        "osm_id": 3604144,
+        "osm_place_id": 282808143,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Bagou\u00e9",
+        "name_eng": "Bagou\u00e9",
+        "name_translations": {
+            "fr": "Bagou\u00e9"
+        },
+        "extra": {
+            "wikidata": "Q2879161",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ci",
+        "country_cca3": "civ",
+        "region_cca2": "CI-BS",
+        "osm_id": 3597522,
+        "osm_place_id": 282483439,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Bas-Sassandra",
+        "name_eng": "Bas-Sassandra",
+        "name_translations": {
+            "ar": "\u0633\u0627\u0633\u0627\u0646\u062f\u0631\u0627 \u0627\u0644\u0633\u0641\u0644\u0649",
+            "fr": "Bas-Sassandra"
+        },
+        "extra": {
+            "wikidata": "Q20980352",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ci",
+        "country_cca3": "civ",
+        "region_cca2": null,
+        "osm_id": 1609820,
+        "osm_place_id": 282392239,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "B\u00e9lier",
+        "name_eng": "B\u00e9lier",
+        "name_translations": {
+            "fr": "B\u00e9lier"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ci",
+        "country_cca3": "civ",
+        "region_cca2": null,
+        "osm_id": 3603715,
+        "osm_place_id": 282448720,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "B\u00e9r\u00e9",
+        "name_eng": "B\u00e9r\u00e9",
+        "name_translations": {
+            "fr": "B\u00e9r\u00e9"
+        },
+        "extra": {
+            "wikidata": "Q22080753",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ci",
+        "country_cca3": "civ",
+        "region_cca2": null,
+        "osm_id": 3706107,
+        "osm_place_id": 282762593,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Betti\u00e9",
+        "name_eng": "Betti\u00e9",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ci",
+        "country_cca3": "civ",
+        "region_cca2": null,
+        "osm_id": 3603817,
+        "osm_place_id": 282530808,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Bounkani",
+        "name_eng": "Bounkani",
+        "name_translations": {
+            "fr": "Bounkani"
+        },
+        "extra": {
+            "wikidata": "Q19830823",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ci",
+        "country_cca3": "civ",
+        "region_cca2": null,
+        "osm_id": 1609804,
+        "osm_place_id": 282265621,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Cavally",
+        "name_eng": "Cavally",
+        "name_translations": {
+            "fr": "Cavally"
+        },
+        "extra": {
+            "wikidata": "Q20641894",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ci",
+        "country_cca3": "civ",
+        "region_cca2": "CI-CM",
+        "osm_id": 3578769,
+        "osm_place_id": 282533376,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Como\u00e9",
+        "name_eng": "Como\u00e9",
+        "name_translations": {
+            "ar": "\u0643\u0648\u0645\u0648\u064a",
+            "fr": "Como\u00e9"
+        },
+        "extra": {
+            "wikidata": "Q16629374",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ci",
+        "country_cca3": "civ",
+        "region_cca2": "CI-DN",
+        "osm_id": 1609819,
+        "osm_place_id": 282429702,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Dengu\u00e9l\u00e9",
+        "name_eng": "Dengu\u00e9l\u00e9",
+        "name_translations": {
+            "fr": "Dengu\u00e9l\u00e9",
+            "ru": "\u0414\u0435\u043d\u0433\u0435\u043b\u0435"
+        },
+        "extra": {
+            "wikidata": "Q20980374",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ci",
+        "country_cca3": "civ",
+        "region_cca2": null,
+        "osm_id": 3603737,
+        "osm_place_id": 282642353,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Folon",
+        "name_eng": "Folon",
+        "name_translations": {
+            "fr": "Folon"
+        },
+        "extra": {
+            "wikidata": "Q3075118",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ci",
+        "country_cca3": "civ",
+        "region_cca2": null,
+        "osm_id": 3603161,
+        "osm_place_id": 282556845,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Gb\u00eak\u00ea",
+        "name_eng": "Gb\u00eak\u00ea",
+        "name_translations": {
+            "fr": "Gb\u00eak\u00ea"
+        },
+        "extra": {
+            "wikidata": "Q22080826",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ci",
+        "country_cca3": "civ",
+        "region_cca2": null,
+        "osm_id": 3596853,
+        "osm_place_id": 282449217,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Gb\u00f4kl\u00e9",
+        "name_eng": "Gb\u00f4kl\u00e9",
+        "name_translations": {
+            "ar": "\u063a\u0628\u0648\u0643\u0644\u064a",
+            "fr": "Gb\u00f4kl\u00e9"
+        },
+        "extra": {
+            "wikidata": "Q22080829",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ci",
+        "country_cca3": "civ",
+        "region_cca2": null,
+        "osm_id": 1609803,
+        "osm_place_id": 282167888,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "G\u00f4h",
+        "name_eng": "G\u00f4h",
+        "name_translations": {
+            "ar": "\u063a\u0648\u0647",
+            "fr": "G\u00f4h"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ci",
+        "country_cca3": "civ",
+        "region_cca2": "CI-GD",
+        "osm_id": 3596727,
+        "osm_place_id": 282492702,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "G\u00f4h-Djiboua",
+        "name_eng": "G\u00f4h-Djiboua",
+        "name_translations": {
+            "ar": "\u063a\u0648\u0647-\u062c\u064a\u0628\u0648\u0627",
+            "fr": "G\u00f4h-Djiboua"
+        },
+        "extra": {
+            "wikidata": "Q21003640",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ci",
+        "country_cca3": "civ",
+        "region_cca2": null,
+        "osm_id": 3603818,
+        "osm_place_id": 282697706,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Gontougo",
+        "name_eng": "Gontougo",
+        "name_translations": {
+            "fr": "Gontougo"
+        },
+        "extra": {
+            "wikidata": "Q17355494",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ci",
+        "country_cca3": "civ",
+        "region_cca2": null,
+        "osm_id": 3704475,
+        "osm_place_id": 282719310,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Grand-Bassam",
+        "name_eng": "Grand-Bassam",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q5594198",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ci",
+        "country_cca3": "civ",
+        "region_cca2": null,
+        "osm_id": 3581389,
+        "osm_place_id": 282644354,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Grands-Ponts",
+        "name_eng": "Grands-Ponts",
+        "name_translations": {
+            "fr": "Grands-Ponts"
+        },
+        "extra": {
+            "wikidata": "Q22080838",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ci",
+        "country_cca3": "civ",
+        "region_cca2": null,
+        "osm_id": 3600125,
+        "osm_place_id": 282442389,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Gu\u00e9mon",
+        "name_eng": "Gu\u00e9mon",
+        "name_translations": {
+            "fr": "Gu\u00e9mon"
+        },
+        "extra": {
+            "wikidata": "Q21082912",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ci",
+        "country_cca3": "civ",
+        "region_cca2": null,
+        "osm_id": 3603162,
+        "osm_place_id": 282435671,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Hambol",
+        "name_eng": "Hambol",
+        "name_translations": {
+            "fr": "Hambol"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ci",
+        "country_cca3": "civ",
+        "region_cca2": null,
+        "osm_id": 1609810,
+        "osm_place_id": 282223966,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Haut-Sassandra",
+        "name_eng": "Haut-Sassandra",
+        "name_translations": {
+            "fr": "Haut-Sassandra"
+        },
+        "extra": {
+            "wikidata": "Q845709",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ci",
+        "country_cca3": "civ",
+        "region_cca2": null,
+        "osm_id": 3601646,
+        "osm_place_id": 282437882,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Iffou",
+        "name_eng": "Iffou",
+        "name_translations": {
+            "fr": "Iffou"
+        },
+        "extra": {
+            "wikidata": "Q21082947",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ci",
+        "country_cca3": "civ",
+        "region_cca2": null,
+        "osm_id": 1609811,
+        "osm_place_id": 282176263,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Ind\u00e9ni\u00e9-Djuablin",
+        "name_eng": "Ind\u00e9ni\u00e9-Djuablin",
+        "name_translations": {
+            "ar": "\u0625\u0646\u062f\u0627\u0646\u064a\u0647-\u062c\u0648\u0627\u0628\u0644\u0627\u0646",
+            "fr": "Ind\u00e9ni\u00e9-Djuablin"
+        },
+        "extra": {
+            "wikidata": "Q16643482",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ci",
+        "country_cca3": "civ",
+        "region_cca2": null,
+        "osm_id": 3603738,
+        "osm_place_id": 282441302,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Kabadougou",
+        "name_eng": "Kabadougou",
+        "name_translations": {
+            "fr": "Kabadougou"
+        },
+        "extra": {
+            "wikidata": "Q24756897",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ci",
+        "country_cca3": "civ",
+        "region_cca2": "CI-LC",
+        "osm_id": 3601645,
+        "osm_place_id": 282484444,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Lacs",
+        "name_eng": "Lacs",
+        "name_translations": {
+            "fr": "Lacs",
+            "ru": "\u041b\u0430\u043a"
+        },
+        "extra": {
+            "wikidata": "Q20980363",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ci",
+        "country_cca3": "civ",
+        "region_cca2": "CI-LG",
+        "osm_id": 3581398,
+        "osm_place_id": 282432067,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Lagunes",
+        "name_eng": "Lagunes",
+        "name_translations": {
+            "fr": "Lagunes"
+        },
+        "extra": {
+            "wikidata": "Q20980365",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ci",
+        "country_cca3": "civ",
+        "region_cca2": null,
+        "osm_id": 3596728,
+        "osm_place_id": 282510191,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "L\u00f4h-Djiboua",
+        "name_eng": "L\u00f4h-Djiboua",
+        "name_translations": {
+            "ar": "\u0644\u0648\u0647-\u062c\u064a\u0628\u0648\u0627",
+            "fr": "L\u00f4h-Djiboua"
+        },
+        "extra": {
+            "wikidata": "Q21084295",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ci",
+        "country_cca3": "civ",
+        "region_cca2": null,
+        "osm_id": 1609806,
+        "osm_place_id": 282502430,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Marahou\u00e9",
+        "name_eng": "Marahou\u00e9",
+        "name_translations": {
+            "fr": "Marahou\u00e9"
+        },
+        "extra": {
+            "wikidata": "Q839083",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ci",
+        "country_cca3": "civ",
+        "region_cca2": null,
+        "osm_id": 3579474,
+        "osm_place_id": 282474308,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "M\u00e9",
+        "name_eng": "M\u00e9",
+        "name_translations": {
+            "fr": "M\u00e9"
+        },
+        "extra": {
+            "wikidata": "Q17638767",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ci",
+        "country_cca3": "civ",
+        "region_cca2": "CI-MG",
+        "osm_id": 3600378,
+        "osm_place_id": 282769181,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Montagnes",
+        "name_eng": "Montagnes",
+        "name_translations": {
+            "ar": "\u0627\u0644\u062c\u0628\u0627\u0644",
+            "fr": "Montagnes"
+        },
+        "extra": {
+            "wikidata": "Q20980366",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ci",
+        "country_cca3": "civ",
+        "region_cca2": null,
+        "osm_id": 3638880,
+        "osm_place_id": 282772997,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Moronou",
+        "name_eng": "Moronou",
+        "name_translations": {
+            "fr": "Moronou"
+        },
+        "extra": {
+            "wikidata": "Q22080454",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ci",
+        "country_cca3": "civ",
+        "region_cca2": null,
+        "osm_id": 3601647,
+        "osm_place_id": 282536952,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "N\u2019zi",
+        "name_eng": "N\u2019zi",
+        "name_translations": {
+            "fr": "N\u2019zi"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ci",
+        "country_cca3": "civ",
+        "region_cca2": null,
+        "osm_id": 3596852,
+        "osm_place_id": 282510213,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Nawa",
+        "name_eng": "Nawa",
+        "name_translations": {
+            "ar": "\u0646\u0627\u0648\u0627",
+            "fr": "Nawa"
+        },
+        "extra": {
+            "wikidata": "Q20743904",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ci",
+        "country_cca3": "civ",
+        "region_cca2": null,
+        "osm_id": 3604145,
+        "osm_place_id": 282480790,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Poro",
+        "name_eng": "Poro",
+        "name_translations": {
+            "ar": "\u0628\u0648\u0631\u0648",
+            "fr": "Poro"
+        },
+        "extra": {
+            "wikidata": "Q22080932",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ci",
+        "country_cca3": "civ",
+        "region_cca2": null,
+        "osm_id": 3597299,
+        "osm_place_id": 282477899,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "San Pedro",
+        "name_eng": "San Pedro",
+        "name_translations": {
+            "ar": "\u0633\u0627\u0646 \u0628\u064a\u062f\u0631\u0648",
+            "fr": "San Pedro"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ci",
+        "country_cca3": "civ",
+        "region_cca2": "CI-SM",
+        "osm_id": 3601234,
+        "osm_place_id": 282751880,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Sassandra-Marahou\u00e9",
+        "name_eng": "Sassandra-Marahou\u00e9",
+        "name_translations": {
+            "fr": "Sassandra-Marahou\u00e9",
+            "ru": "\u041e-\u0421\u0430\u0441\u0441\u0430\u043d\u0434\u0440\u0430"
+        },
+        "extra": {
+            "wikidata": "Q20365127",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ci",
+        "country_cca3": "civ",
+        "region_cca2": "CI-SV",
+        "osm_id": 1609809,
+        "osm_place_id": 282166304,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Savanes",
+        "name_eng": "Savanes",
+        "name_translations": {
+            "ar": "\u0627\u0644\u0633\u0647\u0648\u0644 \u0627\u0644\u0639\u0634\u0628\u064a\u0629",
+            "fr": "Savanes",
+            "ru": "\u0421\u0430\u0432\u0430\u043d"
+        },
+        "extra": {
+            "wikidata": "Q21002161",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ci",
+        "country_cca3": "civ",
+        "region_cca2": null,
+        "osm_id": 1609814,
+        "osm_place_id": 282256254,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Sud-Como\u00e9",
+        "name_eng": "Sud-Como\u00e9",
+        "name_translations": {
+            "fr": "Sud-Como\u00e9"
+        },
+        "extra": {
+            "wikidata": "Q842495",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ci",
+        "country_cca3": "civ",
+        "region_cca2": null,
+        "osm_id": 3604146,
+        "osm_place_id": 282470771,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Tchologo",
+        "name_eng": "Tchologo",
+        "name_translations": {
+            "fr": "Tchologo"
+        },
+        "extra": {
+            "wikidata": "Q17355495",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ci",
+        "country_cca3": "civ",
+        "region_cca2": null,
+        "osm_id": 3704452,
+        "osm_place_id": 282504135,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Tiapoum",
+        "name_eng": "Tiapoum",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ci",
+        "country_cca3": "civ",
+        "region_cca2": null,
+        "osm_id": 1609818,
+        "osm_place_id": 282169260,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Tonkpi",
+        "name_eng": "Tonkpi",
+        "name_translations": {
+            "ar": "\u062a\u0646\u0643\u0628\u064a",
+            "fr": "Tonkpi"
+        },
+        "extra": {
+            "wikidata": "Q17355578",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ci",
+        "country_cca3": "civ",
+        "region_cca2": "CI-VB",
+        "osm_id": 1609817,
+        "osm_place_id": 282394666,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Vall\u00e9e du Bandama",
+        "name_eng": "Vall\u00e9e du Bandama",
+        "name_translations": {
+            "fr": "Vall\u00e9e du Bandama",
+            "ru": "\u0412\u0430\u043b\u043b\u0435-\u0434\u044e-\u0411\u0430\u043d\u0434\u0430\u043c\u0430"
+        },
+        "extra": {
+            "wikidata": "Q21002356",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ci",
+        "country_cca3": "civ",
+        "region_cca2": "CI-WR",
+        "osm_id": 3603714,
+        "osm_place_id": 282752205,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Woroba",
+        "name_eng": "Woroba",
+        "name_translations": {
+            "fr": "Woroba"
+        },
+        "extra": {
+            "wikidata": "Q20980371",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ci",
+        "country_cca3": "civ",
+        "region_cca2": null,
+        "osm_id": 1609807,
+        "osm_place_id": 282180557,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Worodougou",
+        "name_eng": "Worodougou",
+        "name_translations": {
+            "fr": "Worodougou",
+            "ru": "\u0412\u043e\u0440\u043e\u0434\u0443\u0433\u0443"
+        },
+        "extra": {
+            "wikidata": "Q846056",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ci",
+        "country_cca3": "civ",
+        "region_cca2": "CI-YM",
+        "osm_id": 3601243,
+        "osm_place_id": 282437781,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Yamoussoukro",
+        "name_eng": "Yamoussoukro",
+        "name_translations": {
+            "fr": "Yamoussoukro",
+            "ru": "\u042f\u043c\u0443\u0441\u0443\u043a\u0440\u043e"
+        },
+        "extra": {
+            "wikidata": "Q8048095",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ci",
+        "country_cca3": "civ",
+        "region_cca2": "CI-ZZ",
+        "osm_id": 1609813,
+        "osm_place_id": 282231227,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Zanzan",
+        "name_eng": "Zanzan",
+        "name_translations": {
+            "fr": "Zanzan",
+            "ru": "\u0417\u0430\u043d\u0437\u0430\u043d"
+        },
+        "extra": {
+            "wikidata": "Q21003689",
+            "un_locode": null
+        }
+    }
+]

@@ -1,0 +1,63 @@
+[
+    {
+        "country_cca2": "ki",
+        "country_cca3": "kir",
+        "region_cca2": "KI-G",
+        "osm_id": 7229957,
+        "osm_place_id": 320827040,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Gilbert Islands",
+        "name_eng": "Gilbert Islands",
+        "name_translations": {
+            "en": "Gilbert Islands"
+        },
+        "extra": {
+            "wikidata": "Q271876",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ki",
+        "country_cca3": "kir",
+        "region_cca2": "KI-L",
+        "osm_id": 7229956,
+        "osm_place_id": 320827039,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Line Islands",
+        "name_eng": "Line Islands",
+        "name_translations": {
+            "cs": "Liniov\u00e9 ostrovy",
+            "en": "Line Islands"
+        },
+        "extra": {
+            "wikidata": "Q234796",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ki",
+        "country_cca3": "kir",
+        "region_cca2": "KI-P",
+        "osm_id": 7229955,
+        "osm_place_id": 320827038,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Phoenix Islands",
+        "name_eng": "Phoenix Islands",
+        "name_translations": {
+            "de": "Phoenixinseln",
+            "en": "Phoenix Islands",
+            "es": "Islas F\u00e9nix",
+            "fr": "\u00celes Ph\u0153nix",
+            "it": "Isole della Fenice",
+            "pt": "Ilhas F\u00e9nix",
+            "ro": "Insulele Phoenix"
+        },
+        "extra": {
+            "wikidata": "Q271674",
+            "un_locode": null
+        }
+    }
+]

@@ -1,0 +1,562 @@
+[
+    {
+        "country_cca2": "ie",
+        "country_cca3": "irl",
+        "region_cca2": null,
+        "osm_id": 278721,
+        "osm_place_id": 282147771,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Connacht",
+        "name_eng": "Connacht",
+        "name_translations": {
+            "br": "Connachta",
+            "en": "Connacht",
+            "ga": "C\u00faige Chonnacht"
+        },
+        "extra": {
+            "wikidata": "Q164421",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ie",
+        "country_cca3": "irl",
+        "region_cca2": "IE-CW",
+        "osm_id": 285977,
+        "osm_place_id": 281889939,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "County Carlow",
+        "name_eng": "County Carlow",
+        "name_translations": {
+            "en": "County Carlow",
+            "ga": "Contae Cheatharlach"
+        },
+        "extra": {
+            "wikidata": "Q181882",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ie",
+        "country_cca3": "irl",
+        "region_cca2": "IE-CN",
+        "osm_id": 283679,
+        "osm_place_id": 281891939,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "County Cavan",
+        "name_eng": "County Cavan",
+        "name_translations": {
+            "en": "County Cavan",
+            "ga": "Contae an Chabh\u00e1in"
+        },
+        "extra": {
+            "wikidata": "Q187402",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ie",
+        "country_cca3": "irl",
+        "region_cca2": "IE-CE",
+        "osm_id": 334885,
+        "osm_place_id": 282003617,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "County Clare",
+        "name_eng": "County Clare",
+        "name_translations": {
+            "en": "County Clare",
+            "ga": "Contae an Chl\u00e1ir"
+        },
+        "extra": {
+            "wikidata": "Q181862",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ie",
+        "country_cca3": "irl",
+        "region_cca2": null,
+        "osm_id": 332631,
+        "osm_place_id": 281947385,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "County Cork",
+        "name_eng": "County Cork",
+        "name_translations": {
+            "en": "County Cork",
+            "ga": "Contae Chorca\u00ed",
+            "zh": "\u79d1\u514b"
+        },
+        "extra": {
+            "wikidata": "Q162475",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ie",
+        "country_cca3": "irl",
+        "region_cca2": null,
+        "osm_id": 283732,
+        "osm_place_id": 282273523,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "County Donegal",
+        "name_eng": "County Donegal",
+        "name_translations": {
+            "en": "County Donegal",
+            "ga": "Contae Dh\u00fan na nGall"
+        },
+        "extra": {
+            "wikidata": "Q179424",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ie",
+        "country_cca3": "irl",
+        "region_cca2": null,
+        "osm_id": 282800,
+        "osm_place_id": 282240493,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "County Dublin",
+        "name_eng": "County Dublin",
+        "name_translations": {
+            "en": "County Dublin",
+            "ga": "Contae \u00c1tha Cliath",
+            "ko": "\ub354\ube14\ub9b0",
+            "ru": "\u0414\u0443\u0431\u043b\u0438\u043d"
+        },
+        "extra": {
+            "wikidata": "Q173500",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ie",
+        "country_cca3": "irl",
+        "region_cca2": null,
+        "osm_id": 335444,
+        "osm_place_id": 281987697,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "County Galway",
+        "name_eng": "County Galway",
+        "name_translations": {
+            "en": "County Galway",
+            "ga": "Contae na Gaillimhe"
+        },
+        "extra": {
+            "wikidata": "Q169923",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ie",
+        "country_cca3": "irl",
+        "region_cca2": "IE-KY",
+        "osm_id": 332622,
+        "osm_place_id": 282006992,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "County Kerry",
+        "name_eng": "County Kerry",
+        "name_translations": {
+            "en": "County Kerry",
+            "ga": "Contae Chiarra\u00ed"
+        },
+        "extra": {
+            "wikidata": "Q184469",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ie",
+        "country_cca3": "irl",
+        "region_cca2": "IE-KE",
+        "osm_id": 285833,
+        "osm_place_id": 282108036,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "County Kildare",
+        "name_eng": "County Kildare",
+        "name_translations": {
+            "en": "County Kildare",
+            "ga": "Contae Chill Dara"
+        },
+        "extra": {
+            "wikidata": "Q173332",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ie",
+        "country_cca3": "irl",
+        "region_cca2": "IE-KK",
+        "osm_id": 285980,
+        "osm_place_id": 282103833,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "County Kilkenny",
+        "name_eng": "County Kilkenny",
+        "name_translations": {
+            "en": "County Kilkenny",
+            "ga": "Contae Chill Chainnigh"
+        },
+        "extra": {
+            "wikidata": "Q180231",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ie",
+        "country_cca3": "irl",
+        "region_cca2": "IE-LS",
+        "osm_id": 285915,
+        "osm_place_id": 281889698,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "County Laois",
+        "name_eng": "County Laois",
+        "name_translations": {
+            "en": "County Laois",
+            "ga": "Contae Laoise",
+            "1556?-1922": "Queen's County"
+        },
+        "extra": {
+            "wikidata": "Q55299",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ie",
+        "country_cca3": "irl",
+        "region_cca2": "IE-LM",
+        "osm_id": 284368,
+        "osm_place_id": 282103385,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "County Leitrim",
+        "name_eng": "County Leitrim",
+        "name_translations": {
+            "en": "County Leitrim",
+            "ga": "Contae Liatroma"
+        },
+        "extra": {
+            "wikidata": "Q107397",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ie",
+        "country_cca3": "irl",
+        "region_cca2": null,
+        "osm_id": 334898,
+        "osm_place_id": 282120481,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "County Limerick",
+        "name_eng": "County Limerick",
+        "name_translations": {
+            "en": "County Limerick",
+            "ga": "Contae Luimnigh"
+        },
+        "extra": {
+            "wikidata": "Q178283",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ie",
+        "country_cca3": "irl",
+        "region_cca2": "IE-LD",
+        "osm_id": 335445,
+        "osm_place_id": 281976275,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "County Longford",
+        "name_eng": "County Longford",
+        "name_translations": {
+            "en": "County Longford",
+            "ga": "Contae an Longfoirt"
+        },
+        "extra": {
+            "wikidata": "Q186220",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ie",
+        "country_cca3": "irl",
+        "region_cca2": "IE-LH",
+        "osm_id": 1763195,
+        "osm_place_id": 282204902,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "County Louth",
+        "name_eng": "County Louth",
+        "name_translations": {
+            "en": "County Louth",
+            "ga": "Contae L\u00fa"
+        },
+        "extra": {
+            "wikidata": "Q183539",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ie",
+        "country_cca3": "irl",
+        "region_cca2": null,
+        "osm_id": 338539,
+        "osm_place_id": 281904337,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "County Mayo",
+        "name_eng": "County Mayo",
+        "name_translations": {
+            "en": "County Mayo",
+            "ga": "Contae Mhaigh Eo"
+        },
+        "extra": {
+            "wikidata": "Q178626",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ie",
+        "country_cca3": "irl",
+        "region_cca2": "IE-MH",
+        "osm_id": 282818,
+        "osm_place_id": 282102736,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "County Meath",
+        "name_eng": "County Meath",
+        "name_translations": {
+            "en": "County Meath",
+            "ga": "Contae na M\u00ed",
+            "ru": "\u041c\u0438\u0442"
+        },
+        "extra": {
+            "wikidata": "Q183544",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ie",
+        "country_cca3": "irl",
+        "region_cca2": "IE-MN",
+        "osm_id": 283647,
+        "osm_place_id": 281936244,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "County Monaghan",
+        "name_eng": "County Monaghan",
+        "name_translations": {
+            "en": "County Monaghan",
+            "ga": "Contae Mhuineach\u00e1in"
+        },
+        "extra": {
+            "wikidata": "Q184760",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ie",
+        "country_cca3": "irl",
+        "region_cca2": "IE-OY",
+        "osm_id": 335442,
+        "osm_place_id": 282406502,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "County Offaly",
+        "name_eng": "County Offaly",
+        "name_translations": {
+            "en": "County Offaly",
+            "ga": "Contae U\u00edbh Fhail\u00ed",
+            "1922--": "County Offaly",
+            "1556--1922": "King's County"
+        },
+        "extra": {
+            "wikidata": "Q184445",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ie",
+        "country_cca3": "irl",
+        "region_cca2": null,
+        "osm_id": 335443,
+        "osm_place_id": 282010482,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "County Roscommon",
+        "name_eng": "County Roscommon",
+        "name_translations": {
+            "en": "County Roscommon",
+            "ga": "Contae Ros Com\u00e1in"
+        },
+        "extra": {
+            "wikidata": "Q179437",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ie",
+        "country_cca3": "irl",
+        "region_cca2": "IE-SO",
+        "osm_id": 335330,
+        "osm_place_id": 282036548,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "County Sligo",
+        "name_eng": "County Sligo",
+        "name_translations": {
+            "en": "County Sligo",
+            "ga": "Contae Shligigh"
+        },
+        "extra": {
+            "wikidata": "Q179325",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ie",
+        "country_cca3": "irl",
+        "region_cca2": null,
+        "osm_id": 334372,
+        "osm_place_id": 282308119,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "County Tipperary",
+        "name_eng": "County Tipperary",
+        "name_translations": {
+            "en": "County Tipperary",
+            "ga": "Contae Thiobraid \u00c1rann"
+        },
+        "extra": {
+            "wikidata": "Q184618",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ie",
+        "country_cca3": "irl",
+        "region_cca2": "IE-WD",
+        "osm_id": 283426,
+        "osm_place_id": 281955082,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "County Waterford",
+        "name_eng": "County Waterford",
+        "name_translations": {
+            "en": "County Waterford",
+            "ga": "Contae Phort L\u00e1irge"
+        },
+        "extra": {
+            "wikidata": "Q184594",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ie",
+        "country_cca3": "irl",
+        "region_cca2": "IE-WH",
+        "osm_id": 335446,
+        "osm_place_id": 282293117,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "County Westmeath",
+        "name_eng": "County Westmeath",
+        "name_translations": {
+            "en": "County Westmeath",
+            "ga": "Contae na hIarmh\u00ed"
+        },
+        "extra": {
+            "wikidata": "Q182633",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ie",
+        "country_cca3": "irl",
+        "region_cca2": "IE-WX",
+        "osm_id": 285981,
+        "osm_place_id": 282297296,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "County Wexford",
+        "name_eng": "County Wexford",
+        "name_translations": {
+            "cy": "Sir Loch Garman",
+            "en": "County Wexford",
+            "ga": "Contae Loch Garman"
+        },
+        "extra": {
+            "wikidata": "Q184599",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ie",
+        "country_cca3": "irl",
+        "region_cca2": "IE-WW",
+        "osm_id": 282760,
+        "osm_place_id": 281900808,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "County Wicklow",
+        "name_eng": "County Wicklow",
+        "name_translations": {
+            "en": "County Wicklow",
+            "ga": "Contae Chill Mhant\u00e1in"
+        },
+        "extra": {
+            "wikidata": "Q182591",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ie",
+        "country_cca3": "irl",
+        "region_cca2": null,
+        "osm_id": 278746,
+        "osm_place_id": 281951536,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Leinster",
+        "name_eng": "Leinster",
+        "name_translations": {
+            "en": "Leinster",
+            "ga": "C\u00faige Laighean"
+        },
+        "extra": {
+            "wikidata": "Q159736",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ie",
+        "country_cca3": "irl",
+        "region_cca2": null,
+        "osm_id": 278750,
+        "osm_place_id": 281887331,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Munster",
+        "name_eng": "Munster",
+        "name_translations": {
+            "en": "Munster",
+            "ga": "C\u00faige Mumhan"
+        },
+        "extra": {
+            "wikidata": "Q131438",
+            "un_locode": null
+        }
+    }
+]

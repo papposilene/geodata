@@ -1,0 +1,110 @@
+[
+    {
+        "country_cca2": "bh",
+        "country_cca3": "bhr",
+        "region_cca2": "BH-14",
+        "osm_id": 2522430,
+        "osm_place_id": 282667080,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "\u0627\u0644\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u062c\u0646\u0648\u0628\u064a\u0629",
+        "name_eng": "Southern Governorate",
+        "name_translations": {
+            "ar": "\u0627\u0644\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u062c\u0646\u0648\u0628\u064a\u0629",
+            "bg": "\u042e\u0436\u043d\u0430 \u043f\u0440\u043e\u0432\u0438\u043d\u0446\u0438\u044f",
+            "cs": "Ji\u017en\u00ed guvernor\u00e1t",
+            "de": "Muhafazat S\u00fcd",
+            "en": "Southern Governorate",
+            "fa": "\u0627\u0633\u062a\u0627\u0646 \u062c\u0646\u0648\u0628\u06cc\u0647",
+            "fr": "Gouvernorat m\u00e9ridional",
+            "ja": "\u5357\u90e8\u770c",
+            "ps": "\u0645\u062d\u0627\u0641\u0638\u0647 \u062c\u0646\u0648\u0628\u064a\u0647",
+            "ru": "\u042e\u0436\u043d\u0430\u044f \u043f\u0440\u043e\u0432\u0438\u043d\u0446\u0438\u044f",
+            "ur": "\u0645\u062d\u0627\u0641\u0638\u06c1 \u062c\u0646\u0648\u0628\u06cc\u06c1"
+        },
+        "extra": {
+            "wikidata": "Q838532",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "bh",
+        "country_cca3": "bhr",
+        "region_cca2": "BH-17",
+        "osm_id": 2522303,
+        "osm_place_id": 282293750,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "\u0627\u0644\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0634\u0645\u0627\u0644\u064a\u0629",
+        "name_eng": "Northern Governorate",
+        "name_translations": {
+            "ar": "\u0627\u0644\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0634\u0645\u0627\u0644\u064a\u0629",
+            "bg": "\u0421\u0435\u0432\u0435\u0440\u043d\u0430 \u043f\u0440\u043e\u0432\u0438\u043d\u0446\u0438\u044f",
+            "cs": "Severn\u00ed guvernor\u00e1t",
+            "de": "Norden",
+            "en": "Northern Governorate",
+            "es": "Norte",
+            "fr": "Gouvernorat septentrional",
+            "ja": "\u5317\u90e8\u770c",
+            "ru": "\u0421\u0435\u0432\u0435\u0440\u043d\u0430\u044f \u043f\u0440\u043e\u0432\u0438\u043d\u0446\u0438\u044f"
+        },
+        "extra": {
+            "wikidata": "Q840445",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "bh",
+        "country_cca3": "bhr",
+        "region_cca2": "BH-13",
+        "osm_id": 3028094,
+        "osm_place_id": 282402475,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0639\u0627\u0635\u0645\u0629",
+        "name_eng": "Capital Governorate",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0639\u0627\u0635\u0645\u0629",
+            "bg": "\u0421\u0442\u043e\u043b\u0438\u0447\u043d\u0430 \u043f\u0440\u043e\u0432\u0438\u043d\u0446\u0438\u044f",
+            "cs": "Hlavn\u00ed guvernor\u00e1t",
+            "de": "Muhafazat al-'Asimah",
+            "en": "Capital Governorate",
+            "fa": "\u0627\u0633\u062a\u0627\u0646 \u0639\u0627\u0635\u0645\u0647",
+            "fr": "Gouvernorat de la capitale",
+            "ja": "\u9996\u90fd\u770c",
+            "ps": "\u0645\u062d\u0627\u0641\u0638\u0647 \u067e\u0644\u0627\u0632\u0645\u06d0\u0646\u0647",
+            "ru": "\u0421\u0442\u043e\u043b\u0438\u0447\u043d\u0430\u044f \u043f\u0440\u043e\u0432\u0438\u043d\u0446\u0438\u044f",
+            "ur": "\u0645\u062d\u0627\u0641\u0638\u06c1 \u062f\u0627\u0631\u0627\u0644\u062d\u06a9\u0648\u0645\u062a"
+        },
+        "extra": {
+            "wikidata": "Q528953",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "bh",
+        "country_cca3": "bhr",
+        "region_cca2": "BH-15",
+        "osm_id": 3028095,
+        "osm_place_id": 282434943,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0645\u062d\u0631\u0642",
+        "name_eng": "Muharraq Governorate",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0645\u062d\u0631\u0642",
+            "bg": "\u041c\u0443\u0445\u0430\u0440\u0430\u043a",
+            "cs": "guvernor\u00e1t Muh\u00e1rrak",
+            "de": "Muharraq",
+            "en": "Muharraq Governorate",
+            "es": "Muharraq",
+            "fr": "Gouvernorat de Muharraq",
+            "ja": "\u30e0\u30cf\u30c3\u30e9\u30af\u770c",
+            "ru": "\u041c\u0443\u0445\u0430\u0440\u0430\u043a"
+        },
+        "extra": {
+            "wikidata": "Q375630",
+            "un_locode": null
+        }
+    }
+]

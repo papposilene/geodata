@@ -1,0 +1,1578 @@
+[
+    {
+        "country_cca2": "nz",
+        "country_cca3": "nzl",
+        "region_cca2": null,
+        "osm_id": 2101881,
+        "osm_place_id": 282240579,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Ashburton District",
+        "name_eng": "Ashburton District",
+        "name_translations": {
+            "mk": "\u0415\u0448\u0431\u0435\u0440\u0442\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q15784197",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "nz",
+        "country_cca3": "nzl",
+        "region_cca2": "NZ-AUK",
+        "osm_id": 2094141,
+        "osm_place_id": 282241151,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Auckland",
+        "name_eng": "Auckland",
+        "name_translations": {
+            "ar": "\u0623\u0648\u0643\u0644\u0627\u0646\u062f",
+            "ja": "\u30aa\u30fc\u30af\u30e9\u30f3\u30c9",
+            "ko": "\uc624\ud074\ub79c\ub4dc",
+            "mi": "T\u0101maki-makau-rau",
+            "mk": "\u041e\u043a\u043b\u0435\u043d\u0434"
+        },
+        "extra": {
+            "wikidata": "Q726917",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "nz",
+        "country_cca3": "nzl",
+        "region_cca2": "NZ-BOP",
+        "osm_id": 1790755,
+        "osm_place_id": 282739946,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Bay of Plenty",
+        "name_eng": "Bay of Plenty",
+        "name_translations": {
+            "cs": "Z\u00e1liv Hojnosti",
+            "ja": "\u30d9\u30a4\u30fb\u30aa\u30d6\u30fb\u30d7\u30ec\u30f3\u30c6\u30a3",
+            "mi": "Te Moana-a-Toi",
+            "mk": "\u0417\u0430\u043b\u0438\u0432 \u041f\u043b\u0435\u043d\u0442\u0438"
+        },
+        "extra": {
+            "wikidata": "Q2192924",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "nz",
+        "country_cca3": "nzl",
+        "region_cca2": null,
+        "osm_id": 4443516,
+        "osm_place_id": 282862864,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Buller District",
+        "name_eng": "Buller District",
+        "name_translations": {
+            "mk": "\u0411\u0443\u043b\u0435\u0440"
+        },
+        "extra": {
+            "wikidata": "Q1004325",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "nz",
+        "country_cca3": "nzl",
+        "region_cca2": "NZ-CAN",
+        "osm_id": 1640137,
+        "osm_place_id": 282433484,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Canterbury",
+        "name_eng": "Canterbury",
+        "name_translations": {
+            "ar": "\u0643\u0627\u0646\u062a\u0631\u0628\u064a\u0631\u064a",
+            "en": "Canterbury",
+            "fa": "\u06a9\u0646\u062a\u0631\u0628\u0631\u06cc",
+            "ja": "\u30ab\u30f3\u30bf\u30d9\u30ea\u30fc",
+            "mi": "Waitaha",
+            "mk": "\u041a\u0430\u043d\u0442\u0435\u0440\u0431\u0435\u0440\u0438",
+            "ru": "\u041a\u0435\u043d\u0442\u0435\u0440\u0431\u0435\u0440\u0438",
+            "ur": "\u06a9\u06cc\u0646\u0679\u0631\u0628\u0631\u06cc"
+        },
+        "extra": {
+            "wikidata": "Q657004",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "nz",
+        "country_cca3": "nzl",
+        "region_cca2": null,
+        "osm_id": 4266623,
+        "osm_place_id": 282639607,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Carterton District",
+        "name_eng": "Carterton District",
+        "name_translations": {
+            "mk": "\u041a\u0430\u0440\u0442\u0435\u0440\u0442\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q26772467",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "nz",
+        "country_cca3": "nzl",
+        "region_cca2": null,
+        "osm_id": 4276687,
+        "osm_place_id": 282768617,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Central Hawke's Bay District",
+        "name_eng": "Central Hawke's Bay District",
+        "name_translations": {
+            "mk": "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u0435\u043d \u0425\u043e\u043a\u043e\u0432 \u0417\u0430\u043b\u0438\u0432"
+        },
+        "extra": {
+            "wikidata": "Q1053673",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "nz",
+        "country_cca3": "nzl",
+        "region_cca2": null,
+        "osm_id": 4427029,
+        "osm_place_id": 282562380,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Central Otago District",
+        "name_eng": "Central Otago District",
+        "name_translations": {
+            "mk": "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u043d\u043e \u041e\u0442\u0430\u0433\u043e"
+        },
+        "extra": {
+            "wikidata": "Q1053677",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "nz",
+        "country_cca3": "nzl",
+        "region_cca2": "NZ-CIT",
+        "osm_id": 2647558,
+        "osm_place_id": 282374713,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Chatham Islands",
+        "name_eng": "Chatham Islands",
+        "name_translations": {
+            "cs": "Chathamsk\u00e9 ostrovy",
+            "en": "Chatham Islands",
+            "ja": "\u30c1\u30e3\u30bf\u30e0\u8af8\u5cf6",
+            "mi": "Wharekauri",
+            "mk": "\u0427\u0435\u0442\u0435\u043c\u0441\u043a\u0438 \u041e\u0441\u0442\u0440\u043e\u0432\u0438"
+        },
+        "extra": {
+            "wikidata": "Q115459",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "nz",
+        "country_cca3": "nzl",
+        "region_cca2": null,
+        "osm_id": 2730349,
+        "osm_place_id": 282352441,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Christchurch",
+        "name_eng": "Christchurch",
+        "name_translations": {
+            "af": "Christchurch",
+            "an": "Christchurch",
+            "ar": "\u0643\u0631\u0627\u064a\u0633\u062a\u0634\u0631\u0634",
+            "az": "Krayst\u00e7er\u00e7",
+            "ba": "\u041a\u0440\u0430\u0439\u0441\u0442\u0447\u0435\u0440\u0447",
+            "be": "\u041a\u0440\u0430\u0439\u0441\u0442\u0447\u044d\u0440\u0447",
+            "bg": "\u041a\u0440\u0430\u0439\u0441\u0442\u0447\u044a\u0440\u0447",
+            "bh": "\u0915\u094d\u0930\u093e\u0907\u0938\u094d\u091f\u091a\u0930\u094d\u091a",
+            "bn": "\u0995\u09cd\u09b0\u09be\u0987\u09b8\u09cd\u099f\u099a\u09be\u09b0\u09cd\u099a",
+            "br": "Christchurch",
+            "bs": "Christchurch",
+            "ca": "Christchurch",
+            "ce": "\u041a\u0440\u0430\u0439\u0441\u0442\u0447\u0435\u0440\u0447",
+            "cs": "Christchurch",
+            "cy": "Christchurch, Seland Newydd",
+            "da": "Christchurch",
+            "de": "Christchurch",
+            "el": "\u039a\u03c1\u03ac\u03b9\u03c3\u03c4\u03c3\u03b5\u03c1\u03c4\u03c2",
+            "en": "Christchurch",
+            "eo": "Kristkirko",
+            "es": "Christchurch",
+            "et": "Christchurch",
+            "eu": "Christchurch",
+            "fa": "\u06a9\u0631\u0627\u06cc\u0633\u062a\u200c\u0686\u0631\u0686",
+            "fi": "Christchurch",
+            "fj": "Keresichechi",
+            "fr": "Christchurch",
+            "fy": "Christchurch",
+            "ga": "Christchurch",
+            "gd": "Christchurch",
+            "gl": "Christchurch",
+            "gu": "\u0a95\u0acd\u0ab0\u0abe\u0a87\u0ab8\u0acd\u0a9f\u0a9a\u0ab0\u0acd\u0a9a",
+            "he": "\u05db\u05e8\u05d9\u05d9\u05e1\u05d8\u05e6'\u05e8\u05e5'",
+            "hi": "\u0915\u094d\u0930\u093e\u0907\u0938\u094d\u091f\u091a\u0930\u094d\u091a",
+            "hr": "Christchurch",
+            "hu": "Christchurch",
+            "id": "Christchurch",
+            "ie": "Christchurch",
+            "io": "Christchurch",
+            "is": "Christchurch",
+            "it": "Christchurch",
+            "ja": "\u30af\u30e9\u30a4\u30b9\u30c8\u30c1\u30e3\u30fc\u30c1",
+            "jv": "Christchurch",
+            "ka": "\u10d9\u10e0\u10d0\u10d8\u10e1\u10e2\u10e9\u10d4\u10e0\u10e9\u10d8",
+            "ko": "\ud06c\ub77c\uc774\uc2a4\ud2b8\ucc98\uce58",
+            "la": "Christopolis",
+            "lt": "Kraist\u010der\u010das",
+            "lv": "Kraist\u010d\u0113r\u010da",
+            "mg": "Christchurch",
+            "mi": "\u014ctautahi",
+            "mk": "\u041a\u0440\u0430\u0458\u0441\u0442\u0447\u0435\u0440\u0447",
+            "ml": "\u0d15\u0d4d\u0d30\u0d48\u0d38\u0d4d\u0d31\u0d4d\u0d31\u0d4d\u200c\u0d1a\u0d7c\u0d1a\u0d4d\u0d1a\u0d4d\u200d",
+            "mr": "\u0915\u094d\u0930\u093e\u0907\u0938\u094d\u091f\u091a\u0930\u094d\u091a",
+            "ms": "Christchurch",
+            "my": "\u1001\u101b\u1005\u103a\u1001\u103b\u1015\u103a\u1001\u103b\u103a\u1019\u103c\u102d\u102f\u1037",
+            "na": "Christchurch",
+            "nl": "Christchurch",
+            "nn": "Christchurch",
+            "no": "Christchurch",
+            "oc": "Christchurch",
+            "pl": "Christchurch",
+            "pt": "Christchurch",
+            "ro": "Christchurch",
+            "ru": "\u041a\u0440\u0430\u0439\u0441\u0442\u0447\u0435\u0440\u0447",
+            "sd": "\u06aa\u0631\u0627\u0626\u0633\u067d \u0686\u0631\u0686",
+            "sk": "Christchurch",
+            "sq": "Christchurch",
+            "sr": "\u041a\u0440\u0430\u0458\u0441\u0442\u0447\u0435\u0440\u0447",
+            "sv": "Christchurch",
+            "sw": "Christchurch",
+            "ta": "\u0b95\u0bbf\u0bb1\u0bc8\u0bb8\u0bcd\u0b9f\u0bcd\u0b9a\u0bc7\u0bb0\u0bcd\u0b9a\u0bcd",
+            "th": "\u0e44\u0e04\u0e23\u0e2a\u0e15\u0e4c\u0e40\u0e0a\u0e34\u0e23\u0e4c\u0e0a",
+            "to": "Kolokakala",
+            "tr": "Christchurch",
+            "tt": "\u041a\u0440\u0430\u0439\u0441\u0442\u0447\u0435\u0440\u0447",
+            "uk": "\u041a\u0440\u0430\u0439\u0441\u0442\u0447\u0435\u0440\u0447",
+            "ur": "\u06a9\u0631\u0627\u0626\u0633\u0679 \u0686\u0631\u0686",
+            "uz": "Kraystcherch",
+            "vi": "Christchurch",
+            "vo": "Christchurch",
+            "zh": "\u57fa\u7763\u57ce",
+            "ary": "\u0643\u0631\u0627\u064a\u0633\u062a\u0634\u0648\u0631\u062a\u0634",
+            "arz": "\u0643\u0631\u0627\u064a\u0633\u062a\u0634\u064a\u0631\u0634",
+            "cdo": "Christchurch",
+            "ceb": "Christchurch",
+            "pnb": "\u06a9\u0631\u0627\u0626\u0633\u0679 \u0686\u0631\u0686",
+            "war": "Christchurch",
+            "wuu": "\u514b\u8d56\u65af\u7279\u5f7b\u5947",
+            "yue": "\u57fa\u7763\u57ce"
+        },
+        "extra": {
+            "wikidata": "Q79990",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "nz",
+        "country_cca3": "nzl",
+        "region_cca2": null,
+        "osm_id": 1640161,
+        "osm_place_id": 282275749,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Christchurch City",
+        "name_eng": "Christchurch City",
+        "name_translations": {
+            "ar": "\u0645\u062f\u064a\u0646\u0629 \u0643\u0631\u0627\u064a\u0633\u062a\u0634\u0631\u0634",
+            "bn": "\u0995\u09cd\u09b0\u09be\u0987\u09b8\u09cd\u099f\u099a\u09be\u09b0\u09cd\u099a \u09b6\u09b9\u09b0",
+            "mk": "\u0413\u0440\u0430\u0434 \u041a\u0440\u0430\u0458\u0441\u0442\u0447\u0435\u0440\u0447"
+        },
+        "extra": {
+            "wikidata": "Q32159699",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "nz",
+        "country_cca3": "nzl",
+        "region_cca2": null,
+        "osm_id": 4429578,
+        "osm_place_id": 282518786,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Clutha District",
+        "name_eng": "Clutha District",
+        "name_translations": {
+            "mk": "\u041a\u043b\u0443\u0442\u0430"
+        },
+        "extra": {
+            "wikidata": "Q1103566",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "nz",
+        "country_cca3": "nzl",
+        "region_cca2": null,
+        "osm_id": 4426790,
+        "osm_place_id": 282726528,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Dunedin City",
+        "name_eng": "Dunedin City",
+        "name_translations": {
+            "mk": "\u0413\u0440\u0430\u0434 \u0414\u0430\u043d\u0438\u0434\u043d"
+        },
+        "extra": {
+            "wikidata": "Q96249787",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "nz",
+        "country_cca3": "nzl",
+        "region_cca2": null,
+        "osm_id": 4541253,
+        "osm_place_id": 282526857,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Far North District",
+        "name_eng": "Far North District",
+        "name_translations": {
+            "mk": "\u0414\u0430\u043b\u0435\u0447\u0435\u043d \u0421\u0435\u0432\u0435\u0440"
+        },
+        "extra": {
+            "wikidata": "Q1365839",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "nz",
+        "country_cca3": "nzl",
+        "region_cca2": "NZ-GIS",
+        "osm_id": 2643819,
+        "osm_place_id": 282387332,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Gisborne",
+        "name_eng": "Gisborne",
+        "name_translations": {
+            "hu": "Gisborne",
+            "ja": "\u30ae\u30ba\u30dc\u30fc\u30f3",
+            "mi": "Te Tai-r\u0101whiti",
+            "mk": "\u0413\u0438\u0437\u0431\u043e\u0440\u043d"
+        },
+        "extra": {
+            "wikidata": "Q140246",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "nz",
+        "country_cca3": "nzl",
+        "region_cca2": null,
+        "osm_id": 4269652,
+        "osm_place_id": 282905216,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Gore District",
+        "name_eng": "Gore District",
+        "name_translations": {
+            "mk": "\u0413\u043e\u0440"
+        },
+        "extra": {
+            "wikidata": "Q24189360",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "nz",
+        "country_cca3": "nzl",
+        "region_cca2": null,
+        "osm_id": 4443075,
+        "osm_place_id": 282645761,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Grey District",
+        "name_eng": "Grey District",
+        "name_translations": {
+            "mk": "\u0413\u0440\u0435\u0458"
+        },
+        "extra": {
+            "wikidata": "Q642203",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "nz",
+        "country_cca3": "nzl",
+        "region_cca2": null,
+        "osm_id": 2595124,
+        "osm_place_id": 282509385,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Hamilton City",
+        "name_eng": "Hamilton City",
+        "name_translations": {
+            "mk": "\u0413\u0440\u0430\u0434 \u0425\u0430\u043c\u0438\u043b\u0442\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q200028",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "nz",
+        "country_cca3": "nzl",
+        "region_cca2": null,
+        "osm_id": 4293642,
+        "osm_place_id": 282730583,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Hastings District",
+        "name_eng": "Hastings District",
+        "name_translations": {
+            "mk": "\u0425\u0435\u0458\u0441\u0442\u0438\u043d\u0433\u0441"
+        },
+        "extra": {
+            "wikidata": "Q26772450",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "nz",
+        "country_cca3": "nzl",
+        "region_cca2": null,
+        "osm_id": 2684676,
+        "osm_place_id": 282369004,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Hauraki District",
+        "name_eng": "Hauraki District",
+        "name_translations": {
+            "mk": "\u0425\u0430\u0443\u0440\u0430\u043a\u0438"
+        },
+        "extra": {
+            "wikidata": "Q1589865",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "nz",
+        "country_cca3": "nzl",
+        "region_cca2": "NZ-HKB",
+        "osm_id": 1643811,
+        "osm_place_id": 282269522,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Hawke's Bay",
+        "name_eng": "Hawke's Bay",
+        "name_translations": {
+            "cs": "Hawk\u016fv z\u00e1liv",
+            "hu": "Hawke's-\u00f6b\u00f6l",
+            "ja": "\u30db\u30fc\u30af\u30b9\u30fb\u30d9\u30a4",
+            "mi": "Heretaunga",
+            "mk": "\u0425\u043e\u043a\u043e\u0432 \u0417\u0430\u043b\u0438\u0432"
+        },
+        "extra": {
+            "wikidata": "Q251825",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "nz",
+        "country_cca3": "nzl",
+        "region_cca2": null,
+        "osm_id": 4266552,
+        "osm_place_id": 282904604,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Horowhenua District",
+        "name_eng": "Horowhenua District",
+        "name_translations": {
+            "mk": "\u0425\u043e\u0440\u043e\u0444\u0435\u043d\u0443\u0430"
+        },
+        "extra": {
+            "wikidata": "Q1232367",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "nz",
+        "country_cca3": "nzl",
+        "region_cca2": null,
+        "osm_id": 4430226,
+        "osm_place_id": 282528658,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Hurunui District",
+        "name_eng": "Hurunui District",
+        "name_translations": {
+            "mk": "\u0425\u0443\u0440\u0443\u043d\u0443\u0438"
+        },
+        "extra": {
+            "wikidata": "Q1638765",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "nz",
+        "country_cca3": "nzl",
+        "region_cca2": null,
+        "osm_id": 1656388,
+        "osm_place_id": 282183229,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Invercargill City",
+        "name_eng": "Invercargill City",
+        "name_translations": {
+            "mk": "\u0413\u0440\u0430\u0434 \u0418\u043d\u0432\u0435\u0440\u043a\u0430\u0440\u0433\u0438\u043b"
+        },
+        "extra": {
+            "wikidata": "Q31805",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "nz",
+        "country_cca3": "nzl",
+        "region_cca2": null,
+        "osm_id": 4405743,
+        "osm_place_id": 282576886,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Kaik\u014dura District",
+        "name_eng": "Kaik\u014dura District",
+        "name_translations": {
+            "mk": "\u041a\u0430\u0438\u043a\u043e\u0443\u0440\u0430"
+        },
+        "extra": {
+            "wikidata": "Q25834",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "nz",
+        "country_cca3": "nzl",
+        "region_cca2": null,
+        "osm_id": 4439309,
+        "osm_place_id": 282529829,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Kaipara District",
+        "name_eng": "Kaipara District",
+        "name_translations": {
+            "mk": "\u041a\u0430\u0438\u043f\u0430\u0440\u0430"
+        },
+        "extra": {
+            "wikidata": "Q163982",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "nz",
+        "country_cca3": "nzl",
+        "region_cca2": null,
+        "osm_id": 4266484,
+        "osm_place_id": 282524528,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Kapiti Coast District",
+        "name_eng": "Kapiti Coast District",
+        "name_translations": {
+            "mk": "\u041a\u0440\u0430\u0458\u0431\u0440\u0435\u0436\u0458\u0435 \u041a\u0430\u043f\u0438\u0442\u0438"
+        },
+        "extra": {
+            "wikidata": "Q1533839",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "nz",
+        "country_cca3": "nzl",
+        "region_cca2": null,
+        "osm_id": 4266583,
+        "osm_place_id": 282904651,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Kawerau District",
+        "name_eng": "Kawerau District",
+        "name_translations": {
+            "mk": "\u041a\u0430\u0432\u0435\u0440\u0430\u0443"
+        },
+        "extra": {
+            "wikidata": "Q1674085",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "nz",
+        "country_cca3": "nzl",
+        "region_cca2": null,
+        "osm_id": 4266371,
+        "osm_place_id": 282624794,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Lower Hutt City",
+        "name_eng": "Lower Hutt City",
+        "name_translations": {
+            "mk": "\u0413\u0440\u0430\u0434 \u0414\u043e\u043b\u0435\u043d \u0425\u0430\u0442"
+        },
+        "extra": {
+            "wikidata": "Q32249141",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "nz",
+        "country_cca3": "nzl",
+        "region_cca2": null,
+        "osm_id": 4372970,
+        "osm_place_id": 282978587,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Mackenzie District",
+        "name_eng": "Mackenzie District",
+        "name_translations": {
+            "mk": "\u041c\u0430\u043a\u0435\u043d\u0437\u0438"
+        },
+        "extra": {
+            "wikidata": "Q1760822",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "nz",
+        "country_cca3": "nzl",
+        "region_cca2": null,
+        "osm_id": 3467598,
+        "osm_place_id": 282537943,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Manawat\u016b District",
+        "name_eng": "Manawat\u016b District",
+        "name_translations": {
+            "mk": "\u041c\u0430\u043d\u0430\u0432\u0430\u0442\u0443"
+        },
+        "extra": {
+            "wikidata": "Q613305",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "nz",
+        "country_cca3": "nzl",
+        "region_cca2": "NZ-MWT",
+        "osm_id": 1638992,
+        "osm_place_id": 282552038,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Manawat\u016b-Whanganui",
+        "name_eng": "Manawatu-Whanganui",
+        "name_translations": {
+            "en": "Manawatu-Whanganui",
+            "hu": "Manawatu-Whanganui",
+            "ja": "\u30de\u30ca\u30ef\u30c4\u30fb\u30ef\u30f3\u30ac\u30cc\u30a4",
+            "lt": "Manavatu-Vanganujio regionas",
+            "mi": "Manawat\u016b-Whanganui",
+            "mk": "\u041c\u0430\u043d\u0430\u0432\u0430\u0442\u0443-\u0424\u0430\u043d\u0433\u0430\u043d\u0443\u0438"
+        },
+        "extra": {
+            "wikidata": "Q139907",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "nz",
+        "country_cca3": "nzl",
+        "region_cca2": null,
+        "osm_id": 4266977,
+        "osm_place_id": 335802143,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Marlborough",
+        "name_eng": "Marlborough",
+        "name_translations": {
+            "ja": "\u30de\u30fc\u30eb\u30dc\u30ed",
+            "mi": "Tauihu",
+            "mk": "\u041c\u0430\u0440\u043b\u0431\u043e\u0440\u043e"
+        },
+        "extra": {
+            "wikidata": "Q140083",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "nz",
+        "country_cca3": "nzl",
+        "region_cca2": null,
+        "osm_id": 4276575,
+        "osm_place_id": 282513322,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Masterton District",
+        "name_eng": "Masterton District",
+        "name_translations": {
+            "mk": "\u041c\u0430\u0441\u0442\u0435\u0440\u0442\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q1223916",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "nz",
+        "country_cca3": "nzl",
+        "region_cca2": null,
+        "osm_id": 4266574,
+        "osm_place_id": 282600426,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Matamata Piako District",
+        "name_eng": "Matamata Piako District",
+        "name_translations": {
+            "mk": "\u041c\u0430\u0442\u0430\u043c\u0430\u0442\u0430-\u041f\u0458\u0430\u043a\u043e"
+        },
+        "extra": {
+            "wikidata": "Q974296",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "nz",
+        "country_cca3": "nzl",
+        "region_cca2": null,
+        "osm_id": 2731991,
+        "osm_place_id": 282378046,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Napier City",
+        "name_eng": "Napier City",
+        "name_translations": {
+            "mk": "\u0413\u0440\u0430\u0434 \u041d\u0435\u0458\u043f\u0438\u0435\u0440"
+        },
+        "extra": {
+            "wikidata": "Q203380",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "nz",
+        "country_cca3": "nzl",
+        "region_cca2": "NZ-NSN",
+        "osm_id": 4266962,
+        "osm_place_id": 282510059,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Nelson",
+        "name_eng": "Nelson",
+        "name_translations": {
+            "ja": "\u30cd\u30eb\u30bd\u30f3",
+            "mk": "\u041d\u0435\u043b\u0441\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q1995856",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "nz",
+        "country_cca3": "nzl",
+        "region_cca2": null,
+        "osm_id": 4308094,
+        "osm_place_id": 282554339,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "New Plymouth District",
+        "name_eng": "New Plymouth District",
+        "name_translations": {
+            "mk": "\u040a\u0443 \u041f\u043b\u0438\u043c\u0443\u0442"
+        },
+        "extra": {
+            "wikidata": "Q4846747",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "nz",
+        "country_cca3": "nzl",
+        "region_cca2": "NZ-NTL",
+        "osm_id": 2133870,
+        "osm_place_id": 282257058,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Northland",
+        "name_eng": "Northland",
+        "name_translations": {
+            "hu": "Northland (r\u00e9gi\u00f3)",
+            "ja": "\u30ce\u30fc\u30b9\u30e9\u30f3\u30c9",
+            "mi": "Te Tai-tokerau",
+            "mk": "\u041d\u043e\u0440\u0442\u043b\u0435\u043d\u0434"
+        },
+        "extra": {
+            "wikidata": "Q59596",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "nz",
+        "country_cca3": "nzl",
+        "region_cca2": null,
+        "osm_id": 4308251,
+        "osm_place_id": 282841376,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u014cp\u014dtiki District",
+        "name_eng": "\u014cp\u014dtiki District",
+        "name_translations": {
+            "mi": "\u014cp\u014dtiki",
+            "mk": "\u041e\u043f\u043e\u0442\u0438\u043a\u0438"
+        },
+        "extra": {
+            "wikidata": "Q2027043",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "nz",
+        "country_cca3": "nzl",
+        "region_cca2": null,
+        "osm_id": 1640138,
+        "osm_place_id": 282395852,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Otago",
+        "name_eng": "Otago",
+        "name_translations": {
+            "eo": "Otago",
+            "hu": "Otago R\u00e9gi\u00f3",
+            "ja": "\u30aa\u30bf\u30b4",
+            "mi": "\u014ct\u0101kou",
+            "mk": "\u041e\u0442\u0430\u0433\u043e"
+        },
+        "extra": {
+            "wikidata": "Q692912",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "nz",
+        "country_cca3": "nzl",
+        "region_cca2": null,
+        "osm_id": 4308358,
+        "osm_place_id": 283164618,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Otorohanga District",
+        "name_eng": "Otorohanga District",
+        "name_translations": {
+            "mk": "\u041e\u0442\u043e\u0440\u043e\u0445\u0430\u043d\u0433\u0430"
+        },
+        "extra": {
+            "wikidata": "Q24490507",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "nz",
+        "country_cca3": "nzl",
+        "region_cca2": null,
+        "osm_id": 3440209,
+        "osm_place_id": 282482764,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Palmerston North City",
+        "name_eng": "Palmerston North City",
+        "name_translations": {
+            "mk": "\u0413\u0440\u0430\u0434 \u041f\u0430\u043b\u043c\u0435\u0440\u0441\u0442\u043e\u043d \u041d\u043e\u0440\u0442"
+        },
+        "extra": {
+            "wikidata": "Q212289",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "nz",
+        "country_cca3": "nzl",
+        "region_cca2": null,
+        "osm_id": 4266370,
+        "osm_place_id": 282836897,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Porirua City",
+        "name_eng": "Porirua City",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q94169870",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "nz",
+        "country_cca3": "nzl",
+        "region_cca2": null,
+        "osm_id": 4429897,
+        "osm_place_id": 282550263,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Queenstown-Lakes District",
+        "name_eng": "Queenstown-Lakes District",
+        "name_translations": {
+            "mk": "\u041a\u0432\u0438\u043d\u0441\u0442\u0430\u0443\u043d-\u0415\u0437\u0435\u0440\u0430"
+        },
+        "extra": {
+            "wikidata": "Q613684",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "nz",
+        "country_cca3": "nzl",
+        "region_cca2": null,
+        "osm_id": 4276691,
+        "osm_place_id": 282551688,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Rangit\u012bkei District",
+        "name_eng": "Rangit\u012bkei District",
+        "name_translations": {
+            "mk": "\u0420\u0430\u043d\u0433\u0438\u0442\u0438\u043a\u0435\u0438"
+        },
+        "extra": {
+            "wikidata": "Q591972",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "nz",
+        "country_cca3": "nzl",
+        "region_cca2": null,
+        "osm_id": 4266705,
+        "osm_place_id": 282767455,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Rotorua District",
+        "name_eng": "Rotorua District",
+        "name_translations": {
+            "mk": "\u0420\u043e\u0442\u043e\u0440\u0443\u0430"
+        },
+        "extra": {
+            "wikidata": "Q208948",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "nz",
+        "country_cca3": "nzl",
+        "region_cca2": null,
+        "osm_id": 4272047,
+        "osm_place_id": 282511397,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Ruapehu District",
+        "name_eng": "Ruapehu District",
+        "name_translations": {
+            "mk": "\u0420\u0443\u0430\u043f\u0435\u0445\u0443"
+        },
+        "extra": {
+            "wikidata": "Q586428",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "nz",
+        "country_cca3": "nzl",
+        "region_cca2": null,
+        "osm_id": 4293791,
+        "osm_place_id": 282561338,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Selwyn District",
+        "name_eng": "Selwyn District",
+        "name_translations": {
+            "mk": "\u0421\u0435\u043b\u0432\u0438\u043d"
+        },
+        "extra": {
+            "wikidata": "Q1210763",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "nz",
+        "country_cca3": "nzl",
+        "region_cca2": null,
+        "osm_id": 4307956,
+        "osm_place_id": 282523820,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "South Taranaki District",
+        "name_eng": "South Taranaki District",
+        "name_translations": {
+            "mk": "\u0408\u0443\u0436\u043d\u043e \u0422\u0430\u0440\u0430\u043d\u0430\u043a\u0438"
+        },
+        "extra": {
+            "wikidata": "Q1972712",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "nz",
+        "country_cca3": "nzl",
+        "region_cca2": null,
+        "osm_id": 4266614,
+        "osm_place_id": 282904764,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "South Waikato District",
+        "name_eng": "South Waikato District",
+        "name_translations": {
+            "mk": "\u0408\u0443\u0436\u043d\u043e \u0412\u0430\u0438\u043a\u0430\u0442\u043e"
+        },
+        "extra": {
+            "wikidata": "Q1760808",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "nz",
+        "country_cca3": "nzl",
+        "region_cca2": null,
+        "osm_id": 4266616,
+        "osm_place_id": 282550466,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "South Wairarapa District",
+        "name_eng": "South Wairarapa District",
+        "name_translations": {
+            "mk": "\u0408\u0443\u0436\u043d\u0430 \u0412\u0430\u0438\u0440\u0430\u0440\u0430\u043f\u0430"
+        },
+        "extra": {
+            "wikidata": "Q1760817",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "nz",
+        "country_cca3": "nzl",
+        "region_cca2": null,
+        "osm_id": 1640159,
+        "osm_place_id": 282228153,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Southland",
+        "name_eng": "Southland",
+        "name_translations": {
+            "hu": "Southland R\u00e9gi\u00f3",
+            "ja": "\u30b5\u30a6\u30b9\u30e9\u30f3\u30c9",
+            "mi": "Murihiku",
+            "mk": "\u0421\u0430\u0443\u0442\u043b\u0435\u043d\u0434",
+            "ru": "\u0421\u0430\u0443\u0442\u043b\u0435\u043d\u0434"
+        },
+        "extra": {
+            "wikidata": "Q864971",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "nz",
+        "country_cca3": "nzl",
+        "region_cca2": null,
+        "osm_id": 4555779,
+        "osm_place_id": 282537817,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Southland District",
+        "name_eng": "Southland District",
+        "name_translations": {
+            "mk": "\u0421\u0430\u0443\u0442\u043b\u0435\u043d\u0434"
+        },
+        "extra": {
+            "wikidata": "Q1972706",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "nz",
+        "country_cca3": "nzl",
+        "region_cca2": null,
+        "osm_id": 4308095,
+        "osm_place_id": 282601228,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Stratford District",
+        "name_eng": "Stratford District",
+        "name_translations": {
+            "mk": "\u0421\u0442\u0440\u0430\u0442\u0444\u043e\u0440\u0434"
+        },
+        "extra": {
+            "wikidata": "Q26772445",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "nz",
+        "country_cca3": "nzl",
+        "region_cca2": "NZ-TKI",
+        "osm_id": 1643812,
+        "osm_place_id": 282443050,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Taranaki",
+        "name_eng": "Taranaki",
+        "name_translations": {
+            "hu": "Taranaki",
+            "ja": "\u30bf\u30e9\u30ca\u30ad",
+            "mi": "Taranaki",
+            "mk": "\u0422\u0430\u0440\u0430\u043d\u0430\u043a\u0438"
+        },
+        "extra": {
+            "wikidata": "Q140207",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "nz",
+        "country_cca3": "nzl",
+        "region_cca2": null,
+        "osm_id": 4276613,
+        "osm_place_id": 282510360,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Tararua District",
+        "name_eng": "Tararua District",
+        "name_translations": {
+            "mk": "\u0422\u0430\u0440\u0430\u0440\u0443\u0430"
+        },
+        "extra": {
+            "wikidata": "Q1750590",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "nz",
+        "country_cca3": "nzl",
+        "region_cca2": "NZ-TAS",
+        "osm_id": 4266979,
+        "osm_place_id": 282581399,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Tasman",
+        "name_eng": "Tasman",
+        "name_translations": {
+            "ja": "\u30bf\u30b9\u30de\u30f3",
+            "mk": "\u0422\u0430\u0441\u043c\u0430\u043d"
+        },
+        "extra": {
+            "wikidata": "Q666142",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "nz",
+        "country_cca3": "nzl",
+        "region_cca2": null,
+        "osm_id": 4269618,
+        "osm_place_id": 282514040,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Taup\u014d District",
+        "name_eng": "Taupo District",
+        "name_translations": {
+            "en": "Taupo District",
+            "mk": "\u0422\u0430\u0443\u043f\u043e"
+        },
+        "extra": {
+            "wikidata": "Q2644349",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "nz",
+        "country_cca3": "nzl",
+        "region_cca2": null,
+        "osm_id": 4266815,
+        "osm_place_id": 282806667,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Tauranga City",
+        "name_eng": "Tauranga City",
+        "name_translations": {
+            "mk": "\u0413\u0440\u0430\u0434 \u0422\u0430\u0443\u0440\u0430\u043d\u0433\u0430"
+        },
+        "extra": {
+            "wikidata": "Q49109427",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "nz",
+        "country_cca3": "nzl",
+        "region_cca2": null,
+        "osm_id": 2684675,
+        "osm_place_id": 282409024,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Thames-Coromandel District",
+        "name_eng": "Thames-Coromandel District",
+        "name_translations": {
+            "mk": "\u0422\u0435\u043c\u0441-\u041a\u043e\u0440\u043e\u043c\u0430\u043d\u0434\u0435\u043b"
+        },
+        "extra": {
+            "wikidata": "Q2305865",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "nz",
+        "country_cca3": "nzl",
+        "region_cca2": null,
+        "osm_id": 4369823,
+        "osm_place_id": 282515335,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Timaru District",
+        "name_eng": "Timaru District",
+        "name_translations": {
+            "mk": "\u0422\u0438\u043c\u0430\u0440\u0443"
+        },
+        "extra": {
+            "wikidata": "Q14395599",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "nz",
+        "country_cca3": "nzl",
+        "region_cca2": null,
+        "osm_id": 4266375,
+        "osm_place_id": 282639460,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Upper Hutt City",
+        "name_eng": "Upper Hutt City",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q49109787",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "nz",
+        "country_cca3": "nzl",
+        "region_cca2": "NZ-WKO",
+        "osm_id": 2094142,
+        "osm_place_id": 282238355,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Waikato",
+        "name_eng": "Waikato",
+        "name_translations": {
+            "ja": "\u30ef\u30a4\u30ab\u30c8",
+            "mi": "Waikato",
+            "mk": "\u0412\u0430\u0438\u043a\u0430\u0442\u043e"
+        },
+        "extra": {
+            "wikidata": "Q139918",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "nz",
+        "country_cca3": "nzl",
+        "region_cca2": null,
+        "osm_id": 4438715,
+        "osm_place_id": 282558574,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Waikato District",
+        "name_eng": "Waikato District",
+        "name_translations": {
+            "mk": "\u0412\u0430\u0438\u043a\u0430\u0442\u043e"
+        },
+        "extra": {
+            "wikidata": "Q1973593",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "nz",
+        "country_cca3": "nzl",
+        "region_cca2": null,
+        "osm_id": 4284723,
+        "osm_place_id": 282626477,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Waimakariri District",
+        "name_eng": "Waimakariri District",
+        "name_translations": {
+            "mk": "\u0412\u0430\u0438\u043c\u0430\u043a\u0430\u0440\u0438\u0440\u0438"
+        },
+        "extra": {
+            "wikidata": "Q1542322",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "nz",
+        "country_cca3": "nzl",
+        "region_cca2": null,
+        "osm_id": 4399474,
+        "osm_place_id": 282527957,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Waimate District",
+        "name_eng": "Waimate District",
+        "name_translations": {
+            "mk": "\u0412\u0430\u0438\u043c\u0430\u0442\u0435"
+        },
+        "extra": {
+            "wikidata": "Q6460450",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "nz",
+        "country_cca3": "nzl",
+        "region_cca2": null,
+        "osm_id": 4266562,
+        "osm_place_id": 282511168,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Waipa District",
+        "name_eng": "Waipa District",
+        "name_translations": {
+            "mk": "\u0412\u0430\u0438\u043f\u0430"
+        },
+        "extra": {
+            "wikidata": "Q1760796",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "nz",
+        "country_cca3": "nzl",
+        "region_cca2": null,
+        "osm_id": 4308271,
+        "osm_place_id": 282585349,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Wairoa District",
+        "name_eng": "Wairoa District",
+        "name_translations": {
+            "mk": "\u0412\u0430\u0438\u0440\u043e\u0430"
+        },
+        "extra": {
+            "wikidata": "Q49109921",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "nz",
+        "country_cca3": "nzl",
+        "region_cca2": null,
+        "osm_id": 4420809,
+        "osm_place_id": 282577090,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Waitaki District",
+        "name_eng": "Waitaki District",
+        "name_translations": {
+            "mk": "\u0412\u0430\u0438\u0442\u0430\u043a\u0438"
+        },
+        "extra": {
+            "wikidata": "Q1760804",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "nz",
+        "country_cca3": "nzl",
+        "region_cca2": null,
+        "osm_id": 4308137,
+        "osm_place_id": 282613168,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Waitomo District",
+        "name_eng": "Waitomo District",
+        "name_translations": {
+            "mk": "\u0412\u0430\u0438\u0442\u043e\u043c\u043e"
+        },
+        "extra": {
+            "wikidata": "Q1210773",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "nz",
+        "country_cca3": "nzl",
+        "region_cca2": "NZ-WGN",
+        "osm_id": 1638991,
+        "osm_place_id": 282395559,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Wellington",
+        "name_eng": "Wellington",
+        "name_translations": {
+            "en": "Wellington",
+            "ja": "\u30a6\u30a7\u30ea\u30f3\u30c8\u30f3",
+            "lt": "Velingtonas",
+            "mi": "Te Whanga-nui-a-Tara",
+            "mk": "\u0412\u0435\u043b\u0438\u043d\u0433\u0442\u043e\u043d",
+            "zh": "\u60e0\u7075\u987f \/ \u60e0\u9748\u9813 \/ \u5a01\u9748\u9813",
+            "zh-Hans": "\u60e0\u7075\u987f",
+            "zh-Hant": "\u5a01\u9748\u9813"
+        },
+        "extra": {
+            "wikidata": "Q856010",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "nz",
+        "country_cca3": "nzl",
+        "region_cca2": null,
+        "osm_id": 4266321,
+        "osm_place_id": 282508481,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Wellington City",
+        "name_eng": "Wellington City",
+        "name_translations": {
+            "mk": "\u0413\u0440\u0430\u0434 \u0412\u0435\u043b\u0438\u043d\u0433\u0442\u043e\u043d",
+            "zh": "\u60e0\u7075\u987f \/ \u60e0\u9748\u9813 \/ \u5a01\u9748\u9813",
+            "zh-Hans": "\u60e0\u7075\u987f",
+            "zh-Hant": "\u5a01\u9748\u9813"
+        },
+        "extra": {
+            "wikidata": "Q47037646",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "nz",
+        "country_cca3": "nzl",
+        "region_cca2": "NZ-WTC",
+        "osm_id": 1640136,
+        "osm_place_id": 282173572,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "West Coast",
+        "name_eng": "West Coast",
+        "name_translations": {
+            "en": "West Coast",
+            "hu": "West Coast",
+            "ja": "\u30a6\u30a7\u30b9\u30c8\u30fb\u30b3\u30fc\u30b9\u30c8",
+            "lt": "Vakar\u0173 Pakrant\u0117s regionas",
+            "mi": "Te Tai-Poutini",
+            "mk": "\u0417\u0430\u043f\u0430\u0434\u043d\u043e \u041a\u0440\u0430\u0458\u0431\u0440\u0435\u0436\u0458\u0435"
+        },
+        "extra": {
+            "wikidata": "Q541468",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "nz",
+        "country_cca3": "nzl",
+        "region_cca2": null,
+        "osm_id": 4266752,
+        "osm_place_id": 282609798,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Western Bay of Plenty District",
+        "name_eng": "Western Bay of Plenty District",
+        "name_translations": {
+            "mk": "\u0417\u0430\u043f\u0430\u0434\u0435\u043d \u0417\u0430\u043b\u0438\u0432 \u041f\u043b\u0435\u043d\u0442\u0438"
+        },
+        "extra": {
+            "wikidata": "Q959152",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "nz",
+        "country_cca3": "nzl",
+        "region_cca2": null,
+        "osm_id": 1656483,
+        "osm_place_id": 282177850,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Westland District",
+        "name_eng": "Westland District",
+        "name_translations": {
+            "mk": "\u0412\u0435\u0441\u0442\u043b\u0435\u043d\u0434"
+        },
+        "extra": {
+            "wikidata": "Q2119644",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "nz",
+        "country_cca3": "nzl",
+        "region_cca2": null,
+        "osm_id": 4266584,
+        "osm_place_id": 282572714,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Whakat\u0101ne District",
+        "name_eng": "Whakatane District",
+        "name_translations": {
+            "en": "Whakatane District",
+            "mk": "\u0424\u0430\u043a\u0430\u0442\u0430\u043d\u0435"
+        },
+        "extra": {
+            "wikidata": "Q26269088",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "nz",
+        "country_cca3": "nzl",
+        "region_cca2": null,
+        "osm_id": 4307782,
+        "osm_place_id": 282911813,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Whanganui District",
+        "name_eng": "Whanganui District",
+        "name_translations": {
+            "mk": "\u0424\u0430\u043d\u0433\u0430\u043d\u0443\u0438"
+        },
+        "extra": {
+            "wikidata": "Q10856931",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "nz",
+        "country_cca3": "nzl",
+        "region_cca2": null,
+        "osm_id": 4443591,
+        "osm_place_id": 282772249,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Whangarei District",
+        "name_eng": "Whangarei District",
+        "name_translations": {
+            "mk": "\u0424\u0430\u043d\u0433\u0430\u0440\u0435\u0438"
+        },
+        "extra": {
+            "wikidata": "Q3696415",
+            "un_locode": null
+        }
+    }
+]

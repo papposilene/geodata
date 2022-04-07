@@ -1,0 +1,876 @@
+[
+    {
+        "country_cca2": "bg",
+        "country_cca3": "bgr",
+        "region_cca2": "BG-01",
+        "osm_id": 1739521,
+        "osm_place_id": 282413417,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0411\u043b\u0430\u0433\u043e\u0435\u0432\u0433\u0440\u0430\u0434",
+        "name_eng": "Blagoevgrad",
+        "name_translations": {
+            "bg": "\u0411\u043b\u0430\u0433\u043e\u0435\u0432\u0433\u0440\u0430\u0434",
+            "de": "Oblast Blagoewgrad",
+            "el": "\u039c\u03c0\u03bb\u03b1\u03b3\u03ba\u03cc\u03b5\u03b2\u03b3\u03ba\u03c1\u03b1\u03bd\u03c4",
+            "en": "Blagoevgrad",
+            "fr": "Oblast de Blagoevgrad",
+            "hu": "Blagoevgrad megye",
+            "mk": "\u041f\u0438\u0440\u0438\u043d\u0441\u043a\u0430 \u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u0458\u0430",
+            "ro": "Regiunea Blagoevgrad",
+            "ru": "\u0411\u043b\u0430\u0433\u043e\u0435\u0432\u0433\u0440\u0430\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
+        },
+        "extra": {
+            "wikidata": "Q804311",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "bg",
+        "country_cca3": "bgr",
+        "region_cca2": null,
+        "osm_id": 1739523,
+        "osm_place_id": 282447193,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0411\u0443\u0440\u0433\u0430\u0441",
+        "name_eng": "Burgas",
+        "name_translations": {
+            "ar": "\u0645\u0642\u0627\u0637\u0639\u0629 \u0628\u0648\u0631\u063a\u0627\u0633",
+            "be": "\u0411\u0443\u0440\u0433\u0430\u0441\u043a\u0430\u044f \u0432\u043e\u0431\u043b\u0430\u0441\u0446\u044c",
+            "bg": "\u0411\u0443\u0440\u0433\u0430\u0441",
+            "ca": "Prov\u00edncia de Burg\u00e0s",
+            "cs": "Burgask\u00e1 oblast",
+            "da": "Burgas (provins)",
+            "de": "Oblast Burgas",
+            "el": "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u039c\u03c0\u03bf\u03c5\u03c1\u03b3\u03ba\u03ac\u03c2",
+            "en": "Burgas",
+            "eo": "Provinco Burgas",
+            "es": "Provincia de Burgas",
+            "et": "Burgasi piirkond",
+            "eu": "Burgas probintzia",
+            "fa": "\u0627\u0633\u062a\u0627\u0646 \u0628\u0648\u0631\u06af\u0627\u0633",
+            "fi": "Burgasin alue",
+            "fr": "Oblast de Bourgas",
+            "he": "\u05d1\u05d5\u05e8\u05d2\u05e1 (\u05de\u05d7\u05d5\u05d6)",
+            "hr": "Oblast Burgas",
+            "hu": "Burgasz megye",
+            "hy": "\u0532\u0578\u0582\u0580\u0563\u0561\u057d\u056b \u0574\u0561\u0580\u0566",
+            "id": "Provinsi Burgas",
+            "it": "Distretto di Burgas",
+            "ja": "\u30d6\u30eb\u30ac\u30b9\u5dde",
+            "ka": "\u10d1\u10e3\u10e0\u10d2\u10d0\u10e1\u10d8\u10e1 \u10dd\u10da\u10e5\u10d8",
+            "ko": "\ubd80\ub974\uac00\uc2a4 \uc8fc",
+            "la": "Pyrgos (provincia)",
+            "lt": "Burgaso sritis",
+            "mk": "\u0411\u0443\u0440\u0433\u0430\u0441\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442",
+            "mn": "\u0411\u0443\u0440\u0433\u0430\u0441 \u0430\u0439\u043c\u0430\u0433",
+            "nl": "Boergas",
+            "no": "Burgas oblast",
+            "oc": "Borgas (region)",
+            "os": "\u0411\u0443\u0440\u0433\u0430\u0441\u044b \u043e\u0431\u043b\u00e6\u0441\u0442",
+            "pl": "Obw\u00f3d Burgas",
+            "pt": "Burgas (prov\u00edncia)",
+            "ro": "Regiunea Burgas",
+            "ru": "\u0411\u0443\u0440\u0433\u0430\u0441\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+            "sh": "Burgaska oblast",
+            "sk": "Burgas (oblas\u0165)",
+            "sl": "Burgas (okraj)",
+            "sq": "Provinca Burgas",
+            "sr": "\u0411\u0443\u0440\u0433\u0430\u0441\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442",
+            "sv": "Burgas (region)",
+            "tg": "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u0411\u0443\u0440\u0433\u0430\u0441",
+            "tr": "Burgaz (il)",
+            "uk": "\u0411\u0443\u0440\u0433\u0430\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+            "ur": "\u0628\u0648\u0631\u06af\u0627\u0633 \u0635\u0648\u0628\u06c1",
+            "uz": "Burgas",
+            "vi": "Burgas (t\u1ec9nh)",
+            "zh": "\u5e03\u723e\u52a0\u65af\u5dde",
+            "ceb": "Burgas (rehiyon)",
+            "nan": "Burgas Chiu",
+            "pnb": "\u0635\u0648\u0628\u06c1 \u0628\u0631\u06af\u0627\u0633",
+            "sco": "Burgas",
+            "war": "Burgas (lalawigan)",
+            "be-tarask": "\u0411\u0443\u0440\u0433\u0430\u0441\u043a\u0430\u044f \u0432\u043e\u0431\u043b\u0430\u0441\u044c\u0446\u044c"
+        },
+        "extra": {
+            "wikidata": "Q369220",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "bg",
+        "country_cca3": "bgr",
+        "region_cca2": "BG-03",
+        "osm_id": 1437135,
+        "osm_place_id": 282423000,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0412\u0430\u0440\u043d\u0430",
+        "name_eng": "Varna",
+        "name_translations": {
+            "bg": "\u0412\u0430\u0440\u043d\u0430",
+            "de": "Oblast Warna",
+            "en": "Varna",
+            "fr": "Oblast de Varna",
+            "hu": "V\u00e1rna megye",
+            "ro": "Regiunea Varna",
+            "ru": "\u0412\u0430\u0440\u043d\u0435\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
+        },
+        "extra": {
+            "wikidata": "Q183487",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "bg",
+        "country_cca3": "bgr",
+        "region_cca2": "BG-04",
+        "osm_id": 1739524,
+        "osm_place_id": 282409448,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0412\u0435\u043b\u0438\u043a\u043e \u0422\u044a\u0440\u043d\u043e\u0432\u043e",
+        "name_eng": "Veliko Tarnovo",
+        "name_translations": {
+            "bg": "\u0412\u0435\u043b\u0438\u043a\u043e \u0422\u044a\u0440\u043d\u043e\u0432\u043e",
+            "de": "Oblast Weliko Tarnowo",
+            "en": "Veliko Tarnovo",
+            "fr": "Oblast de Veliko Tarnovo",
+            "ro": "Regiunea T\u00e2rnava Mare",
+            "ru": "\u0412\u0435\u043b\u0438\u043a\u043e\u0442\u044b\u0440\u043d\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
+        },
+        "extra": {
+            "wikidata": "Q2012621",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "bg",
+        "country_cca3": "bgr",
+        "region_cca2": null,
+        "osm_id": 1739525,
+        "osm_place_id": 282565304,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0412\u0438\u0434\u0438\u043d",
+        "name_eng": "Vidin",
+        "name_translations": {
+            "bg": "\u0412\u0438\u0434\u0438\u043d",
+            "de": "Oblast Widin",
+            "en": "Vidin",
+            "fr": "Oblast de Vidin",
+            "hu": "Vidin megye",
+            "pl": "Widy\u0144",
+            "ro": "Regiunea Vidin",
+            "ru": "\u0412\u0438\u0434\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+            "sr": "\u0412\u0438\u0434\u0438\u043d\u0441\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442",
+            "sr-Latn": "Vidinska oblast"
+        },
+        "extra": {
+            "wikidata": "Q2012772",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "bg",
+        "country_cca3": "bgr",
+        "region_cca2": "BG-06",
+        "osm_id": 1739526,
+        "osm_place_id": 282255523,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0412\u0440\u0430\u0446\u0430",
+        "name_eng": "Vratsa",
+        "name_translations": {
+            "bg": "\u0412\u0440\u0430\u0446\u0430",
+            "de": "Oblast Wraza",
+            "en": "Vratsa",
+            "fr": "Oblast de Vratsa",
+            "ro": "Regiunea Vra\u021ba",
+            "ru": "\u0412\u0440\u0430\u0447\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
+        },
+        "extra": {
+            "wikidata": "Q2012785",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "bg",
+        "country_cca3": "bgr",
+        "region_cca2": "BG-07",
+        "osm_id": 1739527,
+        "osm_place_id": 282226447,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0413\u0430\u0431\u0440\u043e\u0432\u043e",
+        "name_eng": "Gabrovo",
+        "name_translations": {
+            "bg": "\u0413\u0430\u0431\u0440\u043e\u0432\u043e",
+            "de": "Oblast Gabrowo",
+            "en": "Gabrovo",
+            "fr": "Oblast de Gabrovo",
+            "ro": "Regiunea Gabrovo",
+            "ru": "\u0413\u0430\u0431\u0440\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
+        },
+        "extra": {
+            "wikidata": "Q1007272",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "bg",
+        "country_cca3": "bgr",
+        "region_cca2": "BG-08",
+        "osm_id": 1739528,
+        "osm_place_id": 282232368,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0414\u043e\u0431\u0440\u0438\u0447",
+        "name_eng": "Dobrich",
+        "name_translations": {
+            "bg": "\u0414\u043e\u0431\u0440\u0438\u0447",
+            "de": "Oblast Dobritsch",
+            "en": "Dobrich",
+            "fr": "Oblast de Dobritch",
+            "hu": "Dobrics megye",
+            "ro": "Regiunea Dobrici",
+            "ru": "\u0414\u043e\u0431\u0440\u0438\u0447\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
+        },
+        "extra": {
+            "wikidata": "Q907395",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "bg",
+        "country_cca3": "bgr",
+        "region_cca2": null,
+        "osm_id": 1739529,
+        "osm_place_id": 282507170,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041a\u044a\u0440\u0434\u0436\u0430\u043b\u0438",
+        "name_eng": "Kardzhali",
+        "name_translations": {
+            "bg": "\u041a\u044a\u0440\u0434\u0436\u0430\u043b\u0438",
+            "de": "Oblast Kardschali",
+            "el": "\u039a\u03ac\u03c1\u03c4\u03b6\u03b1\u03bb\u03b9",
+            "en": "Kardzhali",
+            "fr": "Oblast de Kardjali",
+            "lt": "Kerd\u017eal\u0173 sritis",
+            "mk": "\u041a\u0440\u045f\u0430\u043b\u0438\u0441\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442",
+            "ro": "Regiunea C\u00e2rgeali",
+            "ru": "\u041a\u044b\u0440\u0434\u0436\u0430\u043b\u0438\u0439\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
+        },
+        "extra": {
+            "wikidata": "Q1104675",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "bg",
+        "country_cca3": "bgr",
+        "region_cca2": "BG-10",
+        "osm_id": 1739530,
+        "osm_place_id": 282196418,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041a\u044e\u0441\u0442\u0435\u043d\u0434\u0438\u043b",
+        "name_eng": "Kyustendil",
+        "name_translations": {
+            "bg": "\u041a\u044e\u0441\u0442\u0435\u043d\u0434\u0438\u043b",
+            "de": "Oblast Kjustendil",
+            "el": "\u039a\u03b9\u03bf\u03c5\u03c3\u03c4\u03b5\u03bd\u03c4\u03af\u03bb",
+            "en": "Kyustendil",
+            "fr": "Oblast de Kyoustendil",
+            "hu": "Kjusztendil megye",
+            "ro": "Regiunea Chiustendil",
+            "ru": "\u041a\u044e\u0441\u0442\u0435\u043d\u0434\u0438\u043b\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+            "sr": "\u040b\u0443\u0441\u0442\u0435\u043d\u0434\u0438\u043b\u0441\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442",
+            "sr-Latn": "\u0106ustendilska oblast",
+            "zh-Hans": "\u4e18\u65af\u6ed5\u8fea\u5c14\u5dde",
+            "zh-Hant": "\u4e18\u65af\u6ed5\u8fea\u723e\u5dde"
+        },
+        "extra": {
+            "wikidata": "Q1112985",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "bg",
+        "country_cca3": "bgr",
+        "region_cca2": "BG-11",
+        "osm_id": 1739531,
+        "osm_place_id": 282235420,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041b\u043e\u0432\u0435\u0447",
+        "name_eng": "Lovech",
+        "name_translations": {
+            "bg": "\u041b\u043e\u0432\u0435\u0447",
+            "de": "Oblast Lowetsch",
+            "en": "Lovech",
+            "fr": "Oblast de Lovetch",
+            "ro": "Regiunea Loveci",
+            "ru": "\u041b\u043e\u0432\u0435\u0447\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
+        },
+        "extra": {
+            "wikidata": "Q6587068",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "bg",
+        "country_cca3": "bgr",
+        "region_cca2": "BG-12",
+        "osm_id": 1739532,
+        "osm_place_id": 282191489,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041c\u043e\u043d\u0442\u0430\u043d\u0430",
+        "name_eng": "Montana",
+        "name_translations": {
+            "bg": "\u041c\u043e\u043d\u0442\u0430\u043d\u0430",
+            "de": "Oblast Montana",
+            "en": "Montana",
+            "fr": "Oblast de Montana",
+            "ro": "Regiunea Montana",
+            "ru": "\u041c\u043e\u043d\u0442\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+            "sr": "\u041c\u043e\u043d\u0442\u0430\u043d\u0441\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442",
+            "sr-Latn": "Montanska oblast"
+        },
+        "extra": {
+            "wikidata": "Q2012057",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "bg",
+        "country_cca3": "bgr",
+        "region_cca2": "BG-13",
+        "osm_id": 1739533,
+        "osm_place_id": 282189418,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041f\u0430\u0437\u0430\u0440\u0434\u0436\u0438\u043a",
+        "name_eng": "Pazardzhik",
+        "name_translations": {
+            "bg": "\u041f\u0430\u0437\u0430\u0440\u0434\u0436\u0438\u043a",
+            "de": "Oblast Pasardschik",
+            "en": "Pazardzhik",
+            "fr": "Oblast de Pazardjik",
+            "hu": "Pazardzsik megye",
+            "ro": "Regiunea Pazargic",
+            "ru": "\u041f\u0430\u0437\u0430\u0440\u0434\u0436\u0438\u043a\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
+        },
+        "extra": {
+            "wikidata": "Q2012227",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "bg",
+        "country_cca3": "bgr",
+        "region_cca2": null,
+        "osm_id": 1739534,
+        "osm_place_id": 282341554,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041f\u0435\u0440\u043d\u0438\u043a",
+        "name_eng": "Pernik",
+        "name_translations": {
+            "bg": "\u041f\u0435\u0440\u043d\u0438\u043a",
+            "de": "Oblast Pernik",
+            "en": "Pernik",
+            "fr": "Oblast de Pernik",
+            "ro": "Regiunea Pernic",
+            "ru": "\u041f\u0435\u0440\u043d\u0438\u043a\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+            "sr": "\u041f\u0435\u0440\u043d\u0438\u0447\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442",
+            "sr-Latn": "Perni\u010dka oblast"
+        },
+        "extra": {
+            "wikidata": "Q2012234",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "bg",
+        "country_cca3": "bgr",
+        "region_cca2": "BG-15",
+        "osm_id": 1739535,
+        "osm_place_id": 282191577,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041f\u043b\u0435\u0432\u0435\u043d",
+        "name_eng": "Pleven",
+        "name_translations": {
+            "bg": "\u041f\u043b\u0435\u0432\u0435\u043d",
+            "de": "Oblast Plewen",
+            "en": "Pleven",
+            "fr": "Oblast de Pleven",
+            "hu": "Pleven megye",
+            "ro": "Regiunea Plevna",
+            "ru": "\u041f\u043b\u0435\u0432\u0435\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
+        },
+        "extra": {
+            "wikidata": "Q2012242",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "bg",
+        "country_cca3": "bgr",
+        "region_cca2": "BG-16",
+        "osm_id": 1739536,
+        "osm_place_id": 282192944,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041f\u043b\u043e\u0432\u0434\u0438\u0432",
+        "name_eng": "Plovdiv",
+        "name_translations": {
+            "bg": "\u041f\u043b\u043e\u0432\u0434\u0438\u0432",
+            "de": "Oblast Plowdiw",
+            "en": "Plovdiv",
+            "fr": "Oblast de Plovdiv",
+            "ro": "Regiunea Plovdiv",
+            "ru": "\u041f\u043b\u043e\u0432\u0434\u0438\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
+        },
+        "extra": {
+            "wikidata": "Q187874",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "bg",
+        "country_cca3": "bgr",
+        "region_cca2": "BG-17",
+        "osm_id": 1739537,
+        "osm_place_id": 282263862,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0420\u0430\u0437\u0433\u0440\u0430\u0434",
+        "name_eng": "Razgrad",
+        "name_translations": {
+            "bg": "\u0420\u0430\u0437\u0433\u0440\u0430\u0434",
+            "de": "Oblast Rasgrad",
+            "en": "Razgrad",
+            "fr": "Oblast de Razgrad",
+            "ro": "Regiunea Razgrad",
+            "ru": "\u0420\u0430\u0437\u0433\u0440\u0430\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
+        },
+        "extra": {
+            "wikidata": "Q2790675",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "bg",
+        "country_cca3": "bgr",
+        "region_cca2": "BG-18",
+        "osm_id": 1739538,
+        "osm_place_id": 282182976,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0420\u0443\u0441\u0435",
+        "name_eng": "Ruse",
+        "name_translations": {
+            "bg": "\u0420\u0443\u0441\u0435",
+            "de": "Oblast Russe",
+            "en": "Ruse",
+            "fr": "Oblast de Rouss\u00e9",
+            "hu": "Rusze megye",
+            "ro": "Regiunea Ruse",
+            "ru": "\u0420\u0443\u0441\u0435\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
+        },
+        "extra": {
+            "wikidata": "Q1251933",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "bg",
+        "country_cca3": "bgr",
+        "region_cca2": null,
+        "osm_id": 1733101,
+        "osm_place_id": 282277160,
+        "osm_admin_level": 4,
+        "osm_type": "statistical",
+        "name_loc": "\u0421\u0435\u0432\u0435\u0440\u0435\u043d \u0446\u0435\u043d\u0442\u0440\u0430\u043b\u0435\u043d \u0440\u0430\u0439\u043e\u043d \u0437\u0430 \u043f\u043b\u0430\u043d\u0438\u0440\u0430\u043d\u0435",
+        "name_eng": "North-Center Planning Region",
+        "name_translations": {
+            "bg": "\u0421\u0435\u0432\u0435\u0440\u0435\u043d \u0446\u0435\u043d\u0442\u0440\u0430\u043b\u0435\u043d \u0440\u0430\u0439\u043e\u043d \u0437\u0430 \u043f\u043b\u0430\u043d\u0438\u0440\u0430\u043d\u0435",
+            "en": "North-Center Planning Region",
+            "hu": "\u00c9szak-K\u00f6z\u00e9p-Bulg\u00e1ria",
+            "ru": "\u0421\u0435\u0432\u0435\u0440\u043d\u043e-\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0440\u0435\u0433\u0438\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q2471235",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "bg",
+        "country_cca3": "bgr",
+        "region_cca2": null,
+        "osm_id": 1733102,
+        "osm_place_id": 282206914,
+        "osm_admin_level": 4,
+        "osm_type": "statistical",
+        "name_loc": "\u0421\u0435\u0432\u0435\u0440\u043e\u0437\u0430\u043f\u0430\u0434\u0435\u043d \u0440\u0430\u0439\u043e\u043d \u0437\u0430 \u043f\u043b\u0430\u043d\u0438\u0440\u0430\u043d\u0435",
+        "name_eng": "Northwest Planning Region",
+        "name_translations": {
+            "bg": "\u0421\u0435\u0432\u0435\u0440\u043e\u0437\u0430\u043f\u0430\u0434\u0435\u043d \u0440\u0430\u0439\u043e\u043d \u0437\u0430 \u043f\u043b\u0430\u043d\u0438\u0440\u0430\u043d\u0435",
+            "de": "Planungsregion Nordwest",
+            "en": "Northwest Planning Region",
+            "hu": "\u00c9szaknyugat-Bulg\u00e1ria",
+            "ru": "\u0421\u0435\u0432\u0435\u0440\u043e-\u0417\u0430\u043f\u0430\u0434\u043d\u044b\u0439 \u0440\u0435\u0433\u0438\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q4809383",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "bg",
+        "country_cca3": "bgr",
+        "region_cca2": null,
+        "osm_id": 1733103,
+        "osm_place_id": 282634362,
+        "osm_admin_level": 4,
+        "osm_type": "statistical",
+        "name_loc": "\u0421\u0435\u0432\u0435\u0440\u043e\u0438\u0437\u0442\u043e\u0447\u0435\u043d \u0440\u0430\u0439\u043e\u043d \u0437\u0430 \u043f\u043b\u0430\u043d\u0438\u0440\u0430\u043d\u0435",
+        "name_eng": "North-East Planning Region",
+        "name_translations": {
+            "bg": "\u0421\u0435\u0432\u0435\u0440\u043e\u0438\u0437\u0442\u043e\u0447\u0435\u043d \u0440\u0430\u0439\u043e\u043d \u0437\u0430 \u043f\u043b\u0430\u043d\u0438\u0440\u0430\u043d\u0435",
+            "de": "Planungsregion Nordost",
+            "en": "North-East Planning Region",
+            "hu": "\u00c9szakkelet-Bulg\u00e1ria",
+            "ru": "\u0421\u0435\u0432\u0435\u0440\u043e-\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u044b\u0439 \u0440\u0435\u0433\u0438\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q4349469",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "bg",
+        "country_cca3": "bgr",
+        "region_cca2": "BG-19",
+        "osm_id": 1739539,
+        "osm_place_id": 282279591,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0421\u0438\u043b\u0438\u0441\u0442\u0440\u0430",
+        "name_eng": "Silistra",
+        "name_translations": {
+            "bg": "\u0421\u0438\u043b\u0438\u0441\u0442\u0440\u0430",
+            "de": "Oblast Silistra",
+            "en": "Silistra",
+            "fr": "Oblast de Silistra",
+            "lt": "Silistros sritis",
+            "ro": "Regiunea Silistra",
+            "ru": "\u0421\u0438\u043b\u0438\u0441\u0442\u0440\u0435\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
+        },
+        "extra": {
+            "wikidata": "Q2012423",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "bg",
+        "country_cca3": "bgr",
+        "region_cca2": "BG-20",
+        "osm_id": 1739540,
+        "osm_place_id": 282451119,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0421\u043b\u0438\u0432\u0435\u043d",
+        "name_eng": "Sliven",
+        "name_translations": {
+            "bg": "\u0421\u043b\u0438\u0432\u0435\u043d",
+            "de": "Oblast Sliwen",
+            "en": "Sliven",
+            "fr": "Oblast de Sliven",
+            "ro": "Regiunea Sliven",
+            "ru": "\u0421\u043b\u0438\u0432\u0435\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
+        },
+        "extra": {
+            "wikidata": "Q113120",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "bg",
+        "country_cca3": "bgr",
+        "region_cca2": null,
+        "osm_id": 1739541,
+        "osm_place_id": 282518324,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0421\u043c\u043e\u043b\u044f\u043d",
+        "name_eng": "Smolyan",
+        "name_translations": {
+            "bg": "\u0421\u043c\u043e\u043b\u044f\u043d",
+            "de": "Oblast Smoljan",
+            "en": "Smolyan",
+            "fr": "Oblast de Smolyan",
+            "ro": "Regiunea Smolian",
+            "ru": "\u0421\u043c\u043e\u043b\u044f\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
+        },
+        "extra": {
+            "wikidata": "Q2012430",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "bg",
+        "country_cca3": "bgr",
+        "region_cca2": null,
+        "osm_id": 1739542,
+        "osm_place_id": 282195030,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0421\u043e\u0444\u0438\u0439\u0441\u043a\u0430",
+        "name_eng": "Sofia",
+        "name_translations": {
+            "bg": "\u0421\u043e\u0444\u0438\u0439\u0441\u043a\u0430",
+            "de": "Oblast Sofia",
+            "en": "Sofia",
+            "fr": "Oblast de Sofia",
+            "hu": "Sz\u00f3fia megye",
+            "ro": "Regiunea Sofia",
+            "ru": "\u0421\u043e\u0444\u0438\u0439\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+            "sr": "\u0421\u043e\u0444\u0438\u0458\u0441\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442",
+            "sr-Latn": "Sofijska oblast"
+        },
+        "extra": {
+            "wikidata": "Q202904",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "bg",
+        "country_cca3": "bgr",
+        "region_cca2": "BG-22",
+        "osm_id": 1739543,
+        "osm_place_id": 282727096,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0421\u043e\u0444\u0438\u044f-\u0433\u0440\u0430\u0434",
+        "name_eng": "Sofia-City",
+        "name_translations": {
+            "bg": "\u0421\u043e\u0444\u0438\u044f-\u0433\u0440\u0430\u0434",
+            "de": "Oblast Sofia-Stadt",
+            "en": "Sofia-City",
+            "fr": "Oblast de Sofia-ville",
+            "hu": "Sz\u00f3fia f\u0151v\u00e1ros",
+            "ro": "Sofia",
+            "ru": "\u0421\u043e\u0444\u0438\u044f"
+        },
+        "extra": {
+            "wikidata": "Q1585725",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "bg",
+        "country_cca3": "bgr",
+        "region_cca2": "BG-24",
+        "osm_id": 1300657,
+        "osm_place_id": 282362592,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0421\u0442\u0430\u0440\u0430 \u0417\u0430\u0433\u043e\u0440\u0430",
+        "name_eng": "Stara Zagora",
+        "name_translations": {
+            "bg": "\u0421\u0442\u0430\u0440\u0430 \u0417\u0430\u0433\u043e\u0440\u0430",
+            "de": "Oblast Stara Sagora",
+            "en": "Stara Zagora",
+            "fr": "Oblast de Stara Zagora",
+            "ro": "Regiunea Stara Zagora",
+            "ru": "\u0421\u0442\u0430\u0440\u043e\u0437\u0430\u0433\u043e\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
+        },
+        "extra": {
+            "wikidata": "Q2012583",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "bg",
+        "country_cca3": "bgr",
+        "region_cca2": "BG-25",
+        "osm_id": 1739544,
+        "osm_place_id": 282194031,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0422\u044a\u0440\u0433\u043e\u0432\u0438\u0449\u0435",
+        "name_eng": "Targovishte",
+        "name_translations": {
+            "bg": "\u0422\u044a\u0440\u0433\u043e\u0432\u0438\u0449\u0435",
+            "de": "Oblast Targowischte",
+            "en": "Targovishte",
+            "fr": "Oblast de Targovichte",
+            "ro": "Regiunea T\u00e2rgovi\u0219te",
+            "ru": "\u0422\u044b\u0440\u0433\u043e\u0432\u0438\u0448\u0442\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
+        },
+        "extra": {
+            "wikidata": "Q2012589",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "bg",
+        "country_cca3": "bgr",
+        "region_cca2": null,
+        "osm_id": 1739545,
+        "osm_place_id": 282236740,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0425\u0430\u0441\u043a\u043e\u0432\u043e",
+        "name_eng": "Haskovo",
+        "name_translations": {
+            "bg": "\u0425\u0430\u0441\u043a\u043e\u0432\u043e",
+            "de": "Oblast Chaskowo",
+            "el": "\u03a7\u03ac\u03c3\u03ba\u03bf\u03b2\u03bf",
+            "en": "Haskovo",
+            "fr": "Oblast de Khaskovo",
+            "ro": "Regiunea Hascovo",
+            "ru": "\u0425\u0430\u0441\u043a\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+            "zh-Hans": "\u54c8\u65af\u79d1\u6c83\u5dde",
+            "zh-Hant": "\u54c8\u65af\u79d1\u6c83\u5dde"
+        },
+        "extra": {
+            "wikidata": "Q182809",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "bg",
+        "country_cca3": "bgr",
+        "region_cca2": "BG-27",
+        "osm_id": 1739546,
+        "osm_place_id": 282192216,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0428\u0443\u043c\u0435\u043d",
+        "name_eng": "Shumen",
+        "name_translations": {
+            "bg": "\u0428\u0443\u043c\u0435\u043d",
+            "de": "Oblast Schumen",
+            "en": "Shumen",
+            "fr": "Oblast de Choumen",
+            "ro": "Regiunea \u0218umen",
+            "ru": "\u0428\u0443\u043c\u0435\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
+        },
+        "extra": {
+            "wikidata": "Q184981",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "bg",
+        "country_cca3": "bgr",
+        "region_cca2": null,
+        "osm_id": 1733104,
+        "osm_place_id": 282412069,
+        "osm_admin_level": 4,
+        "osm_type": "statistical",
+        "name_loc": "\u042e\u0433\u043e\u0437\u0430\u043f\u0430\u0434\u0435\u043d \u0440\u0430\u0439\u043e\u043d \u0437\u0430 \u043f\u043b\u0430\u043d\u0438\u0440\u0430\u043d\u0435",
+        "name_eng": "Southwest Planning Region",
+        "name_translations": {
+            "bg": "\u042e\u0433\u043e\u0437\u0430\u043f\u0430\u0434\u0435\u043d \u0440\u0430\u0439\u043e\u043d \u0437\u0430 \u043f\u043b\u0430\u043d\u0438\u0440\u0430\u043d\u0435",
+            "de": "Planungsregion S\u00fcdwest",
+            "el": "\u039d\u03bf\u03c4\u03b9\u03bf\u03b4\u03c5\u03c4\u03b9\u03ba\u03ae \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u03a3\u03c7\u03b5\u03b4\u03b9\u03b1\u03c3\u03bc\u03bf\u03cd",
+            "en": "Southwest Planning Region",
+            "hu": "D\u00e9lnyugat-Bulg\u00e1ria",
+            "ru": "\u042e\u0433\u043e-\u0417\u0430\u043f\u0430\u0434\u043d\u044b\u0439 \u0440\u0435\u0433\u0438\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q31570",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "bg",
+        "country_cca3": "bgr",
+        "region_cca2": null,
+        "osm_id": 1733105,
+        "osm_place_id": 282188968,
+        "osm_admin_level": 4,
+        "osm_type": "statistical",
+        "name_loc": "\u042e\u0433\u043e\u0438\u0437\u0442\u043e\u0447\u0435\u043d \u0440\u0430\u0439\u043e\u043d \u0437\u0430 \u043f\u043b\u0430\u043d\u0438\u0440\u0430\u043d\u0435",
+        "name_eng": "Southeast Planning Region",
+        "name_translations": {
+            "bg": "\u042e\u0433\u043e\u0438\u0437\u0442\u043e\u0447\u0435\u043d \u0440\u0430\u0439\u043e\u043d \u0437\u0430 \u043f\u043b\u0430\u043d\u0438\u0440\u0430\u043d\u0435",
+            "de": "Planungsregion S\u00fcdost",
+            "en": "Southeast Planning Region",
+            "hu": "D\u00e9lkelet-Bulg\u00e1ria",
+            "ru": "\u042e\u0433\u043e-\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u044b\u0439 \u0440\u0435\u0433\u0438\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q2471345",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "bg",
+        "country_cca3": "bgr",
+        "region_cca2": null,
+        "osm_id": 13516477,
+        "osm_place_id": 325306219,
+        "osm_admin_level": 4,
+        "osm_type": "statistical",
+        "name_loc": "\u042e\u0433\u043e\u0438\u0437\u0442\u043e\u0447\u0435\u043d \u0440\u0430\u0439\u043e\u043d \u0437\u0430 \u043f\u043b\u0430\u043d\u0438\u0440\u0430\u043d\u0435",
+        "name_eng": "\u042e\u0433\u043e\u0438\u0437\u0442\u043e\u0447\u0435\u043d \u0440\u0430\u0439\u043e\u043d \u0437\u0430 \u043f\u043b\u0430\u043d\u0438\u0440\u0430\u043d\u0435",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "bg",
+        "country_cca3": "bgr",
+        "region_cca2": null,
+        "osm_id": 1733106,
+        "osm_place_id": 282445660,
+        "osm_admin_level": 4,
+        "osm_type": "statistical",
+        "name_loc": "\u042e\u0436\u0435\u043d \u0446\u0435\u043d\u0442\u0440\u0430\u043b\u0435\u043d \u0440\u0430\u0439\u043e\u043d \u0437\u0430 \u043f\u043b\u0430\u043d\u0438\u0440\u0430\u043d\u0435",
+        "name_eng": "South-Central Planning Region",
+        "name_translations": {
+            "bg": "\u042e\u0436\u0435\u043d \u0446\u0435\u043d\u0442\u0440\u0430\u043b\u0435\u043d \u0440\u0430\u0439\u043e\u043d \u0437\u0430 \u043f\u043b\u0430\u043d\u0438\u0440\u0430\u043d\u0435",
+            "en": "South-Central Planning Region",
+            "hu": "D\u00e9l-K\u00f6z\u00e9p-Bulg\u00e1ria",
+            "ru": "\u042e\u0436\u043d\u043e-\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0440\u0435\u0433\u0438\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q31571",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "bg",
+        "country_cca3": "bgr",
+        "region_cca2": "BG-28",
+        "osm_id": 1739547,
+        "osm_place_id": 282284466,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u042f\u043c\u0431\u043e\u043b",
+        "name_eng": "Yambol",
+        "name_translations": {
+            "bg": "\u042f\u043c\u0431\u043e\u043b",
+            "de": "Oblast Jambol",
+            "en": "Yambol",
+            "fr": "Oblast de Yambol",
+            "ro": "Regiunea Iambol",
+            "ru": "\u042f\u043c\u0431\u043e\u043b\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
+        },
+        "extra": {
+            "wikidata": "Q220736",
+            "un_locode": null
+        }
+    }
+]

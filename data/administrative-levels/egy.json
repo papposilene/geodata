@@ -1,0 +1,731 @@
+[
+    {
+        "country_cca2": "eg",
+        "country_cca3": "egy",
+        "region_cca2": null,
+        "osm_id": 3061757,
+        "osm_place_id": 282405797,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "\u0623\u0633\u0648\u0627\u0646",
+        "name_eng": "Assouan",
+        "name_translations": {
+            "ar": "\u0623\u0633\u0648\u0627\u0646",
+            "de": "Assuan",
+            "en": "Aswan",
+            "es": "Asu\u00e1n",
+            "fa": "\u0627\u0633\u0648\u0627\u0646",
+            "fr": "Assouan",
+            "hu": "Asszu\u00e1n",
+            "ru": "\u0410\u0441\u0443\u0430\u043d",
+            "ur": "\u0627\u0633\u0648\u0627\u0646"
+        },
+        "extra": {
+            "wikidata": "Q29937",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "eg",
+        "country_cca3": "egy",
+        "region_cca2": null,
+        "osm_id": 3726184,
+        "osm_place_id": 282524060,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "\u0623\u0633\u064a\u0648\u0637",
+        "name_eng": "Asyut Governorate",
+        "name_translations": {
+            "ar": "\u0623\u0633\u064a\u0648\u0637",
+            "de": "Asyut",
+            "en": "Asyut",
+            "eo": "Asjut",
+            "fr": "Assiout",
+            "hu": "Assziut",
+            "lt": "Asjuto",
+            "pl": "Asjut",
+            "ru": "\u0410\u0441\u044c\u044e\u0442"
+        },
+        "extra": {
+            "wikidata": "Q29965",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "eg",
+        "country_cca3": "egy",
+        "region_cca2": null,
+        "osm_id": 3726211,
+        "osm_place_id": 282490296,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "\u0627\u0644\u0623\u0642\u0635\u0631",
+        "name_eng": "Luxor Governate",
+        "name_translations": {
+            "ar": "\u0627\u0644\u0623\u0642\u0635\u0631",
+            "de": "Luxor",
+            "en": "Luxor",
+            "fr": "Louxor",
+            "hu": "Luxor",
+            "ru": "\u041b\u0443\u043a\u0441\u043e\u0440"
+        },
+        "extra": {
+            "wikidata": "Q30797",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "eg",
+        "country_cca3": "egy",
+        "region_cca2": null,
+        "osm_id": 3062184,
+        "osm_place_id": 282365732,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "\u0627\u0644\u0625\u0633\u0645\u0627\u0639\u064a\u0644\u064a\u0629",
+        "name_eng": "Ismailia",
+        "name_translations": {
+            "ar": "\u0627\u0644\u0625\u0633\u0645\u0627\u0639\u064a\u0644\u064a\u0629",
+            "de": "Ismailiya",
+            "en": "Al Ismailiya",
+            "eo": "Ismailija",
+            "fa": "\u0627\u0633\u0645\u0627\u0639\u06cc\u0644\u06cc\u0647",
+            "fr": "Isma\u00eflia",
+            "hu": "El-Iszm\u00e1ilijja",
+            "pl": "Ismailia",
+            "ru": "\u0418\u0441\u043c\u0430\u0438\u043b\u0438\u044f",
+            "ur": "\u0627\u0633\u0645\u0627\u0639\u06cc\u0644\u06cc\u06c1",
+            "pnb": "\u0627\u0633\u0645\u0627\u0639\u06cc\u0644\u06cc\u06c1"
+        },
+        "extra": {
+            "wikidata": "Q31067",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "eg",
+        "country_cca3": "egy",
+        "region_cca2": null,
+        "osm_id": 3061758,
+        "osm_place_id": 282409756,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "\u0627\u0644\u0628\u062d\u0631 \u0627\u0644\u0623\u062d\u0645\u0631",
+        "name_eng": "Red Sea Governorate",
+        "name_translations": {
+            "ar": "\u0627\u0644\u0628\u062d\u0631 \u0627\u0644\u0623\u062d\u0645\u0631",
+            "de": "Roten Meeres",
+            "en": "Red Sea",
+            "es": "Mar Rojo",
+            "fr": "Mer-Rouge",
+            "hu": "V\u00f6r\u00f6s-tenger",
+            "lt": "Raudonosios J\u016bros",
+            "ru": "\u041a\u0440\u0430\u0441\u043d\u043e\u0435 \u041c\u043e\u0440\u0435"
+        },
+        "extra": {
+            "wikidata": "Q30831",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "eg",
+        "country_cca3": "egy",
+        "region_cca2": null,
+        "osm_id": 3824513,
+        "osm_place_id": 282506486,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "\u0627\u0644\u0628\u062d\u064a\u0631\u0629",
+        "name_eng": "Beheira Governorate",
+        "name_translations": {
+            "ar": "\u0627\u0644\u0628\u062d\u064a\u0631\u0629",
+            "de": "Der see",
+            "en": "The Lake",
+            "es": "El Lago",
+            "fr": "Le lac",
+            "hu": "A t\u00f3",
+            "ru": "\u041e\u0437\u0435\u0440\u043e",
+            "uk": "O\u0437\u0435\u0440\u043e"
+        },
+        "extra": {
+            "wikidata": "Q30630",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "eg",
+        "country_cca3": "egy",
+        "region_cca2": null,
+        "osm_id": 4103403,
+        "osm_place_id": 282817398,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "\u0627\u0644\u062f\u0642\u0647\u0644\u064a\u0629",
+        "name_eng": "Dakahlia Governorate",
+        "name_translations": {
+            "ar": "\u0627\u0644\u062f\u0642\u0647\u0644\u064a\u0629",
+            "de": "Ad-Daqahliya",
+            "en": "Ad Dakahliya",
+            "es": "Dacalia",
+            "fr": "Dakahleya",
+            "hu": "Ed-Dakahlijja",
+            "ru": "\u0414\u0430\u043a\u0430\u0445\u043b\u0438\u044f"
+        },
+        "extra": {
+            "wikidata": "Q31068",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "eg",
+        "country_cca3": "egy",
+        "region_cca2": null,
+        "osm_id": 4103407,
+        "osm_place_id": 282492756,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "\u0627\u0644\u0634\u0631\u0642\u064a\u0629",
+        "name_eng": "Al Sharqia Governorate",
+        "name_translations": {
+            "ar": "\u0627\u0644\u0634\u0631\u0642\u064a\u0629",
+            "de": "\u00d6stlich",
+            "en": "Eastern",
+            "es": "Oriental",
+            "fr": "Est",
+            "hu": "Keleti",
+            "ru": "\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u044b\u0439"
+        },
+        "extra": {
+            "wikidata": "Q31074",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "eg",
+        "country_cca3": "egy",
+        "region_cca2": null,
+        "osm_id": 4103337,
+        "osm_place_id": 282883547,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "\u0627\u0644\u0642\u0644\u064a\u0648\u0628\u064a\u0629",
+        "name_eng": "Qalyubia Governorate",
+        "name_translations": {
+            "ar": "\u0627\u0644\u0642\u0644\u064a\u0648\u0628\u064a\u0629",
+            "de": "Qaljubia",
+            "en": "Al Qalyubiya",
+            "es": "Caliubia",
+            "fr": "Qalyoubia",
+            "hu": "El-Kalj\u00fabijja",
+            "ru": "\u041a\u0430\u043b\u044c\u044e\u0431\u0438\u044f"
+        },
+        "extra": {
+            "wikidata": "Q31075",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "eg",
+        "country_cca3": "egy",
+        "region_cca2": null,
+        "osm_id": 3726175,
+        "osm_place_id": 282723107,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "\u0627\u0644\u0645\u0646\u064a\u0627",
+        "name_eng": "Minya Governate",
+        "name_translations": {
+            "ar": "\u0627\u0644\u0645\u0646\u064a\u0627",
+            "de": "Al Minya",
+            "en": "Al Minya",
+            "eo": "Minja",
+            "es": "Menia",
+            "fr": "Minya",
+            "hu": "El-Minja",
+            "pl": "Minja",
+            "ru": "\u042d\u043b\u044c-\u041c\u0438\u043d\u044c\u044f"
+        },
+        "extra": {
+            "wikidata": "Q30675",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "eg",
+        "country_cca3": "egy",
+        "region_cca2": null,
+        "osm_id": 3061827,
+        "osm_place_id": 282363530,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "\u0627\u0644\u0648\u0627\u062f\u064a \u0627\u0644\u062c\u062f\u064a\u062f",
+        "name_eng": "New Valley Governorate",
+        "name_translations": {
+            "ar": "\u0627\u0644\u0648\u0627\u062f\u064a \u0627\u0644\u062c\u062f\u064a\u062f",
+            "de": "Neues Tal",
+            "en": "New Valley",
+            "es": "Nuevo Valle",
+            "fr": "Nouvelle-Vall\u00e9e",
+            "hu": "\u00daj v\u00f6lgy",
+            "ru": "\u041d\u043e\u0432\u0430\u044f \u0414\u043e\u043b\u0438\u043d\u0430"
+        },
+        "extra": {
+            "wikidata": "Q30650",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "eg",
+        "country_cca3": "egy",
+        "region_cca2": null,
+        "osm_id": 4103406,
+        "osm_place_id": 282488741,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "\u0628\u0648\u0631\u0633\u0639\u064a\u062f",
+        "name_eng": "Port Said",
+        "name_translations": {
+            "ar": "\u0628\u0648\u0631\u0633\u0639\u064a\u062f",
+            "de": "Port Said",
+            "en": "Port Said",
+            "es": "Puerto Sa\u00edd",
+            "fa": "\u067e\u0648\u0631\u062a\u200c\u0633\u0639\u06cc\u062f",
+            "fr": "Port-Sa\u00efd",
+            "hu": "Port Sza\u00edd",
+            "ru": "\u041f\u043e\u0440\u0442-\u0421\u0430\u0438\u0434",
+            "ur": "\u067e\u0648\u0631\u0679 \u0633\u0639\u06cc\u062f"
+        },
+        "extra": {
+            "wikidata": "Q31079",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "eg",
+        "country_cca3": "egy",
+        "region_cca2": null,
+        "osm_id": 3060793,
+        "osm_place_id": 282366563,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "\u062c\u0646\u0648\u0628 \u0633\u064a\u0646\u0627\u0621",
+        "name_eng": "South Sinai",
+        "name_translations": {
+            "ar": "\u062c\u0646\u0648\u0628 \u0633\u064a\u0646\u0627\u0621",
+            "de": "S\u00fcdsinai",
+            "en": "South Sinai",
+            "es": "Sina\u00ed del Sur",
+            "fa": "\u0633\u06cc\u0646\u0627\u06cc \u062c\u0646\u0648\u0628\u06cc",
+            "fi": "Etel\u00e4-Siinai",
+            "fr": "Sina\u00ef Sud",
+            "he": "\u05d3\u05e8\u05d5\u05dd \u05e1\u05d9\u05e0\u05d9",
+            "nl": "Zuid-Sina\u00ef",
+            "ur": "\u062c\u0646\u0648\u0628\u06cc \u0633\u06cc\u0646\u0627",
+            "lrc": "\u0647\u0627\u0631\u06af\u0647 \u0633\u06cc\u0646\u0627"
+        },
+        "extra": {
+            "wikidata": "Q30815",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "eg",
+        "country_cca3": "egy",
+        "region_cca2": null,
+        "osm_id": 4103404,
+        "osm_place_id": 282604248,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "\u062f\u0645\u064a\u0627\u0637",
+        "name_eng": "Damietta Governorate",
+        "name_translations": {
+            "ar": "\u062f\u0645\u064a\u0627\u0637",
+            "de": "Dumyat",
+            "en": "Damietta",
+            "es": "Damieta",
+            "fr": "Damiette",
+            "hu": "Damietta",
+            "ru": "\u0414\u0443\u043c\u044c\u044f\u0442"
+        },
+        "extra": {
+            "wikidata": "Q30644",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "eg",
+        "country_cca3": "egy",
+        "region_cca2": null,
+        "osm_id": 3060792,
+        "osm_place_id": 282691267,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "\u0634\u0645\u0627\u0644 \u0633\u064a\u0646\u0627\u0621",
+        "name_eng": "North Sinai",
+        "name_translations": {
+            "ar": "\u0634\u0645\u0627\u0644 \u0633\u064a\u0646\u0627\u0621",
+            "de": "Nord Sinai",
+            "en": "North Sinai",
+            "es": "Sina\u00ed del Norte",
+            "fa": "\u0633\u06cc\u0646\u0627\u06cc \u0634\u0645\u0627\u0644\u06cc",
+            "fi": "Porjois-Siinai",
+            "fr": "Sina\u00ef Nord",
+            "he": "\u05e6\u05e4\u05d5\u05df \u05e1\u05d9\u05e0\u05d9",
+            "hu": "\u00c9szak-S\u00ednai",
+            "ur": "\u0634\u0645\u0627\u0644\u06cc \u0633\u06cc\u0646\u0627"
+        },
+        "extra": {
+            "wikidata": "Q30662",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "eg",
+        "country_cca3": "egy",
+        "region_cca2": null,
+        "osm_id": 4103405,
+        "osm_place_id": 282527993,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "\u0643\u0641\u0631 \u0627\u0644\u0634\u064a\u062e",
+        "name_eng": "Kafr el-Sheikh Governorate",
+        "name_translations": {
+            "ar": "\u0643\u0641\u0631 \u0627\u0644\u0634\u064a\u062e",
+            "de": "Kafr asch-Schaich",
+            "en": "Kafr El Sheikh",
+            "eo": "Kafr a\u015d-\u015cej\u0125",
+            "fr": "Kafr el-Cheik",
+            "hu": "Kafr es-Sajh",
+            "pl": "Kafr asz-Szajch",
+            "ru": "\u041a\u0430\u0444\u0440-\u044d\u0448-\u0428\u0435\u0439\u0445"
+        },
+        "extra": {
+            "wikidata": "Q30946",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "eg",
+        "country_cca3": "egy",
+        "region_cca2": null,
+        "osm_id": 3061846,
+        "osm_place_id": 282691349,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0625\u0633\u0643\u0646\u062f\u0631\u064a\u0629",
+        "name_eng": "Alexandria Governorate",
+        "name_translations": {
+            "ar": "\u0627\u0644\u0625\u0633\u0643\u0646\u062f\u0631\u064a\u0629",
+            "de": "Alexandria",
+            "en": "Alexandria",
+            "fa": "\u0627\u0633\u06a9\u0646\u062f\u0631\u06cc\u0647",
+            "fr": "Alexandrie",
+            "hu": "Alexandria",
+            "ru": "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u0438\u044f",
+            "ur": "\u0627\u0633\u06a9\u0646\u062f\u0631\u06cc\u06c1"
+        },
+        "extra": {
+            "wikidata": "Q29943",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "eg",
+        "country_cca3": "egy",
+        "region_cca2": null,
+        "osm_id": 3824206,
+        "osm_place_id": 282530859,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u062c\u064a\u0632\u0629",
+        "name_eng": "Giza Governorate",
+        "name_translations": {
+            "ar": "\u0627\u0644\u062c\u064a\u0632\u0629",
+            "de": "Al-Dschiza",
+            "en": "Giza",
+            "eo": "Gizo",
+            "es": "Guiza",
+            "fr": "Gizeh",
+            "hu": "G\u00edza",
+            "pl": "Giza",
+            "ru": "\u0413\u0438\u0437\u0430"
+        },
+        "extra": {
+            "wikidata": "Q30832",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "eg",
+        "country_cca3": "egy",
+        "region_cca2": null,
+        "osm_id": 3062185,
+        "osm_place_id": 282468336,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0633\u0648\u064a\u0633",
+        "name_eng": "Suez Governorate",
+        "name_translations": {
+            "ar": "\u0627\u0644\u0633\u0648\u064a\u0633",
+            "de": "As-Suwais",
+            "en": "Suez",
+            "es": "Suez",
+            "fr": "Suez",
+            "hu": "Szuez",
+            "lt": "Sueco muchafaza",
+            "ru": "\u0421\u0443\u044d\u0446",
+            "ur": "\u0633\u0648\u0626\u06cc\u0632"
+        },
+        "extra": {
+            "wikidata": "Q31070",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "eg",
+        "country_cca3": "egy",
+        "region_cca2": null,
+        "osm_id": 3584607,
+        "osm_place_id": 282506866,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u063a\u0631\u0628\u064a\u0629",
+        "name_eng": "Gharbiyya Governorate",
+        "name_translations": {
+            "ar": "\u0627\u0644\u063a\u0631\u0628\u064a\u0629",
+            "de": "Western",
+            "en": "Western",
+            "eo": "Provinco Garbija",
+            "es": "Occidental",
+            "fr": "Occidental",
+            "hu": "Nyugati",
+            "lt": "Garbijos muchafaza",
+            "pl": "Prowincja Zachodnia",
+            "ru": "\u0432\u0435\u0441\u0442\u0435\u0440\u043d"
+        },
+        "extra": {
+            "wikidata": "Q30835",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "eg",
+        "country_cca3": "egy",
+        "region_cca2": null,
+        "osm_id": 3726124,
+        "osm_place_id": 336575225,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0641\u064a\u0648\u0645",
+        "name_eng": "Faiyum Governorate",
+        "name_translations": {
+            "ar": "\u0627\u0644\u0641\u064a\u0648\u0645",
+            "bg": "\u0424\u0430\u044e\u043c (\u043e\u0431\u043b\u0430\u0441\u0442)",
+            "bs": "Faiyum (guvernorat)",
+            "ca": "Governaci\u00f3 del Faium",
+            "cs": "Fajj\u00fam (guvernor\u00e1t)",
+            "da": "Al Fayyum (guvernement)",
+            "de": "Fayum",
+            "el": "\u039a\u03c5\u03b2\u03b5\u03c1\u03bd\u03b5\u03af\u03bf \u03a6\u03b1\u03b3\u03b9\u03bf\u03cd\u03bc",
+            "en": "Faiyum",
+            "eo": "Provinco Fajum",
+            "es": "Fay\u00fan",
+            "eu": "Faiyumgo gobernadore-herria",
+            "fa": "\u0627\u0633\u062a\u0627\u0646 \u0641\u06cc\u0648\u0645",
+            "fi": "Al-Fayyumin kuvernementti",
+            "fr": "Fayoum",
+            "he": "\u05e4\u05d9\u05d5\u05dd (\u05de\u05d7\u05d5\u05d6)",
+            "hi": "\u092b\u093c\u092f\u094d\u092f\u0942\u092e \u092e\u0941\u0939\u093e\u092b\u093c\u091c\u093c\u093e\u0939",
+            "hy": "\u0531\u056c-\u0556\u0561\u0575\u0578\u0582\u0574 (\u0574\u0578\u0582\u0570\u0561\u0586\u0561\u0566)",
+            "it": "Governatorato di al-Fayyum",
+            "ja": "\u30d5\u30a1\u30a4\u30e6\u30fc\u30e0\u770c",
+            "ka": "\u10d4\u10da-\u10e4\u10d0\u10d8\u10e3\u10db\u10d8\u10e1 \u10db\u10e3\u10f0\u10d0\u10e4\u10d0\u10d6\u10d0",
+            "ko": "\ud30c\uc774\uc730\uc8fc",
+            "la": "Crocodilopolis (provincia)",
+            "lt": "Fajumo muchafaza",
+            "nl": "Fajoem (gouvernement)",
+            "no": "Guvernementet Faiyum",
+            "pl": "Fajum (muhafaza)",
+            "pt": "Faium (prov\u00edncia)",
+            "ro": "Guvernoratul Al Fayyum",
+            "ru": "\u0424\u0430\u0439\u044e\u043c",
+            "sh": "Fajum (muhafaza)",
+            "sr": "\u0424\u0430\u0458\u0443\u043c (\u0433\u0443\u0432\u0435\u0440\u043d\u043e\u0440\u0430\u0442)",
+            "sv": "Faijum (guvernement)",
+            "sw": "Mkoa wa Faiyum",
+            "tg": "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u0424\u0430\u0439\u044e\u043c",
+            "tr": "Feyyum (il)",
+            "uk": "\u0415\u043b\u044c-\u0424\u0430\u044e\u043c (\u0433\u0443\u0431\u0435\u0440\u043d\u0430\u0442\u043e\u0440\u0441\u0442\u0432\u043e)",
+            "ur": "\u0645\u062d\u0627\u0641\u0638\u06c1 \u0641\u06cc\u0648\u0645",
+            "zh": "\u6cd5\u5c24\u59c6\u7701",
+            "zu": "Faiyum Governorate",
+            "azb": "\u0641\u06cc\u0648\u0645 \u0627\u0648\u0633\u062a\u0627\u0646\u06cc",
+            "ceb": "Mu\u1e29\u0101faz\u0327at al Fayy\u016bm",
+            "nan": "Faiyum S\u00e9ng",
+            "pnb": "\u0635\u0648\u0628\u06c1 \u0641\u06cc\u0648\u0645",
+            "sco": "Faiyum Govrenorate",
+            "war": "Faiyum (lalawigan)",
+            "be-x-old": "\u042d\u043b\u044c-\u0424\u0430\u044e\u043c (\u043c\u0443\u0433\u0430\u0444\u0430\u0437\u0430)"
+        },
+        "extra": {
+            "wikidata": "Q30656",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "eg",
+        "country_cca3": "egy",
+        "region_cca2": null,
+        "osm_id": 4103336,
+        "osm_place_id": 282702855,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0642\u0627\u0647\u0631\u0629",
+        "name_eng": "Cairo Governorate",
+        "name_translations": {
+            "ar": "\u0627\u0644\u0642\u0627\u0647\u0631\u0629",
+            "de": "Kairo",
+            "en": "Cairo",
+            "es": "El Cairo",
+            "fr": "Caire",
+            "hu": "Kair\u00f3",
+            "lt": "Kairo",
+            "ru": "\u041a\u0430\u0438\u0440",
+            "ur": "\u0642\u0627\u06c1\u0631\u06c1",
+            "zh": "\u5f00\u7f57",
+            "zh-Hans": "\u5f00\u7f57",
+            "zh-Hant": "\u958b\u7f85"
+        },
+        "extra": {
+            "wikidata": "Q30805",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "eg",
+        "country_cca3": "egy",
+        "region_cca2": null,
+        "osm_id": 3824207,
+        "osm_place_id": 282473948,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0645\u0646\u0648\u0641\u064a\u0629",
+        "name_eng": "Monufia Governorate",
+        "name_translations": {
+            "ar": "\u0627\u0644\u0645\u0646\u0648\u0641\u064a\u0629",
+            "de": "Menoufia",
+            "en": "Al Minufiya",
+            "eo": "Minufija",
+            "es": "Menufia",
+            "fr": "Menufeya",
+            "hu": "El-Min\u00fafijja",
+            "pl": "Al-Minufijja",
+            "ru": "\u041c\u0438\u043d\u0443\u0444\u0438\u044f"
+        },
+        "extra": {
+            "wikidata": "Q30786",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "eg",
+        "country_cca3": "egy",
+        "region_cca2": null,
+        "osm_id": 3726170,
+        "osm_place_id": 282452402,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0628\u0646\u0649 \u0633\u0648\u064a\u0641",
+        "name_eng": "Beni Suef Governorate",
+        "name_translations": {
+            "ar": "\u0628\u0646\u0649 \u0633\u0648\u064a\u0641",
+            "de": "Beni Suef",
+            "en": "Bani Sweif",
+            "es": "Bani Sweif",
+            "fr": "Beni Suef",
+            "hu": "Bani Szuvajf",
+            "ru": "\u0411\u0435\u043d\u0438-\u0421\u0443\u044d\u0439\u0444"
+        },
+        "extra": {
+            "wikidata": "Q30683",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "eg",
+        "country_cca3": "egy",
+        "region_cca2": null,
+        "osm_id": 3726186,
+        "osm_place_id": 282907960,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0633\u0648\u0647\u0627\u062c",
+        "name_eng": "Sohag Governorate",
+        "name_translations": {
+            "ar": "\u0633\u0648\u0647\u0627\u062c",
+            "de": "Sauhadsch",
+            "en": "Suhaj",
+            "es": "Sohag",
+            "fr": "Sohag",
+            "hu": "Szauh\u00e1g",
+            "ru": "\u0421\u043e\u0445\u0430\u0433"
+        },
+        "extra": {
+            "wikidata": "Q30669",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "eg",
+        "country_cca3": "egy",
+        "region_cca2": null,
+        "osm_id": 3726189,
+        "osm_place_id": 282696955,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0642\u0646\u0627",
+        "name_eng": "Qena Governorate",
+        "name_translations": {
+            "ar": "\u0642\u0646\u0627",
+            "de": "Qina",
+            "en": "Qena",
+            "eo": "Kina",
+            "es": "Quena",
+            "fr": "Qena",
+            "hu": "Kina",
+            "pl": "Kina",
+            "ru": "\u041a\u0435\u043d\u0430"
+        },
+        "extra": {
+            "wikidata": "Q31065",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "eg",
+        "country_cca3": "egy",
+        "region_cca2": null,
+        "osm_id": 3061826,
+        "osm_place_id": 282564046,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u0637\u0631\u0648\u062d",
+        "name_eng": "Matrouh",
+        "name_translations": {
+            "ar": "\u0645\u0637\u0631\u0648\u062d",
+            "de": "Matruh",
+            "en": "Matruh",
+            "es": "Matr\u00fa",
+            "fa": "\u0645\u0637\u0631\u0648\u062d",
+            "fr": "Matruh",
+            "hu": "Matr\u00fah",
+            "ks": "\u0645\u0637\u0631\u0648\u062d",
+            "ru": "\u041c\u0430\u0442\u0440\u0443\u0445",
+            "ur": "\u0645\u0637\u0631\u0648\u062d"
+        },
+        "extra": {
+            "wikidata": "Q30682",
+            "un_locode": null
+        }
+    }
+]

@@ -1,0 +1,3713 @@
+[
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": "CH-AG",
+        "osm_id": 1686359,
+        "osm_place_id": 282403638,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Aargau",
+        "name_eng": "Aargau",
+        "name_translations": {
+            "be": "\u0410\u0430\u0440\u0433\u0430\u045e",
+            "ca": "Arg\u00f2via",
+            "cs": "Argov",
+            "de": "Aargau",
+            "en": "Aargau",
+            "eo": "Argovio",
+            "es": "Argovia",
+            "fr": "Argovie",
+            "it": "Argovia",
+            "rm": "Argovia",
+            "ru": "\u0410\u0440\u0433\u0430\u0443",
+            "gsw": "Aargou"
+        },
+        "extra": {
+            "wikidata": "Q11972",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 2013131,
+        "osm_place_id": 282604079,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Albula",
+        "name_eng": "Albula",
+        "name_translations": {
+            "rm": "Regiun Alvra"
+        },
+        "extra": {
+            "wikidata": "Q21916797",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1701322,
+        "osm_place_id": 282236292,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Amtei Bucheggberg-Wasseramt",
+        "name_eng": "Amtei Bucheggberg-Wasseramt",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q998044",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1701323,
+        "osm_place_id": 282191457,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Amtei Dorneck-Thierstein",
+        "name_eng": "Amtei Dorneck-Thierstein",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1245681",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1701324,
+        "osm_place_id": 282283814,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Amtei Olten-G\u00f6sgen",
+        "name_eng": "Amtei Olten-G\u00f6sgen",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2021295",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1701325,
+        "osm_place_id": 282245007,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Amtei Solothurn-Lebern",
+        "name_eng": "Amtei Solothurn-Lebern",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2299305",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1701326,
+        "osm_place_id": 282271649,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Amtei Thal-G\u00e4u",
+        "name_eng": "Amtei Thal-G\u00e4u",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2408658",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 6206601,
+        "osm_place_id": 282712396,
+        "osm_admin_level": 6,
+        "osm_type": "historic",
+        "name_loc": "Ancien district d'Aubonne",
+        "name_eng": "Ancien district d'Aubonne",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 6205091,
+        "osm_place_id": 283052738,
+        "osm_admin_level": 6,
+        "osm_type": "historic",
+        "name_loc": "Ancien district d'Avenches",
+        "name_eng": "Ancien district d'Avenches",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 6205021,
+        "osm_place_id": 282712483,
+        "osm_admin_level": 6,
+        "osm_type": "historic",
+        "name_loc": "Ancien district d'Oron",
+        "name_eng": "Ancien district d'Oron",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 6205152,
+        "osm_place_id": 283011061,
+        "osm_admin_level": 6,
+        "osm_type": "historic",
+        "name_loc": "Ancien district d'Yverdon",
+        "name_eng": "Ancien district d'Yverdon",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 6206567,
+        "osm_place_id": 283065395,
+        "osm_admin_level": 6,
+        "osm_type": "historic",
+        "name_loc": "Ancien district de Cossonay",
+        "name_eng": "Ancien district de Cossonay",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 6205170,
+        "osm_place_id": 282734699,
+        "osm_admin_level": 6,
+        "osm_type": "historic",
+        "name_loc": "Ancien district de Grandson",
+        "name_eng": "Ancien district de Grandson",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 6205346,
+        "osm_place_id": 282789355,
+        "osm_admin_level": 6,
+        "osm_type": "historic",
+        "name_loc": "Ancien district de la Vall\u00e9e de Joux",
+        "name_eng": "Ancien district de la Vall\u00e9e de Joux",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 6205453,
+        "osm_place_id": 282739482,
+        "osm_admin_level": 6,
+        "osm_type": "historic",
+        "name_loc": "Ancien district de Lausanne",
+        "name_eng": "Ancien district de Lausanne",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 6710941,
+        "osm_place_id": 282773929,
+        "osm_admin_level": 6,
+        "osm_type": "historic",
+        "name_loc": "Ancien district de Lavaux",
+        "name_eng": "Ancien district de Lavaux",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 6206602,
+        "osm_place_id": 282712818,
+        "osm_admin_level": 6,
+        "osm_type": "historic",
+        "name_loc": "Ancien district de Morges",
+        "name_eng": "Ancien district de Morges",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 6205057,
+        "osm_place_id": 282717694,
+        "osm_admin_level": 6,
+        "osm_type": "historic",
+        "name_loc": "Ancien district de Moudon",
+        "name_eng": "Ancien district de Moudon",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 6206616,
+        "osm_place_id": 282767141,
+        "osm_admin_level": 6,
+        "osm_type": "historic",
+        "name_loc": "Ancien district de Nyon",
+        "name_eng": "Ancien district de Nyon",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 6205085,
+        "osm_place_id": 282712888,
+        "osm_admin_level": 6,
+        "osm_type": "historic",
+        "name_loc": "Ancien district de Payerne",
+        "name_eng": "Ancien district de Payerne",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 6206610,
+        "osm_place_id": 283053050,
+        "osm_admin_level": 6,
+        "osm_type": "historic",
+        "name_loc": "Ancien district de Rolle",
+        "name_eng": "Ancien district de Rolle",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 6204946,
+        "osm_place_id": 283182557,
+        "osm_admin_level": 6,
+        "osm_type": "historic",
+        "name_loc": "Ancien district de Vevey",
+        "name_eng": "Ancien district de Vevey",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 6204950,
+        "osm_place_id": 282913640,
+        "osm_admin_level": 6,
+        "osm_type": "historic",
+        "name_loc": "Ancien district du Pays-d'Enhaut",
+        "name_eng": "Ancien district du Pays-d'Enhaut",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": "CH-AR",
+        "osm_id": 1686649,
+        "osm_place_id": 282183894,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Appenzell Ausserrhoden",
+        "name_eng": "Appenzell Ausserrhoden",
+        "name_translations": {
+            "be": "\u0410\u043f\u0435\u043d\u0446\u044d\u043b\u044c \u2014 \u0410\u045e\u0441\u0435\u0440\u0440\u043e\u0434\u044d\u043d",
+            "ca": "Appenzell Ausser-Rhoden",
+            "de": "Appenzell Ausserrhoden",
+            "en": "Appenzell Ausserrhoden",
+            "eo": "Apencelo Ekstera",
+            "es": "Appenzell Rodas Exteriores",
+            "fr": "Appenzell Rhodes-Ext\u00e9rieures",
+            "it": "Appenzello Esterno",
+            "lt": "Apencelis-Auserodenas",
+            "rm": "Appenzell Dadora",
+            "ru": "\u0410\u043f\u043f\u0435\u043d\u0446\u0435\u043b\u043b\u044c-\u0410\u0443\u0441\u0435\u0440\u0440\u043e\u0434\u0435\u043d",
+            "gsw": "Appezell Usserrhode"
+        },
+        "extra": {
+            "wikidata": "Q12079",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": "CH-AI",
+        "osm_id": 1686666,
+        "osm_place_id": 282406372,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Appenzell Innerrhoden",
+        "name_eng": "Appenzell Innerrhoden",
+        "name_translations": {
+            "be": "\u0410\u043f\u0435\u043d\u0446\u044d\u043b\u044c \u2014 \u0406\u043d\u0435\u0440\u0440\u043e\u0434\u044d\u043d",
+            "ca": "Appenzell Inner-Rhoden",
+            "de": "Appenzell Innerrhoden",
+            "en": "Appenzell Innerrhoden",
+            "eo": "Apencelo Interna",
+            "es": "Appenzell Rodas Interiores",
+            "fr": "Appenzell Rhodes-Int\u00e9rieures",
+            "it": "Appenzello Interno",
+            "lt": "Apencelis-Inerodenas",
+            "rm": "Appenzell Dadens",
+            "ru": "\u0410\u043f\u043f\u0435\u043d\u0446\u0435\u043b\u043b\u044c-\u0418\u043d\u043d\u0435\u0440\u0440\u043e\u0434\u0435\u043d",
+            "gsw": "Appezell Innerrhode"
+        },
+        "extra": {
+            "wikidata": "Q12094",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1684807,
+        "osm_place_id": 282182810,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Arrondissement administratif du Jura bernois",
+        "name_eng": "Bernese Jura administrative district",
+        "name_translations": {
+            "de": "Verwaltungskreis Berner Jura",
+            "en": "Bernese Jura administrative district"
+        },
+        "extra": {
+            "wikidata": "Q535897",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1686366,
+        "osm_place_id": 282227537,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Basel-Landschaft",
+        "name_eng": "Basel-Country",
+        "name_translations": {
+            "be": "\u0411\u0430\u0437\u0435\u043b\u044c-\u041b\u0430\u043d\u0434",
+            "ca": "Basilea-Camp",
+            "de": "Basel-Landschaft",
+            "eo": "Bazelo Kampara",
+            "es": "Basilea-Campi\u00f1a",
+            "fr": "B\u00e2le-Campagne",
+            "it": "Basilea Campagna",
+            "nl": "Bazel-Land",
+            "rm": "Basilea-Champagna",
+            "ru": "\u0411\u0430\u0437\u0435\u043b\u044c-\u041b\u0430\u043d\u0434",
+            "sk": "Bazilej - vidiek"
+        },
+        "extra": {
+            "wikidata": "Q12146",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": "CH-BS",
+        "osm_id": 1699639,
+        "osm_place_id": 282193801,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Basel-Stadt",
+        "name_eng": "Basel-City",
+        "name_translations": {
+            "ar": "\u0645\u062f\u064a\u0646\u0629 \u0628\u0627\u0632\u0644",
+            "be": "\u0411\u0430\u0437\u0435\u043b\u044c-\u0428\u0442\u0430\u0442",
+            "ca": "Basilea-Ciutat",
+            "de": "Basel-Stadt",
+            "en": "Basel-City",
+            "eo": "Bazelo",
+            "es": "Basilea-Ciudad",
+            "fr": "B\u00e2le-Ville",
+            "it": "Basilea Citt\u00e0",
+            "lt": "Bazelis",
+            "nl": "Bazel-Stad",
+            "rm": "Basilea-Citad",
+            "ru": "\u0411\u0430\u0437\u0435\u043b\u044c-\u0428\u0442\u0430\u0434\u0442",
+            "sk": "Bazilej - mesto"
+        },
+        "extra": {
+            "wikidata": "Q12172",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1686344,
+        "osm_place_id": 282450247,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Bern\/Berne",
+        "name_eng": "Bern",
+        "name_translations": {
+            "am": "\u1264\u122d\u1295",
+            "an": "Berna",
+            "ar": "\u0628\u0631\u0646",
+            "be": "\u0411\u0435\u0440\u043d",
+            "bg": "\u0411\u0435\u0440\u043d",
+            "bn": "\u09ac\u09c7\u09b0\u09cd\u09a8",
+            "bo": "\u0f54\u0f7c\u0f62\u0f0b\u0f53\u0f72",
+            "br": "Bern",
+            "ca": "Berna",
+            "cs": "Bern",
+            "cv": "\u0411\u0435\u0440\u043d",
+            "de": "Bern",
+            "el": "\u0392\u03ad\u03c1\u03bd\u03b7",
+            "en": "Bern",
+            "eo": "Berno",
+            "es": "Berna",
+            "eu": "Berna",
+            "fa": "\u0628\u0631\u0646",
+            "fr": "Berne",
+            "gd": "Berne",
+            "gl": "Berna",
+            "gv": "Berne",
+            "he": "\u05d1\u05e8\u05df",
+            "hi": "\u092c\u0930\u094d\u0928",
+            "ht": "B\u00e8n",
+            "hy": "\u0532\u0565\u057c\u0576",
+            "is": "Bern",
+            "it": "Berna",
+            "ja": "\u30d9\u30eb\u30f3",
+            "ka": "\u10d1\u10d4\u10e0\u10dc\u10d8",
+            "ko": "\ubca0\ub978",
+            "ks": "\u0628\u0631\u0646",
+            "la": "Berna",
+            "lt": "Bernas",
+            "lv": "Berne",
+            "mk": "\u0411\u0435\u0440\u043d",
+            "ml": "\u0d2c\u0d47\u0d23\u0d4d",
+            "mr": "\u092c\u0930\u094d\u0928",
+            "oc": "B\u00e8rna",
+            "os": "\u0411\u0435\u0440\u043d",
+            "pl": "Berno",
+            "ps": "\u0628\u0631\u0646",
+            "pt": "Berna",
+            "rm": "Berna",
+            "ro": "Berna",
+            "ru": "\u0411\u0435\u0440\u043d",
+            "sk": "Bern",
+            "sq": "Berni",
+            "sr": "\u0411\u0435\u0440\u043d",
+            "tg": "\u0411\u0435\u0440\u043d",
+            "th": "\u0e40\u0e1a\u0e34\u0e23\u0e4c\u0e19",
+            "tt": "\u0411\u0435\u0440\u043d",
+            "ug": "\u0628\u06d0\u0631\u0646",
+            "uk": "\u0411\u0435\u0440\u043d",
+            "ur": "\u0628\u0631\u0646",
+            "yi": "\u05d1\u05e2\u05e8\u05df",
+            "zh": "\u4f2f\u5c14\u5c3c \/ \u4f2f\u6069 \/ \u4f2f\u723e\u5c3c",
+            "arc": "\u0712\u072a\u0722",
+            "ast": "Berna",
+            "azb": "\u0628\u0631\u0646",
+            "ckb": "\u0628\u06ce\u0631\u0646",
+            "frp": "B\u00e8rna",
+            "fur": "Berna",
+            "gsw": "B\u00e4rn",
+            "kmr": "\u0628\u06d5\u0631\u0646",
+            "lij": "Berna",
+            "lmo": "Berna",
+            "lrc": "\u0628\u0631\u0646",
+            "lzh": "\u4f2f\u6069",
+            "nah": "Berna",
+            "ota": "\u0628\u0631\u0646",
+            "pdc": "Bann",
+            "pms": "Berna",
+            "pnb": "\u0628\u0631\u0646",
+            "scn": "Berna",
+            "vec": "Berna",
+            "wuu": "\u529e\u5408\u7eb3",
+            "zh-HK": "\u4f2f\u723e\u5c3c",
+            "zh-TW": "\u4f2f\u6069",
+            "kk-Arab": "\u0628\u06d5\u0631\u0646",
+            "ku-Arab": "\u0628\u06d5\u0631\u0646",
+            "zh-Hans": "\u4f2f\u5c14\u5c3c",
+            "zh-Hant": "\u4f2f\u6069 \/ \u4f2f\u723e\u5c3c",
+            "kab-Arab": "\u0628\u064a\u0631\u0646"
+        },
+        "extra": {
+            "wikidata": "Q11911",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 2013172,
+        "osm_place_id": 282235738,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Bernina",
+        "name_eng": "Bernina",
+        "name_translations": {
+            "ru": "Regiun Bernina"
+        },
+        "extra": {
+            "wikidata": "Q23013963",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1685564,
+        "osm_place_id": 282181925,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Bezirk Aarau",
+        "name_eng": "Bezirk Aarau",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q121410",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1691005,
+        "osm_place_id": 282628497,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Bezirk Affoltern",
+        "name_eng": "Bezirk Affoltern",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q656635",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1691254,
+        "osm_place_id": 282407760,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Bezirk Andelfingen",
+        "name_eng": "Bezirk Andelfingen",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q660721",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1845517,
+        "osm_place_id": 282246127,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Bezirk Arbon",
+        "name_eng": "Bezirk Arbon",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q546803",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1684487,
+        "osm_place_id": 282725468,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Bezirk Arlesheim",
+        "name_eng": "Bezirk Arlesheim",
+        "name_translations": {
+            "ru": "\u0410\u0440\u043b\u0435\u0441\u0445\u0430\u0439\u043c"
+        },
+        "extra": {
+            "wikidata": "Q688961",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1685438,
+        "osm_place_id": 282181789,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Bezirk Baden",
+        "name_eng": "Bezirk Baden",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q659597",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1685439,
+        "osm_place_id": 282332167,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Bezirk Bremgarten",
+        "name_eng": "Bezirk Bremgarten",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q598525",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1685440,
+        "osm_place_id": 282181780,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Bezirk Brugg",
+        "name_eng": "Bezirk Brugg",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q658994",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1701206,
+        "osm_place_id": 282185534,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Bezirk Bucheggberg",
+        "name_eng": "Bezirk Bucheggberg",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q660846",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1691279,
+        "osm_place_id": 282191757,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Bezirk B\u00fclach",
+        "name_eng": "Bezirk B\u00fclach",
+        "name_translations": {
+            "de": "Bezirk B\u00fclach",
+            "ru": "\u0411\u044e\u043b\u0430\u0445"
+        },
+        "extra": {
+            "wikidata": "Q680996",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1691293,
+        "osm_place_id": 282501767,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Bezirk Dielsdorf",
+        "name_eng": "Bezirk Dielsdorf",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q660407",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1691473,
+        "osm_place_id": 282441711,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Bezirk Dietikon",
+        "name_eng": "Bezirk Dietikon",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q180792",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1701228,
+        "osm_place_id": 282194820,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Bezirk Dorneck",
+        "name_eng": "Bezirk Dorneck",
+        "name_translations": {
+            "ru": "\u0414\u043e\u0440\u043d\u0435\u043a"
+        },
+        "extra": {
+            "wikidata": "Q660275",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1836567,
+        "osm_place_id": 282282041,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Bezirk Frauenfeld",
+        "name_eng": "Bezirk Frauenfeld",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q660546",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1701231,
+        "osm_place_id": 282285238,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Bezirk G\u00e4u",
+        "name_eng": "Bezirk G\u00e4u",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q660290",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1701238,
+        "osm_place_id": 282442980,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Bezirk G\u00f6sgen",
+        "name_eng": "Bezirk G\u00f6sgen",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q660753",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1691158,
+        "osm_place_id": 282272063,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Bezirk Hinwil",
+        "name_eng": "Bezirk Hinwil",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q660382",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1691046,
+        "osm_place_id": 282190754,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Bezirk Horgen",
+        "name_eng": "Bezirk Horgen",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q660579",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1836631,
+        "osm_place_id": 282319571,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Bezirk Kreuzlingen",
+        "name_eng": "Bezirk Kreuzlingen",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q660450",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1685565,
+        "osm_place_id": 282192424,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Bezirk Kulm",
+        "name_eng": "Bezirk Kulm",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q659715",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1684494,
+        "osm_place_id": 282201337,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Bezirk Laufen",
+        "name_eng": "Bezirk Laufen",
+        "name_translations": {
+            "ru": "\u041b\u0430\u0443\u0444\u0435\u043d"
+        },
+        "extra": {
+            "wikidata": "Q113474",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1685441,
+        "osm_place_id": 282192308,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Bezirk Laufenburg",
+        "name_eng": "Bezirk Laufenburg",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q533676",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1701264,
+        "osm_place_id": 282273137,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Bezirk Lebern",
+        "name_eng": "Bezirk Lebern",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q661119",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1685566,
+        "osm_place_id": 282262728,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Bezirk Lenzburg",
+        "name_eng": "Bezirk Lenzburg",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q659293",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1684250,
+        "osm_place_id": 282439449,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Bezirk Liestal",
+        "name_eng": "Bezirk Liestal",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q659800",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1691150,
+        "osm_place_id": 282517749,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Bezirk Meilen",
+        "name_eng": "Bezirk Meilen",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q656714",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1835279,
+        "osm_place_id": 282650865,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Bezirk M\u00fcnchwilen",
+        "name_eng": "Bezirk M\u00fcnchwilen",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q182001",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1685442,
+        "osm_place_id": 282262565,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Bezirk Muri",
+        "name_eng": "Bezirk Muri",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q656740",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1875019,
+        "osm_place_id": 282297617,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Bezirk Oberklettgau",
+        "name_eng": "Bezirk Oberklettgau",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q853912",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1701276,
+        "osm_place_id": 282191981,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Bezirk Olten",
+        "name_eng": "Bezirk Olten",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q660133",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1691224,
+        "osm_place_id": 282184399,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Bezirk Pf\u00e4ffikon",
+        "name_eng": "Bezirk Pf\u00e4ffikon",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q660395",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1685567,
+        "osm_place_id": 282182150,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Bezirk Rheinfelden",
+        "name_eng": "Bezirk Rheinfelden",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q854013",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1684477,
+        "osm_place_id": 282180879,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Bezirk Sissach",
+        "name_eng": "Bezirk Sissach",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q660249",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1701280,
+        "osm_place_id": 282335173,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Bezirk Solothurn",
+        "name_eng": "Bezirk Solothurn",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q494663",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1701283,
+        "osm_place_id": 282264584,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Bezirk Thal",
+        "name_eng": "Bezirk Thal",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q598278",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1701287,
+        "osm_place_id": 282521588,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Bezirk Thierstein",
+        "name_eng": "Bezirk Thierstein",
+        "name_translations": {
+            "ru": "\u0422\u0438\u0440\u0448\u0442\u0430\u0439\u043d"
+        },
+        "extra": {
+            "wikidata": "Q854081",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1874920,
+        "osm_place_id": 282750416,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Bezirk Unterklettgau",
+        "name_eng": "Bezirk Unterklettgau",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q854069",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1691171,
+        "osm_place_id": 282228039,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Bezirk Uster",
+        "name_eng": "Bezirk Uster",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q262156",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1684478,
+        "osm_place_id": 282331350,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Bezirk Waldenburg",
+        "name_eng": "Bezirk Waldenburg",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q598365",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1701301,
+        "osm_place_id": 282405522,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Bezirk Wasseramt",
+        "name_eng": "Bezirk Wasseramt",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q660262",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1854100,
+        "osm_place_id": 282423009,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Bezirk Weinfelden",
+        "name_eng": "Bezirk Weinfelden",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q175071",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1691239,
+        "osm_place_id": 282263502,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Bezirk Winterthur",
+        "name_eng": "Bezirk Winterthur",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q644300",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1685568,
+        "osm_place_id": 282277757,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Bezirk Zofingen",
+        "name_eng": "Bezirk Zofingen",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q659332",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1690941,
+        "osm_place_id": 282271742,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Bezirk Z\u00fcrich",
+        "name_eng": "District Zurich",
+        "name_translations": {
+            "ca": "Districte de Zuric",
+            "de": "Bezirk Z\u00fcrich",
+            "en": "District Zurich",
+            "fr": "District de Zurich",
+            "it": "Distretto di Zurigo"
+        },
+        "extra": {
+            "wikidata": "Q660732",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1685443,
+        "osm_place_id": 282182037,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Bezirk Zurzach",
+        "name_eng": "Bezirk Zurzach",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q659309",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1686700,
+        "osm_place_id": 282403188,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Brig",
+        "name_eng": "Brig",
+        "name_translations": {
+            "fr": "Brigue"
+        },
+        "extra": {
+            "wikidata": "Q659687",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1686704,
+        "osm_place_id": 282224071,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Conthey",
+        "name_eng": "Conthey",
+        "name_translations": {
+            "de": "Gundis",
+            "fr": "Conthey"
+        },
+        "extra": {
+            "wikidata": "Q660562",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1688231,
+        "osm_place_id": 282192646,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Distretto di Bellinzona",
+        "name_eng": "Distretto di Bellinzona",
+        "name_translations": {
+            "de": "Bezirk Bellinzona",
+            "fr": "District de Bellinzone",
+            "it": "Distretto di Bellinzona",
+            "rm": "District Bellinzona",
+            "ru": "\u0411\u0435\u043b\u043b\u0438\u043d\u0446\u043e\u043d\u0430"
+        },
+        "extra": {
+            "wikidata": "Q206164",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1688254,
+        "osm_place_id": 282224899,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Distretto di Blenio",
+        "name_eng": "Distretto di Blenio",
+        "name_translations": {
+            "de": "Bezirk Blenio",
+            "fr": "District de Blenio",
+            "it": "Distretto di Blenio",
+            "rm": "District da Blenio"
+        },
+        "extra": {
+            "wikidata": "Q660533",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1688290,
+        "osm_place_id": 282179927,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Distretto di Leventina",
+        "name_eng": "Distretto di Leventina",
+        "name_translations": {
+            "de": "Bezirk Leventina",
+            "fr": "District de L\u00e9ventine",
+            "it": "Distretto di Leventina",
+            "rm": "District Leventina",
+            "ru": "\u041b\u0435\u0432\u0435\u043d\u0442\u0438\u043d\u0430"
+        },
+        "extra": {
+            "wikidata": "Q539271",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1688679,
+        "osm_place_id": 282164295,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Distretto di Locarno",
+        "name_eng": "Distretto di Locarno",
+        "name_translations": {
+            "de": "Bezirk Locarno",
+            "fr": "District de Locarno",
+            "it": "Distretto di Locarno",
+            "rm": "District Locarno",
+            "ru": "\u041b\u043e\u043a\u0430\u0440\u043d\u043e"
+        },
+        "extra": {
+            "wikidata": "Q660653",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1688750,
+        "osm_place_id": 282221746,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Distretto di Lugano",
+        "name_eng": "Distretto di Lugano",
+        "name_translations": {
+            "de": "Bezirk Lugano",
+            "fr": "District de Lugano",
+            "it": "Distretto di Lugano",
+            "rm": "District da Lugano",
+            "ru": "\u041b\u0443\u0433\u0430\u043d\u043e"
+        },
+        "extra": {
+            "wikidata": "Q660612",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1688759,
+        "osm_place_id": 282260980,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Distretto di Mendrisio",
+        "name_eng": "Distretto di Mendrisio",
+        "name_translations": {
+            "de": "Bezirk Mendrisio",
+            "fr": "District de Mendrisio",
+            "it": "Distretto di Mendrisio",
+            "rm": "District da Mendrisio",
+            "ru": "\u041c\u0435\u043d\u0434\u0440\u0438\u0437\u0438\u043e"
+        },
+        "extra": {
+            "wikidata": "Q869646",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1688769,
+        "osm_place_id": 282281110,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Distretto di Riviera",
+        "name_eng": "Distretto di Riviera",
+        "name_translations": {
+            "de": "Bezirk Mendrisio",
+            "fr": "District de Riviera",
+            "it": "Distretto di Riviera",
+            "rm": "District da Riviera"
+        },
+        "extra": {
+            "wikidata": "Q659663",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1688773,
+        "osm_place_id": 282623237,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Distretto di Vallemaggia",
+        "name_eng": "Distretto di Vallemaggia",
+        "name_translations": {
+            "de": "Bezirk Mendrisio",
+            "fr": "District de Vallemaggia",
+            "it": "Distretto di Vallemaggia",
+            "rm": "District da Vallemaggia",
+            "ru": "\u0412\u0430\u043b\u043b\u0435\u043c\u0430\u0434\u0436\u0430"
+        },
+        "extra": {
+            "wikidata": "Q660418",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 365577,
+        "osm_place_id": 282000846,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "District d'Aigle",
+        "name_eng": "District d'Aigle",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q647923",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1689425,
+        "osm_place_id": 282407311,
+        "osm_admin_level": 6,
+        "osm_type": "historic",
+        "name_loc": "District de Boudry",
+        "name_eng": "District de Boudry",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q661133",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1697465,
+        "osm_place_id": 282184884,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "District de Del\u00e9mont",
+        "name_eng": "District de Del\u00e9mont",
+        "name_translations": {
+            "de": "Bezirk Delsberg",
+            "ru": "\u043e\u0431\u0449\u0438\u043d\u0430 \u0414\u0435\u043b\u0435\u043c\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q659702",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 365554,
+        "osm_place_id": 281942397,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "District de l'Ouest lausannois",
+        "name_eng": "District de l'Ouest lausannois",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q666343",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1698881,
+        "osm_place_id": 282185135,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "District de la Broye",
+        "name_eng": "District de la Broye",
+        "name_translations": {
+            "de": "Broye Bezirk",
+            "fr": "District de la Broye"
+        },
+        "extra": {
+            "wikidata": "Q660600",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 373332,
+        "osm_place_id": 281949773,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "District de la Broye-Vully",
+        "name_eng": "District de la Broye-Vully",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q495882",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1689426,
+        "osm_place_id": 282183997,
+        "osm_admin_level": 6,
+        "osm_type": "historic",
+        "name_loc": "District de La Chaux-de-Fonds",
+        "name_eng": "District de La Chaux-de-Fonds",
+        "name_translations": {
+            "ru": "\u043e\u0431\u0449\u0438\u043d\u0430 \u041b\u0430-\u0428\u043e-\u0434\u0435-\u0424\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q661152",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1698882,
+        "osm_place_id": 282442854,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "District de la Gl\u00e2ne",
+        "name_eng": "District de la Gl\u00e2ne",
+        "name_translations": {
+            "de": "Glanebezirk",
+            "fr": "District de la Gl\u00e2ne"
+        },
+        "extra": {
+            "wikidata": "Q660374",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1698883,
+        "osm_place_id": 282405393,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "District de la Gruy\u00e8re",
+        "name_eng": "Gruy\u00e8re District",
+        "name_translations": {
+            "de": "Greyerzbezirk",
+            "en": "Gruy\u00e8re District",
+            "fr": "District de la Gruy\u00e8re",
+            "ru": "\u041e\u043a\u0440\u0443\u0433 \u0413\u0440\u044e\u0439\u0435\u0440"
+        },
+        "extra": {
+            "wikidata": "Q388306",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 365576,
+        "osm_place_id": 282019479,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "District de la Riviera-Pays-d\u2019Enhaut",
+        "name_eng": "District de la Riviera-Pays-d\u2019Enhaut",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q665689",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1698884,
+        "osm_place_id": 282561320,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "District de la Sarine",
+        "name_eng": "Sarine District",
+        "name_translations": {
+            "af": "Saanebezirk",
+            "en": "Sarine District",
+            "fr": "District de la Sarine",
+            "it": "Distretto della Sarine"
+        },
+        "extra": {
+            "wikidata": "Q660688",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1699155,
+        "osm_place_id": 282246383,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "District de la Veveyse",
+        "name_eng": "District de la Veveyse",
+        "name_translations": {
+            "de": "Vivisbachbezirk",
+            "fr": "District de la Veveyse",
+            "it": "Distretto della Veveyse"
+        },
+        "extra": {
+            "wikidata": "Q25841",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 365551,
+        "osm_place_id": 281944177,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "District de Lausanne",
+        "name_eng": "District de Lausanne",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q660628",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 365552,
+        "osm_place_id": 282184419,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "District de Lavaux-Oron",
+        "name_eng": "District de Lavaux-Oron",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q660985",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 373333,
+        "osm_place_id": 282185735,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "District de Morges",
+        "name_eng": "District de Morges",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q660462",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1689427,
+        "osm_place_id": 282441575,
+        "osm_admin_level": 6,
+        "osm_type": "historic",
+        "name_loc": "District de Neuch\u00e2tel",
+        "name_eng": "District de Neuch\u00e2tel",
+        "name_translations": {
+            "de": "Bezirk Neuenburg",
+            "it": "Distretto di Neuch\u00e2tel"
+        },
+        "extra": {
+            "wikidata": "Q511990",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 365575,
+        "osm_place_id": 282045344,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "District de Nyon",
+        "name_eng": "District de Nyon",
+        "name_translations": {
+            "fr": "District de Nyon",
+            "ru": "\u043e\u043a\u0440\u0443\u0433 \u041d\u044c\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q675501",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1697529,
+        "osm_place_id": 282334929,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "District de Porrentruy",
+        "name_eng": "District de Porrentruy",
+        "name_translations": {
+            "de": "Bezirk Pruntrut",
+            "ru": "\u043e\u0431\u0449\u0438\u043d\u0430 \u041f\u043e\u0440\u0440\u0435\u043d\u0442\u0440\u044e"
+        },
+        "extra": {
+            "wikidata": "Q659764",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1697530,
+        "osm_place_id": 282184835,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "District des Franches-Montagnes",
+        "name_eng": "District des Franches-Montagnes",
+        "name_translations": {
+            "de": "Freiberge",
+            "fr": "District des Franches-Montagnes",
+            "ru": "\u043e\u0431\u0449\u0438\u043d\u0430 \u0424\u0440\u0430\u043d\u0448-\u041c\u043e\u043d\u0442\u0430\u043d\u044c",
+            "gsw": "Dichtrict des Fraintches-Montaignes"
+        },
+        "extra": {
+            "wikidata": "Q167627",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 373331,
+        "osm_place_id": 281938442,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "District du Gros-de-Vaud",
+        "name_eng": "District du Gros-de-Vaud",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q681215",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 373330,
+        "osm_place_id": 281977381,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "District du Jura-Nord vaudois",
+        "name_eng": "District du Jura-Nord vaudois",
+        "name_translations": {
+            "ru": "\u043e\u043a\u0440\u0443\u0433 \u0416\u044e\u0440\u0430-\u0421\u0435\u0432\u0435\u0440\u043d\u0430\u044f \u0412\u043e\u0434\u0443\u0430"
+        },
+        "extra": {
+            "wikidata": "Q660762",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1689428,
+        "osm_place_id": 282404251,
+        "osm_admin_level": 6,
+        "osm_type": "historic",
+        "name_loc": "District du Locle",
+        "name_eng": "District du Locle",
+        "name_translations": {
+            "ru": "\u043e\u0431\u0449\u0438\u043d\u0430 \u041b\u0435-\u041b\u043e\u043a\u043b\u044c"
+        },
+        "extra": {
+            "wikidata": "Q138960",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1689429,
+        "osm_place_id": 282560537,
+        "osm_admin_level": 6,
+        "osm_type": "historic",
+        "name_loc": "District du Val-de-Ruz",
+        "name_eng": "District du Val-de-Ruz",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q661256",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1689430,
+        "osm_place_id": 282248052,
+        "osm_admin_level": 6,
+        "osm_type": "historic",
+        "name_loc": "District du Val-de-Travers",
+        "name_eng": "District du Val-de-Travers",
+        "name_translations": {
+            "ru": "\u043e\u0431\u0449\u0438\u043d\u0430 \u0412\u0430\u043b-\u0434\u0435-\u0422\u0440\u0430\u0432\u0435\u0440"
+        },
+        "extra": {
+            "wikidata": "Q648339",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1688584,
+        "osm_place_id": 282244828,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Einsiedeln",
+        "name_eng": "Einsiedeln",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q74874",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1686701,
+        "osm_place_id": 282560315,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Entremont",
+        "name_eng": "Entremont",
+        "name_translations": {
+            "ru": "\u042d\u043d\u0442\u0440\u0435\u043c\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q660495",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": "CH-FR",
+        "osm_id": 1698314,
+        "osm_place_id": 282193009,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Fribourg\/Freiburg",
+        "name_eng": "Fribourg",
+        "name_translations": {
+            "be": "\u0424\u0440\u044b\u0431\u0443\u0440",
+            "br": "Friboua",
+            "ca": "Cant\u00f3 de Friburg",
+            "de": "Freiburg",
+            "en": "Fribourg",
+            "eo": "Friburgo",
+            "es": "Friburgo",
+            "fr": "Fribourg",
+            "hr": "Kanton Fribourg",
+            "it": "Friburgo",
+            "pl": "Fryburg",
+            "rm": "Friburg",
+            "ru": "\u0424\u0440\u0438\u0431\u0443\u0440",
+            "frp": "Friboua"
+        },
+        "extra": {
+            "wikidata": "Q12640",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": "CH-GE",
+        "osm_id": 1702419,
+        "osm_place_id": 282250030,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Gen\u00e8ve",
+        "name_eng": "Geneva",
+        "name_translations": {
+            "an": "Chinebra",
+            "ar": "\u062c\u0646\u064a\u0641",
+            "az": "Cenevr\u0259",
+            "be": "\u0416\u044d\u043d\u0435\u0432\u0430",
+            "bg": "\u0416\u0435\u043d\u0435\u0432\u0430",
+            "bo": "\u0f62\u0f72\u0f0b\u0f53\u0f7c\u0f66\u0f0b\u0f5d",
+            "bs": "\u017deneva",
+            "ca": "Cant\u00f3 de Ginebra",
+            "cs": "\u017deneva",
+            "cy": "Genefa",
+            "da": "Geneve",
+            "de": "Genf",
+            "el": "\u0393\u03b5\u03bd\u03b5\u03cd\u03b7",
+            "en": "Geneva",
+            "eo": "\u011cenevo",
+            "es": "Ginebra",
+            "et": "Genf",
+            "eu": "Geneva",
+            "fa": "\u0698\u0646\u0648",
+            "fi": "Geneve",
+            "fr": "Gen\u00e8ve",
+            "gl": "Xenebra",
+            "he": "\u05d6'\u05e0\u05d1\u05d4",
+            "hu": "Genf",
+            "id": "Jenewa",
+            "it": "Ginevra",
+            "ja": "\u30b8\u30e5\u30cd\u30fc\u30f4",
+            "lv": "\u017den\u0113va",
+            "nl": "Gen\u00e8ve",
+            "pl": "Genewa",
+            "rm": "Genevra",
+            "ru": "\u0416\u0435\u043d\u0435\u0432\u0430",
+            "sd": "\u062c\u0646\u064a\u0648\u0627",
+            "sk": "\u017deneva",
+            "sl": "\u017deneva",
+            "sr": "\u0416\u0435\u043d\u0435\u0432\u0430",
+            "th": "\u0e40\u0e08\u0e19\u0e35\u0e27\u0e32",
+            "tr": "Cenevre",
+            "ur": "\u062c\u0646\u06cc\u0648\u0627",
+            "vi": "Gi\u01a1-ne-v\u01a1",
+            "zh": "\u65e5\u5167\u74e6",
+            "azb": "\u0698\u0646\u0648",
+            "pnb": "\u062c\u0646\u06cc\u0648\u0627",
+            "kk-Arab": "\u062c\u06d5\u0646\u06d5\u06c6\u0627",
+            "zh_pinyin": "R\u00ecn\u00e8iw\u01ce"
+        },
+        "extra": {
+            "wikidata": "Q11917",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1688585,
+        "osm_place_id": 282271486,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Gersau",
+        "name_eng": "Gersau",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q74826",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": "CH-GL",
+        "osm_id": 1685673,
+        "osm_place_id": 282626876,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Glarus",
+        "name_eng": "Glarus",
+        "name_translations": {
+            "be": "\u0413\u043b\u0430\u0440\u0443\u0441",
+            "ca": "Cant\u00f3 de Glarus",
+            "de": "Glarus",
+            "en": "Glarus",
+            "eo": "Glaruso",
+            "es": "Glaris",
+            "fr": "Glaris",
+            "it": "Glarona",
+            "rm": "Glaruna",
+            "ru": "\u0413\u043b\u0430\u0440\u0443\u0441"
+        },
+        "extra": {
+            "wikidata": "Q11922",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1686703,
+        "osm_place_id": 282219764,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Goms",
+        "name_eng": "Goms",
+        "name_translations": {
+            "fr": "Conches"
+        },
+        "extra": {
+            "wikidata": "Q660663",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": "CH-GR",
+        "osm_id": 1686631,
+        "osm_place_id": 282244551,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Graub\u00fcnden\/Grischun\/Grigioni",
+        "name_eng": "Grisons",
+        "name_translations": {
+            "ar": "\u063a\u0631\u0648\u0628\u0646\u062f\u0646",
+            "be": "\u0413\u0440\u0430\u045e\u0431\u044e\u043d\u0434\u044d\u043d",
+            "br": "Grischun",
+            "ca": "Grisons",
+            "de": "Graub\u00fcnden",
+            "en": "Grisons",
+            "eo": "Grizono",
+            "es": "Grisones",
+            "fr": "Grisons",
+            "it": "Grigioni",
+            "ja": "\u30b0\u30e9\u30a6\u30d3\u30e5\u30f3\u30c7\u30f3\u5dde",
+            "la": "Grisonia",
+            "lt": "Graubiundenas",
+            "nl": "Graub\u00fcnden",
+            "pl": "Gryzonia",
+            "pt": "Gris\u00f5es",
+            "rm": "Grischun",
+            "ru": "\u0413\u0440\u0430\u0443\u0431\u044e\u043d\u0434\u0435\u043d (\u0413\u0440\u0438\u0437\u043e\u043d)"
+        },
+        "extra": {
+            "wikidata": "Q11925",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1686702,
+        "osm_place_id": 282247272,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "H\u00e9rens",
+        "name_eng": "H\u00e9rens",
+        "name_translations": {
+            "de": "Ering"
+        },
+        "extra": {
+            "wikidata": "Q633980",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1686655,
+        "osm_place_id": 282517258,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Hinterland",
+        "name_eng": "Hinterland",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q853773",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1688586,
+        "osm_place_id": 282202622,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "H\u00f6fe",
+        "name_eng": "H\u00f6fe",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q74823",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 2018098,
+        "osm_place_id": 282232826,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Imboden",
+        "name_eng": "Imboden",
+        "name_translations": {
+            "rw": "Regiun Plaun"
+        },
+        "extra": {
+            "wikidata": "Q23013977",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": "CH-JU",
+        "osm_id": 1697347,
+        "osm_place_id": 282183397,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Jura",
+        "name_eng": "Jura",
+        "name_translations": {
+            "be": "\u042e\u0440\u0430",
+            "ca": "Jura",
+            "de": "Jura",
+            "en": "Jura",
+            "eo": "\u0134uraso",
+            "es": "Jura",
+            "fr": "Jura",
+            "it": "Giura",
+            "rm": "Giura",
+            "ru": "\u042e\u0440\u0430"
+        },
+        "extra": {
+            "wikidata": "Q12755",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 9366563,
+        "osm_place_id": 283338372,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Korporation Ursern",
+        "name_eng": "Korporation Ursern",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1688587,
+        "osm_place_id": 282627810,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "K\u00fcssnacht",
+        "name_eng": "K\u00fcssnacht",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q74831",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 2018280,
+        "osm_place_id": 282325234,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Landquart",
+        "name_eng": "Landquart",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q23013948",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1686705,
+        "osm_place_id": 282501239,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Leuk",
+        "name_eng": "Leuk",
+        "name_translations": {
+            "de": "Leuk",
+            "fr": "Lo\u00e8che"
+        },
+        "extra": {
+            "wikidata": "Q661326",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": "CH-LU",
+        "osm_id": 1685677,
+        "osm_place_id": 282403450,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Luzern",
+        "name_eng": "Lucerne",
+        "name_translations": {
+            "be": "\u041b\u044e\u0446\u044d\u0440\u043d",
+            "ca": "Cant\u00f3 de Lucerna",
+            "de": "Luzern",
+            "en": "Lucerne",
+            "eo": "Lucerno",
+            "es": "Lucerna",
+            "fr": "Lucerne",
+            "it": "Lucerna",
+            "ja": "\u30eb\u30c4\u30a7\u30eb\u30f3\u5dde",
+            "pl": "Lucerna",
+            "rm": "Lucerna",
+            "ru": "\u041b\u044e\u0446\u0435\u0440\u043d",
+            "gsw": "Loz\u00e4rn"
+        },
+        "extra": {
+            "wikidata": "Q12121",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 2018281,
+        "osm_place_id": 282554095,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Maloja",
+        "name_eng": "Maloja",
+        "name_translations": {
+            "ru": "\u041c\u0430\u043b\u043e\u044f"
+        },
+        "extra": {
+            "wikidata": "Q23732284",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1688588,
+        "osm_place_id": 282407251,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "March",
+        "name_eng": "March",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q74768",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1686706,
+        "osm_place_id": 282189951,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Martigny",
+        "name_eng": "Martigny",
+        "name_translations": {
+            "de": "Martinach",
+            "fr": "Martigny",
+            "ru": "\u041c\u0430\u0440\u0442\u0438\u043d\u044c\u0438"
+        },
+        "extra": {
+            "wikidata": "Q656949",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1686659,
+        "osm_place_id": 282235724,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Mittelland",
+        "name_eng": "Mittelland",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q853875",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1688767,
+        "osm_place_id": 282233020,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Mo\u00ebsa",
+        "name_eng": "Mo\u00ebsa",
+        "name_translations": {
+            "ru": "\u041c\u043e\u044d\u0437\u0430",
+            "rw": "Regiun Moesa"
+        },
+        "extra": {
+            "wikidata": "Q23013974",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1686707,
+        "osm_place_id": 282227192,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Monthey",
+        "name_eng": "Monthey",
+        "name_translations": {
+            "fr": "Monthey",
+            "ru": "\u041c\u043e\u043d\u0442\u0435"
+        },
+        "extra": {
+            "wikidata": "Q660517",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": "CH-NE",
+        "osm_id": 1702420,
+        "osm_place_id": 282223070,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Neuch\u00e2tel",
+        "name_eng": "Neuch\u00e2tel",
+        "name_translations": {
+            "be": "\u041d\u0451\u045e\u0448\u0430\u0442\u044d\u043b\u044c",
+            "ca": "Cant\u00f3 de Neuch\u00e2tel",
+            "de": "Neuenburg",
+            "en": "Neuch\u00e2tel",
+            "eo": "Ne\u016d\u015datelo",
+            "es": "Neuch\u00e2tel",
+            "et": "Neuch\u00e2teli kanton",
+            "fr": "Neuch\u00e2tel",
+            "it": "Neuch\u00e2tel",
+            "ja": "\u30cc\u30fc\u30b7\u30e3\u30c6\u30eb\u5dde",
+            "lt": "Ne\u0161atelis (Ne\u0161atelio kantonas)",
+            "rm": "Neuch\u00e2tel",
+            "ru": "\u041d\u0435\u0432\u0448\u0430\u0442\u0435\u043b\u044c"
+        },
+        "extra": {
+            "wikidata": "Q12738",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": "CH-NW",
+        "osm_id": 1686449,
+        "osm_place_id": 282406242,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Nidwalden",
+        "name_eng": "Nidwalden",
+        "name_translations": {
+            "be": "\u041d\u0456\u0434\u0432\u0430\u043b\u044c\u0434\u044d\u043d",
+            "ca": "Nidwalden",
+            "de": "Nidwalden",
+            "en": "Nidwalden",
+            "es": "Nidwalden",
+            "fr": "Nidwald",
+            "it": "Nidvaldo",
+            "rm": "Sutsilvania",
+            "ru": "\u041d\u0438\u0434\u0432\u0430\u043b\u044c\u0434\u0435\u043d"
+        },
+        "extra": {
+            "wikidata": "Q12592",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": "CH-OW",
+        "osm_id": 1686448,
+        "osm_place_id": 282625341,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Obwalden",
+        "name_eng": "Obwalden",
+        "name_translations": {
+            "be": "\u041e\u0431\u0432\u0430\u043b\u044c\u0434\u044d\u043d",
+            "ca": "Obwalden",
+            "de": "Obwalden",
+            "en": "Obwalden",
+            "eo": "Obvaldo",
+            "es": "Obwalden",
+            "fr": "Obwald",
+            "it": "Obvaldo",
+            "rm": "Sursilvania",
+            "ru": "\u041e\u0431\u0432\u0430\u043b\u044c\u0434\u0435\u043d",
+            "gsw": "Obwald\u00e4"
+        },
+        "extra": {
+            "wikidata": "Q12573",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1686698,
+        "osm_place_id": 282183538,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u00d6stlich Raron",
+        "name_eng": "\u00d6stlich Raron",
+        "name_translations": {
+            "fr": "Rarogne oriental"
+        },
+        "extra": {
+            "wikidata": "Q306887",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 2018282,
+        "osm_place_id": 282242199,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Plessur",
+        "name_eng": "Plessur",
+        "name_translations": {
+            "rw": "Regiun Plessur"
+        },
+        "extra": {
+            "wikidata": "Q23013973",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 2018283,
+        "osm_place_id": 282285479,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Pr\u00e4ttigau\/Davos",
+        "name_eng": "Pr\u00e4ttigau\/Davos",
+        "name_translations": {
+            "rw": "Regiun Partenz\/Tavau"
+        },
+        "extra": {
+            "wikidata": "Q23013976",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1684782,
+        "osm_place_id": 282223160,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "R\u00e9gion administrative du Jura bernois",
+        "name_eng": "Bernese Jura administrative region",
+        "name_translations": {
+            "de": "Verwaltungsregion Berner Jura",
+            "en": "Bernese Jura administrative region",
+            "it": "Circondario del Giura Bernese"
+        },
+        "extra": {
+            "wikidata": "Q636280",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 2018099,
+        "osm_place_id": 282230336,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Region Engiadina Bassa\/Val M\u00fcstair",
+        "name_eng": "Region Engiadina Bassa\/Val M\u00fcstair",
+        "name_translations": {
+            "de": "Region Unterengadin\/M\u00fcnstertal",
+            "it": "Regione Engiadina Bassa\/Val M\u00fcstair"
+        },
+        "extra": {
+            "wikidata": "Q23013965",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1686708,
+        "osm_place_id": 282182748,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Saint-Maurice",
+        "name_eng": "Saint-Maurice",
+        "name_translations": {
+            "de": "Sankt Moritz",
+            "ru": "\u0421\u0430\u043d\u043a\u0442-\u041c\u043e\u0440\u0438\u0446"
+        },
+        "extra": {
+            "wikidata": "Q176556",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": "CH-SG",
+        "osm_id": 1687006,
+        "osm_place_id": 282627468,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Sankt Gallen",
+        "name_eng": "St. Gallen",
+        "name_translations": {
+            "be": "\u0421\u0430\u043d\u043a\u0442-\u0413\u0430\u043b\u0435\u043d",
+            "ca": "Sankt Gallen",
+            "de": "Sankt Gallen",
+            "en": "St. Gallen",
+            "eo": "Sankt-Galo",
+            "es": "San Galo",
+            "fr": "Saint-Gall",
+            "hu": "Szentgallen",
+            "it": "San Gallo",
+            "ja": "\u30b6\u30f3\u30af\u30c8\u30fb\u30ac\u30ec\u30f3\u5dde",
+            "lt": "Sankt Galenas",
+            "rm": "Son Gagl",
+            "ru": "\u0421\u0430\u043d\u043a\u0442-\u0413\u0430\u043b\u043b\u0435\u043d",
+            "gsw": "San Galle"
+        },
+        "extra": {
+            "wikidata": "Q12746",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": "CH-SH",
+        "osm_id": 1696112,
+        "osm_place_id": 282727680,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Schaffhausen",
+        "name_eng": "Schaffhausen",
+        "name_translations": {
+            "be": "\u0428\u0430\u0444\u0445\u0430\u045e\u0437\u0435\u043d",
+            "ca": "Schaffhausen",
+            "de": "Schaffhausen",
+            "eo": "\u015cafha\u016dzo",
+            "es": "Escafusa",
+            "fr": "Schaffhouse",
+            "it": "Sciaffusa",
+            "lt": "\u0160afhauzenas (\u0160afhauzeno kantonas)",
+            "pl": "Szafuza",
+            "rm": "Schaffusa",
+            "ru": "\u0428\u0430\u0444\u0444\u0445\u0430\u0443\u0437\u0435\u043d"
+        },
+        "extra": {
+            "wikidata": "Q12697",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1688589,
+        "osm_place_id": 282183901,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Schwyz",
+        "name_eng": "Schwyz",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q74818",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": "CH-SZ",
+        "osm_id": 1688583,
+        "osm_place_id": 282283649,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Schwyz",
+        "name_eng": "Schwyz",
+        "name_translations": {
+            "be": "\u0428\u0432\u0456\u0446",
+            "ca": "Cant\u00f3 de Schwyz",
+            "de": "Schwyz",
+            "en": "Schwyz",
+            "eo": "\u015cvico",
+            "es": "Schwyz",
+            "fr": "Schwyz",
+            "it": "Svitto",
+            "ja": "\u30b7\u30e5\u30f4\u30a3\u30fc\u30c4\u5dde",
+            "lt": "\u0160vicas (\u0160vico kantonas)",
+            "rm": "Sviz",
+            "ru": "\u0428\u0432\u0438\u0446"
+        },
+        "extra": {
+            "wikidata": "Q12433",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1699156,
+        "osm_place_id": 282273524,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Seebezirk \/ District du Lac",
+        "name_eng": "See District",
+        "name_translations": {
+            "de": "Seebezirk",
+            "en": "See District",
+            "fr": "District du Lac",
+            "it": "Distretto di See"
+        },
+        "extra": {
+            "wikidata": "Q659778",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1699157,
+        "osm_place_id": 282203754,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Sensebezirk",
+        "name_eng": "Sensebezirk",
+        "name_translations": {
+            "de": "Sensebezirk",
+            "fr": "District de la Singine"
+        },
+        "extra": {
+            "wikidata": "Q645585",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1686709,
+        "osm_place_id": 282182016,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Sierre",
+        "name_eng": "Sierre",
+        "name_translations": {
+            "de": "Siders"
+        },
+        "extra": {
+            "wikidata": "Q651884",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1686710,
+        "osm_place_id": 282332420,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Sion",
+        "name_eng": "Sion",
+        "name_translations": {
+            "de": "Sitten"
+        },
+        "extra": {
+            "wikidata": "Q282169",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": "CH-SO",
+        "osm_id": 1701133,
+        "osm_place_id": 282196417,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Solothurn",
+        "name_eng": "Solothurn",
+        "name_translations": {
+            "be": "\u0417\u0430\u043b\u0430\u0442\u0443\u0440\u043d",
+            "ca": "Cant\u00f3 de Solothurn",
+            "de": "Solothurn",
+            "en": "Solothurn",
+            "eo": "Soloturno",
+            "es": "Soleura",
+            "fr": "Soleure",
+            "it": "Soletta",
+            "lt": "Zoloturnas",
+            "rm": "Soloturn",
+            "ru": "\u0417\u043e\u043b\u043e\u0442\u0443\u0440\u043d"
+        },
+        "extra": {
+            "wikidata": "Q11929",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 2018284,
+        "osm_place_id": 282232967,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Surselva",
+        "name_eng": "Surselva",
+        "name_translations": {
+            "rm": "Regiun Surselva"
+        },
+        "extra": {
+            "wikidata": "Q23013972",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": "CH-TG",
+        "osm_id": 1693811,
+        "osm_place_id": 282193109,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Thurgau",
+        "name_eng": "Thurgau",
+        "name_translations": {
+            "be": "\u0422\u0443\u0440\u0433\u0430\u045e",
+            "ca": "Turg\u00f2via",
+            "de": "Thurgau",
+            "en": "Thurgau",
+            "eo": "Turgovio",
+            "es": "Turgovia",
+            "fr": "Thurgovie",
+            "it": "Turgovia",
+            "la": "Turgovia",
+            "rm": "Turgovia",
+            "ru": "\u0422\u0443\u0440\u0433\u0430\u0443"
+        },
+        "extra": {
+            "wikidata": "Q12713",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": "CH-TI",
+        "osm_id": 1687730,
+        "osm_place_id": 282227761,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Ticino",
+        "name_eng": "Ticino",
+        "name_translations": {
+            "be": "\u0422\u044b\u0447\u044b\u043d\u0430",
+            "br": "Ticino",
+            "ca": "Tess\u00ed",
+            "de": "Tessin",
+            "en": "Ticino",
+            "eo": "Ti\u0109ino",
+            "es": "Tesino",
+            "fr": "Tessin",
+            "it": "Ticino",
+            "ja": "\u30c6\u30a3\u30c1\u30fc\u30ce\u5dde",
+            "lt": "Ti\u010dinas",
+            "pt": "Tessino",
+            "rm": "Tessin",
+            "ru": "\u0422\u0438\u0447\u0438\u043d\u043e"
+        },
+        "extra": {
+            "wikidata": "Q12724",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": "CH-UR",
+        "osm_id": 1693971,
+        "osm_place_id": 282520246,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Uri",
+        "name_eng": "Uri",
+        "name_translations": {
+            "be": "\u0423\u0440\u044b",
+            "ca": "Uri",
+            "de": "Uri",
+            "en": "Uri",
+            "eo": "Urio",
+            "es": "Uri",
+            "fr": "Uri",
+            "it": "Uri",
+            "ja": "\u30a6\u30fc\u30ea\u5dde",
+            "rm": "Uri",
+            "ru": "\u0423\u0440\u0438",
+            "zh": "\u70cf\u91cc\u5dde"
+        },
+        "extra": {
+            "wikidata": "Q12404",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": "CH-VS",
+        "osm_id": 1686699,
+        "osm_place_id": 282440981,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Valais\/Wallis",
+        "name_eng": "Wallis",
+        "name_translations": {
+            "be": "\u0412\u0430\u043b\u0435",
+            "ca": "Valais",
+            "de": "Wallis",
+            "en": "Wallis",
+            "eo": "Valezo",
+            "es": "Vall\u00e9s",
+            "fr": "Valais",
+            "it": "Vallese",
+            "ja": "\u30f4\u30a1\u30ec\u30fc",
+            "la": "Valesia",
+            "lt": "Val\u0117",
+            "rm": "Vallais",
+            "ru": "\u0412\u0430\u043b\u0435",
+            "frp": "Val\u00eas"
+        },
+        "extra": {
+            "wikidata": "Q834",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1702421,
+        "osm_place_id": 282227421,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Vaud",
+        "name_eng": "Vaud",
+        "name_translations": {
+            "ar": "\u0641\u0648\u062f",
+            "be": "\u0412\u043e",
+            "ca": "Vaud",
+            "de": "Waadt",
+            "en": "Vaud",
+            "eo": "Va\u016ddo",
+            "es": "Valdia",
+            "fr": "Vaud",
+            "it": "Vaud",
+            "lt": "Vo",
+            "nl": "Waadland",
+            "rm": "Vad",
+            "ru": "\u0412\u043e"
+        },
+        "extra": {
+            "wikidata": "Q12771",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1684821,
+        "osm_place_id": 282191796,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Verwaltungskreis Bern-Mittelland",
+        "name_eng": "Bern-Mittelland administrative district",
+        "name_translations": {
+            "en": "Bern-Mittelland administrative district",
+            "fr": "Arrondissement administratif de Berne-Mittelland"
+        },
+        "extra": {
+            "wikidata": "Q666217",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1684806,
+        "osm_place_id": 282405734,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Verwaltungskreis Biel\/Bienne",
+        "name_eng": "Biel\/Bienne administrative district",
+        "name_translations": {
+            "en": "Biel\/Bienne administrative district",
+            "fr": "Arrondissement administratif de Bienne"
+        },
+        "extra": {
+            "wikidata": "Q660893",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1684808,
+        "osm_place_id": 282440298,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Verwaltungskreis Emmental",
+        "name_eng": "Emmental administrative district",
+        "name_translations": {
+            "en": "Emmental administrative district",
+            "fr": "Arrondissement administratif de l'Emmental"
+        },
+        "extra": {
+            "wikidata": "Q666253",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1684822,
+        "osm_place_id": 282262051,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Verwaltungskreis Frutigen-Niedersimmental",
+        "name_eng": "Frutigen-Niedersimmental administrative district",
+        "name_translations": {
+            "en": "Frutigen-Niedersimmental administrative district",
+            "fr": "Arrondissement administratif de Frutigen-Bas-Simmental"
+        },
+        "extra": {
+            "wikidata": "Q661974",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1684823,
+        "osm_place_id": 282181531,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Verwaltungskreis Interlaken-Oberhasli",
+        "name_eng": "Interlaken-Oberhasli administrative district",
+        "name_translations": {
+            "en": "Interlaken-Oberhasli administrative district",
+            "fr": "Arrondissement administratif d'Interlaken-Oberhasli"
+        },
+        "extra": {
+            "wikidata": "Q678742",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1684809,
+        "osm_place_id": 282402267,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Verwaltungskreis Oberaargau",
+        "name_eng": "Oberaargau administrative district",
+        "name_translations": {
+            "en": "Oberaargau administrative district",
+            "fr": "Arrondissement administratif de Haute-Argovie"
+        },
+        "extra": {
+            "wikidata": "Q678827",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1684824,
+        "osm_place_id": 282277996,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Verwaltungskreis Obersimmental-Saanen",
+        "name_eng": "Obersimmental-Saanen administrative district",
+        "name_translations": {
+            "en": "Obersimmental-Saanen administrative district",
+            "fr": "Arrondissement administratif du Haut-Simmental et Gessenay"
+        },
+        "extra": {
+            "wikidata": "Q869479",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1684810,
+        "osm_place_id": 282559101,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Verwaltungskreis Seeland",
+        "name_eng": "Seeland administrative district",
+        "name_translations": {
+            "en": "Seeland administrative district",
+            "fr": "Arrondissement administratif du Seeland"
+        },
+        "extra": {
+            "wikidata": "Q660822",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1684825,
+        "osm_place_id": 282449035,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Verwaltungskreis Thun",
+        "name_eng": "Thun administrative district",
+        "name_translations": {
+            "en": "Thun administrative district",
+            "fr": "Arrondissement administratif de Thoune"
+        },
+        "extra": {
+            "wikidata": "Q678914",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1684745,
+        "osm_place_id": 282182717,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Verwaltungsregion Bern-Mittelland",
+        "name_eng": "Bernese Mittelland administrative region",
+        "name_translations": {
+            "en": "Bernese Mittelland administrative region",
+            "fr": "R\u00e9gion administrative de Berne-Mittelland"
+        },
+        "extra": {
+            "wikidata": "Q690266",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1684602,
+        "osm_place_id": 282331548,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Verwaltungsregion Emmental-Oberaargau",
+        "name_eng": "Emmental-Oberaargau administrative region",
+        "name_translations": {
+            "en": "Emmental-Oberaargau administrative region",
+            "fr": "R\u00e9gion administrative d'Emmental-Haute Argovie"
+        },
+        "extra": {
+            "wikidata": "Q690186",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1684606,
+        "osm_place_id": 282181288,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Verwaltungsregion Oberland",
+        "name_eng": "Oberland administrative region",
+        "name_translations": {
+            "en": "Oberland administrative region",
+            "fr": "R\u00e9gion administrative de l'Oberland"
+        },
+        "extra": {
+            "wikidata": "Q692144",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1684783,
+        "osm_place_id": 282500412,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Verwaltungsregion Seeland",
+        "name_eng": "Seeland administrative region",
+        "name_translations": {
+            "en": "Seeland administrative region",
+            "fr": "R\u00e9gion administrative du Seeland"
+        },
+        "extra": {
+            "wikidata": "Q691156",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1688768,
+        "osm_place_id": 282189291,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Viamala",
+        "name_eng": "Viamala",
+        "name_translations": {
+            "rm": "Regiun Viamala",
+            "ru": "\u0425\u0438\u043d\u0442\u0435\u0440\u0440\u0430\u0439\u043d"
+        },
+        "extra": {
+            "wikidata": "Q22918253",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1686711,
+        "osm_place_id": 282182349,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Visp",
+        "name_eng": "Visp",
+        "name_translations": {
+            "de": "Visp",
+            "fr": "Vi\u00e8ge",
+            "ru": "\u0424\u0438\u0441\u043f"
+        },
+        "extra": {
+            "wikidata": "Q660348",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1686660,
+        "osm_place_id": 282191122,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Vorderland",
+        "name_eng": "Vorderland",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q854083",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1687101,
+        "osm_place_id": 282183400,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Wahlkreis Rheintal",
+        "name_eng": "Wahlkreis Rheintal",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q188220",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1687136,
+        "osm_place_id": 282247948,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Wahlkreis Rorschach",
+        "name_eng": "Wahlkreis Rorschach",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q661312",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1687214,
+        "osm_place_id": 282193666,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Wahlkreis Sarganserland",
+        "name_eng": "Wahlkreis Sarganserland",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q661066",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1687207,
+        "osm_place_id": 282182443,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Wahlkreis See-Gaster",
+        "name_eng": "Wahlkreis See-Gaster",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q661193",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1687161,
+        "osm_place_id": 282625486,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Wahlkreis St. Gallen",
+        "name_eng": "Wahlkreis St. Gallen",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q661143",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1687206,
+        "osm_place_id": 282332597,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Wahlkreis Toggenburg",
+        "name_eng": "Wahlkreis Toggenburg",
+        "name_translations": {
+            "gsw": "Wahlkreis Toggeburg"
+        },
+        "extra": {
+            "wikidata": "Q693185",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1687219,
+        "osm_place_id": 282283324,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Wahlkreis Werdenberg",
+        "name_eng": "Wahlkreis Werdenberg",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q75069",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1687181,
+        "osm_place_id": 282449834,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Wahlkreis Wil",
+        "name_eng": "Wahlkreis Wil",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q661216",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": null,
+        "osm_id": 1686712,
+        "osm_place_id": 282192467,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Westlich Raron",
+        "name_eng": "Westlich Raron",
+        "name_translations": {
+            "fr": "Rarogne occidental"
+        },
+        "extra": {
+            "wikidata": "Q660861",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": "CH-ZG",
+        "osm_id": 1686447,
+        "osm_place_id": 282202059,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Zug",
+        "name_eng": "Zug",
+        "name_translations": {
+            "be": "\u0426\u0443\u0433",
+            "ca": "Cant\u00f3 de Zug",
+            "de": "Zug",
+            "en": "Zug",
+            "eo": "Zugo",
+            "es": "Zug",
+            "fr": "Zoug",
+            "it": "Zugo",
+            "rm": "Zug",
+            "ru": "\u0426\u0443\u0433"
+        },
+        "extra": {
+            "wikidata": "Q11933",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ch",
+        "country_cca3": "che",
+        "region_cca2": "CH-ZH",
+        "osm_id": 1690227,
+        "osm_place_id": 282245161,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Z\u00fcrich",
+        "name_eng": "Zurich",
+        "name_translations": {
+            "af": "Z\u00fcrich",
+            "am": "\u12d9\u122a\u12ad",
+            "an": "Z\u00farich",
+            "ar": "\u0632\u064a\u0648\u0631\u062e",
+            "az": "S\u00fcrix",
+            "be": "\u0426\u044e\u0440\u044b\u0445",
+            "bg": "\u0426\u044e\u0440\u0438\u0445",
+            "bn": "\u099c\u09c1\u09b0\u09bf\u0996",
+            "br": "Z\u00fcrich",
+            "bs": "Z\u00fcrich",
+            "ca": "Zuric",
+            "cs": "Curych",
+            "cv": "\u0426\u044e\u0440\u0438\u0445",
+            "cy": "Z\u00fcrich",
+            "da": "Z\u00fcrich",
+            "de": "Z\u00fcrich",
+            "el": "\u0396\u03c5\u03c1\u03af\u03c7\u03b7",
+            "en": "Zurich",
+            "eo": "Zuriko",
+            "es": "Z\u00farich",
+            "et": "Z\u00fcrich",
+            "eu": "Z\u00fcrich",
+            "fa": "\u0632\u0648\u0631\u06cc\u062e",
+            "fi": "Z\u00fcrich",
+            "fr": "Zurich",
+            "ga": "Z\u00fcrich",
+            "gd": "Z\u00fcrich",
+            "gl": "Z\u00faric",
+            "he": "\u05e6\u05d9\u05e8\u05d9\u05da",
+            "hi": "\u091c\u093c\u094d\u092f\u0942\u0930\u093f\u0916\u093c",
+            "hr": "Z\u00fcrich",
+            "hu": "Z\u00fcrich",
+            "id": "Z\u00fcrich",
+            "io": "Z\u00fcrich",
+            "is": "Z\u00fcrich",
+            "it": "Zurigo",
+            "ja": "\u30c1\u30e5\u30fc\u30ea\u30c3\u30d2",
+            "jv": "Z\u00fcrich",
+            "ka": "\u10ea\u10d8\u10e3\u10e0\u10d8\u10ee\u10d8",
+            "kn": "\u0c9d\u0ccd\u0caf\u0cc2\u0cb0\u0cbf\u0c96\u0ccd",
+            "ko": "\ucde8\ub9ac\ud788",
+            "la": "Turicum",
+            "lb": "Z\u00fcrech",
+            "lt": "Ciurichas",
+            "lv": "C\u012brihe",
+            "mk": "\u0426\u0438\u0440\u0438\u0445",
+            "ml": "\u0d38\u0d42\u0d31\u0d3f\u0d1a\u0d4d\u0d1a\u0d4d",
+            "mr": "\u091d\u094d\u092f\u0941\u0930\u093f\u0915",
+            "ms": "Z\u00fcrich",
+            "my": "\u1007\u1030\u1038\u101b\u1005\u103a\u1001\u103b\u103a\u1019\u103c\u102d\u102f\u1037",
+            "na": "Z\u00fcrich",
+            "nl": "Z\u00fcrich",
+            "nn": "Z\u00fcrich",
+            "no": "Z\u00fcrich",
+            "oc": "Zuric",
+            "os": "\u0426\u044e\u0440\u0438\u0445",
+            "pl": "Zurych",
+            "pt": "Zurique",
+            "qu": "Z\u00fcrich",
+            "rm": "Turitg",
+            "ro": "Z\u00fcrich",
+            "ru": "\u0426\u044e\u0440\u0438\u0445",
+            "sh": "Z\u00fcrich",
+            "sk": "Z\u00fcrich",
+            "sl": "Z\u00fcrich",
+            "sq": "Cyrihu",
+            "sr": "\u0426\u0438\u0440\u0438\u0445",
+            "sv": "Z\u00fcrich",
+            "sw": "Z\u00fcrich",
+            "ta": "\u0b9a\u0bc2\u0bb0\u0bbf\u0b95\u0bcd",
+            "th": "\u0e0b\u0e39\u0e23\u0e34\u0e01",
+            "tl": "Z\u00fcrich",
+            "tr": "Z\u00fcrih",
+            "ug": "\u0633\u064a\u06c7\u0631\u0649\u062e",
+            "uk": "\u0426\u044e\u0440\u0438\u0445",
+            "ur": "\u0632\u06cc\u0648\u0631\u062e",
+            "vi": "Z\u00fcrich",
+            "vo": "Z\u00fcrich",
+            "wo": "Zurich",
+            "yi": "\u05e6\u05d9\u05e8\u05d9\u05da",
+            "yo": "Z\u00fcrich",
+            "zh": "\u8607\u9ece\u4e16\u5dde",
+            "als": "Z\u00fcrich",
+            "arc": "\u072c\u0723\u071d\u072a\u071d\u071f",
+            "arz": "\u0632\u0648\u0631\u064a\u062e",
+            "bar": "Zirich",
+            "ckb": "\u0632\u06cc\u0648\u0631\u062e",
+            "frp": "Tsurique",
+            "frr": "Z\u00fcrich",
+            "gsw": "Z\u00fcri",
+            "hsb": "Z\u00fcrich",
+            "ilo": "Z\u00fcrich",
+            "lmo": "Z\u00fcrigh",
+            "nah": "Zurich",
+            "nan": "Z\u00fcrich",
+            "nds": "Z\u00fcrich",
+            "pdc": "Zurich",
+            "pfl": "Zirich",
+            "pms": "Zurigh",
+            "pnb": "\u0632\u06cc\u0648\u0631\u0686",
+            "scn": "Zur\u00eccu",
+            "vec": "Zurigo",
+            "war": "Z\u00fcrich",
+            "wuu": "\u82cf\u9ece\u4e16",
+            "yue": "\u8607\u9ece\u4e16",
+            "zh-Hans": "\u82cf\u9ece\u4e16\u5dde",
+            "zh-Hant": "\u8607\u9ece\u4e16\u5dde",
+            "be-tarask": "\u0426\u044e\u0440\u044b\u0445"
+        },
+        "extra": {
+            "wikidata": "Q11943",
+            "un_locode": null
+        }
+    }
+]

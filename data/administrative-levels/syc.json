@@ -1,0 +1,34 @@
+[
+    {
+        "country_cca2": "sc",
+        "country_cca3": "syc",
+        "region_cca2": null,
+        "osm_id": 3442622,
+        "osm_place_id": 282416873,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Mah\u00e9",
+        "name_eng": "Mah\u00e9",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sc",
+        "country_cca3": "syc",
+        "region_cca2": null,
+        "osm_id": 1303742,
+        "osm_place_id": 282406067,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Providence Atoll",
+        "name_eng": "Providence Atoll",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1457339",
+            "un_locode": null
+        }
+    }
+]

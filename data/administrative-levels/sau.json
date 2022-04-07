@@ -1,0 +1,3350 @@
+[
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": "SA-04",
+        "osm_id": 3667294,
+        "osm_place_id": 282520809,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "\u0627\u0644\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u0634\u0631\u0642\u064a\u0629",
+        "name_eng": "Eastern Region",
+        "name_translations": {
+            "ar": "\u0627\u0644\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u0634\u0631\u0642\u064a\u0629",
+            "cs": "a\u0161-\u0160ark\u00edja",
+            "de": "\u00d6stliche Provinz",
+            "en": "Eastern Region",
+            "es": "Provincia Oriental",
+            "fa": "\u0627\u0633\u062a\u0627\u0646 \u0634\u0631\u0642\u06cc",
+            "fr": "Ach-Charqiya",
+            "pt": "Oriental",
+            "ru": "\u042d\u0448-\u0428\u0430\u0440\u043a\u0438\u0439\u044f",
+            "ur": "\u0627\u0644\u0634\u0631\u0642\u064a\u06c1 \u0639\u0644\u0627\u0642\u06c1"
+        },
+        "extra": {
+            "wikidata": "Q953508",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12430367,
+        "osm_place_id": 325689221,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0641\u064a\u0641\u0627\u0621",
+        "name_eng": "Fayfa",
+        "name_translations": {
+            "ar": "\u0641\u064a\u0641\u0627\u0621",
+            "de": "Absiyah",
+            "en": "Fayfa",
+            "fr": "Absiyah"
+        },
+        "extra": {
+            "wikidata": "Q79721096",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12436473,
+        "osm_place_id": 283558616,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0623\u0628\u0647\u0627",
+        "name_eng": "Abha",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0623\u0628\u0647\u0627",
+            "en": "Abha"
+        },
+        "extra": {
+            "wikidata": "Q97309519",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12430380,
+        "osm_place_id": 283378696,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0623\u0628\u0648 \u0639\u0631\u064a\u0634",
+        "name_eng": "Abu `Arish Governorate",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0623\u0628\u0648 \u0639\u0631\u064a\u0634",
+            "de": "Muhafazat Abu `Arish",
+            "en": "Abu `Arish Governorate",
+            "fr": "Muhafazat Abu `Arish"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12429531,
+        "osm_place_id": 283342103,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0623\u0636\u0645",
+        "name_eng": "Adam",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0623\u0636\u0645",
+            "en": "Adam"
+        },
+        "extra": {
+            "wikidata": "Q12179905",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12430372,
+        "osm_place_id": 283475419,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u062d\u062f \u0627\u0644\u0645\u0633\u0627\u0631\u062d\u0647",
+        "name_eng": "Ahad Al Masarihah",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u062d\u062f \u0627\u0644\u0645\u0633\u0627\u0631\u062d\u0647",
+            "en": "Ahad Al Masarihah"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12436471,
+        "osm_place_id": 283400677,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u062d\u062f \u0631\u0641\u064a\u062f\u0647",
+        "name_eng": "Ahad Rufaydah",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u062d\u062f \u0631\u0641\u064a\u062f\u0647",
+            "en": "Ahad Rufaydah"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12400642,
+        "osm_place_id": 283540527,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0623\u062d\u0633\u0627\u0621",
+        "name_eng": "Al Ahsa Governorate",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0623\u062d\u0633\u0627\u0621",
+            "en": "Al Ahsa Governorate",
+            "hi": "\u0905\u0932-\u0905\u0939\u0938\u093e",
+            "ku": "Ehsa",
+            "zh": "\u80e1\u5bcc\u592b",
+            "ckb": "\u0626\u06d5\u062d\u0633\u0627"
+        },
+        "extra": {
+            "wikidata": "Q4702167",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12406844,
+        "osm_place_id": 283583319,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0623\u0633\u064a\u0627\u062d",
+        "name_eng": "Al Asyah",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0623\u0633\u064a\u0627\u062d",
+            "en": "Al Asyah"
+        },
+        "extra": {
+            "wikidata": "Q12183456",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12423673,
+        "osm_place_id": 283538853,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0627\u0641\u0644\u0627\u062c",
+        "name_eng": "Al Aflaj",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0627\u0641\u0644\u0627\u062c",
+            "en": "Al Aflaj"
+        },
+        "extra": {
+            "wikidata": "Q85870241",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12429806,
+        "osm_place_id": 283400367,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0628\u0627\u062d\u0629",
+        "name_eng": "Al Bahah",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0628\u0627\u062d\u0629",
+            "en": "Al Bahah"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12406849,
+        "osm_place_id": 283348182,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0628\u062f\u0627\u0626\u0639",
+        "name_eng": "Al Badai",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0628\u062f\u0627\u0626\u0639",
+            "en": "Al Badai"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12420158,
+        "osm_place_id": 283449071,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0628\u062f\u0639",
+        "name_eng": "Al Bad",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0628\u062f\u0639",
+            "en": "Al Bad"
+        },
+        "extra": {
+            "wikidata": "Q111220056",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12436477,
+        "osm_place_id": 283586597,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0628\u0631\u0643",
+        "name_eng": "Al Birk",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0628\u0631\u0643",
+            "en": "Al Birk"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12406850,
+        "osm_place_id": 283339461,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0628\u0643\u064a\u0631\u064a\u0647",
+        "name_eng": "Al Bukayriyah",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0628\u0643\u064a\u0631\u064a\u0647",
+            "en": "Al Bukayriyah",
+            "fr": "Boukayriyah"
+        },
+        "extra": {
+            "wikidata": "Q20397010",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12404114,
+        "osm_place_id": 283540400,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u062c\u0628\u064a\u0644",
+        "name_eng": "Al Jubayl Governorate",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u062c\u0628\u064a\u0644",
+            "en": "Al Jubayl Governorate"
+        },
+        "extra": {
+            "wikidata": "Q111017040",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12429523,
+        "osm_place_id": 283363978,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u062c\u0645\u0648\u0645",
+        "name_eng": "Al Jumum",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u062c\u0645\u0648\u0645",
+            "en": "Al Jumum"
+        },
+        "extra": {
+            "wikidata": "Q12185747",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12413063,
+        "osm_place_id": 283549279,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u062d\u0627\u0626\u0637",
+        "name_eng": "Al Hait",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u062d\u0627\u0626\u0637",
+            "de": "Al Hayit",
+            "en": "Al Hait",
+            "fr": "Al Hayit"
+        },
+        "extra": {
+            "wikidata": "Q12185893",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12429799,
+        "osm_place_id": 283449711,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u062d\u062c\u0631\u0629",
+        "name_eng": "Al Hajrah",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u062d\u062c\u0631\u0629",
+            "en": "Al Hajrah"
+        },
+        "extra": {
+            "wikidata": "Q3545550",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12430365,
+        "osm_place_id": 283343233,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u062d\u0631\u062b",
+        "name_eng": "Al Harth",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u062d\u0631\u062b",
+            "en": "Al Harth"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12436478,
+        "osm_place_id": 283541249,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u062d\u0631\u062c\u0647",
+        "name_eng": "Al Harjah",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u062d\u0631\u062c\u0647",
+            "en": "Al Harjah"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12423678,
+        "osm_place_id": 283390913,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u062d\u0631\u064a\u0642",
+        "name_eng": "Al Hariq",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u062d\u0631\u064a\u0642",
+            "en": "Al Hariq"
+        },
+        "extra": {
+            "wikidata": "Q3527917",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12429010,
+        "osm_place_id": 283391182,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u062d\u0646\u0627\u0643\u064a\u0647",
+        "name_eng": "Al Hinakiyah",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u062d\u0646\u0627\u0643\u064a\u0647",
+            "en": "Al Hinakiyah"
+        },
+        "extra": {
+            "wikidata": "Q65040790",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12400302,
+        "osm_place_id": 283473140,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u062e\u0628\u0631",
+        "name_eng": "Khobar Governorate",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u062e\u0628\u0631",
+            "en": "Khobar Governorate"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12423676,
+        "osm_place_id": 283474964,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u062e\u0631\u062c",
+        "name_eng": "Al Kharj",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u062e\u0631\u062c",
+            "en": "Al Kharj"
+        },
+        "extra": {
+            "wikidata": "Q2162128",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12429527,
+        "osm_place_id": 283400323,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u062e\u0631\u0645\u0629",
+        "name_eng": "Al Khurmah",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u062e\u0631\u0645\u0629",
+            "en": "Al Khurmah"
+        },
+        "extra": {
+            "wikidata": "Q65040789",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12404340,
+        "osm_place_id": 283375720,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u062e\u0641\u062c\u064a",
+        "name_eng": "Al Khafji Governorate",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u062e\u0641\u062c\u064a",
+            "en": "Al Khafji Governorate"
+        },
+        "extra": {
+            "wikidata": "Q111020758",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12430378,
+        "osm_place_id": 283350955,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u062f\u0627\u0626\u0631",
+        "name_eng": "Al ddayer",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u062f\u0627\u0626\u0631",
+            "de": "alddayir",
+            "en": "Al ddayer",
+            "ru": "\u0430\u043b\u044c\u0434\u0434\u0430\u0439\u0440"
+        },
+        "extra": {
+            "wikidata": "Q97291914",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12430370,
+        "osm_place_id": 283586536,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u062f\u0631\u0628",
+        "name_eng": "Ad Darb",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u062f\u0631\u0628",
+            "en": "Ad Darb"
+        },
+        "extra": {
+            "wikidata": "Q65040819",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12423664,
+        "osm_place_id": 283363585,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u062f\u0631\u0639\u064a\u0647",
+        "name_eng": "Ad Diriyah",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u062f\u0631\u0639\u064a\u0647",
+            "en": "Ad Diriyah"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12423665,
+        "osm_place_id": 283549535,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u062f\u0644\u0645",
+        "name_eng": "Ad Dilam",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u062f\u0644\u0645",
+            "de": "Ad Dilam",
+            "en": "Ad Dilam",
+            "fr": "Ad Dilam"
+        },
+        "extra": {
+            "wikidata": "Q7174030",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12399708,
+        "osm_place_id": 325691688,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u062f\u0645\u0627\u0645",
+        "name_eng": "Dammam Governorate",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u062f\u0645\u0627\u0645",
+            "en": "Dammam Governorate"
+        },
+        "extra": {
+            "wikidata": "Q97309170",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12423680,
+        "osm_place_id": 283640885,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u062f\u0648\u0627\u062f\u0645\u0649",
+        "name_eng": "Ad Duwadimi",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u062f\u0648\u0627\u062f\u0645\u0649",
+            "en": "Ad Duwadimi"
+        },
+        "extra": {
+            "wikidata": "Q27258",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12406853,
+        "osm_place_id": 283335880,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0631\u0633",
+        "name_eng": "Ar Rass",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0631\u0633",
+            "en": "Ar Rass"
+        },
+        "extra": {
+            "wikidata": "Q97308076",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12423679,
+        "osm_place_id": 283569287,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0631\u064a\u0627\u0636",
+        "name_eng": "Riyadh",
+        "name_translations": {
+            "af": "Riaad",
+            "am": "\u122a\u12eb\u12f5",
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0631\u064a\u0627\u0636",
+            "az": "\u018fr-Riyad",
+            "be": "\u042d\u0440-\u0420\u044b\u044f\u0434",
+            "bg": "\u0420\u0438\u044f\u0434",
+            "bn": "\u09b0\u09bf\u09af\u09bc\u09be\u09a6",
+            "bo": "\u0f62\u0f72\u0f66\u0f0b\u0f61\u0f42",
+            "br": "Riyadh",
+            "bs": "Rijad",
+            "ca": "Al-Riyad",
+            "cs": "Rij\u00e1d",
+            "cy": "Riyadh",
+            "da": "Riyadh",
+            "de": "Riad",
+            "el": "\u03a1\u03b9\u03ac\u03bd\u03c4",
+            "en": "Riyadh",
+            "eo": "Riado",
+            "es": "Riad",
+            "et": "Ar-Riy\u0101\u1e11",
+            "eu": "Riad",
+            "fa": "\u0631\u06cc\u0627\u0636",
+            "fi": "Riad",
+            "fo": "Riyadh",
+            "fr": "Riyad",
+            "fy": "Riyad",
+            "ga": "Riyadh",
+            "gd": "Riyadh",
+            "he": "\u05e8\u05d9\u05d0\u05d3",
+            "hi": "\u0930\u093f\u092f\u093e\u0926",
+            "hr": "Rijad",
+            "ht": "Riyad",
+            "hu": "Rij\u00e1d",
+            "hy": "\u0537\u0580 \u054c\u056b\u0561\u0564",
+            "id": "Riyadh",
+            "is": "R\u00edad",
+            "it": "Riyad",
+            "ja": "\u30ea\u30e4\u30c9",
+            "ka": "\u10d4\u10e0-\u10e0\u10d8\u10d0\u10d3\u10d8",
+            "kk": "\u042d\u0440-\u0420\u0438\u044f\u0434",
+            "kl": "Riyadh",
+            "kn": "\u0cb0\u0cbf\u0caf\u0cbe\u0ca7\u0ccd",
+            "ko": "\ub9ac\uc57c\ub4dc",
+            "ku": "Riyad",
+            "ky": "\u042d\u0440-\u0420\u0438\u044f\u0434",
+            "la": "Riadum",
+            "lt": "Rijadas",
+            "lv": "Rij\u0101da",
+            "mk": "\u0420\u0438\u0458\u0430\u0434",
+            "ml": "\u0d31\u0d3f\u0d2f\u0d3e\u0d26\u0d4d",
+            "mr": "\u0930\u093f\u092f\u093e\u0927",
+            "ms": "Riyadh",
+            "ne": "\u0930\u093f\u092f\u093e\u0926",
+            "nl": "Riyad",
+            "nn": "Riyadh",
+            "no": "Riyadh",
+            "oc": "Riyad",
+            "os": "\u042d\u0440-\u0420\u0438\u044f\u0434",
+            "pl": "Rijad",
+            "ps": "\u0631\u064a\u0627\u0636",
+            "pt": "Riade",
+            "ru": "\u042d\u0440-\u0420\u0438\u044f\u0434",
+            "sh": "Rijad",
+            "sk": "Rij\u00e1d",
+            "sl": "Rijad",
+            "sq": "Riadi",
+            "sr": "\u0420\u0438\u0458\u0430\u0434",
+            "su": "Riyadh",
+            "sv": "Riyadh",
+            "sw": "Riyad",
+            "ta": "\u0bb0\u0bbf\u0baf\u0bbe\u0ba4\u0bcd",
+            "tg": "\u042d\u0440-\u0420\u0438\u044f\u0434",
+            "th": "\u0e23\u0e34\u0e22\u0e32\u0e14",
+            "tl": "Riyadh",
+            "tr": "Riyad",
+            "ug": "\u0631\u0649\u064a\u0627\u062f",
+            "uk": "\u0415\u0440-\u0420\u0456\u044f\u0434",
+            "ur": "\u0635\u0648\u0628\u06c1 \u0631\u06cc\u0627\u062f\u0636",
+            "uz": "Ar-Riyod",
+            "vi": "Ri-\u00e1t",
+            "vo": "Riyad",
+            "yi": "\u05e8\u05d9\u05d0\u05d3",
+            "yo": "Riyadh",
+            "zh": "\u5229\u96c5\u5fb7\/\u5229\u96c5\u5f97",
+            "arz": "\u0627\u0644\u0631\u064a\u0627\u0636",
+            "ckb": "\u0695\u06cc\u0627\u0632",
+            "diq": "Riyad",
+            "frp": "Riyad",
+            "gag": "Riyad",
+            "haw": "Riyadh",
+            "hif": "Riyadh",
+            "ilo": "Riyadh",
+            "lmo": "Riyad",
+            "mhr": "\u042d\u0440-\u0420\u0438\u044f\u0434",
+            "mzn": "\u0631\u06cc\u0627\u0636",
+            "nov": "Riyad",
+            "pms": "Riyadh",
+            "pnb": "\u0631\u06cc\u0627\u0636",
+            "scn": "Rihad",
+            "sco": "Riyadh",
+            "war": "Riyadh",
+            "simple": "Riyadh",
+            "be-tarask": "\u0420\u044b\u044f\u0434"
+        },
+        "extra": {
+            "wikidata": "Q3692",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12430374,
+        "osm_place_id": 283391410,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0631\u064a\u062b",
+        "name_eng": "Ar Rayth",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0631\u064a\u062b",
+            "en": "Ar Rayth"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12423681,
+        "osm_place_id": 283605855,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0631\u064a\u0646",
+        "name_eng": "Ar Rayn",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0631\u064a\u0646",
+            "en": "Ar Rayn"
+        },
+        "extra": {
+            "wikidata": "Q23049938",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12423674,
+        "osm_place_id": 283586490,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0632\u0644\u0641\u0649",
+        "name_eng": "Az Zulfi",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0632\u0644\u0641\u0649",
+            "en": "Az Zulfi"
+        },
+        "extra": {
+            "wikidata": "Q3543321",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12423668,
+        "osm_place_id": 283400099,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0633\u0644\u064a\u0644",
+        "name_eng": "As Sulayyil",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0633\u0644\u064a\u0644",
+            "de": "As Sulayyil",
+            "en": "As Sulayyil",
+            "fr": "As Sulayyil",
+            "he": "\u05d0\u05dc \u05e1\u05d5\u05dc\u05d0\u05d9\u05d9\u05dc"
+        },
+        "extra": {
+            "wikidata": "Q27221",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12413062,
+        "osm_place_id": 283362369,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0633\u0644\u064a\u0645\u064a",
+        "name_eng": "As Sulaymi",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0633\u0644\u064a\u0645\u064a",
+            "en": "As Sulaymi"
+        },
+        "extra": {
+            "wikidata": "Q111172029",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12406854,
+        "osm_place_id": 283394004,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0634\u0645\u0627\u0633\u064a\u0647",
+        "name_eng": "Ash Shimasiyah",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0634\u0645\u0627\u0633\u064a\u0647",
+            "en": "Ash Shimasiyah"
+        },
+        "extra": {
+            "wikidata": "Q65040799",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12413065,
+        "osm_place_id": 283448354,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0634\u0645\u0644\u0649",
+        "name_eng": "Ash Shamli",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0634\u0645\u0644\u0649",
+            "en": "Ash Shamli"
+        },
+        "extra": {
+            "wikidata": "Q111172028",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12413061,
+        "osm_place_id": 283459153,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0634\u0646\u0627\u0646",
+        "name_eng": "Ash Shinan",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0634\u0646\u0627\u0646",
+            "en": "Ash Shinan"
+        },
+        "extra": {
+            "wikidata": "Q12239234",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12429515,
+        "osm_place_id": 283395441,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0637\u0627\u0626\u0641",
+        "name_eng": "Al Taif",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0637\u0627\u0626\u0641",
+            "en": "Al Taif"
+        },
+        "extra": {
+            "wikidata": "Q97303218",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12430375,
+        "osm_place_id": 283569452,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0637\u0648\u0627\u0644",
+        "name_eng": "At Tuwal",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0637\u0648\u0627\u0644",
+            "en": "At Tuwal"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12430379,
+        "osm_place_id": 283342401,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0639\u0627\u0631\u0636\u0647",
+        "name_eng": "Al Aridah",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0639\u0627\u0631\u0636\u0647",
+            "en": "Al Aridah"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12400864,
+        "osm_place_id": 283640819,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0639\u062f\u064a\u062f",
+        "name_eng": "Al Udayd Governorate",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0639\u062f\u064a\u062f",
+            "en": "Al Udayd Governorate"
+        },
+        "extra": {
+            "wikidata": "Q20422294",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12429530,
+        "osm_place_id": 283487450,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0639\u0631\u0636\u064a\u0627\u062a",
+        "name_eng": "Al Ardiyat",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0639\u0631\u0636\u064a\u0627\u062a",
+            "en": "Al Ardiyat"
+        },
+        "extra": {
+            "wikidata": "Q12239237",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12429802,
+        "osm_place_id": 283363900,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0639\u0642\u064a\u0642",
+        "name_eng": "Al Aqiq",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0639\u0642\u064a\u0642",
+            "en": "Al Aqiq"
+        },
+        "extra": {
+            "wikidata": "Q65040831",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12429012,
+        "osm_place_id": 283640898,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0639\u0644\u0627",
+        "name_eng": "Al Ula",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0639\u0644\u0627",
+            "en": "Al Ula"
+        },
+        "extra": {
+            "wikidata": "Q104672565",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12413341,
+        "osm_place_id": 283362634,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0639\u0648\u064a\u0642\u064a\u0644\u0647",
+        "name_eng": "Al Uwayqilah",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0639\u0648\u064a\u0642\u064a\u0644\u0647",
+            "en": "Al Uwayqilah"
+        },
+        "extra": {
+            "wikidata": "Q12190591",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12430373,
+        "osm_place_id": 283583531,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0639\u064a\u062f\u0627\u0628\u0649",
+        "name_eng": "Al Aydabi",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0639\u064a\u062f\u0627\u0628\u0649",
+            "en": "Al Aydabi"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12429013,
+        "osm_place_id": 283605866,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0639\u064a\u0635",
+        "name_eng": "Al Is",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0639\u064a\u0635",
+            "en": "Al Is"
+        },
+        "extra": {
+            "wikidata": "Q12190617",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12423667,
+        "osm_place_id": 283449082,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u063a\u0627\u0637",
+        "name_eng": "Al Ghat",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u063a\u0627\u0637",
+            "en": "Al Ghat"
+        },
+        "extra": {
+            "wikidata": "Q4164569",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12413066,
+        "osm_place_id": 283399016,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u063a\u0632\u0627\u0644\u0629",
+        "name_eng": "Al Ghazalah",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u063a\u0632\u0627\u0644\u0629",
+            "en": "Al Ghazalah"
+        },
+        "extra": {
+            "wikidata": "Q12239239",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12429803,
+        "osm_place_id": 283549635,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0642\u0631\u0649",
+        "name_eng": "Al Qara",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0642\u0631\u0649",
+            "en": "Al Qara"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12413343,
+        "osm_place_id": 283396118,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0642\u0631\u064a\u0627\u062a",
+        "name_eng": "Al Qurayyat",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0642\u0631\u064a\u0627\u062a",
+            "en": "Al Qurayyat"
+        },
+        "extra": {
+            "wikidata": "Q2829401",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12403818,
+        "osm_place_id": 283411976,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0642\u0637\u064a\u0641",
+        "name_eng": "Al Qatif Governorate",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0642\u0637\u064a\u0641",
+            "en": "Al Qatif Governorate"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12429518,
+        "osm_place_id": 283611628,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0642\u0646\u0641\u0630\u0647",
+        "name_eng": "Al Qunfudhah",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0642\u0646\u0641\u0630\u0647",
+            "en": "Al Qunfudhah"
+        },
+        "extra": {
+            "wikidata": "Q3495996",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12423672,
+        "osm_place_id": 283341782,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0642\u0648\u064a\u0639\u064a\u0647",
+        "name_eng": "Al Quwayiyah",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0642\u0648\u064a\u0639\u064a\u0647",
+            "en": "Al Quwayiyah"
+        },
+        "extra": {
+            "wikidata": "Q3545549",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12429516,
+        "osm_place_id": 283482456,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0643\u0627\u0645\u0644",
+        "name_eng": "Al Kamil",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0643\u0627\u0645\u0644",
+            "en": "Al Kamil"
+        },
+        "extra": {
+            "wikidata": "Q65040787",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12429525,
+        "osm_place_id": 283397836,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0644\u064a\u062b",
+        "name_eng": "Al Lith",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0644\u064a\u062b",
+            "de": "Al Lith",
+            "en": "Al Lith",
+            "fr": "Al Lith",
+            "ku": "L\u00ees",
+            "ckb": "\u0644\u06cc\u0633"
+        },
+        "extra": {
+            "wikidata": "Q3543653",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12436481,
+        "osm_place_id": 283391700,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0645\u062c\u0627\u0631\u062f\u0647",
+        "name_eng": "Al Majardah",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0645\u062c\u0627\u0631\u062f\u0647",
+            "en": "Al Majardah"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12423675,
+        "osm_place_id": 283541085,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0645\u062c\u0645\u0639\u0647",
+        "name_eng": "Al Majmaah",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0645\u062c\u0645\u0639\u0647",
+            "en": "Al Majmaah"
+        },
+        "extra": {
+            "wikidata": "Q12239243",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12429800,
+        "osm_place_id": 283591896,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0645\u062e\u0648\u0627\u0647",
+        "name_eng": "Al Mukhwah",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0645\u062e\u0648\u0627\u0647",
+            "en": "Al Mukhwah"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12429007,
+        "osm_place_id": 283541149,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0645\u0646\u0648\u0631\u0629",
+        "name_eng": "Al Madinah Al Munawwarah",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0645\u0646\u0648\u0631\u0629",
+            "en": "Al Madinah Al Munawwarah"
+        },
+        "extra": {
+            "wikidata": "Q97307705",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12406843,
+        "osm_place_id": 283473819,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0645\u0630\u0646\u0628",
+        "name_eng": "Al Midhnab",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0645\u0630\u0646\u0628",
+            "en": "Al Midhnab",
+            "fr": "Al Mithnab",
+            "ku": "M\u00eezneb",
+            "ml": "\u0d05\u0d7d-\u0d2e\u0d3f\u0d24\u0d4d\u0d28\u0d2c\u0d4d",
+            "ckb": "\u0645\u06cc\u0632\u0646\u06d5\u0628"
+        },
+        "extra": {
+            "wikidata": "Q31875194",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12423670,
+        "osm_place_id": 283558409,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0645\u0632\u0627\u062d\u0645\u064a\u0647",
+        "name_eng": "Al Muzahimiyah",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0645\u0632\u0627\u062d\u0645\u064a\u0647",
+            "en": "Al Muzahimiyah"
+        },
+        "extra": {
+            "wikidata": "Q3496029",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12429805,
+        "osm_place_id": 283449240,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0645\u0646\u062f\u0642",
+        "name_eng": "Al Mandaq",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0645\u0646\u062f\u0642",
+            "en": "Al Mandaq"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12429008,
+        "osm_place_id": 283475327,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0645\u0647\u062f",
+        "name_eng": "Al Mahd",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0645\u0647\u062f",
+            "en": "Al Mahd"
+        },
+        "extra": {
+            "wikidata": "Q6733653",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12429521,
+        "osm_place_id": 325691837,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0645\u0648\u064a\u0647",
+        "name_eng": "Al Muwayh",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0645\u0648\u064a\u0647",
+            "en": "Al Muwayh"
+        },
+        "extra": {
+            "wikidata": "Q12194145",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12406848,
+        "osm_place_id": 283605814,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0646\u0628\u0647\u0627\u0646\u064a\u0647",
+        "name_eng": "An Nabhaniyah",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0646\u0628\u0647\u0627\u0646\u064a\u0647",
+            "en": "An Nabhaniyah"
+        },
+        "extra": {
+            "wikidata": "Q65040797",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12403482,
+        "osm_place_id": 283458521,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0646\u0639\u064a\u0631\u064a\u0647",
+        "name_eng": "Al Nuayriyah Governorate",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0646\u0639\u064a\u0631\u064a\u0647",
+            "en": "Al Nuayriyah Governorate"
+        },
+        "extra": {
+            "wikidata": "Q12239248",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12436482,
+        "osm_place_id": 283569511,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0646\u0645\u0627\u0635",
+        "name_eng": "An Namas",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0646\u0645\u0627\u0635",
+            "en": "An Namas"
+        },
+        "extra": {
+            "wikidata": "Q4703017",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12420156,
+        "osm_place_id": 283611601,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0648\u062c\u0647",
+        "name_eng": "Al Wajh",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0648\u062c\u0647",
+            "en": "Al Wajh"
+        },
+        "extra": {
+            "wikidata": "Q27251",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12420154,
+        "osm_place_id": 283482167,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0645\u0644\u062c",
+        "name_eng": "Umluj",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0645\u0644\u062c",
+            "en": "Umluj"
+        },
+        "extra": {
+            "wikidata": "Q12239227",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12436480,
+        "osm_place_id": 283583600,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0628\u0627\u0631\u0642",
+        "name_eng": "Bariq",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0628\u0627\u0631\u0642",
+            "en": "Bariq"
+        },
+        "extra": {
+            "wikidata": "Q2884439",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12429528,
+        "osm_place_id": 283343037,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0628\u062d\u0631\u0629",
+        "name_eng": "Bahrah",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0628\u062d\u0631\u0629",
+            "en": "Bahrah"
+        },
+        "extra": {
+            "wikidata": "Q6741785",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12429015,
+        "osm_place_id": 283342309,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0628\u062f\u0631",
+        "name_eng": "Badr",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0628\u062f\u0631",
+            "en": "Badr"
+        },
+        "extra": {
+            "wikidata": "Q27256",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12424985,
+        "osm_place_id": 283342080,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0628\u062f\u0631 \u0627\u0644\u062c\u0646\u0648\u0628",
+        "name_eng": "Badr Al Janub",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0628\u062f\u0631 \u0627\u0644\u062c\u0646\u0648\u0628",
+            "en": "Badr Al Janub",
+            "fr": "Badr Al Janub"
+        },
+        "extra": {
+            "wikidata": "Q65040820",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12406852,
+        "osm_place_id": 283336466,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0628\u0631\u064a\u062f\u0629",
+        "name_eng": "Buraydah",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0628\u0631\u064a\u062f\u0629",
+            "en": "Buraydah"
+        },
+        "extra": {
+            "wikidata": "Q97308067",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12413059,
+        "osm_place_id": 283448337,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0628\u0642\u0639\u0627\u0621",
+        "name_eng": "Baqa",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0628\u0642\u0639\u0627\u0621",
+            "en": "Baqa"
+        },
+        "extra": {
+            "wikidata": "Q11687247",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12400411,
+        "osm_place_id": 283447877,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0628\u0642\u064a\u0642",
+        "name_eng": "Abqaiq Governorate",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0628\u0642\u064a\u0642",
+            "en": "Abqaiq Governorate"
+        },
+        "extra": {
+            "wikidata": "Q97309500",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12429798,
+        "osm_place_id": 283616690,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0628\u0644\u062c\u0631\u0634\u064a",
+        "name_eng": "Biljurashi",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0628\u0644\u062c\u0631\u0634\u064a",
+            "en": "Biljurashi"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12436479,
+        "osm_place_id": 283475809,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0628\u0644\u0642\u0631\u0646",
+        "name_eng": "Balqarn",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0628\u0644\u0642\u0631\u0646",
+            "en": "Balqarn"
+        },
+        "extra": {
+            "wikidata": "Q12239250",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12429804,
+        "osm_place_id": 283397954,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0628\u0646\u064a \u062d\u0633\u0646",
+        "name_eng": "Bani Hasan",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0628\u0646\u064a \u062d\u0633\u0646",
+            "en": "Bani Hasan"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12430381,
+        "osm_place_id": 283337966,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0628\u064a\u0634",
+        "name_eng": "Baysh",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0628\u064a\u0634",
+            "en": "Baysh"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12436475,
+        "osm_place_id": 283342616,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0628\u064a\u0634\u0647",
+        "name_eng": "Bishah",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0628\u064a\u0634\u0647",
+            "en": "Bishah"
+        },
+        "extra": {
+            "wikidata": "Q27135",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12420159,
+        "osm_place_id": 283591785,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u062a\u0628\u0648\u0643",
+        "name_eng": "Tabuk",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u062a\u0628\u0648\u0643",
+            "en": "Tabuk",
+            "ur": "\u0635\u0648\u0628\u06c1 \u062a\u0628\u0648\u06a9"
+        },
+        "extra": {
+            "wikidata": "Q97309671",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12436472,
+        "osm_place_id": 283344870,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u062a\u062b\u0644\u064a\u062b",
+        "name_eng": "Tathlith",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u062a\u062b\u0644\u064a\u062b",
+            "en": "Tathlith"
+        },
+        "extra": {
+            "wikidata": "Q12239252",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12429522,
+        "osm_place_id": 283460223,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u062a\u0631\u0628\u0647",
+        "name_eng": "Turubah",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u062a\u0631\u0628\u0647",
+            "en": "Turubah"
+        },
+        "extra": {
+            "wikidata": "Q97307700",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12436485,
+        "osm_place_id": 283351247,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u062a\u0646\u0648\u0645\u0629",
+        "name_eng": "Tanumah",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u062a\u0646\u0648\u0645\u0629",
+            "en": "Tanumah"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12420155,
+        "osm_place_id": 283413537,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u062a\u064a\u0645\u0627\u0621",
+        "name_eng": "Tayma",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u062a\u064a\u0645\u0627\u0621",
+            "de": "Tayma",
+            "en": "Tayma",
+            "fr": "Tayma",
+            "tr": "Teym\u00e2"
+        },
+        "extra": {
+            "wikidata": "Q27365",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12423663,
+        "osm_place_id": 283460045,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u062b\u0627\u062f\u0642",
+        "name_eng": "Thadiq",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u062b\u0627\u062f\u0642",
+            "en": "Thadiq"
+        },
+        "extra": {
+            "wikidata": "Q3551080",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12424981,
+        "osm_place_id": 283569318,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u062b\u0627\u0631",
+        "name_eng": "Thar",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u062b\u0627\u0631",
+            "en": "Thar"
+        },
+        "extra": {
+            "wikidata": "Q65040823",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12430376,
+        "osm_place_id": 283640901,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u062c\u0627\u0632\u0627\u0646",
+        "name_eng": "Jazan",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u062c\u0627\u0632\u0627\u0646",
+            "en": "Jazan"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12429519,
+        "osm_place_id": 283616688,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u062c\u062f\u0629",
+        "name_eng": "Governorate of Jidda",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u062c\u062f\u0629",
+            "de": "Gouvernement Dschidda",
+            "en": "Governorate of Jidda",
+            "es": "Gobernaci\u00f3n de Yida"
+        },
+        "extra": {
+            "wikidata": "Q97016466",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12413060,
+        "osm_place_id": 283591666,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u062d\u0627\u0626\u0644",
+        "name_eng": "Hail",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u062d\u0627\u0626\u0644",
+            "en": "Hail"
+        },
+        "extra": {
+            "wikidata": "Q243656",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12424986,
+        "osm_place_id": 283378219,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u062d\u0628\u0648\u0646\u0627",
+        "name_eng": "Hubuna",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u062d\u0628\u0648\u0646\u0627",
+            "en": "Hubuna"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12423671,
+        "osm_place_id": 283487343,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u062d\u0631\u064a\u0645\u0644\u0627\u0621",
+        "name_eng": "Huraymila",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u062d\u0631\u064a\u0645\u0644\u0627\u0621",
+            "de": "Huraymila'",
+            "en": "Huraymila",
+            "fr": "Huraymila'"
+        },
+        "extra": {
+            "wikidata": "Q11926190",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12404389,
+        "osm_place_id": 283486669,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u062d\u0641\u0631 \u0627\u0644\u0628\u0627\u0637\u0646",
+        "name_eng": "Hafar Al Batin Governorate",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u062d\u0641\u0631 \u0627\u0644\u0628\u0627\u0637\u0646",
+            "en": "Hafar Al Batin Governorate"
+        },
+        "extra": {
+            "wikidata": "Q97290550",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12420160,
+        "osm_place_id": 283459862,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u062d\u0642\u0644",
+        "name_eng": "Haqil",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u062d\u0642\u0644",
+            "en": "Haqil"
+        },
+        "extra": {
+            "wikidata": "Q2759519",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12423669,
+        "osm_place_id": 283342654,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u062d\u0648\u0637\u0647 \u0628\u0646\u0649 \u062a\u0645\u064a\u0645",
+        "name_eng": "Hawtat Bani Tamim",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u062d\u0648\u0637\u0647 \u0628\u0646\u0649 \u062a\u0645\u064a\u0645",
+            "en": "Hawtat Bani Tamim"
+        },
+        "extra": {
+            "wikidata": "Q3543425",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12424980,
+        "osm_place_id": 283391019,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u062e\u0628\u0627\u0634",
+        "name_eng": "Khubash",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u062e\u0628\u0627\u0634",
+            "en": "Khubash"
+        },
+        "extra": {
+            "wikidata": "Q65040825",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12429520,
+        "osm_place_id": 283449664,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u062e\u0644\u064a\u0635",
+        "name_eng": "Khulays",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u062e\u0644\u064a\u0635",
+            "de": "Khulays",
+            "en": "Khulays",
+            "fr": "Khulays"
+        },
+        "extra": {
+            "wikidata": "Q6402904",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12436486,
+        "osm_place_id": 283342712,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u062e\u0645\u064a\u0633 \u0645\u0634\u064a\u0637",
+        "name_eng": "Khamis Mushayt",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u062e\u0645\u064a\u0633 \u0645\u0634\u064a\u0637",
+            "en": "Khamis Mushayt"
+        },
+        "extra": {
+            "wikidata": "Q97309520",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12429011,
+        "osm_place_id": 283569427,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u062e\u064a\u0628\u0631",
+        "name_eng": "Khaybar",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u062e\u064a\u0628\u0631",
+            "en": "Khaybar"
+        },
+        "extra": {
+            "wikidata": "Q97308014",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12413345,
+        "osm_place_id": 283399228,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u062f\u0648\u0645\u0629 \u0627\u0644\u062c\u0646\u062f\u0644",
+        "name_eng": "Dawamat Al Jandal",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u062f\u0648\u0645\u0629 \u0627\u0644\u062c\u0646\u062f\u0644",
+            "de": "Dawmat al Jandal",
+            "en": "Dawamat Al Jandal",
+            "fr": "Dawmat al Jandal",
+            "ml": "\u0d26\u0d41\u0d2e\u0d3e\u0d24\u0d4d\u0d24\u0d4d \u0d05\u0d7d-\u0d1c\u0d28\u0d4d\u0d26\u0d7d",
+            "ru": "\u0414\u0443\u043c\u0430\u0442-\u044d\u0434-\u0414\u0436\u0430\u043d\u0434\u0430\u0439"
+        },
+        "extra": {
+            "wikidata": "Q2719371",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12403974,
+        "osm_place_id": 283611558,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0631\u0623\u0633 \u062a\u0646\u0648\u0631\u0647",
+        "name_eng": "Ras Tannurah Governorate",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0631\u0623\u0633 \u062a\u0646\u0648\u0631\u0647",
+            "en": "Ras Tannurah Governorate"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12429524,
+        "osm_place_id": 283549717,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0631\u0627\u0628\u063a",
+        "name_eng": "Rabigh",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0631\u0627\u0628\u063a",
+            "en": "Rabigh"
+        },
+        "extra": {
+            "wikidata": "Q27274",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12436484,
+        "osm_place_id": 283605885,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0631\u062c\u0627\u0644 \u0627\u0644\u0645\u0639",
+        "name_eng": "Rijal Al Ma",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0631\u062c\u0627\u0644 \u0627\u0644\u0645\u0639",
+            "en": "Rijal Al Ma"
+        },
+        "extra": {
+            "wikidata": "Q12239256",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12413338,
+        "osm_place_id": 283448451,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0631\u0641\u062d\u0627\u0621",
+        "name_eng": "Rafha",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0631\u0641\u062d\u0627\u0621",
+            "en": "Rafha"
+        },
+        "extra": {
+            "wikidata": "Q27219",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12423682,
+        "osm_place_id": 283349971,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0631\u0645\u0627\u062d",
+        "name_eng": "Rumah",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0631\u0645\u0627\u062d",
+            "en": "Rumah"
+        },
+        "extra": {
+            "wikidata": "Q7334375",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12429526,
+        "osm_place_id": 283449217,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0631\u0646\u064a\u0647",
+        "name_eng": "Ranyah",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0631\u0646\u064a\u0647",
+            "en": "Ranyah"
+        },
+        "extra": {
+            "wikidata": "Q12213744",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12406845,
+        "osm_place_id": 283389347,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0631\u064a\u0627\u0636 \u0627\u0644\u062e\u0628\u0631\u0627\u0621",
+        "name_eng": "Riyadh Al Khabra",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0631\u064a\u0627\u0636 \u0627\u0644\u062e\u0628\u0631\u0627\u0621",
+            "en": "Riyadh Al Khabra"
+        },
+        "extra": {
+            "wikidata": "Q65040798",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12436483,
+        "osm_place_id": 283640919,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0633\u0631\u0627\u0629 \u0639\u0628\u064a\u062f\u0647",
+        "name_eng": "Sarat Abidah",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0633\u0631\u0627\u0629 \u0639\u0628\u064a\u062f\u0647",
+            "en": "Sarat Abidah"
+        },
+        "extra": {
+            "wikidata": "Q7423306",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12413342,
+        "osm_place_id": 283549342,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0633\u0643\u0627\u0643\u0627",
+        "name_eng": "Sakaka",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0633\u0643\u0627\u0643\u0627",
+            "en": "Sakaka"
+        },
+        "extra": {
+            "wikidata": "Q27469",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12413064,
+        "osm_place_id": 283395842,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0633\u0645\u064a\u0631\u0627\u0621",
+        "name_eng": "Simira",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0633\u0645\u064a\u0631\u0627\u0621",
+            "en": "Simira"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12424984,
+        "osm_place_id": 283350308,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0634\u0631\u0648\u0631\u0647",
+        "name_eng": "Sharurah",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0634\u0631\u0648\u0631\u0647",
+            "en": "Sharurah"
+        },
+        "extra": {
+            "wikidata": "Q2568060",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12423677,
+        "osm_place_id": 283583446,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0634\u0642\u0631\u0627\u0621",
+        "name_eng": "Shaqra",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0634\u0642\u0631\u0627\u0621",
+            "en": "Shaqra"
+        },
+        "extra": {
+            "wikidata": "Q27473",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12430368,
+        "osm_place_id": 283342169,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0635\u0627\u0645\u0637\u0629",
+        "name_eng": "Samtah",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0635\u0627\u0645\u0637\u0629",
+            "en": "Samtah"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12430371,
+        "osm_place_id": 283541195,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0635\u0628\u064a\u0627\u0621",
+        "name_eng": "Sabya",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0635\u0628\u064a\u0627\u0621",
+            "de": "Khawajiyah",
+            "en": "Sabya",
+            "fr": "Khawajiyah"
+        },
+        "extra": {
+            "wikidata": "Q1020805",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12420157,
+        "osm_place_id": 283616664,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0636\u0628\u0627\u0621",
+        "name_eng": "Duba",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0636\u0628\u0627\u0621",
+            "en": "Duba"
+        },
+        "extra": {
+            "wikidata": "Q27225",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12423666,
+        "osm_place_id": 283397204,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0636\u0631\u0645\u0627",
+        "name_eng": "Duruma",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0636\u0631\u0645\u0627",
+            "en": "Duruma"
+        },
+        "extra": {
+            "wikidata": "Q97303110",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12406851,
+        "osm_place_id": 283376049,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0636\u0631\u064a\u0647",
+        "name_eng": "Dariyah",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0636\u0631\u064a\u0647",
+            "en": "Dariyah"
+        },
+        "extra": {
+            "wikidata": "Q12220558",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12430366,
+        "osm_place_id": 283558515,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0636\u0645\u062f",
+        "name_eng": "Damad",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0636\u0645\u062f",
+            "en": "Damad"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12413344,
+        "osm_place_id": 283448437,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0637\u0628\u0631\u062c\u0644",
+        "name_eng": "Tubarjal",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0637\u0628\u0631\u062c\u0644",
+            "en": "Tubarjal"
+        },
+        "extra": {
+            "wikidata": "Q7672929",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12436474,
+        "osm_place_id": 283487648,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0637\u0631\u064a\u0628",
+        "name_eng": "Tarib",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0637\u0631\u064a\u0628",
+            "en": "Tarib"
+        },
+        "extra": {
+            "wikidata": "Q12241893",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12413340,
+        "osm_place_id": 283459399,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0637\u0631\u064a\u0641",
+        "name_eng": "Turayf",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0637\u0631\u064a\u0641",
+            "en": "Turayf"
+        },
+        "extra": {
+            "wikidata": "Q27255",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12436470,
+        "osm_place_id": 283449418,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0638\u0647\u0631\u0627\u0646 \u0627\u0644\u062c\u0646\u0648\u0628",
+        "name_eng": "Zahran Al Janub",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0638\u0647\u0631\u0627\u0646 \u0627\u0644\u062c\u0646\u0648\u0628",
+            "en": "Zahran Al Janub"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12413339,
+        "osm_place_id": 283591698,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0639\u0631\u0639\u0631",
+        "name_eng": "Arar",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0639\u0631\u0639\u0631",
+            "en": "Arar"
+        },
+        "extra": {
+            "wikidata": "Q97309769",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12423683,
+        "osm_place_id": 283341672,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0639\u0641\u064a\u0641",
+        "name_eng": "Afif",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0639\u0641\u064a\u0641",
+            "en": "Afif",
+            "fr": "Afif",
+            "ku": "Ef\u00eef",
+            "ckb": "\u0639\u06d5\u0641\u06cc\u0641"
+        },
+        "extra": {
+            "wikidata": "Q27139",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12406847,
+        "osm_place_id": 283640840,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0639\u0642\u0644\u0629 \u0627\u0644\u0635\u0642\u0648\u0631",
+        "name_eng": "Uqlat As Suqur",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0639\u0642\u0644\u0629 \u0627\u0644\u0635\u0642\u0648\u0631",
+            "en": "Uqlat As Suqur"
+        },
+        "extra": {
+            "wikidata": "Q12227470",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12406846,
+        "osm_place_id": 283568977,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0639\u0646\u064a\u0632\u0647",
+        "name_eng": "Unayzah",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0639\u0646\u064a\u0632\u0647",
+            "en": "Unayzah"
+        },
+        "extra": {
+            "wikidata": "Q97308071",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12406842,
+        "osm_place_id": 283540689,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0639\u064a\u0648\u0646 \u0627\u0644\u062c\u0648\u0627\u0621",
+        "name_eng": "Uyun Al Jiwa",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0639\u064a\u0648\u0646 \u0627\u0644\u062c\u0648\u0627\u0621",
+            "en": "Uyun Al Jiwa"
+        },
+        "extra": {
+            "wikidata": "Q7904412",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12430369,
+        "osm_place_id": 283538983,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0641\u0631\u0633\u0627\u0646",
+        "name_eng": "Farasan",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0641\u0631\u0633\u0627\u0646",
+            "en": "Farasan"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12429807,
+        "osm_place_id": 283343086,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0641\u0631\u0639\u0629 \u063a\u0627\u0645\u062f \u0627\u0644\u0632\u0646\u0627\u062f",
+        "name_eng": "Farat Ghamid Az Zinad",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0641\u0631\u0639\u0629 \u063a\u0627\u0645\u062f \u0627\u0644\u0632\u0646\u0627\u062f",
+            "en": "Farat Ghamid Az Zinad"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12404406,
+        "osm_place_id": 283481281,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0642\u0631\u064a\u0629 \u0627\u0644\u0639\u0644\u064a\u0627",
+        "name_eng": "Qaryah Al Ulya Governorate",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0642\u0631\u064a\u0629 \u0627\u0644\u0639\u0644\u064a\u0627",
+            "de": "Qaryah al `Ulya",
+            "en": "Qaryah Al Ulya Governorate",
+            "fr": "Qaryah al `Ulya"
+        },
+        "extra": {
+            "wikidata": "Q12232650",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12429801,
+        "osm_place_id": 283460157,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0642\u0644\u0648\u0647",
+        "name_eng": "Qilwah",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0642\u0644\u0648\u0647",
+            "en": "Qilwah"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12436476,
+        "osm_place_id": 283539082,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0645\u062d\u0627\u064a\u0644",
+        "name_eng": "Muhayil",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0645\u062d\u0627\u064a\u0644",
+            "en": "Muhayil"
+        },
+        "extra": {
+            "wikidata": "Q12239284",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12423661,
+        "osm_place_id": 283449271,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0645\u0631\u0627\u062a",
+        "name_eng": "Marat",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0645\u0631\u0627\u062a",
+            "en": "Marat"
+        },
+        "extra": {
+            "wikidata": "Q12241947",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12429517,
+        "osm_place_id": 283413990,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0645\u0643\u0629 \u0627\u0644\u0645\u0643\u0631\u0645\u0629",
+        "name_eng": "Makkah Al Mukarramah",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0645\u0643\u0629 \u0627\u0644\u0645\u0643\u0631\u0645\u0629",
+            "cs": "Mekka",
+            "de": "Mekka",
+            "en": "Makkah Al Mukarramah",
+            "es": "La Meca",
+            "et": "Meka",
+            "eu": "Meka",
+            "fi": "Mekka",
+            "fr": "La Mecque",
+            "he": "\u05de\u05db\u05d4",
+            "hi": "\u092e\u0915\u094d\u0915\u093e",
+            "hr": "Meka",
+            "it": "La Mecca",
+            "ja": "\u30e1\u30c3\u30ab",
+            "jv": "Mekah",
+            "ko": "\uba54\uce74",
+            "ku": "Meke",
+            "ml": "\u0d2e\u0d15\u0d4d\u0d15",
+            "ms": "Makkah",
+            "my": "\u1019\u1000\u1039\u1000\u102c\u1019\u103c\u102d\u102f\u1037",
+            "nl": "Mekka",
+            "nn": "Mekka",
+            "no": "Mekka",
+            "pt": "Meca",
+            "ru": "\u041c\u0435\u043a\u043a\u0430",
+            "sr": "\u041c\u0435\u043a\u0430",
+            "sv": "Mecka",
+            "tr": "Mekke",
+            "ur": "\u0645\u06a9\u06c1",
+            "zh": "\u9ea5\u52a0",
+            "alt": "Makkah",
+            "ckb": "\u0645\u06d5\u06a9\u06a9\u06d5",
+            "diq": "Meka",
+            "yue": "\u9ea5\u52a0",
+            "zh-Hans": "\u9ea6\u52a0",
+            "zh-Hant": "\u9ea5\u52a0"
+        },
+        "extra": {
+            "wikidata": "Q5806",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12413058,
+        "osm_place_id": 283616644,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0645\u0648\u0642\u0642",
+        "name_eng": "Mawqaq",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0645\u0648\u0642\u0642",
+            "en": "Mawqaq"
+        },
+        "extra": {
+            "wikidata": "Q6874886",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12429529,
+        "osm_place_id": 283558484,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0645\u064a\u0633\u0627\u0646",
+        "name_eng": "Missan",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0645\u064a\u0633\u0627\u0646",
+            "en": "Missan"
+        },
+        "extra": {
+            "wikidata": "Q12245707",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12424982,
+        "osm_place_id": 283640891,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0646\u062c\u0631\u0627\u0646",
+        "name_eng": "Najran",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0646\u062c\u0631\u0627\u0646",
+            "en": "Najran"
+        },
+        "extra": {
+            "wikidata": "Q97310550",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12430377,
+        "osm_place_id": 283605869,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0647\u0631\u0648\u0628",
+        "name_eng": "Harub",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0647\u0631\u0648\u0628",
+            "en": "Harub"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12423662,
+        "osm_place_id": 283591842,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0648\u0627\u062f\u064a \u0627\u0644\u062f\u0648\u0627\u0633\u0631",
+        "name_eng": "Wadi Ad Dawasir",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0648\u0627\u062f\u064a \u0627\u0644\u062f\u0648\u0627\u0633\u0631",
+            "en": "Wadi Ad Dawasir",
+            "fr": "Wadi ad-Dawasir"
+        },
+        "extra": {
+            "wikidata": "Q3181510",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12429014,
+        "osm_place_id": 283350817,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0648\u0627\u062f\u064a \u0627\u0644\u0641\u0631\u0639",
+        "name_eng": "Wadi Al Fara",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0648\u0627\u062f\u064a \u0627\u0644\u0641\u0631\u0639",
+            "en": "Wadi Al Fara"
+        },
+        "extra": {
+            "wikidata": "Q12239268",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12424983,
+        "osm_place_id": 283605859,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u064a\u062f\u0645\u0647",
+        "name_eng": "Yadamah",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u064a\u062f\u0645\u0647",
+            "en": "Yadamah"
+        },
+        "extra": {
+            "wikidata": "Q65040822",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 12429009,
+        "osm_place_id": 283583508,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u064a\u0646\u0628\u0639",
+        "name_eng": "Yanbu",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u064a\u0646\u0628\u0639",
+            "en": "Yanbu"
+        },
+        "extra": {
+            "wikidata": "Q97290593",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": "SA-11",
+        "osm_id": 3679888,
+        "osm_place_id": 282450792,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u0628\u0627\u062d\u0629",
+        "name_eng": "Al Bahah Region",
+        "name_translations": {
+            "ar": "\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u0628\u0627\u062d\u0629",
+            "cs": "al-Baha",
+            "de": "Provinz al-Baha",
+            "en": "Al Bahah Region",
+            "es": "Provincia de Baha",
+            "fr": "Al Bahah",
+            "pt": "Al Bahah",
+            "ru": "\u042d\u043b\u044c-\u0411\u0430\u0445\u0430"
+        },
+        "extra": {
+            "wikidata": "Q852774",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": "SA-12",
+        "osm_id": 3842543,
+        "osm_place_id": 282580316,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u062c\u0648\u0641",
+        "name_eng": "Al Jawf Region",
+        "name_translations": {
+            "ar": "\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u062c\u0648\u0641",
+            "cs": "al-D\u017eauf",
+            "de": "Provinz al-Dschauf",
+            "en": "Al Jawf Region",
+            "es": "Provincia de Yauf",
+            "fr": "Jawf",
+            "pt": "Jaufe",
+            "ru": "\u042d\u043b\u044c-\u0414\u0436\u0430\u0443\u0444"
+        },
+        "extra": {
+            "wikidata": "Q1471266",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": "SA-08",
+        "osm_id": 3673927,
+        "osm_place_id": 282477125,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u062d\u062f\u0648\u062f \u0627\u0644\u0634\u0645\u0627\u0644\u064a\u0629",
+        "name_eng": "Northern Borders Region",
+        "name_translations": {
+            "ar": "\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u062d\u062f\u0648\u062f \u0627\u0644\u0634\u0645\u0627\u0644\u064a\u0629",
+            "cs": "al-Hud\u00fad a\u0161-\u0160am\u00e1lijah",
+            "de": "N\u00f6rdliche Grenzregion",
+            "en": "Northern Borders Region",
+            "es": "Provincia de la Frontera del Norte",
+            "fr": "Hudud ach-Chamaliya",
+            "pt": "Fronteira do Norte",
+            "ru": "\u042d\u043b\u044c-\u0425\u0443\u0434\u0443\u0434 \u044d\u0448-\u0428\u0430\u043c\u0430\u043b\u0438\u0439\u044f"
+        },
+        "extra": {
+            "wikidata": "Q201781",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 3678409,
+        "osm_place_id": 282486225,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u0631\u064a\u0627\u0636",
+        "name_eng": "Riyadh Region",
+        "name_translations": {
+            "ar": "\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u0631\u064a\u0627\u0636",
+            "cs": "al-Rij\u00e1d",
+            "de": "Provinz Riad",
+            "en": "Riyadh Region",
+            "es": "Provincia de Riad",
+            "fr": "Riyad",
+            "pt": "Riade",
+            "ru": "\u042d\u0440-\u0420\u0438\u044f\u0434",
+            "ur": "\u062e\u0637\u06c1 \u0631\u06cc\u0627\u0636"
+        },
+        "extra": {
+            "wikidata": "Q1249255",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": "SA-05",
+        "osm_id": 3679872,
+        "osm_place_id": 282903010,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u0642\u0635\u064a\u0645",
+        "name_eng": "Al-Qassim Region",
+        "name_translations": {
+            "ar": "\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u0642\u0635\u064a\u0645",
+            "cs": "al-K\u00e1sim",
+            "de": "Provinz al-Qasim",
+            "en": "Al-Qassim Region",
+            "es": "Provincia de Casim",
+            "fr": "Qasim",
+            "pt": "Alcacim",
+            "ru": "\u042d\u043b\u044c-\u041a\u0430\u0441\u0438\u043c"
+        },
+        "extra": {
+            "wikidata": "Q1105411",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": "SA-03",
+        "osm_id": 3679869,
+        "osm_place_id": 282502783,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0645\u0646\u0648\u0631\u0629",
+        "name_eng": "Al Madinah Region",
+        "name_translations": {
+            "ar": "\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0645\u0646\u0648\u0631\u0629",
+            "cs": "al-Medina",
+            "de": "Provinz Medina",
+            "en": "Al Madinah Region",
+            "es": "Provincia de Medina",
+            "fr": "M\u00e9dine",
+            "pt": "Medina",
+            "ru": "\u042d\u043b\u044c-\u041c\u0430\u0434\u0438\u043d\u0430",
+            "uk": "\u0415\u043b\u044c-\u041c\u0430\u0434\u0456\u043d\u0430 \u043f\u0440\u043e\u0432\u0456\u043d\u0446\u0456\u044f"
+        },
+        "extra": {
+            "wikidata": "Q236027",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 3679867,
+        "osm_place_id": 282493730,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u0646\u0637\u0642\u0629 \u062a\u0628\u0648\u0643",
+        "name_eng": "Tabuk Region",
+        "name_translations": {
+            "ar": "\u0645\u0646\u0637\u0642\u0629 \u062a\u0628\u0648\u0643",
+            "cs": "Tab\u00fak",
+            "de": "Provinz Tabuk",
+            "el": "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u03a4\u03b1\u03bc\u03c0\u03bf\u03cd\u03ba",
+            "en": "Tabuk Region",
+            "es": "Provincia de Tabuk",
+            "fr": "Tabuk",
+            "hu": "Tab\u00fak tartom\u00e1ny",
+            "pt": "Tabuque",
+            "ru": "\u0422\u0430\u0431\u0443\u043a",
+            "uk": "\u0422\u0430\u0431\u0443\u043a \u043f\u0440\u043e\u0432\u0456\u043d\u0446\u0456\u044f",
+            "ur": "\u062e\u0637\u06c1 \u062a\u0628\u0648\u06a9"
+        },
+        "extra": {
+            "wikidata": "Q1315953",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": "SA-09",
+        "osm_id": 3679903,
+        "osm_place_id": 282902842,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u0646\u0637\u0642\u0629 \u062c\u0627\u0632\u0627\u0646",
+        "name_eng": "Jazan Region",
+        "name_translations": {
+            "ar": "\u0645\u0646\u0637\u0642\u0629 \u062c\u0627\u0632\u0627\u0646",
+            "cs": "D\u017eiz\u00e1n",
+            "de": "Provinz Dschazan",
+            "en": "Jazan Region",
+            "es": "Provincia de Jiz\u00e1n",
+            "fr": "Jizan",
+            "pt": "Jiz\u00e3",
+            "ru": "\u0414\u0436\u0438\u0437\u0430\u043d"
+        },
+        "extra": {
+            "wikidata": "Q269973",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": "SA-06",
+        "osm_id": 3676707,
+        "osm_place_id": 282502427,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u0646\u0637\u0642\u0629 \u062d\u0627\u0626\u0644",
+        "name_eng": "Hayel Region",
+        "name_translations": {
+            "ar": "\u0645\u0646\u0637\u0642\u0629 \u062d\u0627\u0626\u0644",
+            "cs": "Hajl",
+            "de": "Provinz Hayel",
+            "en": "Hayel Region",
+            "es": "Provincia de Ha\u00edl",
+            "fr": "Ha\u00efl",
+            "pt": "Hail"
+        },
+        "extra": {
+            "wikidata": "Q243656",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 3678598,
+        "osm_place_id": 282501698,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u0646\u0637\u0642\u0629 \u0639\u0633\u064a\u0631",
+        "name_eng": "'Asir Region",
+        "name_translations": {
+            "ar": "\u0645\u0646\u0637\u0642\u0629 \u0639\u0633\u064a\u0631",
+            "cs": "As\u00edr",
+            "de": "Provinz Asir",
+            "en": "'Asir Region",
+            "es": "Provincia de Asir",
+            "fr": "Asir",
+            "pt": "Assir",
+            "ru": "\u0410\u0441\u0438\u0440"
+        },
+        "extra": {
+            "wikidata": "Q779855",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": null,
+        "osm_id": 3678639,
+        "osm_place_id": 282482139,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u0646\u0637\u0642\u0629 \u0645\u0643\u0629 \u0627\u0644\u0645\u0643\u0631\u0645\u0629",
+        "name_eng": "Makkah Region",
+        "name_translations": {
+            "ar": "\u0645\u0646\u0637\u0642\u0629 \u0645\u0643\u0629 \u0627\u0644\u0645\u0643\u0631\u0645\u0629",
+            "cs": "Mekka",
+            "de": "Provinz Mekka",
+            "en": "Makkah Region",
+            "es": "Provincia de La Meca",
+            "fr": "la Mecque",
+            "pt": "Meca",
+            "ru": "\u041c\u0435\u043a\u043a\u0430",
+            "ur": "\u0635\u0648\u0628\u06c1 \u0645\u06a9\u06c1"
+        },
+        "extra": {
+            "wikidata": "Q234167",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sa",
+        "country_cca3": "sau",
+        "region_cca2": "SA-10",
+        "osm_id": 3667317,
+        "osm_place_id": 282899858,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u0646\u0637\u0642\u0629 \u0646\u062c\u0631\u0627\u0646",
+        "name_eng": "Najran Region",
+        "name_translations": {
+            "ar": "\u0645\u0646\u0637\u0642\u0629 \u0646\u062c\u0631\u0627\u0646",
+            "cs": "Nad\u017er\u00e1n",
+            "de": "Provinz Nadschran",
+            "en": "Najran Region",
+            "es": "Provincia de Najr\u00e1n",
+            "fr": "Najran",
+            "pt": "Najr\u00e3",
+            "ru": "\u041d\u0430\u0434\u0436\u0440\u0430\u043d"
+        },
+        "extra": {
+            "wikidata": "Q464718",
+            "un_locode": null
+        }
+    }
+]

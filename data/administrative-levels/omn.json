@@ -1,0 +1,280 @@
+[
+    {
+        "country_cca2": "om",
+        "country_cca3": "omn",
+        "region_cca2": null,
+        "osm_id": 10402689,
+        "osm_place_id": 283144893,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u0627\u0644\u062c\u0628\u0644 \u0627\u0644\u0623\u062e\u0636\u0631",
+        "name_eng": "al-Dschabal al-Achdar",
+        "name_translations": {
+            "ar": "\u0627\u0644\u062c\u0628\u0644 \u0627\u0644\u0623\u062e\u0636\u0631",
+            "de": "al-Dschabal al-Achdar",
+            "en": "al-Dschabal al-Achdar"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "om",
+        "country_cca3": "omn",
+        "region_cca2": "OM-SJ",
+        "osm_id": 10169426,
+        "osm_place_id": 283184028,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "\u062c\u0646\u0648\u0628 \u0627\u0644\u0634\u0631\u0642\u064a\u0629",
+        "name_eng": "Ash Sharqiyah South",
+        "name_translations": {
+            "ar": "\u062c\u0646\u0648\u0628 \u0627\u0644\u0634\u0631\u0642\u064a\u0629",
+            "cs": "Ji\u017en\u00ed a\u0161-\u0160ark\u00edja",
+            "en": "Ash Sharqiyah South",
+            "fa": "\u0627\u0633\u062a\u0627\u0646 \u0634\u0631\u0642\u06cc\u0647 \u062c\u0646\u0648\u0628\u06cc",
+            "fr": "Ach-Charqiya du Sud",
+            "ja": "\u5357\u30b7\u30e3\u30eb\u30ad\u30fc\u30e4\u884c\u653f\u533a",
+            "ru": "\u042e\u0436\u043d\u0430\u044f \u042d\u0448-\u0428\u0430\u0440\u043a\u0438\u044f"
+        },
+        "extra": {
+            "wikidata": "Q4501894",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "om",
+        "country_cca3": "omn",
+        "region_cca2": "OM-SS",
+        "osm_id": 10169425,
+        "osm_place_id": 283136514,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "\u0634\u0645\u0627\u0644 \u0627\u0644\u0634\u0631\u0642\u064a\u0629",
+        "name_eng": "Ash Sharqiyah North",
+        "name_translations": {
+            "ar": "\u0634\u0645\u0627\u0644 \u0627\u0644\u0634\u0631\u0642\u064a\u0629",
+            "cs": "Severn\u00ed a\u0161-\u0160ark\u00edja",
+            "de": "Schamal asch-Scharqiyya",
+            "en": "Ash Sharqiyah North",
+            "fr": "Ach-Charqiya du Nord",
+            "ru": "\u0421\u0435\u0432\u0435\u0440\u043d\u0430\u044f \u042d\u0448-\u0428\u0430\u0440\u043a\u0438\u044f"
+        },
+        "extra": {
+            "wikidata": "Q4501876",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "om",
+        "country_cca3": "omn",
+        "region_cca2": "OM-BU",
+        "osm_id": 3781313,
+        "osm_place_id": 282772252,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0628\u0631\u064a\u0645\u064a",
+        "name_eng": "Al Buraymi Governorate",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0628\u0631\u064a\u0645\u064a",
+            "cs": "al-Burajmi",
+            "de": "al-Buraimi",
+            "en": "Al Buraymi Governorate",
+            "es": "Buraimi",
+            "fa": "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0628\u0631\u06cc\u0645\u06cc",
+            "fr": "Al Buraymi"
+        },
+        "extra": {
+            "wikidata": "Q852039",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "om",
+        "country_cca3": "omn",
+        "region_cca2": "OM-DA",
+        "osm_id": 3781241,
+        "osm_place_id": 282469934,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u062f\u0627\u062e\u0644\u064a\u0629",
+        "name_eng": "Ad Dakhiliyah Governorate",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u062f\u0627\u062e\u0644\u064a\u0629",
+            "cs": "ad-D\u00e1ch\u00edlija",
+            "de": "ad-Dachiliyya",
+            "en": "Ad Dakhiliyah Governorate",
+            "fr": "Ad-D\u0101khil\u012byah"
+        },
+        "extra": {
+            "wikidata": "Q792550",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "om",
+        "country_cca3": "omn",
+        "region_cca2": "OM-ZA",
+        "osm_id": 3781242,
+        "osm_place_id": 282915458,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0638\u0627\u0647\u0631\u0629",
+        "name_eng": "Ad Dhahirah Governorate",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0638\u0627\u0647\u0631\u0629",
+            "cs": "ad-Zah\u00edra",
+            "de": "az-Zahira",
+            "en": "Ad Dhahirah Governorate",
+            "es": "Ad Dhahirah",
+            "fr": "Ad Dhahirah"
+        },
+        "extra": {
+            "wikidata": "Q1468596",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "om",
+        "country_cca3": "omn",
+        "region_cca2": "OM-WU",
+        "osm_id": 3781238,
+        "osm_place_id": 282541030,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0648\u0633\u0637\u0649",
+        "name_eng": "Al Wusta Governorate",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0648\u0633\u0637\u0649",
+            "cs": "al-Wusta",
+            "de": "al-Wusta",
+            "en": "Al Wusta Governorate",
+            "fr": "Al Wusta"
+        },
+        "extra": {
+            "wikidata": "Q958518",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "om",
+        "country_cca3": "omn",
+        "region_cca2": "OM-BJ",
+        "osm_id": 3994012,
+        "osm_place_id": 282528951,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u062c\u0646\u0648\u0628 \u0627\u0644\u0628\u0627\u0637\u0646\u0629",
+        "name_eng": "Al Batinah South Governorate",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u062c\u0646\u0648\u0628 \u0627\u0644\u0628\u0627\u0637\u0646\u0629",
+            "cs": "Ji\u017en\u00ed al-Bat\u00edna",
+            "de": "Dschanub al-Batina",
+            "en": "Al Batinah South Governorate",
+            "es": "Al Batinah Sur",
+            "fr": "Al-Batina du Sud"
+        },
+        "extra": {
+            "wikidata": "Q4703565",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "om",
+        "country_cca3": "omn",
+        "region_cca2": "OM-BS",
+        "osm_id": 3781240,
+        "osm_place_id": 282528328,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0634\u0645\u0627\u0644 \u0627\u0644\u0628\u0627\u0637\u0646\u0629",
+        "name_eng": "Al Batinah North Governorate",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0634\u0645\u0627\u0644 \u0627\u0644\u0628\u0627\u0637\u0646\u0629",
+            "cs": "Severn\u00ed al-Bat\u00edna",
+            "de": "Schamal al-Batina",
+            "en": "Al Batinah North Governorate",
+            "es": "Batina Norte",
+            "fr": "Al-Batina du Nord"
+        },
+        "extra": {
+            "wikidata": "Q4703564",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "om",
+        "country_cca3": "omn",
+        "region_cca2": "OM-ZU",
+        "osm_id": 3781314,
+        "osm_place_id": 282542055,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0638\u0641\u0627\u0631",
+        "name_eng": "Dhofar",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0638\u0641\u0627\u0631",
+            "cs": "Daf\u00e1r",
+            "de": "Dhofar",
+            "en": "Dhofar",
+            "es": "Dhofar",
+            "fr": "Dhofar",
+            "ru": "\u0414\u043e\u0444\u0430\u0440"
+        },
+        "extra": {
+            "wikidata": "Q1207752",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "om",
+        "country_cca3": "omn",
+        "region_cca2": "OM-MU",
+        "osm_id": 3781315,
+        "osm_place_id": 282495786,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0645\u0633\u0646\u062f\u0645",
+        "name_eng": "Musandam Governorate",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0645\u0633\u0646\u062f\u0645",
+            "cs": "Musandam",
+            "de": "Musandam",
+            "en": "Musandam Governorate",
+            "fr": "Musandam",
+            "ru": "\u041c\u0443\u0441\u0430\u043d\u0434\u0430\u043c",
+            "ar1": "\u0645\u0633\u0646\u062f\u0645"
+        },
+        "extra": {
+            "wikidata": "Q372144",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "om",
+        "country_cca3": "omn",
+        "region_cca2": "OM-MA",
+        "osm_id": 3781239,
+        "osm_place_id": 282511849,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u0633\u0642\u0637",
+        "name_eng": "Muscat",
+        "name_translations": {
+            "ar": "\u0645\u0633\u0642\u0637",
+            "cs": "Maskat",
+            "de": "Maskat",
+            "en": "Muscat",
+            "es": "Muscat",
+            "fa": "\u0645\u0633\u0642\u0637",
+            "fr": "Mascate",
+            "ur": "\u0645\u0633\u0642\u0637",
+            "vi": "Muscat"
+        },
+        "extra": {
+            "wikidata": "Q544762",
+            "un_locode": null
+        }
+    }
+]

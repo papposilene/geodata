@@ -1,0 +1,260 @@
+[
+    {
+        "country_cca2": "lu",
+        "country_cca3": "lux",
+        "region_cca2": "LU-CA",
+        "osm_id": 407813,
+        "osm_place_id": 281955354,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Canton Capellen",
+        "name_eng": "Canton Capellen",
+        "name_translations": {
+            "de": "Kanton Kapellen",
+            "lt": "Kapeleno kantonas",
+            "ru": "\u043a\u0430\u043d\u0442\u043e\u043d \u041a\u0430\u043f\u0435\u043b\u043b\u0435\u043d"
+        },
+        "extra": {
+            "wikidata": "Q397678",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lu",
+        "country_cca3": "lux",
+        "region_cca2": "LU-CL",
+        "osm_id": 1115796,
+        "osm_place_id": 282214849,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Canton Clervaux",
+        "name_eng": "Canton Clervaux",
+        "name_translations": {
+            "de": "Kanton Clerf",
+            "lt": "Klervo kantonas",
+            "ru": "\u043a\u0430\u043d\u0442\u043e\u043d \u041a\u043b\u0435\u0440\u0432\u043e"
+        },
+        "extra": {
+            "wikidata": "Q691793",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lu",
+        "country_cca3": "lux",
+        "region_cca2": "LU-DI",
+        "osm_id": 1113683,
+        "osm_place_id": 282053118,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Canton Diekirch",
+        "name_eng": "Canton Diekirch",
+        "name_translations": {
+            "de": "Kanton Diekirch",
+            "lt": "Dykircho kantonas"
+        },
+        "extra": {
+            "wikidata": "Q691842",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lu",
+        "country_cca3": "lux",
+        "region_cca2": "LU-EC",
+        "osm_id": 407792,
+        "osm_place_id": 282282986,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Canton Echternach",
+        "name_eng": "Canton Echternach",
+        "name_translations": {
+            "de": "Kanton Echternach",
+            "lt": "Echternacho kantonas"
+        },
+        "extra": {
+            "wikidata": "Q720221",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lu",
+        "country_cca3": "lux",
+        "region_cca2": null,
+        "osm_id": 1113898,
+        "osm_place_id": 282381592,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Canton Esch-sur-Alzette",
+        "name_eng": "Canton Esch-sur-Alzette",
+        "name_translations": {
+            "de": "Kanton Esch an der Alzette",
+            "fr": "Canton Esch-sur-Alzette",
+            "lt": "E\u0161o kantonas",
+            "ru": "\u043a\u0430\u043d\u0442\u043e\u043d \u042d\u0448-\u0441\u044e\u0440-\u0410\u043b\u044c\u0437\u0435\u0442\u0442"
+        },
+        "extra": {
+            "wikidata": "Q188283",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lu",
+        "country_cca3": "lux",
+        "region_cca2": "LU-GR",
+        "osm_id": 407796,
+        "osm_place_id": 282429741,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Canton Grevenmacher",
+        "name_eng": "Canton Grevenmacher",
+        "name_translations": {
+            "lt": "Gr\u0117venmacherio kantonas"
+        },
+        "extra": {
+            "wikidata": "Q836002",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lu",
+        "country_cca3": "lux",
+        "region_cca2": "LU-LU",
+        "osm_id": 407824,
+        "osm_place_id": 281962556,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Canton Luxembourg",
+        "name_eng": "Canton Luxembourg",
+        "name_translations": {
+            "de": "Kanton Luxemburg",
+            "fr": "Canton Luxembourg",
+            "lb": "Kanton L\u00ebtzebuerg",
+            "lt": "Liuksemburgo kantonas"
+        },
+        "extra": {
+            "wikidata": "Q691741",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lu",
+        "country_cca3": "lux",
+        "region_cca2": "LU-ME",
+        "osm_id": 407810,
+        "osm_place_id": 282150726,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Canton Mersch",
+        "name_eng": "Canton Mersch",
+        "name_translations": {
+            "de": "Kanton Mersch",
+            "lt": "Mer\u0161o kantonas"
+        },
+        "extra": {
+            "wikidata": "Q753917",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lu",
+        "country_cca3": "lux",
+        "region_cca2": "LU-RD",
+        "osm_id": 660245,
+        "osm_place_id": 282413371,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Canton Redange",
+        "name_eng": "Canton Redange",
+        "name_translations": {
+            "de": "Kanton Redingen",
+            "lt": "Redan\u017eo kantonas",
+            "ru": "\u043a\u0430\u043d\u0442\u043e\u043d \u0420\u0435\u0434\u0430\u043d\u0436"
+        },
+        "extra": {
+            "wikidata": "Q835980",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lu",
+        "country_cca3": "lux",
+        "region_cca2": "LU-RM",
+        "osm_id": 407799,
+        "osm_place_id": 282015305,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Canton Remich",
+        "name_eng": "Canton Remich",
+        "name_translations": {
+            "de": "Kanton Remich",
+            "lt": "R\u0117micho kantonas",
+            "ru": "\u043a\u0430\u043d\u0442\u043e\u043d \u0420\u0435\u043c\u0438\u0445"
+        },
+        "extra": {
+            "wikidata": "Q691781",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lu",
+        "country_cca3": "lux",
+        "region_cca2": "LU-VD",
+        "osm_id": 1342842,
+        "osm_place_id": 282227249,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Canton Vianden",
+        "name_eng": "Canton Vianden",
+        "name_translations": {
+            "de": "Kanton Vianden",
+            "lt": "Viandeno kantonas"
+        },
+        "extra": {
+            "wikidata": "Q845600",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lu",
+        "country_cca3": "lux",
+        "region_cca2": "LU-WI",
+        "osm_id": 1115797,
+        "osm_place_id": 282173181,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Canton Wiltz",
+        "name_eng": "Canton Wiltz",
+        "name_translations": {
+            "de": "Kanton Wiltz",
+            "lt": "Vilco kantonas",
+            "ru": "\u043a\u0430\u043d\u0442\u043e\u043d \u0412\u0438\u043b\u044c\u0446"
+        },
+        "extra": {
+            "wikidata": "Q550021",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lu",
+        "country_cca3": "lux",
+        "region_cca2": null,
+        "osm_id": 3659532,
+        "osm_place_id": 282528334,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Condominium L\u00ebtzebuerg-Deutschland",
+        "name_eng": "Germany-Luxembourg condominium",
+        "name_translations": {
+            "de": "Gemeinsames deutsch-luxemburgisches Hoheitsgebiet",
+            "en": "Germany-Luxembourg condominium",
+            "fr": "Condominium germano-luxembourgeois",
+            "lb": "Gemeinsame L\u00ebtzebuergesch-D\u00e4itsche Souver\u00e4nit\u00e9itsgebitt",
+            "lt": "Vokietijos-Liuksemburgo kondominiumas"
+        },
+        "extra": {
+            "wikidata": "Q1500976",
+            "un_locode": null
+        }
+    }
+]

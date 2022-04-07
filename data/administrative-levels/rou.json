@@ -1,0 +1,997 @@
+[
+    {
+        "country_cca2": "ro",
+        "country_cca3": "rou",
+        "region_cca2": "RO-AB",
+        "osm_id": 194271,
+        "osm_place_id": 281930252,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Alba",
+        "name_eng": "Alba",
+        "name_translations": {
+            "hu": "Feh\u00e9r megye",
+            "ro": "Alba",
+            "ru": "\u0410\u043b\u0431\u0430"
+        },
+        "extra": {
+            "wikidata": "Q45868",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ro",
+        "country_cca3": "rou",
+        "region_cca2": null,
+        "osm_id": 2248721,
+        "osm_place_id": 282328257,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Arad",
+        "name_eng": "Arad",
+        "name_translations": {
+            "hu": "Arad megye",
+            "ro": "Arad",
+            "ru": "\u0410\u0440\u0430\u0434"
+        },
+        "extra": {
+            "wikidata": "Q179559",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ro",
+        "country_cca3": "rou",
+        "region_cca2": null,
+        "osm_id": 2261315,
+        "osm_place_id": 282515644,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Arge\u0219",
+        "name_eng": "Arge\u0219",
+        "name_translations": {
+            "de": "Argisch",
+            "ro": "Arge\u0219",
+            "ru": "\u0410\u0440\u0434\u0436\u0435\u0448"
+        },
+        "extra": {
+            "wikidata": "Q179567",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ro",
+        "country_cca3": "rou",
+        "region_cca2": "RO-BC",
+        "osm_id": 2248681,
+        "osm_place_id": 282338542,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Bac\u0103u",
+        "name_eng": "Bac\u0103u",
+        "name_translations": {
+            "de": "Barchau",
+            "hu": "B\u00e1k\u00f3 megye",
+            "ro": "Bac\u0103u",
+            "ru": "\u0411\u0430\u043a\u044d\u0443"
+        },
+        "extra": {
+            "wikidata": "Q179779",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ro",
+        "country_cca3": "rou",
+        "region_cca2": "RO-BH",
+        "osm_id": 91731,
+        "osm_place_id": 281731388,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Bihor",
+        "name_eng": "Bihor",
+        "name_translations": {
+            "hu": "Bihar megye",
+            "ro": "Bihor",
+            "ru": "\u0411\u0438\u0445\u043e\u0440"
+        },
+        "extra": {
+            "wikidata": "Q179588",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ro",
+        "country_cca3": "rou",
+        "region_cca2": "RO-BN",
+        "osm_id": 55466,
+        "osm_place_id": 282233830,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Bistri\u021ba-N\u0103s\u0103ud",
+        "name_eng": "Bistri\u021ba-N\u0103s\u0103ud",
+        "name_translations": {
+            "de": "Bistritz-Nussdorf",
+            "hu": "Beszterce-Nasz\u00f3d megye",
+            "ro": "Bistri\u021ba-N\u0103s\u0103ud",
+            "ru": "\u0411\u0438\u0441\u0442\u0440\u0438\u0446\u0430-\u041d\u044d\u0441\u044d\u0443\u0434",
+            "uk": "\u0411\u0438\u0441\u0442\u0440\u0438\u0446\u044f-\u041d\u0435\u0441\u0435\u0443\u0434"
+        },
+        "extra": {
+            "wikidata": "Q181513",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ro",
+        "country_cca3": "rou",
+        "region_cca2": null,
+        "osm_id": 2256729,
+        "osm_place_id": 282639208,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Boto\u0219ani",
+        "name_eng": "Boto\u0219ani",
+        "name_translations": {
+            "de": "Botoschan",
+            "lt": "Boto\u0161anis",
+            "ro": "Boto\u0219ani",
+            "ru": "\u0411\u043e\u0442\u043e\u0448\u0430\u043d\u0438"
+        },
+        "extra": {
+            "wikidata": "Q178861",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ro",
+        "country_cca3": "rou",
+        "region_cca2": "RO-BR",
+        "osm_id": 2355512,
+        "osm_place_id": 282277099,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Br\u0103ila",
+        "name_eng": "Br\u0103ila",
+        "name_translations": {
+            "ro": "Br\u0103ila",
+            "ru": "\u0411\u0440\u044d\u0438\u043b\u0430"
+        },
+        "extra": {
+            "wikidata": "Q188503",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ro",
+        "country_cca3": "rou",
+        "region_cca2": "RO-BV",
+        "osm_id": 2248612,
+        "osm_place_id": 282273087,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Bra\u0219ov",
+        "name_eng": "Bra\u0219ov",
+        "name_translations": {
+            "de": "Kronstadt",
+            "hu": "Brass\u00f3 megye",
+            "ro": "Bra\u0219ov",
+            "ru": "\u0411\u0440\u0430\u0448\u043e\u0432"
+        },
+        "extra": {
+            "wikidata": "Q182614",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ro",
+        "country_cca3": "rou",
+        "region_cca2": null,
+        "osm_id": 2355511,
+        "osm_place_id": 282607786,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Buz\u0103u",
+        "name_eng": "Buz\u0103u",
+        "name_translations": {
+            "ro": "Buz\u0103u",
+            "ru": "\u0411\u0443\u0437\u044d\u0443"
+        },
+        "extra": {
+            "wikidata": "Q185309",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ro",
+        "country_cca3": "rou",
+        "region_cca2": null,
+        "osm_id": 2367015,
+        "osm_place_id": 282290973,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "C\u0103l\u0103ra\u0219i",
+        "name_eng": "C\u0103l\u0103ra\u0219i",
+        "name_translations": {
+            "lt": "Kelera\u0161is",
+            "ro": "C\u0103l\u0103ra\u0219i",
+            "ru": "\u041a\u044d\u043b\u044d\u0440\u0430\u0448\u0438"
+        },
+        "extra": {
+            "wikidata": "Q188948",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ro",
+        "country_cca3": "rou",
+        "region_cca2": null,
+        "osm_id": 2366873,
+        "osm_place_id": 282334104,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Cara\u0219-Severin",
+        "name_eng": "Cara\u0219-Severin",
+        "name_translations": {
+            "hu": "Krass\u00f3-Sz\u00f6r\u00e9ny megye",
+            "ro": "Cara\u0219-Severin",
+            "ru": "\u041a\u0430\u0440\u0430\u0448-\u0421\u0435\u0432\u0435\u0440\u0438\u043d"
+        },
+        "extra": {
+            "wikidata": "Q187925",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ro",
+        "country_cca3": "rou",
+        "region_cca2": "RO-CJ",
+        "osm_id": 91733,
+        "osm_place_id": 281804048,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Cluj",
+        "name_eng": "Cluj",
+        "name_translations": {
+            "de": "Klausenburg",
+            "hu": "Kolozs",
+            "la": "Claudianopolis",
+            "ro": "Cluj",
+            "ru": "\u041a\u043b\u0443\u0436"
+        },
+        "extra": {
+            "wikidata": "Q182624",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ro",
+        "country_cca3": "rou",
+        "region_cca2": null,
+        "osm_id": 2367022,
+        "osm_place_id": 282725069,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Constan\u021ba",
+        "name_eng": "Constan\u021ba",
+        "name_translations": {
+            "ar": "\u0643\u0648\u0646\u0633\u062a\u0627\u0646\u062a\u0633\u0627",
+            "bg": "\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0446\u0430",
+            "de": "Konstanza",
+            "el": "\u039a\u03c9\u03bd\u03c3\u03c4\u03ac\u03bd\u03c4\u03b6\u03b1",
+            "eo": "Konstanco",
+            "es": "Constanza",
+            "he": "\u05e7\u05d5\u05e0\u05e1\u05d8\u05e0\u05e6\u05d4",
+            "hu": "Konstanca",
+            "it": "Costanza",
+            "la": "Constantia",
+            "lt": "Konstanca",
+            "lv": "Konstanca",
+            "pl": "Konstanca",
+            "pt": "Constan\u00e7a",
+            "ro": "Constan\u021ba",
+            "ru": "\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0446\u0430",
+            "sr": "\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0446\u0430",
+            "tr": "K\u00f6stence",
+            "uk": "\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0446\u0430"
+        },
+        "extra": {
+            "wikidata": "Q188505",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ro",
+        "country_cca3": "rou",
+        "region_cca2": "RO-CV",
+        "osm_id": 2248621,
+        "osm_place_id": 282374466,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Covasna",
+        "name_eng": "Covasna",
+        "name_translations": {
+            "de": "Kovasna",
+            "hu": "Kov\u00e1szna megye",
+            "ro": "Covasna",
+            "ru": "\u041a\u043e\u0432\u0430\u0441\u043d\u0430"
+        },
+        "extra": {
+            "wikidata": "Q188959",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ro",
+        "country_cca3": "rou",
+        "region_cca2": null,
+        "osm_id": 2355471,
+        "osm_place_id": 282275912,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "D\u00e2mbovi\u021ba",
+        "name_eng": "D\u00e2mbovi\u021ba",
+        "name_translations": {
+            "ro": "D\u00e2mbovi\u021ba",
+            "ru": "\u0414\u044b\u043c\u0431\u043e\u0432\u0438\u0446\u0430"
+        },
+        "extra": {
+            "wikidata": "Q188797",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ro",
+        "country_cca3": "rou",
+        "region_cca2": "RO-DJ",
+        "osm_id": 2366970,
+        "osm_place_id": 282287729,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Dolj",
+        "name_eng": "Dolj",
+        "name_translations": {
+            "ro": "Dolj",
+            "ru": "\u0414\u043e\u043b\u0436"
+        },
+        "extra": {
+            "wikidata": "Q191065",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ro",
+        "country_cca3": "rou",
+        "region_cca2": "RO-GL",
+        "osm_id": 2260192,
+        "osm_place_id": 282365310,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Gala\u021bi",
+        "name_eng": "Gala\u021bi",
+        "name_translations": {
+            "de": "Galatz",
+            "en": "Gala\u021bi",
+            "hu": "Galac",
+            "ro": "Gala\u021bi",
+            "ru": "\u0413\u0430\u043b\u0430\u0446"
+        },
+        "extra": {
+            "wikidata": "Q188796",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ro",
+        "country_cca3": "rou",
+        "region_cca2": null,
+        "osm_id": 2366987,
+        "osm_place_id": 282374041,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Giurgiu",
+        "name_eng": "Giurgiu",
+        "name_translations": {
+            "ro": "Giurgiu",
+            "ru": "\u0414\u0436\u0443\u0440\u0434\u0436\u0443"
+        },
+        "extra": {
+            "wikidata": "Q193055",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ro",
+        "country_cca3": "rou",
+        "region_cca2": "RO-GJ",
+        "osm_id": 2261275,
+        "osm_place_id": 282313525,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Gorj",
+        "name_eng": "Gorj",
+        "name_translations": {
+            "ro": "Gorj",
+            "ru": "\u0413\u043e\u0440\u0436"
+        },
+        "extra": {
+            "wikidata": "Q190406",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ro",
+        "country_cca3": "rou",
+        "region_cca2": "RO-HR",
+        "osm_id": 2248660,
+        "osm_place_id": 282364462,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Harghita",
+        "name_eng": "Harghita",
+        "name_translations": {
+            "hu": "Hargita megye",
+            "ro": "Harghita",
+            "ru": "\u0425\u0430\u0440\u0433\u0438\u0442\u0430"
+        },
+        "extra": {
+            "wikidata": "Q190702",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ro",
+        "country_cca3": "rou",
+        "region_cca2": "RO-HD",
+        "osm_id": 2248737,
+        "osm_place_id": 282315825,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Hunedoara",
+        "name_eng": "Hunedoara",
+        "name_translations": {
+            "de": "Eisenmarkt",
+            "hu": "Hunyad megye",
+            "ro": "Hunedoara",
+            "ru": "\u0425\u0443\u043d\u0435\u0434\u043e\u0430\u0440\u0430"
+        },
+        "extra": {
+            "wikidata": "Q191071",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ro",
+        "country_cca3": "rou",
+        "region_cca2": null,
+        "osm_id": 2355517,
+        "osm_place_id": 282373407,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Ialomi\u021ba",
+        "name_eng": "Ialomi\u021ba",
+        "name_translations": {
+            "lt": "Jalomica",
+            "ro": "Ialomi\u021ba",
+            "ru": "\u042f\u043b\u043e\u043c\u0438\u0446\u0430"
+        },
+        "extra": {
+            "wikidata": "Q193044",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ro",
+        "country_cca3": "rou",
+        "region_cca2": null,
+        "osm_id": 2256747,
+        "osm_place_id": 282819879,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Ia\u0219i",
+        "name_eng": "Ia\u0219i",
+        "name_translations": {
+            "de": "Jassy",
+            "ro": "Ia\u0219i",
+            "ru": "\u042f\u0441\u0441\u044b"
+        },
+        "extra": {
+            "wikidata": "Q182888",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ro",
+        "country_cca3": "rou",
+        "region_cca2": null,
+        "osm_id": 2366996,
+        "osm_place_id": 282652008,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Ilfov",
+        "name_eng": "Ilfov",
+        "name_translations": {
+            "ro": "Ilfov",
+            "ru": "\u0418\u043b\u0444\u043e\u0432"
+        },
+        "extra": {
+            "wikidata": "Q191670",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ro",
+        "country_cca3": "rou",
+        "region_cca2": "RO-MM",
+        "osm_id": 72481,
+        "osm_place_id": 281906969,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Maramure\u0219",
+        "name_eng": "Maramure\u0219",
+        "name_translations": {
+            "de": "Maramuresch",
+            "hu": "M\u00e1ramaros megye",
+            "ro": "Maramure\u0219",
+            "ru": "\u041c\u0430\u0440\u0430\u043c\u0443\u0440\u0435\u0448",
+            "uk": "\u041c\u0430\u0440\u0430\u043c\u0443\u0440\u0435\u0448"
+        },
+        "extra": {
+            "wikidata": "Q188813",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ro",
+        "country_cca3": "rou",
+        "region_cca2": null,
+        "osm_id": 2366962,
+        "osm_place_id": 282277213,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Mehedin\u021bi",
+        "name_eng": "Mehedin\u021bi",
+        "name_translations": {
+            "ro": "Mehedin\u021bi",
+            "ru": "\u041c\u0435\u0445\u0435\u0434\u0438\u043d\u0446\u0438"
+        },
+        "extra": {
+            "wikidata": "Q191717",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ro",
+        "country_cca3": "rou",
+        "region_cca2": "RO-B",
+        "osm_id": 377733,
+        "osm_place_id": 281939087,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Municipiul Bucure\u0219ti",
+        "name_eng": "Bucharest",
+        "name_translations": {
+            "af": "Boekarest",
+            "am": "\u1261\u12ab\u1228\u1235\u1275",
+            "an": "Bucarest",
+            "ar": "\u0628\u0648\u062e\u0627\u0631\u0633\u062a",
+            "az": "Buxarest",
+            "be": "\u0411\u0443\u0445\u0430\u0440\u044d\u0441\u0442",
+            "bg": "\u0411\u0443\u043a\u0443\u0440\u0435\u0449",
+            "bn": "\u09ac\u09c1\u0996\u09be\u09b0\u09c7\u09b8\u09cd\u099f",
+            "bo": "\u0f54\u0f74\u0f0b\u0f41\u0f0b\u0f62\u0f7a\u0f0b\u0f66\u0f72\u0f51\u0f0d",
+            "bs": "Bukure\u0161t",
+            "ca": "Bucarest",
+            "co": "Bucarest",
+            "cs": "Bukure\u0161\u0165",
+            "cv": "\u0411\u0443\u0445\u0430\u0440\u0435\u0441\u0442",
+            "cy": "Bucure\u015fti",
+            "da": "Bukarest",
+            "de": "Bukarest",
+            "ee": "Bucharest",
+            "el": "\u0392\u03bf\u03c5\u03ba\u03bf\u03c5\u03c1\u03ad\u03c3\u03c4\u03b9",
+            "en": "Bucharest",
+            "eo": "Bukare\u015dto",
+            "es": "Bucarest",
+            "et": "Bukarest",
+            "fa": "\u0628\u062e\u0627\u0631\u0633\u062a",
+            "fi": "Bukarest",
+            "fr": "Bucarest",
+            "fy": "B\u00fbkarest",
+            "ga": "B\u00facairist",
+            "gd": "Bucharest",
+            "gl": "Bucarest",
+            "gv": "Bucharest",
+            "he": "\u05d1\u05d5\u05e7\u05e8\u05e9\u05d8",
+            "hi": "\u092c\u0941\u0916\u093e\u0930\u0947\u0938\u094d\u091f",
+            "hr": "Bukure\u0161t",
+            "ht": "Boukar\u00e8s",
+            "hu": "Bukarest",
+            "hy": "\u0532\u0578\u0582\u056d\u0561\u0580\u0565\u057d\u057f",
+            "ia": "Bucarest",
+            "id": "Bukares",
+            "ie": "Bucarest",
+            "io": "Bucarest",
+            "is": "B\u00fakarest",
+            "it": "Bucarest",
+            "ja": "\u30d6\u30ab\u30ec\u30b9\u30c8",
+            "jv": "Bukar\u00e8s",
+            "ka": "\u10d1\u10e3\u10e5\u10d0\u10e0\u10d4\u10e1\u10e2\u10d8",
+            "kk": "\u0411\u0443\u0445\u0430\u0440\u0435\u0441\u0442",
+            "kn": "\u0cac\u0cc1\u0c95\u0cc1\u0cb0\u0cc6\u0cb6\u0ccd\u0ca4\u0cbf",
+            "ko": "\ubd80\ucfe0\ub808\uc288\ud2f0",
+            "ku": "B\u00fbkare\u015ft",
+            "kv": "\u0411\u0443\u0445\u0430\u0440\u0435\u0441\u0442",
+            "la": "Bucaresta",
+            "li": "Boekares",
+            "ln": "Bukaresti",
+            "lt": "Bukare\u0161tas",
+            "lv": "Bukareste",
+            "mi": "Bucharest",
+            "mk": "\u0411\u0443\u043a\u0443\u0440\u0435\u0448\u0442",
+            "ml": "\u0d2c\u0d41\u0d15\u0d4d\u0d15\u0d3e\u0d31\u0d46\u0d38\u0d4d\u0d31\u0d4d\u0d31\u0d4d",
+            "mr": "\u092c\u0941\u0916\u093e\u0930\u0947\u0938\u094d\u091f",
+            "ms": "Bucharest",
+            "my": "\u1017\u1030\u1038\u1001\u101b\u1000\u103a\u1019\u103c\u102d\u102f\u1037",
+            "na": "Bucuresti",
+            "ne": "\u092c\u0941\u0916\u093e\u0930\u0947\u0938\u094d\u091f",
+            "nl": "Boekarest",
+            "nn": "Bucure\u015fti",
+            "no": "Bucure\u0219ti",
+            "oc": "Bucar\u00e8st",
+            "os": "\u0411\u0443\u0445\u0430\u0440\u0435\u0441\u0442",
+            "pl": "Bukareszt",
+            "ps": "\u0628\u062e\u0627\u0631\u0633\u062a",
+            "pt": "Bucareste",
+            "qu": "Bukuresti",
+            "rm": "Bucarest",
+            "ro": "Bucure\u0219ti",
+            "ru": "\u0411\u0443\u0445\u0430\u0440\u0435\u0441\u0442",
+            "sh": "Bukure\u0161t",
+            "sk": "Bukure\u0161\u0165",
+            "sl": "Bukare\u0161ta",
+            "sq": "Bukureshti",
+            "sr": "\u0411\u0443\u043a\u0443\u0440\u0435\u0448\u0442",
+            "sv": "Bukarest",
+            "ta": "\u0baa\u0bc1\u0b95\u0bcd\u0b95\u0bb0\u0bc6\u0bb8\u0bcd\u0b9f\u0bcd",
+            "tg": "\u0411\u0443\u0445\u0430\u0440\u0435\u0441\u0442",
+            "th": "\u0e1a\u0e39\u0e04\u0e32\u0e40\u0e23\u0e2a\u0e15\u0e4c",
+            "tl": "Bucharest",
+            "tr": "Bukres",
+            "ug": "\u0628\u06c7\u062e\u0627\u0631\u06d0\u0633\u062a",
+            "uk": "\u0411\u0443\u0445\u0430\u0440\u0435\u0441\u0442",
+            "ur": "\u0628\u062e\u0627\u0631\u0633\u0679",
+            "vi": "Bucharest",
+            "vo": "Bucure\u015fti",
+            "yi": "\u05d1\u05d5\u05e7\u05d0\u05e8\u05e2\u05e9\u05d8",
+            "yo": "Bucharest",
+            "zh": "\u5e03\u52a0\u52d2\u65af\u7279",
+            "ace": "Buchar\u00e8st",
+            "arz": "\u0628\u0648\u062e\u0627\u0631\u0633\u062a",
+            "ast": "Bucarest",
+            "ckb": "\u0628\u0648\u062e\u0627\u0631\u06ce\u0633\u062a",
+            "crh": "B\u00fckre\u0219",
+            "csb": "B\u00f9kareszt",
+            "diq": "Bukre\u0219",
+            "ext": "Bucarest",
+            "frp": "Bucar\u00e8st",
+            "hif": "Bucharest",
+            "lad": "Bukureshti",
+            "lij": "Bucarest",
+            "lmo": "Bucarest",
+            "nan": "Bucharest",
+            "nap": "Bucarest",
+            "nov": "Bukareshti",
+            "pms": "B\u00f9carest",
+            "pnb": "\u0628\u062e\u0627\u0631\u0633\u0679",
+            "rmy": "Bukureshti",
+            "sah": "\u0411\u0443\u0445\u0430\u0440\u0435\u0441\u0442",
+            "scn": "Bucarest",
+            "sco": "Bucharest",
+            "szl": "Bukareszt",
+            "tet": "Bukareste",
+            "tpi": "Busares",
+            "udm": "\u0411\u0443\u0445\u0430\u0440\u0435\u0441\u0442",
+            "vec": "B\u00f9carest",
+            "vep": "Buharest",
+            "war": "Bucharest",
+            "simple": "Bucharest",
+            "bat-smg": "Bukar\u0117\u0161tos",
+            "roa-rup": "Bucureshci",
+            "zh-Hans": "\u5e03\u52a0\u52d2\u65af\u7279",
+            "zh-Hant": "\u5e03\u52a0\u52d2\u65af\u7279",
+            "roa-tara": "Bucarest",
+            "be-tarask": "\u0411\u0443\u0445\u0430\u0440\u044d\u0441\u0442"
+        },
+        "extra": {
+            "wikidata": "Q19660",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ro",
+        "country_cca3": "rou",
+        "region_cca2": "RO-MS",
+        "osm_id": 2248573,
+        "osm_place_id": 282264712,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Mure\u0219",
+        "name_eng": "Mure\u0219",
+        "name_translations": {
+            "de": "Mieresch",
+            "hu": "Maros megye",
+            "ro": "Mure\u0219",
+            "ru": "\u041c\u0443\u0440\u0435\u0448"
+        },
+        "extra": {
+            "wikidata": "Q190711",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ro",
+        "country_cca3": "rou",
+        "region_cca2": "RO-NT",
+        "osm_id": 2248675,
+        "osm_place_id": 282315619,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Neam\u021b",
+        "name_eng": "Neam\u021b",
+        "name_translations": {
+            "ro": "Neam\u021b",
+            "ru": "\u041d\u044f\u043c\u0446"
+        },
+        "extra": {
+            "wikidata": "Q188661",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ro",
+        "country_cca3": "rou",
+        "region_cca2": null,
+        "osm_id": 2366978,
+        "osm_place_id": 282275756,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Olt",
+        "name_eng": "Olt",
+        "name_translations": {
+            "de": "Alt",
+            "ro": "Olt",
+            "ru": "\u041e\u043b\u0442"
+        },
+        "extra": {
+            "wikidata": "Q188945",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ro",
+        "country_cca3": "rou",
+        "region_cca2": null,
+        "osm_id": 2355507,
+        "osm_place_id": 282350643,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Prahova",
+        "name_eng": "Prahova",
+        "name_translations": {
+            "ro": "Prahova",
+            "ru": "\u041f\u0440\u0430\u0445\u043e\u0432\u0430"
+        },
+        "extra": {
+            "wikidata": "Q188665",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ro",
+        "country_cca3": "rou",
+        "region_cca2": "RO-SJ",
+        "osm_id": 91685,
+        "osm_place_id": 282184587,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "S\u0103laj",
+        "name_eng": "S\u0103laj",
+        "name_translations": {
+            "hu": "Szil\u00e1gy megye",
+            "ro": "S\u0103laj",
+            "ru": "\u0421\u044d\u043b\u0430\u0436"
+        },
+        "extra": {
+            "wikidata": "Q190690",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ro",
+        "country_cca3": "rou",
+        "region_cca2": "RO-SM",
+        "osm_id": 72482,
+        "osm_place_id": 281793334,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Satu Mare",
+        "name_eng": "Satu Mare",
+        "name_translations": {
+            "de": "Sathmar",
+            "hu": "Szatm\u00e1r megye",
+            "ro": "Satu Mare",
+            "ru": "\u0421\u0430\u0442\u0443-\u041c\u0430\u0440\u0435",
+            "uk": "\u0421\u0430\u0442\u0443-\u041c\u0430\u0440\u0435"
+        },
+        "extra": {
+            "wikidata": "Q165459",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ro",
+        "country_cca3": "rou",
+        "region_cca2": "RO-SB",
+        "osm_id": 2248586,
+        "osm_place_id": 282269947,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Sibiu",
+        "name_eng": "Sibiu",
+        "name_translations": {
+            "de": "Hermannstadt",
+            "hu": "Szeben megye",
+            "ro": "Sibiu",
+            "ru": "\u0421\u0438\u0431\u0438\u0443"
+        },
+        "extra": {
+            "wikidata": "Q184797",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ro",
+        "country_cca3": "rou",
+        "region_cca2": "RO-SV",
+        "osm_id": 2077868,
+        "osm_place_id": 282376711,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Suceava",
+        "name_eng": "Suceava",
+        "name_translations": {
+            "de": "Suczawa",
+            "en": "Suceava",
+            "pl": "Suczawa",
+            "ro": "Suceava",
+            "ru": "\u0421\u0443\u0447\u0430\u0432\u0430"
+        },
+        "extra": {
+            "wikidata": "Q181209",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ro",
+        "country_cca3": "rou",
+        "region_cca2": null,
+        "osm_id": 2366986,
+        "osm_place_id": 282340748,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Teleorman",
+        "name_eng": "Teleorman",
+        "name_translations": {
+            "ro": "Teleorman",
+            "ru": "\u0422\u0435\u043b\u0435\u043e\u0440\u043c\u0430\u043d"
+        },
+        "extra": {
+            "wikidata": "Q191653",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ro",
+        "country_cca3": "rou",
+        "region_cca2": null,
+        "osm_id": 2366863,
+        "osm_place_id": 282374321,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Timi\u0219",
+        "name_eng": "Timi\u0219",
+        "name_translations": {
+            "de": "Temesch",
+            "hu": "Temes megye",
+            "lt": "Timi\u0161as",
+            "ro": "Timi\u0219",
+            "ru": "\u0422\u0438\u043c\u0438\u0448"
+        },
+        "extra": {
+            "wikidata": "Q185586",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ro",
+        "country_cca3": "rou",
+        "region_cca2": "RO-TL",
+        "osm_id": 2367044,
+        "osm_place_id": 282277521,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Tulcea",
+        "name_eng": "Tulcea",
+        "name_translations": {
+            "de": "Tultscha",
+            "en": "Tulcea",
+            "lt": "Tul\u010da",
+            "ro": "Tulcea",
+            "ru": "\u0422\u0443\u043b\u0447\u0430"
+        },
+        "extra": {
+            "wikidata": "Q191078",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ro",
+        "country_cca3": "rou",
+        "region_cca2": "RO-VL",
+        "osm_id": 2261289,
+        "osm_place_id": 282357944,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "V\u00e2lcea",
+        "name_eng": "V\u00e2lcea",
+        "name_translations": {
+            "ro": "V\u00e2lcea",
+            "ru": "\u0412\u044b\u043b\u0447\u0430"
+        },
+        "extra": {
+            "wikidata": "Q186838",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ro",
+        "country_cca3": "rou",
+        "region_cca2": "RO-VS",
+        "osm_id": 2256753,
+        "osm_place_id": 282352417,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Vaslui",
+        "name_eng": "Vaslui",
+        "name_translations": {
+            "de": "Wassluy",
+            "en": "Vaslui",
+            "ro": "Vaslui",
+            "ru": "\u0412\u0430\u0441\u043b\u0443\u0439"
+        },
+        "extra": {
+            "wikidata": "Q167199",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ro",
+        "country_cca3": "rou",
+        "region_cca2": "RO-VN",
+        "osm_id": 2260187,
+        "osm_place_id": 282266252,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Vrancea",
+        "name_eng": "Vrancea",
+        "name_translations": {
+            "ro": "Vrancea",
+            "ru": "\u0412\u0440\u0430\u043d\u0447\u0430"
+        },
+        "extra": {
+            "wikidata": "Q182778",
+            "un_locode": null
+        }
+    }
+]

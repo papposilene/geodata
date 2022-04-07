@@ -1,0 +1,92 @@
+[
+    {
+        "country_cca2": "sg",
+        "country_cca3": "sgp",
+        "region_cca2": "SG-01",
+        "osm_id": 3831712,
+        "osm_place_id": 282463697,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Central",
+        "name_eng": "Central",
+        "name_translations": {
+            "zh": "\u4e2d\u533a"
+        },
+        "extra": {
+            "wikidata": "Q2544592",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sg",
+        "country_cca3": "sgp",
+        "region_cca2": "SG-02",
+        "osm_id": 3831713,
+        "osm_place_id": 282706741,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Northeast",
+        "name_eng": "Northeast",
+        "name_translations": {
+            "zh": "\u4e1c\u5317\u533a"
+        },
+        "extra": {
+            "wikidata": "Q3710534",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sg",
+        "country_cca3": "sgp",
+        "region_cca2": "SG-03",
+        "osm_id": 3831714,
+        "osm_place_id": 282674182,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Northwest",
+        "name_eng": "Northwest",
+        "name_translations": {
+            "zh": "\u897f\u5317\u533a"
+        },
+        "extra": {
+            "wikidata": "Q5784118",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sg",
+        "country_cca3": "sgp",
+        "region_cca2": "SG-04",
+        "osm_id": 3831715,
+        "osm_place_id": 282842636,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Southeast",
+        "name_eng": "Southeast",
+        "name_translations": {
+            "zh": "\u4e1c\u5357\u533a"
+        },
+        "extra": {
+            "wikidata": "Q1687545",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sg",
+        "country_cca3": "sgp",
+        "region_cca2": "SG-05",
+        "osm_id": 3831716,
+        "osm_place_id": 282524595,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Southwest",
+        "name_eng": "Southwest",
+        "name_translations": {
+            "zh": "\u897f\u5357\u533a"
+        },
+        "extra": {
+            "wikidata": "Q5784126",
+            "un_locode": null
+        }
+    }
+]

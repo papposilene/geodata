@@ -1,0 +1,102 @@
+[
+    {
+        "country_cca2": "bz",
+        "country_cca3": "blz",
+        "region_cca2": "BZ-BZ",
+        "osm_id": 962354,
+        "osm_place_id": 282324245,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Belize District",
+        "name_eng": "Belize District",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q506056",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "bz",
+        "country_cca3": "blz",
+        "region_cca2": "BZ-CY",
+        "osm_id": 962357,
+        "osm_place_id": 282111421,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Cayo",
+        "name_eng": "Cayo",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q508773",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "bz",
+        "country_cca3": "blz",
+        "region_cca2": "BZ-CZL",
+        "osm_id": 962356,
+        "osm_place_id": 282147557,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Corozal",
+        "name_eng": "Corozal",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q512273",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "bz",
+        "country_cca3": "blz",
+        "region_cca2": "BZ-OW",
+        "osm_id": 962355,
+        "osm_place_id": 282477028,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Orange Walk",
+        "name_eng": "Orange Walk",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q506036",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "bz",
+        "country_cca3": "blz",
+        "region_cca2": null,
+        "osm_id": 962353,
+        "osm_place_id": 282364766,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Stann Creek District",
+        "name_eng": "Stann Creek District",
+        "name_translations": {
+            "en": "Stann Creek District"
+        },
+        "extra": {
+            "wikidata": "Q502652",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "bz",
+        "country_cca3": "blz",
+        "region_cca2": null,
+        "osm_id": 962358,
+        "osm_place_id": 282085223,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Toledo",
+        "name_eng": "Toledo",
+        "name_translations": {
+            "en": "Toledo"
+        },
+        "extra": {
+            "wikidata": "Q506049",
+            "un_locode": null
+        }
+    }
+]

@@ -1,0 +1,2089 @@
+[
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": "SV-AH",
+        "osm_id": 3623374,
+        "osm_place_id": 282436959,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Departamento de Ahuachap\u00e1n",
+        "name_eng": "Departamento de Ahuachap\u00e1n",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q572993",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": "SV-CA",
+        "osm_id": 3624451,
+        "osm_place_id": 282473172,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Departamento de Caba\u00f1as",
+        "name_eng": "Departamento de Caba\u00f1as",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q914058",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": "SV-CH",
+        "osm_id": 3624440,
+        "osm_place_id": 282523397,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Departamento de Chalatenango",
+        "name_eng": "Departamento de Chalatenango",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q522221",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": "SV-CU",
+        "osm_id": 3624439,
+        "osm_place_id": 282484526,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Departamento de Cuscatl\u00e1n",
+        "name_eng": "Departamento de Cuscatl\u00e1n",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1130677",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": "SV-LI",
+        "osm_id": 3624113,
+        "osm_place_id": 282450209,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Departamento de La Libertad",
+        "name_eng": "Departamento de La Libertad",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q930820",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": "SV-PA",
+        "osm_id": 3624477,
+        "osm_place_id": 282443071,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Departamento de La Paz",
+        "name_eng": "Departamento de La Paz",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1129788",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": null,
+        "osm_id": 3625432,
+        "osm_place_id": 282523803,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Departamento de La Uni\u00f3n",
+        "name_eng": "Departamento de La Uni\u00f3n",
+        "name_translations": {
+            "es": "Departamento de La Uni\u00f3n"
+        },
+        "extra": {
+            "wikidata": "Q1130688",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": "SV-MO",
+        "osm_id": 3625421,
+        "osm_place_id": 282443890,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Departamento de Moraz\u00e1n",
+        "name_eng": "Departamento de Moraz\u00e1n",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1122836",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": "SV-SM",
+        "osm_id": 3625408,
+        "osm_place_id": 282682982,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Departamento de San Miguel",
+        "name_eng": "Departamento de San Miguel",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q930804",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": "SV-SS",
+        "osm_id": 3624436,
+        "osm_place_id": 283011403,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Departamento de San Salvador",
+        "name_eng": "Departamento de San Salvador",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1543219",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": null,
+        "osm_id": 3624100,
+        "osm_place_id": 282495006,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Departamento de Santa Ana",
+        "name_eng": "Departamento de Santa Ana",
+        "name_translations": {
+            "es": "Departamento de Santa Ana"
+        },
+        "extra": {
+            "wikidata": "Q671158",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": null,
+        "osm_id": 3624092,
+        "osm_place_id": 282707389,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Departamento de Sonsonate",
+        "name_eng": "Departamento de Sonsonate",
+        "name_translations": {
+            "es": "Departamento de Sonsonate"
+        },
+        "extra": {
+            "wikidata": "Q212540",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": "SV-US",
+        "osm_id": 3625389,
+        "osm_place_id": 282437273,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Departamento de Usulut\u00e1n",
+        "name_eng": "Departamento de Usulut\u00e1n",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1122748",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": null,
+        "osm_id": 8418085,
+        "osm_place_id": 282986944,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "El Rosario",
+        "name_eng": "El Rosario",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q11100824",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": null,
+        "osm_id": 6594206,
+        "osm_place_id": 282770935,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Jerusal\u00e9n",
+        "name_eng": "Jerusal\u00e9n",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": null,
+        "osm_id": 5977122,
+        "osm_place_id": 282819880,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio de Acajutla",
+        "name_eng": "Municipio de Acajutla",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q937292",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": null,
+        "osm_id": 9229624,
+        "osm_place_id": 283091252,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio de Aguilares",
+        "name_eng": "Municipio de Aguilares",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": null,
+        "osm_id": 6744515,
+        "osm_place_id": 282877672,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio de Ahuachap\u00e1n",
+        "name_eng": "Municipio de Ahuachap\u00e1n",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": null,
+        "osm_id": 6805100,
+        "osm_place_id": 282824873,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio de Antiguo Cuscatl\u00e1n",
+        "name_eng": "Municipio de Antiguo Cuscatl\u00e1n",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q575756",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": null,
+        "osm_id": 6626641,
+        "osm_place_id": 282777943,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio de Apaneca",
+        "name_eng": "Municipio de Apaneca",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2779422",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": null,
+        "osm_id": 9229558,
+        "osm_place_id": 283203799,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio de Apopa",
+        "name_eng": "Municipio de Apopa",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": null,
+        "osm_id": 6651387,
+        "osm_place_id": 283620947,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio de Armenia",
+        "name_eng": "Municipio de Armenia",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": null,
+        "osm_id": 6173339,
+        "osm_place_id": 282706942,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio de Ataco",
+        "name_eng": "Municipio de Ataco",
+        "name_translations": {
+            "es": "Municipio de Ataco"
+        },
+        "extra": {
+            "wikidata": "Q1123798",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": null,
+        "osm_id": 9620563,
+        "osm_place_id": 283251613,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio de Atiquizaya",
+        "name_eng": "Municipio de Atiquizaya",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2779447",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": null,
+        "osm_id": 6873233,
+        "osm_place_id": 283082602,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio de Ayuxtuxtepeque",
+        "name_eng": "Municipio de Ayuxtuxtepeque",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": null,
+        "osm_id": 13128742,
+        "osm_place_id": 283444575,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio de Caluco",
+        "name_eng": "Municipio de Caluco",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q985418",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": null,
+        "osm_id": 8022709,
+        "osm_place_id": 282921827,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio de Candelaria",
+        "name_eng": "Municipio de Candelaria",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q3655175",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": null,
+        "osm_id": 8527341,
+        "osm_place_id": 282998754,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio de Candelaria de la Frontera",
+        "name_eng": "Municipio de Candelaria de la Frontera",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": null,
+        "osm_id": 8527345,
+        "osm_place_id": 283342706,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio de Chalchuapa",
+        "name_eng": "Municipio de Chalchuapa",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": null,
+        "osm_id": 7369381,
+        "osm_place_id": 282855837,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio de Chiltiupan",
+        "name_eng": "Municipio de Chiltiupan",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q3674712",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": null,
+        "osm_id": 13284888,
+        "osm_place_id": 283594596,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio de Cital\u00e1",
+        "name_eng": "Municipio de Cital\u00e1",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1154046",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": null,
+        "osm_id": 6678084,
+        "osm_place_id": 282766930,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio de Ciudad Arc\u00e9",
+        "name_eng": "Municipio de Ciudad Arc\u00e9",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q649241",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": null,
+        "osm_id": 13128867,
+        "osm_place_id": 283576077,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio de Coatepeque",
+        "name_eng": "Municipio de Coatepeque",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q3681838",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": null,
+        "osm_id": 9222747,
+        "osm_place_id": 283041770,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio de Cojutepeque",
+        "name_eng": "Municipio de Cojutepeque",
+        "name_translations": {
+            "es": "Cojutepeque",
+            "hu": "Cojutepeque",
+            "ru": "\u041a\u043e\u0445\u0443\u0442\u0435\u043f\u0435\u043a\u0435"
+        },
+        "extra": {
+            "wikidata": "Q2565407",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": null,
+        "osm_id": 6560289,
+        "osm_place_id": 283101605,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio de Conchagua",
+        "name_eng": "Municipio de Conchagua",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q3686207",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": null,
+        "osm_id": 8811961,
+        "osm_place_id": 283062176,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio de Corinto",
+        "name_eng": "Municipio de Corinto",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q3693570",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": null,
+        "osm_id": 13128748,
+        "osm_place_id": 283443249,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio de Cuisnahuat",
+        "name_eng": "Municipio de Cuisnahuat",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q985411",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": null,
+        "osm_id": 6867826,
+        "osm_place_id": 282820416,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio de Cuscatancingo",
+        "name_eng": "Municipio de Cuscatancingo",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q31935860",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": null,
+        "osm_id": 9229415,
+        "osm_place_id": 283043466,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio de Delgado",
+        "name_eng": "Municipio de Delgado",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": null,
+        "osm_id": 12653303,
+        "osm_place_id": 283364570,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio de Dolores",
+        "name_eng": "Municipio de Dolores",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q288117",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": null,
+        "osm_id": 8283252,
+        "osm_place_id": 283128077,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio de El Carmen",
+        "name_eng": "Municipio de El Carmen",
+        "name_translations": {
+            "es": "El Carmen"
+        },
+        "extra": {
+            "wikidata": "Q3720872",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": null,
+        "osm_id": 13128868,
+        "osm_place_id": 283643805,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio de El Congo",
+        "name_eng": "Municipio de El Congo",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": null,
+        "osm_id": 6433677,
+        "osm_place_id": 282739839,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio de El Paisnal",
+        "name_eng": "Municipio de El Paisnal",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": null,
+        "osm_id": 8196206,
+        "osm_place_id": 283070360,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio de El Porvenir",
+        "name_eng": "Municipio de El Porvenir",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": null,
+        "osm_id": 9620562,
+        "osm_place_id": 283409088,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio de El Refugio",
+        "name_eng": "Municipio de El Refugio",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2779429",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": null,
+        "osm_id": 10303109,
+        "osm_place_id": 283175318,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio de Guacotecti",
+        "name_eng": "Municipio de Guacotecti",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q569006",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": null,
+        "osm_id": 6626607,
+        "osm_place_id": 282765780,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio de Guaymango",
+        "name_eng": "Municipio de Guaymango",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2779410",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": null,
+        "osm_id": 9229449,
+        "osm_place_id": 283094950,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio de Guazapa",
+        "name_eng": "Municipio de Guazapa",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": null,
+        "osm_id": 8147955,
+        "osm_place_id": 283032130,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio de Ilopango",
+        "name_eng": "Municipio de Ilopango",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": null,
+        "osm_id": 8283242,
+        "osm_place_id": 283017020,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio de Intipuc\u00e1",
+        "name_eng": "Municipio de Intipuc\u00e1",
+        "name_translations": {
+            "es": "Intipuc\u00e1",
+            "hu": "Intipuc\u00e1"
+        },
+        "extra": {
+            "wikidata": "Q3800717",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": null,
+        "osm_id": 6946258,
+        "osm_place_id": 283167874,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio de Izalco",
+        "name_eng": "Municipio de Izalco",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q682226",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": null,
+        "osm_id": 7369614,
+        "osm_place_id": 282894061,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio de Jayaque",
+        "name_eng": "Municipio de Jayaque",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q3807516",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": null,
+        "osm_id": 7369369,
+        "osm_place_id": 283070138,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio de Jicalapa",
+        "name_eng": "Municipio de Jicalapa",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q3808267",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": null,
+        "osm_id": 6955011,
+        "osm_place_id": 283101910,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio de Juayua",
+        "name_eng": "Municipio de Juayua",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": null,
+        "osm_id": 10298565,
+        "osm_place_id": 283331420,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio de Jucuar\u00e1n",
+        "name_eng": "Municipio de Jucuar\u00e1n",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": null,
+        "osm_id": 6172140,
+        "osm_place_id": 283340679,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio de Jujutla",
+        "name_eng": "Municipio de Jujutla",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2779408",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": null,
+        "osm_id": 7369049,
+        "osm_place_id": 282955696,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio de La Libertad",
+        "name_eng": "Municipio de La Libertad",
+        "name_translations": {
+            "es": "Puerto de La Libertad"
+        },
+        "extra": {
+            "wikidata": "Q2631462",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": null,
+        "osm_id": 6553305,
+        "osm_place_id": 282754004,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio de La Uni\u00f3n",
+        "name_eng": "Municipio de La Uni\u00f3n",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": null,
+        "osm_id": 6525328,
+        "osm_place_id": 282829859,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio de Masahuat",
+        "name_eng": "Municipio de Masahuat",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q372275",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": null,
+        "osm_id": 12017123,
+        "osm_place_id": 283461604,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio de Meanguera",
+        "name_eng": "Municipio de Meanguera",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q3853441",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": null,
+        "osm_id": 6846481,
+        "osm_place_id": 283132839,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio de Mejicanos",
+        "name_eng": "Municipio de Mejicanos",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": null,
+        "osm_id": 6594216,
+        "osm_place_id": 283039440,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio de Mercedes La Ceiba",
+        "name_eng": "Municipio de Mercedes La Ceiba",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1154302",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": null,
+        "osm_id": 6525275,
+        "osm_place_id": 282863296,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio de Metap\u00e1n",
+        "name_eng": "Municipio de Metap\u00e1n",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": null,
+        "osm_id": 13128806,
+        "osm_place_id": 283643843,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio de Nahuizalco",
+        "name_eng": "Municipio de Nahuizalco",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q224791",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": null,
+        "osm_id": 13128761,
+        "osm_place_id": 283469742,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio de Nahulingo",
+        "name_eng": "Municipio de Nahulingo",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q3869952",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": null,
+        "osm_id": 9229622,
+        "osm_place_id": 283202506,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio de Nejapa",
+        "name_eng": "Municipio de Nejapa",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": null,
+        "osm_id": 13287651,
+        "osm_place_id": 283609308,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio de Nueva Concepci\u00f3n",
+        "name_eng": "Municipio de Nueva Concepci\u00f3n",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2779443",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": null,
+        "osm_id": 9222624,
+        "osm_place_id": 283106904,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio de Oratorio de Concepci\u00f3n",
+        "name_eng": "Municipio de Oratorio de Concepci\u00f3n",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q3884408",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": null,
+        "osm_id": 13298479,
+        "osm_place_id": 283615107,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio de Panchimalco",
+        "name_eng": "Municipio de Panchimalco",
+        "name_translations": {
+            "es": "Municipio de Panchimalco"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": null,
+        "osm_id": 8527398,
+        "osm_place_id": 330806820,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Municipio de Pasaquina",
+        "name_eng": "Municipio de Pasaquina",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q3896916",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": null,
+        "osm_id": 6162566,
+        "osm_place_id": 282784037,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Municipio de Quetzaltepeque",
+        "name_eng": "Municipio de Quetzaltepeque",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": null,
+        "osm_id": 13298469,
+        "osm_place_id": 283644436,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio de Rosario de Mora",
+        "name_eng": "Municipio de Rosario de Mora",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q3941398",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": null,
+        "osm_id": 6955016,
+        "osm_place_id": 282843115,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio de Salcoatit\u00e1n",
+        "name_eng": "Municipio de Salcoatit\u00e1n",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": null,
+        "osm_id": 8527388,
+        "osm_place_id": 282994071,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio de San Alejo",
+        "name_eng": "Municipio de San Alejo",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q927114",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": null,
+        "osm_id": 13128805,
+        "osm_place_id": 283576144,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio de San Antonio del Monte",
+        "name_eng": "Municipio de San Antonio del Monte",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q3946809",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": null,
+        "osm_id": 6311426,
+        "osm_place_id": 282870369,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio de San Antonio Pajonal",
+        "name_eng": "Municipio de San Antonio Pajonal",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q3946737",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": null,
+        "osm_id": 9222746,
+        "osm_place_id": 283047299,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio de San Bartolom\u00e9 Perulap\u00eda",
+        "name_eng": "Municipio de San Bartolom\u00e9 Perulap\u00eda",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2834750",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": null,
+        "osm_id": 8322543,
+        "osm_place_id": 282954748,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio de San Carlos",
+        "name_eng": "Municipio de San Carlos",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q3946877",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": null,
+        "osm_id": 8322749,
+        "osm_place_id": 282996936,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio de San Francisco Gotera",
+        "name_eng": "Municipio de San Francisco Gotera",
+        "name_translations": {
+            "es": "San Francisco Gotera",
+            "hu": "San Francisco Gotera",
+            "ru": "\u0421\u0430\u043d-\u0424\u0440\u0430\u043d\u0441\u0438\u0441\u043a\u043e-\u0413\u043e\u0442\u0435\u0440\u0430"
+        },
+        "extra": {
+            "wikidata": "Q969396",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": null,
+        "osm_id": 6172096,
+        "osm_place_id": 283602654,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio de San Francisco Men\u00e9ndez",
+        "name_eng": "Municipio de San Francisco Men\u00e9ndez",
+        "name_translations": {
+            "es": "Municipio de San Francisco Men\u00e9ndez"
+        },
+        "extra": {
+            "wikidata": "Q766174",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": null,
+        "osm_id": 13284906,
+        "osm_place_id": 283455180,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio de San Ignacio",
+        "name_eng": "Municipio de San Ignacio",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q3947358",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": null,
+        "osm_id": 9222324,
+        "osm_place_id": 283038976,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio de San Jos\u00e9 Guayabal",
+        "name_eng": "Municipio de San Jos\u00e9 Guayabal",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q3947416",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": null,
+        "osm_id": 7922757,
+        "osm_place_id": 282965440,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio de San Julian",
+        "name_eng": "Municipio de San Julian",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": null,
+        "osm_id": 9395435,
+        "osm_place_id": 283482402,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio de San Lorenzo",
+        "name_eng": "Municipio de San Lorenzo",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2779438",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": null,
+        "osm_id": 8113619,
+        "osm_place_id": 283186158,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio de San Martin",
+        "name_eng": "Municipio de San Martin",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": null,
+        "osm_id": 6669092,
+        "osm_place_id": 282871132,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio de San Mat\u00edas",
+        "name_eng": "Municipio de San Mat\u00edas",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q3947669",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": null,
+        "osm_id": 6669083,
+        "osm_place_id": 283173276,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio de San Pablo Tacachico",
+        "name_eng": "Municipio de San Pablo Tacachico",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q3947747",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": null,
+        "osm_id": 6626627,
+        "osm_place_id": 282844144,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio de San Pedro Puxtla",
+        "name_eng": "Municipio de San Pedro Puxtla",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2310677",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": null,
+        "osm_id": 9222765,
+        "osm_place_id": 283467740,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio de San Ram\u00f3n",
+        "name_eng": "Municipio de San Ram\u00f3n",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q3947894",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": null,
+        "osm_id": 6094976,
+        "osm_place_id": 282697407,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio de San Sebasti\u00e1n Salitrillo",
+        "name_eng": "Municipio de San Sebasti\u00e1n Salitrillo",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": null,
+        "osm_id": 5901411,
+        "osm_place_id": 282705206,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio de Santa Ana",
+        "name_eng": "Municipio de Santa Ana",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": null,
+        "osm_id": 13128730,
+        "osm_place_id": 283469617,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio de Santa Catarina Masahuat",
+        "name_eng": "Municipio de Santa Catarina Masahuat",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q3948939",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": null,
+        "osm_id": 8022699,
+        "osm_place_id": 283055924,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio de Santa Cruz Analquito",
+        "name_eng": "Municipio de Santa Cruz Analquito",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q3948985",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": null,
+        "osm_id": 6832812,
+        "osm_place_id": 283417502,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio de Santa Isabel Ishuat\u00e1n",
+        "name_eng": "Municipio de Santa Isabel Ishuat\u00e1n",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": null,
+        "osm_id": 6525316,
+        "osm_place_id": 282752502,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio de Santa Rosa Guachip\u00edl\u00edn",
+        "name_eng": "Municipio de Santa Rosa Guachip\u00edl\u00edn",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": null,
+        "osm_id": 8527319,
+        "osm_place_id": 283042241,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio de Santiago de la Frontera",
+        "name_eng": "Municipio de Santiago de la Frontera",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": null,
+        "osm_id": 8147940,
+        "osm_place_id": 282979481,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio de Santiago Texacuangos",
+        "name_eng": "Municipio de Santiago Texacuangos",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": null,
+        "osm_id": 13128734,
+        "osm_place_id": 283568178,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio de Santo Domingo de Guzm\u00e1n",
+        "name_eng": "Municipio de Santo Domingo de Guzm\u00e1n",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q985416",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": null,
+        "osm_id": 13128797,
+        "osm_place_id": 283514550,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio de Sonsonate",
+        "name_eng": "Municipio de Sonsonate",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1014248",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": null,
+        "osm_id": 13128820,
+        "osm_place_id": 283505877,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio de Sonzacate",
+        "name_eng": "Municipio de Sonzacate",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2287976",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": null,
+        "osm_id": 8148131,
+        "osm_place_id": 282936257,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio de Soyapango",
+        "name_eng": "Municipio de Soyapango",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": null,
+        "osm_id": 9222262,
+        "osm_place_id": 283038274,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio de Suchitoto",
+        "name_eng": "Municipio de Suchitoto",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2779509",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": null,
+        "osm_id": 6172141,
+        "osm_place_id": 282714022,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio de Tacuba",
+        "name_eng": "Municipio de Tacuba",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1283898",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": null,
+        "osm_id": 7369200,
+        "osm_place_id": 282861591,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio de Tamanique",
+        "name_eng": "Municipio de Tamanique",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q3980556",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": null,
+        "osm_id": 6637187,
+        "osm_place_id": 282810642,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio de Teotepeque",
+        "name_eng": "Municipio de Teotepeque",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q3984168",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": null,
+        "osm_id": 7369464,
+        "osm_place_id": 283121429,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio de Tepecoyo",
+        "name_eng": "Municipio de Tepecoyo",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q3984175",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": null,
+        "osm_id": 8527293,
+        "osm_place_id": 282990400,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio de Texistepeque",
+        "name_eng": "Municipio de Texistepeque",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": null,
+        "osm_id": 9229437,
+        "osm_place_id": 283099532,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio de Tonacatepeque",
+        "name_eng": "Municipio de Tonacatepeque",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": null,
+        "osm_id": 6744519,
+        "osm_place_id": 282793780,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio de Tur\u00edn",
+        "name_eng": "Municipio de Tur\u00edn",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2779405",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": null,
+        "osm_id": 8283266,
+        "osm_place_id": 282946846,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio de Yayantique",
+        "name_eng": "Municipio de Yayantique",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q4022615",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": null,
+        "osm_id": 8527399,
+        "osm_place_id": 283349584,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio de Yucuaiqu\u00edn",
+        "name_eng": "Municipio de Yucuaiqu\u00edn",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q4023174",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": null,
+        "osm_id": 8730034,
+        "osm_place_id": 283072908,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Para\u00edso de Osor\u00edo",
+        "name_eng": "Para\u00edso de Osor\u00edo",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1154739",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": null,
+        "osm_id": 8418051,
+        "osm_place_id": 282982728,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "San Juan Nonualco",
+        "name_eng": "San Juan Nonualco",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q3471526",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": null,
+        "osm_id": 6575978,
+        "osm_place_id": 282767610,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "San Juan Opico",
+        "name_eng": "San Juan Opico",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2003995",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": null,
+        "osm_id": 8729910,
+        "osm_place_id": 283072888,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "San Juan Talpa",
+        "name_eng": "San Juan Talpa",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q31936533",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": null,
+        "osm_id": 6594235,
+        "osm_place_id": 282872247,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "San Luis La Herradura",
+        "name_eng": "San Luis La Herradura",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q609519",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": null,
+        "osm_id": 8551728,
+        "osm_place_id": 283292998,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "San Luis Talpa",
+        "name_eng": "San Luis Talpa",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1154286",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": null,
+        "osm_id": 6487125,
+        "osm_place_id": 282781295,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "San Marcos",
+        "name_eng": "San Marcos",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1157132",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": null,
+        "osm_id": 8592737,
+        "osm_place_id": 282996869,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "San Pedro Nonualco",
+        "name_eng": "San Pedro Nonualco",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q31936617",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": null,
+        "osm_id": 6462027,
+        "osm_place_id": 282791644,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "San Salvador",
+        "name_eng": "San Salvador",
+        "name_translations": {
+            "am": "\u1233\u1295 \u1233\u120d\u126b\u12f6\u122d",
+            "ar": "\u0633\u0627\u0646 \u0633\u0644\u0641\u0627\u062f\u0648\u0631",
+            "be": "\u0421\u0430\u043d-\u0421\u0430\u043b\u044c\u0432\u0430\u0434\u043e\u0440",
+            "bg": "\u0421\u0430\u043d \u0421\u0430\u043b\u0432\u0430\u0434\u043e\u0440",
+            "bo": "\u0f66\u0f53\u0f0b\u0f66\u0f63\u0f0b\u0f5d\u0f0b\u0f4c\u0f7c\u0f62\u0f0d",
+            "de": "San Salvador",
+            "el": "\u03a3\u03b1\u03bd \u03a3\u03b1\u03bb\u03b2\u03b1\u03b4\u03cc\u03c1",
+            "en": "San Salvador",
+            "eo": "San-Salvadoro",
+            "es": "San Salvador",
+            "fa": "\u0633\u0627\u0646 \u0633\u0627\u0644\u0648\u0627\u062f\u0648\u0631",
+            "fr": "San Salvador",
+            "he": "\u05e1\u05df \u05e1\u05dc\u05d5\u05d5\u05d3\u05d5\u05e8",
+            "ht": "San Salvad\u00f2",
+            "hu": "San Salvador",
+            "hy": "\u054d\u0561\u0576 \u054d\u0561\u056c\u057e\u0561\u0564\u0578\u0580",
+            "is": "San Salvador",
+            "ja": "\u30b5\u30f3\u30b5\u30eb\u30d0\u30c9\u30eb",
+            "ka": "\u10e1\u10d0\u10dc-\u10e1\u10d0\u10da\u10d5\u10d0\u10d3\u10dd\u10e0\u10d8",
+            "ko": "\uc0b0\uc0b4\ubc14\ub3c4\ub974",
+            "la": "Urbs Sancti Salvatoris",
+            "lt": "San Salvadoras",
+            "lv": "Sansalvadora",
+            "mk": "\u0421\u0430\u043d \u0421\u0430\u043b\u0432\u0430\u0434\u043e\u0440",
+            "mr": "\u0938\u093e\u0928 \u0938\u093e\u0932\u094d\u0935\u094d\u0939\u093e\u0921\u094b\u0930",
+            "oc": "San Salvador",
+            "os": "\u0421\u0430\u043d-\u0421\u0430\u043b\u044c\u0432\u0430\u0434\u043e\u0440",
+            "pl": "San Salvador",
+            "pt": "S\u00e3o Salvador",
+            "ru": "\u0421\u0430\u043d-\u0421\u0430\u043b\u044c\u0432\u0430\u0434\u043e\u0440",
+            "sq": "San Salvadori",
+            "sr": "\u0421\u0430\u043d \u0421\u0430\u043b\u0432\u0430\u0434\u043e\u0440",
+            "sv": "San Salvador",
+            "ta": "\u0b9a\u0bbe\u0ba9\u0bcd \u0b9a\u0bb2\u0bcd\u0bb5\u0b9f\u0bcb\u0bb0\u0bcd",
+            "th": "\u0e0b\u0e31\u0e19\u0e0b\u0e31\u0e25\u0e27\u0e32\u0e14\u0e2d\u0e23\u0e4c",
+            "ug": "\u0633\u0627\u0646 \u0633\u0627\u0644\u06cb\u0627\u062f\u0648\u0631",
+            "uk": "\u0421\u0430\u043d-\u0421\u0430\u043b\u044c\u0432\u0430\u0434\u043e\u0440",
+            "ur": "\u0633\u0627\u0646 \u0633\u0644\u0648\u0627\u0688\u0648\u0631",
+            "zh": "\u8056\u85a9\u723e\u74e6\u591a",
+            "sah": "\u0421\u0430\u043d \u0421\u0430\u043b\u0432\u0430\u0434\u043e\u0440",
+            "be-tarask": "\u0421\u0430\u043d-\u0421\u0430\u043b\u044c\u0432\u0430\u0434\u043e\u0440"
+        },
+        "extra": {
+            "wikidata": "Q3110",
+            "un_locode": "SVSAL"
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": "SV-SV",
+        "osm_id": 3624468,
+        "osm_place_id": 282441706,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "San Vicente",
+        "name_eng": "San Vicente",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1130180",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": null,
+        "osm_id": 8729975,
+        "osm_place_id": 283048035,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Santa Mar\u00eda Ostuma",
+        "name_eng": "Santa Mar\u00eda Ostuma",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1154777",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": null,
+        "osm_id": 8705400,
+        "osm_place_id": 283055817,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Santa Tecla",
+        "name_eng": "Santa Tecla",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q723246",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": null,
+        "osm_id": 8147932,
+        "osm_place_id": 282947154,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Santo Tom\u00e1s",
+        "name_eng": "Santo Tom\u00e1s",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": null,
+        "osm_id": 10078417,
+        "osm_place_id": 283394219,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Talnique",
+        "name_eng": "Talnique",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sv",
+        "country_cca3": "slv",
+        "region_cca2": null,
+        "osm_id": 8434190,
+        "osm_place_id": 283339040,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Zacatecoluca",
+        "name_eng": "Zacatecoluca",
+        "name_translations": {
+            "es": "Zacatecoluca"
+        },
+        "extra": {
+            "wikidata": "Q139248",
+            "un_locode": null
+        }
+    }
+]

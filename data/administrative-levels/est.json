@@ -1,0 +1,354 @@
+[
+    {
+        "country_cca2": "ee",
+        "country_cca3": "est",
+        "region_cca2": "EE-37",
+        "osm_id": 350585,
+        "osm_place_id": 282314783,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Harju maakond",
+        "name_eng": "Harju maakond",
+        "name_translations": {
+            "be": "\u041f\u0430\u0432\u0435\u0442 \u0425\u0430\u0440'\u044e",
+            "de": "Kreis Harrien",
+            "et": "Harju maakond",
+            "fi": "Harjumaa",
+            "pl": "Prowincja Harju",
+            "ru": "\u0423\u0435\u0437\u0434 \u0425\u0430\u0440\u044c\u044e\u043c\u0430\u0430",
+            "uk": "\u043f\u043e\u0432\u0456\u0442 \u0413\u0430\u0440'\u044e\u043c\u0430\u0430",
+            "be-tarask": "\u041f\u0430\u0432\u0435\u0442 \u0425\u0430\u0440\u2019\u044e"
+        },
+        "extra": {
+            "wikidata": "Q180200",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ee",
+        "country_cca3": "est",
+        "region_cca2": "EE-39",
+        "osm_id": 350340,
+        "osm_place_id": 282569042,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Hiiu maakond",
+        "name_eng": "Hiiu maakond",
+        "name_translations": {
+            "be": "\u041f\u0430\u0432\u0435\u0442 \u0425\u0456\u0439\u0443",
+            "et": "Hiiu maakond",
+            "ru": "\u0423\u0435\u0437\u0434 \u0425\u0438\u0439\u0443\u043c\u0430\u0430",
+            "uk": "\u043f\u043e\u0432\u0456\u0442 \u0425\u0456\u044e\u043c\u0430\u0430",
+            "be-tarask": "\u041f\u0430\u0432\u0435\u0442 \u0425\u0456\u044e"
+        },
+        "extra": {
+            "wikidata": "Q1466462",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ee",
+        "country_cca3": "est",
+        "region_cca2": "EE-44",
+        "osm_id": 350459,
+        "osm_place_id": 281956009,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Ida-Viru maakond",
+        "name_eng": "Ida-Viru maakond",
+        "name_translations": {
+            "be": "\u041f\u0430\u0432\u0435\u0442 \u0406\u0434\u0430-\u0412\u0456\u0440\u0443",
+            "de": "Kreis Ost-Wierland",
+            "et": "Ida-Viru maakond",
+            "lt": "Ryt\u0173 Viru apskritis",
+            "pl": "Powiat Wironia Wschodnia",
+            "ru": "\u0423\u0435\u0437\u0434 \u0418\u0434\u0430-\u0412\u0438\u0440\u0443\u043c\u0430\u0430",
+            "uk": "\u043f\u043e\u0432\u0456\u0442 \u0406\u0434\u0430-\u0412\u0456\u0440\u0443\u043c\u0430\u0430",
+            "be-tarask": "\u041f\u0430\u0432\u0435\u0442 \u0406\u0434\u0430-\u0412\u0456\u0440\u0443"
+        },
+        "extra": {
+            "wikidata": "Q189963",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ee",
+        "country_cca3": "est",
+        "region_cca2": "EE-52",
+        "osm_id": 353776,
+        "osm_place_id": 281960361,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "J\u00e4rva maakond",
+        "name_eng": "J\u00e4rva maakond",
+        "name_translations": {
+            "be": "\u041f\u0430\u0432\u0435\u0442 \u042f\u0440\u0432\u0430",
+            "de": "Kreis Jerwen",
+            "et": "J\u00e4rva maakond",
+            "ru": "\u0423\u0435\u0437\u0434 \u042f\u0440\u0432\u0430\u043c\u0430\u0430",
+            "uk": "\u043f\u043e\u0432\u0456\u0442 \u042f\u0440\u0432\u0430\u043c\u0430\u0430",
+            "be-tarask": "\u041f\u0430\u0432\u0435\u0442 \u042f\u0440\u0432\u0430"
+        },
+        "extra": {
+            "wikidata": "Q188068",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ee",
+        "country_cca3": "est",
+        "region_cca2": "EE-50",
+        "osm_id": 354089,
+        "osm_place_id": 282364513,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "J\u00f5geva maakond",
+        "name_eng": "J\u00f5geva maakond",
+        "name_translations": {
+            "be": "\u041f\u0430\u0432\u0435\u0442 \u0419\u044b\u0433\u0435\u0432\u0430",
+            "de": "Kreis Laisholm",
+            "et": "J\u00f5geva maakond",
+            "ru": "\u0423\u0435\u0437\u0434 \u0419\u044b\u0433\u0435\u0432\u0430\u043c\u0430\u0430",
+            "uk": "\u043f\u043e\u0432\u0456\u0442 \u0419\u0438\u0491\u0435\u0432\u0430\u043c\u0430\u0430",
+            "be-tarask": "\u041f\u0430\u0432\u0435\u0442 \u0419\u044b\u0433\u0435\u0432\u0430"
+        },
+        "extra": {
+            "wikidata": "Q189974",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ee",
+        "country_cca3": "est",
+        "region_cca2": "EE-57",
+        "osm_id": 350424,
+        "osm_place_id": 282174415,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "L\u00e4\u00e4ne maakond",
+        "name_eng": "L\u00e4\u00e4ne maakond",
+        "name_translations": {
+            "be": "\u041f\u0430\u0432\u0435\u0442 \u041b\u044f\u044d\u043d\u044d",
+            "et": "L\u00e4\u00e4ne maakond",
+            "ru": "\u0423\u0435\u0437\u0434 \u041b\u044f\u044d\u043d\u0435\u043c\u0430\u0430",
+            "uk": "\u043f\u043e\u0432\u0456\u0442 \u041b\u044f\u044f\u043d\u0435\u043c\u0430\u0430",
+            "be-tarask": "\u041f\u0430\u0432\u0435\u0442 \u041b\u044f\u044d\u043d\u044d"
+        },
+        "extra": {
+            "wikidata": "Q189968",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ee",
+        "country_cca3": "est",
+        "region_cca2": "EE-59",
+        "osm_id": 351063,
+        "osm_place_id": 281933701,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "L\u00e4\u00e4ne-Viru maakond",
+        "name_eng": "L\u00e4\u00e4ne-Viru maakond",
+        "name_translations": {
+            "be": "\u041f\u0430\u0432\u0435\u0442 \u041b\u044f\u044d\u043d\u044d-\u0412\u0456\u0440\u0443",
+            "de": "West-Wierland",
+            "et": "L\u00e4\u00e4ne-Viru maakond",
+            "fi": "L\u00e4nsi-Virumaa",
+            "pl": "Powiat Wironia Zachodnia",
+            "ru": "\u0423\u0435\u0437\u0434 \u041b\u044f\u044d\u043d\u0435-\u0412\u0438\u0440\u0443\u043c\u0430\u0430",
+            "uk": "\u043f\u043e\u0432\u0456\u0442 \u041b\u044f\u044f\u043d\u0435-\u0412\u0456\u0440\u0443\u043c\u0430\u0430",
+            "be-tarask": "\u041f\u0430\u0432\u0435\u0442 \u041b\u044f\u044d\u043d\u044d-\u0412\u0456\u0440\u0443"
+        },
+        "extra": {
+            "wikidata": "Q189952",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ee",
+        "country_cca3": "est",
+        "region_cca2": "EE-68",
+        "osm_id": 350303,
+        "osm_place_id": 282048509,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "P\u00e4rnu maakond",
+        "name_eng": "P\u00e4rnu maakond",
+        "name_translations": {
+            "be": "\u041f\u0430\u0432\u0435\u0442 \u041f\u044f\u0440\u043d\u0443",
+            "de": "Kreis Pernau",
+            "et": "P\u00e4rnu maakond",
+            "ru": "\u0423\u0435\u0437\u0434 \u041f\u044f\u0440\u043d\u0443\u043c\u0430\u0430",
+            "uk": "\u043f\u043e\u0432\u0456\u0442 \u041f\u044f\u0440\u043d\u0443\u043c\u0430\u0430",
+            "be-tarask": "\u041f\u0430\u0432\u0435\u0442 \u041f\u044f\u0440\u043d\u0443"
+        },
+        "extra": {
+            "wikidata": "Q185036",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ee",
+        "country_cca3": "est",
+        "region_cca2": "EE-64",
+        "osm_id": 352454,
+        "osm_place_id": 282110819,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "P\u00f5lva maakond",
+        "name_eng": "P\u00f5lva maakond",
+        "name_translations": {
+            "be": "\u041f\u0430\u0432\u0435\u0442 \u041f\u044b\u043b\u0432\u0430",
+            "de": "Kreis P\u00f6lwe",
+            "et": "P\u00f5lva maakond",
+            "lt": "Pelvos apskritis",
+            "ru": "\u0423\u0435\u0437\u0434 \u041f\u044b\u043b\u0432\u0430\u043c\u0430\u0430",
+            "uk": "\u043f\u043e\u0432\u0456\u0442 \u041f\u0438\u043b\u0432\u0430\u043c\u0430\u0430",
+            "be-tarask": "\u041f\u0430\u0432\u0435\u0442 \u041f\u044b\u043b\u044c\u0432\u0430"
+        },
+        "extra": {
+            "wikidata": "Q191813",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ee",
+        "country_cca3": "est",
+        "region_cca2": "EE-70",
+        "osm_id": 353779,
+        "osm_place_id": 282364335,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Rapla maakond",
+        "name_eng": "Rapla maakond",
+        "name_translations": {
+            "be": "\u041f\u0430\u0432\u0435\u0442 \u0420\u0430\u043f\u043b\u0430",
+            "de": "Kreis Rappel",
+            "et": "Rapla maakond",
+            "ru": "\u0423\u0435\u0437\u0434 \u0420\u0430\u043f\u043b\u0430\u043c\u0430\u0430",
+            "uk": "\u043f\u043e\u0432\u0456\u0442 \u0420\u0430\u043f\u043b\u0430\u043c\u0430\u0430",
+            "be-tarask": "\u041f\u0430\u0432\u0435\u0442 \u0420\u0430\u043f\u043b\u0430"
+        },
+        "extra": {
+            "wikidata": "Q192352",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ee",
+        "country_cca3": "est",
+        "region_cca2": "EE-74",
+        "osm_id": 350144,
+        "osm_place_id": 281927664,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Saare maakond",
+        "name_eng": "Saare maakond",
+        "name_translations": {
+            "be": "\u041f\u0430\u0432\u0435\u0442 \u0421\u0430\u0430\u0440\u044d",
+            "et": "Saare maakond",
+            "lt": "Sar\u0117s apskritis",
+            "ru": "\u0423\u0435\u0437\u0434 \u0421\u0430\u0430\u0440\u0435\u043c\u0430\u0430",
+            "uk": "\u043f\u043e\u0432\u0456\u0442 \u0421\u0430\u0430\u0440\u0435\u043c\u0430\u0430",
+            "be-tarask": "\u041f\u0430\u0432\u0435\u0442 \u0421\u0430\u0430\u0440\u044d"
+        },
+        "extra": {
+            "wikidata": "Q203272",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ee",
+        "country_cca3": "est",
+        "region_cca2": "EE-78",
+        "osm_id": 351246,
+        "osm_place_id": 281929555,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Tartu maakond",
+        "name_eng": "Tartu maakond",
+        "name_translations": {
+            "be": "\u041f\u0430\u0432\u0435\u0442 \u0422\u0430\u0440\u0442\u0443",
+            "de": "Kreis Dorpat",
+            "et": "Tartu maakond",
+            "lt": "Tartu apskritis",
+            "ru": "\u0423\u0435\u0437\u0434 \u0422\u0430\u0440\u0442\u0443\u043c\u0430\u0430",
+            "uk": "\u043f\u043e\u0432\u0456\u0442 \u0422\u0430\u0440\u0442\u0443\u043c\u0430\u0430",
+            "be-tarask": "\u041f\u0430\u0432\u0435\u0442 \u0422\u0430\u0440\u0442\u0443"
+        },
+        "extra": {
+            "wikidata": "Q192370",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ee",
+        "country_cca3": "est",
+        "region_cca2": "EE-82",
+        "osm_id": 351379,
+        "osm_place_id": 281994997,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Valga maakond",
+        "name_eng": "Valga maakond",
+        "name_translations": {
+            "be": "\u041f\u0430\u0432\u0435\u0442 \u0412\u0430\u043b\u0433\u0430",
+            "de": "Kreis Walk",
+            "et": "Valga maakond",
+            "ru": "\u0423\u0435\u0437\u0434 \u0412\u0430\u043b\u0433\u0430\u043c\u0430\u0430",
+            "uk": "\u043f\u043e\u0432\u0456\u0442 \u0412\u0430\u043b\u0433\u0430\u043c\u0430\u0430",
+            "be-tarask": "\u041f\u0430\u0432\u0435\u0442 \u0412\u0430\u043b\u0433\u0430"
+        },
+        "extra": {
+            "wikidata": "Q192362",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ee",
+        "country_cca3": "est",
+        "region_cca2": "EE-84",
+        "osm_id": 352449,
+        "osm_place_id": 281940972,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Viljandi maakond",
+        "name_eng": "Viljandi maakond",
+        "name_translations": {
+            "be": "\u041f\u0430\u0432\u0435\u0442 \u0412\u0456\u043b\u044c\u044f\u043d\u0434\u0437\u0456",
+            "et": "Viljandi maakond",
+            "lt": "Viljand\u017eio apskritis",
+            "ru": "\u0423\u0435\u0437\u0434 \u0412\u0438\u043b\u044c\u044f\u043d\u0434\u0438\u043c\u0430\u0430",
+            "uk": "\u043f\u043e\u0432\u0456\u0442 \u0412\u0456\u043b\u044c\u044f\u043d\u0434\u0456\u043c\u0430\u0430",
+            "be-tarask": "\u041f\u0430\u0432\u0435\u0442 \u0412\u0456\u043b\u044c\u044f\u043d\u0434\u0437\u0456"
+        },
+        "extra": {
+            "wikidata": "Q192061",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ee",
+        "country_cca3": "est",
+        "region_cca2": "EE-87",
+        "osm_id": 353812,
+        "osm_place_id": 282572259,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "V\u00f5ru maakond",
+        "name_eng": "V\u00f5ru maakond",
+        "name_translations": {
+            "be": "\u041f\u0430\u0432\u0435\u0442 \u0412\u044b\u0440\u0443",
+            "de": "Kreis Werro",
+            "et": "V\u00f5ru maakond",
+            "lt": "Veru apskritis",
+            "ru": "\u0423\u0435\u0437\u0434 \u0412\u044b\u0440\u0443\u043c\u0430\u0430",
+            "uk": "\u043f\u043e\u0432\u0456\u0442 \u0412\u0438\u0440\u0443\u043c\u0430\u0430",
+            "be-tarask": "\u041f\u0430\u0432\u0435\u0442 \u0412\u044b\u0440\u0443"
+        },
+        "extra": {
+            "wikidata": "Q188076",
+            "un_locode": null
+        }
+    }
+]

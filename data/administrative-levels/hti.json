@@ -1,0 +1,994 @@
+[
+    {
+        "country_cca2": "ht",
+        "country_cca3": "hti",
+        "region_cca2": null,
+        "osm_id": 394505,
+        "osm_place_id": 281962323,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Arrondissement Belle-Anse",
+        "name_eng": "Arrondissement Belle-Anse",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2593029",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ht",
+        "country_cca3": "hti",
+        "region_cca2": null,
+        "osm_id": 394465,
+        "osm_place_id": 282268724,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Arrondissement Borgne",
+        "name_eng": "Arrondissement Borgne",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2710935",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ht",
+        "country_cca3": "hti",
+        "region_cca2": null,
+        "osm_id": 393483,
+        "osm_place_id": 282192475,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Arrondissement Cerca La Source",
+        "name_eng": "Arrondissement Cerca La Source",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2010000",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ht",
+        "country_cca3": "hti",
+        "region_cca2": null,
+        "osm_id": 394463,
+        "osm_place_id": 281953219,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Arrondissement d'Acul-du-Nord",
+        "name_eng": "Arrondissement d'Acul-du-Nord",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2430211",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ht",
+        "country_cca3": "hti",
+        "region_cca2": null,
+        "osm_id": 393396,
+        "osm_place_id": 282324636,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Arrondissement d'Anse d'Hainault",
+        "name_eng": "Arrondissement d'Anse d'Hainault",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2499823",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ht",
+        "country_cca3": "hti",
+        "region_cca2": null,
+        "osm_id": 394517,
+        "osm_place_id": 282083435,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Arrondissement d\u2019Aquin",
+        "name_eng": "Arrondissement d\u2019Aquin",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2130122",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ht",
+        "country_cca3": "hti",
+        "region_cca2": null,
+        "osm_id": 394504,
+        "osm_place_id": 281946470,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Arrondissement de Bainet",
+        "name_eng": "Arrondissement de Bainet",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2711284",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ht",
+        "country_cca3": "hti",
+        "region_cca2": null,
+        "osm_id": 407263,
+        "osm_place_id": 281954099,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Arrondissement de Barad\u00e8res",
+        "name_eng": "Arrondissement de Barad\u00e8res",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q967260",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ht",
+        "country_cca3": "hti",
+        "region_cca2": null,
+        "osm_id": 394467,
+        "osm_place_id": 282054376,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Arrondissement de Cap-Ha\u00eftien",
+        "name_eng": "Arrondissement de Cap-Ha\u00eftien",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1110939",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ht",
+        "country_cca3": "hti",
+        "region_cca2": null,
+        "osm_id": 393435,
+        "osm_place_id": 282079605,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Arrondissement de Corail",
+        "name_eng": "Arrondissement de Corail",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2233954",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ht",
+        "country_cca3": "hti",
+        "region_cca2": null,
+        "osm_id": 393329,
+        "osm_place_id": 281967872,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Arrondissement de Croix-des-Bouquets",
+        "name_eng": "Arrondissement de Croix-des-Bouquets",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q890732",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ht",
+        "country_cca3": "hti",
+        "region_cca2": null,
+        "osm_id": 392354,
+        "osm_place_id": 282277460,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Arrondissement de Dessalines",
+        "name_eng": "Arrondissement de Dessalines",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2538562",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ht",
+        "country_cca3": "hti",
+        "region_cca2": null,
+        "osm_id": 394452,
+        "osm_place_id": 281936035,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Arrondissement de Fort-Libert\u00e9",
+        "name_eng": "Arrondissement de Fort-Libert\u00e9",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1905987",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ht",
+        "country_cca3": "hti",
+        "region_cca2": null,
+        "osm_id": 393486,
+        "osm_place_id": 282063254,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Arrondissement de Hinche",
+        "name_eng": "Arrondissement de Hinche",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2206238",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ht",
+        "country_cca3": "hti",
+        "region_cca2": null,
+        "osm_id": 394516,
+        "osm_place_id": 281959266,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Arrondissement de Jacmel",
+        "name_eng": "Arrondissement de Jacmel",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2710845",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ht",
+        "country_cca3": "hti",
+        "region_cca2": null,
+        "osm_id": 393437,
+        "osm_place_id": 281946079,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Arrondissement de J\u00e9r\u00e9mie",
+        "name_eng": "Arrondissement de J\u00e9r\u00e9mie",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2710687",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ht",
+        "country_cca3": "hti",
+        "region_cca2": null,
+        "osm_id": 393324,
+        "osm_place_id": 281985090,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Arrondissement de l\u2019Anse-\u00e0-Veau",
+        "name_eng": "Arrondissement de l\u2019Anse-\u00e0-Veau",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2536941",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ht",
+        "country_cca3": "hti",
+        "region_cca2": null,
+        "osm_id": 387690,
+        "osm_place_id": 281972025,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Arrondissement de l\u2019Arcahaie",
+        "name_eng": "Arrondissement de l\u2019Arcahaie",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1887237",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ht",
+        "country_cca3": "hti",
+        "region_cca2": null,
+        "osm_id": 387093,
+        "osm_place_id": 281981128,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Arrondissement de La Gon\u00e2ve",
+        "name_eng": "Arrondissement de La Gon\u00e2ve",
+        "name_translations": {
+            "es": "Isla de la Gon\u00e2ve"
+        },
+        "extra": {
+            "wikidata": "Q268282",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ht",
+        "country_cca3": "hti",
+        "region_cca2": null,
+        "osm_id": 387650,
+        "osm_place_id": 282308112,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Arrondissement de L\u00e9og\u00e2ne",
+        "name_eng": "Arrondissement de L\u00e9og\u00e2ne",
+        "name_translations": {
+            "fr": "Arrondissement de L\u00e9og\u00e2ne",
+            "ht": "Leyog\u00e0n"
+        },
+        "extra": {
+            "wikidata": "Q509810",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ht",
+        "country_cca3": "hti",
+        "region_cca2": null,
+        "osm_id": 392363,
+        "osm_place_id": 281984854,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Arrondissement de Marmelade",
+        "name_eng": "Arrondissement de Marmelade",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2723830",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ht",
+        "country_cca3": "hti",
+        "region_cca2": null,
+        "osm_id": 393320,
+        "osm_place_id": 282053931,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Arrondissement de Mirago\u00e2ne",
+        "name_eng": "Arrondissement de Mirago\u00e2ne",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2711200",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ht",
+        "country_cca3": "hti",
+        "region_cca2": null,
+        "osm_id": 393492,
+        "osm_place_id": 282581438,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Arrondissement de Mirebalais",
+        "name_eng": "Arrondissement de Mirebalais",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2635422",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ht",
+        "country_cca3": "hti",
+        "region_cca2": null,
+        "osm_id": 387318,
+        "osm_place_id": 281971406,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Arrondissement de Port-au-Prince",
+        "name_eng": "Port-au-Prince",
+        "name_translations": {
+            "af": "Port-au-Prince",
+            "am": "\u1356\u122d\u1276\u1355\u122a\u1295\u1235",
+            "ar": "\u0628\u0648\u0631\u062a \u0623\u0648 \u0628\u0631\u0627\u0646\u0633",
+            "ay": "Port-au-Prince",
+            "az": "Port-o-Prins",
+            "be": "\u041f\u043e\u0440\u0442-\u043e-\u041f\u0440\u044d\u043d\u0441",
+            "bg": "\u041f\u043e\u0440\u0442 \u043e \u041f\u0440\u0435\u043d\u0441",
+            "bn": "\u09aa\u09cb\u09b0\u09cd\u099f-\u0985-\u09aa\u09cd\u09b0\u09bf\u09a8\u09cd\u09b8",
+            "bo": "\u0f54\u0f7c\u0f0b\u0f62\u0f7c\u0f0b\u0f4a\u0f72\u0f0b\u0f68\u0f60\u0f74\u0f0b\u0f54\u0f72\u0f0b\u0f62\u0f72\u0f53\u0f0b\u0f66\u0f72\u0f0d",
+            "br": "Port-au-Prince",
+            "bs": "Port-au-Prince",
+            "ca": "Port-au-Prince",
+            "cs": "Port-au-Prince",
+            "cy": "Port-au-Prince",
+            "da": "Port-au-Prince",
+            "de": "Port-au-Prince",
+            "el": "\u03a0\u03bf\u03c1\u03c4-\u03bf-\u03a0\u03c1\u03b5\u03bd\u03c2",
+            "en": "Port-au-Prince",
+            "eo": "Portoprinco",
+            "es": "Puerto Pr\u00edncipe",
+            "et": "Port-au-Prince",
+            "eu": "Port-au-Prince",
+            "fa": "\u067e\u0648\u0631\u062a\u0648 \u067e\u0631\u0646\u0633",
+            "fi": "Port-au-Prince",
+            "fr": "Port-au-Prince",
+            "fy": "Port-au-Prince",
+            "ga": "Port-au-Prince",
+            "gd": "Port-au-Prince",
+            "gl": "Porto Pr\u00edncipe",
+            "he": "\u05e4\u05d5\u05e8\u05d8-\u05d0\u05d5-\u05e4\u05e8\u05e0\u05e1",
+            "hi": "\u092a\u094b\u0930\u094d\u091f-\u0911-\u092a\u094d\u0930\u093f\u0902\u0938",
+            "hr": "Port-au-Prince",
+            "ht": "P\u00f2toprens (komin)",
+            "hu": "Port-au-Prince",
+            "hy": "\u054a\u0578\u0580\u057f-\u0585-\u054a\u0580\u0565\u0576\u057d",
+            "id": "Port-au-Prince",
+            "io": "Port-au-Prince",
+            "is": "Port-au-Prince",
+            "it": "Port-au-Prince",
+            "ja": "\u30dd\u30eb\u30c8\u30fc\u30d7\u30e9\u30f3\u30b9",
+            "ka": "\u10de\u10dd\u10e0\u10e2-\u10dd-\u10de\u10e0\u10d4\u10dc\u10e1\u10d8",
+            "ko": "\ud3ec\ub974\ud1a0\ud504\ub7ad\uc2a4",
+            "la": "Portus Principis",
+            "lb": "Port-au-Prince",
+            "ln": "Port-au-Prince",
+            "lt": "Port o Prensas",
+            "lv": "Portoprensa",
+            "mg": "Port-au-Prince",
+            "mk": "\u041f\u043e\u0440\u0442 \u043e \u041f\u0440\u0435\u043d\u0441",
+            "mr": "\u092a\u094b\u0930\u094d\u091f-\u0914-\u092a\u094d\u0930\u093f\u0928\u094d\u0938",
+            "ms": "Port-au-Prince",
+            "nl": "Port-au-Prince",
+            "nn": "Port-au-Prince",
+            "no": "Port-au-Prince",
+            "oc": "Port-au-Prince",
+            "os": "\u041f\u043e\u0440\u0442-\u043e-\u041f\u0440\u0435\u043d\u0441",
+            "pl": "Port-au-Prince",
+            "pt": "Porto Pr\u00edncipe",
+            "qu": "Port au Prince",
+            "ro": "Port-au-Prince",
+            "ru": "\u041f\u043e\u0440\u0442-\u043e-\u041f\u0440\u0435\u043d\u0441",
+            "sc": "Port-au-Prince",
+            "sk": "Port-au-Prince",
+            "sl": "Port-au-Prince",
+            "sq": "Port-au-Prince",
+            "sr": "\u041f\u043e\u0440\u0442 \u043e \u041f\u0440\u0435\u043d\u0441",
+            "sv": "Port-au-Prince",
+            "sw": "Port-au-Prince",
+            "ta": "\u0baa\u0bcb\u0bb0\u0bcd\u0b9f\u0bcd-\u0b93-\u0baa\u0bbf\u0bb0\u0bbf\u0ba9\u0bcd\u0bb8\u0bcd",
+            "tg": "\u041f\u043e\u0440\u0442-\u043e-\u041f\u0440\u0435\u043d\u0441",
+            "th": "\u0e1b\u0e2d\u0e23\u0e4c\u0e42\u0e15\u0e41\u0e1b\u0e23\u0e07\u0e0b\u0e4c",
+            "tl": "Port-au-Prince",
+            "tr": "Port-au-Prince",
+            "uk": "\u041f\u043e\u0440\u0442-\u043e-\u041f\u0440\u0435\u043d\u0441",
+            "ur": "\u067e\u0648\u0631\u0679 \u0627\u0648 \u067e\u0631\u0646\u0633",
+            "vi": "Port-au-Prince",
+            "vo": "Port-au-Prince",
+            "yo": "Port-au-Prince",
+            "zh": "\u592a\u5b50\u6e2f",
+            "be-tarask": "\u041f\u043e\u0440\u0442-\u043e-\u041f\u0440\u044d\u043d\u0441"
+        },
+        "extra": {
+            "wikidata": "Q34261",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ht",
+        "country_cca3": "hti",
+        "region_cca2": null,
+        "osm_id": 392364,
+        "osm_place_id": 281988355,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Arrondissement de Saint-Marc",
+        "name_eng": "Arrondissement de Saint-Marc",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2344134",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ht",
+        "country_cca3": "hti",
+        "region_cca2": null,
+        "osm_id": 394518,
+        "osm_place_id": 282001537,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Arrondissement des Cayes",
+        "name_eng": "Arrondissement des Cayes",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q267547",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ht",
+        "country_cca3": "hti",
+        "region_cca2": null,
+        "osm_id": 394519,
+        "osm_place_id": 282147804,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Arrondissement des Chardonni\u00e8res",
+        "name_eng": "Arrondissement des Chardonni\u00e8res",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q919314",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ht",
+        "country_cca3": "hti",
+        "region_cca2": null,
+        "osm_id": 394521,
+        "osm_place_id": 282123352,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Arrondissement des C\u00f4teaux",
+        "name_eng": "Arrondissement des C\u00f4teaux",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2711270",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ht",
+        "country_cca3": "hti",
+        "region_cca2": null,
+        "osm_id": 392359,
+        "osm_place_id": 282053782,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Arrondissement des Gona\u00efves",
+        "name_eng": "Arrondissement des Gona\u00efves",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2332261",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ht",
+        "country_cca3": "hti",
+        "region_cca2": null,
+        "osm_id": 394488,
+        "osm_place_id": 282147773,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Arrondissement Grande-Rivi\u00e8re-Du-Nord",
+        "name_eng": "Arrondissement Grande-Rivi\u00e8re-Du-Nord",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2481388",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ht",
+        "country_cca3": "hti",
+        "region_cca2": null,
+        "osm_id": 392360,
+        "osm_place_id": 282033162,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Arrondissement Gros Morne",
+        "name_eng": "Arrondissement Gros Morne",
+        "name_translations": {
+            "ht": "Gwo M\u00f2n",
+            "oc": "Gr\u00f2s M\u00f2rne"
+        },
+        "extra": {
+            "wikidata": "Q2281490",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ht",
+        "country_cca3": "hti",
+        "region_cca2": null,
+        "osm_id": 393488,
+        "osm_place_id": 282145339,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Arrondissement Lascahobas",
+        "name_eng": "Arrondissement Lascahobas",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2196184",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ht",
+        "country_cca3": "hti",
+        "region_cca2": null,
+        "osm_id": 394493,
+        "osm_place_id": 282278077,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Arrondissement Limb\u00e9",
+        "name_eng": "Arrondissement Limb\u00e9",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1926813",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ht",
+        "country_cca3": "hti",
+        "region_cca2": null,
+        "osm_id": 393374,
+        "osm_place_id": 282122661,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Arrondissement M\u00f4le-Saint-Nicolas",
+        "name_eng": "Arrondissement M\u00f4le-Saint-Nicolas",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q516732",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ht",
+        "country_cca3": "hti",
+        "region_cca2": null,
+        "osm_id": 394456,
+        "osm_place_id": 282001453,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Arrondissement Ouanaminthe",
+        "name_eng": "Arrondissement Ouanaminthe",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2364573",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ht",
+        "country_cca3": "hti",
+        "region_cca2": null,
+        "osm_id": 394494,
+        "osm_place_id": 281953248,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Arrondissement Plaisance",
+        "name_eng": "Arrondissement Plaisance",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2711262",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ht",
+        "country_cca3": "hti",
+        "region_cca2": null,
+        "osm_id": 393379,
+        "osm_place_id": 282312354,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Arrondissement Port-de-Paix",
+        "name_eng": "Arrondissement Port-de-Paix",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1883102",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ht",
+        "country_cca3": "hti",
+        "region_cca2": null,
+        "osm_id": 394522,
+        "osm_place_id": 281946599,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Arrondissement Port-Salut",
+        "name_eng": "Arrondissement Port-Salut",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2710699",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ht",
+        "country_cca3": "hti",
+        "region_cca2": null,
+        "osm_id": 393381,
+        "osm_place_id": 282425040,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Arrondissement Saint-Louis du Nord",
+        "name_eng": "Arrondissement Saint-Louis du Nord",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q949328",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ht",
+        "country_cca3": "hti",
+        "region_cca2": null,
+        "osm_id": 395432,
+        "osm_place_id": 281985622,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Arrondissement Saint-Rapha\u00ebl",
+        "name_eng": "Arrondissement Saint-Rapha\u00ebl",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2013569",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ht",
+        "country_cca3": "hti",
+        "region_cca2": null,
+        "osm_id": 394459,
+        "osm_place_id": 282123294,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Arrondissement Trou-Du-Nord",
+        "name_eng": "Arrondissement Trou-Du-Nord",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2711206",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ht",
+        "country_cca3": "hti",
+        "region_cca2": null,
+        "osm_id": 394460,
+        "osm_place_id": 281946546,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Arrondissement Valli\u00e8res",
+        "name_eng": "Arrondissement Valli\u00e8res",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2032812",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ht",
+        "country_cca3": "hti",
+        "region_cca2": null,
+        "osm_id": 6055556,
+        "osm_place_id": 282683371,
+        "osm_admin_level": 6,
+        "osm_type": "census",
+        "name_loc": "Communaut\u00e9 de Municipalit\u00e9s de la R\u00e9gion des Palmes",
+        "name_eng": "Communaut\u00e9 de Municipalit\u00e9s de la R\u00e9gion des Palmes",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ht",
+        "country_cca3": "hti",
+        "region_cca2": "HT-AR",
+        "osm_id": 392238,
+        "osm_place_id": 282309799,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "D\u00e9partement de l'Artibonite",
+        "name_eng": "Artibonite Department",
+        "name_translations": {
+            "en": "Artibonite Department",
+            "ht": "Latibonit",
+            "ru": "\u0410\u0440\u0442\u0438\u0431\u043e\u043d\u0438\u0442",
+            "uk": "\u0410\u0440\u0442\u0456\u0431\u043e\u043d\u0456\u0442",
+            "zh": "\u963f\u8482\u535a\u5c3c\u7279\u7701"
+        },
+        "extra": {
+            "wikidata": "Q844024",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ht",
+        "country_cca3": "hti",
+        "region_cca2": "HT-OU",
+        "osm_id": 386871,
+        "osm_place_id": 282422599,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "D\u00e9partement de l'Ouest",
+        "name_eng": "D\u00e9partement de l'Ouest",
+        "name_translations": {
+            "ar": "\u0627\u0644\u0625\u062f\u0627\u0631\u0629 \u0627\u0644\u063a\u0631\u0628\u064a\u0629",
+            "de": "West",
+            "en": "West",
+            "es": "Departamento Oeste",
+            "fa": "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u063a\u0631\u0628\u06cc",
+            "ht": "Depatman Lw\u00e8s",
+            "pl": "Departament Zachodni",
+            "ru": "\u0417\u0430\u043f\u0430\u0434\u043d\u044b\u0439 \u0434\u0435\u043f\u0430\u0440\u0442\u0430\u043c\u0435\u043d\u0442",
+            "ur": "\u0645\u063a\u0631\u0628\u06cc \u0645\u062d\u06a9\u0645\u06c1"
+        },
+        "extra": {
+            "wikidata": "Q1434621",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ht",
+        "country_cca3": "hti",
+        "region_cca2": "HT-GA",
+        "osm_id": 391700,
+        "osm_place_id": 282122262,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "D\u00e9partement de la Grande-Anse",
+        "name_eng": "D\u00e9partement de la Grande-Anse",
+        "name_translations": {
+            "ht": "Depatman Grandans"
+        },
+        "extra": {
+            "wikidata": "Q913231",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ht",
+        "country_cca3": "hti",
+        "region_cca2": "HT-NI",
+        "osm_id": 391834,
+        "osm_place_id": 282008278,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "D\u00e9partement des Nippes",
+        "name_eng": "D\u00e9partement des Nippes",
+        "name_translations": {
+            "ht": "Depatman Nip",
+            "pl": "Departament Nippes",
+            "ru": "\u041d\u0438\u043f"
+        },
+        "extra": {
+            "wikidata": "Q125232",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ht",
+        "country_cca3": "hti",
+        "region_cca2": "HT-CE",
+        "osm_id": 392213,
+        "osm_place_id": 281982495,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "D\u00e9partement du Centre",
+        "name_eng": "Centre Department",
+        "name_translations": {
+            "en": "Centre Department",
+            "ht": "Depatman Sant",
+            "pl": "Departament Centralny",
+            "ru": "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0434\u0435\u043f\u0430\u0440\u0442\u0430\u043c\u0435\u043d\u0442"
+        },
+        "extra": {
+            "wikidata": "Q844528",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ht",
+        "country_cca3": "hti",
+        "region_cca2": "HT-ND",
+        "osm_id": 392028,
+        "osm_place_id": 281950363,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "D\u00e9partement du Nord",
+        "name_eng": "D\u00e9partement du Nord",
+        "name_translations": {
+            "ht": "Depatman N\u00f2dw\u00e8s",
+            "pl": "Departament P\u00f3\u0142nocny",
+            "ru": "\u0421\u0435\u0432\u0435\u0440\u043d\u044b\u0439 \u0434\u0435\u043f\u0430\u0440\u0442\u0430\u043c\u0435\u043d\u0442"
+        },
+        "extra": {
+            "wikidata": "Q943932",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ht",
+        "country_cca3": "hti",
+        "region_cca2": "HT-NE",
+        "osm_id": 392189,
+        "osm_place_id": 281934216,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "D\u00e9partement du Nord-Est",
+        "name_eng": "Nord-Est Department",
+        "name_translations": {
+            "de": "Nordost",
+            "en": "Nord-Est Department",
+            "ht": "Depatman N\u00f2d\u00e8s",
+            "pl": "Departament P\u00f3\u0142nocno-Wschodni",
+            "ru": "\u0421\u0435\u0432\u0435\u0440\u043e-\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u044b\u0439 \u0434\u0435\u043f\u0430\u0440\u0442\u0430\u043c\u0435\u043d\u0442"
+        },
+        "extra": {
+            "wikidata": "Q928694",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ht",
+        "country_cca3": "hti",
+        "region_cca2": "HT-NO",
+        "osm_id": 391963,
+        "osm_place_id": 281960944,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "D\u00e9partement du Nord-Ouest",
+        "name_eng": "Nord-Ouest Department",
+        "name_translations": {
+            "de": "Nordwest",
+            "en": "Nord-Ouest Department",
+            "ht": "Depatman N\u00f2dw\u00e8s",
+            "pl": "Departament P\u00f3\u0142nocno-Zachodni",
+            "ru": "\u0421\u0435\u0432\u0435\u0440\u043e-\u0417\u0430\u043f\u0430\u0434\u043d\u044b\u0439 \u0434\u0435\u043f\u0430\u0440\u0442\u0430\u043c\u0435\u043d\u0442"
+        },
+        "extra": {
+            "wikidata": "Q608361",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ht",
+        "country_cca3": "hti",
+        "region_cca2": "HT-SD",
+        "osm_id": 2744350,
+        "osm_place_id": 282419013,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "D\u00e9partement du Sud",
+        "name_eng": "Sud Department",
+        "name_translations": {
+            "de": "S\u00fcd",
+            "en": "Sud Department",
+            "ht": "Sid",
+            "pl": "Departament Po\u0142udniowy",
+            "ru": "\u042e\u0436\u043d\u044b\u0439 \u0434\u0435\u043f\u0430\u0440\u0442\u0430\u043c\u0435\u043d\u0442"
+        },
+        "extra": {
+            "wikidata": "Q936704",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ht",
+        "country_cca3": "hti",
+        "region_cca2": "HT-SE",
+        "osm_id": 391953,
+        "osm_place_id": 282311883,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "D\u00e9partement du Sud-Est",
+        "name_eng": "D\u00e9partement du Sud-Est",
+        "name_translations": {
+            "de": "S\u00fcdost",
+            "en": "South-East",
+            "ht": "Depatman Sid\u00e8s",
+            "pl": "Departament Po\u0142udniowo-Wschodni",
+            "ru": "\u042e\u0433\u043e-\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u044b\u0439 \u0434\u0435\u043f\u0430\u0440\u0442\u0430\u043c\u0435\u043d\u0442"
+        },
+        "extra": {
+            "wikidata": "Q936717",
+            "un_locode": null
+        }
+    }
+]

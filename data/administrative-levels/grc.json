@@ -1,0 +1,2250 @@
+[
+    {
+        "country_cca2": "gr",
+        "country_cca3": "grc",
+        "region_cca2": null,
+        "osm_id": 4496067,
+        "osm_place_id": 282611729,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "\u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u0391\u03b9\u03b3\u03b1\u03af\u03bf\u03c5",
+        "name_eng": "Aegean",
+        "name_translations": {
+            "bg": "\u0415\u0433\u0435\u0439\u0441\u043a\u0438\u0442\u0435 \u043e\u0441\u0442\u0440\u043e\u0432\u0438",
+            "ca": "Egeu",
+            "de": "\u00c4g\u00e4is",
+            "el": "\u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u0391\u03b9\u03b3\u03b1\u03af\u03bf\u03c5",
+            "en": "Aegean",
+            "fr": "\u00c9g\u00e9e",
+            "mk": "\u0415\u0433\u0435\u0458\u0441\u043a\u0438\u0442\u0435 \u041e\u0441\u0442\u0440\u043e\u0432\u0438",
+            "nl": "Ege\u00efsche Eilanden",
+            "pl": "Wyspy Egejskie",
+            "ru": "\u042d\u0433\u0435\u0439\u0441\u043a\u0438\u0435 \u043e\u0441\u0442\u0440\u043e\u0432\u0430",
+            "tr": "Ege"
+        },
+        "extra": {
+            "wikidata": "Q9380366",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gr",
+        "country_cca3": "grc",
+        "region_cca2": null,
+        "osm_id": 4477553,
+        "osm_place_id": 282816187,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "\u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u0391\u03c4\u03c4\u03b9\u03ba\u03ae\u03c2",
+        "name_eng": "Attica",
+        "name_translations": {
+            "bg": "\u0410\u0442\u0438\u043a\u0430",
+            "ca": "\u00c0tica",
+            "de": "Attika",
+            "el": "\u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u0391\u03c4\u03c4\u03b9\u03ba\u03ae\u03c2",
+            "en": "Attica",
+            "fr": "Attique",
+            "mk": "\u0410\u0442\u0438\u043a\u0430",
+            "nl": "Attica",
+            "pl": "Attyka",
+            "ru": "\u0410\u0442\u0442\u0438\u043a\u0430",
+            "tr": "Attika"
+        },
+        "extra": {
+            "wikidata": "Q9161823",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gr",
+        "country_cca3": "grc",
+        "region_cca2": null,
+        "osm_id": 4458374,
+        "osm_place_id": 282531878,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "\u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u0397\u03c0\u03b5\u03af\u03c1\u03bf\u03c5 - \u0394\u03c5\u03c4\u03b9\u03ba\u03ae\u03c2 \u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03af\u03b1\u03c2",
+        "name_eng": "Epirus and Western Macedonia",
+        "name_translations": {
+            "bg": "\u0415\u043f\u0438\u0440 \u0438 \u0417\u0430\u043f\u0430\u0434\u043d\u0430 \u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u044f",
+            "ca": "Epir - Maced\u00f2nia Occidental",
+            "de": "Epirus - Westmakedonien",
+            "el": "\u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u0397\u03c0\u03b5\u03af\u03c1\u03bf\u03c5 - \u0394\u03c5\u03c4\u03b9\u03ba\u03ae\u03c2 \u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03af\u03b1\u03c2",
+            "en": "Epirus and Western Macedonia",
+            "fi": "Epeiros - L\u00e4nsi-Makedonia",
+            "fr": "\u00c9pire-Mac\u00e9doine occidentale",
+            "mk": "\u0415\u043f\u0438\u0440 \u0438 \u0417\u0430\u043f\u0430\u0434\u043d\u0430 \u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u0458\u0430",
+            "nl": "Epirus - West-Macedoni\u00eb",
+            "pl": "Epir-Macedonia Zachodnia",
+            "ru": "\u042d\u043f\u0438\u0440 \u0438 \u0417\u0430\u043f\u0430\u0434\u043d\u0430\u044f \u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u044f",
+            "tr": "Epir ve Bat\u0131 Makedonya"
+        },
+        "extra": {
+            "wikidata": "Q9254348",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gr",
+        "country_cca3": "grc",
+        "region_cca2": null,
+        "osm_id": 4495677,
+        "osm_place_id": 282851332,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "\u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03af\u03b1\u03c2 - \u03a3\u03c4\u03b5\u03c1\u03b5\u03ac\u03c2 \u0395\u03bb\u03bb\u03ac\u03b4\u03bf\u03c2",
+        "name_eng": "Thessaly and Central Greece",
+        "name_translations": {
+            "bg": "\u0422\u0435\u0441\u0430\u043b\u0438\u044f \u0438 \u0426\u0435\u043d\u0442\u0440\u0430\u043b\u043d\u0430 \u0413\u044a\u0440\u0446\u0438\u044f",
+            "ca": "Tess\u00e0lia - Gr\u00e8cia Central",
+            "de": "Thessalien - Mittelgriechenland",
+            "el": "\u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03af\u03b1\u03c2 - \u03a3\u03c4\u03b5\u03c1\u03b5\u03ac\u03c2 \u0395\u03bb\u03bb\u03ac\u03b4\u03bf\u03c2",
+            "en": "Thessaly and Central Greece",
+            "fr": "Thessalie-Gr\u00e8ce centrale",
+            "mk": "\u0422\u0435\u0441\u0430\u043b\u0438\u0458\u0430 \u0438 \u0426\u0435\u043d\u0442\u0440\u0430\u043b\u043d\u0430 \u0413\u0440\u0446\u0438\u0458\u0430",
+            "nl": "Thessali\u00eb - Centraal-Griekenland",
+            "pl": "Tesalia-Grecja \u015arodkowa",
+            "ru": "\u0424\u0435\u0441\u0441\u0430\u043b\u0438\u044f \u0438 \u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u0430\u044f \u0413\u0440\u0435\u0446\u0438\u044f",
+            "tr": "Teselya ve Orta Yunanistan"
+        },
+        "extra": {
+            "wikidata": "Q11836920",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gr",
+        "country_cca3": "grc",
+        "region_cca2": null,
+        "osm_id": 4496068,
+        "osm_place_id": 282610901,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "\u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u039a\u03c1\u03ae\u03c4\u03b7\u03c2",
+        "name_eng": "Region of Crete",
+        "name_translations": {
+            "ar": "\u0625\u0642\u0631\u064a\u0637\u0634",
+            "bg": "\u041a\u0440\u0438\u0442",
+            "ca": "Creta",
+            "de": "Region Kreta",
+            "el": "\u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u039a\u03c1\u03ae\u03c4\u03b7\u03c2",
+            "en": "Region of Crete",
+            "fr": "R\u00e9gion Cr\u00e8te",
+            "mk": "\u041a\u0440\u0438\u0442",
+            "nl": "Kreta",
+            "pl": "Kreta",
+            "ru": "\u041a\u0440\u0438\u0442",
+            "tr": "Girit"
+        },
+        "extra": {
+            "wikidata": "Q11748141",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gr",
+        "country_cca3": "grc",
+        "region_cca2": null,
+        "osm_id": 5208399,
+        "osm_place_id": 282689189,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "\u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03af\u03b1\u03c2 - \u0398\u03c1\u03ac\u03ba\u03b7\u03c2",
+        "name_eng": "Macedonia and Thrace",
+        "name_translations": {
+            "bg": "\u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u044f \u0438 \u0422\u0440\u0430\u043a\u0438\u044f",
+            "ca": "Maced\u00f2nia i Tr\u00e0cia",
+            "de": "Makedonien - Thrakien",
+            "el": "\u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03af\u03b1\u03c2 - \u0398\u03c1\u03ac\u03ba\u03b7\u03c2",
+            "en": "Macedonia and Thrace",
+            "fr": "Mac\u00e9doine-Thrace",
+            "mk": "\u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u0458\u0430 \u0438 \u0422\u0440\u0430\u043a\u0438\u0458\u0430",
+            "nl": "Macedoni\u00eb - Thraci\u00eb",
+            "pl": "Macedonia-Tracja",
+            "ru": "\u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u044f \u0438 \u0424\u0440\u0430\u043a\u0438\u044f",
+            "tr": "Makedonya ve Trakya"
+        },
+        "extra": {
+            "wikidata": "Q5249082",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gr",
+        "country_cca3": "grc",
+        "region_cca2": null,
+        "osm_id": 4495892,
+        "osm_place_id": 282561337,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "\u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u03a0\u03b5\u03bb\u03bf\u03c0\u03bf\u03bd\u03bd\u03ae\u03c3\u03bf\u03c5, \u0394\u03c5\u03c4\u03b9\u03ba\u03ae\u03c2 \u0395\u03bb\u03bb\u03ac\u03b4\u03b1\u03c2 \u03ba\u03b1\u03b9 \u0399\u03bf\u03bd\u03af\u03bf\u03c5",
+        "name_eng": "Peloponnese, Western Greece and the Ionian",
+        "name_translations": {
+            "bg": "\u041f\u0435\u043b\u043e\u043f\u043e\u043d\u0435\u0441, \u0417\u0430\u043f\u0430\u0434\u043d\u0430 \u0413\u044a\u0440\u0446\u0438\u044f \u0438 \u0419\u043e\u043d\u0438\u0439\u0441\u043a\u0438 \u043e\u0441\u0442\u0440\u043e\u0432\u0438",
+            "ca": "Pelopon\u00e8s, Gr\u00e8cia Occidental i Illes J\u00f2niques",
+            "de": "Peloponnes, Westgriechenland und Ionische Inseln",
+            "el": "\u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u03a0\u03b5\u03bb\u03bf\u03c0\u03bf\u03bd\u03bd\u03ae\u03c3\u03bf\u03c5, \u0394\u03c5\u03c4\u03b9\u03ba\u03ae\u03c2 \u0395\u03bb\u03bb\u03ac\u03b4\u03b1\u03c2 \u03ba\u03b1\u03b9 \u0399\u03bf\u03bd\u03af\u03bf\u03c5",
+            "en": "Peloponnese, Western Greece and the Ionian",
+            "fr": "P\u00e9loponn\u00e8se, Gr\u00e8ce occidentale et \u00celes Ioniennes",
+            "mk": "\u041f\u0435\u043b\u043e\u043f\u043e\u043d\u0435\u0437, \u0417\u0430\u043f\u0430\u0434\u043d\u0430 \u0413\u0440\u0446\u0438\u0458\u0430 \u0438 \u0408\u043e\u043d\u0441\u043a\u0438\u0442\u0435 \u041e\u0441\u0442\u0440\u043e\u0432\u0438",
+            "nl": "Peloponnesos, West-Griekenland en Ionische Eilanden",
+            "pl": "Peloponez, Grecja Zachodnia i Wyspy Jo\u0144skie",
+            "ru": "\u041f\u0435\u043b\u043e\u043f\u043e\u043d\u043d\u0435\u0441, \u0417\u0430\u043f\u0430\u0434\u043d\u0430\u044f \u0413\u0440\u0435\u0446\u0438\u044f \u0438 \u0418\u043e\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u043e\u0441\u0442\u0440\u043e\u0432\u0430",
+            "tr": "Mora, Bat\u0131 Yunanistan ve \u0130yonya"
+        },
+        "extra": {
+            "wikidata": "Q11815506",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gr",
+        "country_cca3": "grc",
+        "region_cca2": null,
+        "osm_id": 937937,
+        "osm_place_id": 282061640,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u0391\u03bd\u03b1\u03c4\u03bf\u03bb\u03b9\u03ba\u03ae\u03c2 \u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03af\u03b1\u03c2 \u03ba\u03b1\u03b9 \u0398\u03c1\u03ac\u03ba\u03b7\u03c2",
+        "name_eng": "Eastern Macedonia and Thrace",
+        "name_translations": {
+            "ca": "Perif\u00e8ria de Maced\u00f2nia Oriental i Tr\u00e0cia",
+            "de": "Region Ostmakedonien und Thrakien",
+            "el": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u0391\u03bd\u03b1\u03c4\u03bf\u03bb\u03b9\u03ba\u03ae\u03c2 \u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03af\u03b1\u03c2 \u03ba\u03b1\u03b9 \u0398\u03c1\u03ac\u03ba\u03b7\u03c2",
+            "en": "Eastern Macedonia and Thrace",
+            "fr": "Mac\u00e9doine-Orientale-et-Thrace",
+            "hu": "Kelet-Maked\u00f3nia \u00e9s Tr\u00e1kia",
+            "lt": "Ryt\u0173 Makedonijos ir Trakijos periferija",
+            "mk": "\u0418\u0441\u0442\u043e\u0447\u043d\u0430 \u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u0458\u0430 \u0438 \u0422\u0440\u0430\u043a\u0438\u0458\u0430",
+            "nl": "Oost-Macedoni\u00eb en Thraci\u00eb",
+            "pl": "Region Macedonia Wschodnia i Tracja",
+            "ru": "\u043f\u0435\u0440\u0438\u0444\u0435\u0440\u0438\u044f \u0412\u043e\u0441\u0442\u043e\u0447\u043d\u0430\u044f \u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u044f \u0438 \u0424\u0440\u0430\u043a\u0438\u044f"
+        },
+        "extra": {
+            "wikidata": "Q171314",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gr",
+        "country_cca3": "grc",
+        "region_cca2": "GR-I",
+        "osm_id": 957716,
+        "osm_place_id": 282034096,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u0391\u03c4\u03c4\u03b9\u03ba\u03ae\u03c2",
+        "name_eng": "Attica",
+        "name_translations": {
+            "ca": "Perif\u00e8ria d'\u00c0tica",
+            "de": "Region Attika",
+            "el": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u0391\u03c4\u03c4\u03b9\u03ba\u03ae\u03c2",
+            "en": "Attica",
+            "fr": "Attique",
+            "hu": "Attika",
+            "mk": "\u0410\u0442\u0438\u043a\u0430",
+            "nl": "Attica",
+            "pl": "Region Attyka",
+            "ru": "\u043f\u0435\u0440\u0438\u0444\u0435\u0440\u0438\u044f \u0410\u0442\u0442\u0438\u043a\u0430"
+        },
+        "extra": {
+            "wikidata": "Q758056",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gr",
+        "country_cca3": "grc",
+        "region_cca2": "GR-K",
+        "osm_id": 958517,
+        "osm_place_id": 282058789,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u0392\u03cc\u03c1\u03b5\u03b9\u03bf\u03c5 \u0391\u03b9\u03b3\u03b1\u03af\u03bf\u03c5",
+        "name_eng": "Northern Aegean",
+        "name_translations": {
+            "ca": "Perif\u00e8ria de l'Egeu Septentrional",
+            "de": "Region N\u00f6rdliche \u00c4g\u00e4is",
+            "el": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u0392\u03cc\u03c1\u03b5\u03b9\u03bf\u03c5 \u0391\u03b9\u03b3\u03b1\u03af\u03bf\u03c5",
+            "en": "Northern Aegean",
+            "fr": "\u00c9g\u00e9e-Septentrionale",
+            "hu": "\u00c9szaki-\u00c9gei-szigetek",
+            "nl": "Noord-Ege\u00efsche Eilanden",
+            "pl": "Wyspy Egejskie P\u00f3\u0142nocne",
+            "ru": "\u043f\u0435\u0440\u0438\u0444\u0435\u0440\u0438\u044f \u0421\u0435\u0432\u0435\u0440\u043d\u044b\u0435 \u042d\u0433\u0435\u0439\u0441\u043a\u0438\u0435 \u043e\u0441\u0442\u0440\u043e\u0432\u0430"
+        },
+        "extra": {
+            "wikidata": "Q173620",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gr",
+        "country_cca3": "grc",
+        "region_cca2": "GR-G",
+        "osm_id": 910919,
+        "osm_place_id": 282175434,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u0394\u03c5\u03c4\u03b9\u03ba\u03ae\u03c2 \u0395\u03bb\u03bb\u03ac\u03b4\u03b1\u03c2",
+        "name_eng": "Western Greece",
+        "name_translations": {
+            "ar": "\u063a\u0631\u0628 \u0627\u0644\u064a\u0648\u0646\u0627\u0646",
+            "ca": "Perif\u00e8ria de Gr\u00e8cia Occidental",
+            "de": "Region Westgriechenland",
+            "el": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u0394\u03c5\u03c4\u03b9\u03ba\u03ae\u03c2 \u0395\u03bb\u03bb\u03ac\u03b4\u03b1\u03c2",
+            "en": "Western Greece",
+            "fr": "Gr\u00e8ce-Occidentale",
+            "hu": "Nyugat-G\u00f6r\u00f6gorsz\u00e1g",
+            "mk": "\u0417\u0430\u043f\u0430\u0434\u043d\u0430 \u0413\u0440\u0446\u0438\u0458\u0430",
+            "nl": "West-Griekenland",
+            "pl": "Region Grecja Zachodnia",
+            "ru": "\u043f\u0435\u0440\u0438\u0444\u0435\u0440\u0438\u044f \u0417\u0430\u043f\u0430\u0434\u043d\u0430\u044f \u0413\u0440\u0435\u0446\u0438\u044f"
+        },
+        "extra": {
+            "wikidata": "Q170291",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gr",
+        "country_cca3": "grc",
+        "region_cca2": "GR-C",
+        "osm_id": 956701,
+        "osm_place_id": 282043381,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u0394\u03c5\u03c4\u03b9\u03ba\u03ae\u03c2 \u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03af\u03b1\u03c2",
+        "name_eng": "Western Macedonia",
+        "name_translations": {
+            "ca": "Perif\u00e8ria de Maced\u00f2nia Occidental",
+            "de": "Region Westmakedonien",
+            "el": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u0394\u03c5\u03c4\u03b9\u03ba\u03ae\u03c2 \u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03af\u03b1\u03c2",
+            "en": "Western Macedonia",
+            "fr": "Mac\u00e9doine-Occidentale",
+            "hu": "Nyugat-Maked\u00f3nia",
+            "mk": "\u0417\u0430\u043f\u0430\u0434\u043d\u0430 \u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u0458\u0430",
+            "nl": "West-Macedoni\u00eb",
+            "pl": "Region Macedonia Zachodnia",
+            "ru": "\u043f\u0435\u0440\u0438\u0444\u0435\u0440\u0438\u044f \u0417\u0430\u043f\u0430\u0434\u043d\u0430\u044f \u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u044f"
+        },
+        "extra": {
+            "wikidata": "Q165408",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gr",
+        "country_cca3": "grc",
+        "region_cca2": "GR-D",
+        "osm_id": 554424,
+        "osm_place_id": 282351358,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u0397\u03c0\u03b5\u03af\u03c1\u03bf\u03c5",
+        "name_eng": "Epirus",
+        "name_translations": {
+            "ca": "Perif\u00e8ria d'Epir",
+            "de": "Region Epirus",
+            "el": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u0397\u03c0\u03b5\u03af\u03c1\u03bf\u03c5",
+            "en": "Epirus",
+            "fr": "\u00c9pire",
+            "hu": "Epirusz",
+            "nl": "Epirus",
+            "pl": "Region Epir",
+            "ru": "\u043f\u0435\u0440\u0438\u0444\u0435\u0440\u0438\u044f \u042d\u043f\u0438\u0440"
+        },
+        "extra": {
+            "wikidata": "Q180484",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gr",
+        "country_cca3": "grc",
+        "region_cca2": "GR-E",
+        "osm_id": 958236,
+        "osm_place_id": 282362804,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03af\u03b1\u03c2",
+        "name_eng": "Thessaly",
+        "name_translations": {
+            "ca": "Perif\u00e8ria de Tess\u00e0lia",
+            "de": "Region Thessalien",
+            "el": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03af\u03b1\u03c2",
+            "en": "Thessaly",
+            "fr": "Thessalie",
+            "hu": "Thessz\u00e1lia",
+            "lt": "Tesalijos periferija",
+            "mk": "\u0422\u0435\u0441\u0430\u043b\u0438\u0458\u0430",
+            "nl": "Thessali\u00eb",
+            "pl": "Region Tesalia",
+            "ru": "\u043f\u0435\u0440\u0438\u0444\u0435\u0440\u0438\u044f \u0424\u0435\u0441\u0441\u0430\u043b\u0438\u044f"
+        },
+        "extra": {
+            "wikidata": "Q22807284",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gr",
+        "country_cca3": "grc",
+        "region_cca2": "GR-F",
+        "osm_id": 957830,
+        "osm_place_id": 282145779,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u0399\u03bf\u03bd\u03af\u03c9\u03bd \u039d\u03ae\u03c3\u03c9\u03bd",
+        "name_eng": "Ioanian Islands",
+        "name_translations": {
+            "ca": "Perif\u00e8ria de les Illes J\u00f2niques",
+            "de": "Region der Ionischen Inseln",
+            "el": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u0399\u03bf\u03bd\u03af\u03c9\u03bd \u039d\u03ae\u03c3\u03c9\u03bd",
+            "en": "Ioanian Islands",
+            "fr": "\u00celes Ioniennes",
+            "hu": "J\u00f3n-szigetek",
+            "pl": "Region Wyspy Jo\u0144skie",
+            "ru": "\u043f\u0435\u0440\u0438\u0444\u0435\u0440\u0438\u044f \u0418\u043e\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u043e\u0441\u0442\u0440\u043e\u0432\u0430"
+        },
+        "extra": {
+            "wikidata": "Q1147674",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gr",
+        "country_cca3": "grc",
+        "region_cca2": "GR-B",
+        "osm_id": 937958,
+        "osm_place_id": 282472677,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u039a\u03b5\u03bd\u03c4\u03c1\u03b9\u03ba\u03ae\u03c2 \u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03af\u03b1\u03c2",
+        "name_eng": "Central Macedonia",
+        "name_translations": {
+            "bg": "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u043d\u0430 \u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u044f",
+            "ca": "Perif\u00e8ria de Maced\u00f2nia Central",
+            "de": "Zentralmakedonien",
+            "el": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u039a\u03b5\u03bd\u03c4\u03c1\u03b9\u03ba\u03ae\u03c2 \u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03af\u03b1\u03c2",
+            "en": "Central Macedonia",
+            "fr": "Mac\u00e9doine-Centrale",
+            "hu": "K\u00f6z\u00e9p-Maked\u00f3nia",
+            "mk": "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u043d\u0430 \u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u0458\u0430",
+            "nl": "Centraal-Macedoni\u00eb",
+            "pl": "Region Macedonia \u015arodkowa",
+            "ru": "\u043f\u0435\u0440\u0438\u0444\u0435\u0440\u0438\u044f \u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u0430\u044f \u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u044f",
+            "sq": "Maqedonia Qendrore",
+            "tr": "Orta Makedonya",
+            "zh": "\u4e2d\u9a6c\u5176\u987f"
+        },
+        "extra": {
+            "wikidata": "Q17152",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gr",
+        "country_cca3": "grc",
+        "region_cca2": "GR-M",
+        "osm_id": 282436,
+        "osm_place_id": 282268325,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u039a\u03c1\u03ae\u03c4\u03b7\u03c2",
+        "name_eng": "Region of Crete",
+        "name_translations": {
+            "ar": "\u0645\u0646\u0637\u0642\u0629 \u0625\u0642\u0631\u064a\u0637\u0634",
+            "ca": "Perif\u00e8ria de Creta",
+            "de": "Region Kreta",
+            "el": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u039a\u03c1\u03ae\u03c4\u03b7\u03c2",
+            "en": "Region of Crete",
+            "fr": "Cr\u00e8te",
+            "hu": "Kr\u00e9ta r\u00e9gi\u00f3",
+            "nl": "Kreta",
+            "pl": "Region Kreta",
+            "ru": "\u043f\u0435\u0440\u0438\u0444\u0435\u0440\u0438\u044f \u041a\u0440\u0438\u0442",
+            "zh": "\u514b\u91cc\u7279\u5927\u533a"
+        },
+        "extra": {
+            "wikidata": "Q1267522",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gr",
+        "country_cca3": "grc",
+        "region_cca2": "GR-L",
+        "osm_id": 1851752,
+        "osm_place_id": 282207815,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u039d\u03bf\u03c4\u03af\u03bf\u03c5 \u0391\u03b9\u03b3\u03b1\u03af\u03bf\u03c5",
+        "name_eng": "South Aegean",
+        "name_translations": {
+            "ca": "Perif\u00e8ria de l'Egeu Meridional",
+            "de": "Region S\u00fcdliche \u00c4g\u00e4is",
+            "el": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u039d\u03bf\u03c4\u03af\u03bf\u03c5 \u0391\u03b9\u03b3\u03b1\u03af\u03bf\u03c5",
+            "en": "South Aegean",
+            "fr": "\u00c9g\u00e9e-M\u00e9ridionale",
+            "hu": "D\u00e9li-\u00c9gei-szigetek",
+            "nl": "Zuid-Ege\u00efsche Eilanden",
+            "pl": "Wyspy Egejskie Po\u0142udniowe",
+            "ru": "\u043f\u0435\u0440\u0438\u0444\u0435\u0440\u0438\u044f \u042e\u0436\u043d\u044b\u0435 \u042d\u0433\u0435\u0439\u0441\u043a\u0438\u0435 \u043e\u0441\u0442\u0440\u043e\u0432\u0430",
+            "tr": "G\u00fcney Ege"
+        },
+        "extra": {
+            "wikidata": "Q173616",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gr",
+        "country_cca3": "grc",
+        "region_cca2": "GR-J",
+        "osm_id": 957717,
+        "osm_place_id": 282157392,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u03a0\u03b5\u03bb\u03bf\u03c0\u03bf\u03bd\u03bd\u03ae\u03c3\u03bf\u03c5",
+        "name_eng": "Peloponnese Region",
+        "name_translations": {
+            "br": "Peloponnez",
+            "ca": "Perif\u00e8ria del Pelopon\u00e8s",
+            "de": "Region Peloponnes",
+            "el": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u03a0\u03b5\u03bb\u03bf\u03c0\u03bf\u03bd\u03bd\u03ae\u03c3\u03bf\u03c5",
+            "en": "Peloponnese Region",
+            "fr": "P\u00e9loponn\u00e8se R\u00e9gion",
+            "hu": "Peloponn\u00e9szosz",
+            "ku": "Pelopones",
+            "mk": "\u041f\u0435\u043b\u043e\u043f\u043e\u043d\u0435\u0437 \u043e\u0431\u043b\u0430\u0441\u0442",
+            "nl": "Peloponnesos regio",
+            "pl": "Region Peloponez",
+            "ru": "\u043f\u0435\u0440\u0438\u0444\u0435\u0440\u0438\u044f \u041f\u0435\u043b\u043e\u043f\u043e\u043d\u043d\u0435\u0441",
+            "zh": "\u4f2f\u7f57\u5954\u5c3c\u6492\u5927\u533a"
+        },
+        "extra": {
+            "wikidata": "Q202484",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gr",
+        "country_cca3": "grc",
+        "region_cca2": "GR-H",
+        "osm_id": 910915,
+        "osm_place_id": 282144964,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u03a3\u03c4\u03b5\u03c1\u03b5\u03ac\u03c2 \u0395\u03bb\u03bb\u03ac\u03b4\u03bf\u03c2",
+        "name_eng": "Central Greece",
+        "name_translations": {
+            "ca": "Perif\u00e8ria de Gr\u00e8cia Central",
+            "de": "Region Mittelgriechenland",
+            "el": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u03a3\u03c4\u03b5\u03c1\u03b5\u03ac\u03c2 \u0395\u03bb\u03bb\u03ac\u03b4\u03bf\u03c2",
+            "en": "Central Greece",
+            "fr": "Gr\u00e8ce-Centrale",
+            "hu": "Sz\u00e1razf\u00f6ldi G\u00f6r\u00f6gorsz\u00e1g",
+            "lt": "Centrin\u0117s Graikijos periferija",
+            "nl": "Centraal-Griekenland",
+            "pl": "Region Grecja \u015arodkowa",
+            "ru": "\u043f\u0435\u0440\u0438\u0444\u0435\u0440\u0438\u044f \u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u0430\u044f \u0413\u0440\u0435\u0446\u0438\u044f"
+        },
+        "extra": {
+            "wikidata": "Q199580",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gr",
+        "country_cca3": "grc",
+        "region_cca2": null,
+        "osm_id": 956612,
+        "osm_place_id": 282153078,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0391\u03b9\u03c4\u03c9\u03bb\u03bf\u03b1\u03ba\u03b1\u03c1\u03bd\u03b1\u03bd\u03af\u03b1\u03c2",
+        "name_eng": "Aetolia-Acarnania Regional Unit",
+        "name_translations": {
+            "ca": "Unitat perif\u00e8rica d'Et\u00f2lia-Acarn\u00e0nia",
+            "de": "Regionalbezirk \u00c4tolien-Akarnanien",
+            "el": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0391\u03b9\u03c4\u03c9\u03bb\u03bf\u03b1\u03ba\u03b1\u03c1\u03bd\u03b1\u03bd\u03af\u03b1\u03c2",
+            "en": "Aetolia-Acarnania Regional Unit",
+            "ru": "\u043f\u0435\u0440\u0438\u0444\u0435\u0440\u0438\u0439\u043d\u0430\u044f \u0435\u0434\u0438\u043d\u0438\u0446\u0430 \u042d\u0442\u043e\u043b\u0438\u044f \u0438 \u0410\u043a\u0430\u0440\u043d\u0430\u043d\u0438\u044f"
+        },
+        "extra": {
+            "wikidata": "Q202624",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gr",
+        "country_cca3": "grc",
+        "region_cca2": null,
+        "osm_id": 4477554,
+        "osm_place_id": 282867771,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0391\u03bd\u03b1\u03c4\u03bf\u03bb\u03b9\u03ba\u03ae\u03c2 \u0391\u03c4\u03c4\u03b9\u03ba\u03ae\u03c2",
+        "name_eng": "Regional Unit of East Attica",
+        "name_translations": {
+            "ca": "Unitat perif\u00e8rica d'\u00c0tica Oriental",
+            "de": "Regionalbezirk Ostattika",
+            "el": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0391\u03bd\u03b1\u03c4\u03bf\u03bb\u03b9\u03ba\u03ae\u03c2 \u0391\u03c4\u03c4\u03b9\u03ba\u03ae\u03c2",
+            "en": "Regional Unit of East Attica",
+            "ru": "\u043f\u0435\u0440\u0438\u0444\u0435\u0440\u0438\u0439\u043d\u0430\u044f \u0435\u0434\u0438\u043d\u0438\u0446\u0430 \u0412\u043e\u0441\u0442\u043e\u0447\u043d\u0430\u044f \u0410\u0442\u0442\u0438\u043a\u0430"
+        },
+        "extra": {
+            "wikidata": "Q211934",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gr",
+        "country_cca3": "grc",
+        "region_cca2": null,
+        "osm_id": 5324073,
+        "osm_place_id": 283243370,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0386\u03bd\u03b4\u03c1\u03bf\u03c5",
+        "name_eng": "Andros Regional Unit",
+        "name_translations": {
+            "ca": "Unitat perif\u00e8rica d'Andros",
+            "de": "Regionalbezirk Andros",
+            "el": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0386\u03bd\u03b4\u03c1\u03bf\u03c5",
+            "en": "Andros Regional Unit",
+            "ru": "\u043f\u0435\u0440\u0438\u0444\u0435\u0440\u0438\u0439\u043d\u0430\u044f \u0435\u0434\u0438\u043d\u0438\u0446\u0430 \u0410\u043d\u0434\u0440\u043e\u0441"
+        },
+        "extra": {
+            "wikidata": "Q19896683",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gr",
+        "country_cca3": "grc",
+        "region_cca2": null,
+        "osm_id": 937635,
+        "osm_place_id": 282632610,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0391\u03c1\u03b3\u03bf\u03bb\u03af\u03b4\u03bf\u03c2",
+        "name_eng": "Argolis Regional Unit",
+        "name_translations": {
+            "ca": "Unitat perif\u00e8rica d'Arg\u00f2lida",
+            "de": "Regionalbezirk Argolis",
+            "el": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0391\u03c1\u03b3\u03bf\u03bb\u03af\u03b4\u03bf\u03c2",
+            "en": "Argolis Regional Unit",
+            "fr": "Argolide",
+            "mk": "\u0410\u0440\u0433\u043e\u043b\u0438\u0434\u0430",
+            "ru": "\u043f\u0435\u0440\u0438\u0444\u0435\u0440\u0438\u0439\u043d\u0430\u044f \u0435\u0434\u0438\u043d\u0438\u0446\u0430 \u0410\u0440\u0433\u043e\u043b\u0438\u0434\u0430"
+        },
+        "extra": {
+            "wikidata": "Q191897",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gr",
+        "country_cca3": "grc",
+        "region_cca2": null,
+        "osm_id": 937632,
+        "osm_place_id": 282368738,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0391\u03c1\u03ba\u03b1\u03b4\u03af\u03b1\u03c2",
+        "name_eng": "Arcadia Regional Unit",
+        "name_translations": {
+            "ca": "Unitat perif\u00e8rica d'Arc\u00e0dia",
+            "de": "Regionalbezirk Arkadien",
+            "el": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0391\u03c1\u03ba\u03b1\u03b4\u03af\u03b1\u03c2",
+            "en": "Arcadia Regional Unit",
+            "fr": "Arcadie",
+            "mk": "\u0410\u0440\u043a\u0430\u0434\u0438\u0458\u0430",
+            "nl": "Arcadi\u00eb",
+            "ru": "\u043f\u0435\u0440\u0438\u0444\u0435\u0440\u0438\u0439\u043d\u0430\u044f \u0435\u0434\u0438\u043d\u0438\u0446\u0430 \u0410\u0440\u043a\u0430\u0434\u0438\u044f"
+        },
+        "extra": {
+            "wikidata": "Q170054",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gr",
+        "country_cca3": "grc",
+        "region_cca2": null,
+        "osm_id": 558485,
+        "osm_place_id": 282351801,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0386\u03c1\u03c4\u03b1\u03c2",
+        "name_eng": "Arta Regional Unit",
+        "name_translations": {
+            "ca": "Unitat perif\u00e8rica d'Arta",
+            "de": "Regionalbezirk Arta",
+            "el": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0386\u03c1\u03c4\u03b1\u03c2",
+            "en": "Arta Regional Unit",
+            "ru": "\u043f\u0435\u0440\u0438\u0444\u0435\u0440\u0438\u0439\u043d\u0430\u044f \u0435\u0434\u0438\u043d\u0438\u0446\u0430 \u0410\u0440\u0442\u0430"
+        },
+        "extra": {
+            "wikidata": "Q209149",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gr",
+        "country_cca3": "grc",
+        "region_cca2": null,
+        "osm_id": 937628,
+        "osm_place_id": 282028084,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0391\u03c7\u03b1\u0390\u03b1\u03c2",
+        "name_eng": "Achaea Regional Unit",
+        "name_translations": {
+            "ar": "\u0622\u062e\u0627\u064a\u0627",
+            "ca": "Unitat perif\u00e8rica d'Acaia",
+            "de": "Regionalbezirk Achaia",
+            "el": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0391\u03c7\u03b1\u0390\u03b1\u03c2",
+            "en": "Achaea Regional Unit",
+            "fr": "Acha\u00efe",
+            "mk": "\u0410\u0445\u0430\u0458\u0430",
+            "ru": "\u043f\u0435\u0440\u0438\u0444\u0435\u0440\u0438\u0439\u043d\u0430\u044f \u0435\u0434\u0438\u043d\u0438\u0446\u0430 \u0410\u0445\u0430\u0439\u044f"
+        },
+        "extra": {
+            "wikidata": "Q2495811",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gr",
+        "country_cca3": "grc",
+        "region_cca2": null,
+        "osm_id": 557546,
+        "osm_place_id": 282137082,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0392\u03bf\u03b9\u03c9\u03c4\u03af\u03b1\u03c2",
+        "name_eng": "Regional Unit of Boeotia",
+        "name_translations": {
+            "ca": "Unitat perif\u00e8rica de Be\u00f2cia",
+            "de": "Regionalbezirk B\u00f6otien",
+            "el": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0392\u03bf\u03b9\u03c9\u03c4\u03af\u03b1\u03c2",
+            "en": "Regional Unit of Boeotia",
+            "nl": "Boeoti\u00eb",
+            "ru": "\u043f\u0435\u0440\u0438\u0444\u0435\u0440\u0438\u0439\u043d\u0430\u044f \u0435\u0434\u0438\u043d\u0438\u0446\u0430 \u0411\u0435\u043e\u0442\u0438\u044f"
+        },
+        "extra": {
+            "wikidata": "Q8257871",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gr",
+        "country_cca3": "grc",
+        "region_cca2": null,
+        "osm_id": 2607262,
+        "osm_place_id": 282636018,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0392\u03bf\u03c1\u03b5\u03af\u03bf\u03c5 \u03a4\u03bf\u03bc\u03ad\u03b1 \u0391\u03b8\u03b7\u03bd\u03ce\u03bd",
+        "name_eng": "Regional Unit of North Athens",
+        "name_translations": {
+            "ca": "Unitat perif\u00e8rica d'Atenes Septentrional",
+            "de": "Regionalbezirk Athen-Nord",
+            "el": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0392\u03bf\u03c1\u03b5\u03af\u03bf\u03c5 \u03a4\u03bf\u03bc\u03ad\u03b1 \u0391\u03b8\u03b7\u03bd\u03ce\u03bd",
+            "en": "Regional Unit of North Athens",
+            "ru": "\u043f\u0435\u0440\u0438\u0444\u0435\u0440\u0438\u0439\u043d\u0430\u044f \u0435\u0434\u0438\u043d\u0438\u0446\u0430 \u0421\u0435\u0432\u0435\u0440\u043d\u044b\u0435 \u0410\u0444\u0438\u043d\u044b"
+        },
+        "extra": {
+            "wikidata": "Q755165",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gr",
+        "country_cca3": "grc",
+        "region_cca2": null,
+        "osm_id": 1379347,
+        "osm_place_id": 282128841,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0393\u03c1\u03b5\u03b2\u03b5\u03bd\u03ce\u03bd",
+        "name_eng": "Grevena Regional Unit",
+        "name_translations": {
+            "ca": "Unitat perif\u00e8rica de Greven\u00e0",
+            "de": "Regionalbezirk Grevena",
+            "el": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0393\u03c1\u03b5\u03b2\u03b5\u03bd\u03ce\u03bd",
+            "en": "Grevena Regional Unit",
+            "mk": "\u0413\u0440\u0435\u0431\u0435\u043d\u0441\u043a\u0438 \u043e\u043a\u0440\u0443\u0433",
+            "ru": "\u043f\u0435\u0440\u0438\u0444\u0435\u0440\u0438\u0439\u043d\u0430\u044f \u0435\u0434\u0438\u043d\u0438\u0446\u0430 \u0413\u0440\u0435\u0432\u0435\u043d\u0430"
+        },
+        "extra": {
+            "wikidata": "Q209385",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gr",
+        "country_cca3": "grc",
+        "region_cca2": null,
+        "osm_id": 938042,
+        "osm_place_id": 282197935,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0394\u03c1\u03ac\u03bc\u03b1\u03c2",
+        "name_eng": "Drama Regional Unit",
+        "name_translations": {
+            "ca": "Unitat perif\u00e8rica de Drama",
+            "de": "Regionalbezirk Drama",
+            "el": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0394\u03c1\u03ac\u03bc\u03b1\u03c2",
+            "en": "Drama Regional Unit",
+            "mk": "\u0414\u0440\u0430\u043c\u0441\u043a\u0438 \u043e\u043a\u0440\u0443\u0433",
+            "ru": "\u043f\u0435\u0440\u0438\u0444\u0435\u0440\u0438\u0439\u043d\u0430\u044f \u0435\u0434\u0438\u043d\u0438\u0446\u0430 \u0414\u0440\u0430\u043c\u0430"
+        },
+        "extra": {
+            "wikidata": "Q208606",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gr",
+        "country_cca3": "grc",
+        "region_cca2": null,
+        "osm_id": 4477559,
+        "osm_place_id": 282567220,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0394\u03c5\u03c4\u03b9\u03ba\u03ae\u03c2 \u0391\u03c4\u03c4\u03b9\u03ba\u03ae\u03c2",
+        "name_eng": "Regional Unit of West Attica",
+        "name_translations": {
+            "ca": "Unitat perif\u00e8rica d\u2019\u00c0tica Occidental",
+            "de": "Regionalbezirk Westattika",
+            "el": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0394\u03c5\u03c4\u03b9\u03ba\u03ae\u03c2 \u0391\u03c4\u03c4\u03b9\u03ba\u03ae\u03c2",
+            "en": "Regional Unit of West Attica",
+            "nl": "West-Attica",
+            "ru": "\u043f\u0435\u0440\u0438\u0444\u0435\u0440\u0438\u0439\u043d\u0430\u044f \u0435\u0434\u0438\u043d\u0438\u0446\u0430 \u0417\u0430\u043f\u0430\u0434\u043d\u0430\u044f \u0410\u0442\u0442\u0438\u043a\u0430"
+        },
+        "extra": {
+            "wikidata": "Q211878",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gr",
+        "country_cca3": "grc",
+        "region_cca2": null,
+        "osm_id": 2612423,
+        "osm_place_id": 282677251,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0394\u03c5\u03c4\u03b9\u03ba\u03bf\u03cd \u03a4\u03bf\u03bc\u03ad\u03b1 \u0391\u03b8\u03b7\u03bd\u03ce\u03bd",
+        "name_eng": "Regional Unit of West Athens",
+        "name_translations": {
+            "ca": "Unitat perif\u00e8rica d'Atenes Occidental",
+            "de": "Regionalbezirk Athen-West",
+            "el": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0394\u03c5\u03c4\u03b9\u03ba\u03bf\u03cd \u03a4\u03bf\u03bc\u03ad\u03b1 \u0391\u03b8\u03b7\u03bd\u03ce\u03bd",
+            "en": "Regional Unit of West Athens",
+            "ru": "\u043f\u0435\u0440\u0438\u0444\u0435\u0440\u0438\u0439\u043d\u0430\u044f \u0435\u0434\u0438\u043d\u0438\u0446\u0430 \u0417\u0430\u043f\u0430\u0434\u043d\u044b\u0435 \u0410\u0444\u0438\u043d\u044b"
+        },
+        "extra": {
+            "wikidata": "Q755173",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gr",
+        "country_cca3": "grc",
+        "region_cca2": null,
+        "osm_id": 939217,
+        "osm_place_id": 282039807,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0388\u03b2\u03c1\u03bf\u03c5",
+        "name_eng": "Evros Regional Unit",
+        "name_translations": {
+            "ca": "Unitat perif\u00e8rica d'Evros",
+            "de": "Regionalbezirk Evros",
+            "el": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0388\u03b2\u03c1\u03bf\u03c5",
+            "en": "Evros Regional Unit",
+            "fr": "Nome de l'\u00c9vros",
+            "mk": "\u041c\u0430\u0440\u0438\u0447\u043a\u0438 \u043e\u043a\u0440\u0443\u0433",
+            "ru": "\u043f\u0435\u0440\u0438\u0444\u0435\u0440\u0438\u0439\u043d\u0430\u044f \u0435\u0434\u0438\u043d\u0438\u0446\u0430 \u042d\u0432\u0440\u043e\u0441",
+            "tr": "Evros \u0130li"
+        },
+        "extra": {
+            "wikidata": "Q206186",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gr",
+        "country_cca3": "grc",
+        "region_cca2": null,
+        "osm_id": 557549,
+        "osm_place_id": 282132546,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0395\u03c5\u03b2\u03bf\u03af\u03b1\u03c2",
+        "name_eng": "Euboea Regional Unit",
+        "name_translations": {
+            "ca": "Unitat perif\u00e8rica d\u2019Eubea",
+            "de": "Regionalbezirk Eub\u00f6a",
+            "el": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0395\u03c5\u03b2\u03bf\u03af\u03b1\u03c2",
+            "en": "Euboea Regional Unit",
+            "ru": "\u043f\u0435\u0440\u0438\u0444\u0435\u0440\u0438\u0439\u043d\u0430\u044f \u0435\u0434\u0438\u043d\u0438\u0446\u0430 \u042d\u0432\u0431\u0435\u044f"
+        },
+        "extra": {
+            "wikidata": "Q670126",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gr",
+        "country_cca3": "grc",
+        "region_cca2": null,
+        "osm_id": 959069,
+        "osm_place_id": 282476306,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0395\u03c5\u03c1\u03c5\u03c4\u03b1\u03bd\u03af\u03b1\u03c2",
+        "name_eng": "Regional Unit of Evrytania",
+        "name_translations": {
+            "ca": "Unitat perif\u00e8rica d'Evritania",
+            "de": "Regionalbezirk Evrytania",
+            "el": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0395\u03c5\u03c1\u03c5\u03c4\u03b1\u03bd\u03af\u03b1\u03c2",
+            "en": "Regional Unit of Evrytania",
+            "ru": "\u043f\u0435\u0440\u0438\u0444\u0435\u0440\u0438\u0439\u043d\u0430\u044f \u0435\u0434\u0438\u043d\u0438\u0446\u0430 \u042d\u0432\u0440\u0438\u0442\u0430\u043d\u0438\u044f"
+        },
+        "extra": {
+            "wikidata": "Q11723827",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gr",
+        "country_cca3": "grc",
+        "region_cca2": null,
+        "osm_id": 5207386,
+        "osm_place_id": 282886226,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0396\u03b1\u03ba\u03cd\u03bd\u03b8\u03bf\u03c5",
+        "name_eng": "Zakynthos Regional Unit",
+        "name_translations": {
+            "ca": "Unitat perif\u00e8rica de Zacint",
+            "de": "Regionalbezirk Zakynthos",
+            "el": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0396\u03b1\u03ba\u03cd\u03bd\u03b8\u03bf\u03c5",
+            "en": "Zakynthos Regional Unit",
+            "ru": "\u043f\u0435\u0440\u0438\u0444\u0435\u0440\u0438\u0439\u043d\u0430\u044f \u0435\u0434\u0438\u043d\u0438\u0446\u0430 \u0417\u0430\u043a\u0438\u043d\u0444"
+        },
+        "extra": {
+            "wikidata": "Q144880",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gr",
+        "country_cca3": "grc",
+        "region_cca2": null,
+        "osm_id": 959115,
+        "osm_place_id": 282372147,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0397\u03bb\u03b5\u03af\u03b1\u03c2",
+        "name_eng": "Elis Regional Unit",
+        "name_translations": {
+            "ca": "Unitat perif\u00e8rica d'\u00c8lide",
+            "de": "Regionalbezirk Elis",
+            "el": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0397\u03bb\u03b5\u03af\u03b1\u03c2",
+            "en": "Elis Regional Unit",
+            "fr": "\u00c9lide",
+            "mk": "\u0418\u043b\u0438\u0458\u0430",
+            "ru": "\u043f\u0435\u0440\u0438\u0444\u0435\u0440\u0438\u0439\u043d\u0430\u044f \u0435\u0434\u0438\u043d\u0438\u0446\u0430 \u042d\u043b\u0438\u0434\u0430"
+        },
+        "extra": {
+            "wikidata": "Q1063649",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gr",
+        "country_cca3": "grc",
+        "region_cca2": null,
+        "osm_id": 563225,
+        "osm_place_id": 282518474,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0397\u03bc\u03b1\u03b8\u03af\u03b1\u03c2",
+        "name_eng": "Imathia Regional Unit",
+        "name_translations": {
+            "ca": "Unitat perif\u00e8rica d'Imathia",
+            "de": "Regionalbezirk Imathia",
+            "el": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0397\u03bc\u03b1\u03b8\u03af\u03b1\u03c2",
+            "en": "Imathia Regional Unit",
+            "mk": "\u0418\u043c\u0430\u0442\u0438\u0441\u043a\u0438 \u043e\u043a\u0440\u0443\u0433",
+            "ru": "\u043f\u0435\u0440\u0438\u0444\u0435\u0440\u0438\u0439\u043d\u0430\u044f \u0435\u0434\u0438\u043d\u0438\u0446\u0430 \u0418\u043c\u0430\u0442\u0438\u044f"
+        },
+        "extra": {
+            "wikidata": "Q207840",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gr",
+        "country_cca3": "grc",
+        "region_cca2": null,
+        "osm_id": 554686,
+        "osm_place_id": 282129340,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0397\u03c1\u03b1\u03ba\u03bb\u03b5\u03af\u03bf\u03c5",
+        "name_eng": "Heraklion Regional Unit",
+        "name_translations": {
+            "ca": "Unitat perif\u00e8rica d'Ir\u00e0klio",
+            "de": "Regionalbezirk Iraklio",
+            "el": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0397\u03c1\u03b1\u03ba\u03bb\u03b5\u03af\u03bf\u03c5",
+            "en": "Heraklion Regional Unit",
+            "ru": "\u043f\u0435\u0440\u0438\u0444\u0435\u0440\u0438\u0439\u043d\u0430\u044f \u0435\u0434\u0438\u043d\u0438\u0446\u0430 \u0418\u0440\u0430\u043a\u043b\u0438\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q210457",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gr",
+        "country_cca3": "grc",
+        "region_cca2": null,
+        "osm_id": 5207349,
+        "osm_place_id": 282691787,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0398\u03ac\u03c3\u03bf\u03c5",
+        "name_eng": "Thasos Regional Unit",
+        "name_translations": {
+            "ca": "Unitat perif\u00e8rica de Tassos",
+            "el": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0398\u03ac\u03c3\u03bf\u03c5",
+            "en": "Thasos Regional Unit",
+            "mk": "\u0422\u0430\u0441\u043e\u0441\u043a\u0438 \u043e\u043a\u0440\u0443\u0433",
+            "ru": "\u043f\u0435\u0440\u0438\u0444\u0435\u0440\u0438\u0439\u043d\u0430\u044f \u0435\u0434\u0438\u043d\u0438\u0446\u0430 \u0422\u0430\u0441\u043e\u0441"
+        },
+        "extra": {
+            "wikidata": "Q11723847",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gr",
+        "country_cca3": "grc",
+        "region_cca2": null,
+        "osm_id": 558499,
+        "osm_place_id": 282130654,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0398\u03b5\u03c3\u03c0\u03c1\u03c9\u03c4\u03af\u03b1\u03c2",
+        "name_eng": "Thesprotia Regional Unit",
+        "name_translations": {
+            "ca": "Unitat perif\u00e8rica de Tespr\u00f2cia",
+            "de": "Regionalbezirk Thesprotia",
+            "el": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0398\u03b5\u03c3\u03c0\u03c1\u03c9\u03c4\u03af\u03b1\u03c2",
+            "en": "Thesprotia Regional Unit",
+            "ru": "\u043f\u0435\u0440\u0438\u0444\u0435\u0440\u0438\u0439\u043d\u0430\u044f \u0435\u0434\u0438\u043d\u0438\u0446\u0430 \u0422\u0435\u0441\u043f\u0440\u043e\u0442\u0438\u044f"
+        },
+        "extra": {
+            "wikidata": "Q207552",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gr",
+        "country_cca3": "grc",
+        "region_cca2": null,
+        "osm_id": 563230,
+        "osm_place_id": 282461400,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03bf\u03bd\u03af\u03ba\u03b7\u03c2",
+        "name_eng": "Thessaloniki Regional Unit",
+        "name_translations": {
+            "ca": "Unitat perif\u00e8rica de Tessal\u00f2nica",
+            "de": "Regionalbezirk Thessaloniki",
+            "el": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03bf\u03bd\u03af\u03ba\u03b7\u03c2",
+            "en": "Thessaloniki Regional Unit",
+            "mk": "\u0421\u043e\u043b\u0443\u043d\u0441\u043a\u0438 \u043e\u043a\u0440\u0443\u0433",
+            "ru": "\u043f\u0435\u0440\u0438\u0444\u0435\u0440\u0438\u0439\u043d\u0430\u044f \u0435\u0434\u0438\u043d\u0438\u0446\u0430 \u0421\u0430\u043b\u043e\u043d\u0438\u043a\u0438"
+        },
+        "extra": {
+            "wikidata": "Q210176",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gr",
+        "country_cca3": "grc",
+        "region_cca2": null,
+        "osm_id": 5323612,
+        "osm_place_id": 282664956,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0398\u03ae\u03c1\u03b1\u03c2",
+        "name_eng": "Thira Regional Unit",
+        "name_translations": {
+            "ca": "Unitat perif\u00e8rica de Thira",
+            "de": "Regionalbezirk Thira",
+            "el": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0398\u03ae\u03c1\u03b1\u03c2",
+            "en": "Thira Regional Unit",
+            "ru": "\u043f\u0435\u0440\u0438\u0444\u0435\u0440\u0438\u0439\u043d\u0430\u044f \u0435\u0434\u0438\u043d\u0438\u0446\u0430 \u0422\u0438\u0440\u0430 (\u0421\u0430\u043d\u0442\u043e\u0440\u0438\u043d\u0438)"
+        },
+        "extra": {
+            "wikidata": "Q763524",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gr",
+        "country_cca3": "grc",
+        "region_cca2": null,
+        "osm_id": 5225311,
+        "osm_place_id": 282655202,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0399\u03b8\u03ac\u03ba\u03b7\u03c2",
+        "name_eng": "Ithaca Regional Unit",
+        "name_translations": {
+            "ca": "Unitat perif\u00e8rica d'\u00cdtaca",
+            "de": "Regionalbezirk Ithaka",
+            "el": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0399\u03b8\u03ac\u03ba\u03b7\u03c2",
+            "en": "Ithaca Regional Unit",
+            "ru": "\u043f\u0435\u0440\u0438\u0444\u0435\u0440\u0438\u0439\u043d\u0430\u044f \u0435\u0434\u0438\u043d\u0438\u0446\u0430 \u0418\u0442\u0430\u043a\u0430"
+        },
+        "extra": {
+            "wikidata": "Q17233268",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gr",
+        "country_cca3": "grc",
+        "region_cca2": null,
+        "osm_id": 5305896,
+        "osm_place_id": 282574895,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0399\u03ba\u03b1\u03c1\u03af\u03b1\u03c2",
+        "name_eng": "Ikaria Regional Unit",
+        "name_translations": {
+            "ca": "Unitat perif\u00e8rica d'Ic\u00e0ria",
+            "de": "Regionalbezirk Ikaria",
+            "el": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0399\u03ba\u03b1\u03c1\u03af\u03b1\u03c2",
+            "en": "Ikaria Regional Unit",
+            "ru": "\u043f\u0435\u0440\u0438\u0444\u0435\u0440\u0438\u0439\u043d\u0430\u044f \u0435\u0434\u0438\u043d\u0438\u0446\u0430 \u0418\u043a\u0430\u0440\u0438\u044f"
+        },
+        "extra": {
+            "wikidata": "Q1239974",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gr",
+        "country_cca3": "grc",
+        "region_cca2": null,
+        "osm_id": 558486,
+        "osm_place_id": 282309113,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0399\u03c9\u03b1\u03bd\u03bd\u03af\u03bd\u03c9\u03bd",
+        "name_eng": "Ioannina Regional Unit",
+        "name_translations": {
+            "ca": "Unitat perif\u00e8rica de Io\u00e0nnina",
+            "de": "Regionalbezirk Ioannina",
+            "el": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0399\u03c9\u03b1\u03bd\u03bd\u03af\u03bd\u03c9\u03bd",
+            "en": "Ioannina Regional Unit",
+            "ru": "\u043f\u0435\u0440\u0438\u0444\u0435\u0440\u0438\u0439\u043d\u0430\u044f \u0435\u0434\u0438\u043d\u0438\u0446\u0430 \u042f\u043d\u0438\u043d\u0430"
+        },
+        "extra": {
+            "wikidata": "Q212921",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gr",
+        "country_cca3": "grc",
+        "region_cca2": null,
+        "osm_id": 937896,
+        "osm_place_id": 282472347,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u039a\u03b1\u03b2\u03ac\u03bb\u03b1\u03c2",
+        "name_eng": "Kavala Regional Unit",
+        "name_translations": {
+            "ca": "Unitat perif\u00e8rica de Kavala",
+            "de": "Regionalbezirk Kavala",
+            "el": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u039a\u03b1\u03b2\u03ac\u03bb\u03b1\u03c2",
+            "en": "Kavala Regional Unit",
+            "mk": "\u041a\u0430\u0432\u0430\u043b\u0441\u043a\u0438 \u043e\u043a\u0440\u0443\u0433",
+            "ru": "\u043f\u0435\u0440\u0438\u0444\u0435\u0440\u0438\u0439\u043d\u0430\u044f \u0435\u0434\u0438\u043d\u0438\u0446\u0430 \u041a\u0430\u0432\u0430\u043b\u0430"
+        },
+        "extra": {
+            "wikidata": "Q213623",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gr",
+        "country_cca3": "grc",
+        "region_cca2": null,
+        "osm_id": 5324202,
+        "osm_place_id": 282664497,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u039a\u03b1\u03bb\u03cd\u03bc\u03bd\u03bf\u03c5",
+        "name_eng": "Kalmynos Regional Unit",
+        "name_translations": {
+            "ca": "Unitat perif\u00e8rica de K\u00e0limnos",
+            "de": "Regionalbezirk Kalymnos",
+            "el": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u039a\u03b1\u03bb\u03cd\u03bc\u03bd\u03bf\u03c5",
+            "en": "Kalmynos Regional Unit",
+            "ru": "\u043f\u0435\u0440\u0438\u0444\u0435\u0440\u0438\u0439\u043d\u0430\u044f \u0435\u0434\u0438\u043d\u0438\u0446\u0430 \u041a\u0430\u043b\u0438\u043c\u043d\u043e\u0441"
+        },
+        "extra": {
+            "wikidata": "Q1541953",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gr",
+        "country_cca3": "grc",
+        "region_cca2": null,
+        "osm_id": 554400,
+        "osm_place_id": 282036984,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u039a\u03b1\u03c1\u03b4\u03af\u03c4\u03c3\u03b1\u03c2",
+        "name_eng": "Karditsa Regional Unit",
+        "name_translations": {
+            "ca": "Unitat perif\u00e8rica de Karditsa",
+            "de": "Regionalbezirk Karditsa",
+            "el": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u039a\u03b1\u03c1\u03b4\u03af\u03c4\u03c3\u03b1\u03c2",
+            "en": "Karditsa Regional Unit",
+            "ru": "\u043f\u0435\u0440\u0438\u0444\u0435\u0440\u0438\u0439\u043d\u0430\u044f \u0435\u0434\u0438\u043d\u0438\u0446\u0430 \u041a\u0430\u0440\u0434\u0438\u0446\u0430"
+        },
+        "extra": {
+            "wikidata": "Q212810",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gr",
+        "country_cca3": "grc",
+        "region_cca2": null,
+        "osm_id": 5324274,
+        "osm_place_id": 282613019,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u039a\u03b1\u03c1\u03c0\u03ac\u03b8\u03bf\u03c5-\u0397\u03c1\u03c9\u03b9\u03ba\u03ae\u03c2 \u039d\u03ae\u03c3\u03bf\u03c5 \u039a\u03ac\u03c3\u03bf\u03c5",
+        "name_eng": "Karpathos-Kasos Regional Unit",
+        "name_translations": {
+            "ca": "Unitat perif\u00e8rica de C\u00e0rpatos",
+            "de": "Regionalbezirk Karpathos-Kasos",
+            "el": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u039a\u03b1\u03c1\u03c0\u03ac\u03b8\u03bf\u03c5-\u0397\u03c1\u03c9\u03b9\u03ba\u03ae\u03c2 \u039d\u03ae\u03c3\u03bf\u03c5 \u039a\u03ac\u03c3\u03bf\u03c5",
+            "en": "Karpathos-Kasos Regional Unit",
+            "ru": "\u043f\u0435\u0440\u0438\u0444\u0435\u0440\u0438\u0439\u043d\u0430\u044f \u0435\u0434\u0438\u043d\u0438\u0446\u0430 \u041a\u0430\u0440\u043f\u0430\u0442\u043e\u0441"
+        },
+        "extra": {
+            "wikidata": "Q1246141",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gr",
+        "country_cca3": "grc",
+        "region_cca2": null,
+        "osm_id": 956713,
+        "osm_place_id": 282475552,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u039a\u03b1\u03c3\u03c4\u03bf\u03c1\u03b9\u03ac\u03c2",
+        "name_eng": "Kastoria Regional Unit",
+        "name_translations": {
+            "ca": "Unitat perif\u00e8rica de Kastori\u00e0",
+            "de": "Regionalbezirk Kastoria",
+            "el": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u039a\u03b1\u03c3\u03c4\u03bf\u03c1\u03b9\u03ac\u03c2",
+            "en": "Kastoria Regional Unit",
+            "mk": "\u041a\u043e\u0441\u0442\u0443\u0440\u0441\u043a\u0438 \u043e\u043a\u0440\u0443\u0433",
+            "ru": "\u043f\u0435\u0440\u0438\u0444\u0435\u0440\u0438\u0439\u043d\u0430\u044f \u0435\u0434\u0438\u043d\u0438\u0446\u0430 \u041a\u0430\u0441\u0442\u043e\u0440\u0438\u044f"
+        },
+        "extra": {
+            "wikidata": "Q1080115",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gr",
+        "country_cca3": "grc",
+        "region_cca2": null,
+        "osm_id": 5323564,
+        "osm_place_id": 282696716,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u039a\u03ad\u03b1\u03c2 - \u039a\u03cd\u03b8\u03bd\u03bf\u03c5",
+        "name_eng": "Kea-Kythnos Regional Unit",
+        "name_translations": {
+            "ca": "Unitat perif\u00e8rica de Kea - Kithnos",
+            "de": "Regionalbezirk Kea-Kythnos",
+            "el": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u039a\u03ad\u03b1\u03c2 - \u039a\u03cd\u03b8\u03bd\u03bf\u03c5",
+            "en": "Kea-Kythnos Regional Unit",
+            "ru": "\u043f\u0435\u0440\u0438\u0444\u0435\u0440\u0438\u0439\u043d\u0430\u044f \u0435\u0434\u0438\u043d\u0438\u0446\u0430 \u041a\u0435\u044f-\u041a\u0438\u0444\u043d\u043e\u0441"
+        },
+        "extra": {
+            "wikidata": "Q1242823",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gr",
+        "country_cca3": "grc",
+        "region_cca2": null,
+        "osm_id": 2604796,
+        "osm_place_id": 282509960,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u039a\u03b5\u03bd\u03c4\u03c1\u03b9\u03ba\u03bf\u03cd \u03a4\u03bf\u03bc\u03ad\u03b1 \u0391\u03b8\u03b7\u03bd\u03ce\u03bd",
+        "name_eng": "Regional Unit of Central Athens",
+        "name_translations": {
+            "ca": "Unitat perif\u00e8rica d'Atenes Central",
+            "de": "Regionalbezirk Athen-Zentrum",
+            "el": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u039a\u03b5\u03bd\u03c4\u03c1\u03b9\u03ba\u03bf\u03cd \u03a4\u03bf\u03bc\u03ad\u03b1 \u0391\u03b8\u03b7\u03bd\u03ce\u03bd",
+            "en": "Regional Unit of Central Athens",
+            "ru": "\u043f\u0435\u0440\u0438\u0444\u0435\u0440\u0438\u0439\u043d\u0430\u044f \u0435\u0434\u0438\u043d\u0438\u0446\u0430 \u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0435 \u0410\u0444\u0438\u043d\u044b"
+        },
+        "extra": {
+            "wikidata": "Q755177",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gr",
+        "country_cca3": "grc",
+        "region_cca2": null,
+        "osm_id": 1369501,
+        "osm_place_id": 282205571,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u039a\u03ad\u03c1\u03ba\u03c5\u03c1\u03b1\u03c2",
+        "name_eng": "Corfu Regional Unit",
+        "name_translations": {
+            "ca": "Unitat perif\u00e8rica de Corf\u00fa",
+            "de": "Regionalbezirk Korfu",
+            "el": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u039a\u03ad\u03c1\u03ba\u03c5\u03c1\u03b1\u03c2",
+            "en": "Corfu Regional Unit",
+            "ru": "\u043f\u0435\u0440\u0438\u0444\u0435\u0440\u0438\u0439\u043d\u0430\u044f \u0435\u0434\u0438\u043d\u0438\u0446\u0430 \u041a\u0435\u0440\u043a\u0438\u0440\u0430"
+        },
+        "extra": {
+            "wikidata": "Q842235",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gr",
+        "country_cca3": "grc",
+        "region_cca2": null,
+        "osm_id": 957829,
+        "osm_place_id": 282476084,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u039a\u03b5\u03c6\u03b1\u03bb\u03bb\u03b7\u03bd\u03af\u03b1\u03c2",
+        "name_eng": "Kefallonia Regional Unit",
+        "name_translations": {
+            "ca": "Unitat perif\u00e8rica de Cefal\u00f2nia",
+            "de": "Regionalbezirk Kefalonia",
+            "el": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u039a\u03b5\u03c6\u03b1\u03bb\u03bb\u03b7\u03bd\u03af\u03b1\u03c2",
+            "en": "Kefallonia Regional Unit",
+            "ru": "\u043f\u0435\u0440\u0438\u0444\u0435\u0440\u0438\u0439\u043d\u0430\u044f \u0435\u0434\u0438\u043d\u0438\u0446\u0430 \u041a\u0435\u0444\u0430\u043b\u0438\u043d\u0438\u044f"
+        },
+        "extra": {
+            "wikidata": "Q178488",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gr",
+        "country_cca3": "grc",
+        "region_cca2": null,
+        "osm_id": 938063,
+        "osm_place_id": 282152493,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u039a\u03b9\u03bb\u03ba\u03af\u03c2",
+        "name_eng": "Kilkis Regional Unit",
+        "name_translations": {
+            "ca": "Unitat perif\u00e8rica de Kilkis",
+            "de": "Regionalbezirk Kilkis",
+            "el": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u039a\u03b9\u03bb\u03ba\u03af\u03c2",
+            "en": "Kilkis Regional Unit",
+            "mk": "\u041a\u0443\u043a\u0443\u0448\u043a\u0438 \u043e\u043a\u0440\u0443\u0433",
+            "ru": "\u043f\u0435\u0440\u0438\u0444\u0435\u0440\u0438\u0439\u043d\u0430\u044f \u0435\u0434\u0438\u043d\u0438\u0446\u0430 \u041a\u0438\u043b\u043a\u0438\u0441"
+        },
+        "extra": {
+            "wikidata": "Q210097",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gr",
+        "country_cca3": "grc",
+        "region_cca2": null,
+        "osm_id": 956726,
+        "osm_place_id": 282052970,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u039a\u03bf\u03b6\u03ac\u03bd\u03b7\u03c2",
+        "name_eng": "Kozani Regional Unit",
+        "name_translations": {
+            "ca": "Unitat perif\u00e8rica de Kozani",
+            "de": "Regionalbezirk Kozani",
+            "el": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u039a\u03bf\u03b6\u03ac\u03bd\u03b7\u03c2",
+            "en": "Kozani Regional Unit",
+            "mk": "\u041a\u043e\u0436\u0430\u043d\u0441\u043a\u0438 \u043e\u043a\u0440\u0443\u0433",
+            "ru": "\u043f\u0435\u0440\u0438\u0444\u0435\u0440\u0438\u0439\u043d\u0430\u044f \u0435\u0434\u0438\u043d\u0438\u0446\u0430 \u041a\u043e\u0437\u0430\u043d\u0438"
+        },
+        "extra": {
+            "wikidata": "Q211732",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gr",
+        "country_cca3": "grc",
+        "region_cca2": null,
+        "osm_id": 937627,
+        "osm_place_id": 282054381,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u039a\u03bf\u03c1\u03b9\u03bd\u03b8\u03af\u03b1\u03c2",
+        "name_eng": "Corinthia Regional Unit",
+        "name_translations": {
+            "ca": "Unitat perif\u00e8rica de Cor\u00edntia",
+            "de": "Regionalbezirk Korinthia",
+            "el": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u039a\u03bf\u03c1\u03b9\u03bd\u03b8\u03af\u03b1\u03c2",
+            "en": "Corinthia Regional Unit",
+            "fr": "Corinthie",
+            "mk": "\u041a\u043e\u0440\u0438\u043d\u0442\u0438\u0458\u0430",
+            "nl": "Korinthe",
+            "ru": "\u043f\u0435\u0440\u0438\u0444\u0435\u0440\u0438\u0439\u043d\u0430\u044f \u0435\u0434\u0438\u043d\u0438\u0446\u0430 \u041a\u043e\u0440\u0438\u043d\u0444\u0438\u044f"
+        },
+        "extra": {
+            "wikidata": "Q208306",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gr",
+        "country_cca3": "grc",
+        "region_cca2": null,
+        "osm_id": 5324235,
+        "osm_place_id": 282591358,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u039a\u03c9",
+        "name_eng": "Kos Regional Unit",
+        "name_translations": {
+            "ca": "Unitat perif\u00e8rica de Kos",
+            "de": "Regionalbezirk Kos",
+            "el": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u039a\u03c9",
+            "en": "Kos Regional Unit",
+            "ru": "\u043f\u0435\u0440\u0438\u0444\u0435\u0440\u0438\u0439\u043d\u0430\u044f \u0435\u0434\u0438\u043d\u0438\u0446\u0430 \u041a\u043e\u0441"
+        },
+        "extra": {
+            "wikidata": "Q1242904",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gr",
+        "country_cca3": "grc",
+        "region_cca2": null,
+        "osm_id": 1360426,
+        "osm_place_id": 282520492,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u039b\u03b1\u03ba\u03c9\u03bd\u03af\u03b1\u03c2",
+        "name_eng": "Laconia Regional Unit",
+        "name_translations": {
+            "ca": "Unitat perif\u00e8rica de Lac\u00f2nia",
+            "de": "Regionalbezirk Lakonien",
+            "el": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u039b\u03b1\u03ba\u03c9\u03bd\u03af\u03b1\u03c2",
+            "en": "Laconia Regional Unit",
+            "fr": "Laconie",
+            "it": "Unit\u00e0 periferica della Laconia",
+            "mk": "\u041b\u0430\u043a\u043e\u043d\u0438\u0458\u0430",
+            "nl": "Laconi\u00eb",
+            "ru": "\u043f\u0435\u0440\u0438\u0444\u0435\u0440\u0438\u0439\u043d\u0430\u044f \u0435\u0434\u0438\u043d\u0438\u0446\u0430 \u041b\u0430\u043a\u043e\u043d\u0438\u044f"
+        },
+        "extra": {
+            "wikidata": "Q190216",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gr",
+        "country_cca3": "grc",
+        "region_cca2": null,
+        "osm_id": 554401,
+        "osm_place_id": 282040970,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u039b\u03ac\u03c1\u03b9\u03c3\u03b1\u03c2",
+        "name_eng": "Larisa Regional Unit",
+        "name_translations": {
+            "ca": "Unitat perif\u00e8rica de L\u00e0rissa",
+            "de": "Regionalbezirk Larisa",
+            "el": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u039b\u03ac\u03c1\u03b9\u03c3\u03b1\u03c2",
+            "en": "Larisa Regional Unit",
+            "mk": "\u041b\u0430\u0440\u0438\u0441\u043a\u0438 \u043e\u043a\u0440\u0443\u0433",
+            "ru": "\u043f\u0435\u0440\u0438\u0444\u0435\u0440\u0438\u0439\u043d\u0430\u044f \u0435\u0434\u0438\u043d\u0438\u0446\u0430 \u041b\u0430\u0440\u0438\u0441\u0430"
+        },
+        "extra": {
+            "wikidata": "Q11723835",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gr",
+        "country_cca3": "grc",
+        "region_cca2": null,
+        "osm_id": 554656,
+        "osm_place_id": 282027413,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u039b\u03b1\u03c3\u03b9\u03b8\u03af\u03bf\u03c5",
+        "name_eng": "Lasithi Regional Unit",
+        "name_translations": {
+            "ca": "Unitat perif\u00e8rica de Lassithi",
+            "de": "Regionalbezirk Lasithi",
+            "el": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u039b\u03b1\u03c3\u03b9\u03b8\u03af\u03bf\u03c5",
+            "en": "Lasithi Regional Unit",
+            "ru": "\u043f\u0435\u0440\u0438\u0444\u0435\u0440\u0438\u0439\u043d\u0430\u044f \u0435\u0434\u0438\u043d\u0438\u0446\u0430 \u041b\u0430\u0441\u0438\u0442\u0438"
+        },
+        "extra": {
+            "wikidata": "Q210450",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gr",
+        "country_cca3": "grc",
+        "region_cca2": null,
+        "osm_id": 11274601,
+        "osm_place_id": 283289758,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u039b\u03ad\u03c3\u03b2\u03bf\u03c5",
+        "name_eng": "Lesbos Regional Unit",
+        "name_translations": {
+            "ca": "Unitat perif\u00e8rica de Lesbos",
+            "de": "Regionalbezirk Lesbos",
+            "el": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u039b\u03ad\u03c3\u03b2\u03bf\u03c5",
+            "en": "Lesbos Regional Unit",
+            "ru": "\u043f\u0435\u0440\u0438\u0444\u0435\u0440\u0438\u0439\u043d\u0430\u044f \u0435\u0434\u0438\u043d\u0438\u0446\u0430 \u041b\u0435\u0441\u0431\u043e\u0441"
+        },
+        "extra": {
+            "wikidata": "Q128087",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gr",
+        "country_cca3": "grc",
+        "region_cca2": null,
+        "osm_id": 956611,
+        "osm_place_id": 282202037,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u039b\u03b5\u03c5\u03ba\u03ac\u03b4\u03b1\u03c2",
+        "name_eng": "Lefkada Regional Unit",
+        "name_translations": {
+            "ca": "Unitat perif\u00e8rica de L\u00e8ucada",
+            "de": "Regionalbezirk Lefkada",
+            "el": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u039b\u03b5\u03c5\u03ba\u03ac\u03b4\u03b1\u03c2",
+            "en": "Lefkada Regional Unit",
+            "ru": "\u043f\u0435\u0440\u0438\u0444\u0435\u0440\u0438\u0439\u043d\u0430\u044f \u0435\u0434\u0438\u043d\u0438\u0446\u0430 \u041b\u0435\u0444\u043a\u0430\u0441"
+        },
+        "extra": {
+            "wikidata": "Q1248071",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gr",
+        "country_cca3": "grc",
+        "region_cca2": null,
+        "osm_id": 5305784,
+        "osm_place_id": 282589756,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u039b\u03ae\u03bc\u03bd\u03bf\u03c5",
+        "name_eng": "Lemnos Regional Unit",
+        "name_translations": {
+            "ca": "Unitat perif\u00e8rica de Lemnos",
+            "de": "Regionalbezirk Limnos",
+            "el": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u039b\u03ae\u03bc\u03bd\u03bf\u03c5",
+            "en": "Lemnos Regional Unit",
+            "ru": "\u043f\u0435\u0440\u0438\u0444\u0435\u0440\u0438\u0439\u043d\u0430\u044f \u0435\u0434\u0438\u043d\u0438\u0446\u0430 \u041b\u0435\u043c\u043d\u043e\u0441"
+        },
+        "extra": {
+            "wikidata": "Q655612",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gr",
+        "country_cca3": "grc",
+        "region_cca2": null,
+        "osm_id": 554407,
+        "osm_place_id": 282129186,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u039c\u03b1\u03b3\u03bd\u03b7\u03c3\u03af\u03b1\u03c2",
+        "name_eng": "Regional Unit of Magnesia",
+        "name_translations": {
+            "ca": "Unitat perif\u00e8rica de Magn\u00e8sia",
+            "de": "Regionalbezirk Magnisia",
+            "el": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u039c\u03b1\u03b3\u03bd\u03b7\u03c3\u03af\u03b1\u03c2",
+            "en": "Regional Unit of Magnesia",
+            "ru": "\u043f\u0435\u0440\u0438\u0444\u0435\u0440\u0438\u0439\u043d\u0430\u044f \u0435\u0434\u0438\u043d\u0438\u0446\u0430 \u041c\u0430\u0433\u043d\u0438\u0441\u0438\u044f"
+        },
+        "extra": {
+            "wikidata": "Q1884468",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gr",
+        "country_cca3": "grc",
+        "region_cca2": null,
+        "osm_id": 959149,
+        "osm_place_id": 282637521,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u039c\u03b5\u03c3\u03c3\u03b7\u03bd\u03af\u03b1\u03c2",
+        "name_eng": "Messenia Regional Unit",
+        "name_translations": {
+            "ca": "Unitat perif\u00e8rica de Mess\u00e8nia",
+            "de": "Regionalbezirk Messenien",
+            "el": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u039c\u03b5\u03c3\u03c3\u03b7\u03bd\u03af\u03b1\u03c2",
+            "en": "Messenia Regional Unit",
+            "fr": "Mess\u00e9nie",
+            "it": "Messenia",
+            "mk": "\u041c\u0435\u0441\u0435\u043d\u0438\u0458\u0430",
+            "nl": "Messeni\u00eb",
+            "ru": "\u043f\u0435\u0440\u0438\u0444\u0435\u0440\u0438\u0439\u043d\u0430\u044f \u0435\u0434\u0438\u043d\u0438\u0446\u0430 \u041c\u0435\u0441\u0441\u0435\u043d\u0438\u044f"
+        },
+        "extra": {
+            "wikidata": "Q200315",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gr",
+        "country_cca3": "grc",
+        "region_cca2": null,
+        "osm_id": 5323577,
+        "osm_place_id": 327821726,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u039c\u03ae\u03bb\u03bf\u03c5",
+        "name_eng": "Milos Regional Unit",
+        "name_translations": {
+            "ca": "Unitat perif\u00e8rica de Melos",
+            "de": "Regionalbezirk Milos",
+            "el": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u039c\u03ae\u03bb\u03bf\u03c5",
+            "en": "Milos Regional Unit",
+            "ru": "\u043f\u0435\u0440\u0438\u0444\u0435\u0440\u0438\u0439\u043d\u0430\u044f \u0435\u0434\u0438\u043d\u0438\u0446\u0430 \u041c\u0438\u043b\u043e\u0441"
+        },
+        "extra": {
+            "wikidata": "Q737908",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gr",
+        "country_cca3": "grc",
+        "region_cca2": null,
+        "osm_id": 5324074,
+        "osm_place_id": 282591323,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u039c\u03c5\u03ba\u03cc\u03bd\u03bf\u03c5",
+        "name_eng": "Mykonos Regional Unit",
+        "name_translations": {
+            "ca": "Unitat perif\u00e8rica de M\u00edkonos",
+            "de": "Regionalbezirk Mykonos",
+            "el": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u039c\u03c5\u03ba\u03cc\u03bd\u03bf\u03c5",
+            "en": "Mykonos Regional Unit",
+            "ru": "\u043f\u0435\u0440\u0438\u0444\u0435\u0440\u0438\u0439\u043d\u0430\u044f \u0435\u0434\u0438\u043d\u0438\u0446\u0430 \u041c\u0438\u043a\u043e\u043d\u043e\u0441"
+        },
+        "extra": {
+            "wikidata": "Q11723841",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gr",
+        "country_cca3": "grc",
+        "region_cca2": null,
+        "osm_id": 5323628,
+        "osm_place_id": 282577144,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u039d\u03ac\u03be\u03bf\u03c5",
+        "name_eng": "Naxos Regional Unit",
+        "name_translations": {
+            "ca": "Unitat perif\u00e8rica de Naxos",
+            "de": "Regionalbezirk Naxos",
+            "el": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u039d\u03ac\u03be\u03bf\u03c5",
+            "en": "Naxos Regional Unit",
+            "ru": "\u043f\u0435\u0440\u0438\u0444\u0435\u0440\u0438\u0439\u043d\u0430\u044f \u0435\u0434\u0438\u043d\u0438\u0446\u0430 \u041d\u0430\u043a\u0441\u043e\u0441"
+        },
+        "extra": {
+            "wikidata": "Q546132",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gr",
+        "country_cca3": "grc",
+        "region_cca2": null,
+        "osm_id": 957704,
+        "osm_place_id": 282323125,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u039d\u03ae\u03c3\u03c9\u03bd",
+        "name_eng": "Regional Unit of Islands",
+        "name_translations": {
+            "ca": "Unitat perif\u00e8rica d'Illes",
+            "de": "Regionalbezirk Inseln",
+            "el": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u039d\u03ae\u03c3\u03c9\u03bd",
+            "en": "Regional Unit of Islands",
+            "fr": "\u00celes",
+            "mk": "\u041e\u0441\u0442\u0440\u043e\u0432\u0438",
+            "ru": "\u043f\u0435\u0440\u0438\u0444\u0435\u0440\u0438\u0439\u043d\u0430\u044f \u0435\u0434\u0438\u043d\u0438\u0446\u0430 \u041e\u0441\u0442\u0440\u043e\u0432\u0430"
+        },
+        "extra": {
+            "wikidata": "Q631048",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gr",
+        "country_cca3": "grc",
+        "region_cca2": null,
+        "osm_id": 2612469,
+        "osm_place_id": 282557769,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u039d\u03bf\u03c4\u03af\u03bf\u03c5 \u03a4\u03bf\u03bc\u03ad\u03b1 \u0391\u03b8\u03b7\u03bd\u03ce\u03bd",
+        "name_eng": "Regional Unit of South Athens",
+        "name_translations": {
+            "ca": "Unitat perif\u00e8rica d'Atenes Meridional",
+            "de": "Regionalbezirk Athen-S\u00fcd",
+            "el": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u039d\u03bf\u03c4\u03af\u03bf\u03c5 \u03a4\u03bf\u03bc\u03ad\u03b1 \u0391\u03b8\u03b7\u03bd\u03ce\u03bd",
+            "en": "Regional Unit of South Athens",
+            "ru": "\u043f\u0435\u0440\u0438\u0444\u0435\u0440\u0438\u0439\u043d\u0430\u044f \u0435\u0434\u0438\u043d\u0438\u0446\u0430 \u042e\u0436\u043d\u044b\u0435 \u0410\u0444\u0438\u043d\u044b"
+        },
+        "extra": {
+            "wikidata": "Q755168",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gr",
+        "country_cca3": "grc",
+        "region_cca2": null,
+        "osm_id": 939213,
+        "osm_place_id": 282368869,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u039e\u03ac\u03bd\u03b8\u03b7\u03c2",
+        "name_eng": "Xanthi Regional Unit",
+        "name_translations": {
+            "ca": "Unitat perif\u00e8rica de Xanthi",
+            "de": "Regionalbezirk Xanthi",
+            "el": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u039e\u03ac\u03bd\u03b8\u03b7\u03c2",
+            "en": "Xanthi Regional Unit",
+            "mk": "\u0421\u043a\u0435\u0447\u0430\u043d\u0441\u043a\u0438 \u043e\u043a\u0440\u0443\u0433",
+            "ru": "\u043f\u0435\u0440\u0438\u0444\u0435\u0440\u0438\u0439\u043d\u0430\u044f \u0435\u0434\u0438\u043d\u0438\u0446\u0430 \u041a\u0441\u0430\u043d\u0442\u0438"
+        },
+        "extra": {
+            "wikidata": "Q208303",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gr",
+        "country_cca3": "grc",
+        "region_cca2": null,
+        "osm_id": 5323643,
+        "osm_place_id": 282665065,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03a0\u03ac\u03c1\u03bf\u03c5",
+        "name_eng": "Paros Regional Unit",
+        "name_translations": {
+            "ca": "Unitat perif\u00e8rica de Paros",
+            "de": "Regionalbezirk Paros",
+            "el": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03a0\u03ac\u03c1\u03bf\u03c5",
+            "en": "Paros Regional Unit",
+            "ru": "\u043f\u0435\u0440\u0438\u0444\u0435\u0440\u0438\u0439\u043d\u0430\u044f \u0435\u0434\u0438\u043d\u0438\u0446\u0430 \u041f\u0430\u0440\u043e\u0441"
+        },
+        "extra": {
+            "wikidata": "Q669210",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gr",
+        "country_cca3": "grc",
+        "region_cca2": null,
+        "osm_id": 2616826,
+        "osm_place_id": 282358581,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03a0\u03b5\u03b9\u03c1\u03b1\u03b9\u03ce\u03c2",
+        "name_eng": "Regional Unit of Piraeus",
+        "name_translations": {
+            "ca": "Unitat perif\u00e8rica del Pireu",
+            "de": "Regionalbezirk Pir\u00e4us",
+            "el": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03a0\u03b5\u03b9\u03c1\u03b1\u03b9\u03ce\u03c2",
+            "en": "Regional Unit of Piraeus",
+            "ru": "\u043f\u0435\u0440\u0438\u0444\u0435\u0440\u0438\u0439\u043d\u0430\u044f \u0435\u0434\u0438\u043d\u0438\u0446\u0430 \u041f\u0438\u0440\u0435\u0439"
+        },
+        "extra": {
+            "wikidata": "Q1784863",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gr",
+        "country_cca3": "grc",
+        "region_cca2": null,
+        "osm_id": 956817,
+        "osm_place_id": 282032077,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03a0\u03ad\u03bb\u03bb\u03b1\u03c2",
+        "name_eng": "Pella Regional Unit",
+        "name_translations": {
+            "ca": "Unitat perif\u00e8rica de Pel\u00b7la",
+            "de": "Regionalbezirk Pella",
+            "el": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03a0\u03ad\u03bb\u03bb\u03b1\u03c2",
+            "en": "Pella Regional Unit",
+            "mk": "\u041f\u043e\u0441\u0442\u043e\u043b\u0441\u043a\u0438 \u043e\u043a\u0440\u0443\u0433",
+            "ru": "\u043f\u0435\u0440\u0438\u0444\u0435\u0440\u0438\u0439\u043d\u0430\u044f \u0435\u0434\u0438\u043d\u0438\u0446\u0430 \u041f\u0435\u043b\u043b\u0430"
+        },
+        "extra": {
+            "wikidata": "Q649484",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gr",
+        "country_cca3": "grc",
+        "region_cca2": null,
+        "osm_id": 563226,
+        "osm_place_id": 282315359,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03a0\u03b9\u03b5\u03c1\u03af\u03b1\u03c2",
+        "name_eng": "Pieria Regional Unit",
+        "name_translations": {
+            "ca": "Unitat perif\u00e8rica de Pieria",
+            "de": "Regionalbezirk Pieria",
+            "el": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03a0\u03b9\u03b5\u03c1\u03af\u03b1\u03c2",
+            "en": "Pieria Regional Unit",
+            "mk": "\u041f\u0438\u0435\u0440\u0438\u0441\u043a\u0438 \u043e\u043a\u0440\u0443\u0433",
+            "ru": "\u043f\u0435\u0440\u0438\u0444\u0435\u0440\u0438\u0439\u043d\u0430\u044f \u0435\u0434\u0438\u043d\u0438\u0446\u0430 \u041f\u0438\u0435\u0440\u0438\u044f"
+        },
+        "extra": {
+            "wikidata": "Q208846",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gr",
+        "country_cca3": "grc",
+        "region_cca2": null,
+        "osm_id": 90550,
+        "osm_place_id": 281777775,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03a0\u03c1\u03ad\u03b2\u03b5\u03b6\u03b1\u03c2",
+        "name_eng": "Preveza Regional Unit",
+        "name_translations": {
+            "ca": "Unitat perif\u00e8rica de Pr\u00e9veza",
+            "de": "Regionalbezirk Preveza",
+            "el": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03a0\u03c1\u03ad\u03b2\u03b5\u03b6\u03b1\u03c2",
+            "en": "Preveza Regional Unit",
+            "ru": "\u043f\u0435\u0440\u0438\u0444\u0435\u0440\u0438\u0439\u043d\u0430\u044f \u0435\u0434\u0438\u043d\u0438\u0446\u0430 \u041f\u0440\u0435\u0432\u0435\u0437\u0430"
+        },
+        "extra": {
+            "wikidata": "Q7780449",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gr",
+        "country_cca3": "grc",
+        "region_cca2": null,
+        "osm_id": 554693,
+        "osm_place_id": 282020818,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03a1\u03b5\u03b8\u03cd\u03bc\u03bd\u03b7\u03c2",
+        "name_eng": "Rethymno Regional Unit",
+        "name_translations": {
+            "ar": "\u0645\u0642\u0627\u0637\u0639\u0629 \u0631\u064a\u062b\u064a\u0645\u0646\u0648",
+            "ca": "Unitat perif\u00e8rica de R\u00e9thimno",
+            "de": "Regionalbezirk Rethymno",
+            "el": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03a1\u03b5\u03b8\u03cd\u03bc\u03bd\u03b7\u03c2",
+            "en": "Rethymno Regional Unit",
+            "ru": "\u043f\u0435\u0440\u0438\u0444\u0435\u0440\u0438\u0439\u043d\u0430\u044f \u0435\u0434\u0438\u043d\u0438\u0446\u0430 \u0420\u0435\u0442\u0438\u043c\u043d\u0438"
+        },
+        "extra": {
+            "wikidata": "Q210446",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gr",
+        "country_cca3": "grc",
+        "region_cca2": null,
+        "osm_id": 939214,
+        "osm_place_id": 282420023,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03a1\u03bf\u03b4\u03cc\u03c0\u03b7\u03c2",
+        "name_eng": "Rodopi Regional Unit",
+        "name_translations": {
+            "ca": "Unitat perif\u00e8rica de R\u00f2dope",
+            "de": "Regionalbezirk Rodopi",
+            "el": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03a1\u03bf\u03b4\u03cc\u03c0\u03b7\u03c2",
+            "en": "Rodopi Regional Unit",
+            "mk": "\u0420\u043e\u0434\u043e\u043f\u0441\u043a\u0438 \u043e\u043a\u0440\u0443\u0433",
+            "ru": "\u043f\u0435\u0440\u0438\u0444\u0435\u0440\u0438\u0439\u043d\u0430\u044f \u0435\u0434\u0438\u043d\u0438\u0446\u0430 \u0420\u043e\u0434\u043e\u043f\u0438"
+        },
+        "extra": {
+            "wikidata": "Q208604",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gr",
+        "country_cca3": "grc",
+        "region_cca2": null,
+        "osm_id": 5324258,
+        "osm_place_id": 282576428,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03a1\u03cc\u03b4\u03bf\u03c5",
+        "name_eng": "Rhodes Regional Unit",
+        "name_translations": {
+            "ca": "Unitat perif\u00e8rica de Rodes",
+            "de": "Regionalbezirk Rhodos",
+            "el": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03a1\u03cc\u03b4\u03bf\u03c5",
+            "en": "Rhodes Regional Unit",
+            "nl": "Rhodos",
+            "ru": "\u043f\u0435\u0440\u0438\u0444\u0435\u0440\u0438\u0439\u043d\u0430\u044f \u0435\u0434\u0438\u043d\u0438\u0446\u0430 \u0420\u043e\u0434\u043e\u0441"
+        },
+        "extra": {
+            "wikidata": "Q1541945",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gr",
+        "country_cca3": "grc",
+        "region_cca2": null,
+        "osm_id": 1845173,
+        "osm_place_id": 282577857,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03a3\u03ac\u03bc\u03bf\u03c5",
+        "name_eng": "Samos Regional Unit",
+        "name_translations": {
+            "ca": "Unitat perif\u00e8rica de Samos",
+            "de": "Regionalbezirk Samos",
+            "el": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03a3\u03ac\u03bc\u03bf\u03c5",
+            "en": "Samos Regional Unit",
+            "ru": "\u043f\u0435\u0440\u0438\u0444\u0435\u0440\u0438\u0439\u043d\u0430\u044f \u0435\u0434\u0438\u043d\u0438\u0446\u0430 \u0421\u0430\u043c\u043e\u0441"
+        },
+        "extra": {
+            "wikidata": "Q214208",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gr",
+        "country_cca3": "grc",
+        "region_cca2": null,
+        "osm_id": 937847,
+        "osm_place_id": 282049700,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03a3\u03b5\u03c1\u03c1\u03ce\u03bd",
+        "name_eng": "Serres Regional Unit",
+        "name_translations": {
+            "ca": "Unitat perif\u00e8rica de Serres",
+            "de": "Regionalbezirk Serres",
+            "el": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03a3\u03b5\u03c1\u03c1\u03ce\u03bd",
+            "en": "Serres Regional Unit",
+            "mk": "\u0421\u0435\u0440\u0441\u043a\u0438 \u043e\u043a\u0440\u0443\u0433",
+            "ru": "\u043f\u0435\u0440\u0438\u0444\u0435\u0440\u0438\u0439\u043d\u0430\u044f \u0435\u0434\u0438\u043d\u0438\u0446\u0430 \u0421\u0435\u0440\u0440\u0435"
+        },
+        "extra": {
+            "wikidata": "Q211319",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gr",
+        "country_cca3": "grc",
+        "region_cca2": null,
+        "osm_id": 5207290,
+        "osm_place_id": 282621310,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03a3\u03c0\u03bf\u03c1\u03ac\u03b4\u03c9\u03bd",
+        "name_eng": "Sporades Regional Unit",
+        "name_translations": {
+            "ca": "Unitat perif\u00e8rica de les Esp\u00f2rades",
+            "de": "Regionalbezirk Sporaden",
+            "el": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03a3\u03c0\u03bf\u03c1\u03ac\u03b4\u03c9\u03bd",
+            "en": "Sporades Regional Unit",
+            "ru": "\u043f\u0435\u0440\u0438\u0444\u0435\u0440\u0438\u0439\u043d\u0430\u044f \u0435\u0434\u0438\u043d\u0438\u0446\u0430 \u0421\u043f\u043e\u0440\u0430\u0434\u044b"
+        },
+        "extra": {
+            "wikidata": "Q1598248",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gr",
+        "country_cca3": "grc",
+        "region_cca2": null,
+        "osm_id": 5323832,
+        "osm_place_id": 282591305,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03a3\u03cd\u03c1\u03bf\u03c5",
+        "name_eng": "Syros Regional Unit",
+        "name_translations": {
+            "ca": "Unitat perif\u00e8rica de Siros",
+            "de": "Regionalbezirk Syros",
+            "el": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03a3\u03cd\u03c1\u03bf\u03c5",
+            "en": "Syros Regional Unit",
+            "ru": "\u043f\u0435\u0440\u0438\u0444\u0435\u0440\u0438\u0439\u043d\u0430\u044f \u0435\u0434\u0438\u043d\u0438\u0446\u0430 \u0421\u0438\u0440\u043e\u0441"
+        },
+        "extra": {
+            "wikidata": "Q11723845",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gr",
+        "country_cca3": "grc",
+        "region_cca2": null,
+        "osm_id": 5324075,
+        "osm_place_id": 282637143,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03a4\u03ae\u03bd\u03bf\u03c5",
+        "name_eng": "Tinos Regional Unit",
+        "name_translations": {
+            "ca": "Unitat perif\u00e8rica de Tinos",
+            "de": "Regionalbezirk Tinos",
+            "el": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03a4\u03ae\u03bd\u03bf\u03c5",
+            "en": "Tinos Regional Unit",
+            "ru": "\u043f\u0435\u0440\u0438\u0444\u0435\u0440\u0438\u0439\u043d\u0430\u044f \u0435\u0434\u0438\u043d\u0438\u0446\u0430 \u0422\u0438\u043d\u043e\u0441"
+        },
+        "extra": {
+            "wikidata": "Q12875777",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gr",
+        "country_cca3": "grc",
+        "region_cca2": null,
+        "osm_id": 558521,
+        "osm_place_id": 282041697,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03a4\u03c1\u03b9\u03ba\u03ac\u03bb\u03c9\u03bd",
+        "name_eng": "Trikala Regional Unit",
+        "name_translations": {
+            "ca": "Unitat perif\u00e8rica de Trikala",
+            "de": "Regionalbezirk Trikala",
+            "el": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03a4\u03c1\u03b9\u03ba\u03ac\u03bb\u03c9\u03bd",
+            "en": "Trikala Regional Unit",
+            "ru": "\u043f\u0435\u0440\u0438\u0444\u0435\u0440\u0438\u0439\u043d\u0430\u044f \u0435\u0434\u0438\u043d\u0438\u0446\u0430 \u0422\u0440\u0438\u043a\u0430\u043b\u0430"
+        },
+        "extra": {
+            "wikidata": "Q17320461",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gr",
+        "country_cca3": "grc",
+        "region_cca2": null,
+        "osm_id": 554405,
+        "osm_place_id": 282032811,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03a6\u03b8\u03b9\u03ce\u03c4\u03b9\u03b4\u03b1\u03c2",
+        "name_eng": "Phthiotis Regional Unit",
+        "name_translations": {
+            "ca": "Unitat perif\u00e8rica de Fti\u00f2tida",
+            "de": "Regionalbezirk Fthiotida",
+            "el": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03a6\u03b8\u03b9\u03ce\u03c4\u03b9\u03b4\u03b1\u03c2",
+            "en": "Phthiotis Regional Unit",
+            "ru": "\u043f\u0435\u0440\u0438\u0444\u0435\u0440\u0438\u0439\u043d\u0430\u044f \u0435\u0434\u0438\u043d\u0438\u0446\u0430 \u0424\u0442\u0438\u043e\u0442\u0438\u0434\u0430"
+        },
+        "extra": {
+            "wikidata": "Q207554",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gr",
+        "country_cca3": "grc",
+        "region_cca2": null,
+        "osm_id": 557547,
+        "osm_place_id": 282053122,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03a6\u03c9\u03ba\u03af\u03b4\u03b1\u03c2",
+        "name_eng": "Regional Unit of Phocis",
+        "name_translations": {
+            "ca": "Unitat perif\u00e8rica de F\u00f2cida",
+            "de": "Regionalbezirk Fokida",
+            "el": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03a6\u03c9\u03ba\u03af\u03b4\u03b1\u03c2",
+            "en": "Regional Unit of Phocis",
+            "ru": "\u043f\u0435\u0440\u0438\u0444\u0435\u0440\u0438\u0439\u043d\u0430\u044f \u0435\u0434\u0438\u043d\u0438\u0446\u0430 \u0424\u043e\u043a\u0438\u0434\u0430"
+        },
+        "extra": {
+            "wikidata": "Q19890323",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gr",
+        "country_cca3": "grc",
+        "region_cca2": null,
+        "osm_id": 568383,
+        "osm_place_id": 282014369,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03a7\u03b1\u03bb\u03ba\u03b9\u03b4\u03b9\u03ba\u03ae\u03c2",
+        "name_eng": "Chalkidiki Regional Unit",
+        "name_translations": {
+            "ca": "Unitat perif\u00e8rica de Calc\u00eddica",
+            "de": "Regionalbezirk Chalkidiki",
+            "el": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03a7\u03b1\u03bb\u03ba\u03b9\u03b4\u03b9\u03ba\u03ae\u03c2",
+            "en": "Chalkidiki Regional Unit",
+            "mk": "\u0425\u0430\u043b\u043a\u0438\u0434\u0438\u0447\u043a\u0438 \u043e\u043a\u0440\u0443\u0433",
+            "ru": "\u043f\u0435\u0440\u0438\u0444\u0435\u0440\u0438\u0439\u043d\u0430\u044f \u0435\u0434\u0438\u043d\u0438\u0446\u0430 \u0425\u0430\u043b\u043a\u0438\u0434\u0438\u043a\u0438"
+        },
+        "extra": {
+            "wikidata": "Q844543",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gr",
+        "country_cca3": "grc",
+        "region_cca2": null,
+        "osm_id": 554720,
+        "osm_place_id": 282361181,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03a7\u03b1\u03bd\u03af\u03c9\u03bd",
+        "name_eng": "Chania Regional Unit",
+        "name_translations": {
+            "ar": "\u0645\u0642\u0627\u0637\u0639\u0629 \u062e\u0627\u0646\u064a\u0629",
+            "ca": "Unitat perif\u00e8rica de Khani\u00e0",
+            "de": "Regionalbezirk Chania",
+            "el": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03a7\u03b1\u03bd\u03af\u03c9\u03bd",
+            "en": "Chania Regional Unit",
+            "ru": "\u043f\u0435\u0440\u0438\u0444\u0435\u0440\u0438\u0439\u043d\u0430\u044f \u0435\u0434\u0438\u043d\u0438\u0446\u0430 \u0425\u0430\u043d\u044c\u044f"
+        },
+        "extra": {
+            "wikidata": "Q210487",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gr",
+        "country_cca3": "grc",
+        "region_cca2": null,
+        "osm_id": 1846634,
+        "osm_place_id": 282534007,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03a7\u03af\u03bf\u03c5",
+        "name_eng": "Chios Regional Unit",
+        "name_translations": {
+            "ca": "Unitat perif\u00e8rica de Quios",
+            "de": "Regionalbezirk Chios",
+            "el": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03a7\u03af\u03bf\u03c5",
+            "en": "Chios Regional Unit",
+            "ru": "\u043f\u0435\u0440\u0438\u0444\u0435\u0440\u0438\u0439\u043d\u0430\u044f \u0435\u0434\u0438\u043d\u0438\u0446\u0430 \u0425\u0438\u043e\u0441"
+        },
+        "extra": {
+            "wikidata": "Q16332718",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gr",
+        "country_cca3": "grc",
+        "region_cca2": null,
+        "osm_id": 956714,
+        "osm_place_id": 282144774,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03a6\u03bb\u03ce\u03c1\u03b9\u03bd\u03b1\u03c2",
+        "name_eng": "Florina Regional Unit",
+        "name_translations": {
+            "ca": "Unitat perif\u00e8rica de Fl\u00f3rina",
+            "de": "Regionalbezirk Florina",
+            "el": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03a6\u03bb\u03ce\u03c1\u03b9\u03bd\u03b1\u03c2",
+            "en": "Florina Regional Unit",
+            "mk": "\u041b\u0435\u0440\u0438\u043d\u0441\u043a\u0438 \u043e\u043a\u0440\u0443\u0433",
+            "ru": "\u043f\u0435\u0440\u0438\u0444\u0435\u0440\u0438\u0439\u043d\u0430\u044f \u0435\u0434\u0438\u043d\u0438\u0446\u0430 \u0424\u043b\u043e\u0440\u0438\u043d\u0430"
+        },
+        "extra": {
+            "wikidata": "Q211314",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gr",
+        "country_cca3": "grc",
+        "region_cca2": null,
+        "osm_id": 32123476,
+        "osm_place_id": null,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u03a6\u03bb\u03b5\u03b2\u03bf\u03c0\u03bf\u03cd\u03bb\u03b1",
+        "name_eng": "\u03a6\u03bb\u03b5\u03b2\u03bf\u03c0\u03bf\u03cd\u03bb\u03b1",
+        "name_translations": {
+            "el": "\u03a6\u03bb\u03b5\u03b2\u03bf\u03c0\u03bf\u03cd\u03bb\u03b1"
+        },
+        "extra": {
+            "wikidata": null
+        }
+    }
+]

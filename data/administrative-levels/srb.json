@@ -1,0 +1,811 @@
+[
+    {
+        "country_cca2": "rs",
+        "country_cca3": "srb",
+        "region_cca2": null,
+        "osm_id": 1708277,
+        "osm_place_id": 282562869,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0411\u043e\u0440\u0441\u043a\u0438 \u0443\u043f\u0440\u0430\u0432\u043d\u0438 \u043e\u043a\u0440\u0443\u0433",
+        "name_eng": "Bor Administrative District",
+        "name_translations": {
+            "de": "Bezirk Bor",
+            "en": "Bor Administrative District",
+            "hu": "Bor k\u00f6rzet",
+            "ru": "\u0411\u043e\u0440\u0441\u043a\u0438\u0439 \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433",
+            "sr": "\u0411\u043e\u0440\u0441\u043a\u0438 \u0443\u043f\u0440\u0430\u0432\u043d\u0438 \u043e\u043a\u0440\u0443\u0433",
+            "sr-Latn": "Borski upravni okrug"
+        },
+        "extra": {
+            "wikidata": "Q477586",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "rs",
+        "country_cca3": "srb",
+        "region_cca2": "RS-11",
+        "osm_id": 2109236,
+        "osm_place_id": 282252282,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0411\u0440\u0430\u043d\u0438\u0447\u0435\u0432\u0441\u043a\u0438 \u0443\u043f\u0440\u0430\u0432\u043d\u0438 \u043e\u043a\u0440\u0443\u0433",
+        "name_eng": "Branicevo Administrative District",
+        "name_translations": {
+            "de": "Bezirk Brani\u010devo",
+            "en": "Branicevo Administrative District",
+            "hu": "Brani\u010devo k\u00f6rzet",
+            "ro": "Districtul Brani\u010devo",
+            "ru": "\u0411\u0440\u0430\u043d\u0438\u0447\u0435\u0432\u0441\u043a\u0438\u0439 \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433",
+            "sr": "\u0411\u0440\u0430\u043d\u0438\u0447\u0435\u0432\u0441\u043a\u0438 \u0443\u043f\u0440\u0430\u0432\u043d\u0438 \u043e\u043a\u0440\u0443\u0433",
+            "sr-Latn": "Brani\u010devski upravni okrug"
+        },
+        "extra": {
+            "wikidata": "Q861539",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "rs",
+        "country_cca3": "srb",
+        "region_cca2": null,
+        "osm_id": 1279074,
+        "osm_place_id": 282193949,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "\u0412\u043e\u0458\u0432\u043e\u0434\u0438\u043d\u0430",
+        "name_eng": "Vojvodina",
+        "name_translations": {
+            "ar": "\u0641\u0648\u064a\u0641\u0648\u062f\u064a\u0646\u0627",
+            "ca": "Voivodina",
+            "cs": "Vojvodina",
+            "de": "Wojwodina",
+            "en": "Vojvodina",
+            "es": "Voivodina",
+            "fr": "Vo\u00efvodine",
+            "hr": "Vojvodina",
+            "hu": "Vajdas\u00e1g",
+            "lt": "Voivodina",
+            "mk": "\u0412\u043e\u0458\u0432\u043e\u0434\u0438\u043d\u0430",
+            "nl": "Vojvodina",
+            "pl": "Wojwodina",
+            "ro": "Voivodina",
+            "ru": "\u0412\u043e\u0435\u0432\u043e\u0434\u0438\u043d\u0430",
+            "sk": "Vojvodina",
+            "sl": "Vojvodina",
+            "sr": "\u0412\u043e\u0458\u0432\u043e\u0434\u0438\u043d\u0430",
+            "hsb": "Wojwodina",
+            "rue": "\u0412\u043e\u0439\u0432\u043e\u0434\u0438\u043d\u0430",
+            "sr-Latn": "Vojvodina"
+        },
+        "extra": {
+            "wikidata": "Q44749",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "rs",
+        "country_cca3": "srb",
+        "region_cca2": null,
+        "osm_id": 1677007,
+        "osm_place_id": 282329368,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0413\u0440\u0430\u0434 \u0411\u0435\u043e\u0433\u0440\u0430\u0434",
+        "name_eng": "City of Belgrade",
+        "name_translations": {
+            "af": "Belgrado",
+            "am": "\u1260\u120d\u130d\u122b\u12f5",
+            "an": "Belgrado",
+            "ar": "\u0628\u0644\u063a\u0631\u0627\u062f",
+            "az": "Belqrad",
+            "be": "\u0413\u043e\u0440\u0430\u0434 \u0411\u044f\u043b\u0433\u0440\u0430\u0434",
+            "bg": "\u0413\u0440\u0430\u0434 \u0411\u0435\u043b\u0433\u0440\u0430\u0434",
+            "bn": "\u09ac\u09c7\u09b2\u0997\u09cd\u09b0\u09c7\u09a1",
+            "bo": "\u0f56\u0f7a\u0f63\u0f0b\u0f42\u0f7a\u0f0b\u0f62\u0f7a\u0f0b\u0f4c\u0f72\u0f0d",
+            "br": "Beograd",
+            "bs": "Grad Beograd",
+            "ca": "Belgrad",
+            "cs": "B\u011blehrad",
+            "cu": "\u0411\u0463\u043b\u044a \u0413\u0440\u0430\u0434\u044a \u00b7 \u0421\u0440\u044c\u0431\u0457\u0438",
+            "cv": "\u0411\u0435\u043b\u0433\u0440\u0430\u0434",
+            "cy": "Beograd",
+            "da": "Beograd",
+            "de": "Stadt Belgrad",
+            "el": "\u03a0\u03cc\u03bb\u03b7 \u03c4\u03bf\u03c5 \u0392\u03b5\u03bb\u03b9\u03b3\u03c1\u03b1\u03b4\u03af\u03bf\u03c5",
+            "en": "City of Belgrade",
+            "eo": "Beogrado",
+            "es": "Belgrado",
+            "fa": "\u0628\u0644\u06af\u0631\u0627\u062f",
+            "fo": "Beograd",
+            "fr": "Ville de Belgrade",
+            "fy": "Belgrado",
+            "ga": "B\u00e9algr\u00e1d",
+            "gd": "Belgrade",
+            "gl": "Belgrado",
+            "gv": "Belgraaid",
+            "he": "\u05d1\u05dc\u05d2\u05e8\u05d3",
+            "hi": "\u092c\u0945\u0932\u0917\u094d\u0930\u0947\u0921",
+            "hr": "Grad Beograd",
+            "ht": "B\u00e8lgrad",
+            "hu": "Belgr\u00e1d",
+            "hy": "\u0532\u0565\u056c\u0563\u0580\u0561\u0564",
+            "id": "Beograd",
+            "ie": "Beograd",
+            "io": "Belgrade",
+            "it": "Belgrado",
+            "ja": "\u30d9\u30aa\u30b0\u30e9\u30fc\u30c9",
+            "jv": "Beograd",
+            "ka": "\u10d1\u10d4\u10da\u10d2\u10e0\u10d0\u10d3\u10d8",
+            "kk": "\u0411\u0435\u043b\u0433\u0440\u0430\u0434",
+            "ko": "\ubca0\uc624\uadf8\ub77c\ub4dc",
+            "kv": "\u0411\u0435\u043b\u0433\u0440\u0430\u0434",
+            "la": "Belgradum",
+            "li": "Belgrado",
+            "lt": "Belgradas",
+            "lv": "Belgrada",
+            "mi": "Belgrade",
+            "mk": "\u0413\u0440\u0430\u0434 \u0411\u0435\u043b\u0433\u0440\u0430\u0434",
+            "ml": "\u0d2c\u0d46\u0d7d\u0d17\u0d4d\u0d30\u0d47\u0d21\u0d4d",
+            "mn": "\u0411\u0435\u043b\u0433\u0440\u0430\u0434",
+            "mr": "\u092c\u0947\u0932\u0917\u094d\u0930\u0947\u0921",
+            "ms": "Belgrade",
+            "nl": "Stad Belgrado",
+            "nn": "Beograd",
+            "no": "Beograd",
+            "os": "\u0411\u0435\u043b\u0433\u0440\u0430\u0434",
+            "pl": "Belgrad",
+            "pt": "Cidade de Belgrado",
+            "qu": "Beograd",
+            "ro": "Belgrad",
+            "ru": "\u0413\u043e\u0440\u043e\u0434 \u0411\u0435\u043b\u0433\u0440\u0430\u0434",
+            "sc": "Belgrado",
+            "sh": "Beograd",
+            "sk": "Belehgrad",
+            "sl": "Beograd",
+            "sm": "Belgrade",
+            "so": "Belgaraad",
+            "sq": "Belgradi",
+            "sr": "\u0413\u0440\u0430\u0434 \u0411\u0435\u043e\u0433\u0440\u0430\u0434",
+            "sv": "Belgrad",
+            "ta": "\u0baa\u0bc6\u0bb2\u0bcd\u0b95\u0bbf\u0bb1\u0bc7\u0b9f\u0bcd",
+            "tg": "\u0411\u0435\u043b\u0433\u0440\u0430\u0434",
+            "th": "\u0e40\u0e1a\u0e25\u0e40\u0e01\u0e23\u0e14",
+            "tl": "Belgrade",
+            "tt": "\u0411\u0435\u043b\u0433\u0440\u0430\u0434",
+            "ty": "Beograd",
+            "ug": "\u0628\u06d0\u0644\u06af\u0631\u0627\u062f",
+            "uk": "\u0411\u0435\u043b\u0433\u0440\u0430\u0434",
+            "ur": "\u0628\u0644\u063a\u0631\u0627\u062f",
+            "vi": "Beograd",
+            "vo": "Beograd",
+            "yi": "\u05d1\u05e2\u05dc\u05d2\u05e8\u05d0\u05d3",
+            "yo": "Belgrade",
+            "zh": "\u8d1d\u5c14\u683c\u83b1\u5fb7\u5e02\/\u8c9d\u723e\u683c\u52d2\u5e02\/\u8c9d\u723e\u683c\u840a\u5fb7",
+            "ace": "Belgrade",
+            "ast": "Belgr\u00e1u",
+            "ckb": "\u0628\u06ce\u0644\u06af\u0631\u0627\u062f",
+            "dsb": "B\u011b\u0142ogrod",
+            "ext": "Belgradu",
+            "frp": "B\u00e8lgrade",
+            "hif": "Belgrade",
+            "hsb": "B\u011b\u0142ohr\u00f3d",
+            "jbo": "be'ograd",
+            "lad": "Belogrado",
+            "lij": "Belgraddo",
+            "nan": "Belgrade",
+            "nov": "Beograd",
+            "pap": "Belgrado",
+            "pnb": "\u0628\u0644\u063a\u0631\u0627\u062f",
+            "sah": "\u0411\u0435\u043b\u0433\u0440\u0430\u0434",
+            "scn": "Belgradu",
+            "sco": "Belgrade",
+            "udm": "\u0411\u0435\u043b\u0433\u0440\u0430\u0434",
+            "vec": "Belgrado",
+            "war": "Belgrade",
+            "wuu": "\u8d1d\u5c14\u683c\u83b1\u5fb7",
+            "yue": "\u8c9d\u723e\u683c\u840a\u5fb7",
+            "bat-smg": "Belgrads",
+            "roa-rup": "Biligrad",
+            "sr-Latn": "Grad Beograd",
+            "zh-Hans": "\u8d1d\u5c14\u683c\u83b1\u5fb7\u5e02",
+            "zh-Hant": "\u8c9d\u723e\u683c\u52d2\u5e02\/\u8c9d\u723e\u683c\u840a\u5fb7",
+            "be-tarask": "\u0411\u044f\u043b\u0433\u0440\u0430\u0434",
+            "zh-Hant-HK": "\u8c9d\u723e\u683c\u840a\u5fb7",
+            "zh-Hant-TW": "\u8c9d\u723e\u683c\u52d2\u5e02"
+        },
+        "extra": {
+            "wikidata": "Q2074197",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "rs",
+        "country_cca3": "srb",
+        "region_cca2": null,
+        "osm_id": 2114083,
+        "osm_place_id": 330166605,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0417\u0430\u0458\u0435\u0447\u0430\u0440\u0441\u043a\u0438 \u0443\u043f\u0440\u0430\u0432\u043d\u0438 \u043e\u043a\u0440\u0443\u0433",
+        "name_eng": "Zajecar Administrative District",
+        "name_translations": {
+            "en": "Zajecar Administrative District",
+            "ru": "\u0417\u0430\u0435\u0447\u0430\u0440\u0441\u043a\u0438\u0439 \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433",
+            "sr": "\u0417\u0430\u0458\u0435\u0447\u0430\u0440\u0441\u043a\u0438 \u0443\u043f\u0440\u0430\u0432\u043d\u0438 \u043e\u043a\u0440\u0443\u0433",
+            "sr-Latn": "Zaje\u010darski upravni okrug"
+        },
+        "extra": {
+            "wikidata": "Q967339",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "rs",
+        "country_cca3": "srb",
+        "region_cca2": null,
+        "osm_id": 1639908,
+        "osm_place_id": 282184312,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0417\u0430\u043f\u0430\u0434\u043d\u043e\u0431\u0430\u0447\u043a\u0438 \u0443\u043f\u0440\u0430\u0432\u043d\u0438 \u043e\u043a\u0440\u0443\u0433",
+        "name_eng": "West Backa Administrative District",
+        "name_translations": {
+            "de": "Bezirk Westliche Batschka",
+            "en": "West Backa Administrative District",
+            "hr": "Zapadnoba\u010dki upravni okrug",
+            "hu": "Nyugat-b\u00e1cskai k\u00f6rzet",
+            "ru": "\u0417\u0430\u043f\u0430\u0434\u043d\u043e-\u0411\u0430\u0447\u0441\u043a\u0438\u0439 \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433",
+            "sr": "\u0417\u0430\u043f\u0430\u0434\u043d\u043e\u0431\u0430\u0447\u043a\u0438 \u0443\u043f\u0440\u0430\u0432\u043d\u0438 \u043e\u043a\u0440\u0443\u0433",
+            "sr-Latn": "Zapadnoba\u010dki upravni okrug"
+        },
+        "extra": {
+            "wikidata": "Q735169",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "rs",
+        "country_cca3": "srb",
+        "region_cca2": null,
+        "osm_id": 2114084,
+        "osm_place_id": 282246291,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0417\u043b\u0430\u0442\u0438\u0431\u043e\u0440\u0441\u043a\u0438 \u0443\u043f\u0440\u0430\u0432\u043d\u0438 \u043e\u043a\u0440\u0443\u0433",
+        "name_eng": "Zlatibor Administrative District",
+        "name_translations": {
+            "el": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u0396\u03bb\u03ac\u03c4\u03b9\u03bc\u03c0\u03bf\u03c1",
+            "en": "Zlatibor Administrative District",
+            "hr": "Zlatiborski upravni okrug",
+            "ru": "\u0417\u043b\u0430\u0442\u0438\u0431\u043e\u0440\u0441\u043a\u0438\u0439 \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433",
+            "sr": "\u0417\u043b\u0430\u0442\u0438\u0431\u043e\u0440\u0441\u043a\u0438 \u0443\u043f\u0440\u0430\u0432\u043d\u0438 \u043e\u043a\u0440\u0443\u0433",
+            "sr-Latn": "Zlatiborski upravni okrug"
+        },
+        "extra": {
+            "wikidata": "Q478278",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "rs",
+        "country_cca3": "srb",
+        "region_cca2": null,
+        "osm_id": 2117027,
+        "osm_place_id": 282498122,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0408\u0430\u0431\u043b\u0430\u043d\u0438\u0447\u043a\u0438 \u0443\u043f\u0440\u0430\u0432\u043d\u0438 \u043e\u043a\u0440\u0443\u0433",
+        "name_eng": "Jablanica Administrative District",
+        "name_translations": {
+            "de": "Bezirk Jablanica",
+            "en": "Jablanica Administrative District",
+            "hu": "Jablanica k\u00f6rzet",
+            "ru": "\u042f\u0431\u043b\u0430\u043d\u0438\u0447\u0441\u043a\u0438\u0439 \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433",
+            "sr": "\u0408\u0430\u0431\u043b\u0430\u043d\u0438\u0447\u043a\u0438 \u0443\u043f\u0440\u0430\u0432\u043d\u0438 \u043e\u043a\u0440\u0443\u0433",
+            "sr-Latn": "Jablani\u010dki upravni okrug"
+        },
+        "extra": {
+            "wikidata": "Q876541",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "rs",
+        "country_cca3": "srb",
+        "region_cca2": null,
+        "osm_id": 2959529,
+        "osm_place_id": 282557497,
+        "osm_admin_level": 5,
+        "osm_type": "census",
+        "name_loc": "\u0408\u0443\u0436\u043d\u0430 \u0438 \u0438\u0441\u0442\u043e\u0447\u043d\u0430 \u0421\u0440\u0431\u0438\u0458\u0430",
+        "name_eng": "Southern and Eastern Serbia",
+        "name_translations": {
+            "de": "S\u00fcd- und Ostserbien",
+            "el": "\u039d\u03cc\u03c4\u03b9\u03b1 \u03ba\u03b1\u03b9 \u0391\u03bd\u03b1\u03c4\u03bf\u03bb\u03b9\u03ba\u03ae \u03a3\u03b5\u03c1\u03b2\u03af\u03b1",
+            "en": "Southern and Eastern Serbia",
+            "hr": "Ju\u017ena i isto\u010dna Srbija",
+            "hu": "D\u00e9l- \u00e9s Kelet-Szerbia",
+            "sr": "\u0408\u0443\u0436\u043d\u0430 \u0438 \u0438\u0441\u0442\u043e\u0447\u043d\u0430 \u0421\u0440\u0431\u0438\u0458\u0430",
+            "sr-Latn": "Ju\u017ena i isto\u010dna Srbija"
+        },
+        "extra": {
+            "wikidata": "Q3657372",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "rs",
+        "country_cca3": "srb",
+        "region_cca2": null,
+        "osm_id": 1639496,
+        "osm_place_id": 282173747,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0408\u0443\u0436\u043d\u043e\u0431\u0430\u043d\u0430\u0442\u0441\u043a\u0438 \u0443\u043f\u0440\u0430\u0432\u043d\u0438 \u043e\u043a\u0440\u0443\u0433",
+        "name_eng": "South Banat Administrative District",
+        "name_translations": {
+            "de": "Bezirk S\u00fcdbanat",
+            "en": "South Banat Administrative District",
+            "hr": "Ju\u017enobanatski upravni okrug",
+            "hu": "D\u00e9l-b\u00e1ns\u00e1gi k\u00f6rzet",
+            "ro": "Districtul Banatul de Sud",
+            "ru": "\u042e\u0436\u043d\u043e-\u0411\u0430\u043d\u0430\u0442\u0441\u043a\u0438\u0439 \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433",
+            "sr": "\u0408\u0443\u0436\u043d\u043e\u0431\u0430\u043d\u0430\u0442\u0441\u043a\u0438 \u0443\u043f\u0440\u0430\u0432\u043d\u0438 \u043e\u043a\u0440\u0443\u0433",
+            "sr-Latn": "Ju\u017enobanatski upravni okrug"
+        },
+        "extra": {
+            "wikidata": "Q720030",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "rs",
+        "country_cca3": "srb",
+        "region_cca2": null,
+        "osm_id": 1649671,
+        "osm_place_id": 282443664,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0408\u0443\u0436\u043d\u043e\u0431\u0430\u0447\u043a\u0438 \u0443\u043f\u0440\u0430\u0432\u043d\u0438 \u043e\u043a\u0440\u0443\u0433",
+        "name_eng": "South Backa Administrative District",
+        "name_translations": {
+            "de": "Bezirk S\u00fcdliche Batschka",
+            "en": "South Backa Administrative District",
+            "hr": "Ju\u017enoba\u010dki upravni okrug",
+            "hu": "D\u00e9l-b\u00e1cskai k\u00f6rzet",
+            "ru": "\u042e\u0436\u043d\u043e-\u0411\u0430\u0447\u0441\u043a\u0438\u0439 \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433",
+            "sk": "Juhob\u00e1\u010dsky okres",
+            "sr": "\u0408\u0443\u0436\u043d\u043e\u0431\u0430\u0447\u043a\u0438 \u0443\u043f\u0440\u0430\u0432\u043d\u0438 \u043e\u043a\u0440\u0443\u0433",
+            "sr-Latn": "Ju\u017enoba\u010dki upravni okrug"
+        },
+        "extra": {
+            "wikidata": "Q648718",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "rs",
+        "country_cca3": "srb",
+        "region_cca2": null,
+        "osm_id": 2107511,
+        "osm_place_id": 282566671,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041a\u043e\u043b\u0443\u0431\u0430\u0440\u0441\u043a\u0438 \u0443\u043f\u0440\u0430\u0432\u043d\u0438 \u043e\u043a\u0440\u0443\u0433",
+        "name_eng": "Kolubara Administrative District",
+        "name_translations": {
+            "en": "Kolubara Administrative District",
+            "hr": "Kolubarski upravni okrug",
+            "hu": "Kolubara k\u00f6rzet",
+            "ru": "\u041a\u043e\u043b\u0443\u0431\u0430\u0440\u0441\u043a\u0438\u0439 \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433",
+            "sr": "\u041a\u043e\u043b\u0443\u0431\u0430\u0440\u0441\u043a\u0438 \u0443\u043f\u0440\u0430\u0432\u043d\u0438 \u043e\u043a\u0440\u0443\u0433",
+            "sr-Latn": "Kolubarski upravni okrug"
+        },
+        "extra": {
+            "wikidata": "Q1048139",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "rs",
+        "country_cca3": "srb",
+        "region_cca2": null,
+        "osm_id": 1765275,
+        "osm_place_id": 282245600,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041c\u0430\u0447\u0432\u0430\u043d\u0441\u043a\u0438 \u0443\u043f\u0440\u0430\u0432\u043d\u0438 \u043e\u043a\u0440\u0443\u0433",
+        "name_eng": "Macva Administrative District",
+        "name_translations": {
+            "de": "Bezirk Ma\u010dva",
+            "en": "Macva Administrative District",
+            "hr": "Ma\u010dvanski upravni okrug",
+            "ru": "\u041c\u0430\u0447\u0432\u0430\u043d\u0441\u043a\u0438\u0439 \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433",
+            "sr": "\u041c\u0430\u0447\u0432\u0430\u043d\u0441\u043a\u0438 \u0443\u043f\u0440\u0430\u0432\u043d\u0438 \u043e\u043a\u0440\u0443\u0433",
+            "sr-Latn": "Ma\u010dvanski upravni okrug"
+        },
+        "extra": {
+            "wikidata": "Q867803",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "rs",
+        "country_cca3": "srb",
+        "region_cca2": "RS-17",
+        "osm_id": 2114082,
+        "osm_place_id": 282497517,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041c\u043e\u0440\u0430\u0432\u0438\u0447\u043a\u0438 \u0443\u043f\u0440\u0430\u0432\u043d\u0438 \u043e\u043a\u0440\u0443\u0433",
+        "name_eng": "Moravica Administrative District",
+        "name_translations": {
+            "el": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u039c\u03bf\u03c1\u03ac\u03b2\u03b9\u03c4\u03c3\u03b1",
+            "en": "Moravica Administrative District",
+            "hr": "Moravi\u010dki upravni okrug",
+            "ru": "\u041c\u043e\u0440\u0430\u0432\u0438\u0447\u0441\u043a\u0438\u0439 \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433",
+            "sr": "\u041c\u043e\u0440\u0430\u0432\u0438\u0447\u043a\u0438 \u0443\u043f\u0440\u0430\u0432\u043d\u0438 \u043e\u043a\u0440\u0443\u0433",
+            "sr-Latn": "Moravi\u010dki upravni okrug"
+        },
+        "extra": {
+            "wikidata": "Q915380",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "rs",
+        "country_cca3": "srb",
+        "region_cca2": null,
+        "osm_id": 2117179,
+        "osm_place_id": 330166606,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041d\u0438\u0448\u0430\u0432\u0441\u043a\u0438 \u0443\u043f\u0440\u0430\u0432\u043d\u0438 \u043e\u043a\u0440\u0443\u0433",
+        "name_eng": "Nisava Administrative District",
+        "name_translations": {
+            "en": "Nisava Administrative District",
+            "hr": "Ni\u0161avski upravni okrug",
+            "ru": "\u041d\u0438\u0448\u0430\u0432\u0441\u043a\u0438\u0439 \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433",
+            "sr": "\u041d\u0438\u0448\u0430\u0432\u0441\u043a\u0438 \u0443\u043f\u0440\u0430\u0432\u043d\u0438 \u043e\u043a\u0440\u0443\u0433",
+            "sr-Latn": "Ni\u0161avski upravni okrug"
+        },
+        "extra": {
+            "wikidata": "Q1061076",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "rs",
+        "country_cca3": "srb",
+        "region_cca2": null,
+        "osm_id": 2117003,
+        "osm_place_id": 282344721,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041f\u0438\u0440\u043e\u0442\u0441\u043a\u0438 \u0443\u043f\u0440\u0430\u0432\u043d\u0438 \u043e\u043a\u0440\u0443\u0433",
+        "name_eng": "Pirot Administrative District",
+        "name_translations": {
+            "bg": "\u041f\u0438\u0440\u043e\u0442\u0441\u043a\u0438 \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u0435\u043d \u043e\u043a\u0440\u044a\u0433",
+            "en": "Pirot Administrative District",
+            "ru": "\u041f\u0438\u0440\u043e\u0442\u0441\u043a\u0438\u0439 \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433",
+            "sr": "\u041f\u0438\u0440\u043e\u0442\u0441\u043a\u0438 \u0443\u043f\u0440\u0430\u0432\u043d\u0438 \u043e\u043a\u0440\u0443\u0433",
+            "sr-Latn": "Pirotski upravni okrug"
+        },
+        "extra": {
+            "wikidata": "Q580069",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "rs",
+        "country_cca3": "srb",
+        "region_cca2": "RS-10",
+        "osm_id": 2107619,
+        "osm_place_id": 282613017,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041f\u043e\u0434\u0443\u043d\u0430\u0432\u0441\u043a\u0438 \u0443\u043f\u0440\u0430\u0432\u043d\u0438 \u043e\u043a\u0440\u0443\u0433",
+        "name_eng": "Podunavlje Administrative District",
+        "name_translations": {
+            "en": "Podunavlje Administrative District",
+            "ru": "\u041f\u043e\u0434\u0443\u043d\u0430\u0439\u0441\u043a\u0438\u0439 \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433",
+            "sr": "\u041f\u043e\u0434\u0443\u043d\u0430\u0432\u0441\u043a\u0438 \u0443\u043f\u0440\u0430\u0432\u043d\u0438 \u043e\u043a\u0440\u0443\u0433",
+            "sr-Latn": "Podunavski upravni okrug"
+        },
+        "extra": {
+            "wikidata": "Q778561",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "rs",
+        "country_cca3": "srb",
+        "region_cca2": null,
+        "osm_id": 2109306,
+        "osm_place_id": 282241008,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041f\u043e\u043c\u043e\u0440\u0430\u0432\u0441\u043a\u0438 \u0443\u043f\u0440\u0430\u0432\u043d\u0438 \u043e\u043a\u0440\u0443\u0433",
+        "name_eng": "Pomoravlje Administrative District",
+        "name_translations": {
+            "en": "Pomoravlje Administrative District",
+            "hr": "Pomoravski upravni okrug",
+            "ru": "\u041f\u043e\u043c\u043e\u0440\u0430\u0432\u0441\u043a\u0438\u0439 \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433",
+            "sr": "\u041f\u043e\u043c\u043e\u0440\u0430\u0432\u0441\u043a\u0438 \u0443\u043f\u0440\u0430\u0432\u043d\u0438 \u043e\u043a\u0440\u0443\u0433",
+            "sr-Latn": "Pomoravski upravni okrug"
+        },
+        "extra": {
+            "wikidata": "Q867816",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "rs",
+        "country_cca3": "srb",
+        "region_cca2": null,
+        "osm_id": 2015385,
+        "osm_place_id": 282334686,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041f\u0447\u0438\u045a\u0441\u043a\u0438 \u0443\u043f\u0440\u0430\u0432\u043d\u0438 \u043e\u043a\u0440\u0443\u0433",
+        "name_eng": "Pcinja Administrative District",
+        "name_translations": {
+            "bg": "\u041f\u0447\u0438\u043d\u0441\u043a\u0438 \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u0435\u043d \u043e\u043a\u0440\u044a\u0433",
+            "de": "Bezirk P\u010dinja",
+            "el": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u03a0\u03c4\u03c3\u03af\u03bd\u03b9\u03b1",
+            "en": "Pcinja Administrative District",
+            "ru": "\u041f\u0447\u0438\u043d\u044c\u0441\u043a\u0438\u0439 \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433",
+            "sr": "\u041f\u0447\u0438\u045a\u0441\u043a\u0438 \u0443\u043f\u0440\u0430\u0432\u043d\u0438 \u043e\u043a\u0440\u0443\u0433",
+            "sr-Latn": "P\u010dinjski upravni okrug"
+        },
+        "extra": {
+            "wikidata": "Q1061099",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "rs",
+        "country_cca3": "srb",
+        "region_cca2": null,
+        "osm_id": 2117182,
+        "osm_place_id": 282498623,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0420\u0430\u0441\u0438\u043d\u0441\u043a\u0438 \u0443\u043f\u0440\u0430\u0432\u043d\u0438 \u043e\u043a\u0440\u0443\u0433",
+        "name_eng": "Rasina Administrative District",
+        "name_translations": {
+            "de": "Bezirk Rasina",
+            "en": "Rasina Administrative District",
+            "hr": "Rasinski upravni okrug",
+            "ru": "\u0420\u0430\u0441\u0438\u043d\u0441\u043a\u0438\u0439 \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433",
+            "sr": "\u0420\u0430\u0441\u0438\u043d\u0441\u043a\u0438 \u0443\u043f\u0440\u0430\u0432\u043d\u0438 \u043e\u043a\u0440\u0443\u0433",
+            "sr-Latn": "Rasinski upravni okrug"
+        },
+        "extra": {
+            "wikidata": "Q1043446",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "rs",
+        "country_cca3": "srb",
+        "region_cca2": "RS-18",
+        "osm_id": 2116926,
+        "osm_place_id": 282243556,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0420\u0430\u0448\u043a\u0438 \u0443\u043f\u0440\u0430\u0432\u043d\u0438 \u043e\u043a\u0440\u0443\u0433",
+        "name_eng": "Raska Administrative District",
+        "name_translations": {
+            "de": "Bezirk Ra\u0161ka",
+            "el": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u03a1\u03ac\u03c3\u03ba\u03b1",
+            "en": "Raska Administrative District",
+            "hr": "Ra\u0161ki upravni okrug",
+            "ru": "\u0420\u0430\u0448\u0441\u043a\u0438\u0439 \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433",
+            "sr": "\u0420\u0430\u0448\u043a\u0438 \u0443\u043f\u0440\u0430\u0432\u043d\u0438 \u043e\u043a\u0440\u0443\u0433",
+            "sr-Latn": "Ra\u0161ki upravni okrug"
+        },
+        "extra": {
+            "wikidata": "Q1061082",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "rs",
+        "country_cca3": "srb",
+        "region_cca2": null,
+        "osm_id": 1639617,
+        "osm_place_id": 282181290,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0421\u0435\u0432\u0435\u0440\u043d\u043e\u0431\u0430\u043d\u0430\u0442\u0441\u043a\u0438 \u0443\u043f\u0440\u0430\u0432\u043d\u0438 \u043e\u043a\u0440\u0443\u0433",
+        "name_eng": "North Banat Administrative District",
+        "name_translations": {
+            "de": "Bezirk Nordbanat",
+            "en": "North Banat Administrative District",
+            "hr": "Sjevernobanatski upravni okrug",
+            "hu": "\u00c9szak-b\u00e1ns\u00e1gi k\u00f6rzet",
+            "ru": "\u0421\u0435\u0432\u0435\u0440\u043d\u043e-\u0411\u0430\u043d\u0430\u0442\u0441\u043a\u0438\u0439 \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433",
+            "sr": "\u0421\u0435\u0432\u0435\u0440\u043d\u043e\u0431\u0430\u043d\u0430\u0442\u0441\u043a\u0438 \u0443\u043f\u0440\u0430\u0432\u043d\u0438 \u043e\u043a\u0440\u0443\u0433",
+            "sr-Latn": "Severnobanatski upravni okrug"
+        },
+        "extra": {
+            "wikidata": "Q728041",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "rs",
+        "country_cca3": "srb",
+        "region_cca2": "RS-01",
+        "osm_id": 1639630,
+        "osm_place_id": 282714840,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0421\u0435\u0432\u0435\u0440\u043d\u043e\u0431\u0430\u0447\u043a\u0438 \u0443\u043f\u0440\u0430\u0432\u043d\u0438 \u043e\u043a\u0440\u0443\u0433",
+        "name_eng": "North Backa Administrative District",
+        "name_translations": {
+            "en": "North Backa Administrative District",
+            "hr": "Sjevernoba\u010dki upravni okrug",
+            "hu": "\u00c9szak-b\u00e1cskai k\u00f6rzet",
+            "ru": "\u0421\u0435\u0432\u0435\u0440\u043d\u043e-\u0411\u0430\u0447\u0441\u043a\u0438\u0439 \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433",
+            "sr": "\u0421\u0435\u0432\u0435\u0440\u043d\u043e\u0431\u0430\u0447\u043a\u0438 \u0443\u043f\u0440\u0430\u0432\u043d\u0438 \u043e\u043a\u0440\u0443\u0433",
+            "sr-Latn": "Severnoba\u010dki upravni okrug"
+        },
+        "extra": {
+            "wikidata": "Q648758",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "rs",
+        "country_cca3": "srb",
+        "region_cca2": null,
+        "osm_id": 1639821,
+        "osm_place_id": 282234709,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0421\u0440\u0435\u0434\u045a\u043e\u0431\u0430\u043d\u0430\u0442\u0441\u043a\u0438 \u0443\u043f\u0440\u0430\u0432\u043d\u0438 \u043e\u043a\u0440\u0443\u0433",
+        "name_eng": "Central Banat Administrative District",
+        "name_translations": {
+            "de": "Bezirk Mittelbanat",
+            "en": "Central Banat Administrative District",
+            "hr": "Srednjobanatski upravni okrug",
+            "hu": "K\u00f6z\u00e9p-b\u00e1ns\u00e1gi k\u00f6rzet",
+            "ru": "\u0421\u0440\u0435\u0434\u043d\u0435-\u0411\u0430\u043d\u0430\u0442\u0441\u043a\u0438\u0439 \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433",
+            "sr": "\u0421\u0440\u0435\u0434\u045a\u043e\u0431\u0430\u043d\u0430\u0442\u0441\u043a\u0438 \u0443\u043f\u0440\u0430\u0432\u043d\u0438 \u043e\u043a\u0440\u0443\u0433",
+            "sr-Latn": "Srednjobanatski upravni okrug"
+        },
+        "extra": {
+            "wikidata": "Q425782",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "rs",
+        "country_cca3": "srb",
+        "region_cca2": null,
+        "osm_id": 1639341,
+        "osm_place_id": 282173513,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0421\u0440\u0435\u043c\u0441\u043a\u0438 \u0443\u043f\u0440\u0430\u0432\u043d\u0438 \u043e\u043a\u0440\u0443\u0433",
+        "name_eng": "Srem Administrative District",
+        "name_translations": {
+            "de": "Bezirk Syrmien",
+            "en": "Srem Administrative District",
+            "hr": "Srijemski upravni okrug",
+            "hu": "Szer\u00e9ms\u00e9gi k\u00f6rzet",
+            "ru": "\u0421\u0440\u0435\u043c\u0441\u043a\u0438\u0439 \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433",
+            "sr": "\u0421\u0440\u0435\u043c\u0441\u043a\u0438 \u0443\u043f\u0440\u0430\u0432\u043d\u0438 \u043e\u043a\u0440\u0443\u0433",
+            "sr-Latn": "Sremski upravni okrug"
+        },
+        "extra": {
+            "wikidata": "Q217331",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "rs",
+        "country_cca3": "srb",
+        "region_cca2": null,
+        "osm_id": 2117109,
+        "osm_place_id": 282562781,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0422\u043e\u043f\u043b\u0438\u0447\u043a\u0438 \u0443\u043f\u0440\u0430\u0432\u043d\u0438 \u043e\u043a\u0440\u0443\u0433",
+        "name_eng": "Toplica Administrative District",
+        "name_translations": {
+            "de": "Bezirk Toplica",
+            "el": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u03a4\u03cc\u03c0\u03bb\u03b9\u03c4\u03c3\u03b1",
+            "en": "Toplica Administrative District",
+            "hr": "Topli\u010dki upravni okrug",
+            "ru": "\u0422\u043e\u043f\u043b\u0438\u0447\u0441\u043a\u0438\u0439 \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433",
+            "sr": "\u0422\u043e\u043f\u043b\u0438\u0447\u043a\u0438 \u0443\u043f\u0440\u0430\u0432\u043d\u0438 \u043e\u043a\u0440\u0443\u0433",
+            "sr-Latn": "Topli\u010dki upravni okrug"
+        },
+        "extra": {
+            "wikidata": "Q1048184",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "rs",
+        "country_cca3": "srb",
+        "region_cca2": null,
+        "osm_id": 1658166,
+        "osm_place_id": 282511775,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u043d\u0430 \u0421\u0440\u0431\u0438\u0458\u0430",
+        "name_eng": "Central Serbia",
+        "name_translations": {
+            "ar": "\u0635\u0631\u0628\u064a\u0627 \u0627\u0644\u0648\u0633\u0637\u0649",
+            "ca": "S\u00e8rbia central",
+            "de": "Zentralserbien",
+            "el": "\u03ba\u03b5\u03bd\u03c4\u03c1\u03b9\u03ba\u03ae \u03a3\u03b5\u03c1\u03b2\u03af\u03b1",
+            "en": "Central Serbia",
+            "es": "Serbia Central",
+            "fr": "Serbie centrale",
+            "hr": "Sredi\u0161nja Srbija",
+            "hu": "K\u00f6z\u00e9p-Szerbia",
+            "nl": "Centraal-Servi\u00eb",
+            "pl": "Serbia Centralna",
+            "ru": "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u0430\u044f \u0421\u0435\u0440\u0431\u0438\u044f",
+            "sq": "Serbia Q\u00ebndrore",
+            "sr": "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u043d\u0430 \u0421\u0440\u0431\u0438\u0458\u0430",
+            "sv": "Mellersta Serbien",
+            "vi": "Trung Serbia",
+            "sr-Latn": "Centralna Srbija"
+        },
+        "extra": {
+            "wikidata": "Q190773",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "rs",
+        "country_cca3": "srb",
+        "region_cca2": null,
+        "osm_id": 2959530,
+        "osm_place_id": 282720447,
+        "osm_admin_level": 5,
+        "osm_type": "census",
+        "name_loc": "\u0428\u0443\u043c\u0430\u0434\u0438\u0458\u0430 \u0438 \u0437\u0430\u043f\u0430\u0434\u043d\u0430 \u0421\u0440\u0431\u0438\u0458\u0430",
+        "name_eng": "Sumadija and Western Serbia",
+        "name_translations": {
+            "de": "Sumadija und West-Serbien",
+            "en": "Sumadija and Western Serbia",
+            "hr": "\u0160umadija i Zapadna Srbija",
+            "sr": "\u0428\u0443\u043c\u0430\u0434\u0438\u0458\u0430 \u0438 \u0437\u0430\u043f\u0430\u0434\u043d\u0430 \u0421\u0440\u0431\u0438\u0458\u0430",
+            "sr-Latn": "\u0160umadija i zapadna Srbija"
+        },
+        "extra": {
+            "wikidata": "Q8082909",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "rs",
+        "country_cca3": "srb",
+        "region_cca2": null,
+        "osm_id": 2109264,
+        "osm_place_id": 282274100,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0428\u0443\u043c\u0430\u0434\u0438\u0458\u0441\u043a\u0438 \u0443\u043f\u0440\u0430\u0432\u043d\u0438 \u043e\u043a\u0440\u0443\u0433",
+        "name_eng": "Sumadija Administrative District",
+        "name_translations": {
+            "en": "Sumadija Administrative District",
+            "ru": "\u0428\u0443\u043c\u0430\u0434\u0438\u0439\u0441\u043a\u0438\u0439 \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433",
+            "sr": "\u0428\u0443\u043c\u0430\u0434\u0438\u0458\u0441\u043a\u0438 \u0443\u043f\u0440\u0430\u0432\u043d\u0438 \u043e\u043a\u0440\u0443\u0433",
+            "sr-Latn": "\u0160umadijski upravni okrug"
+        },
+        "extra": {
+            "wikidata": "Q544118",
+            "un_locode": null
+        }
+    }
+]

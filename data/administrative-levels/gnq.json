@@ -1,0 +1,439 @@
+[
+    {
+        "country_cca2": "gq",
+        "country_cca3": "gnq",
+        "region_cca2": null,
+        "osm_id": 12718761,
+        "osm_place_id": 283371642,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Aconibe",
+        "name_eng": "Aconibe",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gq",
+        "country_cca3": "gnq",
+        "region_cca2": null,
+        "osm_id": 12718870,
+        "osm_place_id": 283495109,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Acurenam",
+        "name_eng": "Acurenam",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gq",
+        "country_cca3": "gnq",
+        "region_cca2": null,
+        "osm_id": 12718759,
+        "osm_place_id": 283561918,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "A\u00f1isoc",
+        "name_eng": "A\u00f1isoc",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gq",
+        "country_cca3": "gnq",
+        "region_cca2": "GQ-AN",
+        "osm_id": 2793215,
+        "osm_place_id": 282697736,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Annob\u00f3n",
+        "name_eng": "Annob\u00f3n",
+        "name_translations": {
+            "ar": "\u0622\u0646\u0648\u0628\u0648\u0646",
+            "es": "Annob\u00f3n",
+            "fa": "\u0622\u0646\u0648\u0628\u0648\u0646",
+            "fr": "Annobon",
+            "lt": "Anobonas",
+            "pt": "Ano Bom",
+            "ur": "\u0622\u0646\u0648\u0628\u0648\u0646",
+            "zh": "\u5b89\u8bfa\u672c\u7701",
+            "zh-Hans": "\u5b89\u8bfa\u672c\u7701"
+        },
+        "extra": {
+            "wikidata": "Q3736616",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gq",
+        "country_cca3": "gnq",
+        "region_cca2": null,
+        "osm_id": 12718967,
+        "osm_place_id": 283470435,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Bata",
+        "name_eng": "Bata",
+        "name_translations": {
+            "ar": "\u0628\u0627\u062a\u0627",
+            "de": "Bata",
+            "es": "Bata",
+            "fa": "\u0628\u0627\u062a\u0627",
+            "ks": "\u0628\u0627\u062a\u0627",
+            "ps": "\u0628\u0627\u062a\u0627",
+            "ur": "\u0628\u0627\u062a\u0627",
+            "azb": "\u0628\u0627\u062a\u0627",
+            "az-Arab": "\u0628\u0627\u062a\u0627"
+        },
+        "extra": {
+            "wikidata": "Q320792",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gq",
+        "country_cca3": "gnq",
+        "region_cca2": "GQ-BN",
+        "osm_id": 2793216,
+        "osm_place_id": 282383956,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Bioko Norte",
+        "name_eng": "Bioko Norte",
+        "name_translations": {
+            "de": "Nordbioko",
+            "es": "Bioko Norte",
+            "fr": "Bioko Nord",
+            "pt": "Bioko Norte",
+            "ru": "\u0421\u0435\u0432\u0435\u0440\u043d\u044b\u0439 \u0411\u0438\u043e\u043a\u043e",
+            "uk": "\u0411\u0439\u043e\u043a\u043e \u041d\u043e\u0440\u0442\u0435",
+            "zh": "\u5317\u6bd4\u5965\u79d1\u7701",
+            "zh-Hans": "\u5317\u6bd4\u5965\u79d1\u7701"
+        },
+        "extra": {
+            "wikidata": "Q845834",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gq",
+        "country_cca3": "gnq",
+        "region_cca2": "GQ-BS",
+        "osm_id": 2793217,
+        "osm_place_id": 282360834,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Bioko Sur",
+        "name_eng": "Bioko Sur",
+        "name_translations": {
+            "de": "S\u00fcdbioko",
+            "es": "Bioko Sur",
+            "fr": "Bioko Sud",
+            "pt": "Bioko Sul",
+            "ru": "\u042e\u0436\u043d\u044b\u0439 \u0411\u0438\u043e\u043a\u043e",
+            "uk": "\u0411\u0439\u043e\u043a\u043e \u0421\u0443\u0440",
+            "zh": "\u5357\u6bd4\u5965\u79d1\u7701",
+            "zh-Hans": "\u5357\u6bd4\u5965\u79d1\u7701"
+        },
+        "extra": {
+            "wikidata": "Q845817",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gq",
+        "country_cca3": "gnq",
+        "region_cca2": "GQ-CS",
+        "osm_id": 3728411,
+        "osm_place_id": 282462825,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Centro Sur",
+        "name_eng": "Centro Sur",
+        "name_translations": {
+            "ar": "\u0633\u0646\u062a\u0631\u0648 \u0633\u0648\u0631",
+            "fr": "Centre-Sud",
+            "zh": "\u4e2d\u5357\u7701",
+            "zh-Hans": "\u4e2d\u5357\u7701"
+        },
+        "extra": {
+            "wikidata": "Q845823",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gq",
+        "country_cca3": "gnq",
+        "region_cca2": null,
+        "osm_id": 12718966,
+        "osm_place_id": 283617928,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Cogo",
+        "name_eng": "Cogo",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gq",
+        "country_cca3": "gnq",
+        "region_cca2": null,
+        "osm_id": 12718664,
+        "osm_place_id": 325333858,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Djibloho",
+        "name_eng": "Djibloho",
+        "name_translations": {
+            "de": "Djibloho",
+            "es": "Djibloho",
+            "fa": "\u062f\u062c\u06cc\u0628\u0644\u0648\u0647\u0648",
+            "ur": "\u062c\u06cc\u0628\u0644\u0648\u06c1\u0648"
+        },
+        "extra": {
+            "wikidata": "Q28814758",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gq",
+        "country_cca3": "gnq",
+        "region_cca2": null,
+        "osm_id": 12718770,
+        "osm_place_id": 283607096,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Ebey\u00edn",
+        "name_eng": "Ebey\u00edn",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gq",
+        "country_cca3": "gnq",
+        "region_cca2": null,
+        "osm_id": 14375181,
+        "osm_place_id": null,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Elobey Chico",
+        "name_eng": "Elobey Chico",
+        "name_translations": {
+            "fr": "Elobey Chico"
+        },
+        "extra": {
+            "wikidata": "Q1333176"
+        }
+    },
+    {
+        "country_cca2": "gq",
+        "country_cca3": "gnq",
+        "region_cca2": null,
+        "osm_id": 7275884,
+        "osm_place_id": 282843514,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Elobey Grande",
+        "name_eng": "Elobey Grande",
+        "name_translations": {
+            "fr": "Elobey Grande",
+            "zh": "\u5927\u57c3\u6d1b\u8d1d\u5c9b",
+            "zh-Hans": "\u5927\u57c3\u6d1b\u8d1d\u5c9b"
+        },
+        "extra": {
+            "wikidata": "Q1333186",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gq",
+        "country_cca3": "gnq",
+        "region_cca2": null,
+        "osm_id": 12718869,
+        "osm_place_id": 283443864,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Evinayong",
+        "name_eng": "Evinayong",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gq",
+        "country_cca3": "gnq",
+        "region_cca2": "GQ-KN",
+        "osm_id": 3728410,
+        "osm_place_id": 283026144,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Ki\u00e9-Ntem",
+        "name_eng": "Ki\u00e9-Ntem",
+        "name_translations": {
+            "ar": "\u0643\u064a \u0646\u062a\u064a\u0645",
+            "zh": "\u57fa\u57c3-\u6069\u7279\u59c6\u7701",
+            "zh-Hans": "\u57fa\u57c3-\u6069\u7279\u59c6\u7701"
+        },
+        "extra": {
+            "wikidata": "Q853393",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gq",
+        "country_cca3": "gnq",
+        "region_cca2": "GQ-LI",
+        "osm_id": 3728364,
+        "osm_place_id": 282530648,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Litoral",
+        "name_eng": "Litoral",
+        "name_translations": {
+            "ar": "\u0644\u064a\u062a\u0648\u0631\u0627\u0644",
+            "fr": "Litoral",
+            "zh": "\u6ee8\u6d77\u7701",
+            "zh-Hans": "\u6ee8\u6d77\u7701"
+        },
+        "extra": {
+            "wikidata": "Q203873",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gq",
+        "country_cca3": "gnq",
+        "region_cca2": null,
+        "osm_id": 12718965,
+        "osm_place_id": 283612905,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Mbini",
+        "name_eng": "Mbini",
+        "name_translations": {
+            "es": "Mbini"
+        },
+        "extra": {
+            "wikidata": "Q980895",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gq",
+        "country_cca3": "gnq",
+        "region_cca2": null,
+        "osm_id": 12718777,
+        "osm_place_id": 283495092,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Micomeseng",
+        "name_eng": "Micomeseng",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gq",
+        "country_cca3": "gnq",
+        "region_cca2": null,
+        "osm_id": 12718760,
+        "osm_place_id": 283499023,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Mongomo",
+        "name_eng": "Mongomo",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gq",
+        "country_cca3": "gnq",
+        "region_cca2": null,
+        "osm_id": 12718868,
+        "osm_place_id": 283370742,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Niefang",
+        "name_eng": "Niefang",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gq",
+        "country_cca3": "gnq",
+        "region_cca2": null,
+        "osm_id": 12718778,
+        "osm_place_id": 283436396,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Nsok Nsomo",
+        "name_eng": "Nsok Nsomo",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gq",
+        "country_cca3": "gnq",
+        "region_cca2": null,
+        "osm_id": 12718762,
+        "osm_place_id": 283545039,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Nsork",
+        "name_eng": "Nsork",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gq",
+        "country_cca3": "gnq",
+        "region_cca2": "GQ-WN",
+        "osm_id": 3728448,
+        "osm_place_id": 282464194,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Wele-Nzas",
+        "name_eng": "Wele-Nzas",
+        "name_translations": {
+            "ar": "\u0648\u064a\u0644\u064a \u0646\u0632\u0627\u0633",
+            "lt": "Vele Nzasas",
+            "zh": "\u97e6\u83b1-\u6069\u8428\u65af\u7701",
+            "zh-Hans": "\u97e6\u83b1-\u6069\u8428\u65af\u7701"
+        },
+        "extra": {
+            "wikidata": "Q853400",
+            "un_locode": null
+        }
+    }
+]

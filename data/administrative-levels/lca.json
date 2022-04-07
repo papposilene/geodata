@@ -1,0 +1,175 @@
+[
+    {
+        "country_cca2": "lc",
+        "country_cca3": "lca",
+        "region_cca2": "LC-01",
+        "osm_id": 9304002,
+        "osm_place_id": 283085324,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Anse la Raye",
+        "name_eng": "Anse la Raye",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1676934",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lc",
+        "country_cca3": "lca",
+        "region_cca2": "LC-12",
+        "osm_id": 9333382,
+        "osm_place_id": 283424783,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Canaries",
+        "name_eng": "Canaries",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q9184399",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lc",
+        "country_cca3": "lca",
+        "region_cca2": null,
+        "osm_id": 9304003,
+        "osm_place_id": 283050655,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Castries",
+        "name_eng": "Castries",
+        "name_translations": {
+            "ar": "\u0643\u0627\u0633\u062a\u0631\u064a\u0633",
+            "de": "Castries",
+            "en": "Castries",
+            "fr": "Castries",
+            "it": "Castries",
+            "ko": "\uce90\uc2a4\ud2b8\ub9ac\uc2a4",
+            "nl": "Castries",
+            "no": "Castries",
+            "pl": "Castries",
+            "ru": "\u041a\u0430\u0441\u0442\u0440\u0438",
+            "tr": "Castries",
+            "zh": "\u5361\u65af\u7279\u91cc"
+        },
+        "extra": {
+            "wikidata": "Q1049867",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lc",
+        "country_cca3": "lca",
+        "region_cca2": "LC-03",
+        "osm_id": 9303814,
+        "osm_place_id": 283048695,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Choiseul",
+        "name_eng": "Choiseul",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1075816",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lc",
+        "country_cca3": "lca",
+        "region_cca2": "LC-05",
+        "osm_id": 9304004,
+        "osm_place_id": 283101568,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Dennery",
+        "name_eng": "Dennery",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1188890",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lc",
+        "country_cca3": "lca",
+        "region_cca2": "LC-06",
+        "osm_id": 9304005,
+        "osm_place_id": 283334221,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Gros Islet",
+        "name_eng": "Gros Islet",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q953557",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lc",
+        "country_cca3": "lca",
+        "region_cca2": "LC-07",
+        "osm_id": 9303813,
+        "osm_place_id": 283113238,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Laborie",
+        "name_eng": "Laborie",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q599347",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lc",
+        "country_cca3": "lca",
+        "region_cca2": "LC-08",
+        "osm_id": 9302977,
+        "osm_place_id": 283048604,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Micoud",
+        "name_eng": "Micoud",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1240193",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lc",
+        "country_cca3": "lca",
+        "region_cca2": "LC-10",
+        "osm_id": 9303838,
+        "osm_place_id": 283100557,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Soufriere",
+        "name_eng": "Soufriere",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1472841",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lc",
+        "country_cca3": "lca",
+        "region_cca2": "LC-11",
+        "osm_id": 9303796,
+        "osm_place_id": 283126998,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Vieux Fort",
+        "name_eng": "Vieux Fort",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1472864",
+            "un_locode": null
+        }
+    }
+]

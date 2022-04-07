@@ -1,0 +1,579 @@
+[
+    {
+        "country_cca2": "il",
+        "country_cca3": "isr",
+        "region_cca2": "IL-D",
+        "osm_id": 1473952,
+        "osm_place_id": 282478016,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "\u05de\u05d7\u05d5\u05d6 \u05d4\u05d3\u05e8\u05d5\u05dd",
+        "name_eng": "South District",
+        "name_translations": {
+            "ar": "\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u062c\u0646\u0648\u0628",
+            "cs": "Ji\u017en\u00ed distrikt",
+            "de": "S\u00fcdbezirk",
+            "el": "\u039d\u03cc\u03c4\u03b9\u03b1 \u03a0\u03b5\u03c1\u03b9\u03bf\u03c7\u03ae",
+            "en": "South District",
+            "es": "Distrito Meridional",
+            "fi": "Etel\u00e4inen hallintoalue",
+            "fr": "District sud",
+            "he": "\u05de\u05d7\u05d5\u05d6 \u05d4\u05d3\u05e8\u05d5\u05dd",
+            "hr": "Ju\u017ena regija",
+            "hu": "D\u00e9li k\u00f6rzet",
+            "it": "Distretto Sud",
+            "pl": "Dystrykt Po\u0142udniowy",
+            "pt": "Distrito Sul",
+            "ro": "Districtul de Sud",
+            "ru": "\u042e\u0436\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433",
+            "uk": "\u041f\u0456\u0432\u0434\u0435\u043d\u043d\u0438\u0439 \u043e\u043a\u0440\u0443\u0433"
+        },
+        "extra": {
+            "wikidata": "Q188781",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "il",
+        "country_cca3": "isr",
+        "region_cca2": null,
+        "osm_id": 1400928,
+        "osm_place_id": 282481069,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "\u05de\u05d7\u05d5\u05d6 \u05d4\u05de\u05e8\u05db\u05d6",
+        "name_eng": "Center District",
+        "name_translations": {
+            "ar": "\u0627\u0644\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u0648\u0633\u0637\u0649",
+            "cs": "Centr\u00e1ln\u00ed distrikt",
+            "de": "Zentralbezirk",
+            "en": "Center District",
+            "es": "Distrito Central",
+            "fi": "Keski-Israelin hallintoalue",
+            "fr": "District centre",
+            "he": "\u05de\u05d7\u05d5\u05d6 \u05d4\u05de\u05e8\u05db\u05d6",
+            "hu": "K\u00f6zponti k\u00f6rzet",
+            "it": "Distretto Centrale",
+            "pl": "Dystrykt Centralny",
+            "pt": "Distrito Central",
+            "ro": "Districtul Central",
+            "ru": "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433",
+            "ur": "\u0636\u0644\u0639 \u0648\u0633\u0637\u06cc"
+        },
+        "extra": {
+            "wikidata": "Q188785",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "il",
+        "country_cca3": "isr",
+        "region_cca2": "IL-Z",
+        "osm_id": 1375620,
+        "osm_place_id": 282435422,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "\u05de\u05d7\u05d5\u05d6 \u05d4\u05e6\u05e4\u05d5\u05df",
+        "name_eng": "North District",
+        "name_translations": {
+            "ar": "\u0627\u0644\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u0634\u0645\u0627\u0644\u064a\u0629",
+            "cs": "Severn\u00ed distrikt",
+            "de": "Nordbezirk",
+            "en": "North District",
+            "es": "Distrito Norte",
+            "fi": "Pohjoinen hallintoalue",
+            "fr": "District nord",
+            "he": "\u05de\u05d7\u05d5\u05d6 \u05d4\u05e6\u05e4\u05d5\u05df",
+            "hu": "\u00c9szaki k\u00f6rzet",
+            "it": "Distretto Nord",
+            "lt": "\u0160iaur\u0117s apskritis",
+            "pl": "Dystrykt P\u00f3\u0142nocny",
+            "pt": "Distrito Norte",
+            "ro": "Districtul de Nord",
+            "ru": "\u0421\u0435\u0432\u0435\u0440\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433",
+            "en1": "Mahoz HaZafon"
+        },
+        "extra": {
+            "wikidata": "Q189942",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "il",
+        "country_cca3": "isr",
+        "region_cca2": null,
+        "osm_id": 1400966,
+        "osm_place_id": 282209748,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "\u05de\u05d7\u05d5\u05d6 \u05d7\u05d9\u05e4\u05d4",
+        "name_eng": "Haifa District",
+        "name_translations": {
+            "ar": "\u0645\u0646\u0637\u0642\u0629 \u062d\u064a\u0641\u0627",
+            "cs": "Haifsk\u00fd distrikt",
+            "de": "Bezirk Haifa",
+            "en": "Haifa District",
+            "es": "Distrito de Haifa",
+            "fi": "Haifan hallintoalue",
+            "fr": "District de Ha\u00effa",
+            "he": "\u05de\u05d7\u05d5\u05d6 \u05d7\u05d9\u05e4\u05d4",
+            "hu": "Haifai k\u00f6rzet",
+            "it": "Distretto di Haifa",
+            "pt": "Distrito de Haifa",
+            "ro": "Districtul Haifa",
+            "ru": "\u0425\u0430\u0439\u0444\u0441\u043a\u0438\u0439 \u043e\u043a\u0440\u0443\u0433",
+            "ur": "\u062d\u06cc\u0641\u0627 \u0636\u0644\u0639"
+        },
+        "extra": {
+            "wikidata": "Q185845",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "il",
+        "country_cca3": "isr",
+        "region_cca2": null,
+        "osm_id": 1384720,
+        "osm_place_id": 282146756,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "\u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd",
+        "name_eng": "Jerusalem District",
+        "name_translations": {
+            "ar": "\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u0642\u062f\u0633",
+            "cs": "Jeruzal\u00e9msk\u00fd distrikt",
+            "de": "Bezirk Jerusalem",
+            "en": "Jerusalem District",
+            "es": "Distrito de Jerusal\u00e9n",
+            "fi": "Jerusalemin hallintoalue",
+            "fr": "District de J\u00e9rusalem",
+            "he": "\u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd",
+            "hu": "Jeruzs\u00e1lemi k\u00f6rzet",
+            "it": "Distretto di Gerusalemme",
+            "pt": "Distrito de Jerusal\u00e9m",
+            "ro": "Districtul Ierusalim",
+            "ru": "\u0418\u0435\u0440\u0443\u0441\u0430\u043b\u0438\u043c\u0441\u043a\u0438\u0439 \u043e\u043a\u0440\u0443\u0433",
+            "ur": "\u0636\u0644\u0639 \u06cc\u0631\u0648\u0634\u0644\u0645"
+        },
+        "extra": {
+            "wikidata": "Q192232",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "il",
+        "country_cca3": "isr",
+        "region_cca2": "IL-TA",
+        "osm_id": 1400916,
+        "osm_place_id": 282439540,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "\u05de\u05d7\u05d5\u05d6 \u05ea\u05dc \u05d0\u05d1\u05d9\u05d1",
+        "name_eng": "Tel Aviv District",
+        "name_translations": {
+            "ar": "\u0645\u0646\u0637\u0642\u0629 \u062a\u0644 \u0623\u0628\u064a\u0628",
+            "cs": "Telavivsk\u00fd distrikt",
+            "de": "Bezirk Tel Aviv",
+            "el": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u03a4\u03b5\u03bb \u0391\u03b2\u03af\u03b2",
+            "en": "Tel Aviv District",
+            "es": "Distrito de Tel Aviv",
+            "fa": "\u0627\u0633\u062a\u0627\u0646 \u062a\u0644 \u0627\u0628\u06cc\u0628",
+            "fi": "Tel Avivin hallintoalue",
+            "fr": "District de Tel Aviv",
+            "he": "\u05de\u05d7\u05d5\u05d6 \u05ea\u05dc \u05d0\u05d1\u05d9\u05d1",
+            "hu": "Tel-Avivi k\u00f6rzet",
+            "it": "Distretto di Tel Aviv",
+            "pl": "Dystrykt Tel Awiwu",
+            "pt": "Distrito de Tel Aviv",
+            "ro": "Districtul Tel Aviv",
+            "ru": "\u0422\u0435\u043b\u044c-\u0410\u0432\u0438\u0432\u0441\u043a\u0438\u0439 \u043e\u043a\u0440\u0443\u0433",
+            "ur": "\u0636\u0644\u0639 \u062a\u0644 \u0627\u0628\u06cc\u0628",
+            "pnb": "\u062a\u0644 \u0627\u0628\u06cc\u0628 \u0636\u0644\u0639"
+        },
+        "extra": {
+            "wikidata": "Q192811",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "il",
+        "country_cca3": "isr",
+        "region_cca2": null,
+        "osm_id": 11584353,
+        "osm_place_id": 283309645,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u05e0\u05e4\u05ea \u05d0\u05e9\u05e7\u05dc\u05d5\u05df",
+        "name_eng": "Ashkelon Subdistrict",
+        "name_translations": {
+            "de": "Unterbezirk Aschkelon",
+            "en": "Ashkelon Subdistrict",
+            "fr": "sous-district d'Ashkelon",
+            "he": "\u05e0\u05e4\u05ea \u05d0\u05e9\u05e7\u05dc\u05d5\u05df"
+        },
+        "extra": {
+            "wikidata": "Q5423623",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "il",
+        "country_cca3": "isr",
+        "region_cca2": null,
+        "osm_id": 11584306,
+        "osm_place_id": 283583025,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u05e0\u05e4\u05ea \u05d1\u05d0\u05e8 \u05e9\u05d1\u05e2",
+        "name_eng": "Beersheba Subdistrict",
+        "name_translations": {
+            "de": "Unterbezirk Be'er Scheva",
+            "en": "Beersheba Subdistrict",
+            "fr": "sous-district de Beer-Sheva",
+            "he": "\u05e0\u05e4\u05ea \u05d1\u05d0\u05e8 \u05e9\u05d1\u05e2"
+        },
+        "extra": {
+            "wikidata": "Q5423629",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "il",
+        "country_cca3": "isr",
+        "region_cca2": null,
+        "osm_id": 11587694,
+        "osm_place_id": 283438420,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u05e0\u05e4\u05ea \u05d4\u05e9\u05e8\u05d5\u05df",
+        "name_eng": "haSharon Subdistrict",
+        "name_translations": {
+            "de": "Unterbezirk haScharon",
+            "en": "haSharon Subdistrict",
+            "he": "\u05e0\u05e4\u05ea \u05d4\u05e9\u05e8\u05d5\u05df"
+        },
+        "extra": {
+            "wikidata": "Q5422629",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "il",
+        "country_cca3": "isr",
+        "region_cca2": null,
+        "osm_id": 11584745,
+        "osm_place_id": 283392493,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u05e0\u05e4\u05ea \u05d7\u05d3\u05e8\u05d4",
+        "name_eng": "Hadera Subdistrict",
+        "name_translations": {
+            "de": "Unterbezirk Hadera",
+            "en": "Hadera Subdistrict",
+            "he": "\u05e0\u05e4\u05ea \u05d7\u05d3\u05e8\u05d4"
+        },
+        "extra": {
+            "wikidata": "Q5423414",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "il",
+        "country_cca3": "isr",
+        "region_cca2": null,
+        "osm_id": 11584519,
+        "osm_place_id": 283346161,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u05e0\u05e4\u05ea \u05d7\u05d9\u05e4\u05d4",
+        "name_eng": "Haifa Subdistrict",
+        "name_translations": {
+            "de": "Unterbezirk Haifa",
+            "en": "Haifa Subdistrict",
+            "he": "\u05e0\u05e4\u05ea \u05d7\u05d9\u05e4\u05d4",
+            "ur": "\u062a\u062d\u0635\u06cc\u0644 \u062d\u06cc\u0641\u0627"
+        },
+        "extra": {
+            "wikidata": "Q5423411",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "il",
+        "country_cca3": "isr",
+        "region_cca2": null,
+        "osm_id": 11586982,
+        "osm_place_id": 283281056,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u05e0\u05e4\u05ea \u05d9\u05d6\u05e8\u05e2\u05d0\u05dc",
+        "name_eng": "Jezreel Subdistrict",
+        "name_translations": {
+            "de": "Unterbezirk Jesreel",
+            "en": "Jezreel Subdistrict",
+            "he": "\u05e0\u05e4\u05ea \u05d9\u05d6\u05e8\u05e2\u05d0\u05dc"
+        },
+        "extra": {
+            "wikidata": "Q128843",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "il",
+        "country_cca3": "isr",
+        "region_cca2": null,
+        "osm_id": 12197869,
+        "osm_place_id": 283534940,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd",
+        "name_eng": "Jerusalem Subdistrict",
+        "name_translations": {
+            "ar": "\u0642\u0636\u0627\u0621 \u0623\u0648\u0631\u0634\u0644\u064a\u0645 \u0627\u0644\u0642\u062f\u0633",
+            "en": "Jerusalem Subdistrict",
+            "he": "\u05e0\u05e4\u05ea \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd"
+        },
+        "extra": {
+            "wikidata": "Q5283449",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "il",
+        "country_cca3": "isr",
+        "region_cca2": null,
+        "osm_id": 11586472,
+        "osm_place_id": 283346316,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u05e0\u05e4\u05ea \u05db\u05e0\u05e8\u05ea",
+        "name_eng": "Kinneret Subdistrict",
+        "name_translations": {
+            "de": "Unterbezirk Kinneret",
+            "en": "Kinneret Subdistrict",
+            "he": "\u05e0\u05e4\u05ea \u05db\u05e0\u05e8\u05ea"
+        },
+        "extra": {
+            "wikidata": "Q65073769",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "il",
+        "country_cca3": "isr",
+        "region_cca2": null,
+        "osm_id": 11586940,
+        "osm_place_id": 283313375,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u05e0\u05e4\u05ea \u05e2\u05db\u05d5",
+        "name_eng": "Acre Subdistrict",
+        "name_translations": {
+            "de": "Unterbezirk Akko",
+            "en": "Acre Subdistrict",
+            "he": "\u05e0\u05e4\u05ea \u05e2\u05db\u05d5"
+        },
+        "extra": {
+            "wikidata": "Q5423103",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "il",
+        "country_cca3": "isr",
+        "region_cca2": null,
+        "osm_id": 11587672,
+        "osm_place_id": 283638150,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u05e0\u05e4\u05ea \u05e4\u05ea\u05d7 \u05ea\u05e7\u05d5\u05d5\u05d4",
+        "name_eng": "Petah Tikva Subdistrict",
+        "name_translations": {
+            "ar": "\u0642\u0636\u0627\u0621 \u0628\u062a\u0627\u062d \u062a\u0643\u0641\u0627",
+            "de": "Unterbezirk Petach Tikwa",
+            "en": "Petah Tikva Subdistrict",
+            "he": "\u05e0\u05e4\u05ea \u05e4\u05ea\u05d7 \u05ea\u05e7\u05d5\u05d5\u05d4",
+            "ur": "\u0641\u062a\u062d \u062a\u06a9\u0648 \u0630\u06cc\u0644\u06cc \u0636\u0644\u0639"
+        },
+        "extra": {
+            "wikidata": "Q5422648",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "il",
+        "country_cca3": "isr",
+        "region_cca2": null,
+        "osm_id": 11586908,
+        "osm_place_id": 283509024,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u05e0\u05e4\u05ea \u05e6\u05e4\u05ea",
+        "name_eng": "Safed Subdistrict",
+        "name_translations": {
+            "de": "Unterbezirk Safed",
+            "en": "Safed Subdistrict",
+            "he": "\u05e0\u05e4\u05ea \u05e6\u05e4\u05ea"
+        },
+        "extra": {
+            "wikidata": "Q5423089",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "il",
+        "country_cca3": "isr",
+        "region_cca2": null,
+        "osm_id": 11587514,
+        "osm_place_id": 283573749,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u05e0\u05e4\u05ea \u05e8\u05d7\u05d5\u05d1\u05d5\u05ea",
+        "name_eng": "Rehovot Subdistrict",
+        "name_translations": {
+            "de": "Unterbezirk Rechowot",
+            "en": "Rehovot Subdistrict",
+            "he": "\u05e0\u05e4\u05ea \u05e8\u05d7\u05d5\u05d1\u05d5\u05ea"
+        },
+        "extra": {
+            "wikidata": "Q46992983",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "il",
+        "country_cca3": "isr",
+        "region_cca2": null,
+        "osm_id": 11587600,
+        "osm_place_id": 283544295,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u05e0\u05e4\u05ea \u05e8\u05de\u05dc\u05d4",
+        "name_eng": "Ramla Subdistrict",
+        "name_translations": {
+            "de": "Unterbezirk Ramla",
+            "en": "Ramla Subdistrict",
+            "he": "\u05e0\u05e4\u05ea \u05e8\u05de\u05dc\u05d4"
+        },
+        "extra": {
+            "wikidata": "Q5419070",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "il",
+        "country_cca3": "isr",
+        "region_cca2": null,
+        "osm_id": 11585174,
+        "osm_place_id": 283583033,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u05e0\u05e4\u05ea \u05e8\u05de\u05ea \u05d4\u05d2\u05d5\u05dc\u05df",
+        "name_eng": "Golan Heights Subdistrict",
+        "name_translations": {
+            "af": "Golanhoogland",
+            "ar": "\u0647\u0636\u0628\u0629 \u0627\u0644\u062c\u0648\u0644\u0627\u0646",
+            "az": "Qolan t\u0259p\u0259l\u0259ri",
+            "be": "\u0413\u0430\u043b\u0430\u043d\u0441\u043a\u0456\u044f \u0432\u044b\u0448\u044b\u043d\u0456",
+            "bg": "\u0413\u043e\u043b\u0430\u043d\u0441\u043a\u0438 \u0432\u044a\u0437\u0432\u0438\u0448\u0435\u043d\u0438\u044f",
+            "bn": "\u0997\u09cb\u09b2\u09be\u09a8 \u09ae\u09be\u09b2\u09ad\u09c2\u09ae\u09bf",
+            "bs": "Golanska visoravan",
+            "ca": "Alts del Golan",
+            "cs": "Golansk\u00e9 v\u00fd\u0161iny",
+            "cy": "Ucheldiroedd Golan",
+            "da": "Golanh\u00f8jderne",
+            "de": "Unterbezirk Golanh\u00f6hen",
+            "el": "\u03a5\u03c8\u03ce\u03bc\u03b1\u03c4\u03b1 \u03c4\u03bf\u03c5 \u0393\u03ba\u03bf\u03bb\u03ac\u03bd",
+            "en": "Golan Heights Subdistrict",
+            "eo": "Golanaj Alta\u0135oj",
+            "es": "Altos del Gol\u00e1n",
+            "et": "Golani k\u00f5rgendikud",
+            "eu": "Golan",
+            "fa": "\u0628\u0644\u0646\u062f\u06cc\u200c\u0647\u0627\u06cc \u062c\u0648\u0644\u0627\u0646",
+            "fi": "Golanin kukkulat",
+            "fr": "Plateau du Golan",
+            "fy": "Golanhichte",
+            "gl": "Altos do Gol\u00e1n",
+            "he": "\u05e0\u05e4\u05ea \u05e8\u05de\u05ea \u05d4\u05d2\u05d5\u05dc\u05df",
+            "hi": "\u0917\u094b\u0932\u093e\u0928 \u092a\u0939\u093e\u0921\u093c\u093f\u092f\u093e\u0901",
+            "hr": "Golanska visoravan",
+            "hu": "Gol\u00e1n-fenns\u00edk",
+            "hy": "\u0533\u0578\u056c\u0561\u0576\u056b \u0562\u0561\u0580\u0571\u0578\u0582\u0576\u0584\u0576\u0565\u0580",
+            "id": "Dataran Tinggi Golan",
+            "is": "G\u00f3lanh\u00e6\u00f0ir",
+            "it": "Alture del Golan",
+            "ja": "\u30b4\u30e9\u30f3\u9ad8\u539f",
+            "jv": "Dataran Dhuwur Golan",
+            "ka": "\u10d2\u10dd\u10da\u10d0\u10dc\u10d8\u10e1 \u10db\u10d0\u10e6\u10da\u10dd\u10d1\u10d4\u10d1\u10d8",
+            "kk": "\u0413\u043e\u043b\u0430\u043d \u0448\u044b\u04a3\u0434\u0430\u0440\u044b",
+            "ko": "\uace8\ub780\uace0\uc6d0",
+            "ku": "Gir\u00ean Golan",
+            "la": "Gaulanitis",
+            "lb": "Golan",
+            "lt": "Golano auk\u0161tumos",
+            "lv": "Gol\u0101nas augstienes",
+            "mg": "Tany avon'i Gol\u00e0na",
+            "mk": "\u0413\u043e\u043b\u0430\u043d\u0441\u043a\u0430 \u0412\u0438\u0441\u043e\u0440\u0430\u043c\u043d\u0438\u043d\u0430",
+            "ml": "\u0d17\u0d4b\u0d32\u0d3e\u0d7b \u0d15\u0d41\u0d28\u0d4d\u0d28\u0d41\u0d15\u0d7e",
+            "mr": "\u0917\u094b\u0932\u093e\u0928 \u091f\u0947\u0915\u0921\u094d\u092f\u093e",
+            "ms": "Dataran Tinggi Golan",
+            "ne": "\u0917\u094b\u0932\u0928 \u0939\u093e\u0907\u091f\u094d\u0938",
+            "nl": "Golanhoogten",
+            "no": "Golanh\u00f8ydene",
+            "oc": "Golan",
+            "pa": "\u0a17\u0a4b\u0a32\u0a3e\u0a28 \u0a09\u0a1a\u0a3e\u0a08\u0a06\u0a02",
+            "pl": "Wzg\u00f3rza Golan",
+            "pt": "Colinas de Gol\u00e3",
+            "ro": "\u00cen\u0103l\u021bimile Golan",
+            "ru": "\u0413\u043e\u043b\u0430\u043d\u0441\u043a\u0438\u0435 \u0432\u044b\u0441\u043e\u0442\u044b",
+            "sh": "Golanska visoravan",
+            "si": "\u0d9c\u0ddd\u0dbd\u0dcf\u0db1\u0dca \u0d9a\u0db3\u0dd4\u0d9a\u0dbb\u0dba",
+            "sk": "Golansk\u00e9 v\u00fd\u0161iny",
+            "sl": "Golansko vi\u0161avje",
+            "sr": "\u0413\u043e\u043b\u0430\u043d\u0441\u043a\u0430 \u0432\u0438\u0441\u043e\u0440\u0430\u0432\u0430\u043d",
+            "sv": "Golanh\u00f6jderna",
+            "ta": "\u0b95\u0bcb\u0bb2\u0bbe\u0ba9\u0bcd \u0b95\u0bc1\u0ba9\u0bcd\u0bb1\u0bc1\u0b95\u0bb3\u0bcd",
+            "th": "\u0e17\u0e35\u0e48\u0e23\u0e32\u0e1a\u0e2a\u0e39\u0e07\u0e42\u0e01\u0e25\u0e31\u0e19",
+            "tr": "Golan Tepeleri",
+            "tt": "Golan bieklekl\u00e4re",
+            "uk": "\u0413\u043e\u043b\u0430\u043d\u0441\u044c\u043a\u0456 \u0432\u0438\u0441\u043e\u0442\u0438",
+            "ur": "\u06af\u0648\u0644\u0627\u0646 \u067e\u06c1\u0627\u0691\u06cc\u0627\u06ba",
+            "vi": "Cao nguy\u00ean Golan",
+            "yi": "\u05e8\u05de\u05ea \u05d4\u05d2\u05d5\u05dc\u05df",
+            "zh": "\u6208\u862d\u9ad8\u5730",
+            "ang": "Golanh\u012beh\u00f0a",
+            "ckb": "\u0628\u06d5\u0631\u0632\u0627\u06cc\u06cc\u06cc\u06d5\u06a9\u0627\u0646\u06cc \u062c\u06c6\u0644\u0627\u0646",
+            "lmo": "Alture del Golan",
+            "pnb": "\u06af\u0648\u0644\u0627\u0646 \u0627\u0686\u0627\u0626\u06cc\u0627\u06ba",
+            "scn": "Golan",
+            "sco": "Golan Hichts",
+            "war": "Taas nga Golan",
+            "wuu": "\u6208\u5170\u9ad8\u5730",
+            "xmf": "\u10d2\u10dd\u10da\u10d0\u10dc\u10d8\u10e8 \u10e1\u10e3\u10d1\u10d4\u10d4\u10e4\u10d8"
+        },
+        "extra": {
+            "wikidata": "Q5423040",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "il",
+        "country_cca3": "isr",
+        "region_cca2": null,
+        "osm_id": 12197868,
+        "osm_place_id": 283326396,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u05e0\u05e4\u05ea \u05ea\u05dc \u05d0\u05d1\u05d9\u05d1",
+        "name_eng": "Tel Aviv Subdistrict",
+        "name_translations": {
+            "ar": "\u0642\u0636\u0627\u0621 \u062a\u0644 \u0623\u0628\u064a\u0628",
+            "en": "Tel Aviv Subdistrict",
+            "he": "\u05e0\u05e4\u05ea \u05ea\u05dc \u05d0\u05d1\u05d9\u05d1"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    }
+]

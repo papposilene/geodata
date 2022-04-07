@@ -1,0 +1,164 @@
+[
+    {
+        "country_cca2": "ls",
+        "country_cca3": "lso",
+        "region_cca2": "LS-D",
+        "osm_id": 1252926,
+        "osm_place_id": 282099669,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Berea District",
+        "name_eng": "Berea District",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q737086",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ls",
+        "country_cca3": "lso",
+        "region_cca2": "LS-B",
+        "osm_id": 1252922,
+        "osm_place_id": 282414679,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Butha-Buthe District",
+        "name_eng": "Butha-Buthe District",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q535632",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ls",
+        "country_cca3": "lso",
+        "region_cca2": "LS-C",
+        "osm_id": 1252929,
+        "osm_place_id": 282089637,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Leribe District",
+        "name_eng": "Leribe District",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q819987",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ls",
+        "country_cca3": "lso",
+        "region_cca2": "LS-E",
+        "osm_id": 1252924,
+        "osm_place_id": 282103861,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Mafeteng District",
+        "name_eng": "Mafeteng District",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q817342",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ls",
+        "country_cca3": "lso",
+        "region_cca2": "LS-A",
+        "osm_id": 1252921,
+        "osm_place_id": 282137227,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Maseru District",
+        "name_eng": "Maseru District",
+        "name_translations": {
+            "eo": "Maseruo"
+        },
+        "extra": {
+            "wikidata": "Q844921",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ls",
+        "country_cca3": "lso",
+        "region_cca2": "LS-F",
+        "osm_id": 1252923,
+        "osm_place_id": 282117571,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Mohale's Hoek District",
+        "name_eng": "Mohale's Hoek District",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q839074",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ls",
+        "country_cca3": "lso",
+        "region_cca2": "LS-J",
+        "osm_id": 1252920,
+        "osm_place_id": 282160429,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Mokhotlong District",
+        "name_eng": "Mokhotlong District",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q817340",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ls",
+        "country_cca3": "lso",
+        "region_cca2": "LS-H",
+        "osm_id": 1252928,
+        "osm_place_id": 282117231,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Qacha's Nek District",
+        "name_eng": "Qacha's Nek District",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q850423",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ls",
+        "country_cca3": "lso",
+        "region_cca2": "LS-G",
+        "osm_id": 1252925,
+        "osm_place_id": 282087802,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Quthing District",
+        "name_eng": "Quthing District",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q839060",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ls",
+        "country_cca3": "lso",
+        "region_cca2": "LS-K",
+        "osm_id": 1252927,
+        "osm_place_id": 282282117,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Thaba-Tseka District",
+        "name_eng": "Thaba-Tseka District",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q817327",
+            "un_locode": null
+        }
+    }
+]

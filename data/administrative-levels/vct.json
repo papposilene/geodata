@@ -1,0 +1,98 @@
+[
+    {
+        "country_cca2": "vc",
+        "country_cca3": "vct",
+        "region_cca2": "VC-01",
+        "osm_id": 4016640,
+        "osm_place_id": 282479540,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Charlotte",
+        "name_eng": "Charlotte",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2075188",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "vc",
+        "country_cca3": "vct",
+        "region_cca2": "VC-06",
+        "osm_id": 4016680,
+        "osm_place_id": 282494179,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Grenadines",
+        "name_eng": "Grenadines",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2545297",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "vc",
+        "country_cca3": "vct",
+        "region_cca2": "VC-02",
+        "osm_id": 4016641,
+        "osm_place_id": 282484861,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Saint Andrew",
+        "name_eng": "Saint Andrew",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2305115",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "vc",
+        "country_cca3": "vct",
+        "region_cca2": "VC-03",
+        "osm_id": 4016642,
+        "osm_place_id": 282532087,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Saint David",
+        "name_eng": "Saint David",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2412394",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "vc",
+        "country_cca3": "vct",
+        "region_cca2": "VC-04",
+        "osm_id": 4016643,
+        "osm_place_id": 282490812,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Saint George",
+        "name_eng": "Saint George",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2300294",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "vc",
+        "country_cca3": "vct",
+        "region_cca2": "VC-05",
+        "osm_id": 4016644,
+        "osm_place_id": 282578614,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Saint Patrick",
+        "name_eng": "Saint Patrick",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1864637",
+            "un_locode": null
+        }
+    }
+]

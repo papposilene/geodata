@@ -1,0 +1,832 @@
+[
+    {
+        "country_cca2": "gm",
+        "country_cca3": "gmb",
+        "region_cca2": null,
+        "osm_id": 7224996,
+        "osm_place_id": 283233917,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Banjul",
+        "name_eng": "Banjul",
+        "name_translations": {
+            "ar": "\u0628\u0627\u0646\u062c\u0648\u0644",
+            "en": "Banjul"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gm",
+        "country_cca3": "gmb",
+        "region_cca2": "GM-B",
+        "osm_id": 3214211,
+        "osm_place_id": 282710848,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Banjul",
+        "name_eng": "Banjul City Council",
+        "name_translations": {
+            "am": "\u1263\u1295\u1301\u120d",
+            "ar": "\u0628\u0627\u0646\u062c\u0648\u0644",
+            "be": "\u0411\u0430\u043d\u0436\u0443\u043b",
+            "bg": "\u0411\u0430\u043d\u0434\u0436\u0443\u043b",
+            "bo": "\u0f56\u0f71\u0f53\u0f0b\u0f47\u0f71\u0f74\u0f0b\u0f63\u0f0d",
+            "de": "Banjul",
+            "el": "\u039c\u03c0\u03b1\u03bd\u03b6\u03bf\u03cd\u03bb",
+            "en": "Banjul City Council",
+            "eo": "Ban\u0135ulo",
+            "es": "Banjul",
+            "fa": "\u0628\u0627\u0646\u062c\u0648\u0644",
+            "fr": "Banjul",
+            "he": "\u05d1\u05e0\u05d2'\u05d5\u05dc",
+            "hi": "\u092c\u093e\u091e\u094d\u091c\u0941\u0932",
+            "ht": "Banjoul",
+            "hu": "Banjul",
+            "hy": "\u0532\u0561\u0576\u057b\u0578\u0582\u056c",
+            "is": "Banjul",
+            "ja": "\u30d0\u30f3\u30b8\u30e5\u30fc\u30eb",
+            "ka": "\u10d1\u10d0\u10dc\u10ef\u10e3\u10da\u10d8",
+            "ko": "\ubc18\uc904",
+            "ky": "\u0411\u0430\u043d\u0436\u0443\u043b",
+            "la": "Bathurstopolis",
+            "lt": "Band\u017eulis",
+            "lv": "Band\u017eula",
+            "mk": "\u0411\u0430\u043d\u045f\u0443\u043b",
+            "mr": "\u092c\u0902\u091c\u0941\u0932",
+            "oc": "Banjul",
+            "pl": "Band\u017cul",
+            "ru": "\u0411\u0430\u043d\u0436\u0443\u043b",
+            "sr": "\u0411\u0430\u043d\u045f\u0443\u043b",
+            "sv": "Banjul",
+            "ta": "\u0baa\u0b9e\u0bcd\u0b9a\u0bc1\u0bb2\u0bcd",
+            "tg": "\u0411\u0430\u043d\u04b7\u0443\u043b",
+            "th": "\u0e1a\u0e31\u0e19\u0e08\u0e39\u0e25",
+            "uk": "\u0411\u0430\u043d\u0436\u0443\u043b",
+            "ur": "\u0628\u0627\u0646\u062c\u0648\u0644",
+            "yi": "\u05d1\u05d0\u05e0\u05d6\u05e9\u05d5\u05dc",
+            "zh": "\u73ed\u73e0\u723e",
+            "ckb": "\u0628\u0627\u0646\u062c\u0648\u0644",
+            "mrj": "\u0411\u0430\u043d\u0436\u0443\u043b",
+            "nah": "Banyul",
+            "pnb": "\u0628\u0627\u0646\u062c\u0648\u0644",
+            "udm": "\u0411\u0430\u043d\u0436\u0443\u043b"
+        },
+        "extra": {
+            "wikidata": "Q3726",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gm",
+        "country_cca3": "gmb",
+        "region_cca2": null,
+        "osm_id": 3214117,
+        "osm_place_id": 282640199,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Basse",
+        "name_eng": "Basse",
+        "name_translations": {
+            "en": "Basse"
+        },
+        "extra": {
+            "wikidata": "Q3676070",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gm",
+        "country_cca3": "gmb",
+        "region_cca2": null,
+        "osm_id": 9256974,
+        "osm_place_id": 283045241,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Basse Fulladu East",
+        "name_eng": "Basse Fulladu East",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gm",
+        "country_cca3": "gmb",
+        "region_cca2": null,
+        "osm_id": 3214214,
+        "osm_place_id": 282392873,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Brikama",
+        "name_eng": "Brikama",
+        "name_translations": {
+            "en": "Brikama"
+        },
+        "extra": {
+            "wikidata": "Q3676074",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gm",
+        "country_cca3": "gmb",
+        "region_cca2": null,
+        "osm_id": 9260289,
+        "osm_place_id": 283109757,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Central Badibu",
+        "name_eng": "Central Badibu",
+        "name_translations": {
+            "en": "Central Badibu"
+        },
+        "extra": {
+            "wikidata": "Q1053702",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gm",
+        "country_cca3": "gmb",
+        "region_cca2": "GM-M",
+        "osm_id": 7224883,
+        "osm_place_id": 282955832,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Central River",
+        "name_eng": "Central River",
+        "name_translations": {
+            "ar": "\u0627\u0644\u0646\u0647\u0631 \u0627\u0644\u0645\u0631\u0643\u0632\u064a",
+            "de": "Central River Region",
+            "en": "Central River",
+            "es": "Divisi\u00f3n Central River",
+            "fr": "Division de Central River"
+        },
+        "extra": {
+            "wikidata": "Q824431",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gm",
+        "country_cca3": "gmb",
+        "region_cca2": null,
+        "osm_id": 9260290,
+        "osm_place_id": 283045007,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Illiasa",
+        "name_eng": "Illiasa",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gm",
+        "country_cca3": "gmb",
+        "region_cca2": null,
+        "osm_id": 304845,
+        "osm_place_id": 282398924,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Janjanbureh",
+        "name_eng": "Janjanbureh",
+        "name_translations": {
+            "en": "Janjanbureh"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gm",
+        "country_cca3": "gmb",
+        "region_cca2": null,
+        "osm_id": 9258622,
+        "osm_place_id": 283325825,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Janjanbureh",
+        "name_eng": "Janjanbureh",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gm",
+        "country_cca3": "gmb",
+        "region_cca2": null,
+        "osm_id": 9266278,
+        "osm_place_id": 283331944,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Jarra Central",
+        "name_eng": "Jarra Central",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1572024",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gm",
+        "country_cca3": "gmb",
+        "region_cca2": null,
+        "osm_id": 9266279,
+        "osm_place_id": 283326580,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Jarra East",
+        "name_eng": "Jarra East",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q617233",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gm",
+        "country_cca3": "gmb",
+        "region_cca2": null,
+        "osm_id": 9266277,
+        "osm_place_id": 283098966,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Jarra West",
+        "name_eng": "Jarra West",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1572209",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gm",
+        "country_cca3": "gmb",
+        "region_cca2": null,
+        "osm_id": 9256973,
+        "osm_place_id": 283044347,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Jimara",
+        "name_eng": "Jimara",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gm",
+        "country_cca3": "gmb",
+        "region_cca2": null,
+        "osm_id": 9264745,
+        "osm_place_id": 283205979,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Jokadu",
+        "name_eng": "Jokadu",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1572430",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gm",
+        "country_cca3": "gmb",
+        "region_cca2": null,
+        "osm_id": 7224995,
+        "osm_place_id": 282921005,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Kanifing",
+        "name_eng": "Kanifing",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q277397",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gm",
+        "country_cca3": "gmb",
+        "region_cca2": null,
+        "osm_id": 3774959,
+        "osm_place_id": 282541046,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Kanifing",
+        "name_eng": "Kanifing Municipal Council",
+        "name_translations": {
+            "en": "Kanifing Municipal Council"
+        },
+        "extra": {
+            "wikidata": "Q277397",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gm",
+        "country_cca3": "gmb",
+        "region_cca2": null,
+        "osm_id": 9256976,
+        "osm_place_id": 283046306,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Kantora",
+        "name_eng": "Kantora",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q611397",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gm",
+        "country_cca3": "gmb",
+        "region_cca2": null,
+        "osm_id": 3214213,
+        "osm_place_id": 282949878,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Kerewan",
+        "name_eng": "Kerewan",
+        "name_translations": {
+            "en": "Kerewan"
+        },
+        "extra": {
+            "wikidata": "Q2756511",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gm",
+        "country_cca3": "gmb",
+        "region_cca2": null,
+        "osm_id": 9266275,
+        "osm_place_id": 283081071,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Kiang Central",
+        "name_eng": "Kiang Central",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1572242",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gm",
+        "country_cca3": "gmb",
+        "region_cca2": null,
+        "osm_id": 9266276,
+        "osm_place_id": 283047803,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Kiang East",
+        "name_eng": "Kiang East",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1572748",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gm",
+        "country_cca3": "gmb",
+        "region_cca2": null,
+        "osm_id": 9266274,
+        "osm_place_id": 283046979,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Kiang West",
+        "name_eng": "Kiang West",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1572726",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gm",
+        "country_cca3": "gmb",
+        "region_cca2": null,
+        "osm_id": 4124224,
+        "osm_place_id": 282565510,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Kuntaur",
+        "name_eng": "Kuntaur",
+        "name_translations": {
+            "ar": "\u0643\u0648\u0646\u062a\u0648\u0631",
+            "en": "Kuntaur",
+            "ur": "\u06a9\u0648\u0646\u062a\u0627\u0648\u0631"
+        },
+        "extra": {
+            "wikidata": "Q2756380",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gm",
+        "country_cca3": "gmb",
+        "region_cca2": null,
+        "osm_id": 9260288,
+        "osm_place_id": 283044914,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Lower Badibu",
+        "name_eng": "Lower Badibu",
+        "name_translations": {
+            "en": "Lower Badibu"
+        },
+        "extra": {
+            "wikidata": "Q1572733",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gm",
+        "country_cca3": "gmb",
+        "region_cca2": null,
+        "osm_id": 9260144,
+        "osm_place_id": 283042544,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Lower Fuladu West",
+        "name_eng": "Lower Fuladu West",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gm",
+        "country_cca3": "gmb",
+        "region_cca2": null,
+        "osm_id": 9264743,
+        "osm_place_id": 283206839,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Lower Niumi",
+        "name_eng": "Lower Niumi",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q915733",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gm",
+        "country_cca3": "gmb",
+        "region_cca2": "GM-L",
+        "osm_id": 7224885,
+        "osm_place_id": 282875016,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Lower River",
+        "name_eng": "Lower River",
+        "name_translations": {
+            "de": "Lower River Region",
+            "en": "Lower River",
+            "es": "Divisi\u00f3n Lower River",
+            "fr": "Division de Lower River"
+        },
+        "extra": {
+            "wikidata": "Q824421",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gm",
+        "country_cca3": "gmb",
+        "region_cca2": null,
+        "osm_id": 9260136,
+        "osm_place_id": 283045925,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Lower Saloum",
+        "name_eng": "Lower Saloum",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1572755",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gm",
+        "country_cca3": "gmb",
+        "region_cca2": null,
+        "osm_id": 3214212,
+        "osm_place_id": 282389629,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Mansakonko",
+        "name_eng": "Mansakonko",
+        "name_translations": {
+            "en": "Mansakonko"
+        },
+        "extra": {
+            "wikidata": "Q2756523",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gm",
+        "country_cca3": "gmb",
+        "region_cca2": null,
+        "osm_id": 9260142,
+        "osm_place_id": 283110210,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Niamina Dankunku",
+        "name_eng": "Niamina Dankunku",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1572217",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gm",
+        "country_cca3": "gmb",
+        "region_cca2": null,
+        "osm_id": 9260143,
+        "osm_place_id": 283534898,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Niamina East",
+        "name_eng": "Niamina East",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1626738",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gm",
+        "country_cca3": "gmb",
+        "region_cca2": null,
+        "osm_id": 9260141,
+        "osm_place_id": 283325892,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Niamina West",
+        "name_eng": "Niamina West",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1572232",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gm",
+        "country_cca3": "gmb",
+        "region_cca2": null,
+        "osm_id": 9260139,
+        "osm_place_id": 283097657,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Niani",
+        "name_eng": "Niani",
+        "name_translations": {
+            "ar": "\u0646\u064a\u0627\u0646\u064a",
+            "en": "Niani"
+        },
+        "extra": {
+            "wikidata": "Q1572266",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gm",
+        "country_cca3": "gmb",
+        "region_cca2": null,
+        "osm_id": 9260138,
+        "osm_place_id": 283047210,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Nianija",
+        "name_eng": "Nianija",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1572202",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gm",
+        "country_cca3": "gmb",
+        "region_cca2": "GM-N",
+        "osm_id": 7224886,
+        "osm_place_id": 283204976,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "North Bank",
+        "name_eng": "North Bank",
+        "name_translations": {
+            "en": "North Bank",
+            "es": "Divisi\u00f3n North Bank",
+            "fr": "Division de North Bank"
+        },
+        "extra": {
+            "wikidata": "Q846161",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gm",
+        "country_cca3": "gmb",
+        "region_cca2": null,
+        "osm_id": 9260291,
+        "osm_place_id": 283045973,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Sabach Sanjal",
+        "name_eng": "Sabach Sanjal",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gm",
+        "country_cca3": "gmb",
+        "region_cca2": null,
+        "osm_id": 9260140,
+        "osm_place_id": 283331332,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Sami",
+        "name_eng": "Sami",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q728332",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gm",
+        "country_cca3": "gmb",
+        "region_cca2": null,
+        "osm_id": 9258278,
+        "osm_place_id": 283046684,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Sandu",
+        "name_eng": "Sandu",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1136959",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gm",
+        "country_cca3": "gmb",
+        "region_cca2": null,
+        "osm_id": 9256975,
+        "osm_place_id": 283080143,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Tumana",
+        "name_eng": "Tumana",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gm",
+        "country_cca3": "gmb",
+        "region_cca2": null,
+        "osm_id": 9258623,
+        "osm_place_id": 283110122,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Upper Fuladu West",
+        "name_eng": "Upper Fuladu West",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gm",
+        "country_cca3": "gmb",
+        "region_cca2": null,
+        "osm_id": 9264744,
+        "osm_place_id": 283373153,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Upper Niumi",
+        "name_eng": "Upper Niumi",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1572223",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gm",
+        "country_cca3": "gmb",
+        "region_cca2": "GM-U",
+        "osm_id": 7224884,
+        "osm_place_id": 282867338,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Upper River",
+        "name_eng": "Upper River",
+        "name_translations": {
+            "en": "Upper River",
+            "es": "Divisi\u00f3n Upper River",
+            "fr": "Division de Upper River"
+        },
+        "extra": {
+            "wikidata": "Q824373",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gm",
+        "country_cca3": "gmb",
+        "region_cca2": null,
+        "osm_id": 9260137,
+        "osm_place_id": 283080598,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Upper Saloum",
+        "name_eng": "Upper Saloum",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1554897",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gm",
+        "country_cca3": "gmb",
+        "region_cca2": "GM-W",
+        "osm_id": 7224888,
+        "osm_place_id": 282863177,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "West Coast",
+        "name_eng": "West Coast",
+        "name_translations": {
+            "en": "West Coast",
+            "es": "Divisi\u00f3n Western",
+            "fr": "Division de West Coast"
+        },
+        "extra": {
+            "wikidata": "Q846158",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gm",
+        "country_cca3": "gmb",
+        "region_cca2": null,
+        "osm_id": 9258280,
+        "osm_place_id": 283331166,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Wuli East",
+        "name_eng": "Wuli East",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gm",
+        "country_cca3": "gmb",
+        "region_cca2": null,
+        "osm_id": 9258279,
+        "osm_place_id": 283097407,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Wuli West",
+        "name_eng": "Wuli West",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    }
+]

@@ -1,0 +1,509 @@
+[
+    {
+        "country_cca2": "gn",
+        "country_cca3": "gin",
+        "region_cca2": "GN-BE",
+        "osm_id": 3401811,
+        "osm_place_id": 282721757,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Beyla",
+        "name_eng": "Beyla Prefecture",
+        "name_translations": {
+            "en": "Beyla Prefecture",
+            "fr": "Pr\u00e9fecture de Beyla"
+        },
+        "extra": {
+            "wikidata": "Q853169",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gn",
+        "country_cca3": "gin",
+        "region_cca2": "GN-B",
+        "osm_id": 3309644,
+        "osm_place_id": 282761947,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Bok\u00e9",
+        "name_eng": "Bok\u00e9",
+        "name_translations": {
+            "ar": "\u0628\u0648\u0643\u064a",
+            "fr": "Bok\u00e9",
+            "ru": "\u0411\u043e\u043a\u0435"
+        },
+        "extra": {
+            "wikidata": "Q862611",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gn",
+        "country_cca3": "gin",
+        "region_cca2": "GN-C",
+        "osm_id": 3731500,
+        "osm_place_id": 282450885,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Conakry",
+        "name_eng": "Conakry",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q3733",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gn",
+        "country_cca3": "gin",
+        "region_cca2": null,
+        "osm_id": 12286515,
+        "osm_place_id": 283611177,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Dinguiraye",
+        "name_eng": "Dinguiraye",
+        "name_translations": {
+            "fr": "Dinguiraye"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gn",
+        "country_cca3": "gin",
+        "region_cca2": "GN-F",
+        "osm_id": 3403910,
+        "osm_place_id": 282860781,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Faranah",
+        "name_eng": "Faranah",
+        "name_translations": {
+            "fr": "Faranah",
+            "ru": "\u0424\u0430\u0440\u0430\u043d\u0430"
+        },
+        "extra": {
+            "wikidata": "Q870166",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gn",
+        "country_cca3": "gin",
+        "region_cca2": "GN-GU",
+        "osm_id": 3401661,
+        "osm_place_id": 282530019,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Gu\u00e9ck\u00e9dou",
+        "name_eng": "Gu\u00e9ck\u00e9dou Prefecture",
+        "name_translations": {
+            "en": "Gu\u00e9ck\u00e9dou Prefecture",
+            "fr": "Pr\u00e9fecture de Gu\u00e9ck\u00e9dou",
+            "lt": "Guekedu prefekt\u016bra"
+        },
+        "extra": {
+            "wikidata": "Q623142",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gn",
+        "country_cca3": "gin",
+        "region_cca2": null,
+        "osm_id": 500950271,
+        "osm_place_id": null,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "\u00cele Alcatraz",
+        "name_eng": "\u00cele Alcatraz",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q24853848"
+        }
+    },
+    {
+        "country_cca2": "gn",
+        "country_cca3": "gin",
+        "region_cca2": null,
+        "osm_id": 500950270,
+        "osm_place_id": null,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Ile du Naufrage",
+        "name_eng": "Ile du Naufrage",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q24848380"
+        }
+    },
+    {
+        "country_cca2": "gn",
+        "country_cca3": "gin",
+        "region_cca2": "GN-K",
+        "osm_id": 3403911,
+        "osm_place_id": 282609504,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Kankan",
+        "name_eng": "Kankan",
+        "name_translations": {
+            "ar": "\u0643\u0627\u0646\u0643\u0627\u0646",
+            "fr": "Kankan",
+            "ur": "\u06a9\u0627\u0646\u06a9\u0627\u0646"
+        },
+        "extra": {
+            "wikidata": "Q870191",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gn",
+        "country_cca3": "gin",
+        "region_cca2": "GN-D",
+        "osm_id": 3309805,
+        "osm_place_id": 282434055,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Kindia",
+        "name_eng": "Kindia",
+        "name_translations": {
+            "ar": "\u0643\u0646\u062f\u064a\u0627",
+            "fr": "Kindia"
+        },
+        "extra": {
+            "wikidata": "Q868520",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gn",
+        "country_cca3": "gin",
+        "region_cca2": "GN-L",
+        "osm_id": 3308839,
+        "osm_place_id": 282436879,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Lab\u00e9",
+        "name_eng": "Lab\u00e9",
+        "name_translations": {
+            "fr": "Lab\u00e9",
+            "ru": "\u041b\u0430\u0431\u0435"
+        },
+        "extra": {
+            "wikidata": "Q868515",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gn",
+        "country_cca3": "gin",
+        "region_cca2": "GN-LO",
+        "osm_id": 3402447,
+        "osm_place_id": 282450254,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Lola",
+        "name_eng": "Lola Prefecture",
+        "name_translations": {
+            "en": "Lola Prefecture",
+            "fr": "Pr\u00e9fecture de Lola"
+        },
+        "extra": {
+            "wikidata": "Q623145",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gn",
+        "country_cca3": "gin",
+        "region_cca2": "GN-MC",
+        "osm_id": 3401335,
+        "osm_place_id": 282478054,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Macenta",
+        "name_eng": "Macenta Prefecture",
+        "name_translations": {
+            "en": "Macenta Prefecture",
+            "fr": "Pr\u00e9fecture de Macenta"
+        },
+        "extra": {
+            "wikidata": "Q949332",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gn",
+        "country_cca3": "gin",
+        "region_cca2": "GN-M",
+        "osm_id": 3308938,
+        "osm_place_id": 282394318,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Mamou",
+        "name_eng": "Mamou",
+        "name_translations": {
+            "fr": "Mamou",
+            "ru": "\u041c\u0430\u043c\u0443"
+        },
+        "extra": {
+            "wikidata": "Q1043650",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gn",
+        "country_cca3": "gin",
+        "region_cca2": "GN-NZ",
+        "osm_id": 3402448,
+        "osm_place_id": 282455573,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Nz\u00e9r\u00e9kor\u00e9",
+        "name_eng": "Nz\u00e9r\u00e9kor\u00e9 Prefecture",
+        "name_translations": {
+            "ar": "\u0627\u0646\u0632\u064a\u0631\u064a\u0643\u0631\u064a",
+            "en": "Nz\u00e9r\u00e9kor\u00e9 Prefecture",
+            "fr": "Pr\u00e9fecture de Nz\u00e9r\u00e9kor\u00e9",
+            "ur": "\u0646\u0632\u06cc\u0631\u06cc\u06a9\u0648\u0631\u06d2"
+        },
+        "extra": {
+            "wikidata": "Q1471203",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gn",
+        "country_cca3": "gin",
+        "region_cca2": "GN-N",
+        "osm_id": 3399113,
+        "osm_place_id": 282485697,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Nz\u00e9r\u00e9kor\u00e9",
+        "name_eng": "Nz\u00e9r\u00e9kor\u00e9",
+        "name_translations": {
+            "ar": "\u0627\u0646\u0632\u064a\u0631\u064a\u0643\u0631\u064a",
+            "fr": "Nz\u00e9r\u00e9kor\u00e9",
+            "ur": "\u0646\u0632\u06cc\u0631\u06cc\u06a9\u0648\u0631\u06d2"
+        },
+        "extra": {
+            "wikidata": "Q870146",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gn",
+        "country_cca3": "gin",
+        "region_cca2": "GN-DL",
+        "osm_id": 3214322,
+        "osm_place_id": 282457901,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Pr\u00e9fecture de Dalaba",
+        "name_eng": "Dalaba Prefecture",
+        "name_translations": {
+            "en": "Dalaba Prefecture",
+            "fr": "Pr\u00e9fecture de Dalaba"
+        },
+        "extra": {
+            "wikidata": "Q623302",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gn",
+        "country_cca3": "gin",
+        "region_cca2": "GN-GA",
+        "osm_id": 3308997,
+        "osm_place_id": 282706199,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Pr\u00e9fecture de Gaoual",
+        "name_eng": "Gaoual Prefecture",
+        "name_translations": {
+            "en": "Gaoual Prefecture",
+            "fr": "Pr\u00e9fecture de Gaoual"
+        },
+        "extra": {
+            "wikidata": "Q614669",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gn",
+        "country_cca3": "gin",
+        "region_cca2": "GN-KB",
+        "osm_id": 3308836,
+        "osm_place_id": 282639381,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Pr\u00e9fecture de Koubia",
+        "name_eng": "Koubia Prefecture",
+        "name_translations": {
+            "en": "Koubia Prefecture",
+            "fr": "Pr\u00e9fecture de Koubia"
+        },
+        "extra": {
+            "wikidata": "Q623409",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gn",
+        "country_cca3": "gin",
+        "region_cca2": "GN-KN",
+        "osm_id": 3309030,
+        "osm_place_id": 282435900,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Pr\u00e9fecture de Koundara",
+        "name_eng": "Koundara Prefecture",
+        "name_translations": {
+            "en": "Koundara Prefecture",
+            "fr": "Pr\u00e9fecture de Koundara"
+        },
+        "extra": {
+            "wikidata": "Q1781312",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gn",
+        "country_cca3": "gin",
+        "region_cca2": "GN-KO",
+        "osm_id": 3839724,
+        "osm_place_id": 282467463,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Pr\u00e9fecture de Kouroussa",
+        "name_eng": "Kouroussa Prefecture",
+        "name_translations": {
+            "en": "Kouroussa Prefecture",
+            "fr": "Pr\u00e9fecture de Kouroussa"
+        },
+        "extra": {
+            "wikidata": "Q1471573",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gn",
+        "country_cca3": "gin",
+        "region_cca2": "GN-LA",
+        "osm_id": 3308837,
+        "osm_place_id": 282595660,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Pr\u00e9fecture de Lab\u00e9",
+        "name_eng": "Lab\u00e9 Prefecture",
+        "name_translations": {
+            "en": "Lab\u00e9 Prefecture",
+            "fr": "Pr\u00e9fecture de Lab\u00e9"
+        },
+        "extra": {
+            "wikidata": "Q1781303",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gn",
+        "country_cca3": "gin",
+        "region_cca2": "GN-LE",
+        "osm_id": 3308838,
+        "osm_place_id": 282761581,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Pr\u00e9fecture de Lelouma",
+        "name_eng": "Lelouma Prefecture",
+        "name_translations": {
+            "en": "Lelouma Prefecture",
+            "fr": "Pr\u00e9fecture de Lelouma"
+        },
+        "extra": {
+            "wikidata": "Q253661",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gn",
+        "country_cca3": "gin",
+        "region_cca2": "GN-ML",
+        "osm_id": 3212273,
+        "osm_place_id": 282751490,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Pr\u00e9fecture de Mali",
+        "name_eng": "Mali Prefecture",
+        "name_translations": {
+            "en": "Mali Prefecture",
+            "fr": "Pr\u00e9fecture de Mali"
+        },
+        "extra": {
+            "wikidata": "Q1781017",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gn",
+        "country_cca3": "gin",
+        "region_cca2": "GN-PI",
+        "osm_id": 3308937,
+        "osm_place_id": 282435780,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Pr\u00e9fecture de Pita",
+        "name_eng": "Pita Prefecture",
+        "name_translations": {
+            "en": "Pita Prefecture",
+            "fr": "Pr\u00e9fecture de Pita"
+        },
+        "extra": {
+            "wikidata": "Q736507",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gn",
+        "country_cca3": "gin",
+        "region_cca2": "GN-TO",
+        "osm_id": 3214784,
+        "osm_place_id": 282751725,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Pr\u00e9fecture de Tougu\u00e9",
+        "name_eng": "Tougu\u00e9 Prefecture",
+        "name_translations": {
+            "en": "Tougu\u00e9 Prefecture",
+            "fr": "Pr\u00e9fecture de Tougu\u00e9"
+        },
+        "extra": {
+            "wikidata": "Q1432094",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gn",
+        "country_cca3": "gin",
+        "region_cca2": "GN-YO",
+        "osm_id": 3400656,
+        "osm_place_id": 282606316,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Yomou",
+        "name_eng": "Yomou Prefecture",
+        "name_translations": {
+            "en": "Yomou Prefecture",
+            "fr": "Pr\u00e9fecture de Yomou"
+        },
+        "extra": {
+            "wikidata": "Q623139",
+            "un_locode": null
+        }
+    }
+]

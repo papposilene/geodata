@@ -1,0 +1,385 @@
+[
+    {
+        "country_cca2": "no",
+        "country_cca3": "nor",
+        "region_cca2": null,
+        "osm_id": 10155517,
+        "osm_place_id": 283127513,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Agder",
+        "name_eng": "Agder",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2729021",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "no",
+        "country_cca3": "nor",
+        "region_cca2": null,
+        "osm_id": 2425963,
+        "osm_place_id": 282296265,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Bouvet\u00f8ya",
+        "name_eng": "Bouvet Island",
+        "name_translations": {
+            "ar": "\u062c\u0632\u064a\u0631\u0629 \u0628\u0648\u0641\u064a\u0647",
+            "da": "Bouvet\u00f8en",
+            "de": "Bouvetinsel",
+            "en": "Bouvet Island",
+            "eo": "Buvet-Insulo",
+            "fa": "\u062c\u0632\u06cc\u0631\u0647 \u0628\u0648\u0648\u0647",
+            "fr": "\u00cele Bouvet",
+            "hr": "Otok Bouvet",
+            "mk": "\u0411\u0443\u0432\u0435",
+            "ur": "\u062c\u0632\u06cc\u0631\u06c1 \u0628\u0648\u0648\u06c1"
+        },
+        "extra": {
+            "wikidata": "Q23408",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "no",
+        "country_cca3": "nor",
+        "region_cca2": null,
+        "osm_id": 10155527,
+        "osm_place_id": 283458763,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Innlandet",
+        "name_eng": "Innlandet",
+        "name_translations": {
+            "ps": "\u0627\u064a\u0646\u0644\u0627\u0646\u0647"
+        },
+        "extra": {
+            "wikidata": "Q56404886",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "no",
+        "country_cca3": "nor",
+        "region_cca2": "NO-22",
+        "osm_id": 1337126,
+        "osm_place_id": 282202027,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Jan Mayen",
+        "name_eng": "Jan Mayen",
+        "name_translations": {
+            "ar": "\u064a\u0627\u0646 \u0645\u0627\u064a\u0646",
+            "be": "\u0412\u043e\u0441\u0442\u0440\u0430\u045e \u042f\u043d-\u041c\u0430\u0435\u043d",
+            "bg": "\u042f\u043d \u041c\u0430\u0439\u0435\u043d",
+            "el": "\u0393\u03b9\u03b1\u03bd \u039c\u03b1\u03b3\u03b9\u03ad\u03bd",
+            "eo": "Janmajeno",
+            "fa": "\u06cc\u0627\u0646 \u0645\u0627\u06cc\u0646",
+            "fr": "\u00cele Jan Mayen",
+            "he": "\u05d9\u05d0\u05df \u05de\u05d0\u05d9\u05d9\u05df",
+            "hi": "\u092f\u093e\u0928 \u092e\u093e\u092f\u0947\u0928",
+            "hu": "Jan Mayen-sziget",
+            "ja": "\u30e4\u30f3\u30de\u30a4\u30a8\u30f3\u5cf6",
+            "ka": "\u10d8\u10d0\u10dc-\u10db\u10d0\u10d8\u10d4\u10dc\u10d8",
+            "ko": "\uc580\ub9c8\uc60c \uc12c",
+            "lt": "Jan Majenas",
+            "lv": "Jana Majena sala",
+            "mr": "\u092f\u093e\u0928 \u092e\u093e\u092f\u0947\u0928",
+            "no": "Jan Mayen",
+            "os": "\u042f\u043d-\u041c\u0430\u0439\u0435\u043d",
+            "ro": "Insula Jan Mayen",
+            "ru": "\u042f\u043d-\u041c\u0430\u0439\u0435\u043d",
+            "sr": "\u0408\u0430\u043d \u041c\u0430\u0458\u0435\u043d",
+            "th": "\u0e22\u0e32\u0e19\u0e44\u0e21\u0e40\u0e2d\u0e19",
+            "uk": "\u042f\u043d-\u041c\u0430\u0454\u043d",
+            "ur": "\u062c\u0627\u0646 \u0645\u0627\u06cc\u0646",
+            "zh": "\u63da\u99ac\u5ef6\u5cf6"
+        },
+        "extra": {
+            "wikidata": "Q14056",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "no",
+        "country_cca3": "nor",
+        "region_cca2": null,
+        "osm_id": 406868,
+        "osm_place_id": 282038388,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "M\u00f8re og Romsdal",
+        "name_eng": "M\u00f8re og Romsdal",
+        "name_translations": {
+            "de": "M\u00f6re und Romsdal",
+            "en": "M\u00f8re og Romsdal",
+            "ru": "\u041c\u0451\u0440\u0435-\u043e\u0433-\u0420\u043e\u043c\u0441\u0434\u0430\u043b",
+            "sma": "M\u00f6re j\u00efh Romsdaelie"
+        },
+        "extra": {
+            "wikidata": "Q50627",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "no",
+        "country_cca3": "nor",
+        "region_cca2": null,
+        "osm_id": 408105,
+        "osm_place_id": 282274167,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Nordland",
+        "name_eng": "Nordland",
+        "name_translations": {
+            "en": "Nordland",
+            "fi": "Nordlandin l\u00e4\u00e4ni",
+            "ru": "\u041d\u0443\u0440\u043b\u0430\u043d\u043d",
+            "se": "Nordl\u00e1nda",
+            "sma": "Nordlaante",
+            "smj": "Nordl\u00e1nnda"
+        },
+        "extra": {
+            "wikidata": "Q50630",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "no",
+        "country_cca3": "nor",
+        "region_cca2": "NO-03",
+        "osm_id": 406091,
+        "osm_place_id": 282428476,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Oslo",
+        "name_eng": "Oslo",
+        "name_translations": {
+            "en": "Oslo",
+            "eo": "Oslo",
+            "ko": "\uc624\uc2ac\ub85c",
+            "pt": "Oslo",
+            "ru": "\u041e\u0441\u043b\u043e"
+        },
+        "extra": {
+            "wikidata": "Q585",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "no",
+        "country_cca3": "nor",
+        "region_cca2": null,
+        "osm_id": 405836,
+        "osm_place_id": 282128366,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Rogaland",
+        "name_eng": "Rogaland",
+        "name_translations": {
+            "ar": "\u0631\u0648\u063a\u0627\u0644\u0627\u0646\u062f",
+            "en": "Rogaland",
+            "ru": "\u0420\u0443\u0433\u0430\u043b\u0430\u043d\u043d"
+        },
+        "extra": {
+            "wikidata": "Q50624",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "no",
+        "country_cca3": "nor",
+        "region_cca2": "NO-21",
+        "osm_id": 1337397,
+        "osm_place_id": 282424826,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Svalbard",
+        "name_eng": "Svalbard",
+        "name_translations": {
+            "af": "Svalbard en Jan Mayen",
+            "am": "\u1235\u126b\u120d\u1263\u122d\u12f5 \u12a5\u1293 \u1303\u1295 \u121b\u12e8\u1295",
+            "ar": "\u0633\u0641\u0627\u0644\u0628\u0627\u0631\u062f",
+            "az": "svalbard v\u0259 yan mayen",
+            "be": "\u0428\u043f\u0456\u0446\u0431\u0435\u0440\u0433\u0435\u043d",
+            "bg": "\u0421\u0432\u0430\u043b\u0431\u0430\u0440\u0434 \u0438 \u042f\u043d \u041c\u0430\u0439\u0435\u043d",
+            "bn": "\u09b8\u09cd\u09ac\u09be\u09b2\u09ac\u09be\u09b0\u09cd\u09a1 \u0993 \u099c\u09be\u09a8 \u09ae\u09c7\u09af\u09bc\u09c7\u09a8",
+            "br": "Svalbard ha Jan Mayen",
+            "bs": "Svalbard i Janmajen Ostrva",
+            "ca": "Svalbard i Jan Mayen",
+            "cs": "\u0160picberky",
+            "cy": "Svalbard a Jan Mayen",
+            "da": "Svalbard og Jan Mayen",
+            "de": "Spitzbergen",
+            "dz": "\u0f66\u0fad\u0f71\u0f63\u0f0b\u0f56\u0fb7\u0f62\u0fa1\u0f0b \u0f68\u0f7a\u0f53\u0f4c\u0f0b \u0f47\u0f71\u0f53\u0f0b\u0f58\u0f0b\u0f61\u0f7a\u0f53",
+            "ee": "Svalbard kple Yan Mayen nutome",
+            "el": "\u039d\u03ae\u03c3\u03bf\u03b9 \u03a3\u03b2\u03ac\u03bb\u03bc\u03c0\u03b1\u03c1\u03bd\u03c4 \u03ba\u03b1\u03b9 \u0393\u03b9\u03b1\u03bd \u039c\u03ac\u03b3\u03b5\u03bd",
+            "en": "Svalbard",
+            "eo": "Svalbardo",
+            "es": "Svalbard",
+            "et": "Teravm\u00e4ed",
+            "eu": "Svalbard eta Jan Mayen uharteak",
+            "fa": "\u0627\u0633\u0648\u0627\u0644\u0628\u0627\u0631\u062f \u0648 \u062c\u0627\u0646\u200c\u0645\u0627\u06cc\u0646",
+            "fi": "Svalbard ja Jan Mayen",
+            "fo": "Svalbard og Jan Mayen",
+            "fr": "Svalbard et \u00cele Jan Mayen",
+            "fy": "Spitsbergen",
+            "ga": "Svalbard agus Jan Mayen",
+            "gd": "Svalbard is Jan Mayen",
+            "gl": "Svalbard e Jan Mayen",
+            "gu": "\u0ab8\u0acd\u0ab5\u0abe\u0ab2\u0aac\u0ab0\u0acd\u0aa1 \u0a8f\u0a82\u0aa1 \u0a9c\u0ac7\u0aa8 \u0aae\u0ac7\u0aaf\u0aa8",
+            "he": "\u05e1\u05d5\u05d5\u05dc\u05d1\u05d0\u05e8\u05d3 \u05d5\u05d6\u05f3\u05d0\u05df \u05de\u05d0\u05d9\u05d9\u05df",
+            "hi": "\u0938\u094d\u0935\u093e\u0932\u092c\u0930\u094d\u0921 \u0914\u0930 \u091c\u093e\u0928 \u092e\u093e\u092f\u0947\u0928",
+            "hr": "Svalbard i Jan Mayen",
+            "hu": "Spitzberg\u00e1k",
+            "id": "Kepulauan Svalbard dan Jan Mayen",
+            "is": "Svalbar\u00f0i og Jan Mayen",
+            "it": "Svalbard",
+            "ja": "\u30b9\u30d0\u30fc\u30eb\u30d0\u30eb\u8af8\u5cf6\u30fb\u30e4\u30f3\u30de\u30a4\u30a8\u30f3\u5cf6",
+            "kl": "Svalbard aamma Jan Mayen",
+            "km": "\u179f\u17d2\u179c\u17b6\u1794\u17ca\u17ba\u178f \u1793\u17b7\u1784\u200b\u17a0\u17d2\u1799\u1784\u17cb\u1798\u17c9\u17b6\u1799\u17c1\u1793",
+            "kn": "\u0cb8\u0ccd\u0cb5\u0cbe\u0cb2\u0ccd\u0cac\u0cbe\u0cb0\u0ccd\u0ca1\u0ccd \u0cae\u0ca4\u0ccd\u0ca4\u0cc1 \u0c9c\u0cbe\u0ca8\u0ccd \u0cae\u0cbe\u0caf\u0cc6\u0ca8\u0ccd",
+            "ko": "\uc2a4\ubc1c\ubc14\ub974\uc81c\ub3c4-\uc580\ub9c8\uc6ec\uc12c",
+            "ks": "\u0633\u064e\u0648\u0627\u0644\u0628\u0631\u06cc\u0691 \u062a\u06c1\u0655 \u062c\u0627\u0646 \u0645\u0627\u06cc\u06cc\u0691",
+            "ln": "Svalbard mp\u00e9 Jan Mayen",
+            "lo": "\u0eaa\u0eb0\u0ea7\u0eb2\u0e9a\u0eb2\u0e94\u0ec1\u0ea5\u0eb0\u0e8d\u0eb2\u0e99\u0ec0\u0ea1\u0ec0\u0ea2\u0e99",
+            "lt": "Svalbardas",
+            "lv": "Svalb\u0101ra un Jana Majena sala",
+            "mk": "\u0421\u0432\u0430\u043b\u0431\u0430\u0440\u0434 \u0438 \u0416\u0430\u043d \u041c\u0435\u0458\u0435\u043d",
+            "ml": "\u0d38\u0d4d\u0d35\u0d3e\u0d7d\u0d2c\u0d3e\u0d21\u0d41\u0d02 \u0d1c\u0d3e\u0d7b \u0d2e\u0d3e\u0d2f\u0d47\u0d28\u0d41\u0d02",
+            "mr": "\u0938\u094d\u0935\u093e\u0932\u092c\u0930\u094d\u0921 \u0906\u0923\u093f \u091c\u093e\u0928 \u092e\u093e\u092f\u0947\u0928",
+            "ms": "Svalbard and Jan Mayen",
+            "mt": "Svalbard and Jan Mayen",
+            "ne": "\u0938\u092d\u093e\u0932\u094d\u092c\u093e\u0930\u094d\u0921 \u0930 \u091c\u093e\u0928 \u092e\u093e\u092f\u0947\u0928",
+            "nl": "Spitsbergen",
+            "nn": "Svalbard og Jan Mayen",
+            "no": "Svalbard og Jan Mayen",
+            "or": "\u0b38\u0b3e\u0b32\u0b4d\u0b2d\u0b3e\u0b30\u0b4d\u0b21 \u0b0f\u0b2c\u0b02 \u0b1c\u0b3e\u0b28\u0b4d \u0b2e\u0b3e\u0b5f\u0b4b\u0b28\u0b4d",
+            "pl": "Svalbard i Jan Mayen",
+            "ps": "\u0633\u0648\u0627\u0644\u0628\u0631\u062f",
+            "pt": "Esvalbarda",
+            "rm": "Svalbard e Jan Mayen",
+            "ro": "Svalbard \u0219i Jan Mayen",
+            "ru": "\u0428\u043f\u0438\u0446\u0431\u0435\u0440\u0433\u0435\u043d",
+            "se": "Svalb\u00e1rda ja Jan Mayen",
+            "si": "\u0dc3\u0dca\u0dc0\u0dd9\u0dbd\u0dca\u0db6\u0dbb\u0dca\u0da9\u0dca \u0dc3\u0dc4 \u0da2\u0dda\u0db1\u0dca \u0db8\u0dba\u0ddd\u0db1\u0dca",
+            "sk": "\u0160picbergy a Jan Mayen",
+            "sl": "Svalbard in Jan Mayen",
+            "sr": "\u0421\u0432\u0430\u043b\u0431\u0430\u0440\u0434",
+            "sv": "Svalbard",
+            "sw": "Svalbard na Jan Mayen",
+            "ta": "\u0bb8\u0bcd\u0bb5\u0bb2\u0bcd\u0baa\u0bbe\u0bb0\u0bcd\u0b9f\u0bc1 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b9c\u0bbe\u0ba9\u0bcd \u0bae\u0bc7\u0baf\u0ba9\u0bcd",
+            "te": "\u0c38\u0c4d\u0c35\u0c3e\u0c32\u0c4d\u0c2c\u0c3e\u0c30\u0c4d\u0c21\u0c4d \u0c2e\u0c30\u0c3f\u0c2f\u0c41 \u0c2f\u0c3e\u0c28\u0c4d \u0c2e\u0c3e\u0c2f\u0c47\u0c28\u0c4d",
+            "th": "\u0e2a\u0e1f\u0e32\u0e25\u0e1a\u0e32\u0e23\u0e4c\u0e41\u0e25\u0e30\u0e22\u0e32\u0e19\u0e44\u0e21\u0e40\u0e2d\u0e19",
+            "ti": "\u12e8\u1235\u126b\u120d\u1263\u122d\u12f5 \u12a5\u1293 \u12e3\u1295 \u121b\u12e8\u1295 \u12f0\u1234\u1276\u127d",
+            "to": "Sivolopaati mo Seni Meini",
+            "tr": "Svalbard ve Jan Mayen Adalar\u0131",
+            "uk": "\u0428\u043f\u0456\u0446\u0431\u0435\u0440\u0433\u0435\u043d",
+            "ur": "\u0633\u0648\u0627\u0644\u0628\u0631\u0688 \u0627\u0648\u0631 \u062c\u0627\u0646 \u0645\u0627\u06cc\u0646",
+            "vi": "Svalbard v\u00e0 Jan Mayen",
+            "zh": "\u65af\u74e6\u5c14\u5df4\u7279\u548c\u626c\u9a6c\u5ef6",
+            "zu": "I-Svalbard ne-Jan Mayen",
+            "ast": "Svalbard ya Islla Jan Mayen",
+            "fur": "Svalbard e Jan Mayen",
+            "ksh": "de Enselle Svalbard un Jan Mayen",
+            "tzl": "Svalbard"
+        },
+        "extra": {
+            "wikidata": "Q25231",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "no",
+        "country_cca3": "nor",
+        "region_cca2": null,
+        "osm_id": 10155507,
+        "osm_place_id": 283183220,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Troms og Finnmark",
+        "name_eng": "Troms og Finnmark",
+        "name_translations": {
+            "se": "Romsa ja Finnm\u00e1rku",
+            "fkv": "Tromssa ja Finmarkku"
+        },
+        "extra": {
+            "wikidata": "Q52600648",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "no",
+        "country_cca3": "nor",
+        "region_cca2": null,
+        "osm_id": 406567,
+        "osm_place_id": 281959231,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Tr\u00f8ndelag",
+        "name_eng": "Tr\u00f8ndelag",
+        "name_translations": {
+            "de": "Tr\u00f6ndelag",
+            "en": "Tr\u00f8ndelag",
+            "nn": "Tr\u00f8ndelag",
+            "no": "Tr\u00f8ndelag",
+            "ps": "\u062a\u0631\u0648\u0646\u062f\u0644\u0627\u06ab",
+            "ru": "\u0422\u0440\u0451\u043d\u0434\u0435\u043b\u0430\u0433",
+            "sma": "Tr\u00f8ndel\u00e1ga"
+        },
+        "extra": {
+            "wikidata": "Q127676",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "no",
+        "country_cca3": "nor",
+        "region_cca2": null,
+        "osm_id": 10487008,
+        "osm_place_id": 283329458,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Vestfold og Telemark",
+        "name_eng": "Vestfold og Telemark",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q56405721",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "no",
+        "country_cca3": "nor",
+        "region_cca2": null,
+        "osm_id": 10155543,
+        "osm_place_id": 283169759,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Vestland",
+        "name_eng": "Vestland",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q56407177",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "no",
+        "country_cca3": "nor",
+        "region_cca2": null,
+        "osm_id": 10155539,
+        "osm_place_id": 283135600,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Viken",
+        "name_eng": "Viken",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q56407178",
+            "un_locode": null
+        }
+    }
+]

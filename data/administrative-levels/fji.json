@@ -1,0 +1,91 @@
+[
+    {
+        "country_cca2": "fj",
+        "country_cca3": "fji",
+        "region_cca2": null,
+        "osm_id": 4632579,
+        "osm_place_id": 282537784,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Central",
+        "name_eng": "Central",
+        "name_translations": {
+            "en": "Central"
+        },
+        "extra": {
+            "wikidata": "Q1053789",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "fj",
+        "country_cca3": "fji",
+        "region_cca2": null,
+        "osm_id": 4632580,
+        "osm_place_id": 282547513,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Eastern",
+        "name_eng": "Eastern",
+        "name_translations": {
+            "en": "Eastern"
+        },
+        "extra": {
+            "wikidata": "Q182169",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "fj",
+        "country_cca3": "fji",
+        "region_cca2": null,
+        "osm_id": 4632581,
+        "osm_place_id": 282600022,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Northern",
+        "name_eng": "Northern",
+        "name_translations": {
+            "en": "Northern"
+        },
+        "extra": {
+            "wikidata": "Q1062430",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "fj",
+        "country_cca3": "fji",
+        "region_cca2": "FJ-R",
+        "osm_id": 7223650,
+        "osm_place_id": 282842503,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Rotuma",
+        "name_eng": "Rotuma",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q459763",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "fj",
+        "country_cca3": "fji",
+        "region_cca2": null,
+        "osm_id": 4632582,
+        "osm_place_id": 282546543,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Western",
+        "name_eng": "Western",
+        "name_translations": {
+            "en": "Western",
+            "lt": "Vakarinis Fid\u017eio padalinys"
+        },
+        "extra": {
+            "wikidata": "Q1062451",
+            "un_locode": null
+        }
+    }
+]

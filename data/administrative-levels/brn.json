@@ -1,0 +1,394 @@
+[
+    {
+        "country_cca2": "bn",
+        "country_cca3": "brn",
+        "region_cca2": "BN-BE",
+        "osm_id": 3853884,
+        "osm_place_id": 282780557,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Belait",
+        "name_eng": "Belait District",
+        "name_translations": {
+            "de": "Belait",
+            "en": "Belait District",
+            "ja": "\u30d6\u30e9\u30a4\u30c8",
+            "ms": "Daerah Belait",
+            "zh": "\u9a6c\u62c9\u5955\u53bf"
+        },
+        "extra": {
+            "wikidata": "Q40395",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "bn",
+        "country_cca3": "brn",
+        "region_cca2": "BN-BM",
+        "osm_id": 3853885,
+        "osm_place_id": 282549495,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Brunei-Muara",
+        "name_eng": "Brunei-Muara District",
+        "name_translations": {
+            "de": "Brunei-Muara",
+            "en": "Brunei-Muara District",
+            "ja": "\u30d6\u30eb\u30cd\u30a4\u30fb\u30e0\u30a2\u30e9",
+            "ms": "Daerah Brunei-Muara",
+            "zh": "\u6587\u83b1\u6469\u62c9\u53bf"
+        },
+        "extra": {
+            "wikidata": "Q153009",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "bn",
+        "country_cca3": "brn",
+        "region_cca2": null,
+        "osm_id": 8737979,
+        "osm_place_id": 283527482,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Mukim Berakas A",
+        "name_eng": "Mukim Berakas A",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1952924",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "bn",
+        "country_cca3": "brn",
+        "region_cca2": null,
+        "osm_id": 8737970,
+        "osm_place_id": 283073396,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Mukim Berakas B",
+        "name_eng": "Mukim Berakas B",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2024412",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "bn",
+        "country_cca3": "brn",
+        "region_cca2": null,
+        "osm_id": 4197775,
+        "osm_place_id": 282553055,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Mukim Burong Pingai Ayer",
+        "name_eng": "Mukim Burong Pingai Ayer",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2024423",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "bn",
+        "country_cca3": "brn",
+        "region_cca2": null,
+        "osm_id": 8737907,
+        "osm_place_id": 283003721,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Mukim Gadong A",
+        "name_eng": "Mukim Gadong A",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2364102",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "bn",
+        "country_cca3": "brn",
+        "region_cca2": null,
+        "osm_id": 8737931,
+        "osm_place_id": 283172833,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Mukim Gadong B",
+        "name_eng": "Mukim Gadong B",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q3866969",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "bn",
+        "country_cca3": "brn",
+        "region_cca2": null,
+        "osm_id": 8742065,
+        "osm_place_id": 283048995,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Mukim Kianggeh",
+        "name_eng": "Mukim Kianggeh",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2365664",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "bn",
+        "country_cca3": "brn",
+        "region_cca2": null,
+        "osm_id": 8751666,
+        "osm_place_id": 283058138,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Mukim Kota Batu",
+        "name_eng": "Mukim Kota Batu",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2365632",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "bn",
+        "country_cca3": "brn",
+        "region_cca2": null,
+        "osm_id": 8741987,
+        "osm_place_id": 283202986,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Mukim Lumapas",
+        "name_eng": "Mukim Lumapas",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2364560",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "bn",
+        "country_cca3": "brn",
+        "region_cca2": null,
+        "osm_id": 8737946,
+        "osm_place_id": 283293315,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Mukim Mentiri",
+        "name_eng": "Mukim Mentiri",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2365615",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "bn",
+        "country_cca3": "brn",
+        "region_cca2": null,
+        "osm_id": 8748572,
+        "osm_place_id": 283074416,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Mukim Pangkalan Batu",
+        "name_eng": "Mukim Pangkalan Batu",
+        "name_translations": {
+            "ms": "Mukim Pangkalan Batu"
+        },
+        "extra": {
+            "wikidata": "Q2365680",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "bn",
+        "country_cca3": "brn",
+        "region_cca2": null,
+        "osm_id": 4197776,
+        "osm_place_id": null,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Mukim Peramu",
+        "name_eng": "Mukim Peramu",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2365595"
+        }
+    },
+    {
+        "country_cca2": "bn",
+        "country_cca3": "brn",
+        "region_cca2": null,
+        "osm_id": 4197777,
+        "osm_place_id": 282598567,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Mukim Saba",
+        "name_eng": "Mukim Saba",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2490424",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "bn",
+        "country_cca3": "brn",
+        "region_cca2": null,
+        "osm_id": 8747413,
+        "osm_place_id": 283008763,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Mukim Sengkurong",
+        "name_eng": "Mukim Sengkurong",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2490410",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "bn",
+        "country_cca3": "brn",
+        "region_cca2": null,
+        "osm_id": 8737936,
+        "osm_place_id": 283014326,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Mukim Serasa",
+        "name_eng": "Mukim Serasa",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2490398",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "bn",
+        "country_cca3": "brn",
+        "region_cca2": null,
+        "osm_id": 4197778,
+        "osm_place_id": 282798804,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Mukim Sungai Kebun",
+        "name_eng": "Mukim Sungai Kebun",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2490464",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "bn",
+        "country_cca3": "brn",
+        "region_cca2": null,
+        "osm_id": 8732607,
+        "osm_place_id": 283073016,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Mukim Sungai Kedayan",
+        "name_eng": "Mukim Sungai Kedayan",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2490416",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "bn",
+        "country_cca3": "brn",
+        "region_cca2": null,
+        "osm_id": 4197780,
+        "osm_place_id": 282500226,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Mukim Tamoi",
+        "name_eng": "Mukim Tamoi",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2490448",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "bn",
+        "country_cca3": "brn",
+        "region_cca2": "BN-TE",
+        "osm_id": 7843853,
+        "osm_place_id": 282912002,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Temburong",
+        "name_eng": "Temburong District",
+        "name_translations": {
+            "bg": "\u0422\u0435\u043c\u0431\u0443\u0440\u043e\u043d\u0433",
+            "cs": "Temburong",
+            "de": "Temburong",
+            "el": "\u03a4\u03b5\u03bc\u03c0\u03bf\u03c5\u03c1\u03cc\u03bd\u03b3\u03ba",
+            "en": "Temburong District",
+            "es": "Temburong",
+            "eu": "Temburong",
+            "fa": "\u062a\u0645\u0628\u0648\u0631\u0648\u0646\u06af",
+            "fi": "Temburong",
+            "fr": "Temburong",
+            "gl": "Temburong",
+            "he": "\u05d8\u05de\u05d1\u05d5\u05e8\u05d5\u05e0\u05d2",
+            "id": "Temburong",
+            "it": "Temburong",
+            "ja": "\u30c6\u30f3\u30d6\u30ed\u30f3\u5730\u533a",
+            "ko": "\ud2c8\ubd80\ub871 \uad6c",
+            "lt": "Temburongo",
+            "ms": "Daerah Temburong",
+            "nl": "Temburong",
+            "pl": "Temburong",
+            "ps": "\u062a\u064a\u0645\u0628\u0648\u0631\u0648\u0646\u06af",
+            "pt": "Temburong",
+            "ru": "\u0422\u0435\u043c\u0431\u0443\u0440\u043e\u043d\u0433",
+            "sv": "Temburong",
+            "ta": "\u0b9f\u0bc6\u0bae\u0bcd\u0baa\u0bc1\u0bb0\u0bcb\u0b99\u0bcd\u0b95\u0bc1",
+            "th": "\u0e40\u0e15\u0e34\u0e21\u0e1a\u0e39\u0e23\u0e07",
+            "tr": "Temburong",
+            "uk": "\u0422\u0435\u043c\u0431\u0443\u0440\u043e\u043d\u0491",
+            "ur": "\u062a\u06cc\u0645\u0628\u0648\u0631\u0648\u0646\u06af \u0636\u0644\u0639",
+            "zh": "\u6de1\u5e03\u4f26\u533a",
+            "ace": "Temburong",
+            "ceb": "Temburong",
+            "nan": "Temburong",
+            "war": "Temburong",
+            "zh-Hans": "\u6de1\u5e03\u4f26\u533a",
+            "zh-Hant": "\u6de1\u6b66\u5eca\u7e23"
+        },
+        "extra": {
+            "wikidata": "Q263285",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "bn",
+        "country_cca3": "brn",
+        "region_cca2": "BN-TU",
+        "osm_id": 3853886,
+        "osm_place_id": 282501805,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Tutong",
+        "name_eng": "Tutong District",
+        "name_translations": {
+            "de": "Tutong",
+            "en": "Tutong District",
+            "ja": "\u30c4\u30c8\u30f3",
+            "ms": "Daerah Tutong",
+            "zh": "\u90fd\u4e1c\u53bf"
+        },
+        "extra": {
+            "wikidata": "Q40398",
+            "un_locode": null
+        }
+    }
+]

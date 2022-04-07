@@ -1,0 +1,646 @@
+[
+    {
+        "country_cca2": "pg",
+        "country_cca3": "png",
+        "region_cca2": null,
+        "osm_id": 3777380,
+        "osm_place_id": 282455175,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Autonomous Region of Bougainville",
+        "name_eng": "Autonomous Region of Bougainville",
+        "name_translations": {
+            "fr": "Bougainville",
+            "ja": "\u30d6\u30fc\u30b2\u30f3\u30d3\u30eb\u81ea\u6cbb\u5dde",
+            "ru": "\u0410\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u044b\u0439 \u0440\u0435\u0433\u0438\u043e\u043d \u0411\u0443\u0433\u0435\u043d\u0432\u0438\u043b\u044c",
+            "uk": "\u0410\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u0438\u0439 \u0440\u0435\u0433\u0456\u043e\u043d \u0411\u0443\u0433\u0435\u043d\u0432\u0456\u043b\u044c",
+            "zh": "\u5e03\u5e72\u7ef4\u5c14"
+        },
+        "extra": {
+            "wikidata": "Q18826",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pg",
+        "country_cca3": "png",
+        "region_cca2": "PG-CPM",
+        "osm_id": 311783,
+        "osm_place_id": 281890654,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Central",
+        "name_eng": "Central",
+        "name_translations": {
+            "de": "Zentral",
+            "eo": "Centra",
+            "fr": "Province centrale",
+            "it": "Centrale",
+            "ja": "\u4e2d\u592e\u5dde",
+            "lt": "Centrin\u0117 provincija",
+            "pt": "Central",
+            "ru": "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u0430\u044f \u043f\u0440\u043e\u0432\u0438\u043d\u0446\u0438\u044f",
+            "uk": "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u0430 \u043f\u0440\u043e\u0432\u0456\u043d\u0446\u0456\u044f",
+            "zh-Hans": "\u4e2d\u592e\u7701",
+            "zh-Hant": "\u4e2d\u592e\u7701"
+        },
+        "extra": {
+            "wikidata": "Q874942",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pg",
+        "country_cca3": "png",
+        "region_cca2": "PG-EBR",
+        "osm_id": 3777381,
+        "osm_place_id": 282574333,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "East New Britain",
+        "name_eng": "East New Britain",
+        "name_translations": {
+            "de": "Ost-Neubritannien",
+            "en": "East New Britain",
+            "eo": "Orienta Nov-Britio",
+            "fr": "Nouvelle-Bretagne orientale",
+            "hu": "East New Britain Provincia",
+            "ja": "\u6771\u30cb\u30e5\u30fc\u30d6\u30ea\u30c6\u30f3\u5dde",
+            "ru": "\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u0430\u044f \u041d\u043e\u0432\u0430\u044f \u0411\u0440\u0438\u0442\u0430\u043d\u0438\u044f",
+            "uk": "\u0421\u0445\u0456\u0434\u043d\u0430 \u041d\u043e\u0432\u0430 \u0411\u0440\u0438\u0442\u0430\u043d\u0456\u044f"
+        },
+        "extra": {
+            "wikidata": "Q753702",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pg",
+        "country_cca3": "png",
+        "region_cca2": "PG-ESW",
+        "osm_id": 311778,
+        "osm_place_id": 282049922,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "East Sepik",
+        "name_eng": "East Sepik",
+        "name_translations": {
+            "de": "Ost-Sepik",
+            "fr": "Sepik oriental",
+            "ja": "\u6771\u30bb\u30d4\u30c3\u30af\u5dde",
+            "lt": "Ryt\u0173 Sepiko provincija",
+            "ru": "\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u044b\u0439 \u0421\u0435\u043f\u0438\u043a",
+            "uk": "\u0421\u0445\u0456\u0434\u043d\u0438\u0439 \u0421\u0435\u043f\u0456\u043a"
+        },
+        "extra": {
+            "wikidata": "Q690880",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pg",
+        "country_cca3": "png",
+        "region_cca2": "PG-EHG",
+        "osm_id": 311774,
+        "osm_place_id": 282336572,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Eastern Highlands",
+        "name_eng": "Eastern Highlands",
+        "name_translations": {
+            "de": "\u00d6stliches Hochland",
+            "eo": "Provinco Orientaj Altaj Teroj",
+            "fr": "Hautes-Terres orientales",
+            "ja": "\u6771\u90e8\u5c71\u5cb3\u5dde",
+            "lt": "Ryt\u0173 Auk\u0161tumos provincija",
+            "ru": "\u0418\u0441\u0442\u0435\u0440\u043d-\u0425\u0430\u0439\u043b\u0435\u043d\u0434\u0441",
+            "uk": "\u0421\u0445\u0456\u0434\u043d\u0438\u0439 \u0413\u0430\u0439\u043b\u0435\u043d\u0434\u0441"
+        },
+        "extra": {
+            "wikidata": "Q849812",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pg",
+        "country_cca3": "png",
+        "region_cca2": "PG-EPW",
+        "osm_id": 311771,
+        "osm_place_id": 281931734,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Enga",
+        "name_eng": "Enga",
+        "name_translations": {
+            "fr": "Enga",
+            "ja": "\u30a8\u30f3\u30ac\u5dde",
+            "lt": "Enga provincija",
+            "ru": "\u042d\u043d\u0433\u0430",
+            "uk": "\u0415\u043d\u0433\u0430"
+        },
+        "extra": {
+            "wikidata": "Q862584",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pg",
+        "country_cca3": "png",
+        "region_cca2": "PG-GPK",
+        "osm_id": 311775,
+        "osm_place_id": 281887223,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Gulf",
+        "name_eng": "Gulf",
+        "name_translations": {
+            "de": "Golf",
+            "eo": "Provinco Golfo",
+            "fr": "Golfe",
+            "ja": "\u6e7e\u5cb8\u5dde",
+            "lt": "\u012elankos provincija",
+            "ru": "\u0413\u0430\u043b\u0444",
+            "uk": "\u0413\u0430\u043b\u0444"
+        },
+        "extra": {
+            "wikidata": "Q874980",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pg",
+        "country_cca3": "png",
+        "region_cca2": null,
+        "osm_id": 5259916,
+        "osm_place_id": 282973397,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Hayapuga Rural LLG",
+        "name_eng": "Hayapuga Rural LLG",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pg",
+        "country_cca3": "png",
+        "region_cca2": "PG-HLA",
+        "osm_id": 3778575,
+        "osm_place_id": 282469895,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Hela",
+        "name_eng": "Hela",
+        "name_translations": {
+            "de": "Hela",
+            "es": "Hela",
+            "fr": "Hela",
+            "ja": "\u30d8\u30e9\u5dde",
+            "ru": "\u0425\u0435\u043b\u0430",
+            "uk": "\u0413\u0435\u043b\u0430"
+        },
+        "extra": {
+            "wikidata": "Q1382499",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pg",
+        "country_cca3": "png",
+        "region_cca2": "PG-JWK",
+        "osm_id": 3778576,
+        "osm_place_id": 282915178,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Jiwaka",
+        "name_eng": "Jiwaka",
+        "name_translations": {
+            "de": "Jiwaka",
+            "es": "Jiwaka",
+            "fr": "Jiwaka",
+            "ja": "\u30b8\u30ef\u30ab\u5dde",
+            "ru": "\u0414\u0436\u0438\u0432\u0430\u043a\u0430",
+            "uk": "\u0414\u0436\u0438\u0432\u0430\u043a\u0430"
+        },
+        "extra": {
+            "wikidata": "Q1400625",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pg",
+        "country_cca3": "png",
+        "region_cca2": null,
+        "osm_id": 5259966,
+        "osm_place_id": 282582139,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Komo Rural LLG",
+        "name_eng": "Komo Rural LLG",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pg",
+        "country_cca3": "png",
+        "region_cca2": null,
+        "osm_id": 4793634,
+        "osm_place_id": 282613201,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Komo-Margarima District",
+        "name_eng": "Komo-Margarima District",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pg",
+        "country_cca3": "png",
+        "region_cca2": null,
+        "osm_id": 4793635,
+        "osm_place_id": 282603993,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Koroba - Kopiago District",
+        "name_eng": "Koroba - Kopiago District",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pg",
+        "country_cca3": "png",
+        "region_cca2": "PG-MPM",
+        "osm_id": 311779,
+        "osm_place_id": 281961542,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Madang",
+        "name_eng": "Madang",
+        "name_translations": {
+            "fr": "Madang",
+            "ja": "\u30de\u30c0\u30f3\u5dde",
+            "lt": "Madango provincija",
+            "ru": "\u041c\u0430\u0434\u0430\u043d\u0433",
+            "uk": "\u041c\u0430\u0434\u0430\u043d\u0433"
+        },
+        "extra": {
+            "wikidata": "Q326254",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pg",
+        "country_cca3": "png",
+        "region_cca2": "PG-MRL",
+        "osm_id": 3777382,
+        "osm_place_id": 282456686,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Manus",
+        "name_eng": "Manus",
+        "name_translations": {
+            "fr": "Manus",
+            "ja": "\u30de\u30cc\u30b9\u5dde",
+            "ru": "\u041c\u0430\u043d\u0443\u0441",
+            "uk": "\u041c\u0430\u043d\u0443\u0441"
+        },
+        "extra": {
+            "wikidata": "Q874935",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pg",
+        "country_cca3": "png",
+        "region_cca2": "PG-MBA",
+        "osm_id": 311782,
+        "osm_place_id": 282084252,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Milne Bay",
+        "name_eng": "Milne Bay",
+        "name_translations": {
+            "de": "Milne-Bucht",
+            "fr": "Baie Milne",
+            "ja": "\u30df\u30eb\u30f3\u6e7e\u5dde",
+            "lt": "Milno \u012flankos provincija",
+            "ru": "\u041c\u0438\u043b\u043d-\u0411\u0435\u0439",
+            "uk": "\u041c\u0456\u043b\u043d-\u0411\u0435\u0439"
+        },
+        "extra": {
+            "wikidata": "Q874962",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pg",
+        "country_cca3": "png",
+        "region_cca2": "PG-MPL",
+        "osm_id": 311780,
+        "osm_place_id": 282116844,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Morobe",
+        "name_eng": "Morobe",
+        "name_translations": {
+            "fr": "Morobe",
+            "ja": "\u30e2\u30ed\u30d9\u5dde",
+            "lt": "Morob\u0117s provincija",
+            "ru": "\u041c\u043e\u0440\u043e\u0431\u0435",
+            "uk": "\u041c\u043e\u0440\u043e\u0431\u0435"
+        },
+        "extra": {
+            "wikidata": "Q853664",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pg",
+        "country_cca3": "png",
+        "region_cca2": "PG-NCD",
+        "osm_id": 269423,
+        "osm_place_id": 281875467,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "National Capital District",
+        "name_eng": "National Capital District",
+        "name_translations": {
+            "de": "Nationaler Hauptstadtdistrikt",
+            "fr": "Capitale nationale",
+            "ja": "\u9996\u90fd\u533a",
+            "lt": "Nacionalin\u0117 sostin\u0117s teritorija",
+            "ru": "\u041d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u044b\u0439 \u0441\u0442\u043e\u043b\u0438\u0447\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433",
+            "uk": "\u041d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0438\u0439 \u0441\u0442\u043e\u043b\u0438\u0447\u043d\u0438\u0439 \u043e\u043a\u0440\u0443\u0433",
+            "zh-Hans": "\u56fd\u5bb6\u9996\u90fd\u533a",
+            "zh-Hant": "\u570b\u5bb6\u9996\u90fd\u5340"
+        },
+        "extra": {
+            "wikidata": "Q1378310",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pg",
+        "country_cca3": "png",
+        "region_cca2": "PG-NIK",
+        "osm_id": 3777383,
+        "osm_place_id": 282459854,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "New Ireland",
+        "name_eng": "New Ireland",
+        "name_translations": {
+            "de": "Neuirland",
+            "en": "New Ireland",
+            "eo": "Nova Irlando",
+            "fr": "Nouvelle Irlande",
+            "ja": "\u30cb\u30e5\u30fc\u30a2\u30a4\u30eb\u30e9\u30f3\u30c9\u5dde",
+            "ru": "\u041d\u043e\u0432\u0430\u044f \u0418\u0440\u043b\u0430\u043d\u0434\u0438\u044f",
+            "uk": "\u041d\u043e\u0432\u0430 \u0406\u0440\u043b\u0430\u043d\u0434\u0456\u044f"
+        },
+        "extra": {
+            "wikidata": "Q838690",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pg",
+        "country_cca3": "png",
+        "region_cca2": "PG-NPP",
+        "osm_id": 311781,
+        "osm_place_id": 282023961,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Oro",
+        "name_eng": "Oro",
+        "name_translations": {
+            "eo": "Provinco Oro",
+            "fr": "Oro",
+            "ja": "\u30aa\u30ed\u5dde",
+            "lt": "Oro provincija",
+            "ru": "\u041e\u0440\u043e",
+            "uk": "\u041e\u0440\u043e"
+        },
+        "extra": {
+            "wikidata": "Q753686",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pg",
+        "country_cca3": "png",
+        "region_cca2": "PG-SAN",
+        "osm_id": 311777,
+        "osm_place_id": 281915186,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Sandaun",
+        "name_eng": "Sandaun",
+        "name_translations": {
+            "fr": "Sandaun",
+            "ja": "\u30b5\u30f3\u30c0\u30a6\u30f3\u5dde",
+            "lt": "Sandauno provincija",
+            "ru": "\u0421\u0430\u043d\u0434\u0430\u0443\u043d",
+            "uk": "\u0421\u0430\u043d\u0434\u0430\u0443\u043d"
+        },
+        "extra": {
+            "wikidata": "Q753689",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pg",
+        "country_cca3": "png",
+        "region_cca2": "PG-CPK",
+        "osm_id": 311773,
+        "osm_place_id": 282303775,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Simbu",
+        "name_eng": "Simbu",
+        "name_translations": {
+            "fr": "Simbu",
+            "ja": "\u30b7\u30f3\u30d6\u5dde",
+            "lt": "Simbu provincija",
+            "ru": "\u0421\u0438\u043c\u0431\u0443",
+            "uk": "\u0421\u0456\u043c\u0431\u0443"
+        },
+        "extra": {
+            "wikidata": "Q599448",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pg",
+        "country_cca3": "png",
+        "region_cca2": "PG-SHM",
+        "osm_id": 311770,
+        "osm_place_id": 282029409,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Southern Highlands",
+        "name_eng": "Southern Highlands",
+        "name_translations": {
+            "de": "S\u00fcdliches Hochland",
+            "eo": "Provinco Sudaj Altaj Teroj",
+            "fr": "Hautes-Terres m\u00e9ridionales",
+            "ja": "\u5357\u90e8\u5c71\u5cb3\u5dde",
+            "lt": "Piet\u0173 Auk\u0161tum\u0173 provincija",
+            "ru": "\u0421\u0430\u0443\u0442\u0435\u0440\u043d-\u0425\u0430\u0439\u043b\u0435\u043d\u0434\u0441",
+            "uk": "\u041f\u0456\u0432\u0434\u0435\u043d\u043d\u0438\u0439 \u0413\u0430\u0439\u043b\u0435\u043d\u0434\u0441"
+        },
+        "extra": {
+            "wikidata": "Q849801",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pg",
+        "country_cca3": "png",
+        "region_cca2": null,
+        "osm_id": 5259917,
+        "osm_place_id": 282707896,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Tagali Rural LLG",
+        "name_eng": "Tagali Rural LLG",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pg",
+        "country_cca3": "png",
+        "region_cca2": null,
+        "osm_id": 5259918,
+        "osm_place_id": 282608985,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Tari Urban LLG",
+        "name_eng": "Tari Urban LLG",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pg",
+        "country_cca3": "png",
+        "region_cca2": null,
+        "osm_id": 4793636,
+        "osm_place_id": 282641062,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Tari-Pori District",
+        "name_eng": "Tari-Pori District",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pg",
+        "country_cca3": "png",
+        "region_cca2": null,
+        "osm_id": 5259919,
+        "osm_place_id": 282659565,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Tebi Rural LLG",
+        "name_eng": "Tebi Rural LLG",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pg",
+        "country_cca3": "png",
+        "region_cca2": "PG-WBK",
+        "osm_id": 3777384,
+        "osm_place_id": 282503376,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "West New Britain",
+        "name_eng": "West New Britain",
+        "name_translations": {
+            "de": "West-Neubritannien",
+            "en": "West New Britain",
+            "eo": "Okcidenta Nov-Britio",
+            "fr": "Nouvelle-Bretagne occidentale",
+            "hu": "West New Britain Provincia",
+            "ja": "\u897f\u30cb\u30e5\u30fc\u30d6\u30ea\u30c6\u30f3\u5dde",
+            "ru": "\u0417\u0430\u043f\u0430\u0434\u043d\u0430\u044f \u041d\u043e\u0432\u0430\u044f \u0411\u0440\u0438\u0442\u0430\u043d\u0438\u044f",
+            "uk": "\u0417\u0430\u0445\u0456\u0434\u043d\u0430 \u041d\u043e\u0432\u0430 \u0411\u0440\u0438\u0442\u0430\u043d\u0456\u044f"
+        },
+        "extra": {
+            "wikidata": "Q667468",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pg",
+        "country_cca3": "png",
+        "region_cca2": "PG-WPD",
+        "osm_id": 311776,
+        "osm_place_id": 281918861,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Western",
+        "name_eng": "Western",
+        "name_translations": {
+            "de": "West",
+            "fr": "Province ouest",
+            "hu": "Western Provincia",
+            "ja": "\u897f\u90e8\u5dde",
+            "lt": "Vakar\u0173 provincija",
+            "ru": "\u0417\u0430\u043f\u0430\u0434\u043d\u0430\u044f \u043f\u0440\u043e\u0432\u0438\u043d\u0446\u0438\u044f",
+            "uk": "\u0417\u0430\u0445\u0456\u0434\u043d\u0430 \u043f\u0440\u043e\u0432\u0456\u043d\u0446\u0456\u044f"
+        },
+        "extra": {
+            "wikidata": "Q849790",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pg",
+        "country_cca3": "png",
+        "region_cca2": "PG-WHM",
+        "osm_id": 311772,
+        "osm_place_id": 282114332,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Western Highlands",
+        "name_eng": "Western Highlands",
+        "name_translations": {
+            "de": "Westliches Hochland",
+            "eo": "Provinco Okcidentaj Altaj Teroj",
+            "fr": "Hautes-Terres occidentales",
+            "hu": "Western Highlands Provincia",
+            "ja": "\u897f\u90e8\u5c71\u5cb3\u5dde",
+            "lt": "Vakar\u0173 Auk\u0161tum\u0173 provincija",
+            "ru": "\u0423\u044d\u0441\u0442\u0435\u0440\u043d-\u0425\u0430\u0439\u043b\u0435\u043d\u0434\u0441",
+            "uk": "\u0417\u0430\u0445\u0456\u0434\u043d\u0438\u0439 \u0413\u0430\u0439\u043b\u0435\u043d\u0434\u0441"
+        },
+        "extra": {
+            "wikidata": "Q849807",
+            "un_locode": null
+        }
+    }
+]

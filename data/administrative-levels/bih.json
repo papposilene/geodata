@@ -1,0 +1,947 @@
+[
+    {
+        "country_cca2": "ba",
+        "country_cca3": "bih",
+        "region_cca2": null,
+        "osm_id": 2528146,
+        "osm_place_id": 282364878,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Bosansko-podrinjski kanton Gora\u017ede",
+        "name_eng": "Bosnian-Podrinje Canton Gora\u017ede",
+        "name_translations": {
+            "bs": "Bosansko-podrinjski kanton Gora\u017ede",
+            "ca": "Cant\u00f3 de Podrinje Bosni\u00e0",
+            "de": "Kanton Bosnisches Podrinje",
+            "en": "Bosnian-Podrinje Canton Gora\u017ede",
+            "fr": "Canton du Podrinje bosnien",
+            "hr": "Bosansko-podrinjska \u017eupanija Gora\u017ede",
+            "ru": "\u0411\u043e\u0441\u043d\u0438\u0439\u0441\u043a\u043e-\u041f\u043e\u0434\u0440\u0438\u043d\u0441\u043a\u0438\u0439 \u043a\u0430\u043d\u0442\u043e\u043d",
+            "sr": "\u0411\u043e\u0441\u0430\u043d\u0441\u043a\u043e-\u043f\u043e\u0434\u0440\u0438\u045a\u0441\u043a\u0438 \u043a\u0430\u043d\u0442\u043e\u043d \u0413\u043e\u0440\u0430\u0436\u0434\u0435"
+        },
+        "extra": {
+            "wikidata": "Q18256",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ba",
+        "country_cca3": "bih",
+        "region_cca2": "BA-BRC",
+        "osm_id": 2528143,
+        "osm_place_id": 282433825,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Br\u010dko Distrikt",
+        "name_eng": "Br\u010dko District",
+        "name_translations": {
+            "bs": "Br\u010dko Distrikt",
+            "ca": "Districte de Br\u010dko",
+            "en": "Br\u010dko District",
+            "fr": "District de Br\u010dko",
+            "hr": "Br\u010dko Distrikt",
+            "pl": "Dystrykt Brczko",
+            "ru": "\u041e\u043a\u0440\u0443\u0433 \u0411\u0440\u0447\u043a\u043e",
+            "sr": "\u0411\u0440\u0447\u043a\u043e \u0414\u0438\u0441\u0442\u0440\u0438\u043a\u0442",
+            "sr-Latn": "Br\u010dko Distrikt"
+        },
+        "extra": {
+            "wikidata": "Q194483",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ba",
+        "country_cca3": "bih",
+        "region_cca2": null,
+        "osm_id": 2528144,
+        "osm_place_id": 282305718,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Federacija Bosne i Hercegovine",
+        "name_eng": "Federation of Bosnia and Herzegovina",
+        "name_translations": {
+            "ar": "\u0627\u062a\u062d\u0627\u062f \u0627\u0644\u0628\u0648\u0633\u0646\u0629 \u0648\u0627\u0644\u0647\u0631\u0633\u0643",
+            "bs": "Federacija Bosne i Hercegovine",
+            "ca": "Federaci\u00f3 de B\u00f2snia i Hercegovina",
+            "de": "F\u00f6deration Bosnien und Herzegowina",
+            "en": "Federation of Bosnia and Herzegovina",
+            "eo": "Federacio Bosnio kaj Hercegovino",
+            "es": "Federaci\u00f3n de Bosnia y Herzegovina",
+            "fa": "\u0641\u062f\u0631\u0627\u0633\u06cc\u0648\u0646 \u0628\u0648\u0633\u0646\u06cc \u0648 \u0647\u0631\u0632\u06af\u0648\u06cc\u0646",
+            "fr": "F\u00e9d\u00e9ration de Bosnie-et-Herz\u00e9govine",
+            "hr": "Federacija Bosne i Hercegovine",
+            "lt": "Bosnijos ir Hercegovinos Federacija",
+            "mk": "\u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u0458\u0430 \u0411\u0438\u0425",
+            "nl": "Federatie van Bosni\u00eb en Herzegovina",
+            "pl": "Federacja Bo\u015bni i Hercegowiny",
+            "ro": "Federa\u021bia Bosniei \u0219i Her\u021begovinei",
+            "ru": "\u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f \u0411\u043e\u0441\u043d\u0438\u0438 \u0438 \u0413\u0435\u0440\u0446\u0435\u0433\u043e\u0432\u0438\u043d\u044b",
+            "sr": "\u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u0458\u0430 \u0411\u043e\u0441\u043d\u0435 \u0438 \u0425\u0435\u0440\u0446\u0435\u0433\u043e\u0432\u0438\u043d\u0435",
+            "ur": "\u0648\u0641\u0627\u0642 \u0628\u0648\u0633\u0646\u06cc\u0627 \u0648 \u06c1\u0631\u0632\u06cc\u06af\u0648\u0648\u06cc\u0646\u0627",
+            "hsb": "Federacija Bosniska a Hercegowina"
+        },
+        "extra": {
+            "wikidata": "Q11198",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ba",
+        "country_cca3": "bih",
+        "region_cca2": null,
+        "osm_id": 2528156,
+        "osm_place_id": 282390082,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Grad Banja Luka",
+        "name_eng": "City of Banja Luka",
+        "name_translations": {
+            "bs": "Grad Banja Luka",
+            "en": "City of Banja Luka",
+            "fr": "Ville de Banja Luka",
+            "hr": "Grad Banja Luka",
+            "ru": "\u0413\u043e\u0440\u043e\u0434 \u0411\u0430\u043d\u044f-\u041b\u0443\u043a\u0430",
+            "sr": "\u0413\u0440\u0430\u0434 \u0411\u0430\u045a\u0430\u043b\u0443\u043a\u0430",
+            "zh": "\u5df4\u5c3c\u4e9a\u5362\u5361\u5e02",
+            "sr-Latn": "Grad Banjaluka"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ba",
+        "country_cca3": "bih",
+        "region_cca2": null,
+        "osm_id": 2528159,
+        "osm_place_id": 282303653,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Grad Biha\u0107",
+        "name_eng": "City of Biha\u0107",
+        "name_translations": {
+            "bs": "Grad Biha\u0107",
+            "en": "City of Biha\u0107",
+            "fr": "Ville de Biha\u0107",
+            "hr": "Grad Biha\u0107",
+            "mk": "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0411\u0438\u0445\u0430\u045c",
+            "ru": "\u0413\u043e\u0440\u043e\u0434 \u0411\u0438\u0445\u0430\u0447",
+            "sr": "\u0413\u0440\u0430\u0434 \u0411\u0438\u0445\u0430\u045b",
+            "sr-Latn": "Grad Biha\u0107"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ba",
+        "country_cca3": "bih",
+        "region_cca2": null,
+        "osm_id": 2528160,
+        "osm_place_id": 282740933,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Grad Bijeljina",
+        "name_eng": "City of Bijeljina",
+        "name_translations": {
+            "bs": "Grad Bijeljina",
+            "en": "City of Bijeljina",
+            "fr": "Ville de Bijeljina",
+            "hr": "Grad Bijeljina",
+            "ru": "\u0413\u043e\u0440\u043e\u0434 \u0411\u0438\u0435\u043b\u0438\u043d\u0430",
+            "sr": "\u0413\u0440\u0430\u0434 \u0411\u0438\u0458\u0435\u0459\u0438\u043d\u0430",
+            "sr-Latn": "Grad Bijeljina"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ba",
+        "country_cca3": "bih",
+        "region_cca2": null,
+        "osm_id": 2528176,
+        "osm_place_id": 282311743,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Grad \u010capljina",
+        "name_eng": "City of \u010capljina",
+        "name_translations": {
+            "bs": "Grad \u010capljina",
+            "en": "City of \u010capljina",
+            "fr": "Ville de \u010capljina",
+            "hr": "Grad \u010capljina",
+            "sr": "\u0413\u0440\u0430\u0434 \u0427\u0430\u043f\u0459\u0438\u043d\u0430",
+            "sr-Latn": "Grad \u010capljina"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ba",
+        "country_cca3": "bih",
+        "region_cca2": null,
+        "osm_id": 2528177,
+        "osm_place_id": 282364895,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Grad Cazin",
+        "name_eng": "City of Cazin",
+        "name_translations": {
+            "bs": "Op\u0107ina Cazin",
+            "en": "City of Cazin",
+            "fr": "Ville de Cazin",
+            "hr": "Grad Cazin",
+            "ru": "\u043e\u0431\u0449\u0438\u043d\u0430 \u0426\u0430\u0437\u0438\u043d"
+        },
+        "extra": {
+            "wikidata": "Q12756695",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ba",
+        "country_cca3": "bih",
+        "region_cca2": null,
+        "osm_id": 2528182,
+        "osm_place_id": 282291889,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Grad Derventa",
+        "name_eng": "Town of Derventa",
+        "name_translations": {
+            "bs": "Grad Derventa",
+            "en": "Town of Derventa",
+            "hr": "Grad Derventa",
+            "sr": "\u0413\u0440\u0430\u0434 \u0414\u0435\u0440\u0432\u0435\u043d\u0442\u0430"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ba",
+        "country_cca3": "bih",
+        "region_cca2": null,
+        "osm_id": 2528185,
+        "osm_place_id": 282339085,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Grad Doboj",
+        "name_eng": "City of Doboj",
+        "name_translations": {
+            "bs": "Grad Doboj",
+            "en": "City of Doboj",
+            "fr": "Ville de Doboj",
+            "hr": "Grad Doboj",
+            "ru": "\u0413\u043e\u0440\u043e\u0434 \u0414\u043e\u0431\u043e\u0439",
+            "sr": "\u0413\u0440\u0430\u0434 \u0414\u043e\u0431\u043e\u0458"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ba",
+        "country_cca3": "bih",
+        "region_cca2": null,
+        "osm_id": 2528200,
+        "osm_place_id": 282609421,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Grad Gora\u017ede",
+        "name_eng": "City of Gora\u017ede",
+        "name_translations": {
+            "bs": "Grad Gora\u017ede",
+            "en": "City of Gora\u017ede",
+            "hr": "Grad Gora\u017ede",
+            "ru": "\u043e\u0431\u0449\u0438\u043d\u0430 \u0413\u043e\u0440\u0430\u0436\u0434\u0435"
+        },
+        "extra": {
+            "wikidata": "Q12756604",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ba",
+        "country_cca3": "bih",
+        "region_cca2": null,
+        "osm_id": 2528202,
+        "osm_place_id": 282345575,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Grad Gra\u010danica",
+        "name_eng": "Town of Gra\u010danica",
+        "name_translations": {
+            "bs": "Grad Gra\u010danica",
+            "en": "Town of Gra\u010danica",
+            "ru": "\u0413\u043e\u0440\u043e\u0434 \u0413\u0440\u0430\u0447\u0430\u043d\u0438\u0446\u0430"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ba",
+        "country_cca3": "bih",
+        "region_cca2": null,
+        "osm_id": 2528203,
+        "osm_place_id": 282291884,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Grad Grada\u010dac",
+        "name_eng": "Town of Grada\u010dac",
+        "name_translations": {
+            "bs": "Grad Grada\u010dac",
+            "en": "Town of Grada\u010dac",
+            "ru": "\u0413\u043e\u0440\u043e\u0434 \u0413\u0440\u0430\u0434\u0430\u0447\u0430\u0446"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ba",
+        "country_cca3": "bih",
+        "region_cca2": null,
+        "osm_id": 2528162,
+        "osm_place_id": 282295347,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Grad Gradi\u0161ka",
+        "name_eng": "Town of Gradi\u0161ka",
+        "name_translations": {
+            "bs": "Grad Gradi\u0161ka",
+            "en": "Town of Gradi\u0161ka",
+            "hr": "Grad Bosanska Gradi\u0161ka",
+            "sr": "\u0413\u0440\u0430\u0434 \u0413\u0440\u0430\u0434\u0438\u0448\u043a\u0430",
+            "sr-Latn": "Grad Gradi\u0161ka"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ba",
+        "country_cca3": "bih",
+        "region_cca2": null,
+        "osm_id": 2528226,
+        "osm_place_id": 282502704,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Grad Livno",
+        "name_eng": "City of Livno",
+        "name_translations": {
+            "bs": "Grad Livno",
+            "de": "Stadt Livno",
+            "en": "City of Livno",
+            "fr": "Ville de Livno",
+            "hr": "Grad Livno",
+            "ru": "\u043e\u0431\u0449\u0438\u043d\u0430 \u041b\u0438\u0432\u043d\u043e"
+        },
+        "extra": {
+            "wikidata": "Q12756640",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ba",
+        "country_cca3": "bih",
+        "region_cca2": null,
+        "osm_id": 2528228,
+        "osm_place_id": 282347917,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Grad Ljubu\u0161ki",
+        "name_eng": "Grad Ljubu\u0161ki",
+        "name_translations": {
+            "bs": "Grad Ljubu\u0161ki",
+            "hr": "Grad Ljubu\u0161ki"
+        },
+        "extra": {
+            "wikidata": "Q12756581",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ba",
+        "country_cca3": "bih",
+        "region_cca2": null,
+        "osm_id": 2528234,
+        "osm_place_id": 282291945,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Grad Mostar",
+        "name_eng": "City of Mostar",
+        "name_translations": {
+            "bs": "Grad Mostar",
+            "de": "Stadt Mostar",
+            "en": "City of Mostar",
+            "fr": "Ville de Mostar",
+            "hr": "Grad Mostar",
+            "ru": "\u041c\u043e\u0441\u0442\u0430\u0440",
+            "sr": "\u041c\u043e\u0441\u0442\u0430\u0440"
+        },
+        "extra": {
+            "wikidata": "Q15508167",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ba",
+        "country_cca3": "bih",
+        "region_cca2": null,
+        "osm_id": 5729592,
+        "osm_place_id": 283121581,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Grad Prijedor",
+        "name_eng": "City of Prijedor",
+        "name_translations": {
+            "bs": "Grad Prijedor",
+            "en": "City of Prijedor",
+            "fr": "Ville de Prijedor",
+            "hr": "Grad Prijedor",
+            "ru": "\u0413\u043e\u0440\u043e\u0434 \u041f\u0440\u0438\u0435\u0434\u043e\u0440"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ba",
+        "country_cca3": "bih",
+        "region_cca2": null,
+        "osm_id": 2567380,
+        "osm_place_id": 282672139,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Grad Sarajevo",
+        "name_eng": "City of Sarajevo",
+        "name_translations": {
+            "ar": "\u0645\u062f\u064a\u0646\u0629 \u0633\u0631\u0627\u064a\u064a\u0641\u0648",
+            "be": "\u0421\u0430\u0440\u0430\u0435\u0432\u0430",
+            "bs": "Grad Sarajevo",
+            "de": "Stadt Sarajevo",
+            "en": "City of Sarajevo",
+            "es": "Sarajevo",
+            "fa": "\u0633\u0627\u0631\u0627\u06cc\u0648\u0648",
+            "fr": "Ville de Sarajevo",
+            "gl": "Cidade de Saraxevo",
+            "hr": "Grad Sarajevo",
+            "hu": "Szarajev\u00f3",
+            "it": "Citt\u00e0 di Saraievo",
+            "ja": "\u30b5\u30e9\u30a8\u30f4\u30a9",
+            "kn": "\u0cb8\u0cbe\u0cb0\u0caf\u0cc7\u0cb5\u0cca",
+            "ko": "\uc0ac\ub77c\uc608\ubcf4",
+            "lt": "Sarajevas",
+            "mk": "\u0421\u0430\u0440\u0430\u0435\u0432\u043e",
+            "no": "Sarajevo",
+            "oc": "Sarajevo",
+            "pl": "Sarajewo",
+            "ru": "\u0413\u043e\u0440\u043e\u0434 \u0421\u0430\u0440\u0430\u0435\u0432\u043e",
+            "sl": "Sarajevo",
+            "sr": "\u0413\u0440\u0430\u0434 \u0421\u0430\u0440\u0430\u0458\u0435\u0432\u043e",
+            "sv": "Sarajevo",
+            "ta": "\u0b9a\u0bb0\u0b9c\u0bc0\u0bb5\u0bcb",
+            "tr": "Saraybosna",
+            "ug": "\u0633\u0627\u0631\u0627\u064a\u06d0\u06cb\u0648",
+            "uk": "\u0421\u0430\u0440\u0430\u0454\u0432\u043e",
+            "ur": "\u0633\u0631\u0627\u0626\u06cc\u0648\u0648",
+            "zh": "\u585e\u62c9\u8036\u4f5b",
+            "ckb": "\u0633\u0627\u0631\u0627\u06cc\u06ce\u06a4\u06c6",
+            "lrc": "\u0633\u0627\u0631\u0627\u06cc\u0627\u065b \u06a4\u0648",
+            "pnb": "\u0633\u0631\u0627\u0626\u06cc\u0648\u0648",
+            "zh-HK": "\u85a9\u62c9\u71b1\u7aa9",
+            "zh-TW": "\u585e\u62c9\u8036\u4f5b",
+            "ku-Arab": "\u0633\u0627\u0631\u0627\u06cc\u06d5\u06a4\u06c6",
+            "sr-Latn": "Sarajevo"
+        },
+        "extra": {
+            "wikidata": "Q11194",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ba",
+        "country_cca3": "bih",
+        "region_cca2": null,
+        "osm_id": 2528265,
+        "osm_place_id": 282292033,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Grad \u0160iroki Brijeg",
+        "name_eng": "City of \u0160iroki Brijeg",
+        "name_translations": {
+            "bs": "Grad \u0160iroki Brijeg",
+            "de": "Stadt \u0160iroki Brijeg",
+            "en": "City of \u0160iroki Brijeg",
+            "fr": "Ville de \u0160iroki Brijeg",
+            "hr": "Grad \u0160iroki Brijeg"
+        },
+        "extra": {
+            "wikidata": "Q15736756",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ba",
+        "country_cca3": "bih",
+        "region_cca2": null,
+        "osm_id": 2528270,
+        "osm_place_id": 282364963,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Grad Srebrenik",
+        "name_eng": "Town of Srebrenik",
+        "name_translations": {
+            "bs": "Grad Srebrenik",
+            "en": "Town of Srebrenik"
+        },
+        "extra": {
+            "wikidata": "Q12756675",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ba",
+        "country_cca3": "bih",
+        "region_cca2": null,
+        "osm_id": 2528281,
+        "osm_place_id": 282353089,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Grad Tuzla",
+        "name_eng": "City of Tuzla",
+        "name_translations": {
+            "bs": "Grad Tuzla",
+            "en": "City of Tuzla",
+            "fr": "Ville de Tuzla",
+            "hr": "Grad Tuzla"
+        },
+        "extra": {
+            "wikidata": "Q19904705",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ba",
+        "country_cca3": "bih",
+        "region_cca2": null,
+        "osm_id": 2528288,
+        "osm_place_id": 282502773,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Grad Visoko",
+        "name_eng": "Grad Visoko",
+        "name_translations": {
+            "bs": "Grad Visoko"
+        },
+        "extra": {
+            "wikidata": "Q12756592",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ba",
+        "country_cca3": "bih",
+        "region_cca2": null,
+        "osm_id": 2528293,
+        "osm_place_id": 282609589,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Grad Zenica",
+        "name_eng": "City of Zenica",
+        "name_translations": {
+            "bs": "Grad Zenica",
+            "en": "City of Zenica",
+            "fr": "Ville de Zenica",
+            "hr": "Grad Zenica",
+            "ru": "\u0417\u0435\u043d\u0438\u0446\u0430"
+        },
+        "extra": {
+            "wikidata": "Q12756619",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ba",
+        "country_cca3": "bih",
+        "region_cca2": null,
+        "osm_id": 2528295,
+        "osm_place_id": 282346236,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Grad \u017divinice",
+        "name_eng": "Town of \u017divinice",
+        "name_translations": {
+            "bs": "Grad \u017divinice",
+            "en": "Town of \u017divinice"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ba",
+        "country_cca3": "bih",
+        "region_cca2": null,
+        "osm_id": 2528296,
+        "osm_place_id": 282292115,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Grad Zvornik",
+        "name_eng": "City of Zvornik",
+        "name_translations": {
+            "bs": "Grad Zvornik",
+            "en": "City of Zvornik",
+            "fr": "Ville de Zvornik",
+            "hr": "Grad Zvornik",
+            "sr": "\u0413\u0440\u0430\u0434 \u0417\u0432\u043e\u0440\u043d\u0438\u043a",
+            "sr-Latn": "Grad Zvornik"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ba",
+        "country_cca3": "bih",
+        "region_cca2": null,
+        "osm_id": 2528147,
+        "osm_place_id": 282292917,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Hercegbosanska \u017eupanija",
+        "name_eng": "Herzeg-Bosnia Canton",
+        "name_translations": {
+            "an": "Condau de Herzeg-Bosnia",
+            "bg": "\u0425\u0435\u0440\u0446\u0435\u0433\u0431\u043e\u0441\u043d\u0435\u043d\u0441\u043a\u0438 \u043a\u0430\u043d\u0442\u043e\u043d",
+            "bs": "Kanton 10",
+            "ca": "Comtat d'Herceg-B\u00f2snia",
+            "cs": "Hercegbosensk\u00e1 \u017eupa",
+            "de": "Kanton Herceg-Bosna",
+            "en": "Herzeg-Bosnia Canton",
+            "es": "Cant\u00f3n de Herzeg-Bosnia",
+            "fi": "Hertseg-Bosnian kantoni",
+            "fr": "Canton de Herceg-Bosna",
+            "hr": "Hercegbosanska \u017eupanija",
+            "hy": "\u0540\u0565\u0580\u0581\u0565\u0563-\u0532\u0578\u057d\u0576\u056b\u0561 \u0585\u056f\u0580\u0578\u0582\u0563",
+            "id": "Kanton Herzeg-Bosnia",
+            "ie": "Canton Herceg-Bosna",
+            "it": "Cantone dell'Erzeg-Bosnia",
+            "ja": "\u30d8\u30eb\u30c4\u30a7\u30b0\uff1d\u30dc\u30b9\u30ca\u770c",
+            "ka": "\u10f0\u10d4\u10e0\u10ea\u10d4\u10d2\u10d1\u10dd\u10e1\u10dc\u10d8\u10d0\u10e1",
+            "ko": "\ud5e4\ub974\uccb4\uadf8\ubcf4\uc2a4\ub2c8\uc544 \uc8fc",
+            "nl": "Provincie Herceg-Bosna",
+            "no": "Herceg-Bosnia kanton",
+            "ro": "Cantonul Her\u021beg-Bosnia",
+            "ru": "\u0413\u0435\u0440\u0446\u0435\u0433\u0431\u043e\u0441\u0430\u043d\u0441\u043a\u0438\u0439 \u043a\u0430\u043d\u0442\u043e\u043d",
+            "sr": "\u0425\u0435\u0440\u0446\u0435\u0433\u0431\u043e\u0441\u0430\u043d\u0441\u043a\u0430 \u0436\u0443\u043f\u0430\u043d\u0438\u0458\u0430",
+            "sv": "Herceg-Bosnas kanton",
+            "uk": "\u0413\u0435\u0440\u0446\u0435\u0433-\u0411\u043e\u0441\u0430\u043d\u0441\u044c\u043a\u0438\u0439 \u043a\u0430\u043d\u0442\u043e\u043d",
+            "zh": "\u897f\u6ce2\u65af\u5c3c\u4e9e\u5dde"
+        },
+        "extra": {
+            "wikidata": "Q18277",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ba",
+        "country_cca3": "bih",
+        "region_cca2": null,
+        "osm_id": 2528149,
+        "osm_place_id": 282548195,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Hercegova\u010dko-neretvanska \u017eupanija (kanton)",
+        "name_eng": "Herzegovina-Neretva Canton",
+        "name_translations": {
+            "bs": "Hercegova\u010dko-neretvanski kanton",
+            "ca": "Cant\u00f3 d'Hercegovina-Neretva",
+            "de": "Kanton Herzegowina-Neretva",
+            "en": "Herzegovina-Neretva Canton",
+            "fr": "Canton d'Herz\u00e9govine-Neretva",
+            "hr": "Hercegova\u010dko-neretvanska \u017eupanija",
+            "lt": "Hercegovinos-Neretvos kantonas",
+            "ru": "\u0413\u0435\u0440\u0446\u0435\u0433\u043e\u0432\u0438\u043d\u043e-\u041d\u0435\u0440\u0435\u0442\u0432\u0435\u043d\u0441\u043a\u0438\u0439 \u043a\u0430\u043d\u0442\u043e\u043d",
+            "sr": "\u0425\u0435\u0440\u0446\u0435\u0433\u043e\u0432\u0430\u0447\u043a\u043e-\u043d\u0435\u0440\u0435\u0442\u0432\u0430\u043d\u0441\u043a\u0430 \u0436\u0443\u043f\u0430\u043d\u0438\u0458\u0430 (\u043a\u0430\u043d\u0442\u043e\u043d)"
+        },
+        "extra": {
+            "wikidata": "Q18273",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ba",
+        "country_cca3": "bih",
+        "region_cca2": null,
+        "osm_id": 2528151,
+        "osm_place_id": 282291798,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Kanton Sarajevo",
+        "name_eng": "Sarajevo Canton",
+        "name_translations": {
+            "ar": "\u0643\u0627\u0646\u062a\u0648\u0646 \u0633\u0631\u0627\u064a\u064a\u0641\u0648",
+            "bs": "Kanton Sarajevo",
+            "ca": "Cant\u00f3 de Sarajevo",
+            "de": "Kanton Sarajevo",
+            "en": "Sarajevo Canton",
+            "fr": "Canton de Sarajevo",
+            "gl": "Cant\u00f3n de Saraxevo",
+            "hr": "Sarajevska \u017eupanija",
+            "ru": "\u0421\u0430\u0440\u0430\u0435\u0432\u0441\u043a\u0438\u0439 \u043a\u0430\u043d\u0442\u043e\u043d",
+            "sr": "\u041a\u0430\u043d\u0442\u043e\u043d \u0421\u0430\u0440\u0430\u0458\u0435\u0432\u043e"
+        },
+        "extra": {
+            "wikidata": "Q18276",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ba",
+        "country_cca3": "bih",
+        "region_cca2": null,
+        "osm_id": 2528148,
+        "osm_place_id": 282401466,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Srednjobosanski kanton \/ \u017dupanija Sredi\u0161nja Bosna",
+        "name_eng": "Central Bosnia Canton",
+        "name_translations": {
+            "bs": "Srednjobosanski kanton",
+            "ca": "Cant\u00f3 de B\u00f2snia Central",
+            "de": "Kanton Zentralbosnien",
+            "en": "Central Bosnia Canton",
+            "fr": "Canton de Bosnie centrale",
+            "hr": "\u017dupanija Sredi\u0161nja Bosna",
+            "ru": "\u0421\u0440\u0435\u0434\u043d\u0435\u0431\u043e\u0441\u043d\u0438\u0439\u0441\u043a\u0438\u0439 \u043a\u0430\u043d\u0442\u043e\u043d",
+            "sr": "\u0421\u0440\u0435\u0434\u045a\u043e\u0431\u043e\u0441\u0430\u043d\u0441\u043a\u0438 \u043a\u0430\u043d\u0442\u043e\u043d \/ \u0416\u0443\u043f\u0430\u043d\u0438\u0458\u0430 \u0421\u0440\u0435\u0434\u0438\u0448\u045a\u0430 \u0411\u043e\u0441\u043d\u0430"
+        },
+        "extra": {
+            "wikidata": "Q18262",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ba",
+        "country_cca3": "bih",
+        "region_cca2": null,
+        "osm_id": 2528152,
+        "osm_place_id": 282852588,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Tuzlanski kanton",
+        "name_eng": "Tuzla Canton",
+        "name_translations": {
+            "bs": "Tuzlanski kanton",
+            "ca": "Cant\u00f3 de Tuzla",
+            "en": "Tuzla Canton",
+            "fr": "Canton de Tuzla",
+            "hr": "Tuzlanska \u017eupanija",
+            "ru": "\u0422\u0443\u0437\u043b\u0430\u043d\u0441\u043a\u0438\u0439 \u043a\u0430\u043d\u0442\u043e\u043d",
+            "sr": "\u0422\u0443\u0437\u043b\u0430\u043d\u0441\u043a\u0438 \u043a\u0430\u043d\u0442\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q18250",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ba",
+        "country_cca3": "bih",
+        "region_cca2": null,
+        "osm_id": 2528153,
+        "osm_place_id": 282309278,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Unsko-sanski kanton",
+        "name_eng": "Una-Sana Canton",
+        "name_translations": {
+            "bs": "Unsko-sanski kanton",
+            "ca": "Cant\u00f3 d'Una-Sana",
+            "de": "Kanton Una-Sana",
+            "en": "Una-Sana Canton",
+            "fr": "Canton d'Una-Sana",
+            "hr": "Unsko-sanska \u017eupanija",
+            "mk": "\u041a\u0430\u043d\u0442\u043e\u043d \u0423\u043d\u0430-\u0421\u0430\u043d\u0430",
+            "ru": "\u0423\u043d\u0441\u043a\u043e-\u0421\u0430\u043d\u0441\u043a\u0438\u0439 \u043a\u0430\u043d\u0442\u043e\u043d",
+            "sr": "\u0423\u043d\u0441\u043a\u043e-\u0441\u0430\u043d\u0441\u043a\u0438 \u043a\u0430\u043d\u0442\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q18248",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ba",
+        "country_cca3": "bih",
+        "region_cca2": null,
+        "osm_id": 2528155,
+        "osm_place_id": 282355666,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Zeni\u010dko-dobojski kanton",
+        "name_eng": "Zenica-Doboj Canton",
+        "name_translations": {
+            "bs": "Zeni\u010dko-dobojski kanton",
+            "ca": "Cant\u00f3 de Zenica-Doboj",
+            "en": "Zenica-Doboj Canton",
+            "fr": "Canton de Zenica-Doboj",
+            "hr": "Zeni\u010dko-dobojska \u017eupanija",
+            "ru": "\u0417\u0435\u043d\u0438\u0446\u043a\u043e-\u0414\u043e\u0431\u043e\u0439\u0441\u043a\u0438\u0439 \u043a\u0430\u043d\u0442\u043e\u043d",
+            "sr": "\u0417\u0435\u043d\u0438\u0447\u043a\u043e-\u0434\u043e\u0431\u043e\u0458\u0441\u043a\u0438 \u043a\u0430\u043d\u0442\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q18253",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ba",
+        "country_cca3": "bih",
+        "region_cca2": null,
+        "osm_id": 2528150,
+        "osm_place_id": 282626239,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u017dupanija Posavska",
+        "name_eng": "Posavina Canton",
+        "name_translations": {
+            "bs": "Posavski kanton",
+            "ca": "Cant\u00f3 de Posavina",
+            "en": "Posavina Canton",
+            "fr": "Canton de la Posavina",
+            "hr": "\u017dupanija Posavska",
+            "ru": "\u041f\u043e\u0441\u0430\u0432\u0441\u043a\u0438\u0439 \u043a\u0430\u043d\u0442\u043e\u043d",
+            "sr": "\u041f\u043e\u0441\u0430\u0432\u0441\u043a\u0438 \u043a\u0430\u043d\u0442\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q18249",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ba",
+        "country_cca3": "bih",
+        "region_cca2": null,
+        "osm_id": 2528154,
+        "osm_place_id": 282338797,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u017dupanija zapadnohercegova\u010dka",
+        "name_eng": "West Herzegovina Canton",
+        "name_translations": {
+            "bs": "Zapadnohercegova\u010dki kanton",
+            "ca": "Cant\u00f3 d'Hercegovina Occidental",
+            "de": "Kanton West-Herzegowina",
+            "en": "West Herzegovina Canton",
+            "fr": "Canton de l'Herz\u00e9govine de l'Ouest",
+            "hr": "\u017dupanija zapadnohercegova\u010dka",
+            "ro": "Cantonul Her\u021begovina de Vest",
+            "ru": "\u0417\u0430\u043f\u0430\u0434\u043d\u043e\u0433\u0435\u0440\u0446\u0435\u0433\u043e\u0432\u0438\u043d\u0441\u043a\u0438\u0439 \u043a\u0430\u043d\u0442\u043e\u043d",
+            "sr": "\u0416\u0443\u043f\u0430\u043d\u0438\u0458\u0430 \u0437\u0430\u043f\u0430\u0434\u043d\u043e\u0445\u0435\u0440\u0446\u0435\u0433\u043e\u0432\u0430\u0447\u043a\u0430"
+        },
+        "extra": {
+            "wikidata": "Q18275",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ba",
+        "country_cca3": "bih",
+        "region_cca2": null,
+        "osm_id": 2567396,
+        "osm_place_id": 282631166,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0413\u0440\u0430\u0434 \u0418\u0441\u0442\u043e\u0447\u043d\u043e \u0421\u0430\u0440\u0430\u0458\u0435\u0432\u043e \/ Grad Isto\u010dno Sarajevo",
+        "name_eng": "City of Isto\u010dno Sarajevo",
+        "name_translations": {
+            "bs": "Grad Isto\u010dno Sarajevo",
+            "en": "City of Isto\u010dno Sarajevo",
+            "hr": "Grad Isto\u010dno Sarajevo",
+            "ru": "\u0413\u043e\u0440\u043e\u0434 \u0418\u0441\u0442\u043e\u0447\u043d\u043e-\u0421\u0430\u0440\u0430\u0435\u0432\u043e",
+            "sr": "\u0413\u0440\u0430\u0434 \u0418\u0441\u0442\u043e\u0447\u043d\u043e \u0421\u0430\u0440\u0430\u0458\u0435\u0432\u043e",
+            "sr-Latn": "Grad Isto\u010dno Sarajevo"
+        },
+        "extra": {
+            "wikidata": "Q147556",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ba",
+        "country_cca3": "bih",
+        "region_cca2": null,
+        "osm_id": 2528277,
+        "osm_place_id": 282309604,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0413\u0440\u0430\u0434 \u0422\u0440\u0435\u0431\u0438\u045a\u0435 \/ Grad Trebinje",
+        "name_eng": "City of Trebinje",
+        "name_translations": {
+            "bs": "Grad Trebinje",
+            "de": "Stadt Trebinje",
+            "en": "City of Trebinje",
+            "fr": "Ville de Trebinje",
+            "hr": "Grad Trebinje",
+            "lt": "Trebin\u0117s miestas",
+            "ru": "\u0422\u0440\u0435\u0431\u0438\u043d\u0435"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ba",
+        "country_cca3": "bih",
+        "region_cca2": null,
+        "osm_id": 2528145,
+        "osm_place_id": 282311486,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "\u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0421\u0440\u043f\u0441\u043a\u0430 \/ Republika Srpska",
+        "name_eng": "Republika Srpska",
+        "name_translations": {
+            "ar": "\u0627\u0644\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u0635\u0631\u0628\u064a\u0629",
+            "bs": "Republika Srpska",
+            "ca": "Republika Srpska",
+            "de": "Republika Srpska",
+            "en": "Republika Srpska",
+            "eo": "Serba Respubliko",
+            "es": "Rep\u00fablica Srpska",
+            "fr": "R\u00e9publique serbe de Bosnie",
+            "hr": "Republika Srpska",
+            "lt": "Serb\u0173 respublika",
+            "mk": "\u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0421\u0440\u043f\u0441\u043a\u0430",
+            "nl": "Servische Republiek",
+            "pl": "Republika Serbska",
+            "ro": "Republica S\u00e2rb\u0103 a Bosniei",
+            "ru": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0421\u0435\u0440\u0431\u0441\u043a\u0430\u044f",
+            "sr": "\u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0421\u0440\u043f\u0441\u043a\u0430",
+            "sr-Latn": "Republika Srpska"
+        },
+        "extra": {
+            "wikidata": "Q11196",
+            "un_locode": null
+        }
+    }
+]

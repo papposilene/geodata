@@ -1,0 +1,114 @@
+[
+    {
+        "country_cca2": "gd",
+        "country_cca3": "grd",
+        "region_cca2": "GD-10",
+        "osm_id": 12335403,
+        "osm_place_id": 283616430,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Carriacou and Petite Martinique",
+        "name_eng": "Carriacou and Petite Martinique",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q3044818",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gd",
+        "country_cca3": "grd",
+        "region_cca2": "GD-01",
+        "osm_id": 12344206,
+        "osm_place_id": 283611390,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Saint Andrew",
+        "name_eng": "Saint Andrew",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q977183",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gd",
+        "country_cca3": "grd",
+        "region_cca2": "GD-02",
+        "osm_id": 12344200,
+        "osm_place_id": 283371415,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Saint David",
+        "name_eng": "Saint David",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2087806",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gd",
+        "country_cca3": "grd",
+        "region_cca2": "GD-03",
+        "osm_id": 12344153,
+        "osm_place_id": 283394413,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Saint George",
+        "name_eng": "Saint George",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q576651",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gd",
+        "country_cca3": "grd",
+        "region_cca2": "GD-04",
+        "osm_id": 12343999,
+        "osm_place_id": 283337598,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Saint John",
+        "name_eng": "Saint John",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1476289",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gd",
+        "country_cca3": "grd",
+        "region_cca2": "GD-05",
+        "osm_id": 12343976,
+        "osm_place_id": 283582763,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Saint Mark",
+        "name_eng": "Saint Mark",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1291077",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gd",
+        "country_cca3": "grd",
+        "region_cca2": "GD-06",
+        "osm_id": 12342346,
+        "osm_place_id": 283611192,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Saint Patrick",
+        "name_eng": "Saint Patrick",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1476309",
+            "un_locode": null
+        }
+    }
+]

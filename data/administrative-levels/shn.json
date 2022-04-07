@@ -1,0 +1,74 @@
+[
+    {
+        "country_cca2": "sh",
+        "country_cca3": "shn",
+        "region_cca2": null,
+        "osm_id": 3672293,
+        "osm_place_id": 282450224,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Gough Island",
+        "name_eng": "Gough Island",
+        "name_translations": {
+            "cs": "Gough",
+            "en": "Gough Island",
+            "fr": "\u00cele Gough"
+        },
+        "extra": {
+            "wikidata": "Q505935",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sh",
+        "country_cca3": "shn",
+        "region_cca2": null,
+        "osm_id": 1974295,
+        "osm_place_id": 282226457,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Inaccessible Island",
+        "name_eng": "Inaccessible Island",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q914225",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sh",
+        "country_cca3": "shn",
+        "region_cca2": null,
+        "osm_id": 3672300,
+        "osm_place_id": 283020816,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Nightingale Island",
+        "name_eng": "Nightingale Island",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q615054",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sh",
+        "country_cca3": "shn",
+        "region_cca2": null,
+        "osm_id": 3672294,
+        "osm_place_id": 282494967,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Tristan da Cunha",
+        "name_eng": "Tristan da Cunha",
+        "name_translations": {
+            "ar": "\u062a\u0631\u064a\u0633\u062a\u0627\u0646 \u062f\u0627 \u0643\u0648\u0646\u0627",
+            "cs": "Tristan da Cunha",
+            "en": "Tristan da Cunha"
+        },
+        "extra": {
+            "wikidata": "Q2454241",
+            "un_locode": null
+        }
+    }
+]

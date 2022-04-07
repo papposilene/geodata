@@ -1,0 +1,382 @@
+[
+    {
+        "country_cca2": "cv",
+        "country_cca3": "cpv",
+        "region_cca2": null,
+        "osm_id": 3830195,
+        "osm_place_id": 282673967,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Boa Vista",
+        "name_eng": "Boa Vista",
+        "name_translations": {
+            "pt": "Boa Vista"
+        },
+        "extra": {
+            "wikidata": "Q2721025",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cv",
+        "country_cca3": "cpv",
+        "region_cca2": "CV-BR",
+        "osm_id": 3830196,
+        "osm_place_id": 282842471,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Brava",
+        "name_eng": "Brava",
+        "name_translations": {
+            "ar": "\u0628\u0631\u0627\u0641\u0627",
+            "pt": "Brava"
+        },
+        "extra": {
+            "wikidata": "Q2571624",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cv",
+        "country_cca3": "cpv",
+        "region_cca2": "CV-MA",
+        "osm_id": 3830197,
+        "osm_place_id": 282524537,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Maio",
+        "name_eng": "Maio",
+        "name_translations": {
+            "ar": "\u0645\u0627\u064a\u0648",
+            "pt": "Maio"
+        },
+        "extra": {
+            "wikidata": "Q2551133",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cv",
+        "country_cca3": "cpv",
+        "region_cca2": "CV-MO",
+        "osm_id": 4021361,
+        "osm_place_id": 282494577,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Mosteiros",
+        "name_eng": "Mosteiros",
+        "name_translations": {
+            "pt": "Mosteiros",
+            "ru": "\u041c\u043e\u0448\u0442\u0435\u0439\u0440\u0443\u0448"
+        },
+        "extra": {
+            "wikidata": "Q516835",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cv",
+        "country_cca3": "cpv",
+        "region_cca2": "CV-PA",
+        "osm_id": 4019982,
+        "osm_place_id": 282800317,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Paul",
+        "name_eng": "Paul",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1475374",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cv",
+        "country_cca3": "cpv",
+        "region_cca2": "CV-PN",
+        "osm_id": 4019980,
+        "osm_place_id": 282518142,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Porto Novo",
+        "name_eng": "Porto Novo",
+        "name_translations": {
+            "pt": "Porto Novo",
+            "ru": "\u041f\u043e\u0440\u0442\u0443 \u041d\u043e\u0432\u0443"
+        },
+        "extra": {
+            "wikidata": "Q1552897",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cv",
+        "country_cca3": "cpv",
+        "region_cca2": null,
+        "osm_id": 4021586,
+        "osm_place_id": 282695156,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Praia",
+        "name_eng": "Praia",
+        "name_translations": {
+            "ar": "\u0628\u0631\u0627\u064a\u0627",
+            "pt": "Praia"
+        },
+        "extra": {
+            "wikidata": "Q497019",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cv",
+        "country_cca3": "cpv",
+        "region_cca2": "CV-RB",
+        "osm_id": 4019942,
+        "osm_place_id": 282941852,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Ribeira Brava",
+        "name_eng": "Ribeira Brava",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q747221",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cv",
+        "country_cca3": "cpv",
+        "region_cca2": "CV-RG",
+        "osm_id": 4019981,
+        "osm_place_id": 282566078,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Ribeira Grande",
+        "name_eng": "Ribeira Grande",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1355642",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cv",
+        "country_cca3": "cpv",
+        "region_cca2": "CV-RS",
+        "osm_id": 4021587,
+        "osm_place_id": 282480368,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Ribeira Grande de Santiago",
+        "name_eng": "Ribeira Grande de Santiago",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q499620",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cv",
+        "country_cca3": "cpv",
+        "region_cca2": "CV-SL",
+        "osm_id": 3830198,
+        "osm_place_id": 282498878,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Sal",
+        "name_eng": "Sal",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2721003",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cv",
+        "country_cca3": "cpv",
+        "region_cca2": "CV-CA",
+        "osm_id": 4021581,
+        "osm_place_id": 282565397,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Santa Catarina",
+        "name_eng": "Santa Catarina",
+        "name_translations": {
+            "ar": "\u0633\u0627\u0646\u062a\u0627 \u0643\u0627\u062a\u0627\u0631\u064a\u0646\u0627",
+            "pt": "Santa Catarina"
+        },
+        "extra": {
+            "wikidata": "Q494882",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cv",
+        "country_cca3": "cpv",
+        "region_cca2": null,
+        "osm_id": 4021362,
+        "osm_place_id": 282521790,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Santa Catarina do Fogo",
+        "name_eng": "Santa Catarina do Fogo",
+        "name_translations": {
+            "pt": "Santa Catarina do Fogo"
+        },
+        "extra": {
+            "wikidata": "Q2608046",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cv",
+        "country_cca3": "cpv",
+        "region_cca2": "CV-CR",
+        "osm_id": 4021582,
+        "osm_place_id": 282567705,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Santa Cruz",
+        "name_eng": "Santa Cruz",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q497472",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cv",
+        "country_cca3": "cpv",
+        "region_cca2": "CV-SD",
+        "osm_id": 4021585,
+        "osm_place_id": 282942305,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "S\u00e3o Domingos",
+        "name_eng": "S\u00e3o Domingos",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q499009",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cv",
+        "country_cca3": "cpv",
+        "region_cca2": null,
+        "osm_id": 4021363,
+        "osm_place_id": 282525250,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "S\u00e3o Filipe",
+        "name_eng": "S\u00e3o Filipe",
+        "name_translations": {
+            "ar": "\u0633\u0627\u0648 \u0641\u064a\u0644\u064a\u0628",
+            "pt": "S\u00e3o Filipe"
+        },
+        "extra": {
+            "wikidata": "Q6430079",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cv",
+        "country_cca3": "cpv",
+        "region_cca2": "CV-SO",
+        "osm_id": 4021584,
+        "osm_place_id": 282495927,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "S\u00e3o Louren\u00e7o dos \u00d3rg\u00e3os",
+        "name_eng": "S\u00e3o Louren\u00e7o dos \u00d3rg\u00e3os",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q494726",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cv",
+        "country_cca3": "cpv",
+        "region_cca2": "CV-SM",
+        "osm_id": 4021579,
+        "osm_place_id": 282521732,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "S\u00e3o Miguel",
+        "name_eng": "S\u00e3o Miguel",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q494874",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cv",
+        "country_cca3": "cpv",
+        "region_cca2": "CV-SS",
+        "osm_id": 4021583,
+        "osm_place_id": 282548374,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "S\u00e3o Salvador do Mundo",
+        "name_eng": "S\u00e3o Salvador do Mundo",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q494877",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cv",
+        "country_cca3": "cpv",
+        "region_cca2": "CV-SV",
+        "osm_id": 3830199,
+        "osm_place_id": 282541243,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "S\u00e3o Vicente",
+        "name_eng": "S\u00e3o Vicente",
+        "name_translations": {
+            "ar": "\u0633\u0627\u0648 \u0641\u064a\u0633\u064a\u0646\u062a\u064a",
+            "pt": "S\u00e3o Vicente"
+        },
+        "extra": {
+            "wikidata": "Q648842",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cv",
+        "country_cca3": "cpv",
+        "region_cca2": "CV-TA",
+        "osm_id": 4021580,
+        "osm_place_id": 282525191,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Tarrafal",
+        "name_eng": "Tarrafal",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q499598",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "cv",
+        "country_cca3": "cpv",
+        "region_cca2": "CV-TS",
+        "osm_id": 4019943,
+        "osm_place_id": 282694799,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Tarrafal de S\u00e3o Nicolau",
+        "name_eng": "Tarrafal de S\u00e3o Nicolau",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1895853",
+            "un_locode": null
+        }
+    }
+]

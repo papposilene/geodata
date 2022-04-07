@@ -1,0 +1,4088 @@
+[
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": "BR-AC",
+        "osm_id": 326266,
+        "osm_place_id": 282404219,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Acre",
+        "name_eng": "Acre",
+        "name_translations": {
+            "ar": "\u0623\u0643\u0631\u064a",
+            "be": "\u0410\u043a\u0440\u044b",
+            "bg": "\u0410\u043a\u0440\u0438",
+            "de": "Acre",
+            "en": "Acre",
+            "eo": "Akro",
+            "fa": "\u0627\u06a9\u0631\u06cc",
+            "gn": "Akre",
+            "he": "\u05d0\u05e7\u05e8\u05d9",
+            "hi": "\u0906\u0915\u094d\u0930\u0940",
+            "hy": "\u0531\u056f\u0580\u056b",
+            "ja": "\u30a2\u30af\u30ec",
+            "ka": "\u10d0\u10d9\u10e0\u10d8",
+            "ko": "\uc544\ud06c\ub9ac",
+            "lt": "Akr\u0117",
+            "lv": "Akri",
+            "mk": "\u0410\u043a\u0440\u0435",
+            "ml": "\u0d05\u0d15\u0d4d\u0d30\u0d47",
+            "mr": "\u0906\u0915\u094d\u0930\u0947",
+            "os": "\u0410\u043a\u0440\u0438",
+            "pl": "Acre",
+            "pt": "Acre",
+            "qu": "Aqri",
+            "ru": "\u0410\u043a\u0440\u0438",
+            "sr": "\u0410\u043a\u0440\u0435",
+            "tg": "\u0410\u043a\u0440\u0438",
+            "th": "\u0e2d\u0e32\u0e40\u0e01\u0e23",
+            "uk": "\u0410\u043a\u0440\u0456",
+            "uz": "Akri",
+            "zh": "\u963f\u514b\u91cc",
+            "abbreviation": "AC"
+        },
+        "extra": {
+            "wikidata": "Q40780",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 2662001,
+        "osm_place_id": 282448496,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Aglomera\u00e7\u00e3o Urbana do Litoral Norte",
+        "name_eng": "Aglomera\u00e7\u00e3o Urbana do Litoral Norte",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q20060177",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 2662002,
+        "osm_place_id": 282320467,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Aglomera\u00e7\u00e3o Urbana do Sul",
+        "name_eng": "Aglomera\u00e7\u00e3o Urbana do Sul",
+        "name_translations": {
+            "pt": "Aglomera\u00e7\u00e3o Urbana do Sul"
+        },
+        "extra": {
+            "wikidata": "Q9588043",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 303781,
+        "osm_place_id": 281958956,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Alagoas",
+        "name_eng": "Alagoas",
+        "name_translations": {
+            "ar": "\u0623\u0644\u0627\u063a\u0648\u0627\u0633",
+            "be": "\u0410\u043b\u0430\u0433\u043e\u0430\u0441",
+            "bg": "\u0410\u043b\u0430\u0433\u043e\u0430\u0441",
+            "de": "Alagoas",
+            "en": "Alagoas",
+            "eo": "Alagoaso",
+            "fa": "\u0622\u0644\u0627\u06af\u0648\u0627\u0633",
+            "he": "\u05d0\u05dc\u05d2\u05d5\u05d0\u05e1",
+            "hi": "\u0905\u0932\u093e\u0917\u094b\u0906\u0938",
+            "hy": "\u0531\u056c\u0561\u0563\u0578\u0561\u057d",
+            "ja": "\u30a2\u30e9\u30b4\u30a2\u30b9",
+            "ka": "\u10d0\u10da\u10d0\u10d2\u10dd\u10d0\u10e1\u10d8",
+            "ko": "\uc54c\ub77c\uace0\uc544\uc2a4",
+            "la": "Alacunae",
+            "lt": "Alagoasas",
+            "lv": "Alagoasa",
+            "mk": "\u0410\u043b\u0430\u0433\u043e\u0458\u0430\u0441",
+            "mr": "\u0906\u0932\u093e\u0917\u094b\u0906\u0938",
+            "os": "\u0410\u043b\u0430\u0433\u043e\u0430\u0441",
+            "pl": "Alagoas",
+            "pt": "Alagoas",
+            "ru": "\u0410\u043b\u0430\u0433\u043e\u0430\u0441",
+            "sr": "\u0410\u043b\u0430\u0433\u043e\u0430\u0441",
+            "tg": "\u0410\u043b\u0430\u0433\u043e\u0430\u0441",
+            "th": "\u0e2d\u0e32\u0e25\u0e32\u0e42\u0e01\u0e2d\u0e31\u0e2a",
+            "uk": "\u0410\u043b\u0430\u0433\u043e\u0430\u0441",
+            "zh": "\u963f\u62c9\u6208\u65af",
+            "abbreviation": "AL"
+        },
+        "extra": {
+            "wikidata": "Q40885",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 331463,
+        "osm_place_id": 282053989,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Amap\u00e1",
+        "name_eng": "Amap\u00e1",
+        "name_translations": {
+            "ar": "\u0623\u0645\u0627\u0628\u0627",
+            "be": "\u0410\u043c\u0430\u043f\u0430",
+            "bg": "\u0410\u043c\u0430\u043f\u0430",
+            "de": "Amap\u00e1",
+            "en": "Amap\u00e1",
+            "eo": "Amapao",
+            "fa": "\u0622\u0645\u0627\u067e\u0627",
+            "gn": "Amapa",
+            "he": "\u05d0\u05de\u05d0\u05e4\u05d4",
+            "hi": "\u0905\u092e\u093e\u092a\u093e",
+            "hy": "\u0531\u0574\u0561\u057a\u0561",
+            "ja": "\u30a2\u30de\u30d1\u30fc",
+            "ka": "\u10d0\u10db\u10d0\u10de\u10d0",
+            "kk": "\u0410\u043c\u0430\u043f\u0430",
+            "ko": "\uc544\ub9c8\ud30c",
+            "la": "Amapa",
+            "lt": "Amapa",
+            "lv": "Amapa",
+            "mk": "\u0410\u043c\u0430\u043f\u0430",
+            "mr": "\u0905\u092e\u093e\u092a\u093e",
+            "os": "\u0410\u043c\u0430\u043f\u0430",
+            "pl": "Amap\u00e1",
+            "pt": "Amap\u00e1",
+            "ru": "\u0410\u043c\u0430\u043f\u0430",
+            "sh": "Amapa",
+            "sr": "\u0410\u043c\u0430\u043f\u0430",
+            "tg": "\u0410\u043c\u0430\u043f\u0430",
+            "th": "\u0e2d\u0e32\u0e21\u0e32\u0e1b\u0e32",
+            "uk": "\u0410\u043c\u0430\u043f\u0430",
+            "uz": "Amapa",
+            "zh": "\u963f\u9a6c\u5e15",
+            "abbreviation": "AP"
+        },
+        "extra": {
+            "wikidata": "Q40130",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": "BR-AM",
+        "osm_id": 332476,
+        "osm_place_id": 281939957,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Amazonas",
+        "name_eng": "Amazonas",
+        "name_translations": {
+            "ar": "\u0627\u0644\u0623\u0645\u0627\u0632\u0648\u0646",
+            "be": "\u0410\u043c\u0430\u0437\u043e\u043d\u0430\u0441",
+            "bg": "\u0410\u043c\u0430\u0437\u043e\u043d\u0430\u0441",
+            "ca": "Amazones",
+            "de": "Amazonas",
+            "en": "Amazonas",
+            "eo": "Amazonio",
+            "fa": "\u0622\u0645\u0627\u0632\u0648\u0646\u0627\u0633",
+            "he": "\u05d0\u05de\u05d6\u05d5\u05e0\u05d0\u05e1",
+            "hi": "\u0906\u092e\u0947\u091c\u093c\u094b\u0928\u093e\u0938",
+            "hy": "\u0531\u0574\u0561\u0566\u0578\u0576\u0561\u057d",
+            "ja": "\u30a2\u30de\u30be\u30ca\u30b9",
+            "ka": "\u10d0\u10db\u10d0\u10d6\u10dd\u10dc\u10d0\u10e1\u10d8",
+            "ko": "\uc544\ub9c8\uc870\ub098\uc2a4",
+            "la": "Amazones",
+            "lt": "Amazon\u0117",
+            "lv": "Amazonasa",
+            "mk": "\u0410\u043c\u0430\u0437\u043e\u043d",
+            "mr": "\u0905\u092e\u0947\u091d\u094b\u0928\u093e\u0938",
+            "os": "\u0410\u043c\u0430\u0437\u043e\u043d\u0430\u0441",
+            "pl": "Amazonas",
+            "pt": "Amazonas",
+            "qu": "Amarumayu",
+            "ru": "\u0410\u043c\u0430\u0437\u043e\u043d\u0430\u0441",
+            "sr": "\u0410\u043c\u0430\u0437\u043e\u043d\u0430\u0441",
+            "tg": "\u0410\u043c\u0430\u0437\u043e\u043d\u0430\u0441",
+            "th": "\u0e2d\u0e32\u0e21\u0e32\u0e42\u0e0b\u0e19\u0e31\u0e2a",
+            "uk": "\u0410\u043c\u0430\u0437\u043e\u043d\u0430\u0441",
+            "zh": "\u4e9a\u9a6c\u5b59",
+            "abbreviation": "AM"
+        },
+        "extra": {
+            "wikidata": "Q40040",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": "BR-BA",
+        "osm_id": 362413,
+        "osm_place_id": 282044440,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Bahia",
+        "name_eng": "Bahia",
+        "name_translations": {
+            "ar": "\u0628\u0627\u0647\u064a\u0627",
+            "be": "\u0411\u0430\u0456\u044f",
+            "bg": "\u0411\u0430\u0438\u044f",
+            "de": "Bahia",
+            "en": "Bahia",
+            "eo": "Bahio",
+            "es": "Bah\u00eda",
+            "fa": "\u0628\u0627\u0647\u06cc\u0627",
+            "gl": "Ba\u00eda",
+            "he": "\u05d1\u05d0\u05d4\u05d9\u05d4",
+            "hi": "\u092c\u093e\u0939\u093f\u092f\u093e",
+            "hy": "\u0532\u0561\u056b\u0561",
+            "ja": "\u30d0\u30a4\u30fc\u30a2",
+            "ka": "\u10d1\u10d0\u10d8\u10d0",
+            "ko": "\ubc14\uc774\uc544",
+            "lt": "Bahija",
+            "lv": "Baija",
+            "mk": "\u0411\u0430\u0458\u0430",
+            "mr": "\u092c\u093e\u0908\u092f\u093e",
+            "os": "\u0411\u0430\u0438\u044f",
+            "pl": "Bahia",
+            "pt": "Bahia",
+            "ru": "\u0411\u0430\u0438\u044f",
+            "sr": "\u0411\u0430\u0438\u0458\u0430",
+            "tg": "\u0411\u0430\u0438\u044f",
+            "th": "\u0e1a\u0e32\u0e40\u0e22\u0e35\u0e22",
+            "uk": "\u0411\u0430\u0457\u044f",
+            "uz": "Baiya",
+            "zh": "\u5df4\u4f0a\u4e9a",
+            "abbreviation": "BA"
+        },
+        "extra": {
+            "wikidata": "Q40430",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": "BR-CE",
+        "osm_id": 302635,
+        "osm_place_id": 282114997,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Cear\u00e1",
+        "name_eng": "Cear\u00e1",
+        "name_translations": {
+            "ar": "\u0633\u064a\u0627\u0631\u0627",
+            "be": "\u0421\u0435\u0430\u0440\u0430",
+            "bg": "\u0421\u0435\u0430\u0440\u0430",
+            "de": "Cear\u00e1",
+            "en": "Cear\u00e1",
+            "eo": "Cearao",
+            "fa": "\u0633\u0626\u0627\u0631\u0627",
+            "gn": "Ceara",
+            "he": "\u05e1\u05d9\u05d0\u05e8\u05d4",
+            "hi": "\u0938\u093f\u092f\u093e\u0930\u093e",
+            "hy": "\u054d\u0565\u0561\u0580\u0561",
+            "ja": "\u30bb\u30a2\u30e9\u30fc",
+            "ka": "\u10e1\u10d4\u10d0\u10e0\u10d0",
+            "ko": "\uc138\uc544\ub77c",
+            "la": "Ceara",
+            "lt": "Seara",
+            "lv": "Seara",
+            "mk": "\u0421\u0435\u0430\u0440\u0430",
+            "mr": "\u0938\u093f\u092f\u093e\u0930\u093e",
+            "os": "\u0421\u0435\u0430\u0440\u0430",
+            "pl": "Cear\u00e1",
+            "pt": "Cear\u00e1",
+            "ru": "\u0421\u0435\u0430\u0440\u0430",
+            "sh": "Seara",
+            "sr": "\u0421\u0435\u0430\u0440\u0430",
+            "tg": "\u0421\u0435\u0430\u0440\u0430",
+            "th": "\u0e40\u0e0b\u0e2d\u0e32\u0e23\u0e32",
+            "uk": "\u0421\u0435\u0430\u0440\u0430",
+            "uz": "Seera",
+            "zh": "\u585e\u963f\u814a",
+            "abbreviation": "CE"
+        },
+        "extra": {
+            "wikidata": "Q40123",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 421151,
+        "osm_place_id": 281962287,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Distrito Federal",
+        "name_eng": "Federal District",
+        "name_translations": {
+            "ar": "\u0627\u0644\u0642\u0637\u0627\u0639 \u0627\u0644\u0641\u062f\u0631\u0627\u0644\u064a",
+            "be": "\u0424\u0435\u0434\u044d\u0440\u0430\u043b\u044c\u043d\u0430\u044f \u0430\u043a\u0440\u0443\u0433\u0430",
+            "bg": "\u0424\u0435\u0434\u0435\u0440\u0430\u043b\u0435\u043d \u043e\u043a\u0440\u044a\u0433",
+            "br": "Distrig kevreadel",
+            "ca": "Districte Federal",
+            "cz": "Feder\u00e1ln\u00ed distrikt",
+            "de": "Bundesdistrikt",
+            "en": "Federal District",
+            "eo": "Federacia Distrikto",
+            "es": "Distrito Federal",
+            "et": "Liiduringkond",
+            "eu": "Barruti Federala",
+            "fa": "\u0645\u0646\u0637\u0642\u0647 \u0641\u062f\u0631\u0627\u0644",
+            "fr": "District f\u00e9d\u00e9ral",
+            "he": "\u05d4\u05de\u05d7\u05d5\u05d6 \u05d4\u05e4\u05d3\u05e8\u05dc\u05d9",
+            "hr": "Federalni distrikt",
+            "hy": "\u0534\u0561\u0577\u0576\u0561\u0575\u056b\u0576 \u0577\u0580\u057b\u0561\u0576",
+            "ia": "Districto Federal",
+            "id": "Distrik Federal",
+            "it": "Distretto Federale",
+            "ja": "\u9023\u90a6\u76f4\u8f44\u533a",
+            "ka": "\u10e4\u10d4\u10d3\u10d4\u10e0\u10d0\u10da\u10e3\u10e0\u10d8 \u10dd\u10da\u10e5\u10d8",
+            "ko": "\uc5f0\ubc29\uad6c",
+            "kw": "Ranndir an Kesunyans",
+            "la": "Pagus Foederalis",
+            "lt": "Federalin\u0117 teritorija",
+            "lv": "Feder\u0101lais distrikts",
+            "mk": "\u0424\u0435\u0434\u0435\u0440\u0430\u043b\u0435\u043d \u043e\u043a\u0440\u0443\u0433",
+            "mr": "\u0936\u093e\u0938\u0915\u0940\u092f \u091c\u093f\u0932\u094d\u0939\u093e",
+            "ms": "Wilayah Persekutuan",
+            "nl": "Federaal District",
+            "oc": "Districte federal",
+            "os": "\u0424\u0435\u0434\u0435\u0440\u0430\u043b\u043e\u043d \u0437\u044b\u043b\u0434",
+            "pl": "Dystrykt Federalny",
+            "pt": "Distrito Federal",
+            "qu": "Tantasqap",
+            "ro": "Districtul Federal",
+            "ru": "\u0424\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433",
+            "sh": "Federalni distrikt",
+            "sq": "Distrikti Federal",
+            "sr": "\u0421\u0430\u0432\u0435\u0437\u043d\u0438 \u0434\u0438\u0441\u0442\u0440\u0438\u043a\u0442",
+            "sv": "Federala distrikt",
+            "tg": "\u0421\u0430\u0432\u0435\u0437\u043d\u0438 \u0434\u0438\u0441\u0442\u0440\u0438\u043a\u0442",
+            "th": "\u0e40\u0e1f\u0e40\u0e14\u0e2d\u0e23\u0e31\u0e25\u0e14\u0e34\u0e2a\u0e15\u0e23\u0e34\u0e01\u0e15\u0e4c",
+            "tr": "Federal B\u00f6lge",
+            "uk": "\u0424\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u0438\u0439 \u043e\u043a\u0440\u0443\u0433",
+            "uz": "Federal okrugi",
+            "vi": "Qu\u1eadn li\u00ean bang",
+            "zh": "\u8054\u90a6\u533a"
+        },
+        "extra": {
+            "wikidata": "Q119158",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": "BR-ES",
+        "osm_id": 54882,
+        "osm_place_id": 281813552,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Esp\u00edrito Santo",
+        "name_eng": "Esp\u00edrito Santo",
+        "name_translations": {
+            "ar": "\u0625\u0633\u0628\u064a\u0631\u064a\u062a\u0648 \u0633\u0627\u0646\u062a\u0648",
+            "be": "\u042d\u0441\u043f\u0456\u0440\u044b\u0442\u0443-\u0421\u0430\u043d\u0442\u0443",
+            "bg": "\u0415\u0441\u043f\u0438\u0440\u0438\u0442\u043e \u0421\u0430\u043d\u0442\u043e",
+            "de": "Esp\u00edrito Santo",
+            "en": "Esp\u00edrito Santo",
+            "eo": "Espirito-Santo",
+            "fa": "\u0627\u0633\u067e\u06cc\u0631\u06cc\u062a\u0648 \u0633\u0627\u0646\u062a\u0648",
+            "he": "\u05d0\u05e1\u05e4\u05d9\u05e8\u05d9\u05d8\u05d5 \u05e1\u05d0\u05e0\u05d8\u05d5",
+            "hi": "\u090f\u0938\u094d\u092a\u093f\u0930\u093f\u0924\u094b \u0938\u093e\u0928\u094d\u0924\u094b",
+            "hy": "\u0537\u057d\u057a\u056b\u0580\u056b\u057f\u0578\u0582 \u054d\u0561\u0576\u057f\u0578\u0582",
+            "ja": "\u30a8\u30b9\u30d4\u30ea\u30c8 \u30b5\u30f3\u30c8",
+            "ka": "\u10d4\u10e1\u10de\u10d8\u10e0\u10d8\u10e2\u10e3-\u10e1\u10d0\u10dc\u10e2\u10e3",
+            "ko": "\uc774\uc2a4\ud53c\ub9ac\ud22c\uc0b0\ud22c",
+            "ku": "Espirito Santo",
+            "la": "Spiritus Sanctus",
+            "lv": "Espiritu Santu",
+            "mk": "\u0415\u0441\u043f\u0438\u0440\u0438\u0442\u043e \u0421\u0430\u043d\u0442\u043e",
+            "mr": "\u090f\u0938\u094d\u092a\u093f\u0930\u093f\u0924\u094b \u0938\u093e\u0902\u0924\u094b",
+            "os": "\u042d\u0441\u043f\u0438\u0440\u0438\u0442\u0443-\u0421\u0430\u043d\u0442\u0443",
+            "pl": "Esp\u00edrito Santo",
+            "pt": "Esp\u00edrito Santo",
+            "qu": "Ch'uya Ispiritu",
+            "ru": "\u042d\u0441\u043f\u0438\u0440\u0438\u0442\u0443-\u0421\u0430\u043d\u0442\u0443",
+            "sh": "Espiritu Santu",
+            "sr": "\u0415\u0441\u043f\u0438\u0440\u0438\u0442\u043e \u0421\u0430\u043d\u0442\u043e",
+            "tg": "\u042d\u0441\u043f\u0438\u0440\u0438\u0442\u0443 \u0421\u0430\u043d\u0442\u0443",
+            "th": "\u0e40\u0e2d\u0e2a\u0e1b\u0e35\u0e23\u0e35\u0e15\u0e39\u0e0b\u0e32\u0e19\u0e15\u0e39",
+            "uk": "\u0415\u0441\u043f\u0456\u0440\u0456\u0442\u0443-\u0421\u0430\u043d\u0442\u0443",
+            "uz": "Espiritu-Santu",
+            "zh": "\u5723\u57c3\u65af\u76ae\u91cc\u56fe",
+            "abbreviation": "ES"
+        },
+        "extra": {
+            "wikidata": "Q43233",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 334443,
+        "osm_place_id": 282091462,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Goi\u00e1s",
+        "name_eng": "Goi\u00e1s",
+        "name_translations": {
+            "ar": "\u063a\u0648\u064a\u0627\u0633",
+            "be": "\u0413\u0430\u044f\u0441",
+            "bg": "\u0413\u043e\u044f\u0441",
+            "de": "Goi\u00e1s",
+            "en": "Goi\u00e1s",
+            "eo": "Gojaso",
+            "fa": "\u06af\u0648\u06cc\u06cc\u0627\u0633",
+            "he": "\u05d2\u05d5\u05d9\u05d0\u05e1",
+            "hi": "\u0917\u094b\u0907\u092f\u093e\u0938",
+            "hy": "\u0533\u0578\u0575\u0561\u057d",
+            "ja": "\u30b4\u30a4\u30a2\u30b9",
+            "ka": "\u10d2\u10dd\u10d8\u10d0\u10e1\u10d8",
+            "ko": "\uace0\uc774\uc544\uc2a4",
+            "la": "Goyas",
+            "lt": "Gojasas",
+            "lv": "Gojasa",
+            "mk": "\u0413\u043e\u0458\u0430\u0448",
+            "mr": "\u0917\u094b\u092f\u093e\u090f\u0938",
+            "os": "\u0413\u043e\u044f\u0441",
+            "pl": "Goi\u00e1s",
+            "pt": "Goi\u00e1s",
+            "ru": "\u0413\u043e\u044f\u0441",
+            "sh": "Gojas",
+            "sr": "\u0413\u043e\u0458\u0430\u0441",
+            "tg": "\u0413\u043e\u044f\u0441",
+            "th": "\u0e42\u0e01\u0e22\u0e32\u0e2a",
+            "uk": "\u0413\u043e\u044f\u0441",
+            "uz": "Goyas",
+            "zh": "\u6208\u4e9a\u65af",
+            "abbreviation": "GO"
+        },
+        "extra": {
+            "wikidata": "Q41587",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": "BR-MA",
+        "osm_id": 332924,
+        "osm_place_id": 282088891,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Maranh\u00e3o",
+        "name_eng": "Maranh\u00e3o",
+        "name_translations": {
+            "ar": "\u0645\u0627\u0631\u0627\u0646\u0647\u0627\u0648",
+            "be": "\u041c\u0430\u0440\u0430\u043d\u044c\u044f\u043d",
+            "bg": "\u041c\u0430\u0440\u0430\u043d\u044f\u043e",
+            "de": "Maranh\u00e3o",
+            "en": "Maranh\u00e3o",
+            "eo": "Maranjo",
+            "fa": "\u0645\u0627\u0631\u0627\u0646\u06cc\u0627\u0626\u0648",
+            "gl": "Mara\u00f1\u00f3n",
+            "he": "\u05de\u05e8\u05e0\u05d9\u05d0\u05d5",
+            "hi": "\u092e\u0930\u093e\u0928\u094d\u0939\u093e\u0913",
+            "hy": "\u0544\u0561\u0580\u0561\u0576\u0575\u0561\u0576",
+            "ja": "\u30de\u30e9\u30cb\u30e7\u30f3",
+            "ka": "\u10db\u10d0\u10e0\u10d0\u10dc\u10d8\u10d0\u10dc\u10d8",
+            "kk": "\u041c\u0430\u0440\u0430\u043d\u044c\u044f\u043d",
+            "ko": "\ub9c8\ub77c\ub0e5",
+            "la": "Maragnanum",
+            "lt": "Maranjanas",
+            "lv": "Mara\u0146auna",
+            "mk": "\u041c\u0430\u0440\u0430\u045a\u0430\u043e",
+            "mr": "\u092e\u0930\u093e\u0928\u094d\u092f\u093e\u0935",
+            "os": "\u041c\u0430\u0440\u0430\u043d\u044c\u044f\u043d",
+            "pl": "Maranh\u00e3o",
+            "pt": "Maranh\u00e3o",
+            "ru": "\u041c\u0430\u0440\u0430\u043d\u044c\u044f\u043d",
+            "sh": "Maranjao",
+            "sr": "\u041c\u0430\u0440\u0430\u045a\u0430\u043eps a",
+            "tg": "\u041c\u0430\u0440\u0430\u043d\u044f\u043d",
+            "th": "\u0e21\u0e32\u0e23\u0e31\u0e19\u0e40\u0e22\u0e32",
+            "uk": "\u041c\u0430\u0440\u0430\u043d\u044c\u044f\u043d",
+            "uz": "Maranyan",
+            "zh": "\u9a6c\u62c9\u5c3c\u6602",
+            "abbreviation": "MA"
+        },
+        "extra": {
+            "wikidata": "Q42362",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": "BR-MT",
+        "osm_id": 333597,
+        "osm_place_id": 282306678,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Mato Grosso",
+        "name_eng": "Mato Grosso",
+        "name_translations": {
+            "ar": "\u0645\u0627\u062a\u0648 \u063a\u0631\u0648\u0633\u0648",
+            "be": "\u041c\u0430\u0442\u0443-\u0413\u0440\u043e\u0441\u0443",
+            "bg": "\u041c\u0430\u0442\u043e \u0413\u0440\u043e\u0441\u043e",
+            "de": "Mato Grosso",
+            "en": "Mato Grosso",
+            "eo": "Mato-Groso",
+            "fa": "\u0645\u0627\u062a\u0648 \u06af\u0631\u0648\u0633\u0648",
+            "gl": "Mato Groso",
+            "he": "\u05de\u05d0\u05d8\u05d5 \u05d2\u05e8\u05d5\u05e1\u05d5",
+            "hi": "\u092e\u093e\u0924\u094b \u0917\u094d\u0930\u094b\u0938\u094b",
+            "hy": "\u0544\u0561\u057f\u0578\u0582 \u0533\u0580\u0578\u057d\u0578\u0582",
+            "ja": "\u30de\u30c3\u30c8 \u30b0\u30ed\u30c3\u30bd",
+            "ka": "\u10db\u10d0\u10e2\u10e3-\u10d2\u10e0\u10dd\u10e1\u10e3",
+            "ko": "\ub9c8\ud22c\uadf8\ub85c\uc218",
+            "la": "Silva Crassa",
+            "lt": "Mato Grosas",
+            "lv": "Matugrosu",
+            "mk": "\u041c\u0430\u0442\u043e \u0413\u0440\u043e\u0448\u043e",
+            "mr": "\u092e\u093e\u0924\u094b \u0917\u094d\u0930\u094b\u0938\u094b",
+            "os": "\u041c\u0430\u0442\u0443-\u0413\u0440\u043e\u0441\u0443",
+            "pl": "Mato Grosso",
+            "pt": "Mato Grosso",
+            "ru": "\u041c\u0430\u0442\u0443-\u0413\u0440\u043e\u0441\u0443",
+            "sh": "Matu Grosu",
+            "sr": "\u041c\u0430\u0442\u043e \u0413\u0440\u043e\u0441\u043e",
+            "tg": "\u041c\u0430\u0442\u0443 \u0413\u0440\u043e\u0441\u0443",
+            "th": "\u0e21\u0e32\u0e15\u0e39\u0e42\u0e01\u0e23\u0e2a\u0e0b\u0e39",
+            "uk": "\u041c\u0430\u0442\u0443-\u0413\u0440\u043e\u0441\u0443",
+            "uz": "Matu-Grosu",
+            "zh": "\u9a6c\u6258\u683c\u7f57\u7d22",
+            "abbreviation": "MT"
+        },
+        "extra": {
+            "wikidata": "Q42824",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 334051,
+        "osm_place_id": 282291890,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Mato Grosso do Sul",
+        "name_eng": "Mato Grosso do Sul",
+        "name_translations": {
+            "ar": "\u0645\u0627\u062a\u0648 \u063a\u0631\u0648\u0633\u0648 \u062f\u0648 \u0633\u0648\u0644",
+            "be": "\u041c\u0430\u0442\u0443-\u0413\u0440\u043e\u0441\u0443-\u0434\u0443-\u0421\u0443\u043b",
+            "bg": "\u041c\u0430\u0442\u043e \u0413\u0440\u043e\u0441\u043e \u0434\u043e \u0421\u0443\u043b",
+            "de": "Mato Grosso do Sul",
+            "en": "Mato Grosso do Sul",
+            "eo": "Suda Mato-Groso",
+            "es": "Mato Grosso del Sur",
+            "eu": "Hegoaldeko Mato Grosso",
+            "fa": "\u0645\u0627\u062a\u0648\u06af\u0631\u0648\u0633\u0648 \u062c\u0646\u0648\u0628\u06cc",
+            "gl": "Mato Groso do Sur",
+            "he": "\u05de\u05d0\u05d8\u05d5 \u05d2\u05e8\u05d5\u05e1\u05d5 \u05d3\u05d5 \u05e1\u05d5\u05dc",
+            "hi": "\u092e\u093e\u0924\u094b \u0917\u094d\u0930\u094b\u0938\u094b \u0926\u094b \u0938\u0941\u0932",
+            "hy": "\u0544\u0561\u057f\u0578\u0582 \u0533\u0580\u0578\u057d\u0578\u0582 \u0564\u0578\u0582 \u054d\u0578\u0582\u056c",
+            "ja": "\u30de\u30c3\u30c8\u30b0\u30ed\u30c3\u30bd\u30fb\u30c9\u30fb\u30b9\u30eb",
+            "ka": "\u10db\u10d0\u10e2\u10e3-\u10d2\u10e0\u10dd\u10e1\u10e3-\u10d3\u10e3-\u10e1\u10e3\u10da\u10d8",
+            "ko": "\ub9c8\ud22c\uadf8\ub85c\uc218\ub450\uc220",
+            "la": "Silva Crassa Meridionalis",
+            "lt": "Piet\u0173 Mato Grosas",
+            "lv": "Matugrosu du Sula",
+            "mk": "\u0408\u0443\u0436\u043d\u0430 \u041c\u0430\u0442\u043e \u0413\u0440\u043e\u0448\u043e",
+            "mr": "\u092e\u093e\u0924\u094b \u0917\u094d\u0930\u094b\u0938\u094b \u0926\u094b \u0938\u0941\u0932",
+            "os": "\u041c\u0430\u0442\u0443-\u0413\u0440\u043e\u0441\u0443-\u0434\u0443-\u0421\u0443\u043b",
+            "pa": "\u0645\u0627\u062a\u0648 \u06af\u0631\u0648\u0633\u0648 \u062f\u0648 \u0633\u0648\u0644",
+            "pl": "Mato Grosso do Sul",
+            "pt": "Mato Grosso do Sul",
+            "qu": "Urin Mato Grosso",
+            "ru": "\u041c\u0430\u0442\u0443-\u0413\u0440\u043e\u0441\u0443-\u0434\u0443-\u0421\u0443\u043b",
+            "sh": "Matu Grosu du Sul",
+            "sr": "\u041c\u0430\u0442\u043e \u0413\u0440\u043e\u0441\u043e \u0434\u043e \u0421\u0443\u043b",
+            "tg": "\u041c\u0430\u0442\u0443 \u0413\u0440\u043e\u0441\u0443 \u0434\u0443 \u0421\u0443\u043b",
+            "th": "\u0e21\u0e32\u0e15\u0e39\u0e42\u0e01\u0e23\u0e2a\u0e0b\u0e39\u0e42\u0e14\u0e0b\u0e39\u0e25",
+            "uk": "\u041c\u0430\u0442\u0443-\u0413\u0440\u043e\u0441\u0443-\u0434\u0443-\u0421\u0443\u043b",
+            "uz": "Matu-Grosu-du-Sul",
+            "zh": "\u5357\u9a6c\u6258\u683c\u7f57\u7d22",
+            "abbreviation": "MS"
+        },
+        "extra": {
+            "wikidata": "Q43319",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 315173,
+        "osm_place_id": 281937822,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Minas Gerais",
+        "name_eng": "Minas Gerais",
+        "name_translations": {
+            "ar": "\u0645\u064a\u0646\u0627\u0633 \u062c\u064a\u0631\u0627\u064a\u0633",
+            "be": "\u041c\u0456\u043d\u0430\u0441-\u0416\u044d\u0440\u0430\u0439\u0441",
+            "bg": "\u041c\u0438\u043d\u0430\u0441 \u0416\u0435\u0440\u0430\u0439\u0441",
+            "de": "Minas Gerais",
+            "en": "Minas Gerais",
+            "eo": "Minas-\u011cerajso",
+            "fa": "\u0645\u06cc\u0646\u0627\u0633 \u06af\u0631\u0627\u06cc\u0633",
+            "gl": "Minas Xerais",
+            "he": "\u05de\u05d9\u05e0\u05d0\u05e1 \u05d6'\u05e8\u05d0\u05d9\u05e1",
+            "hi": "\u092e\u093f\u0928\u093e\u0938 \u091c\u0947\u0930\u093e\u092f\u091c\u093c",
+            "hy": "\u0544\u056b\u0576\u0561\u057d \u053a\u0565\u0580\u0561\u0575\u057d",
+            "ja": "\u30df\u30ca\u30b9 \u30b8\u30a7\u30e9\u30a4\u30b9",
+            "ka": "\u10db\u10d8\u10dc\u10d0\u10e1-\u10df\u10d4\u10e0\u10d0\u10d8\u10e1\u10d8",
+            "ko": "\ubbf8\ub098\uc2a4\uc81c\ub77c\uc774\uc2a4",
+            "ku": "Minas Grais",
+            "la": "Fodinae Generales",
+            "lt": "Minas \u017deraisas",
+            "lv": "Minas\u017eeraisa",
+            "mk": "\u041c\u0438\u043d\u0430\u0448 \u0416\u0435\u0440\u0430\u0438\u0441",
+            "mr": "\u092e\u093f\u0928\u093e\u0938 \u091c\u0947\u0930\u093e\u0908\u0938",
+            "os": "\u041c\u0438\u043d\u0430\u0441-\u0416\u0435\u0440\u0430\u0439\u0441",
+            "pl": "Minas Gerais",
+            "pt": "Minas Gerais",
+            "ru": "\u041c\u0438\u043d\u0430\u0441-\u0416\u0435\u0440\u0430\u0439\u0441",
+            "sr": "\u041c\u0438\u043d\u0430\u0441 \u0416\u0435\u0440\u0430\u0438\u0441",
+            "tg": "\u041c\u0438\u043d\u0430\u0441 \u0416\u0435\u0440\u0430\u0439\u0441",
+            "th": "\u0e21\u0e35\u0e19\u0e31\u0e2a\u0e40\u0e0a\u0e44\u0e23\u0e2a\u0e4c",
+            "uk": "\u041c\u0456\u043d\u0430\u0441-\u0416\u0435\u0440\u0430\u0439\u0441",
+            "uz": "Minas-Jerays",
+            "zh": "\u7c73\u7eb3\u65af\u5409\u62c9\u65af"
+        },
+        "extra": {
+            "wikidata": "Q39109",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": "BR-PA",
+        "osm_id": 185579,
+        "osm_place_id": 282070816,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Par\u00e1",
+        "name_eng": "Par\u00e1",
+        "name_translations": {
+            "ar": "\u0628\u0627\u0631\u0627",
+            "be": "\u041f\u0430\u0440\u0430",
+            "bg": "\u041f\u0430\u0440\u0430",
+            "de": "Par\u00e1",
+            "en": "Par\u00e1",
+            "eo": "Parao",
+            "fa": "\u067e\u0627\u0631\u0627",
+            "gn": "Para",
+            "he": "\u05e4\u05d0\u05e8\u05d4",
+            "hy": "\u054a\u0561\u0580\u0561",
+            "ja": "\u30d1\u30e9\u30fc",
+            "ka": "\u10de\u10d0\u10e0\u10d0",
+            "ko": "\ud30c\ub77c",
+            "la": "Para",
+            "lt": "Para",
+            "lv": "Para",
+            "mk": "\u041f\u0430\u0440\u0430",
+            "mr": "\u092a\u093e\u0930\u093e",
+            "os": "\u041f\u0430\u0440\u0430",
+            "pl": "Par\u00e1",
+            "pt": "Par\u00e1",
+            "ru": "\u041f\u0430\u0440\u0430",
+            "sh": "Para",
+            "sr": "\u041f\u0430\u0440\u0430",
+            "tg": "\u041f\u0430\u0440\u0430",
+            "th": "\u0e1b\u0e32\u0e23\u0e32",
+            "uk": "\u041f\u0430\u0440\u0430",
+            "uz": "Para",
+            "zh": "\u5e15\u62c9",
+            "abbreviation": "PA"
+        },
+        "extra": {
+            "wikidata": "Q39517",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 301464,
+        "osm_place_id": 282280064,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Para\u00edba",
+        "name_eng": "Para\u00edba",
+        "name_translations": {
+            "ar": "\u0628\u0627\u0631\u0627\u064a\u0628\u0627",
+            "be": "\u041f\u0430\u0440\u0430\u0456\u0431\u0430",
+            "bg": "\u041f\u0430\u0440\u0430\u0438\u0431\u0430",
+            "de": "Para\u00edba",
+            "en": "Para\u00edba",
+            "eo": "Paraibo",
+            "fa": "\u067e\u0627\u0631\u0627\u0626\u06cc\u0628\u0627",
+            "gn": "Parayva",
+            "he": "\u05e4\u05d0\u05e8\u05d0\u05d9\u05d1\u05d4",
+            "hi": "\u092a\u0930\u0947\u092c\u093e",
+            "hy": "\u054a\u0561\u0580\u0561\u056b\u0562\u0561",
+            "ja": "\u30d1\u30e9\u30a4\u30d0",
+            "ka": "\u10de\u10d0\u10e0\u10d0\u10d8\u10d1\u10d0",
+            "ko": "\ud30c\ub77c\uc774\ubc14",
+            "la": "Parahyba",
+            "lt": "Paraiba",
+            "lv": "Paraiba",
+            "mk": "\u041f\u0430\u0440\u0430\u0438\u0431\u0430",
+            "mr": "\u092a\u0930\u0948\u092c\u093e",
+            "os": "\u041f\u0430\u0440\u0430\u0438\u0431\u00e6",
+            "pl": "Para\u00edba",
+            "pt": "Para\u00edba",
+            "ru": "\u041f\u0430\u0440\u0430\u0438\u0431\u0430",
+            "sh": "Paraiba",
+            "sr": "\u041f\u0430\u0440\u0430\u0438\u0431\u0430",
+            "tg": "\u041f\u0430\u0440\u0430\u0438\u0431\u0430",
+            "th": "\u0e1b\u0e32\u0e23\u0e32\u0e2d\u0e35\u0e1a\u0e32",
+            "uk": "\u041f\u0430\u0440\u0430\u0457\u0431\u0430",
+            "uz": "Paraiba",
+            "zh": "\u5e15\u62c9\u4f0a\u5df4"
+        },
+        "extra": {
+            "wikidata": "Q38088",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 297640,
+        "osm_place_id": 281878251,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Paran\u00e1",
+        "name_eng": "Paran\u00e1",
+        "name_translations": {
+            "af": "Paran\u00e1",
+            "ar": "\u0628\u0627\u0631\u0627\u0646\u0627",
+            "ay": "Parana Istadu",
+            "az": "Parana \u015ftat\u0131",
+            "be": "\u041f\u0430\u0440\u0430\u043d\u0430",
+            "bg": "\u041f\u0430\u0440\u0430\u043d\u0430",
+            "br": "Paran\u00e1",
+            "bs": "Paran\u00e1",
+            "ca": "Paran\u00e0",
+            "cs": "Paran\u00e1",
+            "cy": "Paran\u00e1",
+            "da": "Paran\u00e1",
+            "de": "Paran\u00e1",
+            "el": "\u03a0\u03b1\u03c1\u03b1\u03bd\u03ac",
+            "en": "Paran\u00e1",
+            "eo": "Paranao",
+            "es": "Estado de Paran\u00e1",
+            "et": "Paran\u00e1 osariik",
+            "eu": "Paran\u00e1",
+            "fa": "\u067e\u0627\u0631\u0627\u0646\u0627",
+            "fi": "Paran\u00e1",
+            "fr": "Parana",
+            "gl": "Estado do Paran\u00e1",
+            "gn": "Parana",
+            "he": "\u05e4\u05e8\u05e0\u05d4",
+            "hi": "\u092a\u093e\u0930\u093e\u0928\u093e",
+            "hr": "Paran\u00e1",
+            "hu": "Paran\u00e1",
+            "hy": "\u054a\u0561\u0580\u0561\u0576\u0561",
+            "ia": "Parana",
+            "io": "Paran\u00e1",
+            "is": "Paran\u00e1",
+            "it": "Paran\u00e1",
+            "ja": "\u30d1\u30e9\u30ca",
+            "ka": "\u10de\u10d0\u10e0\u10d0\u10dc\u10d0",
+            "ko": "\ud30c\ub77c\ub098",
+            "la": "Parana",
+            "li": "Paran\u00e1",
+            "lt": "Parana",
+            "lv": "Parana",
+            "mk": "\u041f\u0430\u0440\u0430\u043d\u0430",
+            "mr": "\u092a\u093e\u0930\u093e\u0928\u093e",
+            "ms": "Paran\u00e1",
+            "nl": "Paran\u00e1",
+            "nn": "Delstaten Paran\u00e1",
+            "no": "Paran\u00e1",
+            "oc": "Estat del Paran\u00e1",
+            "os": "\u041f\u0430\u0440\u0430\u043d\u0430",
+            "pl": "Parana",
+            "pt": "Paran\u00e1",
+            "qu": "Paran\u00e1 suyu",
+            "ru": "\u041f\u0430\u0440\u0430\u043d\u0430",
+            "sk": "Paran\u00e1",
+            "sr": "\u041f\u0430\u0440\u0430\u043d\u0430",
+            "sv": "Paran\u00e1",
+            "sw": "Paran\u00e1",
+            "ta": "\u0baa\u0bb0\u0bbe\u0ba9\u0bbe",
+            "tg": "\u041f\u0430\u0440\u0430\u043d\u0430",
+            "th": "\u0e1b\u0e32\u0e23\u0e32\u0e19\u0e32",
+            "tr": "Paran\u00e1",
+            "tt": "\u041f\u0430\u0440\u0430\u043d\u0430",
+            "uk": "\u041f\u0430\u0440\u0430\u043d\u0430",
+            "ur": "\u067e\u0627\u0631\u0627\u0646\u0627",
+            "uz": "Parana",
+            "vi": "Paran\u00e1",
+            "yi": "\u05e4\u05d0\u05e8\u05d0\u05e0\u05d0",
+            "yo": "Paran\u00e1",
+            "zh": "\u5df4\u62c9\u90a3"
+        },
+        "extra": {
+            "wikidata": "Q15499",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 303702,
+        "osm_place_id": 282276806,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Pernambuco",
+        "name_eng": "Pernambuco",
+        "name_translations": {
+            "ar": "\u0628\u064a\u0631\u0646\u0627\u0645\u0628\u0648\u0643\u0648",
+            "be": "\u041f\u0435\u0440\u043d\u0430\u043c\u0431\u0443\u043a\u0443",
+            "bg": "\u041f\u0435\u0440\u043d\u0430\u043c\u0431\u0443\u043a\u043e",
+            "de": "Pernambuco",
+            "en": "Pernambuco",
+            "eo": "Pernambuko",
+            "fa": "\u067e\u0631\u0646\u0627\u0645\u0628\u0648\u06a9\u0648",
+            "fr": "Pernambouc",
+            "he": "\u05e4\u05e8\u05e0\u05de\u05d1\u05d5\u05e7\u05d5",
+            "hi": "\u092a\u0947\u0930\u0928\u093e\u092e\u094d\u092c\u0941\u0915\u094b",
+            "hy": "\u054a\u0565\u0580\u0576\u0561\u0574\u0562\u0578\u0582\u056f\u0578\u0582",
+            "ja": "\u30da\u30eb\u30ca\u30f3\u30d6\u30fc\u30b3",
+            "ka": "\u10de\u10d4\u10e0\u10dc\u10d0\u10db\u10d1\u10e3\u10d9\u10e3",
+            "ko": "\ud398\ub974\ub0a8\ubd80\ucfe0",
+            "la": "Pernambucum",
+            "lt": "Pernambukas",
+            "lv": "Pernambuku",
+            "mk": "\u041f\u0435\u0440\u043d\u0430\u043c\u0431\u0443\u043a\u043e",
+            "mr": "\u092a\u0930\u094d\u0928\u093e\u0902\u092c\u0941\u0915\u094b",
+            "os": "\u041f\u0435\u0440\u043d\u0430\u043c\u0431\u0443\u043a\u0443",
+            "pl": "Pernambuco",
+            "pt": "Pernambuco",
+            "ru": "\u041f\u0435\u0440\u043d\u0430\u043c\u0431\u0443\u043a\u0443",
+            "sr": "\u041f\u0435\u0440\u043d\u0430\u043c\u0431\u0443\u043a\u043e",
+            "tg": "\u041f\u0435\u0440\u043d\u0430\u043c\u0431\u0443\u043a\u0443",
+            "th": "\u0e40\u0e1b\u0e23\u0e4c\u0e19\u0e31\u0e21\u0e1a\u0e39\u0e01\u0e39",
+            "uk": "\u041f\u0435\u0440\u043d\u0430\u043c\u0431\u0443\u043a\u0443",
+            "uz": "Prenambuku",
+            "zh": "\u4f2f\u5357\u5e03\u54e5"
+        },
+        "extra": {
+            "wikidata": "Q40942",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": "BR-PI",
+        "osm_id": 302819,
+        "osm_place_id": 282047767,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Piau\u00ed",
+        "name_eng": "Piau\u00ed",
+        "name_translations": {
+            "ar": "\u0628\u064a\u0627\u0648\u064a",
+            "be": "\u041f\u0456\u044f\u045e\u0456",
+            "bg": "\u041f\u0438\u0430\u0443\u0438",
+            "de": "Piau\u00ed",
+            "en": "Piau\u00ed",
+            "eo": "Pia\u016dio",
+            "fa": "\u067e\u06cc\u0627\u0648\u06cc",
+            "gn": "Piaui",
+            "he": "\u05e4\u05d9\u05d0\u05d0\u05d5\u05d9",
+            "hi": "\u092a\u093f\u092f\u093e\u0909\u0908",
+            "hy": "\u054a\u056b\u0561\u0578\u0582\u056b",
+            "ja": "\u30d4\u30a2\u30a6\u30a4\u30fc",
+            "ka": "\u10de\u10d8\u10d0\u10e3\u10d8",
+            "ko": "\ud53c\uc544\uc6b0\uc774",
+            "la": "Piauhy",
+            "lt": "Piaujis",
+            "lv": "Pjaui",
+            "mk": "\u041f\u0458\u0430\u0443\u045d",
+            "mr": "\u092a\u093f\u0906\u0935\u0940",
+            "os": "\u041f\u0438\u0430\u0443\u0438",
+            "pl": "Piau\u00ed",
+            "pt": "Piau\u00ed",
+            "ru": "\u041f\u0438\u0430\u0443\u0438",
+            "sh": "Pjaui",
+            "sr": "\u041f\u0458\u0430\u0443\u0438",
+            "tg": "\u041f\u0438\u0430\u0443\u0438",
+            "th": "\u0e1b\u0e35\u0e40\u0e2d\u0e32\u0e2d\u0e35",
+            "uk": "\u041f\u0456\u0430\u0443\u0457",
+            "uz": "Piaui",
+            "zh": "\u76ae\u5967\u4f0a",
+            "abbreviation": "PI"
+        },
+        "extra": {
+            "wikidata": "Q42722",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 2662003,
+        "osm_place_id": 282324254,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Administrativa Integrada de Desenvolvimento do Polo Petrolina e Juazeiro",
+        "name_eng": "Regi\u00e3o Administrativa Integrada de Desenvolvimento do Polo Petrolina e Juazeiro",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q3931908",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 4820186,
+        "osm_place_id": 282671947,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Altamira",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Altamira",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q65167687",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 5139553,
+        "osm_place_id": 282561002,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Aracaju",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Aracaju",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q65168175",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 2731025,
+        "osm_place_id": 282528380,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Ara\u00e7atuba",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Ara\u00e7atuba",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q48878434",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 4846886,
+        "osm_place_id": 282658056,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Aragua\u00edna",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Aragua\u00edna",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q65167691",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 5138413,
+        "osm_place_id": 282562266,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Arapiraca",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Arapiraca",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q65171796",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 4791605,
+        "osm_place_id": 282587043,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Araraquara",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Araraquara",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q48878443",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 4874838,
+        "osm_place_id": 282930771,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Barra do Gar\u00e7as",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Barra do Gar\u00e7as",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q56350451",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 4553197,
+        "osm_place_id": 282541496,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Barreiras",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Barreiras",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q65171798",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 4782236,
+        "osm_place_id": 282764607,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Bauru",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Bauru",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q48878430",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 4821598,
+        "osm_place_id": 282643395,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Bel\u00e9m",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Bel\u00e9m",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q61000240",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 2235300,
+        "osm_place_id": 282319686,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Belo Horizonte",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Belo Horizonte",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q65174957",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 4097614,
+        "osm_place_id": 321950035,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Blumenau",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Blumenau",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q65170694",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 4813477,
+        "osm_place_id": 282641182,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Boa Vista",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Boa Vista",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q56346743",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 4821368,
+        "osm_place_id": 282681743,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Breves",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Breves",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q65167695",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 11072847,
+        "osm_place_id": 283220071,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Ca\u00e7ador",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Ca\u00e7ador",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q65170701",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 4875160,
+        "osm_place_id": 282919074,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de C\u00e1ceres",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de C\u00e1ceres",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q48884315",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 1843575,
+        "osm_place_id": 282318238,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Cachoeiro de Itapemirim",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Cachoeiro de Itapemirim",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q65171420",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 10988909,
+        "osm_place_id": 283211762,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Caic\u00f3",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Caic\u00f3",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q65168178",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 4504161,
+        "osm_place_id": 282537686,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Campina Grande",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Campina Grande",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q48877888",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 4802907,
+        "osm_place_id": 282624965,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Campinas",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Campinas",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q48878448",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 4833035,
+        "osm_place_id": 282615465,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Campo Grande",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Campo Grande",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q65171890",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 2212556,
+        "osm_place_id": 282289654,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Campos dos Goytacazes",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Campos dos Goytacazes",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q65174960",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 5122453,
+        "osm_place_id": 282649481,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Caruaru",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Caruaru",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q65168182",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 4728458,
+        "osm_place_id": 282580032,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Cascavel",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Cascavel",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q65170696",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 4830230,
+        "osm_place_id": 282676420,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Castanhal",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Castanhal",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q61000243",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 5129417,
+        "osm_place_id": 282569826,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Caxias",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Caxias",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q61002709",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 4751423,
+        "osm_place_id": 282950662,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Caxias do Sul",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Caxias do Sul",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q65170698",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 4096471,
+        "osm_place_id": 282829906,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Chapec\u00f3",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Chapec\u00f3",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q65171800",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 1843574,
+        "osm_place_id": 282202662,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Colatina",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Colatina",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q65171423",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 11074794,
+        "osm_place_id": 283260575,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Corrente-Bom Jesus",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Corrente-Bom Jesus",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q65169679",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 4832189,
+        "osm_place_id": 282563824,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Corumb\u00e1",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Corumb\u00e1",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q65171892",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 5155951,
+        "osm_place_id": 282688467,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Crate\u00fas",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Crate\u00fas",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q56347125",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 4097613,
+        "osm_place_id": 282496539,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Crici\u00fama",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Crici\u00fama",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q65170703",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 4748595,
+        "osm_place_id": 282619255,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Cruzeiro do Sul",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Cruzeiro do Sul",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q65173763",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 4875155,
+        "osm_place_id": 282567774,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Cuiab\u00e1",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Cuiab\u00e1",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q56346887",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 4729310,
+        "osm_place_id": 282594451,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Curitiba",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Curitiba",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q65171803",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 2235303,
+        "osm_place_id": 282709815,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Divin\u00f3polis",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Divin\u00f3polis",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q65171425",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 4831653,
+        "osm_place_id": 282593749,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Dourados",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Dourados",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q65171895",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 4547002,
+        "osm_place_id": 282598602,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Feira de Santana",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Feira de Santana",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q65170015",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 11074793,
+        "osm_place_id": 283526070,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Floriano",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Floriano",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q65174266",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 4097612,
+        "osm_place_id": 282490088,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Florian\u00f3polis",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Florian\u00f3polis",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q65170705",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 5155657,
+        "osm_place_id": 282577052,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Fortaleza",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Fortaleza",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q56347121",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 4873222,
+        "osm_place_id": 282963929,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Goi\u00e2nia",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Goi\u00e2nia",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q56346691",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 2235307,
+        "osm_place_id": 282474907,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Governador Valadares",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Governador Valadares",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q65171427",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 11074970,
+        "osm_place_id": 283290055,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Guanambi",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Guanambi",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q65174472",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 4728835,
+        "osm_place_id": 282554240,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Guarapuava",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Guarapuava",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q65170707",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 11072995,
+        "osm_place_id": 283524663,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Gurupi",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Gurupi",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q65167698",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 5161831,
+        "osm_place_id": 282777318,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Iguatu",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Iguatu",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q56348224",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 9309272,
+        "osm_place_id": 283088167,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Ijui",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Ijui",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q65170710",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 4548897,
+        "osm_place_id": 282532749,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Ilh\u00e9us-Itabuna",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Ilh\u00e9us-Itabuna",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q51882512",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 5129433,
+        "osm_place_id": 282780156,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Imperatriz",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Imperatriz",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q61002712",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 2235299,
+        "osm_place_id": 282362699,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Ipatinga",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Ipatinga",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q65171430",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 4546823,
+        "osm_place_id": 282927665,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Irec\u00ea",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Irec\u00ea",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q65174474",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 5139595,
+        "osm_place_id": 282624809,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Itabaiana",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Itabaiana",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q65168186",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 11074792,
+        "osm_place_id": 283262068,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Itumbiara",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Itumbiara",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q56346693",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 4748686,
+        "osm_place_id": 282634721,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Ji-Paran\u00e1",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Ji-Paran\u00e1",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q65173767",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 1216662,
+        "osm_place_id": 282225077,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Jo\u00e3o Pessoa",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Jo\u00e3o Pessoa",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q48877933",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 3871700,
+        "osm_place_id": 282924309,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Joinville",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Joinville",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q65170712",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 11074969,
+        "osm_place_id": 283227040,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Juazeiro",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Juazeiro",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q65174478",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 5161844,
+        "osm_place_id": 282623864,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Juazeiro do Norte",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Juazeiro do Norte",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q56351072",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 4775845,
+        "osm_place_id": 282563583,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de L\u00e1brea",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de L\u00e1brea",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q56346725",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 4097611,
+        "osm_place_id": 282617375,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Lages",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Lages",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q65170714",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 4730514,
+        "osm_place_id": 282899348,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Londrina",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Londrina",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q65170716",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 4874109,
+        "osm_place_id": 282572606,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Luzi\u00e2nia-\u00c1guas Lindas de Goi\u00e1s",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Luzi\u00e2nia-\u00c1guas Lindas de Goi\u00e1s",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q65170718",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 2215571,
+        "osm_place_id": 282260436,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Maca\u00e9-Rio das Ostras-Cabo Frio",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Maca\u00e9-Rio das Ostras-Cabo Frio",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q65174963",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 4819138,
+        "osm_place_id": 282562406,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Macap\u00e1",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Macap\u00e1",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q65173773",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 5138408,
+        "osm_place_id": 282622493,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Macei\u00f3",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Macei\u00f3",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q65168190",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 4775789,
+        "osm_place_id": 282953217,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Manaus",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Manaus",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q56346735",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 4828724,
+        "osm_place_id": 283220094,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Marab\u00e1",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Marab\u00e1",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q65167701",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 4780866,
+        "osm_place_id": 282622400,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Mar\u00edlia",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Mar\u00edlia",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q48878431",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 4729280,
+        "osm_place_id": 282632395,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Maring\u00e1",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Maring\u00e1",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q65170721",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 2235302,
+        "osm_place_id": 282275289,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Montes Claros",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Montes Claros",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q65171432",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 5163835,
+        "osm_place_id": 282577018,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Mossor\u00f3",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Mossor\u00f3",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q65168192",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 5163857,
+        "osm_place_id": 282563421,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Natal",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Natal",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q65168196",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 4819163,
+        "osm_place_id": 282672062,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Oiapoque-Porto Grande",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Oiapoque-Porto Grande",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q65173774",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 4846888,
+        "osm_place_id": 282912518,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Palmas",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Palmas",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q65167704",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 4775721,
+        "osm_place_id": 282563430,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Parintins",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Parintins",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q56346731",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 5145071,
+        "osm_place_id": 282561674,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Parna\u00edba",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Parna\u00edba",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q65174268",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 4751506,
+        "osm_place_id": 282598785,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Passo Fundo",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Passo Fundo",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q65174715",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 4504163,
+        "osm_place_id": 282740275,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Patos",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Patos",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q48877566",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 2235301,
+        "osm_place_id": 282348480,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Patos de Minas",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Patos de Minas",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q61002025",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 11074968,
+        "osm_place_id": 283221894,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Paulo Afonso",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Paulo Afonso",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q65174481",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 4751558,
+        "osm_place_id": 282556378,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Pelotas",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Pelotas",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q65170723",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 5122691,
+        "osm_place_id": 282621208,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Petrolina",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Petrolina",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q65168199",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 2215526,
+        "osm_place_id": 282470063,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Petr\u00f3polis",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Petr\u00f3polis",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q65174964",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 5145141,
+        "osm_place_id": 283231514,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Picos",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Picos",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q65174486",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 4730498,
+        "osm_place_id": 282948768,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Ponta Grossa",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Ponta Grossa",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q65170725",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 4873344,
+        "osm_place_id": 282826629,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Porangatu-Urua\u00e7u",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Porangatu-Urua\u00e7u",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q56350910",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 2844354,
+        "osm_place_id": 282379669,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Porto Alegre",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Porto Alegre",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q65174718",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 4748699,
+        "osm_place_id": 282914314,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Porto Velho",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Porto Velho",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q65173781",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 11075266,
+        "osm_place_id": 283507338,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Pouso Alegre",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Pouso Alegre",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q65171434",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 5129396,
+        "osm_place_id": 282623209,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Presidente Dutra",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Presidente Dutra",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q61002711",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 2661526,
+        "osm_place_id": 282515831,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Presidente Prudente",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Presidente Prudente",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q48878433",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 5161833,
+        "osm_place_id": 282700313,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Quixad\u00e1",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Quixad\u00e1",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q56348217",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 11074718,
+        "osm_place_id": 283221504,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Reden\u00e7\u00e3o",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Reden\u00e7\u00e3o",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q65167708",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 4791928,
+        "osm_place_id": 282564034,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Ribeir\u00e3o Preto",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Ribeir\u00e3o Preto",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q48878441",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 4748592,
+        "osm_place_id": 282597836,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Rio Branco",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Rio Branco",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q56346737",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 4857279,
+        "osm_place_id": 282646297,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Rio Verde",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Rio Verde",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q65168202",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 4874866,
+        "osm_place_id": 282696453,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Rondon\u00f3polis",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Rondon\u00f3polis",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q56346889",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 4813388,
+        "osm_place_id": 282771566,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Rorain\u00f3polis-Caracara\u00ed",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Rorain\u00f3polis-Caracara\u00ed",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q56346744",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 4555377,
+        "osm_place_id": 282784936,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Salvador",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Salvador",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q65170019",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 4751538,
+        "osm_place_id": 282635622,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Santa Cruz do Sul - Lajeado",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Santa Cruz do Sul - Lajeado",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q65170728",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 5130759,
+        "osm_place_id": 282623870,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Santa In\u00eas-Bacabal",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Santa In\u00eas-Bacabal",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q61002706",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 4751534,
+        "osm_place_id": 283210807,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Santa Maria",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Santa Maria",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q65170730",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 4826842,
+        "osm_place_id": 282772838,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Santar\u00e9m",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Santar\u00e9m",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q65167712",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 11074971,
+        "osm_place_id": 283258326,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Santo Ant\u00f4nio de Jesus",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Santo Ant\u00f4nio de Jesus",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q65174489",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 4778493,
+        "osm_place_id": 282554056,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de S\u00e3o Jos\u00e9 do Rio Preto",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de S\u00e3o Jos\u00e9 do Rio Preto",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q48878439",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 4813131,
+        "osm_place_id": 283218477,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de S\u00e3o Jos\u00e9 dos Campos",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de S\u00e3o Jos\u00e9 dos Campos",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q48873429",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 5130387,
+        "osm_place_id": 282623058,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de S\u00e3o Lu\u00eds",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de S\u00e3o Lu\u00eds",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q61002705",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 4873257,
+        "osm_place_id": 282930178,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de S\u00e3o Lu\u00eds de Montes Belos-Ipor\u00e1",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de S\u00e3o Lu\u00eds de Montes Belos-Ipor\u00e1",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q65168210",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 1843594,
+        "osm_place_id": 282237387,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de S\u00e3o Mateus",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de S\u00e3o Mateus",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q65171436",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 4807856,
+        "osm_place_id": 282561763,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de S\u00e3o Paulo",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de S\u00e3o Paulo",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q48878425",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 5145179,
+        "osm_place_id": 282576109,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de S\u00e3o Raimundo Nonato",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de S\u00e3o Raimundo Nonato",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q65169683",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 5122693,
+        "osm_place_id": 282661971,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Serra Talhada",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Serra Talhada",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q65168206",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 4875162,
+        "osm_place_id": 283228718,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Sinop",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Sinop",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q56346860",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 5149369,
+        "osm_place_id": 282778271,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Sobral",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Sobral",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q56351077",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 4807469,
+        "osm_place_id": 282815560,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Sorocaba",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Sorocaba",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q48878427",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 10016745,
+        "osm_place_id": 283170506,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Sousa-Cajazeiras",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Sousa-Cajazeiras",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q48877616",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 4775819,
+        "osm_place_id": 282763031,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Tef\u00e9",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Tef\u00e9",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q56346696",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 2235306,
+        "osm_place_id": 282508609,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Te\u00f3filo Otoni",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Te\u00f3filo Otoni",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q61001070",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 5145084,
+        "osm_place_id": 282651147,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Teresina",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Teresina",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q65174493",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 2235298,
+        "osm_place_id": 282326209,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Uberaba",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Uberaba",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q65171438",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 2235305,
+        "osm_place_id": 282261937,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Uberl\u00e2ndia",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Uberl\u00e2ndia",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q56346733",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 4753474,
+        "osm_place_id": 282664366,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Uruguaiana",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Uruguaiana",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q65170732",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 2235304,
+        "osm_place_id": 282475251,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Varginha",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Varginha",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q65171441",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 1843572,
+        "osm_place_id": 282209435,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Vit\u00f3ria",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Vit\u00f3ria",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q65171443",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 4546446,
+        "osm_place_id": 283000803,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Vit\u00f3ria da Conquista",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Vit\u00f3ria da Conquista",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q65170022",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 4816374,
+        "osm_place_id": 282589753,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Volta Redonda-Barra Mansa",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria de Volta Redonda-Barra Mansa",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q56351399",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 11083431,
+        "osm_place_id": 283223347,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria do Distrito Federal",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria do Distrito Federal",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q48877961",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 5119905,
+        "osm_place_id": 282920124,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria do Recife",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria do Recife",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q65174270",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 2220779,
+        "osm_place_id": 282264916,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria do Rio de Janeiro",
+        "name_eng": "Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria do Rio de Janeiro",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q56346884",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 2662004,
+        "osm_place_id": 282376104,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Integrada de Desenvolvimento da Grande Teresina",
+        "name_eng": "Regi\u00e3o Integrada de Desenvolvimento da Grande Teresina",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q3931951",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 2662005,
+        "osm_place_id": 282307354,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Integrada de Desenvolvimento do Distrito Federal e Entorno",
+        "name_eng": "Regi\u00e3o Integrada de Desenvolvimento do Distrito Federal e Entorno",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1444870",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 2661853,
+        "osm_place_id": 282643971,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Metropolitana da Baixada Santista",
+        "name_eng": "Regi\u00e3o Metropolitana da Baixada Santista",
+        "name_translations": {
+            "pt": "Regi\u00e3o Metropolitana da Baixada Santista"
+        },
+        "extra": {
+            "wikidata": "Q804027",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 1843576,
+        "osm_place_id": 334774248,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Metropolitana da Grande Vit\u00f3ria",
+        "name_eng": "Greater Vit\u00f3ria",
+        "name_translations": {
+            "en": "Greater Vit\u00f3ria",
+            "pt": "Regi\u00e3o Metropolitana da Grande Vit\u00f3ria"
+        },
+        "extra": {
+            "wikidata": "Q1163503",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 4510780,
+        "osm_place_id": 282524653,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Metropolitana de Araruna",
+        "name_eng": "Regi\u00e3o Metropolitana de Araruna",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q10358724",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 4510781,
+        "osm_place_id": 282533113,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Metropolitana de Barra de Santa Rosa",
+        "name_eng": "Regi\u00e3o Metropolitana de Barra de Santa Rosa",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q10358725",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 2954515,
+        "osm_place_id": 282343452,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Metropolitana de Belo Horizonte",
+        "name_eng": "Regi\u00e3o Metropolitana de Belo Horizonte",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2294919",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 4510782,
+        "osm_place_id": 282585925,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Metropolitana de Cajazeiras",
+        "name_eng": "Regi\u00e3o Metropolitana de Cajazeiras",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q10358726",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 4504152,
+        "osm_place_id": 282873480,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Metropolitana de Campina Grande",
+        "name_eng": "Regi\u00e3o Metropolitana de Campina Grande",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q10358729",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 2661854,
+        "osm_place_id": 282307029,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Metropolitana de Campinas",
+        "name_eng": "Regi\u00e3o Metropolitana de Campinas",
+        "name_translations": {
+            "pt": "Regi\u00e3o Metropolitana de Campinas"
+        },
+        "extra": {
+            "wikidata": "Q2307420",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 6256035,
+        "osm_place_id": 282929211,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Metropolitana de Curitiba",
+        "name_eng": "Regi\u00e3o Metropolitana de Curitiba",
+        "name_translations": {
+            "pt": "Regi\u00e3o Metropolitana de Curitiba"
+        },
+        "extra": {
+            "wikidata": "Q2311370",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 4510783,
+        "osm_place_id": 282534548,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Metropolitana de Esperan\u00e7a",
+        "name_eng": "Regi\u00e3o Metropolitana de Esperan\u00e7a",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q10358727",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 4558124,
+        "osm_place_id": 282528152,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Metropolitana de Feira de Santana",
+        "name_eng": "Regi\u00e3o Metropolitana de Feira de Santana",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q10358731",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 4504528,
+        "osm_place_id": 282566936,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Metropolitana de Guarabira",
+        "name_eng": "Regi\u00e3o Metropolitana de Guarabira",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q10358733",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 4510784,
+        "osm_place_id": 282623342,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Metropolitana de Itabaiana",
+        "name_eng": "Regi\u00e3o Metropolitana de Itabaiana",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q10358732",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 4504153,
+        "osm_place_id": 282523377,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Metropolitana de Jo\u00e3o Pessoa",
+        "name_eng": "Regi\u00e3o Metropolitana de Jo\u00e3o Pessoa",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1405120",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 4510785,
+        "osm_place_id": 282819628,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Metropolitana de Patos",
+        "name_eng": "Regi\u00e3o Metropolitana de Patos",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q10358737",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 2843209,
+        "osm_place_id": 282430019,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Metropolitana de Porto Alegre",
+        "name_eng": "Metropolitan Region of Porto Alegre",
+        "name_translations": {
+            "en": "Metropolitan Region of Porto Alegre",
+            "es": "Regi\u00f3n Metropolitana de Porto Alegre",
+            "fr": "R\u00e9gion m\u00e9tropolitaine de Porto Alegre",
+            "it": "Regione metropolitana di Porto Alegre",
+            "nl": "Metropolitaans Regio van Porto Alegre",
+            "pl": "Region metropolitalny Porto Alegre",
+            "pt": "Regi\u00e3o Metropolitana de Porto Alegre"
+        },
+        "extra": {
+            "wikidata": "Q2460475",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 9363716,
+        "osm_place_id": 283103791,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Metropolitana de Ribeir\u00e3o Preto",
+        "name_eng": "Regi\u00e3o Metropolitana de Ribeir\u00e3o Preto",
+        "name_translations": {
+            "pt": "Regi\u00e3o Metropolitana de Ribeir\u00e3o Preto"
+        },
+        "extra": {
+            "wikidata": "Q25441613",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 4555378,
+        "osm_place_id": 282739956,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Metropolitana de Salvador",
+        "name_eng": "Regi\u00e3o Metropolitana de Salvador",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2292820",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 2661855,
+        "osm_place_id": 282869628,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Metropolitana de S\u00e3o Paulo",
+        "name_eng": "Regi\u00e3o Metropolitana de S\u00e3o Paulo",
+        "name_translations": {
+            "pt": "Regi\u00e3o Metropolitana de S\u00e3o Paulo"
+        },
+        "extra": {
+            "wikidata": "Q1415666",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 4807763,
+        "osm_place_id": 282561256,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Metropolitana de Sorocaba",
+        "name_eng": "Regi\u00e3o Metropolitana de Sorocaba",
+        "name_translations": {
+            "pt": "Regi\u00e3o Metropolitana de Sorocaba"
+        },
+        "extra": {
+            "wikidata": "Q18470070",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 4510786,
+        "osm_place_id": 282874418,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Metropolitana de Sousa",
+        "name_eng": "Regi\u00e3o Metropolitana de Sousa",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q10296235",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 12829441,
+        "osm_place_id": 283385042,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Metropolitana de Umuarama",
+        "name_eng": "Regi\u00e3o Metropolitana de Umuarama",
+        "name_translations": {
+            "pt": "Regi\u00e3o Metropolitana de Umuarama"
+        },
+        "extra": {
+            "wikidata": "Q10358740",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 2750810,
+        "osm_place_id": 282403470,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Metropolitana do Recife",
+        "name_eng": "Regi\u00e3o Metropolitana do Recife",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2549175",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 10588599,
+        "osm_place_id": 283480056,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Metropolitana do Rio de Janeiro",
+        "name_eng": "Regi\u00e3o Metropolitana do Rio de Janeiro",
+        "name_translations": {
+            "pt": "Regi\u00e3o Metropolitana do Rio de Janeiro"
+        },
+        "extra": {
+            "wikidata": "Q2720540",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 2954503,
+        "osm_place_id": 282802991,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Metropolitana do Vale do A\u00e7o",
+        "name_eng": "Regi\u00e3o Metropolitana do Vale do A\u00e7o",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1357520",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 4510787,
+        "osm_place_id": 282524246,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Metropolitana do Vale do Mamanguape",
+        "name_eng": "Regi\u00e3o Metropolitana do Vale do Mamanguape",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q10358747",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 2661856,
+        "osm_place_id": 282321322,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Metropolitana do Vale do Para\u00edba e Litoral Norte",
+        "name_eng": "Regi\u00e3o Metropolitana do Vale do Para\u00edba e Litoral Norte",
+        "name_translations": {
+            "pt": "Regi\u00e3o Metropolitana do Vale do Para\u00edba e Litoral Norte"
+        },
+        "extra": {
+            "wikidata": "Q10358745",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 4510788,
+        "osm_place_id": 283184878,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o Metropolitana do Vale do Pianc\u00f3",
+        "name_eng": "Regi\u00e3o Metropolitana do Vale do Pianc\u00f3",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q10358750",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 57963,
+        "osm_place_id": 281781668,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Rio de Janeiro",
+        "name_eng": "Rio de Janeiro",
+        "name_translations": {
+            "am": "\u122a\u12ee \u12f4 \u1303\u1294\u12ed\u122e",
+            "ar": "\u0631\u064a\u0648 \u062f\u064a \u062c\u0627\u0646\u064a\u0631\u0648",
+            "az": "Rio de Janeyro",
+            "ba": "\u0420\u0438\u043e-\u0434\u0435-\u0416\u0430\u043d\u0435\u0439\u0440\u043e",
+            "be": "\u0420\u044b\u0430-\u0434\u044d-\u0416\u0430\u043d\u044d\u0439\u0440\u0430",
+            "bg": "\u0420\u0438\u043e \u0434\u0435 \u0416\u0430\u043d\u0435\u0439\u0440\u043e",
+            "bn": "\u09b0\u09bf\u0989 \u09a6\u09bf \u099c\u09be\u09a8\u09c7\u0987\u09b0\u09c1",
+            "ce": "\u0420\u0438\u043e-\u0434\u0435-\u0416\u0430\u043d\u0435\u0439\u0440\u043e",
+            "cv": "\u0420\u0438\u043e-\u0434\u0435-\u0416\u0430\u043d\u0435\u0439\u0440\u043e",
+            "de": "Rio de Janeiro",
+            "el": "\u03a1\u03af\u03bf \u03bd\u03c4\u03b5 \u03a4\u03b6\u03b1\u03bd\u03ad\u03b9\u03c1\u03bf",
+            "en": "Rio de Janeiro",
+            "eo": "Rio-de-\u0134anejro",
+            "es": "R\u00edo de Janeiro",
+            "fa": "\u0631\u06cc\u0648\u062f\u0648 \u0698\u0627\u0646\u06cc\u0631\u0648",
+            "fy": "Rio de Jan\u00earo",
+            "gl": "R\u00edo de Xaneiro",
+            "he": "\u05e8\u05d9\u05d5 \u05d3\u05d4 \u05d6'\u05e0\u05d9\u05d9\u05e8\u05d5",
+            "hi": "\u0930\u093f\u092f\u094b \u0921\u093f \u091c\u0947\u0928\u0947\u0930\u094b",
+            "hy": "\u054c\u056b\u0578 \u0564\u0565 \u053a\u0561\u0576\u0565\u0575\u0580\u0578",
+            "ja": "\u30ea\u30aa \u30c7 \u30b8\u30e3\u30cd\u30a4\u30ed",
+            "ka": "\u10e0\u10d8\u10dd-\u10d3\u10d4-\u10df\u10d0\u10dc\u10d4\u10d8\u10e0\u10dd",
+            "kk": "\u0420\u0438\u043e-\u0434\u0435-\u0416\u0430\u043d\u0435\u0439\u0440\u043e",
+            "ko": "\ub9ac\uc6b0\ub370\uc790\ub124\uc774\ub8e8",
+            "ky": "\u0420\u0438\u043e-\u0434\u0435-\u0416\u0430\u043d\u0435\u0439\u0440\u043e",
+            "la": "Flumen Ianuarii",
+            "lt": "Rio de \u017daneiras",
+            "lv": "Riode\u017eaneiro",
+            "mk": "\u0420\u0438\u043e \u0434\u0435 \u0416\u0430\u043d\u0435\u0438\u0440\u043e",
+            "ml": "\u0d31\u0d3f\u0d2f\u0d4b \u0d21\u0d3f \u0d1c\u0d28\u0d40\u0d31\u0d4b",
+            "mn": "\u0420\u0438\u043e-\u0434\u0435-\u0416\u0430\u043d\u0435\u0439\u0440\u043e",
+            "mr": "\u0930\u093f\u092f\u094b \u0926\u093f \u091c\u093e\u0928\u0947\u0930\u094b",
+            "os": "\u0420\u0438\u043e-\u0434\u0435-\u0416\u0430\u043d\u0435\u0439\u0440\u043e",
+            "pa": "\u0a30\u0a3f\u0a13 \u0a21\u0a40 \u0a1c\u0a28\u0a47\u0a30\u0a4b",
+            "pl": "Rio de Janeiro",
+            "pt": "Rio de Janeiro",
+            "ru": "\u0420\u0438\u043e-\u0434\u0435-\u0416\u0430\u043d\u0435\u0439\u0440\u043e",
+            "sh": "Rio de \u017daneiro",
+            "sq": "Rio de Zhaneiro",
+            "sr": "\u0420\u0438\u043e \u0434\u0435 \u0416\u0430\u043d\u0435\u0438\u0440\u043e",
+            "ta": "\u0b87\u0bb0\u0bbf\u0baf\u0bcb \u0b9f\u0bbf \u0b9a\u0bc6\u0ba9\u0bc0\u0bb0\u0bcb",
+            "tg": "\u0420\u0438\u043e-\u0434\u0435-\u0416\u0430\u043d\u0435\u0439\u0440\u043e",
+            "th": "\u0e23\u0e35\u0e42\u0e2d\u0e40\u0e14\u0e08\u0e32\u0e40\u0e19\u0e42\u0e23",
+            "tk": "Rio-de-\u017dane\u00fdro",
+            "tt": "\u0420\u0438\u043e-\u0434\u0435-\u0416\u0430\u043d\u0435\u0439\u0440\u043e",
+            "ug": "Rio d\u00e9 Jan\u00e9yro",
+            "uk": "\u0420\u0456\u043e-\u0434\u0435-\u0416\u0430\u043d\u0435\u0439\u0440\u043e",
+            "ur": "\u0631\u06cc\u0648 \u062f\u06d2 \u062c\u06cc\u0646\u06cc\u0631\u0648",
+            "uz": "Rio-de-Janeyro",
+            "yi": "\u05e8\u05d9\u05d0 \u05d3\u05e2 \u05d6\u05e9\u05d0\u05e0\u05e2\u05e8\u05d0",
+            "zh": "\u91cc\u7ea6\u70ed\u5185\u5362",
+            "abbreviation": "RJ"
+        },
+        "extra": {
+            "wikidata": "Q41428",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": "BR-RN",
+        "osm_id": 301079,
+        "osm_place_id": 282331001,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Rio Grande do Norte",
+        "name_eng": "Rio Grande do Norte",
+        "name_translations": {
+            "ar": "\u0631\u064a\u0648 \u063a\u0631\u0627\u0646\u062f\u064a \u062f\u0648 \u0646\u0648\u0631\u062a\u064a",
+            "be": "\u0420\u044b\u0443-\u0413\u0440\u0430\u043d\u0434\u044b-\u0434\u0443-\u041d\u043e\u0440\u0442\u044b",
+            "bg": "\u0420\u0438\u043e \u0413\u0440\u0430\u043d\u0434\u0438 \u0434\u043e \u041d\u043e\u0440\u0442\u0438",
+            "de": "Rio Grande do Norte",
+            "en": "Rio Grande do Norte",
+            "eo": "Norda Rio-Grando",
+            "es": "R\u00edo Grande del Norte",
+            "eu": "Iparraldeko Rio Grande",
+            "fa": "\u0631\u06cc\u0648 \u06af\u0631\u0627\u0646\u062f\u0647 \u0634\u0645\u0627\u0644\u06cc",
+            "gl": "R\u00edo Grande do Norte",
+            "he": "\u05e8\u05d9\u05d5 \u05d2\u05e8\u05d0\u05e0\u05d3\u05d4 \u05d3\u05d5 \u05e0\u05d5\u05e8\u05d8\u05d4",
+            "hi": "\u0930\u093f\u092f\u094b \u0917\u094d\u0930\u093e\u0902\u0926\u0947 \u0926\u094b \u0928\u0949\u0930\u094d\u0924\u0947",
+            "hy": "\u054c\u056b\u0578\u0582 \u0533\u0580\u0561\u0576\u0564\u056b \u0564\u0578\u0582 \u0546\u0578\u0580\u057f\u056b",
+            "ja": "\u30ea\u30aa\u30b0\u30e9\u30f3\u30c7\u30fb\u30c9\u30fb\u30ce\u30eb\u30c6",
+            "ka": "\u10e0\u10d8\u10e3-\u10d2\u10e0\u10d0\u10dc\u10d3\u10d8-\u10d3\u10e3-\u10dc\u10dd\u10e0\u10e2\u10d8",
+            "ko": "\ud788\uc6b0\uadf8\ub780\uc9c0\ub450\ub178\ub974\uce58",
+            "la": "Flumen Magnum Septentrionale",
+            "lt": "\u0160iaur\u0117s Rio Grand\u0117",
+            "lv": "Riugrandi du Norti",
+            "mk": "\u0421\u0435\u0432\u0435\u0440\u043d\u0430 \u0420\u0438\u043e \u0413\u0440\u0430\u043d\u045f\u0435",
+            "mr": "\u0421\u0435\u0432\u0435\u0440\u043d\u0430 \u0420\u0438\u043e \u0413\u0440\u0430\u043d\u045f\u0435",
+            "os": "\u0420\u0438\u0443-\u0413\u0440\u0430\u043d\u0434\u0438-\u0434\u0443-\u041d\u043e\u0440\u0442\u0438",
+            "pl": "Rio Grande do Norte",
+            "pt": "Rio Grande do Norte",
+            "qu": "Chinchay Hatunmayu",
+            "ru": "\u0420\u0438\u0443-\u0413\u0440\u0430\u043d\u0434\u0438-\u0434\u0443-\u041d\u043e\u0440\u0442\u0438",
+            "sh": "Rio Grandi du Norti",
+            "sr": "\u0420\u0438\u043e \u0413\u0440\u0430\u043d\u0434\u0435 \u0434\u043e \u041d\u043e\u0440\u0442\u0435",
+            "tg": "\u0420\u0438\u0443 \u0413\u0440\u0430\u043d\u0434\u0438 \u0434\u0443 \u041d\u043e\u0440\u0442\u0438",
+            "th": "\u0e23\u0e35\u0e42\u0e2d\u0e01\u0e23\u0e31\u0e19\u0e14\u0e35\u0e42\u0e14\u0e19\u0e2d\u0e23\u0e4c\u0e40\u0e15",
+            "uk": "\u0420\u0456\u0443-\u0413\u0440\u0430\u043d\u0434\u0456-\u0434\u0443-\u041d\u043e\u0440\u0442\u0456",
+            "uz": "Riu-Grandi-du-Norti",
+            "zh": "\u5317\u91cc\u7ea6\u683c\u6717\u5fb7",
+            "abbreviation": "RN"
+        },
+        "extra": {
+            "wikidata": "Q43255",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": "BR-RS",
+        "osm_id": 242620,
+        "osm_place_id": 282003533,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Rio Grande do Sul",
+        "name_eng": "Rio Grande do Sul",
+        "name_translations": {
+            "ar": "\u0631\u064a\u0648 \u063a\u0631\u0627\u0646\u062f\u064a \u062f\u0648 \u0633\u0648\u0644",
+            "ay": "Rio Grande do Sul Istadu",
+            "az": "Riu-Qrandi-du-Sul",
+            "be": "\u0420\u044b\u0443-\u0413\u0440\u0430\u043d\u0434\u044b-\u0434\u0443-\u0421\u0443\u043b",
+            "bg": "\u0420\u0438\u043e \u0413\u0440\u0430\u043d\u0434\u0438 \u0434\u043e \u0421\u0443\u043b",
+            "de": "Rio Grande do Sul",
+            "el": "\u03a1\u03af\u03bf \u0393\u03ba\u03c1\u03ac\u03bd\u03c4\u03b5 \u03bd\u03c4\u03bf \u03a3\u03bf\u03c5\u03bb",
+            "en": "Rio Grande do Sul",
+            "eo": "Suda Rio-Grando",
+            "es": "R\u00edo Grande del Sur",
+            "et": "Rio Grande do Suli osariik",
+            "eu": "Hegoaldeko Rio Grande",
+            "fa": "\u0631\u06cc\u0648 \u06af\u0631\u0627\u0646\u062f\u0647 \u062c\u0646\u0648\u0628\u06cc",
+            "gl": "R\u00edo Grande do Sur",
+            "he": "\u05e8\u05d9\u05d5 \u05d2\u05e8\u05d0\u05e0\u05d3\u05d4 \u05d3\u05d5 \u05e1\u05d5\u05dc",
+            "hi": "\u0930\u093f\u092f\u094b \u0917\u094d\u0930\u093e\u0902\u0921\u0947 \u0926\u094b \u0938\u0941\u0932",
+            "hy": "\u054c\u056b\u0578\u0582 \u0533\u0580\u0561\u0576\u0564\u056b \u0564\u0578\u0582 \u054d\u0578\u0582\u056c",
+            "id": "Rio Grande Selatan",
+            "ja": "\u30ea\u30aa\u30b0\u30e9\u30f3\u30c7\u30fb\u30c9\u30fb\u30b9\u30eb",
+            "ka": "\u10e0\u10d8\u10e3-\u10d2\u10e0\u10d0\u10dc\u10d3\u10d8-\u10d3\u10e3-\u10e1\u10e3\u10da\u10d8",
+            "kk": "\u0420\u0438\u0443-\u0413\u0440\u0430\u043d\u0434\u0438-\u0434\u0443-\u0421\u0443\u043b",
+            "ko": "\ud788\uc6b0\uadf8\ub780\uc9c0\ub450\uc220",
+            "la": "Flumen Magnum Meridionale",
+            "lt": "Piet\u0173 Rio Grand\u0117",
+            "lv": "Riugrandi du Sula",
+            "mk": "\u0408\u0443\u0436\u043d\u0430 \u0420\u0438\u043e \u0413\u0440\u0430\u043d\u0434\u0435",
+            "mr": "\u0930\u093f\u092f\u094b \u0917\u094d\u0930\u093e\u0902\u0926\u0947 \u0926\u094b \u0938\u0941\u0932",
+            "os": "\u0420\u0438\u0443-\u0413\u0440\u0430\u043d\u0434\u0438-\u0434\u0443-\u0421\u0443\u043b",
+            "pl": "Rio Grande do Sul",
+            "pt": "Rio Grande do Sul",
+            "qu": "Urin Hatunmayu suyu",
+            "ru": "\u0420\u0438\u0443-\u0413\u0440\u0430\u043d\u0434\u0438-\u0434\u0443-\u0421\u0443\u043b",
+            "sh": "Rio Grandi du Sul",
+            "sr": "\u0420\u0438\u043e \u0413\u0440\u0430\u043d\u0434\u0435 \u0434\u043e \u0421\u0443\u043b",
+            "ta": "\u0b87\u0bb0\u0bbf\u0baf\u0bcb \u0b95\u0bbf\u0bb0\u0bbe\u0ba3\u0bcd\u0b9f\u0bc1 \u0b9f\u0bca \u0b9a\u0bc1\u0bb2\u0bcd",
+            "tg": "\u0420\u0438\u0443 \u0413\u0440\u0430\u043d\u0434\u0438 \u0434\u0443 \u0421\u0443\u043b",
+            "th": "\u0e23\u0e35\u0e42\u0e2d\u0e01\u0e23\u0e31\u0e19\u0e14\u0e35\u0e42\u0e14\u0e0b\u0e39\u0e25",
+            "tt": "\u0420\u0438\u0443-\u0413\u0440\u0430\u043d\u0434\u0438-\u0434\u0443-\u0421\u0443\u043b",
+            "uk": "\u0420\u0456\u0443-\u0413\u0440\u0430\u043d\u0434\u0456-\u0434\u0443-\u0421\u0443\u043b",
+            "ur": "\u062c\u0646\u0648\u0628\u06cc \u0631\u06cc\u0648 \u06af\u0631\u0627\u0646\u0688\u06cc",
+            "uz": "Riu-Grandi-du-Sul",
+            "zh": "\u5357\u91cc\u5965\u683c\u5170\u5fb7",
+            "abbreviation": "RS"
+        },
+        "extra": {
+            "wikidata": "Q40030",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": "BR-RO",
+        "osm_id": 325866,
+        "osm_place_id": 281972065,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Rond\u00f4nia",
+        "name_eng": "Rond\u00f4nia",
+        "name_translations": {
+            "ar": "\u0631\u0648\u0646\u062f\u0648\u0646\u064a\u0627",
+            "be": "\u0420\u0430\u043d\u0434\u043e\u043d\u0456\u044f",
+            "bg": "\u0420\u043e\u043d\u0434\u043e\u043d\u0438\u044f",
+            "de": "Rond\u00f4nia",
+            "en": "Rond\u00f4nia",
+            "eo": "Rondonio",
+            "es": "Rondonia",
+            "fa": "\u0631\u0648\u0646\u062f\u0648\u0646\u06cc\u0627",
+            "gl": "Rondonia",
+            "he": "\u05e8\u05d5\u05e0\u05d3\u05d5\u05e0\u05d9\u05d4",
+            "hi": "\u0930\u094b\u0928\u094d\u0921\u094b\u0928\u093f\u092f\u093e",
+            "hy": "\u054c\u0578\u0576\u0564\u0578\u0576\u056b\u0561",
+            "io": "Rondonia",
+            "ja": "\u30ed\u30f3\u30c9\u30cb\u30a2",
+            "ka": "\u10e0\u10dd\u10dc\u10d3\u10dd\u10dc\u10d8\u10d0",
+            "ko": "\ud63c\ub3c4\ub2c8\uc544",
+            "la": "Rondonia",
+            "lt": "Rondonija",
+            "lv": "Rondonija",
+            "mk": "\u0420\u043e\u043d\u0434\u043e\u043d\u0438\u0458\u0430",
+            "mr": "\u0930\u094b\u0928\u094d\u0926\u094d\u092f\u094b\u0928\u093f\u092f\u093e",
+            "os": "\u0420\u043e\u043d\u0434\u043e\u043d\u0438",
+            "pl": "Rond\u00f4nia",
+            "pt": "Rond\u00f4nia",
+            "ru": "\u0420\u043e\u043d\u0434\u043e\u043d\u0438\u044f",
+            "sh": "Rondonija",
+            "sr": "\u0420\u043e\u043d\u0434\u043e\u043d\u0438\u0458\u0430",
+            "tg": "\u0420\u043e\u043d\u0434\u043e\u043d\u0438\u044f",
+            "th": "\u0e23\u0e2d\u0e19\u0e42\u0e14\u0e40\u0e19\u0e35\u0e22",
+            "uk": "\u0420\u043e\u043d\u0434\u043e\u043d\u0456\u044f",
+            "uz": "Pondoniya",
+            "zh": "\u6717\u591a\u5c3c\u4e9a",
+            "abbreviation": "RO"
+        },
+        "extra": {
+            "wikidata": "Q43235",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 326287,
+        "osm_place_id": 281969294,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Roraima",
+        "name_eng": "Roraima",
+        "name_translations": {
+            "ar": "\u0631\u0648\u0631\u0627\u064a\u0645\u0627",
+            "be": "\u0420\u0430\u0440\u0430\u0439\u043c\u0430",
+            "bg": "\u0420\u043e\u0440\u0430\u0439\u043c\u0430",
+            "de": "Roraima",
+            "en": "Roraima",
+            "eo": "Rorajmo",
+            "fa": "\u0631\u0648\u0631\u0627\u06cc\u0645\u0627",
+            "he": "\u05e8\u05d5\u05e8\u05d9\u05d9\u05de\u05d4",
+            "hi": "\u0930\u094b\u0930\u0948\u092e\u093e",
+            "hy": "\u054c\u0578\u0580\u0561\u0575\u0574\u0561",
+            "ja": "\u30ed\u30e9\u30a4\u30de",
+            "ka": "\u10e0\u10dd\u10e0\u10d0\u10d8\u10db\u10d0",
+            "ko": "\ud638\ub77c\uc774\ub9c8",
+            "mk": "\u0420\u043e\u0440\u0430\u0438\u043c\u0430",
+            "mr": "\u0930\u094b\u0930\u093e\u0908\u092e\u093e",
+            "os": "\u0420\u043e\u0440\u0430\u0439\u043c\u00e6",
+            "pl": "Roraima",
+            "pt": "Roraima",
+            "ru": "\u0420\u043e\u0440\u0430\u0439\u043c\u0430",
+            "sh": "Rorajma",
+            "sr": "\u0420\u043e\u0440\u0430\u0438\u043c\u0430",
+            "tg": "\u0420\u043e\u0440\u0430\u0439\u043c\u0430",
+            "th": "\u0e23\u0e2d\u0e44\u0e23\u0e21\u0e32",
+            "uk": "\u0420\u043e\u0440\u0430\u0439\u043c\u0430",
+            "uz": "Rorayma",
+            "zh": "\u7f57\u8d56\u9a6c",
+            "abbreviation": "RR"
+        },
+        "extra": {
+            "wikidata": "Q42508",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 296584,
+        "osm_place_id": 282327634,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Santa Catarina",
+        "name_eng": "Santa Catarina",
+        "name_translations": {
+            "ar": "\u0633\u0627\u0646\u062a\u0627 \u0643\u0627\u062a\u0627\u0631\u064a\u0646\u0627",
+            "ay": "Santa Catarina Istadu",
+            "az": "Santa-Katarina",
+            "be": "\u0421\u0430\u043d\u0442\u0430-\u041a\u0430\u0442\u0430\u0440\u044b\u043d\u0430",
+            "bg": "\u0421\u0430\u043d\u0442\u0430 \u041a\u0430\u0442\u0430\u0440\u0438\u043d\u0430",
+            "br": "Santa Catarina",
+            "bs": "Santa Catarina",
+            "ca": "Estat de Santa Catarina",
+            "cs": "Santa Catarina",
+            "de": "Santa Catarina",
+            "el": "\u03a3\u03ac\u03bd\u03c4\u03b1 \u039a\u03b1\u03c4\u03b1\u03c1\u03af\u03bd\u03b1",
+            "en": "Santa Catarina",
+            "eo": "Sankta Katarino",
+            "et": "Santa Catarina osariik",
+            "fa": "\u0633\u0627\u0646\u062a\u0627 \u06a9\u0627\u062a\u0627\u0631\u06cc\u0646\u0627",
+            "gl": "Santa Catarina, Brasil",
+            "he": "\u05e1\u05e0\u05d8\u05d4 \u05e7\u05d8\u05e8\u05d9\u05e0\u05d4",
+            "hi": "\u0938\u093e\u0902\u0924\u093e \u0915\u093e\u0924\u093e\u0930\u0940\u0928\u093e",
+            "hr": "Santa Catarina",
+            "hu": "Santa Catarina",
+            "hy": "\u054d\u0561\u0576\u057f\u0561 \u053f\u0561\u057f\u0561\u0580\u056b\u0576\u0561",
+            "is": "Santa Catarina",
+            "ja": "\u30b5\u30f3\u30bf \u30ab\u30bf\u30ea\u30fc\u30ca",
+            "ka": "\u10e1\u10d0\u10dc\u10e2\u10d0-\u10d9\u10d0\u10e2\u10d0\u10e0\u10d8\u10dc\u10d0",
+            "kk": "\u0421\u0430\u043d\u0442\u0430 \u041a\u0430\u0442\u0430\u0440\u0438\u043d\u0430",
+            "ko": "\uc0b0\ud0c0\uce74\ud0c0\ub9ac\ub098",
+            "kw": "Santa Catarina",
+            "la": "Sancta Catharina",
+            "lt": "Santa Katarina",
+            "lv": "Santakatarina",
+            "mk": "\u0421\u0430\u043d\u0442\u0430 \u041a\u0430\u0442\u0430\u0440\u0438\u043d\u0430",
+            "mr": "\u0938\u093e\u0902\u0924\u093e \u0915\u093e\u0924\u093e\u0930\u093f\u0928\u093e",
+            "ms": "Santa Catarina",
+            "nl": "Santa Catarina",
+            "no": "Santa Catarina",
+            "os": "\u0421\u0430\u043d\u0442\u00e6-\u041a\u0430\u0442\u0430\u0440\u0438\u043d\u00e6",
+            "pl": "Santa Catarina",
+            "pt": "Santa Catarina",
+            "qu": "Santa Catarina suyu",
+            "ru": "\u0421\u0430\u043d\u0442\u0430-\u041a\u0430\u0442\u0430\u0440\u0438\u043d\u0430",
+            "sr": "\u0421\u0430\u043d\u0442\u0430 \u041a\u0430\u0442\u0430\u0440\u0438\u043d\u0430",
+            "sv": "Santa Catarina",
+            "tg": "\u0421\u0430\u043d\u0442\u0430 \u041a\u0430\u0442\u0430\u0440\u0438\u043d\u0430",
+            "th": "\u0e0b\u0e31\u0e19\u0e15\u0e32\u0e01\u0e32\u0e15\u0e32\u0e23\u0e35\u0e19\u0e32",
+            "tr": "Santa Catarina",
+            "tt": "\u0421\u0430\u043d\u0442\u0430-\u041a\u0430\u0442\u0430\u0440\u0438\u043d\u0430",
+            "uk": "\u0421\u0430\u043d\u0442\u0430-\u041a\u0430\u0442\u0430\u0440\u0456\u043d\u0430",
+            "ur": "\u0633\u0627\u0646\u062a\u0627 \u06a9\u0627\u062a\u0627\u0631\u06cc\u0646\u0627",
+            "uz": "Santa-Katarina",
+            "vi": "Santa Catarina",
+            "yo": "Santa Catarina",
+            "zh": "\u5723\u5361\u5854\u7433\u5a1c"
+        },
+        "extra": {
+            "wikidata": "Q41115",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": "BR-SP",
+        "osm_id": 298204,
+        "osm_place_id": 282076405,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "S\u00e3o Paulo",
+        "name_eng": "S\u00e3o Paulo",
+        "name_translations": {
+            "am": "\u1233\u12cd \u1353\u12cd\u1209",
+            "ar": "\u0633\u0627\u0648 \u0628\u0627\u0648\u0644\u0648",
+            "ay": "San Pauluw",
+            "az": "San Paulo",
+            "ba": "\u0421\u0430\u043d-\u041f\u0430\u0443\u043b\u0443",
+            "be": "\u0421\u0430\u043d-\u041f\u0430\u045e\u043b\u0443",
+            "bg": "\u0421\u0430\u043e \u041f\u0430\u0443\u043b\u043e",
+            "bn": "\u09b8\u09be\u0981\u0989 \u09aa\u09be\u0989\u09b2\u09c1",
+            "ce": "\u0421\u0430\u043d-\u041f\u0430\u0443\u043b\u0443",
+            "cv": "\u0421\u0430\u043d-\u041f\u0430\u0443\u043b\u0443",
+            "de": "S\u00e3o Paulo",
+            "dv": "\u0790\u07a6\u0787\u07ae \u0795\u07a6\u0787\u07aa\u078d\u07af",
+            "el": "\u03a3\u03ac\u03bf \u03a0\u03ac\u03bf\u03bb\u03bf",
+            "en": "S\u00e3o Paulo",
+            "eo": "San-Pa\u016dlo",
+            "es": "San Pablo",
+            "fa": "\u0633\u0627\u0626\u0648\u067e\u0627\u0626\u0648\u0644\u0648",
+            "fr": "S\u00e3o Paulo",
+            "gl": "San Paulo",
+            "he": "\u05e1\u05d0\u05d5 \u05e4\u05d0\u05d5\u05dc\u05d5",
+            "hi": "\u0938\u093e\u0913 \u092a\u093e\u0909\u0932\u094b",
+            "hy": "\u054d\u0561\u0576 \u054a\u0561\u0578\u0582\u056c\u0578",
+            "io": "Sao Paulo",
+            "it": "San Paolo",
+            "ja": "\u30b5\u30f3\u30d1\u30a6\u30ed",
+            "ka": "\u10e1\u10d0\u10dc-\u10de\u10d0\u10e3\u10da\u10e3",
+            "kk": "\u0421\u0430\u043d-\u041f\u0430\u0443\u043b\u0443",
+            "ko": "\uc0c1\ud30c\uc6b8\ub8e8",
+            "kv": "\u0421\u0430\u043d-\u041f\u0430\u0443\u043b\u0443",
+            "la": "Sanctus Paulus",
+            "lt": "San Paulas",
+            "lv": "Sanpaulu",
+            "mk": "\u0421\u0430\u043e \u041f\u0430\u043e\u043b\u043e",
+            "ml": "\u0d38\u0d3e\u0d35\u0d4b \u0d2a\u0d4b\u0d33\u0d4b",
+            "mn": "\u0421\u0430\u043d-\u041f\u0430\u0443\u043b\u0443",
+            "mr": "\u0938\u093e\u0913 \u092a\u093e\u0909\u0932\u094b",
+            "ne": "\u0938\u093e\u0913 \u092a\u093e\u0909\u0932\u094b",
+            "os": "\u0421\u0430\u043d-\u041f\u0430\u0443\u043b\u0443",
+            "pa": "\u0a38\u0a3e\u0a13 \u0a2a\u0a3e\u0a13\u0a32\u0a4b",
+            "pl": "S\u00e3o Paulo",
+            "pt": "S\u00e3o Paulo",
+            "ru": "\u0421\u0430\u043d-\u041f\u0430\u0443\u043b\u0443",
+            "sa": "\u0938\u093e\u0913 \u092a\u093e\u0913\u0932\u094b",
+            "sh": "Sao Paulo",
+            "sr": "\u0421\u0430\u043e \u041f\u0430\u0443\u043b\u043e",
+            "ta": "\u0b9a\u0bbe\u0bb5\u0bcb \u0baa\u0bbe\u0bb5\u0bc1\u0bb2\u0bcb",
+            "tg": "\u0421\u0430\u043d-\u041f\u0430\u0443\u043b\u0443",
+            "th": "\u0e40\u0e0b\u0e32\u0e40\u0e1b\u0e32\u0e25\u0e39",
+            "tk": "San-Paulu",
+            "tr": "\u0421\u0430\u043d \u041f\u0430\u0443\u043b\u0443",
+            "tt": "\u0421\u0430\u043d-\u041f\u0430\u0443\u043b\u0443",
+            "ug": "San Pawlo",
+            "uk": "\u0421\u0430\u043d-\u041f\u0430\u0443\u043b\u0443",
+            "ur": "\u0633\u0627\u0624 \u067e\u0627\u0644\u0648",
+            "uz": "San-Paulu",
+            "wa": "Sawo P\u00e5lo",
+            "yi": "\u05e1\u05d0\u05d5 \u05e4\u05d0\u05d5\u05dc\u05d0",
+            "yo": "Sao Paulo",
+            "zh": "\u5723\u4fdd\u7f57",
+            "ja_rm": "san pauro",
+            "zh-Hans": "\u5723\u4fdd\u7f57\u5dde",
+            "zh-Hant": "\u8056\u4fdd\u7f85\u5dde",
+            "abbreviation": "SP"
+        },
+        "extra": {
+            "wikidata": "Q175",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": null,
+        "osm_id": 303940,
+        "osm_place_id": 281884599,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Sergipe",
+        "name_eng": "Sergipe",
+        "name_translations": {
+            "ar": "\u0633\u064a\u0631\u062c\u064a\u0628\u064a",
+            "be": "\u0421\u0435\u0440\u0436\u044b\u043f\u0456",
+            "bg": "\u0421\u0435\u0440\u0436\u0438\u043f\u0438",
+            "de": "Sergipe",
+            "en": "Sergipe",
+            "eo": "Ser\u011dipo",
+            "fa": "\u0633\u0631\u0698\u06cc\u067e\u0647",
+            "he": "\u05e1\u05e8\u05d6'\u05d9\u05e4\u05d4",
+            "hi": "\u0938\u0930\u094d\u091c\u093f\u092a\u0947",
+            "hy": "\u054d\u0565\u0580\u056a\u056b\u057a\u056b",
+            "ja": "\u30bb\u30eb\u30b8\u30c3\u30da",
+            "ka": "\u10e1\u10d4\u10e0\u10df\u10d8\u10de\u10d8",
+            "ko": "\uc138\ub974\uc9c0\ud53c",
+            "la": "Seregipe",
+            "lt": "Ser\u017eip\u0117",
+            "lv": "Ser\u017eipi",
+            "mk": "\u0421\u0435\u0440\u0433\u0438\u043f\u0435",
+            "mr": "\u0938\u0930\u094d\u091c\u093f\u092a\u0947",
+            "os": "\u0421\u0435\u0440\u0436\u0438\u043f\u0438",
+            "pl": "Sergipe",
+            "pt": "Sergipe",
+            "ru": "\u0421\u0435\u0440\u0436\u0438\u043f\u0438",
+            "sh": "Ser\u017eipi",
+            "sr": "\u0421\u0435\u0440\u0436\u0438\u043f\u0435",
+            "tg": "\u0421\u0435\u0440\u0436\u0438\u043f\u0438",
+            "th": "\u0e40\u0e0b\u0e23\u0e4c\u0e0a\u0e34\u0e40\u0e1b",
+            "uk": "\u0421\u0435\u0440\u0436\u0438\u043f\u0456",
+            "uz": "Serjipi",
+            "zh": "\u585e\u5c14\u5e0c\u57f9",
+            "abbreviation": "SE"
+        },
+        "extra": {
+            "wikidata": "Q43783",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "br",
+        "country_cca3": "bra",
+        "region_cca2": "BR-TO",
+        "osm_id": 336819,
+        "osm_place_id": 281939937,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Tocantins",
+        "name_eng": "Tocantins",
+        "name_translations": {
+            "ar": "\u062a\u0648\u0643\u0627\u0646\u062a\u064a\u0646\u0633",
+            "be": "\u0422\u0430\u043a\u0430\u043d\u0442\u044b\u043d\u0441",
+            "bg": "\u0422\u043e\u043a\u0430\u043d\u0442\u0438\u043d\u0441",
+            "de": "Tocantins",
+            "en": "Tocantins",
+            "eo": "Tokantinso",
+            "fa": "\u062a\u0648\u06a9\u0627\u0646\u062a\u06cc\u0646\u0633",
+            "gn": "Tuk\u00e3t\u0129",
+            "he": "\u05d8\u05d5\u05e7\u05e0\u05d8\u05d9\u05e0\u05e1",
+            "hi": "\u091f\u094b\u0915\u093e\u091a\u093f\u0938",
+            "hy": "\u054f\u0578\u056f\u0561\u0576\u057f\u056b\u0576\u057d",
+            "ja": "\u30c8\u30ab\u30f3\u30c6\u30a3\u30f3\u30b9",
+            "ka": "\u10e2\u10dd\u10d9\u10d0\u10dc\u10e2\u10d8\u10dc\u10e1\u10d8",
+            "ko": "\ud1a0\uce78\uce6d\uc2a4",
+            "lt": "Tokantinsas",
+            "lv": "Tokantinsa",
+            "mk": "\u0422\u043e\u043a\u0430\u043d\u0442\u0438\u043d\u0441",
+            "mr": "\u0924\u094b\u0915\u093e\u0902\u0924\u093f\u0928\u094d\u0938",
+            "os": "\u0422\u043e\u043a\u0430\u043d\u0442\u0438\u043d\u0441",
+            "pl": "Tocantins",
+            "pt": "Tocantins",
+            "ru": "\u0422\u043e\u043a\u0430\u043d\u0442\u0438\u043d\u0441",
+            "sh": "Tokantins",
+            "sr": "\u0422\u043e\u043a\u0430\u043d\u0442\u0438\u043d\u0441",
+            "tg": "\u0422\u043e\u043a\u0430\u043d\u0442\u0438\u043d\u0441",
+            "th": "\u0e42\u0e15\u0e01\u0e31\u0e19\u0e15\u0e34\u0e19\u0e2a\u0e4c",
+            "uk": "\u0422\u043e\u043a\u0430\u043d\u0442\u0456\u043d\u0441",
+            "uz": "Tokantins",
+            "zh": "\u6258\u574e\u5ef7\u65af",
+            "abbreviation": "TO"
+        },
+        "extra": {
+            "wikidata": "Q43695",
+            "un_locode": null
+        }
+    }
+]

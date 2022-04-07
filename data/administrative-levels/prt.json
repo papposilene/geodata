@@ -1,0 +1,1050 @@
+[
+    {
+        "country_cca2": "pt",
+        "country_cca3": "prt",
+        "region_cca2": null,
+        "osm_id": 1629146,
+        "osm_place_id": 282246979,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "A\u00e7ores",
+        "name_eng": "Azores",
+        "name_translations": {
+            "ar": "\u0627\u0644\u0623\u0632\u0648\u0631",
+            "cs": "Azory",
+            "de": "Azoren",
+            "en": "Azores",
+            "eo": "Acoroj",
+            "es": "Azores",
+            "eu": "Azoreak",
+            "fa": "\u0622\u0632\u0648\u0631",
+            "fr": "A\u00e7ores",
+            "hu": "Azori-szigetek",
+            "io": "Acori",
+            "it": "Azzorre",
+            "ja": "\u30a2\u30be\u30ec\u30b9\u8af8\u5cf6",
+            "la": "Azores",
+            "nl": "Azoren",
+            "nn": "Asorane",
+            "no": "Azorene",
+            "pl": "Azory",
+            "pt": "A\u00e7ores",
+            "ro": "Azore",
+            "ru": "\u0410\u0437\u043e\u0440\u0441\u043a\u0438\u0435 \u043e\u0441\u0442\u0440\u043e\u0432\u0430",
+            "sk": "Azory",
+            "sl": "Azori",
+            "sv": "Azorerna",
+            "zh": "\u4e9a\u901f\u5c14\u7fa4\u5c9b"
+        },
+        "extra": {
+            "wikidata": "Q25263",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pt",
+        "country_cca3": "prt",
+        "region_cca2": "PT-01",
+        "osm_id": 3920249,
+        "osm_place_id": 282713800,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Aveiro",
+        "name_eng": "Aveiro",
+        "name_translations": {
+            "ar": "\u0622\u0648\u064a\u0631\u0648",
+            "en": "Aveiro",
+            "fr": "Aveiro",
+            "pt": "Aveiro"
+        },
+        "extra": {
+            "wikidata": "Q210527",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pt",
+        "country_cca3": "prt",
+        "region_cca2": null,
+        "osm_id": 679558515,
+        "osm_place_id": null,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Baixa de Terra",
+        "name_eng": "Baixa de Terra",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null
+        }
+    },
+    {
+        "country_cca2": "pt",
+        "country_cca3": "prt",
+        "region_cca2": null,
+        "osm_id": 213199065,
+        "osm_place_id": null,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Baixa do Meio",
+        "name_eng": "Baixa do Meio",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null
+        }
+    },
+    {
+        "country_cca2": "pt",
+        "country_cca3": "prt",
+        "region_cca2": null,
+        "osm_id": 144325555,
+        "osm_place_id": null,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Baixa dos Barbeiros",
+        "name_eng": "Baixa dos Barbeiros",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null
+        }
+    },
+    {
+        "country_cca2": "pt",
+        "country_cca3": "prt",
+        "region_cca2": "PT-02",
+        "osm_id": 5134927,
+        "osm_place_id": 282651490,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Beja",
+        "name_eng": "Beja",
+        "name_translations": {
+            "ar": "\u0628\u0627\u062c\u0629",
+            "en": "Beja",
+            "fr": "Beja",
+            "pt": "Beja"
+        },
+        "extra": {
+            "wikidata": "Q321455",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pt",
+        "country_cca3": "prt",
+        "region_cca2": "PT-03",
+        "osm_id": 3738284,
+        "osm_place_id": 282531554,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Braga",
+        "name_eng": "Braga",
+        "name_translations": {
+            "ar": "\u0628\u0631\u0627\u063a\u0627",
+            "en": "Braga",
+            "fr": "Braga",
+            "pt": "Braga"
+        },
+        "extra": {
+            "wikidata": "Q326203",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pt",
+        "country_cca3": "prt",
+        "region_cca2": "PT-04",
+        "osm_id": 3905929,
+        "osm_place_id": 282849391,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Bragan\u00e7a",
+        "name_eng": "Bragan\u00e7a District",
+        "name_translations": {
+            "ar": "\u0628\u0631\u0627\u063a\u0627\u0646\u0632\u0627",
+            "en": "Bragan\u00e7a District",
+            "fr": "Bragance",
+            "lt": "Bragansa",
+            "pt": "Distrito de Bragan\u00e7a"
+        },
+        "extra": {
+            "wikidata": "Q373528",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pt",
+        "country_cca3": "prt",
+        "region_cca2": "PT-05",
+        "osm_id": 4104644,
+        "osm_place_id": 282604823,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Castelo Branco",
+        "name_eng": "Castelo Branco",
+        "name_translations": {
+            "ar": "\u0643\u0627\u0633\u062a\u064a\u0644\u0648 \u0628\u0631\u0627\u0646\u0643\u0648",
+            "en": "Castelo Branco",
+            "fr": "Castelo Branco",
+            "pt": "Castelo Branco"
+        },
+        "extra": {
+            "wikidata": "Q273529",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pt",
+        "country_cca3": "prt",
+        "region_cca2": null,
+        "osm_id": 423803242,
+        "osm_place_id": null,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Cerro da Velha",
+        "name_eng": "Cerro da Velha",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null
+        }
+    },
+    {
+        "country_cca2": "pt",
+        "country_cca3": "prt",
+        "region_cca2": "PT-06",
+        "osm_id": 4875183,
+        "osm_place_id": 282559110,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Coimbra",
+        "name_eng": "Coimbra",
+        "name_translations": {
+            "ar": "\u0642\u0644\u0645\u0631\u064a\u0629",
+            "en": "Coimbra",
+            "es": "Co\u00edmbra",
+            "fr": "Co\u00efmbre",
+            "pt": "Coimbra"
+        },
+        "extra": {
+            "wikidata": "Q244517",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pt",
+        "country_cca3": "prt",
+        "region_cca2": null,
+        "osm_id": 423803240,
+        "osm_place_id": null,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Estal\u00e3o",
+        "name_eng": "Estal\u00e3o",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null
+        }
+    },
+    {
+        "country_cca2": "pt",
+        "country_cca3": "prt",
+        "region_cca2": null,
+        "osm_id": 423803251,
+        "osm_place_id": null,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Estela",
+        "name_eng": "Estela",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null
+        }
+    },
+    {
+        "country_cca2": "pt",
+        "country_cca3": "prt",
+        "region_cca2": "PT-07",
+        "osm_id": 5130767,
+        "osm_place_id": 282575229,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u00c9vora",
+        "name_eng": "\u00c9vora",
+        "name_translations": {
+            "ar": "\u064a\u0627\u0628\u0631\u0629",
+            "en": "\u00c9vora",
+            "fa": "\u0627\u0648\u0648\u0631\u0627",
+            "fr": "\u00c9vora",
+            "pt": "\u00c9vora"
+        },
+        "extra": {
+            "wikidata": "Q274118",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pt",
+        "country_cca3": "prt",
+        "region_cca2": null,
+        "osm_id": 423803245,
+        "osm_place_id": null,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Farilh\u00e3o da Cova",
+        "name_eng": "Farilh\u00e3o da Cova",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null
+        }
+    },
+    {
+        "country_cca2": "pt",
+        "country_cca3": "prt",
+        "region_cca2": null,
+        "osm_id": 423803249,
+        "osm_place_id": null,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Farilh\u00e3o do Nordeste",
+        "name_eng": "Farilh\u00e3o do Nordeste",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null
+        }
+    },
+    {
+        "country_cca2": "pt",
+        "country_cca3": "prt",
+        "region_cca2": null,
+        "osm_id": 423803260,
+        "osm_place_id": null,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Farilh\u00e3o Grande",
+        "name_eng": "Farilh\u00e3o Grande",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null
+        }
+    },
+    {
+        "country_cca2": "pt",
+        "country_cca3": "prt",
+        "region_cca2": null,
+        "osm_id": 11284899,
+        "osm_place_id": null,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Farinh\u00e3o dos Olhos",
+        "name_eng": "Farinh\u00e3o dos Olhos",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null
+        }
+    },
+    {
+        "country_cca2": "pt",
+        "country_cca3": "prt",
+        "region_cca2": "PT-08",
+        "osm_id": 1278415,
+        "osm_place_id": 282403739,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Faro",
+        "name_eng": "Faro",
+        "name_translations": {
+            "ar": "\u0641\u0627\u0631\u0648",
+            "de": "Faro",
+            "en": "Faro",
+            "eo": "Faro",
+            "fa": "\u0641\u0627\u0631\u0648",
+            "fr": "Faro",
+            "pt": "Faro",
+            "ur": "\u0641\u0627\u0631\u0648"
+        },
+        "extra": {
+            "wikidata": "Q244521",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pt",
+        "country_cca3": "prt",
+        "region_cca2": null,
+        "osm_id": 677653160,
+        "osm_place_id": null,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Furilh\u00e3o",
+        "name_eng": "Furilh\u00e3o",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null
+        }
+    },
+    {
+        "country_cca2": "pt",
+        "country_cca3": "prt",
+        "region_cca2": "PT-09",
+        "osm_id": 3905924,
+        "osm_place_id": 282927886,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Guarda",
+        "name_eng": "Guarda",
+        "name_translations": {
+            "ar": "\u063a\u0648\u0622\u0631\u062f\u0627",
+            "en": "Guarda",
+            "fr": "Guarda",
+            "pt": "Guarda"
+        },
+        "extra": {
+            "wikidata": "Q273533",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pt",
+        "country_cca3": "prt",
+        "region_cca2": null,
+        "osm_id": 310555480,
+        "osm_place_id": null,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Ilh\u00e9u da Baleia",
+        "name_eng": "Ilh\u00e9u da Baleia",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q10301316"
+        }
+    },
+    {
+        "country_cca2": "pt",
+        "country_cca3": "prt",
+        "region_cca2": null,
+        "osm_id": 677717489,
+        "osm_place_id": null,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Ilh\u00e9u da Cevada ou dos Desembarcadouros",
+        "name_eng": "Ilh\u00e9u da Cevada ou dos Desembarcadouros",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null
+        }
+    },
+    {
+        "country_cca2": "pt",
+        "country_cca3": "prt",
+        "region_cca2": null,
+        "osm_id": 675431932,
+        "osm_place_id": null,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Ilh\u00e9u da Fonte da Areia",
+        "name_eng": "Ilh\u00e9u da Fonte da Areia",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q3574084"
+        }
+    },
+    {
+        "country_cca2": "pt",
+        "country_cca3": "prt",
+        "region_cca2": null,
+        "osm_id": 165511735,
+        "osm_place_id": null,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Ilh\u00e9u da Forja",
+        "name_eng": "Ilh\u00e9u da Forja",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null
+        }
+    },
+    {
+        "country_cca2": "pt",
+        "country_cca3": "prt",
+        "region_cca2": null,
+        "osm_id": 423803258,
+        "osm_place_id": null,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Ilh\u00e9u da In\u00eas",
+        "name_eng": "Ilh\u00e9u da In\u00eas",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null
+        }
+    },
+    {
+        "country_cca2": "pt",
+        "country_cca3": "prt",
+        "region_cca2": null,
+        "osm_id": 379083180,
+        "osm_place_id": null,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Ilh\u00e9u da Lagoa",
+        "name_eng": "Ilh\u00e9u da Lagoa",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null
+        }
+    },
+    {
+        "country_cca2": "pt",
+        "country_cca3": "prt",
+        "region_cca2": null,
+        "osm_id": 560569488,
+        "osm_place_id": null,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Ilh\u00e9u da Mina",
+        "name_eng": "Ilh\u00e9u da Mina",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null
+        }
+    },
+    {
+        "country_cca2": "pt",
+        "country_cca3": "prt",
+        "region_cca2": null,
+        "osm_id": 423803263,
+        "osm_place_id": null,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Ilh\u00e9u da Ponta",
+        "name_eng": "Ilh\u00e9u da Ponta",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null
+        }
+    },
+    {
+        "country_cca2": "pt",
+        "country_cca3": "prt",
+        "region_cca2": null,
+        "osm_id": 423803232,
+        "osm_place_id": null,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Ilh\u00e9u da Quebrada",
+        "name_eng": "Ilh\u00e9u da Quebrada",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null
+        }
+    },
+    {
+        "country_cca2": "pt",
+        "country_cca3": "prt",
+        "region_cca2": null,
+        "osm_id": 4042625,
+        "osm_place_id": null,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Ilh\u00e9u da Ribeira da Janela",
+        "name_eng": "Ilh\u00e9u da Ribeira da Janela",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null
+        }
+    },
+    {
+        "country_cca2": "pt",
+        "country_cca3": "prt",
+        "region_cca2": null,
+        "osm_id": 675431934,
+        "osm_place_id": null,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Ilh\u00e9u das Cenouras",
+        "name_eng": "Ilh\u00e9u das Cenouras",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q3573734"
+        }
+    },
+    {
+        "country_cca2": "pt",
+        "country_cca3": "prt",
+        "region_cca2": null,
+        "osm_id": 160460127,
+        "osm_place_id": null,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Ilh\u00e9u de Baixo",
+        "name_eng": "Ilh\u00e9u de Baixo",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q4075791"
+        }
+    },
+    {
+        "country_cca2": "pt",
+        "country_cca3": "prt",
+        "region_cca2": null,
+        "osm_id": 24796154,
+        "osm_place_id": null,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Ilh\u00e9u de Baixo ou da Cal",
+        "name_eng": "Ilh\u00e9u de Baixo ou da Cal",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1658454"
+        }
+    },
+    {
+        "country_cca2": "pt",
+        "country_cca3": "prt",
+        "region_cca2": null,
+        "osm_id": 121718318,
+        "osm_place_id": null,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Ilh\u00e9u de Cima",
+        "name_eng": "Ilh\u00e9u de Cima",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1144599"
+        }
+    },
+    {
+        "country_cca2": "pt",
+        "country_cca3": "prt",
+        "region_cca2": null,
+        "osm_id": 675431929,
+        "osm_place_id": null,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Ilh\u00e9u de Ferro",
+        "name_eng": "Ilh\u00e9u de Ferro",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q3574108"
+        }
+    },
+    {
+        "country_cca2": "pt",
+        "country_cca3": "prt",
+        "region_cca2": null,
+        "osm_id": 675431933,
+        "osm_place_id": null,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Ilh\u00e9u de Fora",
+        "name_eng": "Ilh\u00e9u de Fora",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q3574092"
+        }
+    },
+    {
+        "country_cca2": "pt",
+        "country_cca3": "prt",
+        "region_cca2": null,
+        "osm_id": 679558514,
+        "osm_place_id": null,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Ilh\u00e9u de Porto da Cruz",
+        "name_eng": "Ilh\u00e9u de Porto da Cruz",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null
+        }
+    },
+    {
+        "country_cca2": "pt",
+        "country_cca3": "prt",
+        "region_cca2": null,
+        "osm_id": 234947923,
+        "osm_place_id": null,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Ilh\u00e9u de S\u00e3o Louren\u00e7o",
+        "name_eng": "Ilh\u00e9u de S\u00e3o Louren\u00e7o",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q10301325"
+        }
+    },
+    {
+        "country_cca2": "pt",
+        "country_cca3": "prt",
+        "region_cca2": null,
+        "osm_id": 229828290,
+        "osm_place_id": null,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Ilh\u00e9u do Campan\u00e1rio",
+        "name_eng": "Ilh\u00e9u do Campan\u00e1rio",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q3573694"
+        }
+    },
+    {
+        "country_cca2": "pt",
+        "country_cca3": "prt",
+        "region_cca2": null,
+        "osm_id": 677653157,
+        "osm_place_id": null,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Ilh\u00e9u do Farol",
+        "name_eng": "Ilh\u00e9u do Farol",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q10301330"
+        }
+    },
+    {
+        "country_cca2": "pt",
+        "country_cca3": "prt",
+        "region_cca2": null,
+        "osm_id": 677744444,
+        "osm_place_id": null,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Ilh\u00e9u do Guincho",
+        "name_eng": "Ilh\u00e9u do Guincho",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null
+        }
+    },
+    {
+        "country_cca2": "pt",
+        "country_cca3": "prt",
+        "region_cca2": null,
+        "osm_id": 164833207,
+        "osm_place_id": null,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Ilh\u00e9u do Lido",
+        "name_eng": "Ilh\u00e9u do Lido",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null
+        }
+    },
+    {
+        "country_cca2": "pt",
+        "country_cca3": "prt",
+        "region_cca2": null,
+        "osm_id": 423803253,
+        "osm_place_id": null,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Ilh\u00e9u do Meio",
+        "name_eng": "Ilh\u00e9u do Meio",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null
+        }
+    },
+    {
+        "country_cca2": "pt",
+        "country_cca3": "prt",
+        "region_cca2": null,
+        "osm_id": 423803237,
+        "osm_place_id": null,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Ilh\u00e9u dos Soldados",
+        "name_eng": "Ilh\u00e9u dos Soldados",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null
+        }
+    },
+    {
+        "country_cca2": "pt",
+        "country_cca3": "prt",
+        "region_cca2": null,
+        "osm_id": 423803257,
+        "osm_place_id": null,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Ilh\u00e9u Maldito",
+        "name_eng": "Ilh\u00e9u Maldito",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null
+        }
+    },
+    {
+        "country_cca2": "pt",
+        "country_cca3": "prt",
+        "region_cca2": null,
+        "osm_id": 4042623,
+        "osm_place_id": null,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Ilh\u00e9u Mole",
+        "name_eng": "Ilh\u00e9u Mole",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q10301308"
+        }
+    },
+    {
+        "country_cca2": "pt",
+        "country_cca3": "prt",
+        "region_cca2": "PT-10",
+        "osm_id": 5011694,
+        "osm_place_id": 283036849,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Leiria",
+        "name_eng": "Leiria",
+        "name_translations": {
+            "ar": "\u0644\u064a\u0631\u064a\u0627",
+            "en": "Leiria",
+            "fr": "Leiria",
+            "pt": "Leiria"
+        },
+        "extra": {
+            "wikidata": "Q244512",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pt",
+        "country_cca3": "prt",
+        "region_cca2": "PT-11",
+        "osm_id": 2897141,
+        "osm_place_id": 282441319,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Lisboa",
+        "name_eng": "Lisbon",
+        "name_translations": {
+            "de": "Lissabon",
+            "en": "Lisbon",
+            "es": "Lisboa",
+            "fr": "Lisbonne",
+            "it": "Lisbona",
+            "la": "Olisipo",
+            "nl": "Lissabon",
+            "pt": "Lisboa",
+            "ro": "Lisabona",
+            "ru": "\u041b\u0438\u0441\u0441\u0430\u0431\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q207199",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pt",
+        "country_cca3": "prt",
+        "region_cca2": null,
+        "osm_id": 1629145,
+        "osm_place_id": 282179585,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Madeira",
+        "name_eng": "Madeira",
+        "name_translations": {
+            "ar": "\u0645\u0627\u062f\u064a\u0631\u0627",
+            "en": "Madeira",
+            "fr": "Mad\u00e8re",
+            "hu": "Madeira",
+            "nl": "Madeira",
+            "pl": "Madera",
+            "pt": "Madeira",
+            "ru": "\u041c\u0430\u0434\u0435\u0439\u0440\u0430"
+        },
+        "extra": {
+            "wikidata": "Q26253",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pt",
+        "country_cca3": "prt",
+        "region_cca2": null,
+        "osm_id": 423803246,
+        "osm_place_id": null,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Manuel Jorge",
+        "name_eng": "Manuel Jorge",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null
+        }
+    },
+    {
+        "country_cca2": "pt",
+        "country_cca3": "prt",
+        "region_cca2": "PT-12",
+        "osm_id": 5123448,
+        "osm_place_id": 282574168,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Portalegre",
+        "name_eng": "Portalegre",
+        "name_translations": {
+            "ar": "\u0628\u0648\u0631\u062a\u0627\u0644\u064a\u063a\u0631\u064a",
+            "en": "Portalegre",
+            "fa": "\u067e\u0631\u062a\u0627\u0644\u06af\u0631\u0647",
+            "fr": "Portalegre",
+            "pt": "Portalegre",
+            "ur": "\u067e\u0648\u0631\u062a\u0627\u0644\u06cc\u06af\u0631\u06d2"
+        },
+        "extra": {
+            "wikidata": "Q225189",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pt",
+        "country_cca3": "prt",
+        "region_cca2": "PT-13",
+        "osm_id": 3459013,
+        "osm_place_id": 282419520,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Porto",
+        "name_eng": "Porto",
+        "name_translations": {
+            "ar": "\u0628\u0648\u0631\u062a\u0648",
+            "en": "Porto",
+            "fr": "Porto",
+            "ko": "\ud3ec\ub974\ud22c",
+            "pt": "Porto"
+        },
+        "extra": {
+            "wikidata": "Q322792",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pt",
+        "country_cca3": "prt",
+        "region_cca2": null,
+        "osm_id": 11284858,
+        "osm_place_id": null,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Rabo de Asno",
+        "name_eng": "Rabo de Asno",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null
+        }
+    },
+    {
+        "country_cca2": "pt",
+        "country_cca3": "prt",
+        "region_cca2": "PT-14",
+        "osm_id": 5122644,
+        "osm_place_id": 282778793,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Santar\u00e9m",
+        "name_eng": "Santar\u00e9m",
+        "name_translations": {
+            "en": "Santar\u00e9m",
+            "fr": "Santar\u00e9m",
+            "pt": "Santar\u00e9m"
+        },
+        "extra": {
+            "wikidata": "Q244510",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pt",
+        "country_cca3": "prt",
+        "region_cca2": "PT-15",
+        "osm_id": 5143590,
+        "osm_place_id": 282562988,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Set\u00fabal",
+        "name_eng": "Set\u00fabal",
+        "name_translations": {
+            "ar": "\u0634\u0637\u0648\u0628\u0631",
+            "el": "Set\u00fabal",
+            "en": "Set\u00fabal",
+            "fa": "\u0633\u062a\u0648\u0628\u0627\u0644",
+            "fr": "Set\u00fabal",
+            "pt": "Set\u00fabal",
+            "ur": "\u0633\u06cc\u062a\u0648\u0628\u0627\u0644"
+        },
+        "extra": {
+            "wikidata": "Q274109",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pt",
+        "country_cca3": "prt",
+        "region_cca2": "PT-16",
+        "osm_id": 3898131,
+        "osm_place_id": 282563798,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Viana do Castelo",
+        "name_eng": "Viana do Castelo",
+        "name_translations": {
+            "ar": "\u0641\u064a\u0627\u0646\u0627 \u062f\u0648 \u0643\u0627\u0633\u062a\u064a\u0644\u0648",
+            "en": "Viana do Castelo",
+            "fr": "Viana do Castelo",
+            "pt": "Viana do Castelo"
+        },
+        "extra": {
+            "wikidata": "Q326214",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pt",
+        "country_cca3": "prt",
+        "region_cca2": "PT-17",
+        "osm_id": 3967823,
+        "osm_place_id": 283126207,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Vila Real",
+        "name_eng": "Vila Real",
+        "name_translations": {
+            "ar": "\u0641\u064a\u0644\u0627 \u0631\u064a\u0627\u0644",
+            "en": "Vila Real",
+            "fr": "Vila Real",
+            "pt": "Vila Real"
+        },
+        "extra": {
+            "wikidata": "Q379372",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pt",
+        "country_cca3": "prt",
+        "region_cca2": "PT-18",
+        "osm_id": 3920285,
+        "osm_place_id": 282548439,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Viseu",
+        "name_eng": "Viseu",
+        "name_translations": {
+            "ar": "\u0641\u064a\u0633\u064a\u0648",
+            "en": "Viseu",
+            "fr": "Viseu",
+            "pt": "Viseu"
+        },
+        "extra": {
+            "wikidata": "Q273525",
+            "un_locode": null
+        }
+    }
+]

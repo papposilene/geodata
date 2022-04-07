@@ -1,0 +1,6171 @@
+[
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": "VE-Z",
+        "osm_id": 2269815,
+        "osm_place_id": 282583551,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Amazonas",
+        "name_eng": "Amazonas State",
+        "name_translations": {
+            "en": "Amazonas State",
+            "es": "Estado Amazonas",
+            "ja": "\u30a2\u30de\u30bd\u30ca\u30b9\u5dde",
+            "ru": "\u0410\u043c\u0430\u0441\u043e\u043d\u0430\u0441"
+        },
+        "extra": {
+            "wikidata": "Q170453",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": "VE-B",
+        "osm_id": 2267150,
+        "osm_place_id": 282275304,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Anzo\u00e1tegui",
+        "name_eng": "Anzoategui State",
+        "name_translations": {
+            "ar": "\u0648\u0644\u0627\u064a\u0629_\u0623\u0646\u0632\u0648\u0627\u062a\u063a\u064a",
+            "en": "Anzoategui State",
+            "eo": "Anzoategio",
+            "es": "Estado Anzo\u00e1tegui",
+            "ja": "\u30a2\u30f3\u30bd\u30a2\u30c6\u30ae\u5dde",
+            "ko": "\uc548\uc18c\uc544\ud14c\uae30\uc8fc",
+            "ru": "\u0410\u043d\u0441\u043e\u0430\u0442\u0435\u0433\u0438",
+            "th": "\u0e23\u0e31\u0e10\u0e2d\u0e31\u0e19\u0e42\u0e0b\u0e2d\u0e32\u0e40\u0e15\u0e01\u0e35",
+            "uk": "\u0410\u043d\u0441\u043e\u0430\u0442\u0435\u0433\u0456"
+        },
+        "extra": {
+            "wikidata": "Q190922",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": "VE-C",
+        "osm_id": 3395162,
+        "osm_place_id": 282449189,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Apure",
+        "name_eng": "Apure State",
+        "name_translations": {
+            "ar": "\u0648\u0644\u0627\u064a\u0629_\u0623\u0628\u0648\u0631\u064a",
+            "en": "Apure State",
+            "eo": "Apuro",
+            "es": "Estado Apure",
+            "ja": "\u30a2\u30d7\u30ec\u5dde",
+            "ko": "\uc544\ud478\ub808\uc8fc",
+            "ru": "\u0410\u043f\u0443\u0440\u0435",
+            "th": "\u0e23\u0e31\u0e10\u0e2d\u0e32\u0e1b\u0e39\u0e40\u0e23",
+            "uk": "\u0410\u043f\u0443\u0440\u0435"
+        },
+        "extra": {
+            "wikidata": "Q41146",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": "VE-D",
+        "osm_id": 272746,
+        "osm_place_id": 281868107,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Aragua",
+        "name_eng": "Aragua State",
+        "name_translations": {
+            "en": "Aragua State",
+            "eo": "Arag\u016do",
+            "es": "Estado Aragua",
+            "ja": "\u30a2\u30e9\u30b0\u30a2\u5dde",
+            "ru": "\u0410\u0440\u0430\u0433\u0443\u0430"
+        },
+        "extra": {
+            "wikidata": "Q190687",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3473007,
+        "osm_place_id": 282485977,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Archipi\u00e9lago de Las Aves",
+        "name_eng": "Archipi\u00e9lago de Las Aves",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3473006,
+        "osm_place_id": 282467494,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Archipi\u00e9lago de Los Monjes",
+        "name_eng": "Archipi\u00e9lago de Los Monjes",
+        "name_translations": {
+            "de": "Inselgruppe \u201eDie M\u00f6nche\u201c",
+            "es": "Archipi\u00e9lago de Los Monjes"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3473017,
+        "osm_place_id": 282492374,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Archipi\u00e9lago Los Frailes",
+        "name_eng": "Archipi\u00e9lago Los Frailes",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1685696",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3473014,
+        "osm_place_id": 282786518,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Archipi\u00e9lago Los Hermanos",
+        "name_eng": "Archipi\u00e9lago Los Hermanos",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3473009,
+        "osm_place_id": 282869624,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Archipi\u00e9lago Los Roques",
+        "name_eng": "Archipi\u00e9lago Los Roques",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q318678",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3473019,
+        "osm_place_id": 282428796,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Archipi\u00e9lago Los Testigos",
+        "name_eng": "Archipi\u00e9lago Los Testigos",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1332426",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": "VE-E",
+        "osm_id": 3763132,
+        "osm_place_id": 282492934,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Barinas",
+        "name_eng": "Barinas State",
+        "name_translations": {
+            "en": "Barinas State",
+            "eo": "Barinaso",
+            "es": "Estado Barinas",
+            "ja": "\u30d0\u30ea\u30ca\u30b9\u5dde",
+            "ru": "\u0411\u0430\u0440\u0438\u043d\u0430\u0441"
+        },
+        "extra": {
+            "wikidata": "Q43271",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": "VE-F",
+        "osm_id": 2269155,
+        "osm_place_id": 282713237,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Bol\u00edvar",
+        "name_eng": "Bolivar State",
+        "name_translations": {
+            "ar": "\u0648\u0644\u0627\u064a\u0629 \u0628\u0648\u0644\u064a\u0641\u0627\u0631",
+            "en": "Bolivar State",
+            "es": "Estado Bol\u00edvar",
+            "ja": "\u30dc\u30ea\u30d0\u30eb\u5dde",
+            "ko": "\ubcfc\ub9ac\ubc14\ub974\uc8fc",
+            "mk": "\u0411\u043e\u043b\u0438\u0432\u0430\u0440",
+            "ru": "\u0411\u043e\u043b\u0438\u0432\u0430\u0440",
+            "th": "\u0e23\u0e31\u0e10\u0e42\u0e1a\u0e25\u0e35\u0e27\u0e32\u0e23\u0e4c",
+            "uk": "\u0411\u043e\u043b\u0456\u0432\u0430\u0440"
+        },
+        "extra": {
+            "wikidata": "Q191164",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 272745,
+        "osm_place_id": 335036772,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Carabobo",
+        "name_eng": "Carabobo State",
+        "name_translations": {
+            "en": "Carabobo State",
+            "es": "Estado Carabobo",
+            "ja": "\u30ab\u30e9\u30dc\u30dc\u5dde"
+        },
+        "extra": {
+            "wikidata": "Q191186",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": "VE-H",
+        "osm_id": 272662,
+        "osm_place_id": 282447817,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Cojedes",
+        "name_eng": "Cojedes State",
+        "name_translations": {
+            "en": "Cojedes State",
+            "eo": "Kojedeso",
+            "es": "Estado Cojedes",
+            "ja": "\u30b3\u30d8\u30c7\u30b9\u5dde",
+            "ru": "\u041a\u043e\u0445\u0435\u0434\u0435\u0441"
+        },
+        "extra": {
+            "wikidata": "Q205460",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": "VE-Y",
+        "osm_id": 272669,
+        "osm_place_id": 281950185,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Delta Amacuro",
+        "name_eng": "Delta Amacuro State",
+        "name_translations": {
+            "ar": "\u062f\u0644\u062a\u0627_\u0623\u0645\u0627\u0643\u0648\u0631\u0648",
+            "en": "Delta Amacuro State",
+            "es": "Estado Delta Amacuro",
+            "ja": "\u30c7\u30eb\u30bf\u30a2\u30de\u30af\u30ed\u5dde",
+            "ko": "\ub378\ud0c0\uc544\ub9c8\ucfe0\ub85c\uc8fc",
+            "ru": "\u0414\u0435\u043b\u044c\u0442\u0430-\u0410\u043c\u0430\u043a\u0443\u0440\u043e",
+            "th": "\u0e23\u0e31\u0e10\u0e40\u0e14\u0e25\u0e15\u0e32\u0e2d\u0e32\u0e21\u0e32\u0e01\u0e39\u0e42\u0e23",
+            "uk": "\u0414\u0435\u043b\u044c\u0442\u0430-\u0410\u043c\u0430\u043a\u0443\u0440\u043e"
+        },
+        "extra": {
+            "wikidata": "Q201137",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3399075,
+        "osm_place_id": 282605648,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Dependencias Federales",
+        "name_eng": "Federal Dependencies",
+        "name_translations": {
+            "de": "Bundesterritorien",
+            "en": "Federal Dependencies",
+            "es": "Dependencias Federales",
+            "ja": "\u9023\u90a6\u4fdd\u8b77\u9818",
+            "nl": "Federale gebieden"
+        },
+        "extra": {
+            "wikidata": "Q130343",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": "VE-A",
+        "osm_id": 2444378,
+        "osm_place_id": 282340775,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Distrito Capital",
+        "name_eng": "Capital District",
+        "name_translations": {
+            "en": "Capital District",
+            "es": "Distrito Capital",
+            "ja": "\u9996\u90fd\u5730\u533a"
+        },
+        "extra": {
+            "wikidata": "Q492791",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": "VE-I",
+        "osm_id": 2269792,
+        "osm_place_id": 282339853,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Falc\u00f3n",
+        "name_eng": "Falcon State",
+        "name_translations": {
+            "en": "Falcon State",
+            "es": "Estado Falc\u00f3n",
+            "ja": "\u30d5\u30a1\u30eb\u30b3\u30f3\u5dde"
+        },
+        "extra": {
+            "wikidata": "Q202071",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": "VE-J",
+        "osm_id": 272663,
+        "osm_place_id": 282237714,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Gu\u00e1rico",
+        "name_eng": "Guarico State",
+        "name_translations": {
+            "ar": "\u063a\u0648\u0627\u0631\u064a\u0643\u0648",
+            "en": "Guarico State",
+            "eo": "G\u016dariko",
+            "es": "Estado Gu\u00e1rico",
+            "ja": "\u30b0\u30a2\u30ea\u30b3\u5dde",
+            "ko": "\uacfc\ub9ac\ucf54\uc8fc",
+            "ru": "\u0413\u0443\u0430\u0440\u0438\u043a\u043e",
+            "th": "\u0e23\u0e31\u0e10\u0e01\u0e27\u0e32\u0e23\u0e35\u0e42\u0e01",
+            "uk": "\u0413\u0443\u0430\u0440\u0456\u043a\u043e"
+        },
+        "extra": {
+            "wikidata": "Q202075",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3473015,
+        "osm_place_id": 282461360,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Isla Blanquilla",
+        "name_eng": "Isla Blanquilla",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3473022,
+        "osm_place_id": 282416093,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Isla de Aves",
+        "name_eng": "Bird Island",
+        "name_translations": {
+            "de": "Vogel-Insel",
+            "en": "Bird Island",
+            "es": "Isla de Aves"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3473020,
+        "osm_place_id": 282460551,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Isla de Patos",
+        "name_eng": "Isla de Patos",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3473012,
+        "osm_place_id": 282665353,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Isla La Orchila",
+        "name_eng": "Isla La Orchila",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3473018,
+        "osm_place_id": 282730334,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Isla La Sola",
+        "name_eng": "Isla La Sola",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3473016,
+        "osm_place_id": 282452776,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Isla La Tortuga",
+        "name_eng": "Isla La Tortuga",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": "VE-X",
+        "osm_id": 2442704,
+        "osm_place_id": 282340370,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "La Guaira",
+        "name_eng": "Vargas State",
+        "name_translations": {
+            "en": "Vargas State",
+            "es": "Estado Vargas"
+        },
+        "extra": {
+            "wikidata": "Q205843",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": "VE-K",
+        "osm_id": 272744,
+        "osm_place_id": 282293669,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Lara",
+        "name_eng": "Lara State",
+        "name_translations": {
+            "en": "Lara State",
+            "es": "Estado Lara",
+            "ja": "\u30e9\u30e9\u5dde"
+        },
+        "extra": {
+            "wikidata": "Q205796",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3454107,
+        "osm_place_id": 282491507,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Lindero municipal",
+        "name_eng": "Lindero municipal",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": "VE-L",
+        "osm_id": 272635,
+        "osm_place_id": 282224579,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "M\u00e9rida",
+        "name_eng": "Merida State",
+        "name_translations": {
+            "en": "Merida State",
+            "es": "Estado M\u00e9rida",
+            "ja": "\u30e1\u30ea\u30c0\u5dde"
+        },
+        "extra": {
+            "wikidata": "Q165582",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": "VE-M",
+        "osm_id": 272673,
+        "osm_place_id": 281933668,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Miranda",
+        "name_eng": "Miranda State",
+        "name_translations": {
+            "en": "Miranda State",
+            "eo": "Mirando",
+            "es": "Estado Miranda",
+            "ja": "\u30df\u30e9\u30f3\u30c0\u5dde",
+            "ru": "\u041c\u0438\u0440\u0430\u043d\u0434\u0430"
+        },
+        "extra": {
+            "wikidata": "Q191174",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": "VE-N",
+        "osm_id": 272670,
+        "osm_place_id": 281949581,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Monagas",
+        "name_eng": "Monagas State",
+        "name_translations": {
+            "ar": "\u0645\u0648\u0646\u0627\u063a\u0627\u0633",
+            "en": "Monagas State",
+            "es": "Estado Monagas",
+            "ja": "\u30e2\u30ca\u30ac\u30b9\u5dde",
+            "ko": "\ubaa8\ub098\uac00\uc2a4\uc8fc",
+            "ru": "\u041c\u043e\u043d\u0430\u0433\u0430\u0441",
+            "th": "\u0e23\u0e31\u0e10\u0e42\u0e21\u0e19\u0e32\u0e01\u0e31\u0e2a",
+            "uk": "\u041c\u043e\u043d\u0430\u0433\u0430\u0441"
+        },
+        "extra": {
+            "wikidata": "Q205776",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3356595,
+        "osm_place_id": 282405309,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Acevedo",
+        "name_eng": "Municipio Acevedo",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2625145",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3419320,
+        "osm_place_id": 282659718,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Achaguas",
+        "name_eng": "Municipio Achaguas",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3460133,
+        "osm_place_id": 282687248,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Acosta",
+        "name_eng": "Municipio Acosta",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2745788",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 11089539,
+        "osm_place_id": 283229158,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Acosta",
+        "name_eng": "Municipio Acosta",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 9829596,
+        "osm_place_id": 283267399,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Agua Blanca",
+        "name_eng": "Municipio Agua Blanca",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2827311",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 11089543,
+        "osm_place_id": 283486136,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Aguasay",
+        "name_eng": "Municipio Aguasay",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3448188,
+        "osm_place_id": 282427577,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Alberto Adriani",
+        "name_eng": "Municipio Alberto Adriani",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2124390",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 8547416,
+        "osm_place_id": 283038192,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Alberto Arvelo Torrealba",
+        "name_eng": "Municipio Alberto Arvelo Torrealba",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q704971",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3447436,
+        "osm_place_id": 282421549,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Almirante Padilla",
+        "name_eng": "Municipio Almirante Padilla",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 10962008,
+        "osm_place_id": 283244965,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Anaco",
+        "name_eng": "Municipio Anaco",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3326458,
+        "osm_place_id": 282443043,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Andr\u00e9s Bello",
+        "name_eng": "Municipio Andr\u00e9s Bello",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3356958,
+        "osm_place_id": 282400503,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Andr\u00e9s Bello",
+        "name_eng": "Municipio Andr\u00e9s Bello",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2171229",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3449423,
+        "osm_place_id": 282784537,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Andr\u00e9s Bello",
+        "name_eng": "Municipio Andr\u00e9s Bello",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3448252,
+        "osm_place_id": 282414608,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Andr\u00e9s Bello",
+        "name_eng": "Municipio Andr\u00e9s Bello",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 8383371,
+        "osm_place_id": 282968972,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Andr\u00e9s Eloy Blanco",
+        "name_eng": "Municipio Andr\u00e9s Eloy Blanco",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q592803",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 5803266,
+        "osm_place_id": 282643828,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio And\u0155es Eloy Blanco",
+        "name_eng": "Municipio And\u0155es Eloy Blanco",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2849019",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3919033,
+        "osm_place_id": 282553122,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Andr\u00e9s Eloy Blanco",
+        "name_eng": "Municipio Andr\u00e9s Eloy Blanco",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2849019",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 5803265,
+        "osm_place_id": 282694568,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Andr\u00e9s Mata",
+        "name_eng": "Municipio Andr\u00e9s Mata",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2095488",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 11039534,
+        "osm_place_id": 283269271,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Angostura del Orinoco",
+        "name_eng": "Municipio Angostura del Orinoco",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 8150244,
+        "osm_place_id": 282987134,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Antol\u00edn del Campo",
+        "name_eng": "Municipio Antol\u00edn del Campo",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 11046658,
+        "osm_place_id": 283267682,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Antonio D\u00edaz",
+        "name_eng": "Municipio Antonio D\u00edaz",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q601873",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 8380234,
+        "osm_place_id": 282978640,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Antonio Jos\u00e9 de Sucre",
+        "name_eng": "Municipio Antonio Jos\u00e9 de Sucre",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2673923",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3447437,
+        "osm_place_id": 282662747,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Antonio Jos\u00e9 de Sucre",
+        "name_eng": "Municipio Antonio Jos\u00e9 de Sucre",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3448189,
+        "osm_place_id": 282459319,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Antonio Pinto Salinas",
+        "name_eng": "Municipio Antonio Pinto Salinas",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3325382,
+        "osm_place_id": 282440416,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Antonio R\u00f3mulo Costa",
+        "name_eng": "Municipio Antonio R\u00f3mulo Costa",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 11043137,
+        "osm_place_id": 283474090,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Anzo\u00e1tegui",
+        "name_eng": "Municipio Anzo\u00e1tegui",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2545745",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 10962006,
+        "osm_place_id": 283276843,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Aragua",
+        "name_eng": "Municipio Aragua",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 9829691,
+        "osm_place_id": 283162094,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Araure",
+        "name_eng": "Municipio Araure",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2741347",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3448190,
+        "osm_place_id": 282414567,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Aricagua",
+        "name_eng": "Municipio Aricagua",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 8150245,
+        "osm_place_id": 282936226,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Arismendi",
+        "name_eng": "Municipio Arismendi",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 5740456,
+        "osm_place_id": 282748781,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Arismendi",
+        "name_eng": "Municipio Arismendi",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2607465",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 11027148,
+        "osm_place_id": 283336638,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Arismendi",
+        "name_eng": "Municipio Arismendi",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 11126516,
+        "osm_place_id": 283636898,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Ar\u00edstides Bastidas",
+        "name_eng": "Municipio Ar\u00edstides Bastidas",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3448191,
+        "osm_place_id": 282414599,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Arzobispo Chac\u00f3n",
+        "name_eng": "Municipio Arzobispo Chac\u00f3n",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 2730906,
+        "osm_place_id": 282377892,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Aut\u00f2nomo Alto Orinoco",
+        "name_eng": "Alto Orinoco Municipality",
+        "name_translations": {
+            "en": "Alto Orinoco Municipality",
+            "es": "Municipio Aut\u00f2nomo Alto Orinoco"
+        },
+        "extra": {
+            "wikidata": "Q32490960",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 2730907,
+        "osm_place_id": 282352585,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Aut\u00f2nomo Atabapo",
+        "name_eng": "Atabapo Municipality",
+        "name_translations": {
+            "en": "Atabapo Municipality",
+            "es": "Municipio Aut\u00f2nomo Atabapo"
+        },
+        "extra": {
+            "wikidata": "Q32490964",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 2730908,
+        "osm_place_id": 282401524,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Aut\u00f2nomo Atures",
+        "name_eng": "Atures Municipality",
+        "name_translations": {
+            "en": "Atures Municipality",
+            "es": "Municipio Aut\u00f2nomo Atures"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 2730909,
+        "osm_place_id": 282638427,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Aut\u00f3nomo Autana",
+        "name_eng": "Autana Municipality",
+        "name_translations": {
+            "en": "Autana Municipality",
+            "es": "Municipio Aut\u00f3nomo Autana"
+        },
+        "extra": {
+            "wikidata": "Q32490974",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 2730910,
+        "osm_place_id": 282335113,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Aut\u00f3nomo Manapiare",
+        "name_eng": "Manapiare Municipality",
+        "name_translations": {
+            "en": "Manapiare Municipality",
+            "es": "Municipio Aut\u00f3nomo Manapiare"
+        },
+        "extra": {
+            "wikidata": "Q32490978",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 2730911,
+        "osm_place_id": 282372935,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Aut\u00f3nomo Maroa",
+        "name_eng": "Maroa Municipality",
+        "name_translations": {
+            "en": "Maroa Municipality",
+            "es": "Municipio Aut\u00f3nomo Maroa"
+        },
+        "extra": {
+            "wikidata": "Q2673918",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 2730912,
+        "osm_place_id": 282316376,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Aut\u00f3nomo R\u00edo Negro",
+        "name_eng": "R\u00edo Negro Municipality",
+        "name_translations": {
+            "en": "R\u00edo Negro Municipality",
+            "es": "Municipio Aut\u00f3nomo R\u00edo Negro"
+        },
+        "extra": {
+            "wikidata": "Q32490986",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3322249,
+        "osm_place_id": 282401092,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Ayacucho",
+        "name_eng": "Municipio Ayacucho",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3447560,
+        "osm_place_id": 282421643,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Baralt",
+        "name_eng": "Municipio Baralt",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3445109,
+        "osm_place_id": 282867314,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Barinas",
+        "name_eng": "Municipio Barinas",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3335760,
+        "osm_place_id": 282502024,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Baruta",
+        "name_eng": "Municipio Baruta",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q761148",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 10833251,
+        "osm_place_id": 283498516,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Bejuma",
+        "name_eng": "Municipio Bejuma",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q814978",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 5805461,
+        "osm_place_id": 282635263,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Ben\u00edtez",
+        "name_eng": "Municipio Ben\u00edtez",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1891862",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 5803319,
+        "osm_place_id": 283011607,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Berm\u00fadez",
+        "name_eng": "Municipio Berm\u00fadez",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2309997",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3419321,
+        "osm_place_id": 282619233,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Biruaca",
+        "name_eng": "Municipio Biruaca",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3449424,
+        "osm_place_id": 282459391,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Bocon\u00f3",
+        "name_eng": "Municipio Bocon\u00f3",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3449333,
+        "osm_place_id": 282491433,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Bol\u00edvar",
+        "name_eng": "Municipio Bol\u00edvar",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 2256357,
+        "osm_place_id": 282639044,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Bol\u00edvar",
+        "name_eng": "Municipio Bol\u00edvar",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2615175",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3320843,
+        "osm_place_id": 282395271,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Bol\u00edvar",
+        "name_eng": "Municipio Bol\u00edvar",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q383833",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 7262467,
+        "osm_place_id": 282850913,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Bol\u00edvar",
+        "name_eng": "Municipio Bol\u00edvar",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2909567",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 5749549,
+        "osm_place_id": 282642779,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Bol\u00edvar",
+        "name_eng": "Municipio Bol\u00edvar",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q530214",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 11126519,
+        "osm_place_id": 283227313,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Bol\u00edvar",
+        "name_eng": "Municipio Bol\u00edvar",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2014715",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3460083,
+        "osm_place_id": 282616696,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Bol\u00edvar",
+        "name_eng": "Municipio Bol\u00edvar",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2909570",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 11089537,
+        "osm_place_id": 283273919,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Bol\u00edvar",
+        "name_eng": "Municipio Bol\u00edvar",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3356952,
+        "osm_place_id": 282436928,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Bri\u00f3n",
+        "name_eng": "Municipio Bri\u00f3n",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q260682",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 11126510,
+        "osm_place_id": 283573366,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Bruzual",
+        "name_eng": "Municipio Bruzual",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2927131",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3460066,
+        "osm_place_id": 282416080,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Buchivacoa",
+        "name_eng": "Municipio Buchivacoa",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3372159,
+        "osm_place_id": 282408126,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Bur\u00f3z",
+        "name_eng": "Municipio Bur\u00f3z",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q751150",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3447561,
+        "osm_place_id": 282662877,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Cabimas",
+        "name_eng": "Municipio Cabimas",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3460134,
+        "osm_place_id": 282748377,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Cacique Manaure",
+        "name_eng": "Municipio Cacique Manaure",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 5803165,
+        "osm_place_id": 283600806,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Cajigal",
+        "name_eng": "Municipio Cajigal",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2554123",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 11066377,
+        "osm_place_id": 283222436,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Camagu\u00e1n",
+        "name_eng": "Municipio Camagu\u00e1n",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 11023949,
+        "osm_place_id": 283269302,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Camatagua",
+        "name_eng": "Municipio Camatagua",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3448253,
+        "osm_place_id": 282414652,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Campo Elias",
+        "name_eng": "Municipio Campo Elias",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3449425,
+        "osm_place_id": 282451563,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Candelaria",
+        "name_eng": "Municipio Candelaria",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3448254,
+        "osm_place_id": 282536684,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Caracciolo Parra Olmedo",
+        "name_eng": "Municipio Caracciolo Parra Olmedo",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3449426,
+        "osm_place_id": 282491461,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Carache",
+        "name_eng": "Municipio Carache",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3448342,
+        "osm_place_id": 282728323,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Cardenal Quintero",
+        "name_eng": "Municipio Cardenal Quintero",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3326501,
+        "osm_place_id": 282464644,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio C\u00e1rdenas",
+        "name_eng": "Municipio C\u00e1rdenas",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 11089538,
+        "osm_place_id": 283224015,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Caripe",
+        "name_eng": "Municipio Caripe",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3460146,
+        "osm_place_id": 282422286,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Carirubana",
+        "name_eng": "Municipio Carirubana",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 10833249,
+        "osm_place_id": 283499739,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Carlos Arvelo",
+        "name_eng": "Municipio Carlos Arvelo",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1042713",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 11039535,
+        "osm_place_id": 283216874,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Caron\u00ed",
+        "name_eng": "Municipio Caron\u00ed",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 2458069,
+        "osm_place_id": 282735368,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Carrizal",
+        "name_eng": "Municipio Carrizal",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2078261",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 11046657,
+        "osm_place_id": 283409214,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Casacoima",
+        "name_eng": "Municipio Casacoima",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q577335",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3447438,
+        "osm_place_id": 282623614,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Catatumbo",
+        "name_eng": "Municipio Catatumbo",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 11089540,
+        "osm_place_id": 283291331,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Cede\u00f1o",
+        "name_eng": "Municipio Cede\u00f1o",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3417855,
+        "osm_place_id": 282457274,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Cede\u00f1o",
+        "name_eng": "Cede\u00f1o Municipality",
+        "name_translations": {
+            "en": "Cede\u00f1o Municipality",
+            "es": "Municipio Cede\u00f1o"
+        },
+        "extra": {
+            "wikidata": "Q2448257",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3335672,
+        "osm_place_id": 282402389,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Chacao",
+        "name_eng": "Municipio Chacao",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q374734",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 11066367,
+        "osm_place_id": 283394606,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Chaguaramas",
+        "name_eng": "Municipio Chaguaramas",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 11126513,
+        "osm_place_id": 283417729,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Cocorote",
+        "name_eng": "Municipio Cocorote",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3460147,
+        "osm_place_id": 282663774,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Colina",
+        "name_eng": "Municipio Colina",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3447439,
+        "osm_place_id": 282784269,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Col\u00f3n",
+        "name_eng": "Municipio Col\u00f3n",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3324561,
+        "osm_place_id": 282438151,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio C\u00f3rdoba",
+        "name_eng": "Municipio C\u00f3rdoba",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3919034,
+        "osm_place_id": 282523024,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Crespo",
+        "name_eng": "Municipio Crespo",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1913811",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3349738,
+        "osm_place_id": 282401641,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Crist\u00f3bal Rojas",
+        "name_eng": "Municipio Crist\u00f3bal Rojas",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 7312338,
+        "osm_place_id": 283623622,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Cruz Paredes",
+        "name_eng": "Municipio Cruz Paredes",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2046275",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 5741775,
+        "osm_place_id": 283124548,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Cruz Salmer\u00f3n Acosta",
+        "name_eng": "Municipio Cruz Salmer\u00f3n Acosta",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2203040",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3460067,
+        "osm_place_id": 282419777,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Dabajuro",
+        "name_eng": "Municipio Dabajuro",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3460068,
+        "osm_place_id": 282461786,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Democracia",
+        "name_eng": "Municipio Democracia",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 8150249,
+        "osm_place_id": 283032180,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio D\u00edaz",
+        "name_eng": "Municipio D\u00edaz",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 10961997,
+        "osm_place_id": 283258199,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Diego Bautista Urbaneja",
+        "name_eng": "Municipio Diego Bautista Urbaneja",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 10833248,
+        "osm_place_id": 283203399,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Diego Ibarra",
+        "name_eng": "Municipio Diego Ibarra",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 11039539,
+        "osm_place_id": 283253712,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio El Callao",
+        "name_eng": "Municipio El Callao",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 2458293,
+        "osm_place_id": 282318400,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio El Hatillo",
+        "name_eng": "Municipio El Hatillo",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q975765",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 11066373,
+        "osm_place_id": 283404402,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio El Socorro",
+        "name_eng": "Municipio El Socorro",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3449334,
+        "osm_place_id": 282728382,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Escuque",
+        "name_eng": "Municipio Escuque",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 9823706,
+        "osm_place_id": 283267023,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Esteller",
+        "name_eng": "Municipio Esteller",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2255063",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 11089541,
+        "osm_place_id": 283259168,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Ezequiel Zamora",
+        "name_eng": "Municipio Ezequiel Zamora",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 8380233,
+        "osm_place_id": 283015678,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Ezequiel Zamora",
+        "name_eng": "Municipio Ezequiel Zamora",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2061267",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 11043134,
+        "osm_place_id": 283254622,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Falc\u00f3n",
+        "name_eng": "Municipio Falc\u00f3n",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3460148,
+        "osm_place_id": 282624759,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Falc\u00f3n",
+        "name_eng": "Municipio Falc\u00f3n",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2772399",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3460084,
+        "osm_place_id": 282422246,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Federaci\u00f3n",
+        "name_eng": "Municipio Federaci\u00f3n",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3324593,
+        "osm_place_id": 282396090,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Fern\u00e1ndez Feo",
+        "name_eng": "Municipio Fern\u00e1ndez Feo",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 10961996,
+        "osm_place_id": 283398660,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Fernando de Pe\u00f1alver",
+        "name_eng": "Municipio Fernando de Pe\u00f1alver",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 11066379,
+        "osm_place_id": 283214910,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Francisco de Miranda",
+        "name_eng": "Municipio Francisco de Miranda",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3326502,
+        "osm_place_id": 282412706,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Francisco de Miranda",
+        "name_eng": "Municipio Francisco de Miranda",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 10928384,
+        "osm_place_id": 283206298,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Francisco de Miranda",
+        "name_eng": "Municipio Francisco de Miranda",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1817681",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 10962003,
+        "osm_place_id": 283262117,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Francisco del Carmen Carvajal",
+        "name_eng": "Municipio Francisco del Carmen Carvajal",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3447440,
+        "osm_place_id": 282458855,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Francisco Javier Pulgar",
+        "name_eng": "Municipio Francisco Javier Pulgar",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 11023956,
+        "osm_place_id": 283261918,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Francisco Linares Alc\u00e1ntara",
+        "name_eng": "Municipio Francisco Linares Alc\u00e1ntara",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 8150248,
+        "osm_place_id": 283247884,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Garc\u00eda",
+        "name_eng": "Municipio Garc\u00eda",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3325384,
+        "osm_place_id": 282446831,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Garc\u00eda de Hevia",
+        "name_eng": "Municipio Garc\u00eda de Hevia",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 2689580,
+        "osm_place_id": 282561982,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Girardot",
+        "name_eng": "Municipio Girardot",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 11043142,
+        "osm_place_id": 283525190,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Girardot",
+        "name_eng": "Municipio Girardot",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q922530",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 8150243,
+        "osm_place_id": 282938453,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio G\u00f3mez",
+        "name_eng": "Municipio G\u00f3mez",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3418068,
+        "osm_place_id": 282413611,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Gran Sabana",
+        "name_eng": "Gran Sabana Municipality",
+        "name_translations": {
+            "en": "Gran Sabana Municipality",
+            "es": "Municipio Gran Sabana"
+        },
+        "extra": {
+            "wikidata": "Q3113406",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 10833246,
+        "osm_place_id": 283529402,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Guacara",
+        "name_eng": "Municipio Guacara",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1446171",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3337388,
+        "osm_place_id": 282599898,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Guaicaipuro",
+        "name_eng": "Municipio Guaicaipuro",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1090454",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 9821322,
+        "osm_place_id": 283482718,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Guanare",
+        "name_eng": "Municipio Guanare",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q3118730",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 9826430,
+        "osm_place_id": 283098865,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Guanarito",
+        "name_eng": "Municipio Guanarito",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2916834",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 10962011,
+        "osm_place_id": 283262441,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Guanipa",
+        "name_eng": "Municipio Guanipa",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2673296",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 10961998,
+        "osm_place_id": 283527367,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Guanta",
+        "name_eng": "Municipio Guanta",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2381428",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3448192,
+        "osm_place_id": 282536628,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Guaraque",
+        "name_eng": "Municipio Guaraque",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3326533,
+        "osm_place_id": 282412736,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Gu\u00e1simos",
+        "name_eng": "Municipio Gu\u00e1simos",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3325359,
+        "osm_place_id": 282641202,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Independencia",
+        "name_eng": "Municipio Independencia",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 11126512,
+        "osm_place_id": 283389262,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Independencia",
+        "name_eng": "Municipio Independencia",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3349736,
+        "osm_place_id": 282521169,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Independencia",
+        "name_eng": "Municipio Independencia",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 10962012,
+        "osm_place_id": 283566354,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Independencia",
+        "name_eng": "Municipio Independencia",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2777221",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3447447,
+        "osm_place_id": 282414535,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Ind\u00edgena Guajira",
+        "name_eng": "Municipio Ind\u00edgena Guajira",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3919035,
+        "osm_place_id": 282537444,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Iribarren",
+        "name_eng": "Municipio Iribarren",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2435584",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3460085,
+        "osm_place_id": 282663724,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Jacura",
+        "name_eng": "Municipio Jacura",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3326211,
+        "osm_place_id": 282397691,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio J\u00e1uregui",
+        "name_eng": "Municipio J\u00e1uregui",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3447441,
+        "osm_place_id": 282451265,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Jes\u00fas Enrique Lossada",
+        "name_eng": "Municipio Jes\u00fas Enrique Lossada",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2148353",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3447442,
+        "osm_place_id": 282491103,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Jes\u00fas Mar\u00eda Semprum",
+        "name_eng": "Municipio Jes\u00fas Mar\u00eda Semprum",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3919036,
+        "osm_place_id": 282482188,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Jim\u00e9nez",
+        "name_eng": "Municipio Jim\u00e9nez",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q952348",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 11023954,
+        "osm_place_id": 283252028,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Jos\u00e9 \u00c1ngel Lamas",
+        "name_eng": "Municipio Jos\u00e9 \u00c1ngel Lamas",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 11126517,
+        "osm_place_id": 283238037,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Jos\u00e9 Antonio P\u00e1ez",
+        "name_eng": "Municipio Jos\u00e9 Antonio P\u00e1ez",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3449427,
+        "osm_place_id": 282728422,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Jos\u00e9 Felipe M\u00e1rquez Ca\u00f1izales",
+        "name_eng": "Municipio Jos\u00e9 Felipe M\u00e1rquez Ca\u00f1izales",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 2256363,
+        "osm_place_id": 282316559,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Jos\u00e9 F\u00e9lix Ribas",
+        "name_eng": "Municipio Jos\u00e9 F\u00e9lix Ribas",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 11066370,
+        "osm_place_id": 283572790,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Jos\u00e9 F\u00e9lix Ribas",
+        "name_eng": "Municipio Jos\u00e9 F\u00e9lix Ribas",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 10928385,
+        "osm_place_id": 283530546,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Jos\u00e9 Gregorio Monagas",
+        "name_eng": "Municipio Jos\u00e9 Gregorio Monagas",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2545115",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3326332,
+        "osm_place_id": 282394177,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Jos\u00e9 Mar\u00eda Vargas",
+        "name_eng": "Municipio Jos\u00e9 Mar\u00eda Vargas",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2797691",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 2256364,
+        "osm_place_id": 282263762,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Jos\u00e9 Rafael Revenga",
+        "name_eng": "Municipio Jos\u00e9 Rafael Revenga",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 11066368,
+        "osm_place_id": 283219185,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Jos\u00e9 Tadeo Monagas",
+        "name_eng": "Municipio Jos\u00e9 Tadeo Monagas",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q968095",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 9775353,
+        "osm_place_id": 283106587,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Jos\u00e9 Vicente de Unda",
+        "name_eng": "Municipio Jos\u00e9 Vicente de Unda",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2479642",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 10961999,
+        "osm_place_id": 283636232,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Juan Antonio Sotillo",
+        "name_eng": "Municipio Juan Antonio Sotillo",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 11066365,
+        "osm_place_id": 283223498,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Juan Germ\u00e1n Roscio",
+        "name_eng": "Municipio Juan Germ\u00e1n Roscio",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 9997544,
+        "osm_place_id": 283152378,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Juan Jos\u00e9 Mora",
+        "name_eng": "Municipio Juan Jos\u00e9 Mora",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1710527",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 10962004,
+        "osm_place_id": 283210016,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Juan Manuel Cajigal",
+        "name_eng": "Municipio Juan Manuel Cajigal",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2461440",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3449428,
+        "osm_place_id": 282427723,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Juan Vicente Campo Elias",
+        "name_eng": "Municipio Juan Vicente Campo Elias",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 11066366,
+        "osm_place_id": 283533326,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Juli\u00e1n Mellado",
+        "name_eng": "Municipio Juli\u00e1n Mellado",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3448343,
+        "osm_place_id": 282427614,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Julio C\u00e9sar Salas",
+        "name_eng": "Municipio Julio C\u00e9sar Salas",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3324562,
+        "osm_place_id": 282395816,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Jun\u00edn",
+        "name_eng": "Municipio Jun\u00edn",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3448344,
+        "osm_place_id": 282459346,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Justo Brice\u00f1o",
+        "name_eng": "Municipio Justo Brice\u00f1o",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3447443,
+        "osm_place_id": 282728194,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio La Ca\u00f1ada de Urdaneta",
+        "name_eng": "Municipio La Ca\u00f1ada de Urdaneta",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3449317,
+        "osm_place_id": 282986839,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio La Ceiba",
+        "name_eng": "Municipio La Ceiba",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 11126515,
+        "osm_place_id": 283530994,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio La Trinidad",
+        "name_eng": "Municipio La Trinidad",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3447562,
+        "osm_place_id": 282623776,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Lagunillas",
+        "name_eng": "Municipio Lagunillas",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3349785,
+        "osm_place_id": 282596996,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Lander",
+        "name_eng": "Municipio Lander",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1811782",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 11066375,
+        "osm_place_id": 283528428,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Las Mercedes",
+        "name_eng": "Municipio Las Mercedes",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 11066374,
+        "osm_place_id": 283263317,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Leonardo Infante",
+        "name_eng": "Municipio Leonardo Infante",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3324579,
+        "osm_place_id": 282464253,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Libertad",
+        "name_eng": "Municipio Libertad",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 10962001,
+        "osm_place_id": 283210204,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Libertad",
+        "name_eng": "Municipio Libertad",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2530307",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 5803420,
+        "osm_place_id": 282694740,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Libertador",
+        "name_eng": "Municipio Libertador",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q3071710",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 10833240,
+        "osm_place_id": 283241351,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Libertador",
+        "name_eng": "Municipio Libertador",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 11089546,
+        "osm_place_id": 283567716,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Libertador",
+        "name_eng": "Municipio Libertador",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3321735,
+        "osm_place_id": 282437537,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Libertador",
+        "name_eng": "Municipio Libertador",
+        "name_translations": {
+            "es": "Municipio Libertador"
+        },
+        "extra": {
+            "wikidata": "Q887222",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3325982,
+        "osm_place_id": 282438635,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Libertador",
+        "name_eng": "Municipio Libertador",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3448255,
+        "osm_place_id": 282415279,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Libertador",
+        "name_eng": "Municipio Libertador",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2207830",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 11023955,
+        "osm_place_id": 283336375,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Libertador",
+        "name_eng": "Municipio Libertador",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 11043135,
+        "osm_place_id": 283253789,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Lima Blanco",
+        "name_eng": "Municipio Lima Blanco",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2786560",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3324630,
+        "osm_place_id": 282397568,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Lobatera",
+        "name_eng": "Municipio Lobatera",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 10833244,
+        "osm_place_id": 283250155,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Los Guayos",
+        "name_eng": "Municipio Los Guayos",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q3646838",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3337496,
+        "osm_place_id": 282502181,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Los Salias",
+        "name_eng": "Municipio Los Salias",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3460149,
+        "osm_place_id": 282785120,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Los Taques",
+        "name_eng": "Municipio Los Taques",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3447444,
+        "osm_place_id": 282427375,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Machiques de Perij\u00e1",
+        "name_eng": "Municipio Machiques de Perij\u00e1",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 8150246,
+        "osm_place_id": 283006294,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Maneiro",
+        "name_eng": "Municipio Maneiro",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 10962002,
+        "osm_place_id": 283210635,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Manuel Ezequiel Bruzual",
+        "name_eng": "Municipio Manuel Ezequiel Bruzual",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q428957",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 11126520,
+        "osm_place_id": 283276922,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Manuel Monge",
+        "name_eng": "Municipio Manuel Monge",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3447445,
+        "osm_place_id": 282459092,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Mara",
+        "name_eng": "Municipio Mara",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3447446,
+        "osm_place_id": 282414500,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Maracaibo",
+        "name_eng": "Municipio Maracaibo",
+        "name_translations": {
+            "es": "Maracaibo",
+            "mk": "\u041c\u0430\u0440\u0430\u043a\u0430\u0438\u0431\u043e",
+            "oc": "Maracaibo",
+            "pt": "Maracaibo",
+            "ru": "\u041c\u0430\u0440\u0430\u043a\u0430\u0301\u0439\u0431\u043e",
+            "zh": "\u9a6c\u62c9\u5f00\u6ce2"
+        },
+        "extra": {
+            "wikidata": "Q171632",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 8150242,
+        "osm_place_id": 282948074,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Marcano",
+        "name_eng": "Municipio Marcano",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 5803878,
+        "osm_place_id": 283600813,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Mari\u00f1o",
+        "name_eng": "Municipio Mari\u00f1o",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2413769",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 8150247,
+        "osm_place_id": 283255262,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Mari\u00f1o",
+        "name_eng": "Municipio Mari\u00f1o",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 11210009,
+        "osm_place_id": 283493480,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Mario Brice\u00f1o Iragorry",
+        "name_eng": "Municipio Mario Brice\u00f1o Iragorry",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2536391",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 11089544,
+        "osm_place_id": 283471955,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Matur\u00edn",
+        "name_eng": "Municipio Matur\u00edn",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3460069,
+        "osm_place_id": 282416429,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Mauroa",
+        "name_eng": "Municipio Mauroa",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 5803225,
+        "osm_place_id": 282711205,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Mej\u00eda",
+        "name_eng": "Municipio Mej\u00eda",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3325371,
+        "osm_place_id": 282394011,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Michelena",
+        "name_eng": "Municipio Michelena",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3449429,
+        "osm_place_id": 282459403,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Miranda",
+        "name_eng": "Municipio Miranda",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1891642",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3448345,
+        "osm_place_id": 282414639,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Miranda",
+        "name_eng": "Municipio Miranda",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2878264",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 10833253,
+        "osm_place_id": 283392206,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Miranda",
+        "name_eng": "Municipio Miranda",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1839865",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3460135,
+        "osm_place_id": 282417063,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Miranda",
+        "name_eng": "Municipio Miranda",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1910828",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3447563,
+        "osm_place_id": 282784471,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Miranda",
+        "name_eng": "Municipio Miranda",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3460086,
+        "osm_place_id": 282624696,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Monse\u00f1or Iturriza",
+        "name_eng": "Municipio Monse\u00f1or Iturriza",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 10833252,
+        "osm_place_id": 283350372,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Montalb\u00e1n",
+        "name_eng": "Municipio Montalb\u00e1n",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3449318,
+        "osm_place_id": 282417734,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Monte Carmelo",
+        "name_eng": "Municipio Monte Carmelo",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 5805490,
+        "osm_place_id": 283600817,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Montes",
+        "name_eng": "Municipio Montes",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q3007503",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3933338,
+        "osm_place_id": 282556598,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Mor\u00e1n",
+        "name_eng": "Municipio Mor\u00e1n",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3449355,
+        "osm_place_id": 282430265,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Motat\u00e1n",
+        "name_eng": "Municipio Motat\u00e1n",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3419322,
+        "osm_place_id": 282780939,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Mu\u00f1oz",
+        "name_eng": "Municipio Mu\u00f1oz",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2537345",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 10833250,
+        "osm_place_id": 283571051,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Naguanagua",
+        "name_eng": "Municipio Naguanagua",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 11126507,
+        "osm_place_id": 283400517,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Nirgua",
+        "name_eng": "Municipio Nirgua",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3448256,
+        "osm_place_id": 282418874,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Obispo Ramos de Lora",
+        "name_eng": "Municipio Obispo Ramos de Lora",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 8500041,
+        "osm_place_id": 283628487,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Obispos",
+        "name_eng": "Municipio Obispos",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 9998351,
+        "osm_place_id": 283248731,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Ocumare de La Costa de Oro",
+        "name_eng": "Municipio Ocumare de La Costa de Oro",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1864734",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 9829597,
+        "osm_place_id": 283304859,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Onoto",
+        "name_eng": "Municipio Onoto",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q583005",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 11066378,
+        "osm_place_id": 283214797,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Ort\u00edz",
+        "name_eng": "Municipio Ort\u00edz",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1308380",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 9823128,
+        "osm_place_id": 283135232,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Ospino",
+        "name_eng": "Municipio Ospino",
+        "name_translations": {
+            "es": "Municipio Ospino"
+        },
+        "extra": {
+            "wikidata": "Q3087224",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3448193,
+        "osm_place_id": 282415180,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Padre Noguera",
+        "name_eng": "Municipio Padre Noguera",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 11039536,
+        "osm_place_id": 283223551,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Padre Pedro Chien",
+        "name_eng": "Municipio Padre Pedro Chien",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3419300,
+        "osm_place_id": 282532761,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio P\u00e1ez",
+        "name_eng": "Municipio P\u00e1ez",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2483236",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3356959,
+        "osm_place_id": 282522417,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio P\u00e1ez",
+        "name_eng": "Municipio P\u00e1ez",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q3087978",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 9828793,
+        "osm_place_id": 283483154,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio P\u00e1ez",
+        "name_eng": "Municipio P\u00e1ez",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2408036",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3919037,
+        "osm_place_id": 282929254,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Palavecino",
+        "name_eng": "Municipio Palavecino",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2307377",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3460087,
+        "osm_place_id": 282785049,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Palmasola",
+        "name_eng": "Municipio Palmasola",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3449430,
+        "osm_place_id": 282414676,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Pamp\u00e1n",
+        "name_eng": "Municipio Pamp\u00e1n",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3449431,
+        "osm_place_id": 282414784,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Pampanito",
+        "name_eng": "Municipio Pampanito",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3325390,
+        "osm_place_id": 282642032,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Panamericano",
+        "name_eng": "Municipio Panamericano",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 11043141,
+        "osm_place_id": 283258398,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Pao de San Juan Bautista",
+        "name_eng": "Municipio Pao de San Juan Bautista",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1869244",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 9826265,
+        "osm_place_id": 283546436,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Papel\u00f3n",
+        "name_eng": "Municipio Papel\u00f3n",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2436120",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3339667,
+        "osm_place_id": 282655570,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Paz Castillo",
+        "name_eng": "Municipio Paz Castillo",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1149232",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 6924971,
+        "osm_place_id": 282879193,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Pedernales",
+        "name_eng": "Municipio Pedernales",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 8383424,
+        "osm_place_id": 282976840,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Pedraza",
+        "name_eng": "Municipio Pedraza",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2135709",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3419323,
+        "osm_place_id": 282454801,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Pedro Camejo",
+        "name_eng": "Municipio Pedro Camejo",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2574354",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3356996,
+        "osm_place_id": 282658461,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Pedro Gual",
+        "name_eng": "Municipio Pedro Gual",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2388590",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 10962009,
+        "osm_place_id": 283474849,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Pedro Mar\u00eda Freites",
+        "name_eng": "Municipio Pedro Mar\u00eda Freites",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2674106",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3321037,
+        "osm_place_id": 282721858,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Pedro Mar\u00eda Ure\u00f1a",
+        "name_eng": "Municipio Pedro Mar\u00eda Ure\u00f1a",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 11126511,
+        "osm_place_id": 283509379,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Pe\u00f1a",
+        "name_eng": "Municipio Pe\u00f1a",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 8150251,
+        "osm_place_id": 282936239,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Pen\u00ednsula de Macanao",
+        "name_eng": "Municipio Pen\u00ednsula de Macanao",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3460088,
+        "osm_place_id": 282459933,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Petit",
+        "name_eng": "Municipio Petit",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 11089535,
+        "osm_place_id": 283224316,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Piar",
+        "name_eng": "Municipio Piar",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2043020",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 11039537,
+        "osm_place_id": 283283754,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Piar",
+        "name_eng": "Municipio Piar",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2475688",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3460136,
+        "osm_place_id": 282987195,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio P\u00edritu",
+        "name_eng": "Municipio P\u00edritu",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 10961994,
+        "osm_place_id": 283502304,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio P\u00edritu",
+        "name_eng": "Municipio P\u00edritu",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3349941,
+        "osm_place_id": 282399740,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Plaza",
+        "name_eng": "Municipio Plaza",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1149242",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3448346,
+        "osm_place_id": 282414673,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Pueblo Llano",
+        "name_eng": "Municipio Pueblo Llano",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 2689581,
+        "osm_place_id": 282519392,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Puerto Cabello",
+        "name_eng": "Municipio Puerto Cabello",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q3410570",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 11089536,
+        "osm_place_id": 283223835,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Punceres",
+        "name_eng": "Municipio Punceres",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3449335,
+        "osm_place_id": 282427695,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Rafael Rangel",
+        "name_eng": "Municipio Rafael Rangel",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3320915,
+        "osm_place_id": 282967345,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Rafael Urdaneta",
+        "name_eng": "Municipio Rafael Urdaneta",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3448347,
+        "osm_place_id": 282536710,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Rangel",
+        "name_eng": "Municipio Rangel",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 11039541,
+        "osm_place_id": 283473929,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Ra\u00fal Leoni",
+        "name_eng": "Municipio Ra\u00fal Leoni",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1651292",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 5760167,
+        "osm_place_id": 283006663,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Ribero",
+        "name_eng": "Municipio Ribero",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q3071700",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 11043138,
+        "osm_place_id": 283270989,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Ricaurte",
+        "name_eng": "Municipio Ricaurte",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2218342",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3448194,
+        "osm_place_id": 282418839,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Rivas D\u00e1vila",
+        "name_eng": "Municipio Rivas D\u00e1vila",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 8547415,
+        "osm_place_id": 282995350,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Rojas",
+        "name_eng": "Municipio Rojas",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1956852",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3419324,
+        "osm_place_id": 282446275,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio R\u00f3mulo Gallegos",
+        "name_eng": "Municipio R\u00f3mulo Gallegos",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2665199",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 11043139,
+        "osm_place_id": 283568307,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio R\u00f3mulo Gallegos",
+        "name_eng": "Municipio R\u00f3mulo Gallegos",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3447448,
+        "osm_place_id": 282536504,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Rosario de Perij\u00e1",
+        "name_eng": "Municipio Rosario de Perij\u00e1",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1996591",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 11039538,
+        "osm_place_id": 283254296,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Roscio",
+        "name_eng": "Municipio Roscio",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2100029",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3325398,
+        "osm_place_id": 282438426,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Samuel Dar\u00edo Maldonado",
+        "name_eng": "Municipio Samuel Dar\u00edo Maldonado",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 11043136,
+        "osm_place_id": 283482066,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio San Carlos",
+        "name_eng": "Municipio San Carlos",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 11023950,
+        "osm_place_id": 283567837,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio San Casimiro",
+        "name_eng": "Municipio San Casimiro",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3324584,
+        "osm_place_id": 282641590,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio San Crist\u00f3bal",
+        "name_eng": "Municipio San Crist\u00f3bal",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 10833245,
+        "osm_place_id": 283200273,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio San Diego",
+        "name_eng": "Municipio San Diego",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2071710",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 11126509,
+        "osm_place_id": 283509677,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio San Felipe",
+        "name_eng": "Municipio San Felipe",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3419325,
+        "osm_place_id": 282488316,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio San Fernando",
+        "name_eng": "Municipio San Fernando",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3447449,
+        "osm_place_id": 282415087,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio San Francisco",
+        "name_eng": "Municipio San Francisco",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3460137,
+        "osm_place_id": 282418256,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio San Francisco",
+        "name_eng": "Municipio San Francisco",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 9820943,
+        "osm_place_id": 283098081,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio San Genaro de Bocono\u00edto",
+        "name_eng": "Municipio San Genaro de Bocono\u00edto",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2557299",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 11066376,
+        "osm_place_id": 283636420,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio San Ger\u00f3nimo de Guayabal",
+        "name_eng": "Municipio San Ger\u00f3nimo de Guayabal",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 10833247,
+        "osm_place_id": 283370549,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio San Joaqu\u00edn",
+        "name_eng": "Municipio San Joaqu\u00edn",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1631420",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 11066369,
+        "osm_place_id": 283506789,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio San Jos\u00e9 de Guaribe",
+        "name_eng": "Municipio San Jos\u00e9 de Guaribe",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 10961995,
+        "osm_place_id": 283357237,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio San Juan de Capistrano",
+        "name_eng": "Municipio San Juan de Capistrano",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3325386,
+        "osm_place_id": 282412605,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio San Judas Tadeo",
+        "name_eng": "Municipio San Judas Tadeo",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3449356,
+        "osm_place_id": 282867996,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio San Rafael de Carvajal",
+        "name_eng": "Municipio San Rafael de Carvajal",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 11023951,
+        "osm_place_id": 283218941,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio San Sebasti\u00e1n",
+        "name_eng": "Municipio San Sebasti\u00e1n",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q642788",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 10962007,
+        "osm_place_id": 283244268,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Santa Ana",
+        "name_eng": "Municipio Santa Ana",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 11089542,
+        "osm_place_id": 283258684,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Santa B\u00e1rbara",
+        "name_eng": "Municipio Santa B\u00e1rbara",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 11066372,
+        "osm_place_id": 283368479,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Santa Mar\u00eda de Ipire",
+        "name_eng": "Municipio Santa Mar\u00eda de Ipire",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3447564,
+        "osm_place_id": 282459246,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Santa Rita",
+        "name_eng": "Municipio Santa Rita",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 9825580,
+        "osm_place_id": 283371903,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Santa Rosal\u00eda",
+        "name_eng": "Municipio Santa Rosal\u00eda",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q3071565",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 9998350,
+        "osm_place_id": 283152441,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Santiago Mari\u00f1o",
+        "name_eng": "Municipio Santiago Mari\u00f1o",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3448348,
+        "osm_place_id": 282415316,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Santos Marquina",
+        "name_eng": "Municipio Santos Marquina",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 11023952,
+        "osm_place_id": 283256606,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Santos Michelena",
+        "name_eng": "Municipio Santos Michelena",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3325383,
+        "osm_place_id": 282479712,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Seboruco",
+        "name_eng": "Municipio Seboruco",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 11039540,
+        "osm_place_id": 283481895,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Sifontes",
+        "name_eng": "Municipio Sifontes",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q373198",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3460089,
+        "osm_place_id": 282451905,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Silva",
+        "name_eng": "Municipio Silva",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 10962000,
+        "osm_place_id": 283218002,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Sim\u00f3n Bol\u00edvar",
+        "name_eng": "Municipio Sim\u00f3n Bol\u00edvar",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3447565,
+        "osm_place_id": 282451506,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Sim\u00f3n Bol\u00edvar",
+        "name_eng": "Municipio Sim\u00f3n Bol\u00edvar",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3349737,
+        "osm_place_id": 282398020,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Sim\u00f3n Bolivar",
+        "name_eng": "Municipio Sim\u00f3n Bolivar",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2520836",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3919038,
+        "osm_place_id": 282676106,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Sim\u00f3n Planas",
+        "name_eng": "Municipio Sim\u00f3n Planas",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q3088394",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3326199,
+        "osm_place_id": 282438812,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Sim\u00f3n Rodr\u00edguez",
+        "name_eng": "Municipio Sim\u00f3n Rodr\u00edguez",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2772652",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 10962010,
+        "osm_place_id": 283467453,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Sim\u00f3n Rodr\u00edguez",
+        "name_eng": "Municipio Sim\u00f3n Rodr\u00edguez",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2404225",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 10962005,
+        "osm_place_id": 283217687,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Sir Arthur Mc Gregor",
+        "name_eng": "Municipio Sir Arthur Mc Gregor",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q585676",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 8547475,
+        "osm_place_id": 283062914,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Sosa",
+        "name_eng": "Municipio Sosa",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q3089933",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 11089547,
+        "osm_place_id": 283218298,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Sotillo",
+        "name_eng": "Municipio Sotillo",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3448257,
+        "osm_place_id": 282460657,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Sucre",
+        "name_eng": "Municipio Sucre",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3335761,
+        "osm_place_id": 282654948,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Sucre",
+        "name_eng": "Municipio Sucre",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3326414,
+        "osm_place_id": 282597669,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Sucre",
+        "name_eng": "Municipio Sucre",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q3134312",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 2256367,
+        "osm_place_id": 282273053,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Sucre",
+        "name_eng": "Municipio Sucre",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3449336,
+        "osm_place_id": 282459383,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Sucre",
+        "name_eng": "Municipio Sucre",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 9798056,
+        "osm_place_id": 283104282,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Sucre",
+        "name_eng": "Municipio Sucre",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2421017",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 5749568,
+        "osm_place_id": 282628752,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Sucre",
+        "name_eng": "Municipio Sucre",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2674191",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3417866,
+        "osm_place_id": 282455249,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Sucre",
+        "name_eng": "Sucre Municipality",
+        "name_translations": {
+            "en": "Sucre Municipality",
+            "es": "Municipio Sucre"
+        },
+        "extra": {
+            "wikidata": "Q2662721",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3460090,
+        "osm_place_id": 282491703,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Sucre",
+        "name_eng": "Municipio Sucre",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 11126514,
+        "osm_place_id": 283277091,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Sucre",
+        "name_eng": "Municipio Sucre",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 11043140,
+        "osm_place_id": 283221979,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Tinaco",
+        "name_eng": "Municipio Tinaco",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3460138,
+        "osm_place_id": 282457698,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Toc\u00f3pero",
+        "name_eng": "Municipio Toc\u00f3pero",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3324586,
+        "osm_place_id": 282764535,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Torbes",
+        "name_eng": "Municipio Torbes",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3919039,
+        "osm_place_id": 282471306,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Torres",
+        "name_eng": "Municipio Torres",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q3132001",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 2256317,
+        "osm_place_id": 282364782,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Tovar",
+        "name_eng": "Municipio Tovar",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3448195,
+        "osm_place_id": 282460634,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Tovar",
+        "name_eng": "Municipio Tovar",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3449432,
+        "osm_place_id": 282536792,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Trujillo",
+        "name_eng": "Municipio Trujillo",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 8150250,
+        "osm_place_id": 283512613,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Tubores",
+        "name_eng": "Municipio Tubores",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 11046659,
+        "osm_place_id": 283529294,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Tucupita",
+        "name_eng": "Municipio Tucupita",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3448349,
+        "osm_place_id": 282418932,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Tulio Febres Cordero",
+        "name_eng": "Municipio Tulio Febres Cordero",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 9825864,
+        "osm_place_id": 283150046,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Tur\u00e9n",
+        "name_eng": "Municipio Tur\u00e9n",
+        "name_translations": {
+            "es": "Municipio Tur\u00e9n"
+        },
+        "extra": {
+            "wikidata": "Q3038839",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3460091,
+        "osm_place_id": 282729273,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Uni\u00f3n",
+        "name_eng": "Municipio Uni\u00f3n",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 11126518,
+        "osm_place_id": 283227704,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Urachiche",
+        "name_eng": "Municipio Urachiche",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 11089545,
+        "osm_place_id": 283268871,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Uracoa",
+        "name_eng": "Municipio Uracoa",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3345533,
+        "osm_place_id": 282483335,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Urdaneta",
+        "name_eng": "Municipio Urdaneta",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2569928",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3919040,
+        "osm_place_id": 282713532,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Urdaneta",
+        "name_eng": "Municipio Urdaneta",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2269268",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3449433,
+        "osm_place_id": 282415407,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Urdaneta",
+        "name_eng": "Municipio Urdaneta",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 11023948,
+        "osm_place_id": 283472570,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Urdaneta",
+        "name_eng": "Municipio Urdaneta",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3326210,
+        "osm_place_id": 282442944,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Uribante",
+        "name_eng": "Municipio Uribante",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3460070,
+        "osm_place_id": 282519223,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Urumaco",
+        "name_eng": "Municipio Urumaco",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 5803877,
+        "osm_place_id": 283011790,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Valdez",
+        "name_eng": "Municipio Valdez",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2230534",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 10833239,
+        "osm_place_id": 283203023,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Valencia",
+        "name_eng": "Municipio Valencia",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q3553547",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3449357,
+        "osm_place_id": 282616169,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Valera",
+        "name_eng": "Municipio Valera",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3447566,
+        "osm_place_id": 282491288,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Valmore Rodr\u00edguez",
+        "name_eng": "Municipio Valmore Rodr\u00edguez",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 2442703,
+        "osm_place_id": 282298220,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Vargas",
+        "name_eng": "Municipio Vargas",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q3650762",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 11126508,
+        "osm_place_id": 283227391,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Veroes",
+        "name_eng": "Municipio Veroes",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 8150252,
+        "osm_place_id": 283005361,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Villalba",
+        "name_eng": "Municipio Villalba",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3351338,
+        "osm_place_id": 282602568,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Zamora",
+        "name_eng": "Municipio Zamora",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1129558",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 11023953,
+        "osm_place_id": 283524900,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Zamora",
+        "name_eng": "Municipio Zamora",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3460139,
+        "osm_place_id": 282461871,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Zamora",
+        "name_eng": "Municipio Zamora",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2184913",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 11066371,
+        "osm_place_id": 283507373,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Zaraza",
+        "name_eng": "Municipio Zaraza",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 3448196,
+        "osm_place_id": 282415552,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio Zea",
+        "name_eng": "Municipio Zea",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": "VE-O",
+        "osm_id": 2269770,
+        "osm_place_id": 282330340,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Nueva Esparta",
+        "name_eng": "Nueva Esparta State",
+        "name_translations": {
+            "en": "Nueva Esparta State",
+            "es": "Estado Nueva Esparta",
+            "ja": "\u30cc\u30a8\u30d0\u30fb\u30a8\u30b9\u30d1\u30eb\u30bf\u5dde"
+        },
+        "extra": {
+            "wikidata": "Q204876",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": "VE-P",
+        "osm_id": 272661,
+        "osm_place_id": 281863674,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Portuguesa",
+        "name_eng": "Portuguesa State",
+        "name_translations": {
+            "ar": "\u0648\u0644\u0627\u064a\u0629 \u0628\u0648\u0631\u062a\u0648\u063a\u064a\u0632\u0627",
+            "en": "Portuguesa State",
+            "es": "Estado Portuguesa",
+            "ja": "\u30dd\u30eb\u30c8\u30a5\u30b2\u30b5\u5dde",
+            "ko": "\ud3ec\ub974\ud22c\uac8c\uc0ac\uc8fc",
+            "ru": "\u041f\u043e\u0440\u0442\u0443\u0433\u0435\u0441\u0430",
+            "th": "\u0e23\u0e31\u0e10\u0e42\u0e1b\u0e23\u0e4c\u0e15\u0e39\u0e40\u0e01\u0e0b\u0e32",
+            "uk": "\u041f\u043e\u0440\u0442\u0443\u0433\u0435\u0441\u0430"
+        },
+        "extra": {
+            "wikidata": "Q205784",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": "VE-R",
+        "osm_id": 272671,
+        "osm_place_id": 282265581,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Sucre",
+        "name_eng": "Sucre State",
+        "name_translations": {
+            "en": "Sucre State",
+            "es": "Estado Sucre",
+            "ja": "\u30b9\u30af\u30ec\u5dde"
+        },
+        "extra": {
+            "wikidata": "Q205824",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": "VE-S",
+        "osm_id": 272633,
+        "osm_place_id": 281864601,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "T\u00e1chira",
+        "name_eng": "Tachira State",
+        "name_translations": {
+            "en": "Tachira State",
+            "es": "Estado T\u00e1chira",
+            "ja": "\u30bf\u30c1\u30e9\u5dde"
+        },
+        "extra": {
+            "wikidata": "Q41144",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": "VE-T",
+        "osm_id": 272634,
+        "osm_place_id": 282259363,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Trujillo",
+        "name_eng": "Trujillo State",
+        "name_translations": {
+            "en": "Trujillo State",
+            "eo": "Trujillo",
+            "es": "Estado Trujillo",
+            "ja": "\u30c8\u30eb\u30d2\u30fc\u30b8\u30e7\u5dde"
+        },
+        "extra": {
+            "wikidata": "Q202068",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": "VE-U",
+        "osm_id": 272743,
+        "osm_place_id": 282092124,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Yaracuy",
+        "name_eng": "Yaracuy State",
+        "name_translations": {
+            "en": "Yaracuy State",
+            "es": "Estado Yaracuy",
+            "ja": "\u30e4\u30e9\u30af\u30a4\u5dde",
+            "ru": "\u042f\u0440\u0430\u043a\u0443\u0439"
+        },
+        "extra": {
+            "wikidata": "Q201121",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ve",
+        "country_cca3": "ven",
+        "region_cca2": null,
+        "osm_id": 272632,
+        "osm_place_id": 282237216,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Zulia",
+        "name_eng": "Zulia State",
+        "name_translations": {
+            "en": "Zulia State",
+            "es": "Estado Zulia",
+            "ja": "\u30b9\u30ea\u30a2\u5dde"
+        },
+        "extra": {
+            "wikidata": "Q43269",
+            "un_locode": null
+        }
+    }
+]

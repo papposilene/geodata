@@ -1,0 +1,79 @@
+[
+    {
+        "country_cca2": "fm",
+        "country_cca3": "fsm",
+        "region_cca2": "FM-TRK",
+        "osm_id": 3819479,
+        "osm_place_id": 282578002,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Chuuk",
+        "name_eng": "Chuuk",
+        "name_translations": {
+            "en": "Chuuk",
+            "hu": "Chuuk",
+            "ru": "\u0427\u0443\u0443\u043a"
+        },
+        "extra": {
+            "wikidata": "Q221684",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "fm",
+        "country_cca3": "fsm",
+        "region_cca2": "FM-KSA",
+        "osm_id": 3819480,
+        "osm_place_id": 282459649,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Kosrae",
+        "name_eng": "Kosrae",
+        "name_translations": {
+            "en": "Kosrae",
+            "hu": "Kosrae",
+            "ru": "\u041a\u043e\u0441\u0440\u0430\u044d"
+        },
+        "extra": {
+            "wikidata": "Q1785093",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "fm",
+        "country_cca3": "fsm",
+        "region_cca2": "FM-PNI",
+        "osm_id": 3819481,
+        "osm_place_id": 282466137,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Pohnpei",
+        "name_eng": "Pohnpei",
+        "name_translations": {
+            "en": "Pohnpei",
+            "es": "Ponap\u00e9",
+            "hu": "Pohnpei",
+            "ru": "\u041f\u043e\u043d\u043f\u0435\u0438"
+        },
+        "extra": {
+            "wikidata": "Q7771127",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "fm",
+        "country_cca3": "fsm",
+        "region_cca2": "FM-YAP",
+        "osm_id": 3819422,
+        "osm_place_id": 282557851,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Yap",
+        "name_eng": "Yap",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q11342951",
+            "un_locode": null
+        }
+    }
+]

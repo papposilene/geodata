@@ -1,0 +1,52 @@
+[
+    {
+        "country_cca2": "mh",
+        "country_cca3": "mhl",
+        "region_cca2": "MH-L",
+        "osm_id": 7240959,
+        "osm_place_id": 282848972,
+        "osm_admin_level": 4,
+        "osm_type": "region",
+        "name_loc": "R\u0101lik",
+        "name_eng": "Ralik Chain",
+        "name_translations": {
+            "de": "Ralik-Kette",
+            "en": "Ralik Chain",
+            "es": "Cadena Ralik",
+            "fr": "Cha\u00eene de Ralik",
+            "it": "Isole Ralik",
+            "mh": "R\u0101lik",
+            "pt": "Cadeia Ralik",
+            "sv": "Ralikgruppen"
+        },
+        "extra": {
+            "wikidata": "Q697840",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "mh",
+        "country_cca3": "mhl",
+        "region_cca2": "MH-T",
+        "osm_id": 7240960,
+        "osm_place_id": 282922741,
+        "osm_admin_level": 4,
+        "osm_type": "region",
+        "name_loc": "Ratak",
+        "name_eng": "Ratak Chain",
+        "name_translations": {
+            "de": "Ratak-Kette",
+            "en": "Ratak Chain",
+            "es": "Cadena Ratak",
+            "fr": "Cha\u00eene de Ratak",
+            "it": "Isole Ratak",
+            "mh": "Ratak",
+            "pt": "Cadeia Ratak",
+            "sv": "Ratakgruppen"
+        },
+        "extra": {
+            "wikidata": "Q700048",
+            "un_locode": null
+        }
+    }
+]

@@ -1,0 +1,59 @@
+[
+    {
+        "country_cca2": "ms",
+        "country_cca3": "msr",
+        "region_cca2": null,
+        "osm_id": 3994461,
+        "osm_place_id": 282690845,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Saint Anthony",
+        "name_eng": "Saint Anthony",
+        "name_translations": {
+            "en": "Saint Anthony",
+            "mk": "\u0421\u0435\u043d\u0442 \u0415\u043d\u0442\u043e\u043d\u0438"
+        },
+        "extra": {
+            "wikidata": "Q3463656",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ms",
+        "country_cca3": "msr",
+        "region_cca2": null,
+        "osm_id": 3994462,
+        "osm_place_id": 282477106,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Saint Georges",
+        "name_eng": "Saint Georges",
+        "name_translations": {
+            "en": "Saint Georges",
+            "mk": "\u0421\u0435\u043d\u0442 \u040f\u043e\u0440\u045f\u0435\u0441"
+        },
+        "extra": {
+            "wikidata": "Q3463799",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ms",
+        "country_cca3": "msr",
+        "region_cca2": null,
+        "osm_id": 3994463,
+        "osm_place_id": 282728066,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Saint Peter",
+        "name_eng": "Saint Peter",
+        "name_translations": {
+            "en": "Saint Peter",
+            "mk": "\u0421\u0435\u043d\u0442 \u041f\u0438\u0442\u0435\u0440"
+        },
+        "extra": {
+            "wikidata": "Q3464018",
+            "un_locode": null
+        }
+    }
+]

@@ -1,0 +1,756 @@
+[
+    {
+        "country_cca2": "bi",
+        "country_cca3": "bdi",
+        "region_cca2": "BI-BB",
+        "osm_id": 1700314,
+        "osm_place_id": 282502997,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Bubanza",
+        "name_eng": "Bubanza",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q460538",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "bi",
+        "country_cca3": "bdi",
+        "region_cca2": null,
+        "osm_id": 2985684,
+        "osm_place_id": 282403762,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Bugabira",
+        "name_eng": "Bugabira",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q5153992",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "bi",
+        "country_cca3": "bdi",
+        "region_cca2": null,
+        "osm_id": 2985566,
+        "osm_place_id": 282555922,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Buhinyuza",
+        "name_eng": "Buhinyuza",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q5153993",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "bi",
+        "country_cca3": "bdi",
+        "region_cca2": null,
+        "osm_id": 1694988,
+        "osm_place_id": 282184524,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Bujumbura Mairie",
+        "name_eng": "Bujumbura Mairie",
+        "name_translations": {
+            "fr": "Bujumbura Mairie"
+        },
+        "extra": {
+            "wikidata": "Q1816580",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "bi",
+        "country_cca3": "bdi",
+        "region_cca2": "BI-BL",
+        "osm_id": 1695013,
+        "osm_place_id": 282502603,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Bujumbura Rural",
+        "name_eng": "Bujumbura Rural",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q645043",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "bi",
+        "country_cca3": "bdi",
+        "region_cca2": "BI-BR",
+        "osm_id": 1695014,
+        "osm_place_id": 282191346,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Bururi",
+        "name_eng": "Bururi",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q431385",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "bi",
+        "country_cca3": "bdi",
+        "region_cca2": null,
+        "osm_id": 2985863,
+        "osm_place_id": 282459822,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Busiga",
+        "name_eng": "Busiga",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q5153996",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "bi",
+        "country_cca3": "bdi",
+        "region_cca2": null,
+        "osm_id": 2985685,
+        "osm_place_id": 282446343,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Busoni",
+        "name_eng": "Busoni",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q5153999",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "bi",
+        "country_cca3": "bdi",
+        "region_cca2": null,
+        "osm_id": 2985567,
+        "osm_place_id": 282355298,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Butihinda",
+        "name_eng": "Butihinda",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q5154001",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "bi",
+        "country_cca3": "bdi",
+        "region_cca2": null,
+        "osm_id": 2985686,
+        "osm_place_id": 282398658,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Bwambarangwe",
+        "name_eng": "Bwambarangwe",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q4453823",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "bi",
+        "country_cca3": "bdi",
+        "region_cca2": "BI-CA",
+        "osm_id": 1695104,
+        "osm_place_id": 282220829,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Cankuzo",
+        "name_eng": "Cankuzo",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q645033",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "bi",
+        "country_cca3": "bdi",
+        "region_cca2": null,
+        "osm_id": 2985726,
+        "osm_place_id": 282404104,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Cankuzo",
+        "name_eng": "Cankuzo",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "bi",
+        "country_cca3": "bdi",
+        "region_cca2": null,
+        "osm_id": 2985727,
+        "osm_place_id": 282385119,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Cendajuru",
+        "name_eng": "Cendajuru",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q3372821",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "bi",
+        "country_cca3": "bdi",
+        "region_cca2": "BI-CI",
+        "osm_id": 1700315,
+        "osm_place_id": 282191906,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Cibitoke",
+        "name_eng": "Cibitoke",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q505596",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "bi",
+        "country_cca3": "bdi",
+        "region_cca2": null,
+        "osm_id": 2985864,
+        "osm_place_id": 282614487,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Gashikanwa",
+        "name_eng": "Gashikanwa",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q5154004",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "bi",
+        "country_cca3": "bdi",
+        "region_cca2": null,
+        "osm_id": 2985568,
+        "osm_place_id": 282600423,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Gashoho",
+        "name_eng": "Gashoho",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q5154005",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "bi",
+        "country_cca3": "bdi",
+        "region_cca2": null,
+        "osm_id": 2985569,
+        "osm_place_id": 282561740,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Gasorwe",
+        "name_eng": "Gasorwe",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q5154007",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "bi",
+        "country_cca3": "bdi",
+        "region_cca2": null,
+        "osm_id": 2985728,
+        "osm_place_id": 282435500,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Gisagara",
+        "name_eng": "Gisagara",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "bi",
+        "country_cca3": "bdi",
+        "region_cca2": "BI-GI",
+        "osm_id": 1700324,
+        "osm_place_id": 282280773,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Gitega",
+        "name_eng": "Gitega",
+        "name_translations": {
+            "ar": "\u063a\u064a\u062a\u064a\u063a\u0627",
+            "de": "Gitega",
+            "el": "\u0393\u03ba\u03b9\u03c4\u03ad\u03b3\u03ba\u03b1",
+            "fa": "\u06af\u06cc\u062a\u06af\u0627",
+            "fr": "Gitega",
+            "ks": "\u06af\u06cc\u062a\u06cc\u06af\u0627",
+            "ur": "\u06af\u06cc\u062a\u06cc\u06af\u0627",
+            "azb": "\u0642\u06cc\u062a\u0642\u0627",
+            "az-Arab": "\u0642\u06cc\u062a\u0642\u0627"
+        },
+        "extra": {
+            "wikidata": "Q720843",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "bi",
+        "country_cca3": "bdi",
+        "region_cca2": null,
+        "osm_id": 2985427,
+        "osm_place_id": 282412842,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Giteranyi",
+        "name_eng": "Giteranyi",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q5154014",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "bi",
+        "country_cca3": "bdi",
+        "region_cca2": null,
+        "osm_id": 2985687,
+        "osm_place_id": 282430865,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Gitobe",
+        "name_eng": "Gitobe",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q4453863",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "bi",
+        "country_cca3": "bdi",
+        "region_cca2": "BI-KR",
+        "osm_id": 1700328,
+        "osm_place_id": 282728415,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Karuzi",
+        "name_eng": "Karuzi",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q735463",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "bi",
+        "country_cca3": "bdi",
+        "region_cca2": "BI-KY",
+        "osm_id": 1700316,
+        "osm_place_id": 282229871,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Kayanza",
+        "name_eng": "Kayanza",
+        "name_translations": {
+            "fr": "Kayanza",
+            "ru": "\u041a\u0430\u044f\u043d\u0437\u0430"
+        },
+        "extra": {
+            "wikidata": "Q720848",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "bi",
+        "country_cca3": "bdi",
+        "region_cca2": null,
+        "osm_id": 2985729,
+        "osm_place_id": 282670066,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Kigamba",
+        "name_eng": "Kigamba",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q3372670",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "bi",
+        "country_cca3": "bdi",
+        "region_cca2": null,
+        "osm_id": 2985865,
+        "osm_place_id": 282685552,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Kiremba",
+        "name_eng": "Kiremba",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q5154020",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "bi",
+        "country_cca3": "bdi",
+        "region_cca2": "BI-KI",
+        "osm_id": 1700329,
+        "osm_place_id": 282194725,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Kirundo",
+        "name_eng": "Kirundo",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q600840",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "bi",
+        "country_cca3": "bdi",
+        "region_cca2": null,
+        "osm_id": 2985688,
+        "osm_place_id": 282377203,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Kirundo",
+        "name_eng": "Kirundo",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "bi",
+        "country_cca3": "bdi",
+        "region_cca2": "BI-MA",
+        "osm_id": 1695019,
+        "osm_place_id": 282184671,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Makamba",
+        "name_eng": "Makamba",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q823740",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "bi",
+        "country_cca3": "bdi",
+        "region_cca2": null,
+        "osm_id": 2985866,
+        "osm_place_id": 282355286,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Marangara",
+        "name_eng": "Marangara",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q5154023",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "bi",
+        "country_cca3": "bdi",
+        "region_cca2": null,
+        "osm_id": 2985730,
+        "osm_place_id": 282372791,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Mishiha",
+        "name_eng": "Mishiha",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q3372722",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "bi",
+        "country_cca3": "bdi",
+        "region_cca2": "BI-MU",
+        "osm_id": 1700317,
+        "osm_place_id": 282185110,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Muramvya",
+        "name_eng": "Muramvya",
+        "name_translations": {
+            "fr": "Muramvya",
+            "ru": "\u041c\u0443\u0440\u0430\u043c\u0432\u044c\u044f"
+        },
+        "extra": {
+            "wikidata": "Q671086",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "bi",
+        "country_cca3": "bdi",
+        "region_cca2": null,
+        "osm_id": 2985428,
+        "osm_place_id": 282357032,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Muyinga",
+        "name_eng": "Muyinga",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "bi",
+        "country_cca3": "bdi",
+        "region_cca2": "BI-MY",
+        "osm_id": 1700330,
+        "osm_place_id": 282237653,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Muyinga",
+        "name_eng": "Muyinga",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q822571",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "bi",
+        "country_cca3": "bdi",
+        "region_cca2": null,
+        "osm_id": 2985570,
+        "osm_place_id": 282724295,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Mwakiro",
+        "name_eng": "Mwakiro",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q5154030",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "bi",
+        "country_cca3": "bdi",
+        "region_cca2": "BI-MW",
+        "osm_id": 1700318,
+        "osm_place_id": 282183885,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Mwaro",
+        "name_eng": "Mwaro",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q847718",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "bi",
+        "country_cca3": "bdi",
+        "region_cca2": null,
+        "osm_id": 2985867,
+        "osm_place_id": 282921643,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Mwumba",
+        "name_eng": "Mwumba",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q5154031",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "bi",
+        "country_cca3": "bdi",
+        "region_cca2": "BI-NG",
+        "osm_id": 1700331,
+        "osm_place_id": 282193794,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Ngozi",
+        "name_eng": "Ngozi",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q720852",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "bi",
+        "country_cca3": "bdi",
+        "region_cca2": null,
+        "osm_id": 2985868,
+        "osm_place_id": 282371661,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Ngozi",
+        "name_eng": "Ngozi",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "bi",
+        "country_cca3": "bdi",
+        "region_cca2": null,
+        "osm_id": 2985689,
+        "osm_place_id": 282807178,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Ntega",
+        "name_eng": "Ntega",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q4453816",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "bi",
+        "country_cca3": "bdi",
+        "region_cca2": null,
+        "osm_id": 2985869,
+        "osm_place_id": 282400698,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Nyamurenza",
+        "name_eng": "Nyamurenza",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q5154034",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "bi",
+        "country_cca3": "bdi",
+        "region_cca2": null,
+        "osm_id": 2985870,
+        "osm_place_id": 282403793,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Ruhororo",
+        "name_eng": "Ruhororo",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q5154038",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "bi",
+        "country_cca3": "bdi",
+        "region_cca2": "BI-RM",
+        "osm_id": 7318716,
+        "osm_place_id": 282852207,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Rumonge",
+        "name_eng": "Rumonge",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q20669646",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "bi",
+        "country_cca3": "bdi",
+        "region_cca2": "BI-RT",
+        "osm_id": 1695020,
+        "osm_place_id": 282193409,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Rutana",
+        "name_eng": "Rutana",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q822566",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "bi",
+        "country_cca3": "bdi",
+        "region_cca2": "BI-RY",
+        "osm_id": 1695105,
+        "osm_place_id": 282225178,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Ruyigi",
+        "name_eng": "Ruyigi",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q822578",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "bi",
+        "country_cca3": "bdi",
+        "region_cca2": null,
+        "osm_id": 2985871,
+        "osm_place_id": 282446381,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Tangara",
+        "name_eng": "Tangara",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q5154044",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "bi",
+        "country_cca3": "bdi",
+        "region_cca2": null,
+        "osm_id": 2985690,
+        "osm_place_id": 282555974,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Vumbi",
+        "name_eng": "Vumbi",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    }
+]

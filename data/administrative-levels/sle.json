@@ -1,0 +1,612 @@
+[
+    {
+        "country_cca2": "sl",
+        "country_cca3": "sle",
+        "region_cca2": null,
+        "osm_id": 2608049,
+        "osm_place_id": 282304882,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Bagruwa Chiefdom",
+        "name_eng": "Bagruwa Chiefdom",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q31897415",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sl",
+        "country_cca3": "sle",
+        "region_cca2": null,
+        "osm_id": 3228959,
+        "osm_place_id": 282386393,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Bo District",
+        "name_eng": "Bo District",
+        "name_translations": {
+            "en": "Bo District",
+            "ru": "\u0411\u043e"
+        },
+        "extra": {
+            "wikidata": "Q887317",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sl",
+        "country_cca3": "sle",
+        "region_cca2": null,
+        "osm_id": 3230900,
+        "osm_place_id": 282582459,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Bombali District",
+        "name_eng": "Bombali District",
+        "name_translations": {
+            "en": "Bombali District",
+            "ru": "\u0411\u043e\u043c\u0431\u0430\u043b\u0438"
+        },
+        "extra": {
+            "wikidata": "Q891767",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sl",
+        "country_cca3": "sle",
+        "region_cca2": null,
+        "osm_id": 2655937,
+        "osm_place_id": 282367290,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Bonthe District",
+        "name_eng": "Bonthe District",
+        "name_translations": {
+            "en": "Bonthe District",
+            "lt": "Bont\u0117s apygarda"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sl",
+        "country_cca3": "sle",
+        "region_cca2": null,
+        "osm_id": 2655862,
+        "osm_place_id": 282314023,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Bum Chiefdom",
+        "name_eng": "Bum Chiefdom",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q4997219",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sl",
+        "country_cca3": "sle",
+        "region_cca2": null,
+        "osm_id": 2654897,
+        "osm_place_id": 282623486,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Buya Romende Chiefdom",
+        "name_eng": "Buya Romende Chiefdom",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sl",
+        "country_cca3": "sle",
+        "region_cca2": "SL-E",
+        "osm_id": 3230988,
+        "osm_place_id": 282470768,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Eastern Province",
+        "name_eng": "Eastern Province",
+        "name_translations": {
+            "ar": "\u0627\u0644\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u0634\u0631\u0642\u064a\u0629",
+            "de": "\u00d6stliche Provinz",
+            "en": "Eastern Province",
+            "lt": "Ryt\u0173 provincija",
+            "ru": "\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u0430\u044f \u043f\u0440\u043e\u0432\u0438\u043d\u0446\u0438\u044f"
+        },
+        "extra": {
+            "wikidata": "Q1050497",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sl",
+        "country_cca3": "sle",
+        "region_cca2": null,
+        "osm_id": 2610121,
+        "osm_place_id": 282360432,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Kagboro Chiefdom",
+        "name_eng": "Kagboro Chiefdom",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sl",
+        "country_cca3": "sle",
+        "region_cca2": null,
+        "osm_id": 3230901,
+        "osm_place_id": 282384372,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Kailahun District",
+        "name_eng": "Kailahun District",
+        "name_translations": {
+            "en": "Kailahun District",
+            "lt": "Kailahuno apygarda"
+        },
+        "extra": {
+            "wikidata": "Q1721443",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sl",
+        "country_cca3": "sle",
+        "region_cca2": null,
+        "osm_id": 3228942,
+        "osm_place_id": 282470519,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Kambia District",
+        "name_eng": "Kambia District",
+        "name_translations": {
+            "en": "Kambia District",
+            "ru": "\u041a\u0430\u043c\u0431\u0438\u0430"
+        },
+        "extra": {
+            "wikidata": "Q1722895",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sl",
+        "country_cca3": "sle",
+        "region_cca2": null,
+        "osm_id": 9641203,
+        "osm_place_id": 283492971,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Karene District",
+        "name_eng": "Karene District",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sl",
+        "country_cca3": "sle",
+        "region_cca2": null,
+        "osm_id": 3230902,
+        "osm_place_id": 282629396,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Kenema District",
+        "name_eng": "Kenema District",
+        "name_translations": {
+            "en": "Kenema District",
+            "ru": "\u041a\u0435\u043d\u0435\u043c\u0430"
+        },
+        "extra": {
+            "wikidata": "Q1738741",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sl",
+        "country_cca3": "sle",
+        "region_cca2": null,
+        "osm_id": 3230906,
+        "osm_place_id": 282408958,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Koinadugu District",
+        "name_eng": "Koinadugu District",
+        "name_translations": {
+            "en": "Koinadugu District",
+            "ru": "\u041a\u043e\u0439\u043d\u0430\u0434\u0443\u0433\u0443"
+        },
+        "extra": {
+            "wikidata": "Q1778860",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sl",
+        "country_cca3": "sle",
+        "region_cca2": null,
+        "osm_id": 3230907,
+        "osm_place_id": 282460782,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Kono District",
+        "name_eng": "Kono District",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sl",
+        "country_cca3": "sle",
+        "region_cca2": null,
+        "osm_id": 2610633,
+        "osm_place_id": 282310134,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Koya Chiefdom",
+        "name_eng": "Koya Chiefdom",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sl",
+        "country_cca3": "sle",
+        "region_cca2": null,
+        "osm_id": 2656414,
+        "osm_place_id": 282336260,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Kwamebai Krim Chiefdom",
+        "name_eng": "Kwamebai Krim Chiefdom",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q49127044",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sl",
+        "country_cca3": "sle",
+        "region_cca2": null,
+        "osm_id": 2636532,
+        "osm_place_id": 282401886,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Maforki Chiefdom",
+        "name_eng": "Maforki Chiefdom",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sl",
+        "country_cca3": "sle",
+        "region_cca2": null,
+        "osm_id": 2637561,
+        "osm_place_id": 282299201,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Marampa Chiefdom",
+        "name_eng": "Marampa Chiefdom",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sl",
+        "country_cca3": "sle",
+        "region_cca2": null,
+        "osm_id": 2615301,
+        "osm_place_id": 282748430,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Masimera Chiefdom",
+        "name_eng": "Masimera Chiefdom",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sl",
+        "country_cca3": "sle",
+        "region_cca2": null,
+        "osm_id": 2541142,
+        "osm_place_id": 282310857,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Moyamba District",
+        "name_eng": "Moyamba District",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sl",
+        "country_cca3": "sle",
+        "region_cca2": "SL-NW",
+        "osm_id": 9636490,
+        "osm_place_id": 283083627,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "North Western Province",
+        "name_eng": "North Western Province",
+        "name_translations": {
+            "ar": "\u0627\u0644\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u0634\u0645\u0627\u0644\u064a\u0629 \u0627\u0644\u063a\u0631\u0628\u064a\u0629",
+            "de": "Nordwestliche Provinz",
+            "en": "North Western Province"
+        },
+        "extra": {
+            "wikidata": "Q43371075",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sl",
+        "country_cca3": "sle",
+        "region_cca2": "SL-N",
+        "osm_id": 3230989,
+        "osm_place_id": 282435152,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Northern Province",
+        "name_eng": "Northern Province",
+        "name_translations": {
+            "ar": "\u0627\u0644\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u0634\u0645\u0627\u0644\u064a\u0629",
+            "de": "N\u00f6rdliche Provinz",
+            "en": "Northern Province",
+            "ru": "\u0421\u0435\u0432\u0435\u0440\u043d\u0430\u044f \u043f\u0440\u043e\u0432\u0438\u043d\u0446\u0438\u044f"
+        },
+        "extra": {
+            "wikidata": "Q912359",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sl",
+        "country_cca3": "sle",
+        "region_cca2": null,
+        "osm_id": 2541143,
+        "osm_place_id": 282342007,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Port Loko District",
+        "name_eng": "Port Loko District",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1852034",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sl",
+        "country_cca3": "sle",
+        "region_cca2": null,
+        "osm_id": 2607579,
+        "osm_place_id": 282360146,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Pujehun District",
+        "name_eng": "Pujehun District",
+        "name_translations": {
+            "en": "Pujehun District",
+            "lt": "Pud\u017eehuno apygarda",
+            "ru": "\u041f\u0443\u0434\u0436\u0435\u0445\u0443\u043d"
+        },
+        "extra": {
+            "wikidata": "Q927464",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sl",
+        "country_cca3": "sle",
+        "region_cca2": null,
+        "osm_id": 2541272,
+        "osm_place_id": 282305940,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Ribbi Chiefdom",
+        "name_eng": "Ribbi Chiefdom",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q49127141",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sl",
+        "country_cca3": "sle",
+        "region_cca2": null,
+        "osm_id": 2615302,
+        "osm_place_id": 282512178,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Sanda Magbolonto Chiefdom",
+        "name_eng": "Sanda Magbolonto Chiefdom",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sl",
+        "country_cca3": "sle",
+        "region_cca2": "SL-S",
+        "osm_id": 3230990,
+        "osm_place_id": 282456479,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Southern Province",
+        "name_eng": "Southern Province",
+        "name_translations": {
+            "ar": "\u0627\u0644\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u062c\u0646\u0648\u0628\u064a\u0629",
+            "de": "S\u00fcdliche Provinz",
+            "en": "Southern Province",
+            "lt": "Piet\u0173 provincija",
+            "ru": "\u042e\u0436\u043d\u0430\u044f \u043f\u0440\u043e\u0432\u0438\u043d\u0446\u0438\u044f"
+        },
+        "extra": {
+            "wikidata": "Q772185",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sl",
+        "country_cca3": "sle",
+        "region_cca2": null,
+        "osm_id": 2612480,
+        "osm_place_id": 282747934,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Tambakha Chiefdom",
+        "name_eng": "Tambakha Chiefdom",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sl",
+        "country_cca3": "sle",
+        "region_cca2": null,
+        "osm_id": 2610122,
+        "osm_place_id": 282383790,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Timdale Chiefdom",
+        "name_eng": "Timdale Chiefdom",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q49127185",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sl",
+        "country_cca3": "sle",
+        "region_cca2": null,
+        "osm_id": 2610026,
+        "osm_place_id": 282362574,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Tonkolili District",
+        "name_eng": "Tonkolili District",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1852020",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sl",
+        "country_cca3": "sle",
+        "region_cca2": null,
+        "osm_id": 2658602,
+        "osm_place_id": 282355998,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Upper Banta Chiefdom",
+        "name_eng": "Upper Banta Chiefdom",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q49127196",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sl",
+        "country_cca3": "sle",
+        "region_cca2": "SL-W",
+        "osm_id": 3242455,
+        "osm_place_id": 282395181,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Western Area",
+        "name_eng": "Western Area",
+        "name_translations": {
+            "ar": "\u0627\u0644\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u063a\u0631\u0628\u064a\u0629",
+            "de": "Westliches Gebiet",
+            "en": "Western Area"
+        },
+        "extra": {
+            "wikidata": "Q1050475",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sl",
+        "country_cca3": "sle",
+        "region_cca2": null,
+        "osm_id": 2541225,
+        "osm_place_id": 282436022,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Western Area Rural",
+        "name_eng": "Western Area Rural",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sl",
+        "country_cca3": "sle",
+        "region_cca2": null,
+        "osm_id": 3242456,
+        "osm_place_id": 282427639,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Western Area Urban",
+        "name_eng": "Western Area Urban",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "sl",
+        "country_cca3": "sle",
+        "region_cca2": null,
+        "osm_id": 2655863,
+        "osm_place_id": 282447519,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Yawbeko Chiefdom",
+        "name_eng": "Yawbeko Chiefdom",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q49127222",
+            "un_locode": null
+        }
+    }
+]

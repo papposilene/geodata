@@ -1,0 +1,4324 @@
+[
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 1900654,
+        "osm_place_id": 282317528,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Aberdeen City",
+        "name_eng": "Aberdeen City",
+        "name_translations": {
+            "ar": "\u0645\u062f\u064a\u0646\u0629 \u0623\u0628\u0631\u062f\u064a\u0646",
+            "en": "Aberdeen City",
+            "ur": "\u0627\u06cc\u0628\u0631\u0688\u06cc\u0646"
+        },
+        "extra": {
+            "wikidata": "Q36405",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 1900655,
+        "osm_place_id": 282272675,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Aberdeenshire",
+        "name_eng": "Aberdeenshire",
+        "name_translations": {
+            "en": "Aberdeenshire"
+        },
+        "extra": {
+            "wikidata": "Q189912",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 58446,
+        "osm_place_id": 281796610,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Alba \/ Scotland",
+        "name_eng": "Scotland",
+        "name_translations": {
+            "ar": "\u0625\u0633\u0643\u062a\u0644\u0646\u062f\u0627",
+            "be": "\u0428\u0430\u0442\u043b\u0430\u043d\u0434\u044b\u044f",
+            "br": "Bro-Skos",
+            "ca": "Esc\u00f2cia",
+            "cs": "Skotsko",
+            "cy": "Yr Alban",
+            "da": "Skotland",
+            "de": "Schottland",
+            "en": "Scotland",
+            "eo": "Skotlando",
+            "es": "Escocia",
+            "et": "\u0160otimaa",
+            "eu": "Eskozia",
+            "fi": "Skotlanti",
+            "fr": "\u00c9cosse",
+            "fy": "Skotl\u00e2n",
+            "ga": "Albain",
+            "gd": "Alba",
+            "gv": "Nalbin",
+            "he": "\u05e1\u05e7\u05d5\u05d8\u05dc\u05e0\u05d3",
+            "hr": "\u0160kotska",
+            "hu": "Sk\u00f3cia",
+            "ia": "Scotia",
+            "io": "Skotia",
+            "it": "Scozia",
+            "ja": "\u30b9\u30b3\u30c3\u30c8\u30e9\u30f3\u30c9",
+            "ku": "Skotland",
+            "la": "Scotia",
+            "lt": "\u0160kotija",
+            "mi": "Koterana",
+            "nl": "Schotland",
+            "pl": "Szkocja",
+            "pt": "Esc\u00f3cia",
+            "ru": "\u0428\u043e\u0442\u043b\u0430\u043d\u0434\u0438\u044f",
+            "sk": "\u0160k\u00f3tsko",
+            "sl": "\u0160kotska",
+            "sq": "Skoci",
+            "sr": "\u0428\u043a\u043e\u0442\u0441\u043a\u0430",
+            "sv": "Skottland",
+            "tr": "\u0130sko\u00e7ya",
+            "uk": "\u0428\u043e\u0442\u043b\u0430\u043d\u0434\u0456\u044f",
+            "ur": "\u0627\u0633\u06a9\u0648\u0679\u0644\u06cc\u0646\u0688",
+            "vo": "Skot\u00e4n",
+            "zh": "\u82cf\u683c\u5170 \/ \u8607\u683c\u862d",
+            "hak": "Scotland",
+            "hsb": "\u0160otiska",
+            "lfn": "Scotland",
+            "nan": "So\u0358-kat-l\u00e2n",
+            "nds": "Schottland",
+            "sco": "Scotland",
+            "szl": "Szkocyj\u014f",
+            "tok": "ma Sukosi",
+            "tzl": "Escot",
+            "zh-Hans": "\u82cf\u683c\u5170",
+            "zh-Hant": "\u8607\u683c\u862d",
+            "be-tarask": "\u0428\u0430\u0442\u043b\u044f\u043d\u0434\u044b\u044f",
+            "abbreviation": "SCO"
+        },
+        "extra": {
+            "wikidata": "Q22",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": "GB-ANS",
+        "osm_id": 1921172,
+        "osm_place_id": 282755655,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Angus",
+        "name_eng": "Angus",
+        "name_translations": {
+            "en": "Angus",
+            "gd": "Aonghas"
+        },
+        "extra": {
+            "wikidata": "Q202177",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": "GB-AGB",
+        "osm_id": 1775685,
+        "osm_place_id": 328550101,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Argyll and Bute",
+        "name_eng": "Argyll and Bute",
+        "name_translations": {
+            "en": "Argyll and Bute",
+            "gd": "Earra-Gh\u00e0idheal agus B\u00f2d"
+        },
+        "extra": {
+            "wikidata": "Q202174",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 4569283,
+        "osm_place_id": null,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Barrel of Butter",
+        "name_eng": "Barrel of Butter",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": "GB-BAS",
+        "osm_id": 81941,
+        "osm_place_id": 281732893,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Bath and North East Somerset",
+        "name_eng": "Bath and North East Somerset",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q810793",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": "GB-BDF",
+        "osm_id": 158396,
+        "osm_place_id": 282418512,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Bedford",
+        "name_eng": "Bedford",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q894077",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 148780,
+        "osm_place_id": 281864988,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Blackburn with Darwen",
+        "name_eng": "Blackburn with Darwen",
+        "name_translations": {
+            "en": "Blackburn with Darwen"
+        },
+        "extra": {
+            "wikidata": "Q880782",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 148603,
+        "osm_place_id": 282228294,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Blackpool",
+        "name_eng": "Blackpool",
+        "name_translations": {
+            "en": "Blackpool",
+            "lt": "Blakpulas"
+        },
+        "extra": {
+            "wikidata": "Q20989106",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": "GB-BGW",
+        "osm_id": 2750598,
+        "osm_place_id": 282325553,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Blaenau Gwent",
+        "name_eng": "Blaenau Gwent",
+        "name_translations": {
+            "cy": "Blaenau Gwent",
+            "en": "Blaenau Gwent"
+        },
+        "extra": {
+            "wikidata": "Q596885",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 9448448,
+        "osm_place_id": 283424056,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Bournemouth, Christchurch and Poole",
+        "name_eng": "Bournemouth, Christchurch and Poole",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q54366459",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": "GB-BRC",
+        "osm_id": 113682,
+        "osm_place_id": 282018513,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Bracknell Forest",
+        "name_eng": "Bracknell Forest",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q896725",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": "GB-BGE",
+        "osm_id": 99774,
+        "osm_place_id": 281749681,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Bridgend",
+        "name_eng": "Bridgend",
+        "name_translations": {
+            "cy": "Pen-y-bont ar Ogwr",
+            "en": "Bridgend",
+            "lt": "Brid\u017eendas"
+        },
+        "extra": {
+            "wikidata": "Q697126",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 114085,
+        "osm_place_id": 282018733,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Brighton and Hove",
+        "name_eng": "Brighton and Hove",
+        "name_translations": {
+            "en": "Brighton and Hove"
+        },
+        "extra": {
+            "wikidata": "Q1022488",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 172710,
+        "osm_place_id": 322264867,
+        "osm_admin_level": 6,
+        "osm_type": "historic",
+        "name_loc": "Buckinghamshire",
+        "name_eng": "Buckinghamshire",
+        "name_translations": {
+            "en": "Buckinghamshire",
+            "ur": "\u0628\u06a9\u06be\u0646\u06af\u06be\u06cc\u0645\u0634\u0627\u0626\u0631"
+        },
+        "extra": {
+            "wikidata": "Q21694636",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 10947197,
+        "osm_place_id": 322264874,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Buckinghamshire",
+        "name_eng": "Buckinghamshire",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q21694636",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": "GB-CAY",
+        "osm_id": 2750677,
+        "osm_place_id": 282334396,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Caerphilly",
+        "name_eng": "Caerphilly",
+        "name_translations": {
+            "cy": "Caerffili",
+            "en": "Caerphilly"
+        },
+        "extra": {
+            "wikidata": "Q748065",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 180837,
+        "osm_place_id": 281980556,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Cambridgeshire",
+        "name_eng": "Cambridgeshire",
+        "name_translations": {
+            "en": "Cambridgeshire"
+        },
+        "extra": {
+            "wikidata": "Q21272276",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": "GB-CRF",
+        "osm_id": 1625787,
+        "osm_place_id": 282236972,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Cardiff",
+        "name_eng": "Cardiff",
+        "name_translations": {
+            "ar": "\u0643\u0627\u0631\u062f\u064a\u0641",
+            "cy": "Caerdydd",
+            "el": "\u039a\u03ac\u03c1\u03bd\u03c4\u03b9\u03c6",
+            "en": "Cardiff",
+            "fa": "\u06a9\u0627\u0631\u062f\u06cc\u0641",
+            "ur": "\u06a9\u0627\u0631\u0688\u0641",
+            "zh": "\u5361\u8fea\u592b"
+        },
+        "extra": {
+            "wikidata": "Q24342199",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 154987375,
+        "osm_place_id": null,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Castle Holm",
+        "name_eng": "Castle Holm",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": "GB-CBF",
+        "osm_id": 161643,
+        "osm_place_id": 281824819,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Central Bedfordshire",
+        "name_eng": "Central Bedfordshire",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1053723",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 77904,
+        "osm_place_id": 281798371,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Ceredigion",
+        "name_eng": "Ceredigion",
+        "name_translations": {
+            "cy": "Sir Ceredigion",
+            "en": "Ceredigion",
+            "ur": "\u06a9\u06cc\u0631\u06cc\u0688\u06af\u06cc\u0648\u0646"
+        },
+        "extra": {
+            "wikidata": "Q217829",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 153487,
+        "osm_place_id": 282266104,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Cheshire East",
+        "name_eng": "Cheshire East",
+        "name_translations": {
+            "el": "\u0391\u03bd\u03b1\u03c4\u03bf\u03bb\u03b9\u03ba\u03cc \u03a4\u03c3\u03ad\u03c3\u03b1\u03ca\u03c1",
+            "en": "Cheshire East"
+        },
+        "extra": {
+            "wikidata": "Q1070590",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 153488,
+        "osm_place_id": 282295579,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Cheshire West and Chester",
+        "name_eng": "Cheshire West and Chester",
+        "name_translations": {
+            "en": "Cheshire West and Chester"
+        },
+        "extra": {
+            "wikidata": "Q1070591",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 57539,
+        "osm_place_id": 281889752,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "City of Bristol",
+        "name_eng": "City of Bristol",
+        "name_translations": {
+            "ar": "\u0645\u062f\u064a\u0646\u0629 \u0628\u0631\u0633\u062a\u0644",
+            "en": "City of Bristol",
+            "ru": "\u0411\u0440\u0438\u0441\u0442\u043e\u043b\u044c",
+            "ur": "\u0628\u0631\u0633\u0679\u0644 \u0634\u06c1\u0631",
+            "zh": "\u5e03\u91cc\u65af\u6258"
+        },
+        "extra": {
+            "wikidata": "Q21693433",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 1920901,
+        "osm_place_id": 282661985,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "City of Edinburgh",
+        "name_eng": "City of Edinburgh",
+        "name_translations": {
+            "en": "City of Edinburgh",
+            "ko": "\uc5d0\ub4e0\ubc84\ub7ec",
+            "pt": "Edimburgo",
+            "ur": "\u0627\u06cc\u0688\u0646\u0628\u0631\u0627 \u0634\u06c1\u0631"
+        },
+        "extra": {
+            "wikidata": "Q23436",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": "GB-LCE",
+        "osm_id": 162353,
+        "osm_place_id": 282269451,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "City of Leicester",
+        "name_eng": "City of Leicester",
+        "name_translations": {
+            "ar": "\u0645\u062f\u064a\u0646\u0629 \u0644\u064a\u0633\u062a\u0631",
+            "en": "City of Leicester"
+        },
+        "extra": {
+            "wikidata": "Q21683242",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 51800,
+        "osm_place_id": 281714316,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "City of London",
+        "name_eng": "City of London",
+        "name_translations": {
+            "en": "City of London",
+            "ko": "\uc2dc\ud2f0 \uc624\ube0c \ub7f0\ub358",
+            "pt": "Cidade de Londres",
+            "ru": "\u0421\u0438\u0442\u0438",
+            "ur": "\u0644\u0646\u062f\u0646 \u0634\u06c1\u0631"
+        },
+        "extra": {
+            "wikidata": "Q23311",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 123292,
+        "osm_place_id": 282025587,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "City of Nottingham",
+        "name_eng": "City of Nottingham",
+        "name_translations": {
+            "ar": "\u0645\u062f\u064a\u0646\u0629 \u0646\u0648\u062a\u0646\u0647\u0627\u0645",
+            "en": "City of Nottingham"
+        },
+        "extra": {
+            "wikidata": "Q21885994",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 161640,
+        "osm_place_id": 282262327,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "City of Peterborough",
+        "name_eng": "City of Peterborough",
+        "name_translations": {
+            "en": "City of Peterborough",
+            "ur": "\u067e\u06cc\u0679\u0631\u0628\u0631\u0627 \u0634\u06c1\u0631"
+        },
+        "extra": {
+            "wikidata": "Q12956645",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": "GB-CLK",
+        "osm_id": 1920841,
+        "osm_place_id": 282214645,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Clackmannanshire",
+        "name_eng": "Clackmannanshire",
+        "name_translations": {
+            "en": "Clackmannanshire"
+        },
+        "extra": {
+            "wikidata": "Q207268",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 289639498,
+        "osm_place_id": null,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Colsay",
+        "name_eng": "Colsay",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 297287,
+        "osm_place_id": 281937508,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Conwy",
+        "name_eng": "Conwy",
+        "name_translations": {
+            "cy": "Conwy",
+            "en": "Conwy",
+            "ur": "\u06a9\u0627\u0646\u0648\u0626"
+        },
+        "extra": {
+            "wikidata": "Q817971",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 57537,
+        "osm_place_id": 281780848,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Cornwall",
+        "name_eng": "Cornwall",
+        "name_translations": {
+            "be": "\u041a\u043e\u0440\u043d\u045e\u044d\u043b",
+            "en": "Cornwall",
+            "es": "Cornualles",
+            "fr": "Cornouailles",
+            "gd": "A\u2019 Ch\u00f2rn",
+            "kw": "Kernow",
+            "ru": "\u041a\u043e\u0440\u043d\u0443\u044d\u043b\u043b"
+        },
+        "extra": {
+            "wikidata": "Q22338583",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 1119534,
+        "osm_place_id": 282261352,
+        "osm_admin_level": 6,
+        "osm_type": "historic",
+        "name_loc": "County Antrim",
+        "name_eng": "County Antrim",
+        "name_translations": {
+            "en": "County Antrim",
+            "ga": "Contae Aontroma",
+            "ur": "\u06a9\u0627\u0624\u0646\u0679\u06cc \u0627\u06cc\u0646\u0679\u0631\u0645"
+        },
+        "extra": {
+            "wikidata": "Q189592",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 1119535,
+        "osm_place_id": 282091596,
+        "osm_admin_level": 6,
+        "osm_type": "historic",
+        "name_loc": "County Armagh",
+        "name_eng": "County Armagh",
+        "name_translations": {
+            "en": "County Armagh",
+            "ga": "Contae Ard Mhacha",
+            "ur": "\u06a9\u0627\u0624\u0646\u0679\u06cc \u0622\u0631\u0645\u0627"
+        },
+        "extra": {
+            "wikidata": "Q192761",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 1119533,
+        "osm_place_id": 282062178,
+        "osm_admin_level": 6,
+        "osm_type": "historic",
+        "name_loc": "County Down",
+        "name_eng": "County Down",
+        "name_translations": {
+            "en": "County Down",
+            "ga": "Contae an D\u00fain"
+        },
+        "extra": {
+            "wikidata": "Q190684",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 88067,
+        "osm_place_id": 281802697,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "County Durham",
+        "name_eng": "County Durham",
+        "name_translations": {
+            "en": "County Durham",
+            "ur": "\u06a9\u0627\u0624\u0646\u0679\u06cc \u0688\u0631\u06c1\u0645",
+            "zh": "\u8fbe\u52d2\u59c6\u90e1"
+        },
+        "extra": {
+            "wikidata": "Q1137286",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 1118085,
+        "osm_place_id": 282054571,
+        "osm_admin_level": 6,
+        "osm_type": "historic",
+        "name_loc": "County Fermanagh",
+        "name_eng": "County Fermanagh",
+        "name_translations": {
+            "en": "County Fermanagh",
+            "ga": "Contae Fhear Manach"
+        },
+        "extra": {
+            "wikidata": "Q190678",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 1959598,
+        "osm_place_id": 282546685,
+        "osm_admin_level": 6,
+        "osm_type": "historic",
+        "name_loc": "County Londonderry",
+        "name_eng": "County Londonderry",
+        "name_translations": {
+            "en": "County Londonderry",
+            "ga": "Contae Dhoire"
+        },
+        "extra": {
+            "wikidata": "Q192208",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 1117773,
+        "osm_place_id": 282382611,
+        "osm_admin_level": 6,
+        "osm_type": "historic",
+        "name_loc": "County Tyrone",
+        "name_eng": "County Tyrone",
+        "name_translations": {
+            "en": "County Tyrone",
+            "ga": "Contae Th\u00edr Eoghain"
+        },
+        "extra": {
+            "wikidata": "Q192229",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": "GB-CMA",
+        "osm_id": 88065,
+        "osm_place_id": 281854101,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Cumbria",
+        "name_eng": "Cumbria",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q23066",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 58437,
+        "osm_place_id": 281702969,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Cymru \/ Wales",
+        "name_eng": "Wales",
+        "name_translations": {
+            "ar": "\u0648\u064a\u0644\u0632",
+            "be": "\u0423\u044d\u043b\u044c\u0441",
+            "br": "Kembre",
+            "ca": "Pa\u00eds de Ga\u0140les",
+            "cy": "Cymru",
+            "da": "Wales",
+            "de": "Wales",
+            "el": "\u039f\u03c5\u03b1\u03bb\u03af\u03b1",
+            "en": "Wales",
+            "eo": "Kimrio",
+            "es": "Gales",
+            "et": "Wales",
+            "eu": "Gales",
+            "fi": "Wales",
+            "fr": "Pays de Galles",
+            "ga": "An Bhreatain Bheag",
+            "gd": "A' Chuimrigh",
+            "gv": "Bretyn",
+            "he": "\u05d5\u05d5\u05d9\u05d9\u05dc\u05e1",
+            "hr": "Wales",
+            "ia": "Galles",
+            "io": "Wals",
+            "it": "Galles",
+            "ja": "\u30a6\u30a7\u30fc\u30eb\u30ba",
+            "kw": "Kembra",
+            "lt": "Velsas",
+            "mi": "W\u0113ra",
+            "nl": "Wales",
+            "pl": "Walia",
+            "ru": "\u0423\u044d\u043b\u044c\u0441",
+            "sl": "Wales",
+            "sv": "Wales",
+            "tr": "Galler",
+            "ur": "\u0648\u06cc\u0644\u0632",
+            "vo": "Vels\u00e4n",
+            "zh": "\u5a01\u723e\u65af",
+            "hsb": "Waliziska",
+            "lfn": "Cimri",
+            "lzh": "\u5a01\u723e\u65af",
+            "szl": "Walij\u014f",
+            "tok": "ma Kinla",
+            "tzl": "Vialsa",
+            "zh-Hans": "\u5a01\u5c14\u65af",
+            "zh-Hant": "\u5a01\u723e\u65af"
+        },
+        "extra": {
+            "wikidata": "Q25",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 56208199,
+        "osm_place_id": null,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Daaey",
+        "name_eng": "Daaey",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": "GB-DAL",
+        "osm_id": 153377,
+        "osm_place_id": 282230563,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Darlington",
+        "name_eng": "Darlington",
+        "name_translations": {
+            "en": "Darlington",
+            "lt": "Darlingtonas"
+        },
+        "extra": {
+            "wikidata": "Q1171024",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 192442,
+        "osm_place_id": 281926234,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Denbighshire",
+        "name_eng": "Denbighshire",
+        "name_translations": {
+            "cy": "Sir Ddinbych",
+            "en": "Denbighshire",
+            "ur": "\u0688\u0646\u0628\u06cc \u0634\u0627\u0626\u0631"
+        },
+        "extra": {
+            "wikidata": "Q650682",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 142308,
+        "osm_place_id": 326391792,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Derby",
+        "name_eng": "Derby",
+        "name_translations": {
+            "en": "Derby",
+            "lt": "Derbis"
+        },
+        "extra": {
+            "wikidata": "Q21885980",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 195384,
+        "osm_place_id": 282375310,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Derbyshire",
+        "name_eng": "Derbyshire",
+        "name_translations": {
+            "en": "Derbyshire",
+            "ur": "\u0688\u0631\u0628\u06cc\u0634\u0627\u0626\u0631"
+        },
+        "extra": {
+            "wikidata": "Q11775003",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 190380,
+        "osm_place_id": 281868265,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Devon",
+        "name_eng": "Devon",
+        "name_translations": {
+            "be": "\u0414\u044d\u0432\u0430\u043d",
+            "en": "Devon",
+            "ru": "\u0414\u0435\u0432\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q21694695",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": "GB-DOR",
+        "osm_id": 9448449,
+        "osm_place_id": 283232551,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Dorset",
+        "name_eng": "Dorset",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q55231693",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": "GB-DGY",
+        "osm_id": 1877232,
+        "osm_place_id": 282221880,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Dumfries and Galloway",
+        "name_eng": "Dumfries and Galloway",
+        "name_translations": {
+            "en": "Dumfries and Galloway",
+            "uk": "\u0414\u0430\u043c\u0444\u0440\u0456\u0441 \u0456 \u0413\u0430\u043b\u043b\u043e\u0432\u0435\u0439"
+        },
+        "extra": {
+            "wikidata": "Q126514",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 362999554,
+        "osm_place_id": null,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Dun Beag",
+        "name_eng": "Dun Beag",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": "GB-DND",
+        "osm_id": 1921173,
+        "osm_place_id": 282222145,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Dundee City",
+        "name_eng": "Dundee City",
+        "name_translations": {
+            "ar": "\u0645\u062f\u064a\u0646\u0629 \u062f\u0646\u062f\u064a",
+            "en": "Dundee City"
+        },
+        "extra": {
+            "wikidata": "Q2357511",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 144456324,
+        "osm_place_id": null,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Eag na Maoile",
+        "name_eng": "Eag na Maoile",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": "GB-EAY",
+        "osm_id": 1920348,
+        "osm_place_id": 282589816,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "East Ayrshire",
+        "name_eng": "East Ayrshire",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q209135",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": "GB-EDU",
+        "osm_id": 1920660,
+        "osm_place_id": 282246955,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "East Dunbartonshire",
+        "name_eng": "East Dunbartonshire",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q211889",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": "GB-ELN",
+        "osm_id": 1920902,
+        "osm_place_id": 282434204,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "East Lothian",
+        "name_eng": "East Lothian",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q207257",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 151279,
+        "osm_place_id": 281839046,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "East Midlands",
+        "name_eng": "East Midlands",
+        "name_translations": {
+            "en": "East Midlands",
+            "he": "\u05de\u05d6\u05e8\u05d7 \u05d4\u05de\u05d9\u05d3\u05dc\u05e0\u05d3\u05e1",
+            "hu": "Kelet-K\u00f6z\u00e9p-Anglia",
+            "ru": "\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u044b\u0439 \u041c\u0438\u0434\u043b\u0435\u043d\u0434",
+            "uk": "\u0421\u0445\u0456\u0434\u043d\u0438\u0439 \u041c\u0456\u0434\u043b\u0435\u043d\u0434"
+        },
+        "extra": {
+            "wikidata": "Q47994",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 151336,
+        "osm_place_id": 281899027,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "East of England",
+        "name_eng": "East of England",
+        "name_translations": {
+            "en": "East of England",
+            "ru": "\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u0430\u044f \u0410\u043d\u0433\u043b\u0438\u044f",
+            "ur": "\u0645\u0634\u0631\u0642\u06cc \u0627\u0646\u06af\u0644\u0633\u062a\u0627\u0646"
+        },
+        "extra": {
+            "wikidata": "Q48006",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": "GB-ERW",
+        "osm_id": 1921238,
+        "osm_place_id": 282320586,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "East Renfrewshire",
+        "name_eng": "East Renfrewshire",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q211925",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 88083,
+        "osm_place_id": 281843041,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "East Riding of Yorkshire",
+        "name_eng": "East Riding of Yorkshire",
+        "name_translations": {
+            "en": "East Riding of Yorkshire"
+        },
+        "extra": {
+            "wikidata": "Q21695028",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 92650,
+        "osm_place_id": 282340122,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "East Sussex",
+        "name_eng": "East Sussex",
+        "name_translations": {
+            "en": "East Sussex",
+            "ru": "\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u044b\u0439 \u0421\u0443\u0441\u0441\u0435\u043a\u0441"
+        },
+        "extra": {
+            "wikidata": "Q21694646",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 169855617,
+        "osm_place_id": null,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Easter Score Holm",
+        "name_eng": "Easter Score Holm",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 144465561,
+        "osm_place_id": null,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Eilean Gleann Righ",
+        "name_eng": "Eilean Gleann Righ",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 144504292,
+        "osm_place_id": null,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Eilean M\u00f2r",
+        "name_eng": "Eilean M\u00f2r",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 144504400,
+        "osm_place_id": null,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Eilean nan Caorach",
+        "name_eng": "Eilean nan Caorach",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 58447,
+        "osm_place_id": 281817772,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "England",
+        "name_eng": "England",
+        "name_translations": {
+            "be": "\u0410\u043d\u0433\u043b\u0456\u044f",
+            "br": "Bro-Saoz",
+            "ca": "Anglaterra",
+            "cs": "Anglie",
+            "cy": "Lloegr",
+            "de": "England",
+            "el": "\u0391\u03b3\u03b3\u03bb\u03af\u03b1",
+            "en": "England",
+            "eo": "Anglio",
+            "es": "Inglaterra",
+            "et": "Inglismaa",
+            "fi": "Englanti",
+            "fr": "Angleterre",
+            "fy": "Ingel\u00e2n",
+            "ga": "Sasana",
+            "gd": "Sasainn",
+            "gv": "Sostyn",
+            "he": "\u05d0\u05e0\u05d2\u05dc\u05d9\u05d4",
+            "hu": "Anglia",
+            "ia": "Anglaterra",
+            "io": "Anglia",
+            "it": "Inghilterra",
+            "ja": "\u30a4\u30f3\u30b0\u30e9\u30f3\u30c9",
+            "ku": "\u00cengilistan",
+            "la": "Anglia",
+            "lt": "Anglija",
+            "nl": "Engeland",
+            "pl": "Anglia",
+            "pt": "Inglaterra",
+            "ru": "\u0410\u043d\u0433\u043b\u0438\u044f",
+            "sk": "Anglicko",
+            "sl": "Anglija",
+            "sr": "\u0415\u043d\u0433\u043b\u0435\u0441\u043a\u0430",
+            "sv": "England",
+            "tr": "\u0130ngiltere",
+            "uk": "\u0410\u043d\u0433\u043b\u0456\u044f",
+            "ur": "\u0627\u0646\u06af\u0644\u0633\u062a\u0627\u0646",
+            "vi": "Anh",
+            "vo": "Lingl\u00e4n",
+            "zh": "\u82f1\u683c\u5170 \/ \u82f1\u683c\u862d",
+            "ckb": "\u0626\u06cc\u0646\u06af\u0644\u062a\u06d5\u0631\u0627",
+            "hak": "England",
+            "hsb": "Jend\u017aelska",
+            "lzh": "\u82f1\u683c\u862d",
+            "nan": "Eng-l\u00e2n",
+            "nds": "England",
+            "szl": "Yngland",
+            "tok": "ma Inli",
+            "tzl": "Anglatzara",
+            "zh-Hans": "\u82f1\u683c\u5170",
+            "zh-Hant": "\u82f1\u683c\u862d",
+            "be-tarask": "\u0410\u043d\u0433\u0435\u043b\u044c\u0448\u0447\u044b\u043d\u0430",
+            "abbreviation": "ENG"
+        },
+        "extra": {
+            "wikidata": "Q21",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": "GB-ESS",
+        "osm_id": 180904,
+        "osm_place_id": 281816717,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Essex",
+        "name_eng": "Essex",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q21272241",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": "GB-FAL",
+        "osm_id": 1920842,
+        "osm_place_id": 282467387,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Falkirk",
+        "name_eng": "Falkirk",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q216802",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": "GB-FIF",
+        "osm_id": 1905841,
+        "osm_place_id": 282276882,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Fife",
+        "name_eng": "Fife",
+        "name_translations": {
+            "en": "Fife",
+            "gd": "F\u00ecobha"
+        },
+        "extra": {
+            "wikidata": "Q201149",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": "GB-FLN",
+        "osm_id": 198566,
+        "osm_place_id": 281904682,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Flintshire",
+        "name_eng": "Flintshire",
+        "name_translations": {
+            "cy": "Sir Fflint",
+            "en": "Flintshire"
+        },
+        "extra": {
+            "wikidata": "Q505610",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 163637368,
+        "osm_place_id": null,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Fore holm",
+        "name_eng": "Fore holm",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": "GB-GLG",
+        "osm_id": 1906767,
+        "osm_place_id": 282213024,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Glasgow City",
+        "name_eng": "Glasgow City",
+        "name_translations": {
+            "ar": "\u0645\u062f\u064a\u0646\u0629 \u063a\u0644\u0627\u0633\u0643\u0648",
+            "en": "Glasgow City",
+            "ko": "\uae00\ub798\uc2a4\uace0"
+        },
+        "extra": {
+            "wikidata": "Q55934339",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 85103,
+        "osm_place_id": 281734828,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Gloucestershire",
+        "name_eng": "Gloucestershire",
+        "name_translations": {
+            "en": "Gloucestershire",
+            "ur": "\u06af\u0644\u0627\u0633\u0679\u0631\u0634\u0627\u0626\u0631"
+        },
+        "extra": {
+            "wikidata": "Q21694733",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 175342,
+        "osm_place_id": 282263780,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Greater London",
+        "name_eng": "Greater London",
+        "name_translations": {
+            "be": "\u0412\u044f\u043b\u0456\u043a\u0456 \u041b\u043e\u043d\u0434\u0430\u043d",
+            "de": "Gro\u00df-London",
+            "en": "Greater London",
+            "fr": "Grand Londres",
+            "lt": "Didysis Londonas",
+            "nl": "Groot-Londen",
+            "pt": "Grande Londres",
+            "ru": "\u0411\u043e\u043b\u044c\u0448\u043e\u0439 \u041b\u043e\u043d\u0434\u043e\u043d",
+            "uk": "\u0412\u0435\u043b\u0438\u043a\u0438\u0439 \u041b\u043e\u043d\u0434\u043e\u043d",
+            "ur": "\u0644\u0646\u062f\u0646 \u0639\u0638\u0645\u06cc\u0670",
+            "vls": "Gr\u00f4ot-Londn",
+            "zh-Hans": "\u5927\u4f26\u6566",
+            "zh-Hant": "\u5927\u502b\u6566",
+            "be-tarask": "\u0412\u044f\u043b\u0456\u043a\u0456 \u041b\u0451\u043d\u0434\u0430\u043d"
+        },
+        "extra": {
+            "wikidata": "Q23939248",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 169885384,
+        "osm_place_id": null,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Green Holm",
+        "name_eng": "Green Holm",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 47704658,
+        "osm_place_id": null,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Gruna",
+        "name_eng": "Gruna",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 700655149,
+        "osm_place_id": null,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Gruna Stack",
+        "name_eng": "Gruna Stack",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 236950468,
+        "osm_place_id": null,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Guther's Bar",
+        "name_eng": "Guther's Bar",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 297286,
+        "osm_place_id": 281919140,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Gwynedd",
+        "name_eng": "Gwynedd",
+        "name_translations": {
+            "en": "Gwynedd",
+            "ur": "\u06af\u0648\u0626\u0646\u06cc\u062f\u06be"
+        },
+        "extra": {
+            "wikidata": "Q109128",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 147284,
+        "osm_place_id": 281958436,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Halton",
+        "name_eng": "Halton",
+        "name_translations": {
+            "en": "Halton"
+        },
+        "extra": {
+            "wikidata": "Q376141",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": "GB-HAM",
+        "osm_id": 172799,
+        "osm_place_id": 282056668,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Hampshire",
+        "name_eng": "Hampshire",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q21694653",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 153375,
+        "osm_place_id": 282209108,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Hartlepool",
+        "name_eng": "Hartlepool",
+        "name_translations": {
+            "en": "Hartlepool",
+            "ur": "\u06c1\u0627\u0631\u0679\u0644\u06d2 \u067e\u0648\u0644"
+        },
+        "extra": {
+            "wikidata": "Q2594690",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 154940435,
+        "osm_place_id": null,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Havra skerry",
+        "name_eng": "Havra skerry",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 10187,
+        "osm_place_id": 281652902,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Herefordshire",
+        "name_eng": "Herefordshire",
+        "name_translations": {
+            "en": "Herefordshire",
+            "ru": "\u0425\u0435\u0440\u0435\u0444\u043e\u0440\u0434\u0448\u0438\u0440",
+            "ur": "\u06c1\u06cc\u0631\u0641\u0648\u0631\u0688\u0634\u0627\u0626\u0631"
+        },
+        "extra": {
+            "wikidata": "Q23129",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": "GB-HRT",
+        "osm_id": 57032,
+        "osm_place_id": 281832816,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Hertfordshire",
+        "name_eng": "Hertfordshire",
+        "name_translations": {
+            "en": "Hertfordshire",
+            "ru": "\u0425\u0430\u0440\u0442\u0444\u043e\u0440\u0434\u0448\u0438\u0440"
+        },
+        "extra": {
+            "wikidata": "Q3410",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 1433249,
+        "osm_place_id": 282470685,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Highland",
+        "name_eng": "Highland",
+        "name_translations": {
+            "en": "Highland",
+            "gd": "A\u2019 Gh\u00e0idhealtachd",
+            "mk": "\u0425\u0430\u0458\u043b\u0435\u043d\u0434",
+            "ur": "\u06c1\u0627\u0626\u06cc \u0644\u06cc\u0646\u0688"
+        },
+        "extra": {
+            "wikidata": "Q208279",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 262432178,
+        "osm_place_id": null,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Hitch Holm",
+        "name_eng": "Hitch Holm",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 169853004,
+        "osm_place_id": null,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Hoe Skerry",
+        "name_eng": "Hoe Skerry",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 163637382,
+        "osm_place_id": null,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Hoggs of Hoy",
+        "name_eng": "Hoggs of Hoy",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 710318880,
+        "osm_place_id": null,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Holaisgeir",
+        "name_eng": "Holaisgeir",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 4005186,
+        "osm_place_id": null,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Holm Island",
+        "name_eng": "Holm Island",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 151153376,
+        "osm_place_id": null,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Holm of Gunnista",
+        "name_eng": "Holm of Gunnista",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 154987414,
+        "osm_place_id": null,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Holm of Quoyness",
+        "name_eng": "Holm of Quoyness",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 154987416,
+        "osm_place_id": null,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Holms of Hogaland",
+        "name_eng": "Holms of Hogaland",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 311406330,
+        "osm_place_id": null,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Humla",
+        "name_eng": "Humla",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 151106488,
+        "osm_place_id": null,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Inner Score",
+        "name_eng": "Inner Score",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": "GB-IVC",
+        "osm_id": 1921239,
+        "osm_place_id": 282275989,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Inverclyde",
+        "name_eng": "Inverclyde",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q208271",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": "GB-IOW",
+        "osm_id": 154350,
+        "osm_place_id": 281861070,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Isle of Wight",
+        "name_eng": "Isle of Wight",
+        "name_translations": {
+            "cy": "Ynys Wyth",
+            "en": "Isle of Wight",
+            "fr": "\u00cele de Wight"
+        },
+        "extra": {
+            "wikidata": "Q9679",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 158039,
+        "osm_place_id": 281856937,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Isles of Scilly",
+        "name_eng": "Isles of Scilly",
+        "name_translations": {
+            "br": "Inizi Sillan",
+            "da": "Scilly\u00f8erne",
+            "de": "Scilly-Inseln",
+            "en": "Isles of Scilly",
+            "eo": "Insuloj Scilly",
+            "es": "Islas Sorlingas",
+            "fr": "\u00celes Sorlingues",
+            "it": "Isole Sorlinghe",
+            "kw": "Ynysek Syllan",
+            "nl": "Scilly-eilanden",
+            "nn": "Scilly\u00f8yane",
+            "no": "Syllingene",
+            "pt": "Ilhas Sorlingas",
+            "ro": "Insulele Scilly",
+            "sv": "Scilly\u00f6arna"
+        },
+        "extra": {
+            "wikidata": "Q180209",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 163637379,
+        "osm_place_id": null,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Junk",
+        "name_eng": "Junk",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 8484008,
+        "osm_place_id": 283154108,
+        "osm_admin_level": 6,
+        "osm_type": "traditional",
+        "name_loc": "Kent",
+        "name_eng": "Kent",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q67479626",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": "GB-KEN",
+        "osm_id": 172385,
+        "osm_place_id": 281913510,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Kent",
+        "name_eng": "Kent",
+        "name_translations": {
+            "cy": "Caint",
+            "en": "Kent"
+        },
+        "extra": {
+            "wikidata": "Q21694674",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 60148,
+        "osm_place_id": 281701817,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Kingston upon Hull",
+        "name_eng": "Kingston upon Hull",
+        "name_translations": {
+            "ar": "\u0643\u064a\u0646\u063a\u0633\u062a\u0648\u0646 \u0623\u0628\u0648\u0646 \u0647\u0627\u0644",
+            "en": "Kingston upon Hull",
+            "fr": "Kingston-upon-Hull",
+            "ru": "\u041a\u0438\u043d\u0433\u0441\u0442\u043e\u043d-\u0430\u043f\u043e\u043d-\u0425\u0430\u043b\u043b",
+            "ur": "\u06a9\u0646\u06af\u0633\u0679\u0646 \u0627\u067e\u0648\u0646 \u06c1\u0644",
+            "azb": "\u06a9\u06cc\u0646\u0642\u0633\u062a\u0648\u0646 \u0622\u067e\u0648\u0646 \u0647\u0627\u0644",
+            "az-Arab": "\u06a9\u06cc\u0646\u0642\u0633\u062a\u0648\u0646 \u0622\u067e\u0648\u0646 \u0647\u0627\u0644"
+        },
+        "extra": {
+            "wikidata": "Q21885987",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": "GB-LEC",
+        "osm_id": 189890,
+        "osm_place_id": 282035087,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Leicestershire",
+        "name_eng": "Leicestershire",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q23106",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 144464739,
+        "osm_place_id": null,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Liath Sgeir",
+        "name_eng": "Liath Sgeir",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 78312,
+        "osm_place_id": 282109117,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Lincolnshire",
+        "name_eng": "Lincolnshire",
+        "name_translations": {
+            "en": "Lincolnshire"
+        },
+        "extra": {
+            "wikidata": "Q21269047",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 8590910,
+        "osm_place_id": null,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Linga",
+        "name_eng": "Linga",
+        "name_translations": {
+            "non": "Lyngey"
+        },
+        "extra": {
+            "wikidata": "Q2731963"
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 289638474,
+        "osm_place_id": null,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Little Havra",
+        "name_eng": "Little Havra",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q6650273"
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 65606,
+        "osm_place_id": 333403924,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "London",
+        "name_eng": "London",
+        "name_translations": {
+            "ar": "\u0644\u0646\u062f\u0646",
+            "be": "\u041b\u043e\u043d\u0434\u0430\u043d",
+            "ca": "Londres",
+            "el": "\u039b\u03bf\u03bd\u03b4\u03af\u03bd\u03bf",
+            "en": "London",
+            "eo": "Londono",
+            "es": "Londres",
+            "fa": "\u0644\u0646\u062f\u0646",
+            "fi": "Lontoo",
+            "fr": "Londres",
+            "fy": "Londen",
+            "gl": "Londres",
+            "hi": "\u0932\u0902\u0926\u0928",
+            "lt": "Londonas",
+            "nl": "Londen",
+            "pl": "Londyn",
+            "pt": "Londres",
+            "ru": "\u041b\u043e\u043d\u0434\u043e\u043d",
+            "uk": "\u041b\u043e\u043d\u0434\u043e\u043d",
+            "ur": "\u0639\u0644\u0627\u0642\u06c1 \u0644\u0646\u062f\u0646",
+            "vi": "Lu\u00e2n \u0110\u00f4n",
+            "zh": "\u4f26\u6566",
+            "szl": "L\u014dnd\u014dn",
+            "tzl": "Londra",
+            "vls": "Londn",
+            "zh-Hant": "\u502b\u6566",
+            "be-tarask": "\u041b\u0451\u043d\u0434\u0430\u043d"
+        },
+        "extra": {
+            "wikidata": "Q84",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 169853008,
+        "osm_place_id": null,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Lunga skerries",
+        "name_eng": "Lunga skerries",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 169853005,
+        "osm_place_id": null,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Lunga skerries",
+        "name_eng": "Lunga skerries",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 169853009,
+        "osm_place_id": null,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Lunga skerries",
+        "name_eng": "Lunga skerries",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 158392,
+        "osm_place_id": 282055706,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Luton",
+        "name_eng": "Luton",
+        "name_translations": {
+            "en": "Luton",
+            "ur": "\u0644\u0648\u0679\u0646"
+        },
+        "extra": {
+            "wikidata": "Q21683239",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": "GB-MDW",
+        "osm_id": 158019,
+        "osm_place_id": 281897462,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Medway",
+        "name_eng": "Medway",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q797782",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 147564,
+        "osm_place_id": 281854541,
+        "osm_admin_level": 6,
+        "osm_type": "ceremonial",
+        "name_loc": "Merseyside",
+        "name_eng": "Merseyside",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q23100",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": "GB-MTY",
+        "osm_id": 2750939,
+        "osm_place_id": 282325664,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Merthyr Tydfil",
+        "name_eng": "Merthyr Tydfil",
+        "name_translations": {
+            "cy": "Merthyr Tudful",
+            "en": "Merthyr Tydfil"
+        },
+        "extra": {
+            "wikidata": "Q3306663",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 150988,
+        "osm_place_id": 282208346,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Middlesbrough",
+        "name_eng": "Middlesbrough",
+        "name_translations": {
+            "en": "Middlesbrough",
+            "ur": "\u0645\u0688\u0644\u0632\u0628\u0631\u0627"
+        },
+        "extra": {
+            "wikidata": "Q2673020",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": "GB-MLN",
+        "osm_id": 1920903,
+        "osm_place_id": 282214586,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Midlothian",
+        "name_eng": "Midlothian",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q206934",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": "GB-MIK",
+        "osm_id": 172504,
+        "osm_place_id": 282236981,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Milton Keynes",
+        "name_eng": "Milton Keynes",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q894090",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": "GB-MON",
+        "osm_id": 358021,
+        "osm_place_id": 281937978,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Monmouthshire",
+        "name_eng": "Monmouthshire",
+        "name_translations": {
+            "cy": "Sir Fynwy",
+            "en": "Monmouthshire"
+        },
+        "extra": {
+            "wikidata": "Q207176",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": "GB-MRY",
+        "osm_id": 1775792,
+        "osm_place_id": 282195108,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Moray",
+        "name_eng": "Moray",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q211106",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 12659130,
+        "osm_place_id": 283364948,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Muckle Roe",
+        "name_eng": "Muckle Roe",
+        "name_translations": {
+            "en": "Muckle Roe",
+            "is": "Mikla-Rau\u00f0ey",
+            "non": "Rau\u00f0\u00f8y Mikla"
+        },
+        "extra": {
+            "wikidata": "Q1273310",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 1959008,
+        "osm_place_id": 334460063,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Na h-Eileanan Siar",
+        "name_eng": "Western Isles",
+        "name_translations": {
+            "en": "Western Isles",
+            "gd": "Na h-Eileanan Siar"
+        },
+        "extra": {
+            "wikidata": "Q80967",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": "GB-NTL",
+        "osm_id": 89846,
+        "osm_place_id": 281736294,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Neath Port Talbot",
+        "name_eng": "Neath Port Talbot",
+        "name_translations": {
+            "cy": "Castell-nedd Port Talbot",
+            "en": "Neath Port Talbot"
+        },
+        "extra": {
+            "wikidata": "Q748078",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 335184,
+        "osm_place_id": 281973271,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Newport",
+        "name_eng": "Newport",
+        "name_translations": {
+            "ar": "\u0646\u064a\u0648\u0628\u0648\u0631\u062a",
+            "be": "\u041d\u044c\u044e\u043f\u0430\u0440\u0442",
+            "bg": "\u041d\u044e\u043f\u043e\u0440\u0442",
+            "br": "Casnewydd",
+            "cy": "Casnewydd",
+            "el": "\u039d\u03b7\u03bf\u03cd\u03c0\u03bf\u03c1\u03c4",
+            "en": "Newport",
+            "hy": "\u0546\u0575\u0578\u0582\u057a\u0578\u0580\u057f",
+            "ks": "\u0646\u06cc\u0648\u067e\u0648\u0631\u0679",
+            "ru": "\u041d\u044c\u044e\u043f\u043e\u0440\u0442",
+            "sr": "\u040a\u0443\u043f\u043e\u0440\u0442",
+            "uk": "\u041d\u044c\u044e\u043f\u043e\u0440\u0442",
+            "ur": "\u0646\u06cc\u0648\u067e\u0648\u0631\u0679",
+            "azb": "\u0646\u06cc\u0648\u067e\u0648\u0631\u062a",
+            "az-Arab": "\u0646\u06cc\u0648\u067e\u0648\u0631\u062a",
+            "be-tarask": "\u041d\u044c\u044e\u043f\u0430\u0440\u0442"
+        },
+        "extra": {
+            "wikidata": "Q101254",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": "GB-NFK",
+        "osm_id": 57397,
+        "osm_place_id": 281713678,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Norfolk",
+        "name_eng": "Norfolk",
+        "name_translations": {
+            "en": "Norfolk",
+            "ru": "\u041d\u043e\u0440\u0444\u043e\u043b\u043a"
+        },
+        "extra": {
+            "wikidata": "Q23109",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": "GB-NAY",
+        "osm_id": 1910014,
+        "osm_place_id": 282261850,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "North Ayrshire",
+        "name_eng": "North Ayrshire",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q206926",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 151164,
+        "osm_place_id": 281801074,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "North East England",
+        "name_eng": "North East England",
+        "name_translations": {
+            "de": "Nordostengland",
+            "en": "North East England",
+            "fr": "Angleterre du Nord-Est",
+            "hu": "\u00c9szakkelet-Anglia",
+            "ru": "\u0421\u0435\u0432\u0435\u0440\u043e-\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u0430\u044f \u0410\u043d\u0433\u043b\u0438\u044f",
+            "ur": "\u0634\u0645\u0627\u0644\u06cc \u0645\u0634\u0631\u0642\u06cc \u0627\u0646\u06af\u0644\u0633\u062a\u0627\u0646",
+            "zh-Hans": "\u4e1c\u5317\u82f1\u683c\u5170",
+            "zh-Hant": "\u4e1c\u5317\u82f1\u683c\u5170"
+        },
+        "extra": {
+            "wikidata": "Q47983",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 69361,
+        "osm_place_id": 281909083,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "North East Lincolnshire",
+        "name_eng": "North East Lincolnshire",
+        "name_translations": {
+            "en": "North East Lincolnshire",
+            "ru": "\u0421\u0435\u0432\u0435\u0440\u043e-\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u044b\u0439 \u041b\u0438\u043d\u043a\u043e\u043b\u044c\u043d\u0448\u0438\u0440"
+        },
+        "extra": {
+            "wikidata": "Q1342914",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": "GB-NLK",
+        "osm_id": 1920584,
+        "osm_place_id": 282222013,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "North Lanarkshire",
+        "name_eng": "North Lanarkshire",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q207111",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 107240,
+        "osm_place_id": 281819376,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "North Lincolnshire",
+        "name_eng": "North Lincolnshire",
+        "name_translations": {
+            "en": "North Lincolnshire"
+        },
+        "extra": {
+            "wikidata": "Q175945",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 10792352,
+        "osm_place_id": 283521803,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "North Northamptonshire",
+        "name_eng": "North Northamptonshire",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q60790121",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 169855618,
+        "osm_place_id": null,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "North Score holm",
+        "name_eng": "North Score holm",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": "GB-NSM",
+        "osm_id": 80277,
+        "osm_place_id": 282182471,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "North Somerset",
+        "name_eng": "North Somerset",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q178196",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 151261,
+        "osm_place_id": 281889814,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "North West England",
+        "name_eng": "North West England",
+        "name_translations": {
+            "de": "Nordwestengland",
+            "en": "North West England",
+            "fi": "Luoteis-Englanti",
+            "fr": "Angleterre du Nord-Ouest",
+            "hu": "\u00c9szaknyugat-Anglia",
+            "ru": "\u0421\u0435\u0432\u0435\u0440\u043e-\u0417\u0430\u043f\u0430\u0434\u043d\u0430\u044f \u0410\u043d\u0433\u043b\u0438\u044f",
+            "ur": "\u0634\u0645\u0627\u0644\u06cc \u0645\u063a\u0631\u0628\u06cc \u0627\u0646\u06af\u0644\u0633\u062a\u0627\u0646",
+            "vi": "T\u00e2y B\u1eafc Anh"
+        },
+        "extra": {
+            "wikidata": "Q47967",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": "GB-NYK",
+        "osm_id": 88068,
+        "osm_place_id": 281810635,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "North Yorkshire",
+        "name_eng": "North Yorkshire",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q21241814",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 156393,
+        "osm_place_id": 281794909,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Northern Ireland",
+        "name_eng": "Northern Ireland",
+        "name_translations": {
+            "af": "Noord-Ierland",
+            "an": "Irlanda d'o Norte",
+            "ar": "\u0623\u064a\u0631\u0644\u0646\u062f\u0627 \u0627\u0644\u0634\u0645\u0627\u0644\u064a\u0629",
+            "az": "\u015eimali \u0130rlandiya",
+            "be": "\u041f\u0430\u045e\u043d\u043e\u0447\u043d\u0430\u044f \u0406\u0440\u043b\u0430\u043d\u0434\u044b\u044f",
+            "bg": "\u0421\u0435\u0432\u0435\u0440\u043d\u0430 \u0418\u0440\u043b\u0430\u043d\u0434\u0438\u044f",
+            "br": "Norzhiwerzhon",
+            "bs": "Sjeverna Irska",
+            "ca": "Irlanda del Nord",
+            "cs": "Severn\u00ed Irsko",
+            "cv": "\u00c7\u0443\u0440\u00e7\u0115\u0440 \u0418\u0440\u043b\u0430\u043d\u0434\u0438",
+            "cy": "Gogledd Iwerddon",
+            "da": "Nordirland",
+            "de": "Nordirland",
+            "el": "\u0392\u03cc\u03c1\u03b5\u03b9\u03b1 \u0399\u03c1\u03bb\u03b1\u03bd\u03b4\u03af\u03b1",
+            "en": "Northern Ireland",
+            "eo": "Nord-Irlando",
+            "es": "Irlanda del Norte",
+            "et": "P\u00f5hja-Iirimaa",
+            "eu": "Ipar Irlanda",
+            "fa": "\u0627\u06cc\u0631\u0644\u0646\u062f \u0634\u0645\u0627\u0644\u06cc",
+            "fi": "Pohjois-Irlanti",
+            "fo": "Nor\u00f0ur\u00edrland",
+            "fr": "Irlande du Nord",
+            "fy": "Noard-Ierl\u00e2n",
+            "ga": "Tuaisceart \u00c9ireann",
+            "gd": "\u00c8irinn a Tuath",
+            "gl": "Irlanda do Norte",
+            "gv": "Nerin Hwoaie",
+            "he": "\u05e6\u05e4\u05d5\u05df \u05d0\u05d9\u05e8\u05dc\u05e0\u05d3",
+            "hi": "\u0909\u0924\u094d\u0924\u0930\u0940 \u0906\u092f\u0930\u0932\u0948\u0902\u0921",
+            "hr": "Sjeverna Irska",
+            "ht": "Ilann din\u00f2",
+            "hu": "\u00c9szak-\u00cdrorsz\u00e1g",
+            "hy": "\u0540\u0575\u0578\u0582\u057d\u056b\u057d\u0561\u0575\u056b\u0576 \u053b\u057c\u056c\u0561\u0576\u0564\u056b\u0561",
+            "ia": "Irlanda del Nord",
+            "id": "Irlandia Utara",
+            "io": "Nord-Irlando",
+            "is": "Nor\u00f0ur-\u00cdrland",
+            "it": "Irlanda del Nord",
+            "ja": "\u5317\u30a2\u30a4\u30eb\u30e9\u30f3\u30c9",
+            "jv": "Irlandia Lor",
+            "ka": "\u10e9\u10e0\u10d3\u10d8\u10da\u10dd\u10d4\u10d7\u10d8 \u10d8\u10e0\u10da\u10d0\u10dc\u10d3\u10d8\u10d0",
+            "ko": "\ubd81\uc544\uc77c\ub79c\ub4dc",
+            "ku": "\u00cerlendaya Bakur",
+            "kw": "Iwerdhon Gledh",
+            "la": "Hibernia Septentrionalis",
+            "lb": "Nordirland",
+            "ln": "Irland\u00ed ya Nola",
+            "lt": "\u0160iaur\u0117s Airija",
+            "lv": "Zieme\u013c\u012brija",
+            "mk": "\u0421\u0435\u0432\u0435\u0440\u043d\u0430 \u0418\u0440\u0441\u043a\u0430",
+            "mn": "\u0423\u043c\u0430\u0440\u0434 \u0418\u0440\u043b\u0430\u043d\u0434",
+            "mr": "\u0909\u0924\u094d\u0924\u0930 \u0906\u092f\u0930\u094d\u0932\u0902\u0921",
+            "ms": "Ireland Utara",
+            "mt": "Irlanda ta' Fuq",
+            "nl": "Noord-Ierland",
+            "no": "Nord-Irland",
+            "oc": "Irlanda del N\u00f2rd",
+            "os": "\u0426\u00e6\u0433\u0430\u0442 \u0418\u0440\u043b\u0430\u043d\u0434\u0438",
+            "pl": "Irlandia P\u00f3\u0142nocna",
+            "pt": "Irlanda do Norte",
+            "qu": "Chinchay Ilanda",
+            "rm": "Irlanda dal Nord",
+            "ro": "Irlanda de Nord",
+            "ru": "\u0421\u0435\u0432\u0435\u0440\u043d\u0430\u044f \u0418\u0440\u043b\u0430\u043d\u0434\u0438\u044f",
+            "sk": "Severn\u00e9 \u00cdrsko",
+            "sl": "Severna Irska",
+            "so": "Waqooyiga ayrland",
+            "sq": "Irlanda Veriore",
+            "sr": "\u0421\u0435\u0432\u0435\u0440\u043d\u0430 \u0418\u0440\u0441\u043a\u0430",
+            "su": "Irlandia Kal\u00e9r",
+            "sv": "Nordirland",
+            "ta": "\u0bb5\u0b9f \u0b85\u0baf\u0bb0\u0bcd\u0bb2\u0bbe\u0ba8\u0bcd\u0ba4\u0bc1",
+            "tg": "\u0418\u0440\u043b\u0430\u043d\u0434\u0438\u044f\u0438 \u0428\u0438\u043c\u043e\u043b\u04e3",
+            "th": "\u0e44\u0e2d\u0e23\u0e4c\u0e41\u0e25\u0e19\u0e14\u0e4c\u0e40\u0e2b\u0e19\u0e37\u0e2d",
+            "tl": "Hilagang Irlanda",
+            "tr": "Kuzey \u0130rlanda",
+            "uk": "\u041f\u0456\u0432\u043d\u0456\u0447\u043d\u0430 \u0406\u0440\u043b\u0430\u043d\u0434\u0456\u044f",
+            "ur": "\u0634\u0645\u0627\u0644\u06cc \u0622\u0626\u0631\u0644\u06cc\u0646\u0688",
+            "vi": "B\u1eafc Ireland",
+            "vo": "Nol\u00fcda-Lireye\u00e4n",
+            "yo": "Ir\u1eb9landi Ap\u00e1\u00e0r\u00edw\u00e1",
+            "zh": "\u5317\u7231\u5c14\u5170 \/ \u5317\u611b\u723e\u862d",
+            "ang": "Nor\u00f0erne \u012arland",
+            "dsb": "P\u00f3dpo\u0142nocna Irska",
+            "hak": "Pet Ireland",
+            "hsb": "Sewjerna Irska",
+            "lfn": "Er Norde",
+            "nan": "Pak \u00c0i-n\u00ed-l\u00e2n",
+            "rmy": "Nordutno Irland",
+            "scn": "Irlanda d\u00fb Nord",
+            "szl": "P\u014d\u0142nocn\u014f Irlandyj\u014f",
+            "tpi": "Noten Aialan",
+            "tzl": "Oira Septentrional",
+            "zh-Hans": "\u5317\u7231\u5c14\u5170",
+            "zh-Hant": "\u5317\u611b\u723e\u862d",
+            "be-tarask": "\u041f\u0430\u045e\u043d\u043e\u0447\u043d\u0430\u044f \u0406\u0440\u043b\u044f\u043d\u0434\u044b\u044f",
+            "abbreviation": "NI"
+        },
+        "extra": {
+            "wikidata": "Q26",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 88066,
+        "osm_place_id": 282211795,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Northumberland",
+        "name_eng": "Northumberland",
+        "name_translations": {
+            "en": "Northumberland"
+        },
+        "extra": {
+            "wikidata": "Q23079",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 181040,
+        "osm_place_id": 282105884,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Nottinghamshire",
+        "name_eng": "Nottinghamshire",
+        "name_translations": {
+            "en": "Nottinghamshire"
+        },
+        "extra": {
+            "wikidata": "Q21272736",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 375982,
+        "osm_place_id": 332893310,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Orkney Islands",
+        "name_eng": "Orkney Islands",
+        "name_translations": {
+            "el": "\u039f\u03c1\u03ba\u03ac\u03b4\u03b5\u03c2",
+            "en": "Orkney Islands",
+            "eo": "Orkadoj",
+            "es": "Islas Orcadas",
+            "gd": "Arcaibh",
+            "pl": "Orkady",
+            "ru": "\u041e\u0440\u043a\u043d\u0435\u0439\u0441\u043a\u0438\u0435 \u043e\u0441\u0442\u0440\u043e\u0432\u0430"
+        },
+        "extra": {
+            "wikidata": "Q100166",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 151241602,
+        "osm_place_id": null,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Outer Score",
+        "name_eng": "Outer Score",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": "GB-OXF",
+        "osm_id": 76155,
+        "osm_place_id": 322264865,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Oxfordshire",
+        "name_eng": "Oxfordshire",
+        "name_translations": {
+            "en": "Oxfordshire",
+            "ru": "\u041e\u043a\u0441\u0444\u043e\u0440\u0434\u0448\u0438\u0440"
+        },
+        "extra": {
+            "wikidata": "Q23169",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 262106470,
+        "osm_place_id": null,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Papa Little",
+        "name_eng": "Papa Little",
+        "name_translations": {
+            "sco": "Papa Little"
+        },
+        "extra": {
+            "wikidata": "Q2916363"
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": "GB-PEM",
+        "osm_id": 57535,
+        "osm_place_id": 281727995,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Pembrokeshire",
+        "name_eng": "Pembrokeshire",
+        "name_translations": {
+            "cy": "Sir Benfro",
+            "en": "Pembrokeshire",
+            "ru": "\u041f\u0435\u043c\u0431\u0440\u0443\u043a\u0448\u0438\u0440"
+        },
+        "extra": {
+            "wikidata": "Q213361",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": "GB-PKN",
+        "osm_id": 1915429,
+        "osm_place_id": 282213999,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Perth and Kinross",
+        "name_eng": "Perth and Kinross",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q207679",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 189924,
+        "osm_place_id": 282223470,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Plymouth",
+        "name_eng": "Plymouth",
+        "name_translations": {
+            "ar": "\u0628\u0644\u064a\u0645\u0648\u062b",
+            "be": "\u041f\u043b\u0456\u043c\u0443\u0442",
+            "br": "Plymouth",
+            "cy": "Aberplym",
+            "el": "\u03a0\u03bb\u03cd\u03bc\u03bf\u03c5\u03b8",
+            "en": "Plymouth",
+            "hu": "Plymouth",
+            "ja": "\u30d7\u30ea\u30de\u30b9",
+            "ko": "\ud50c\ub9ac\uba38\uc2a4",
+            "lt": "Plimutas",
+            "mk": "\u041f\u043b\u0438\u043c\u0443\u0442",
+            "ru": "\u041f\u043b\u0438\u043c\u0443\u0442",
+            "sr": "\u041f\u043b\u0438\u043c\u0443\u0442",
+            "uk": "\u041f\u043b\u0456\u043c\u0443\u0442",
+            "ur": "\u067e\u0644\u06cc \u0645\u062a\u06be",
+            "zh": "\u666e\u5229\u8305\u592b"
+        },
+        "extra": {
+            "wikidata": "Q43382",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 127167,
+        "osm_place_id": 282028473,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Portsmouth",
+        "name_eng": "Portsmouth",
+        "name_translations": {
+            "br": "Portsmouth",
+            "cy": "Llongborth",
+            "en": "Portsmouth",
+            "hu": "Portsmouth",
+            "ko": "\ud3ec\uce20\uba38\uc2a4",
+            "lt": "Portsmutas",
+            "mk": "\u041f\u043e\u0440\u0442\u0441\u043c\u0443\u0442",
+            "ru": "\u041f\u043e\u0440\u0442\u0441\u043c\u0443\u0442",
+            "sr": "\u041f\u043e\u0440\u0442\u0441\u043c\u0443\u0442",
+            "uk": "\u041f\u043e\u0440\u0442\u0441\u043c\u0443\u0442",
+            "ur": "\u067e\u0648\u0631\u0679\u0633\u0645\u062a\u06be",
+            "zh": "\u6a38\u8328\u8305\u592b",
+            "zh-Hans": "\u6734\u8328\u8305\u65af",
+            "zh-Hant": "\u6a38\u8328\u8305\u65af"
+        },
+        "extra": {
+            "wikidata": "Q72259",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": "GB-POW",
+        "osm_id": 134324,
+        "osm_place_id": 281841592,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Powys",
+        "name_eng": "Powys",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q156150",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": "GB-RDG",
+        "osm_id": 115074,
+        "osm_place_id": 281748688,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Reading",
+        "name_eng": "Reading",
+        "name_translations": {
+            "be": "\u0420\u044d\u0434\u044b\u043d\u0433",
+            "en": "Reading",
+            "ko": "\ub808\ub529",
+            "ru": "\u0420\u0435\u0434\u0438\u043d\u0433",
+            "sr": "\u0420\u0435\u0434\u0438\u043d\u0433"
+        },
+        "extra": {
+            "wikidata": "Q161491",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 150989,
+        "osm_place_id": 281791062,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Redcar and Cleveland",
+        "name_eng": "Redcar and Cleveland",
+        "name_translations": {
+            "en": "Redcar and Cleveland",
+            "ur": "\u0631\u06cc\u0688\u06a9\u0627\u0631 \u0627\u0648\u0631 \u06a9\u0644\u06cc\u0648\u0644\u06cc\u0646\u0688"
+        },
+        "extra": {
+            "wikidata": "Q1434448",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": "GB-RFW",
+        "osm_id": 1921240,
+        "osm_place_id": 282302783,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Renfrewshire",
+        "name_eng": "Renfrewshire",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q211091",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": "GB-RCT",
+        "osm_id": 2751428,
+        "osm_place_id": 282379739,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Rhondda Cynon Taf",
+        "name_eng": "Rhondda Cynon Taf",
+        "name_translations": {
+            "cy": "Rhondda Cynon Taf",
+            "en": "Rhondda Cynon Taf"
+        },
+        "extra": {
+            "wikidata": "Q817960",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 29029858,
+        "osm_place_id": null,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Rockall",
+        "name_eng": "Rockall",
+        "name_translations": {
+            "zh": "\u7f57\u5361\u5c14\u5ca9"
+        },
+        "extra": {
+            "wikidata": "Q206137"
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 57398,
+        "osm_place_id": 282377015,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Rutland",
+        "name_eng": "Rutland",
+        "name_translations": {
+            "en": "Rutland",
+            "ru": "\u0420\u0430\u0442\u043b\u0435\u043d\u0434"
+        },
+        "extra": {
+            "wikidata": "Q23107",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 169826818,
+        "osm_place_id": null,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Sanda Little",
+        "name_eng": "Sanda Little",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 169823265,
+        "osm_place_id": null,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Sanda stour",
+        "name_eng": "Sanda stour",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": "GB-SCB",
+        "osm_id": 1919950,
+        "osm_place_id": 282228549,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Scottish Borders",
+        "name_eng": "Scottish Borders",
+        "name_translations": {
+            "en": "Scottish Borders",
+            "ko": "\uc2a4\ucf54\ud2f0\uc2dc\ubcf4\ub354\uc2a4"
+        },
+        "extra": {
+            "wikidata": "Q211113",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 144465628,
+        "osm_place_id": null,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Sgeir nan Cruban",
+        "name_eng": "Sgeir nan Cruban",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 144464950,
+        "osm_place_id": null,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Sgeir Phlocach",
+        "name_eng": "Sgeir Phlocach",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": "GB-SHR",
+        "osm_id": 167060,
+        "osm_place_id": 281868420,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Shropshire",
+        "name_eng": "Shropshire",
+        "name_translations": {
+            "cy": "Swydd Amwythig",
+            "en": "Shropshire"
+        },
+        "extra": {
+            "wikidata": "Q21694759",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 236692941,
+        "osm_place_id": null,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Silver Carn",
+        "name_eng": "Silver Carn",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 154940434,
+        "osm_place_id": null,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Silver Skerry",
+        "name_eng": "Silver Skerry",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": "GB-CMN",
+        "osm_id": 57534,
+        "osm_place_id": 281694130,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Sir Gaerfyrddin \/ Carmarthenshire",
+        "name_eng": "Carmarthenshire",
+        "name_translations": {
+            "cy": "Sir Gaerfyrddin",
+            "en": "Carmarthenshire",
+            "ru": "\u041a\u0430\u0440\u043c\u0430\u0440\u0442\u0435\u043d\u0448\u0438\u0440"
+        },
+        "extra": {
+            "wikidata": "Q217840",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": "GB-SLG",
+        "osm_id": 117097,
+        "osm_place_id": 281800364,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Slough",
+        "name_eng": "Slough",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q211907",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": "GB-SOM",
+        "osm_id": 72894,
+        "osm_place_id": 282002549,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Somerset",
+        "name_eng": "Somerset",
+        "name_translations": {
+            "be": "\u0421\u043e\u043c\u0435\u0440\u0441\u044d\u0442",
+            "en": "Somerset",
+            "ru": "\u0421\u043e\u043c\u0435\u0440\u0441\u0435\u0442"
+        },
+        "extra": {
+            "wikidata": "Q21694741",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": "GB-SAY",
+        "osm_id": 1920349,
+        "osm_place_id": 282278639,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "South Ayrshire",
+        "name_eng": "South Ayrshire",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q209131",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 151304,
+        "osm_place_id": 281857636,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "South East England",
+        "name_eng": "South East England",
+        "name_translations": {
+            "de": "S\u00fcdostengland",
+            "en": "South East England",
+            "ru": "\u042e\u0433\u043e-\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u0430\u044f \u0410\u043d\u0433\u043b\u0438\u044f"
+        },
+        "extra": {
+            "wikidata": "Q48015",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": "GB-SGC",
+        "osm_id": 82631,
+        "osm_place_id": 281744435,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "South Gloucestershire",
+        "name_eng": "South Gloucestershire",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1369280",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 289638981,
+        "osm_place_id": null,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "South Havra",
+        "name_eng": "South Havra",
+        "name_translations": {
+            "sco": "Sooth Haevra"
+        },
+        "extra": {
+            "wikidata": "Q3104008"
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 8603802,
+        "osm_place_id": null,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "South Isle of Gletness",
+        "name_eng": "South Isle of Gletness",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": "GB-SLK",
+        "osm_id": 1921241,
+        "osm_place_id": 282230941,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "South Lanarkshire",
+        "name_eng": "South Lanarkshire",
+        "name_translations": {
+            "en": "South Lanarkshire",
+            "gd": "Siorrachd Lannraig a Deas"
+        },
+        "extra": {
+            "wikidata": "Q209142",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 151339,
+        "osm_place_id": 281870394,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "South West England",
+        "name_eng": "South West England",
+        "name_translations": {
+            "de": "S\u00fcdwestengland",
+            "en": "South West England",
+            "hu": "D\u00e9lnyugat-Anglia",
+            "nl": "Zuidwest-Engeland",
+            "ru": "\u042e\u0433\u043e-\u0417\u0430\u043f\u0430\u0434\u043d\u0430\u044f \u0410\u043d\u0433\u043b\u0438\u044f"
+        },
+        "extra": {
+            "wikidata": "Q48026",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 88078,
+        "osm_place_id": 333213291,
+        "osm_admin_level": 6,
+        "osm_type": "ceremonial",
+        "name_loc": "South Yorkshire",
+        "name_eng": "South Yorkshire",
+        "name_translations": {
+            "af": "Suid-Yorkshire",
+            "en": "South Yorkshire",
+            "ru": "\u042e\u0436\u043d\u044b\u0439 \u0419\u043e\u0440\u043a\u0448\u0438\u0440",
+            "uk": "\u041f\u0456\u0432\u0434\u0435\u043d\u043d\u0438\u0439 \u0419\u043e\u0440\u043a\u0448\u0438\u0440"
+        },
+        "extra": {
+            "wikidata": "Q23095",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 127864,
+        "osm_place_id": 282218886,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Southampton",
+        "name_eng": "Southampton",
+        "name_translations": {
+            "ar": "\u0633\u0648\u062b\u0647\u0627\u0645\u0628\u062a\u0648\u0646",
+            "en": "Southampton",
+            "fa": "\u0633\u0627\u0648\u062a\u200c\u0647\u0645\u067e\u062a\u0648\u0646",
+            "ja": "\u30b5\u30a6\u30b5\u30f3\u30d7\u30c8\u30f3",
+            "ru": "\u0421\u0430\u0443\u0442\u0433\u0435\u043c\u043f\u0442\u043e\u043d",
+            "sr": "\u0421\u0430\u0443\u0442\u0445\u0435\u043c\u043f\u0442\u043e\u043d",
+            "ur": "\u0633\u0627\u0624\u062a\u06be\u06cc\u0645\u067e\u0679\u0646",
+            "zh": "\u4fee\u54b8\u9813",
+            "zh-Hans": "\u5357\u5b89\u666e\u6566",
+            "zh-Hant": "\u5357\u5b89\u666e\u6566"
+        },
+        "extra": {
+            "wikidata": "Q79848",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 76489,
+        "osm_place_id": 281836066,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Southend-on-Sea",
+        "name_eng": "Southend-on-Sea",
+        "name_translations": {
+            "en": "Southend-on-Sea",
+            "ru": "\u0421\u0430\u0443\u0442\u0435\u043d\u0434-\u043e\u043d-\u0421\u0438",
+            "ur": "\u0633\u0627\u0624\u062a\u06be\u06cc\u0646\u0688 \u0622\u0646 \u0633\u06cc"
+        },
+        "extra": {
+            "wikidata": "Q203995",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 195444,
+        "osm_place_id": 282248225,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Staffordshire",
+        "name_eng": "Staffordshire",
+        "name_translations": {
+            "en": "Staffordshire",
+            "ur": "\u0627\u0633\u0679\u06cc\u0641\u0688\u0634\u0627\u0626\u0631"
+        },
+        "extra": {
+            "wikidata": "Q21694786",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 1905258,
+        "osm_place_id": 282209199,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Stirling",
+        "name_eng": "Stirling",
+        "name_translations": {
+            "en": "Stirling",
+            "ur": "\u0633\u0679\u0631\u0644\u0646\u06af"
+        },
+        "extra": {
+            "wikidata": "Q217838",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 150994,
+        "osm_place_id": 281860859,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Stockton-on-Tees",
+        "name_eng": "Stockton-on-Tees",
+        "name_translations": {
+            "en": "Stockton-on-Tees",
+            "ur": "\u0627\u0633\u0679\u0648\u06a9\u0679\u0646 \u0622\u0646 \u0679\u06cc\u0632"
+        },
+        "extra": {
+            "wikidata": "Q894094",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 163183,
+        "osm_place_id": 281846155,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Stoke-on-Trent",
+        "name_eng": "Stoke-on-Trent",
+        "name_translations": {
+            "en": "Stoke-on-Trent",
+            "hu": "Stoke-on-Trent",
+            "ja": "\u30b9\u30c8\u30fc\u30af\u30fb\u30aa\u30f3\u30fb\u30c8\u30ec\u30f3\u30c8",
+            "ko": "\uc2a4\ud1a0\ud06c\uc628\ud2b8\ub80c\ud2b8",
+            "mk": "\u0421\u0442\u043e\u0443\u043a \u043d\u0430 \u0422\u0440\u0435\u043d\u0442",
+            "ru": "\u0421\u0442\u043e\u043a-\u043e\u043d-\u0422\u0440\u0435\u043d\u0442",
+            "sr": "\u0421\u0442\u043e\u0443\u043a \u043d\u0430 \u0422\u0440\u0435\u043d\u0442\u0443",
+            "uk": "\u0421\u0442\u043e\u043a-\u043e\u043d-\u0422\u0440\u0435\u043d\u0442",
+            "ur": "\u0627\u0633\u0679\u0648\u06a9 \u0622\u0646 \u0679\u0631\u06cc\u0646\u0679"
+        },
+        "extra": {
+            "wikidata": "Q134902",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 28595,
+        "osm_place_id": 281970383,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Suffolk",
+        "name_eng": "Suffolk",
+        "name_translations": {
+            "en": "Suffolk",
+            "ru": "\u0421\u0443\u0444\u0444\u043e\u043b\u043a"
+        },
+        "extra": {
+            "wikidata": "Q23111",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 144504240,
+        "osm_place_id": null,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "S\u00f9il Ghorm",
+        "name_eng": "S\u00f9il Ghorm",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 57582,
+        "osm_place_id": 281957479,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Surrey",
+        "name_eng": "Surrey",
+        "name_translations": {
+            "en": "Surrey",
+            "ru": "\u0421\u0443\u0440\u0440\u0435\u0439"
+        },
+        "extra": {
+            "wikidata": "Q23276",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 8491039,
+        "osm_place_id": 283065506,
+        "osm_admin_level": 6,
+        "osm_type": "traditional",
+        "name_loc": "Surrey",
+        "name_eng": "Surrey",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q67443130",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 87944,
+        "osm_place_id": 281811736,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Swansea",
+        "name_eng": "Swansea",
+        "name_translations": {
+            "br": "Abertawe",
+            "cy": "Abertawe",
+            "el": "\u03a3\u03bf\u03c5\u03ac\u03bd\u03c3\u03b7",
+            "en": "Swansea",
+            "ur": "\u0633\u0648\u0627\u0646\u0632\u06cc"
+        },
+        "extra": {
+            "wikidata": "Q10996863",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 169855620,
+        "osm_place_id": null,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Swarta skerry",
+        "name_eng": "Swarta skerry",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 262432176,
+        "osm_place_id": null,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Sweyn Holm",
+        "name_eng": "Sweyn Holm",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": "GB-SWD",
+        "osm_id": 110212,
+        "osm_place_id": 282265610,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Swindon",
+        "name_eng": "Swindon",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q894093",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 167058,
+        "osm_place_id": 281848362,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Telford and Wrekin",
+        "name_eng": "Telford and Wrekin",
+        "name_translations": {
+            "en": "Telford and Wrekin"
+        },
+        "extra": {
+            "wikidata": "Q1425298",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 236730685,
+        "osm_place_id": null,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "The Brow",
+        "name_eng": "The Brow",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 67145401,
+        "osm_place_id": null,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "The Chick",
+        "name_eng": "The Chick",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 700655151,
+        "osm_place_id": null,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "The Cleiver",
+        "name_eng": "The Cleiver",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 47704657,
+        "osm_place_id": null,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "The Heag",
+        "name_eng": "The Heag",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 169855621,
+        "osm_place_id": null,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "The Skult",
+        "name_eng": "The Skult",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": "GB-THR",
+        "osm_id": 76521,
+        "osm_place_id": 282004700,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Thurrock",
+        "name_eng": "Thurrock",
+        "name_translations": {
+            "en": "Thurrock",
+            "lt": "Tarokas"
+        },
+        "extra": {
+            "wikidata": "Q1549155",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": "GB-TOB",
+        "osm_id": 161649,
+        "osm_place_id": 282007283,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Torbay",
+        "name_eng": "Torbay",
+        "name_translations": {
+            "be": "\u0422\u043e\u0440\u0431\u044d\u0439",
+            "en": "Torbay",
+            "ru": "\u0422\u043e\u0440\u0431\u0435\u0439"
+        },
+        "extra": {
+            "wikidata": "Q1136118",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": "GB-TOF",
+        "osm_id": 2750460,
+        "osm_place_id": 282334251,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Torfaen",
+        "name_eng": "Torfaen",
+        "name_translations": {
+            "cy": "Tor-Faen",
+            "en": "Torfaen"
+        },
+        "extra": {
+            "wikidata": "Q643919",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 154376,
+        "osm_place_id": 281861314,
+        "osm_admin_level": 6,
+        "osm_type": "ceremonial",
+        "name_loc": "Tyne and Wear",
+        "name_eng": "Tyne and Wear",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q23080",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 8603753,
+        "osm_place_id": null,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Urie Lingey",
+        "name_eng": "Urie Lingey",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 8590968,
+        "osm_place_id": null,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Vaila",
+        "name_eng": "Vaila",
+        "name_translations": {
+            "non": "Valey"
+        },
+        "extra": {
+            "wikidata": "Q1600805"
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": "GB-VGL",
+        "osm_id": 103776,
+        "osm_place_id": 281739134,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Vale of Glamorgan",
+        "name_eng": "Vale of Glamorgan",
+        "name_translations": {
+            "cy": "Bro Morgannwg",
+            "en": "Vale of Glamorgan"
+        },
+        "extra": {
+            "wikidata": "Q844784",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 13370324,
+        "osm_place_id": 321865724,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Vementry",
+        "name_eng": "Vementry",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q3192009",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 147278,
+        "osm_place_id": 281859387,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Warrington",
+        "name_eng": "Warrington",
+        "name_translations": {
+            "en": "Warrington"
+        },
+        "extra": {
+            "wikidata": "Q894095",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 4569181,
+        "osm_place_id": null,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Wart Holm",
+        "name_eng": "Wart Holm",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": "GB-WAR",
+        "osm_id": 57516,
+        "osm_place_id": 281788006,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Warwickshire",
+        "name_eng": "Warwickshire",
+        "name_translations": {
+            "en": "Warwickshire",
+            "ru": "\u0423\u043e\u0440\u0438\u043a\u0448\u0438\u0440"
+        },
+        "extra": {
+            "wikidata": "Q23140",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": "GB-WBK",
+        "osm_id": 116938,
+        "osm_place_id": 282245791,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "West Berkshire",
+        "name_eng": "West Berkshire",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1473780",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": "GB-WDU",
+        "osm_id": 1920242,
+        "osm_place_id": 282755449,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "West Dunbartonshire",
+        "name_eng": "West Dunbartonshire",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q208121",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": "GB-WLN",
+        "osm_id": 1910704,
+        "osm_place_id": 282213633,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "West Lothian",
+        "name_eng": "West Lothian",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q204940",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 151283,
+        "osm_place_id": 281962759,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "West Midlands",
+        "name_eng": "West Midlands",
+        "name_translations": {
+            "en": "West Midlands",
+            "hu": "Nyugat-K\u00f6z\u00e9p-Anglia",
+            "ru": "\u0417\u0430\u043f\u0430\u0434\u043d\u044b\u0439 \u041c\u0438\u0434\u043b\u0435\u043d\u0434",
+            "ur": "\u0645\u063a\u0631\u0628\u06cc \u0645\u0688\u0644\u06cc\u0646\u0688\u0632"
+        },
+        "extra": {
+            "wikidata": "Q48038",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 6965187,
+        "osm_place_id": 282904948,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "West Midlands Combined Authority",
+        "name_eng": "West Midlands Combined Authority",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q21061625",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 10792351,
+        "osm_place_id": 283237662,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "West Northamptonshire",
+        "name_eng": "West Northamptonshire",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q60790129",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 113757,
+        "osm_place_id": 282191625,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "West Sussex",
+        "name_eng": "West Sussex",
+        "name_translations": {
+            "en": "West Sussex"
+        },
+        "extra": {
+            "wikidata": "Q23287",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 88079,
+        "osm_place_id": 333213292,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "West Yorkshire",
+        "name_eng": "West Yorkshire",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q23083",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 669576179,
+        "osm_place_id": null,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Whida Stack",
+        "name_eng": "Whida Stack",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": "GB-WIL",
+        "osm_id": 57533,
+        "osm_place_id": 281787667,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Wiltshire",
+        "name_eng": "Wiltshire",
+        "name_translations": {
+            "be": "\u040e\u0456\u043b\u0442\u0448\u044b\u0440",
+            "en": "Wiltshire",
+            "ru": "\u0423\u0438\u043b\u0442\u0448\u0438\u0440"
+        },
+        "extra": {
+            "wikidata": "Q21694746",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 111014,
+        "osm_place_id": 281925702,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Windsor and Maidenhead",
+        "name_eng": "Windsor and Maidenhead",
+        "name_translations": {
+            "en": "Windsor and Maidenhead"
+        },
+        "extra": {
+            "wikidata": "Q1368496",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": "GB-WOK",
+        "osm_id": 114311,
+        "osm_place_id": 281936370,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Wokingham",
+        "name_eng": "Wokingham",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1758432",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 57581,
+        "osm_place_id": 281883082,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Worcestershire",
+        "name_eng": "Worcestershire",
+        "name_translations": {
+            "en": "Worcestershire",
+            "ru": "\u0412\u0443\u0441\u0442\u0435\u0440\u0448\u0438\u0440",
+            "ur": "\u0648\u0648\u0631\u0686\u06cc\u0633\u0679\u0631\u0634\u0627\u0626\u0631"
+        },
+        "extra": {
+            "wikidata": "Q23135",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 137981,
+        "osm_place_id": 282080169,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Wrexham",
+        "name_eng": "Wrexham",
+        "name_translations": {
+            "cy": "Wrecsam",
+            "en": "Wrexham",
+            "ur": "\u0631\u06cc\u06a9\u0633\u06c1\u0645"
+        },
+        "extra": {
+            "wikidata": "Q843868",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 42867063,
+        "osm_place_id": null,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Ynys Amlwch \/ East Mouse",
+        "name_eng": "East Mouse",
+        "name_translations": {
+            "en": "East Mouse"
+        },
+        "extra": {
+            "wikidata": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 298793,
+        "osm_place_id": 282078395,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Ynys M\u00f4n \/ Isle of Anglesey",
+        "name_eng": "Isle of Anglesey",
+        "name_translations": {
+            "cy": "Ynys M\u00f4n",
+            "en": "Isle of Anglesey",
+            "ur": "\u062c\u0632\u06cc\u0631\u06c1 \u0627\u06cc\u0646\u06af\u0644\u0633\u06cc"
+        },
+        "extra": {
+            "wikidata": "Q42617191",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 134353,
+        "osm_place_id": 281819211,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "York",
+        "name_eng": "York",
+        "name_translations": {
+            "ar": "\u064a\u0648\u0631\u0643",
+            "en": "York",
+            "fa": "\u06cc\u0648\u0631\u06a9",
+            "ur": "\u06cc\u0648\u0631\u06a9"
+        },
+        "extra": {
+            "wikidata": "Q20986421",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gb",
+        "country_cca3": "gbr",
+        "region_cca2": null,
+        "osm_id": 151012,
+        "osm_place_id": 281869036,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Yorkshire and the Humber",
+        "name_eng": "Yorkshire and the Humber",
+        "name_translations": {
+            "en": "Yorkshire and the Humber",
+            "he": "\u05d9\u05d5\u05e8\u05e7\u05e9\u05d9\u05d9\u05e8 \u05d5\u05d4\u05d0\u05de\u05d1\u05e8",
+            "hu": "Yorkshire \u00e9s a Humber",
+            "ru": "\u0419\u043e\u0440\u043a\u0448\u0438\u0440 \u0438 \u0425\u0430\u043c\u0431\u0435\u0440",
+            "uk": "\u0419\u043e\u0440\u043a\u0448\u0438\u0440 \u0456 \u0413\u0430\u043c\u0431\u0435\u0440"
+        },
+        "extra": {
+            "wikidata": "Q48063",
+            "un_locode": null
+        }
+    }
+]

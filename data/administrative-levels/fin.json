@@ -1,0 +1,722 @@
+[
+    {
+        "country_cca2": "fi",
+        "country_cca3": "fin",
+        "region_cca2": null,
+        "osm_id": 2375170,
+        "osm_place_id": 282342052,
+        "osm_admin_level": 4,
+        "osm_type": "historic",
+        "name_loc": "\u00c5land",
+        "name_eng": "\u00c5land Islands",
+        "name_translations": {
+            "ar": "\u062c\u0632\u0631 \u0623\u0648\u0644\u0627\u0646\u062f",
+            "de": "\u00c5land",
+            "en": "\u00c5land Islands",
+            "es": "\u00c5land",
+            "fi": "Ahvenanmaa",
+            "fr": "\u00c5land",
+            "hu": "\u00c5land-szigetek",
+            "nl": "\u00c5landseilanden",
+            "ru": "\u0410\u043b\u0430\u043d\u0434\u0441\u043a\u0438\u0435 \u043e\u0441\u0442\u0440\u043e\u0432\u0430",
+            "sk": "Alandy",
+            "sv": "\u00c5land"
+        },
+        "extra": {
+            "wikidata": "Q5689",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "fi",
+        "country_cca3": "fin",
+        "region_cca2": "FI-02",
+        "osm_id": 2067231,
+        "osm_place_id": 282247014,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Etel\u00e4-Karjala",
+        "name_eng": "South Karelia",
+        "name_translations": {
+            "cs": "Ji\u017en\u00ed Kar\u00e9lie",
+            "de": "S\u00fcdkarelien",
+            "en": "South Karelia",
+            "fi": "Etel\u00e4-Karjala",
+            "fr": "Car\u00e9lie du Sud",
+            "hu": "D\u00e9l-Kar\u00e9lia",
+            "nl": "Zuid-Kareli\u00eb",
+            "ru": "\u042e\u0436\u043d\u0430\u044f \u041a\u0430\u0440\u0435\u043b\u0438\u044f",
+            "sv": "S\u00f6dra Karelen"
+        },
+        "extra": {
+            "wikidata": "Q5691",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "fi",
+        "country_cca3": "fin",
+        "region_cca2": "FI-03",
+        "osm_id": 1702263,
+        "osm_place_id": 282561635,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Etel\u00e4-Pohjanmaa",
+        "name_eng": "South Ostrobothnia",
+        "name_translations": {
+            "cs": "Ji\u017en\u00ed Pohjanmaa",
+            "de": "S\u00fcd\u00f6sterbotten",
+            "en": "South Ostrobothnia",
+            "fi": "Etel\u00e4-Pohjanmaa",
+            "fr": "Ostrobotnie du Sud",
+            "hu": "D\u00e9l-Pohjanmaa",
+            "nl": "Zuid-Oost-Botni\u00eb",
+            "ru": "\u042d\u0442\u0435\u043b\u044f-\u041f\u043e\u0445\u044c\u044f\u043d\u043c\u0430\u0430",
+            "sv": "S\u00f6dra \u00d6sterbotten"
+        },
+        "extra": {
+            "wikidata": "Q5692",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "fi",
+        "country_cca3": "fin",
+        "region_cca2": "FI-04",
+        "osm_id": 918897,
+        "osm_place_id": 282355290,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Etel\u00e4-Savo",
+        "name_eng": "South Savo",
+        "name_translations": {
+            "cs": "Ji\u017en\u00ed Savo",
+            "de": "S\u00fcdsavo",
+            "en": "South Savo",
+            "fi": "Etel\u00e4-Savo",
+            "fr": "Savonie du Sud",
+            "hu": "D\u00e9l-Szav\u00f3nia",
+            "nl": "Zuid-Savo",
+            "ru": "\u042d\u0442\u0435\u043b\u044f-\u0421\u0430\u0432\u043e",
+            "se": "Lulli-Savo",
+            "sv": "S\u00f6dra Savolax"
+        },
+        "extra": {
+            "wikidata": "Q5693",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "fi",
+        "country_cca3": "fin",
+        "region_cca2": null,
+        "osm_id": 2579844,
+        "osm_place_id": 282328147,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Etel\u00e4-Suomen aluehallintovirasto",
+        "name_eng": "Southern Finland",
+        "name_translations": {
+            "da": "Sydfinlands regionsforvaltning",
+            "de": "S\u00fcdfinnland",
+            "en": "Southern Finland",
+            "fi": "Etel\u00e4-Suomen aluehallintovirasto",
+            "ru": "\u0410\u0433\u0435\u043d\u0442\u0441\u0442\u0432\u043e \u0440\u0435\u0433\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044f \u042e\u0436\u043d\u043e\u0439 \u0424\u0438\u043d\u043b\u044f\u043d\u0434\u0438\u0438",
+            "sk": "Ju\u017en\u00e9 F\u00ednsko",
+            "sv": "S\u00f6dra Finlands regionf\u00f6rvaltningsverk"
+        },
+        "extra": {
+            "wikidata": "Q107033548",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "fi",
+        "country_cca3": "fin",
+        "region_cca2": "FI-ES",
+        "osm_id": 38090,
+        "osm_place_id": 282311516,
+        "osm_admin_level": 4,
+        "osm_type": "historic",
+        "name_loc": "Etel\u00e4-Suomi",
+        "name_eng": "Southern Finland",
+        "name_translations": {
+            "ar": "\u0641\u0646\u0644\u0646\u062f\u0627 \u0627\u0644\u062c\u0646\u0648\u0628\u064a\u0629",
+            "be": "\u041f\u0430\u045e\u0434\u043d\u0451\u0432\u0430\u044f \u0424\u0456\u043d\u043b\u044f\u043d\u0434\u044b\u044f",
+            "de": "S\u00fcdfinnland",
+            "en": "Southern Finland",
+            "es": "Finlandia Meridional",
+            "et": "L\u00f5una-Soome l\u00e4\u00e4n",
+            "fi": "Etel\u00e4-Suomi",
+            "fr": "Finlande m\u00e9ridionale",
+            "hu": "D\u00e9l-Finnorsz\u00e1g",
+            "lt": "Piet\u0173 Suomija",
+            "lv": "Dienvidsomija",
+            "pl": "Finlandia Po\u0142udniowa",
+            "pt": "Finl\u00e2ndia Meridional",
+            "ru": "\u042e\u0436\u043d\u0430\u044f \u0424\u0438\u043d\u043b\u044f\u043d\u0434\u0438\u044f",
+            "sk": "Ju\u017en\u00e9 F\u00ednsko",
+            "sv": "S\u00f6dra Finland"
+        },
+        "extra": {
+            "wikidata": "Q188752",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "fi",
+        "country_cca3": "fin",
+        "region_cca2": null,
+        "osm_id": 2579841,
+        "osm_place_id": 282507208,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "It\u00e4-Suomen aluehallintovirasto",
+        "name_eng": "Regional State Administrative Agency for Eastern Finland",
+        "name_translations": {
+            "en": "Regional State Administrative Agency for Eastern Finland",
+            "fi": "It\u00e4-Suomen aluehallintovirasto",
+            "ru": "\u0410\u0433\u0435\u043d\u0442\u0441\u0442\u0432\u043e \u0440\u0435\u0433\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044f \u0412\u043e\u0441\u0442\u043e\u0447\u043d\u043e\u0439 \u0424\u0438\u043d\u043b\u044f\u043d\u0434\u0438\u0438",
+            "sk": "V\u00fdchodn\u00e9 F\u00ednsko",
+            "sv": "\u00d6stra Finlands regionf\u00f6rvaltningsverk"
+        },
+        "extra": {
+            "wikidata": "Q3940503",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "fi",
+        "country_cca3": "fin",
+        "region_cca2": null,
+        "osm_id": 1997164,
+        "osm_place_id": 282479710,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Kainuu",
+        "name_eng": "Kainuu",
+        "name_translations": {
+            "fi": "Kainuu",
+            "he": "\u05e7\u05d9\u05e0\u05d5\u05d0\u05d5",
+            "hu": "Kainuu",
+            "ja": "\u30ab\u30a4\u30cc\u30fc\u770c",
+            "ko": "\uce74\uc774\ub204 \uc9c0\uc5ed",
+            "ru": "\u041a\u0430\u0439\u043d\u0443\u0443",
+            "sv": "Kajanaland",
+            "zh": "\u51f1\u52aa\u5340"
+        },
+        "extra": {
+            "wikidata": "Q5694",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "fi",
+        "country_cca3": "fin",
+        "region_cca2": "FI-06",
+        "osm_id": 1473990,
+        "osm_place_id": 282151362,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Kanta-H\u00e4me",
+        "name_eng": "Kanta-H\u00e4me",
+        "name_translations": {
+            "de": "Eigentliche H\u00e4me",
+            "en": "Kanta-H\u00e4me",
+            "fi": "Kanta-H\u00e4me",
+            "hu": "Kanta H\u00e4me",
+            "ru": "\u041a\u0430\u043d\u0442\u0430-\u0425\u044f\u043c\u0435",
+            "sv": "Egentliga Tavastland"
+        },
+        "extra": {
+            "wikidata": "Q5695",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "fi",
+        "country_cca3": "fin",
+        "region_cca2": "FI-07",
+        "osm_id": 1702330,
+        "osm_place_id": 282192914,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Keski-Pohjanmaa",
+        "name_eng": "Central Ostrobothnia",
+        "name_translations": {
+            "cs": "St\u0159edn\u00ed Pohjanmaa",
+            "de": "Mittel\u00f6sterbotten",
+            "en": "Central Ostrobothnia",
+            "fi": "Keski-Pohjanmaa",
+            "fr": "Ostrobotnie centrale",
+            "hu": "K\u00f6z\u00e9p-Pohjanmaa",
+            "nl": "Centraal-Oost-Botni\u00eb",
+            "ru": "\u041a\u0435\u0441\u043a\u0438-\u041f\u043e\u0445\u044c\u044f\u043d\u043c\u0430\u0430",
+            "sv": "Mellersta \u00d6sterbotten"
+        },
+        "extra": {
+            "wikidata": "Q5696",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "fi",
+        "country_cca3": "fin",
+        "region_cca2": "FI-08",
+        "osm_id": 1701740,
+        "osm_place_id": 282503232,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Keski-Suomi",
+        "name_eng": "Central Finland",
+        "name_translations": {
+            "cs": "St\u0159edn\u00ed Finsko",
+            "de": "Mittelfinnland",
+            "en": "Central Finland",
+            "fi": "Keski-Suomi",
+            "fr": "Finlande centrale",
+            "hu": "K\u00f6z\u00e9p-Finnorsz\u00e1g",
+            "lt": "Vidurio Suomija",
+            "nl": "Centraal-Finland",
+            "ru": "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u0430\u044f \u0424\u0438\u043d\u043b\u044f\u043d\u0434\u0438\u044f",
+            "sv": "Mellersta Finland"
+        },
+        "extra": {
+            "wikidata": "Q5697",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "fi",
+        "country_cca3": "fin",
+        "region_cca2": "FI-09",
+        "osm_id": 2102313,
+        "osm_place_id": 282688513,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Kymenlaakso",
+        "name_eng": "Kymenlaakso",
+        "name_translations": {
+            "en": "Kymenlaakso",
+            "fi": "Kymenlaakso",
+            "hu": "Kymenlaakso",
+            "ru": "\u041a\u044e\u043c\u0435\u043d\u043b\u0430\u0430\u043a\u0441\u043e",
+            "sv": "Kymmenedalen"
+        },
+        "extra": {
+            "wikidata": "Q5698",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "fi",
+        "country_cca3": "fin",
+        "region_cca2": "FI-01",
+        "osm_id": 2375171,
+        "osm_place_id": 282375229,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Landskapet \u00c5land",
+        "name_eng": "\u00c5land Islands",
+        "name_translations": {
+            "cs": "\u00c5landy",
+            "de": "\u00c5land-Inseln",
+            "en": "\u00c5land Islands",
+            "fi": "Ahvenanmaan maakunta",
+            "hu": "\u00c5land-szigetek",
+            "ru": "\u0410\u043b\u0430\u043d\u0434\u0441\u043a\u0438\u0435 \u043e\u0441\u0442\u0440\u043e\u0432\u0430",
+            "sv": "Landskapet \u00c5land"
+        },
+        "extra": {
+            "wikidata": "Q5689",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "fi",
+        "country_cca3": "fin",
+        "region_cca2": null,
+        "osm_id": 2526815,
+        "osm_place_id": 282401222,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "L\u00e4nsi- ja Sis\u00e4-Suomen aluehallintovirasto",
+        "name_eng": "Western and Central Finland",
+        "name_translations": {
+            "da": "Vest og Indre Finlands regionsforvaltning",
+            "en": "Western and Central Finland",
+            "fi": "L\u00e4nsi- ja Sis\u00e4-Suomen aluehallintovirasto",
+            "ru": "\u0410\u0433\u0435\u043d\u0442\u0441\u0442\u0432\u043e \u0440\u0435\u0433\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044f \u0417\u0430\u043f\u0430\u0434\u043d\u043e\u0439 \u0438 \u0412\u043d\u0443\u0442\u0440\u0435\u043d\u043d\u0435\u0439 \u0424\u0438\u043d\u043b\u044f\u043d\u0434\u0438\u0438",
+            "sk": "Z\u00e1padn\u00e9 F\u00ednsko",
+            "sv": "V\u00e4stra och Inre Finlands regionf\u00f6rvaltningsverk"
+        },
+        "extra": {
+            "wikidata": "Q3940701",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "fi",
+        "country_cca3": "fin",
+        "region_cca2": "FI-LS",
+        "osm_id": 38091,
+        "osm_place_id": 281806692,
+        "osm_admin_level": 4,
+        "osm_type": "historic",
+        "name_loc": "L\u00e4nsi-Suomi",
+        "name_eng": "Western Finland",
+        "name_translations": {
+            "ar": "\u0641\u0646\u0644\u0646\u062f\u0627 \u0627\u0644\u063a\u0631\u0628\u064a\u0629",
+            "de": "Westfinnland",
+            "en": "Western Finland",
+            "es": "Finlandia Occidental",
+            "fi": "L\u00e4nsi-Suomi",
+            "fr": "Finlande occidentale",
+            "lt": "Vakar\u0173 Suomija",
+            "ru": "\u0417\u0430\u043f\u0430\u0434\u043d\u0430\u044f \u0424\u0438\u043d\u043b\u044f\u043d\u0434\u0438\u044f",
+            "sk": "Z\u00e1padn\u00e9 F\u00ednsko",
+            "sv": "V\u00e4stra Finland"
+        },
+        "extra": {
+            "wikidata": "Q192759",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "fi",
+        "country_cca3": "fin",
+        "region_cca2": null,
+        "osm_id": 2541341,
+        "osm_place_id": 282351088,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Lapin aluehallintovirasto",
+        "name_eng": "Lapland",
+        "name_translations": {
+            "en": "Lapland",
+            "fi": "Lapin aluehallintovirasto",
+            "nl": "Lapland",
+            "ru": "\u0410\u0433\u0435\u043d\u0442\u0441\u0442\u0432\u043e \u0440\u0435\u0433\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044f \u041b\u0430\u043f\u043b\u0430\u043d\u0434\u0438\u0438",
+            "se": "Lappi guovloh\u00e1lddahusdoaimmahat",
+            "sk": "Laponsko",
+            "sv": "Lapplands regionalf\u00f6rvaltningsverk"
+        },
+        "extra": {
+            "wikidata": "Q5700",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "fi",
+        "country_cca3": "fin",
+        "region_cca2": "FI-10",
+        "osm_id": 1724359,
+        "osm_place_id": 282275741,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Lappi",
+        "name_eng": "Lapland",
+        "name_translations": {
+            "cs": "Laponsko (Finsko)",
+            "de": "Lappland",
+            "en": "Lapland",
+            "eo": "Sameio",
+            "fi": "Lappi",
+            "fy": "Lapl\u00e2n",
+            "hu": "Lappf\u00f6ld",
+            "it": "Lapponia",
+            "nl": "Lapland",
+            "ru": "\u041b\u0430\u043f\u043b\u0430\u043d\u0434\u0438\u044f",
+            "se": "S\u00e1pmi",
+            "sv": "Lappland",
+            "vo": "Samiy\u00e4n",
+            "tok": "ma Sami"
+        },
+        "extra": {
+            "wikidata": "Q5700",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "fi",
+        "country_cca3": "fin",
+        "region_cca2": null,
+        "osm_id": 2505139,
+        "osm_place_id": 282289626,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Lounais-Suomen aluehallintovirasto",
+        "name_eng": "South-Western Finland",
+        "name_translations": {
+            "en": "South-Western Finland",
+            "fi": "Lounais-Suomen aluehallintovirasto",
+            "ru": "\u0410\u0433\u0435\u043d\u0442\u0441\u0442\u0432\u043e \u0440\u0435\u0433\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044f \u042e\u0433\u043e-\u0417\u0430\u043f\u0430\u0434\u043d\u043e\u0439 \u0424\u0438\u043d\u043b\u044f\u043d\u0434\u0438\u0438",
+            "sk": "Juhoz\u00e1padn\u00e9 F\u00ednsko",
+            "sv": "Sydv\u00e4stra Finlands regionf\u00f6rvaltningsverk"
+        },
+        "extra": {
+            "wikidata": "Q3940508",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "fi",
+        "country_cca3": "fin",
+        "region_cca2": "FI-12",
+        "osm_id": 2000320,
+        "osm_place_id": 282288829,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u00d6sterbotten",
+        "name_eng": "Ostrobothnia",
+        "name_translations": {
+            "de": "Ostbottnien",
+            "en": "Ostrobothnia",
+            "fi": "Pohjanmaa",
+            "fr": "Ostrobotnie",
+            "hu": "Pohjanmaa",
+            "nl": "Oost-Botni\u00eb",
+            "ru": "\u041f\u043e\u0445\u044c\u044f\u043d\u043c\u0430\u0430",
+            "sv": "\u00d6sterbotten"
+        },
+        "extra": {
+            "wikidata": "Q5702",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "fi",
+        "country_cca3": "fin",
+        "region_cca2": "FI-16",
+        "osm_id": 1703362,
+        "osm_place_id": 282281172,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "P\u00e4ij\u00e4t-H\u00e4me",
+        "name_eng": "P\u00e4ij\u00e4t-H\u00e4me",
+        "name_translations": {
+            "en": "P\u00e4ij\u00e4t-H\u00e4me",
+            "fi": "P\u00e4ij\u00e4t-H\u00e4me",
+            "hu": "P\u00e4ij\u00e4t-H\u00e4me",
+            "ru": "\u041f\u044f\u0439\u044f\u0442-\u0425\u044f\u043c\u0435",
+            "sv": "P\u00e4ij\u00e4nne-Tavastland"
+        },
+        "extra": {
+            "wikidata": "Q5708",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "fi",
+        "country_cca3": "fin",
+        "region_cca2": "FI-11",
+        "osm_id": 1701741,
+        "osm_place_id": 282192291,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Pirkanmaa",
+        "name_eng": "Pirkanmaa",
+        "name_translations": {
+            "en": "Pirkanmaa",
+            "fi": "Pirkanmaa",
+            "hu": "Pirkanmaa",
+            "lt": "Pirkanma",
+            "ru": "\u041f\u0438\u0440\u043a\u0430\u043d\u043c\u0430\u0430",
+            "sv": "Birkaland"
+        },
+        "extra": {
+            "wikidata": "Q5701",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "fi",
+        "country_cca3": "fin",
+        "region_cca2": "FI-13",
+        "osm_id": 1999428,
+        "osm_place_id": 282444585,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Pohjois-Karjala",
+        "name_eng": "North Karelia",
+        "name_translations": {
+            "cs": "Severn\u00ed Kar\u00e9lie",
+            "de": "Nordkarelien",
+            "en": "North Karelia",
+            "fi": "Pohjois-Karjala",
+            "fr": "Car\u00e9lie du Nord",
+            "hu": "\u00c9szak-Kar\u00e9lia",
+            "nl": "Noord-Kareli\u00eb",
+            "ru": "\u0421\u0435\u0432\u0435\u0440\u043d\u0430\u044f \u041a\u0430\u0440\u0435\u043b\u0438\u044f",
+            "se": "Davvi-G\u00e1rjila",
+            "sv": "Norra Karelen"
+        },
+        "extra": {
+            "wikidata": "Q5703",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "fi",
+        "country_cca3": "fin",
+        "region_cca2": null,
+        "osm_id": 1724360,
+        "osm_place_id": 282206201,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Pohjois-Pohjanmaa",
+        "name_eng": "North Ostrobothnia",
+        "name_translations": {
+            "cs": "Severn\u00ed Pohjanmaa",
+            "de": "Nord\u00f6sterbotten",
+            "en": "North Ostrobothnia",
+            "fi": "Pohjois-Pohjanmaa",
+            "fr": "Ostrobotnie du Nord",
+            "hu": "\u00c9szak-Pohjanmaa",
+            "nl": "Noord-Oost-Botni\u00eb",
+            "ru": "\u041f\u043e\u0445\u044c\u043e\u0439\u0441-\u041f\u043e\u0445\u044c\u044f\u043d\u043c\u0430\u0430",
+            "se": "Davvi-Pohjanmaa",
+            "sv": "Norra \u00d6sterbotten"
+        },
+        "extra": {
+            "wikidata": "Q5704",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "fi",
+        "country_cca3": "fin",
+        "region_cca2": null,
+        "osm_id": 918898,
+        "osm_place_id": 282047810,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Pohjois-Savo",
+        "name_eng": "North Savo",
+        "name_translations": {
+            "cs": "Severn\u00ed Savo",
+            "de": "Nord-Savo",
+            "en": "North Savo",
+            "fi": "Pohjois-Savo",
+            "fr": "Savonie du Nord",
+            "hu": "\u00c9szak-Szav\u00f3nia",
+            "lt": "\u0160iaur\u0117s Savas",
+            "nl": "Noord-Savo",
+            "ru": "\u0421\u0435\u0432\u0435\u0440\u043d\u043e\u0435 \u0421\u0430\u0432\u043e",
+            "sv": "Norra Savolax"
+        },
+        "extra": {
+            "wikidata": "Q5706",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "fi",
+        "country_cca3": "fin",
+        "region_cca2": null,
+        "osm_id": 2541118,
+        "osm_place_id": 282742650,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Pohjois-Suomen aluehallintovirasto",
+        "name_eng": "Regional State Administrative Agency for Northern Finland",
+        "name_translations": {
+            "de": "Regionalverwaltungsbeh\u00f6rde Nordfinnland",
+            "en": "Regional State Administrative Agency for Northern Finland",
+            "fi": "Pohjois-Suomen aluehallintovirasto",
+            "ru": "\u0410\u0433\u0435\u043d\u0442\u0441\u0442\u0432\u043e \u0440\u0435\u0433\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044f \u0421\u0435\u0432\u0435\u0440\u043d\u043e\u0439 \u0424\u0438\u043d\u043b\u044f\u043d\u0434\u0438\u0438",
+            "sk": "Severn\u00e9 F\u00ednsko",
+            "sv": "Norra Finlands regionf\u00f6rvaltningsverk"
+        },
+        "extra": {
+            "wikidata": "Q3940712",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "fi",
+        "country_cca3": "fin",
+        "region_cca2": null,
+        "osm_id": 2587236,
+        "osm_place_id": 282633688,
+        "osm_admin_level": 5,
+        "osm_type": "historic",
+        "name_loc": "Regional State Agency \u00c5land",
+        "name_eng": "Regional State Agency \u00c5land",
+        "name_translations": {
+            "ru": "\u0413\u043e\u0441\u0443\u0434\u0430\u0440\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0435 \u0430\u0433\u0435\u043d\u0442\u0441\u0442\u0432\u043e \u0410\u043b\u0430\u043d\u0434\u0441\u043a\u0438\u0445 \u043e\u0441\u0442\u0440\u043e\u0432\u043e\u0432"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "fi",
+        "country_cca3": "fin",
+        "region_cca2": "FI-17",
+        "osm_id": 2000361,
+        "osm_place_id": 282258688,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Satakunta",
+        "name_eng": "Satakunta",
+        "name_translations": {
+            "en": "Satakunta",
+            "fi": "Satakunta",
+            "hu": "Satakunta",
+            "ru": "\u0421\u0430\u0442\u0430\u043a\u0443\u043d\u0442\u0430",
+            "sv": "Satakunda"
+        },
+        "extra": {
+            "wikidata": "Q5709",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "fi",
+        "country_cca3": "fin",
+        "region_cca2": "FI-18",
+        "osm_id": 37355,
+        "osm_place_id": 282005713,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Uusimaa",
+        "name_eng": "Uusimaa",
+        "name_translations": {
+            "en": "Uusimaa",
+            "fi": "Uusimaa",
+            "hu": "Uusimaa",
+            "ru": "\u0423\u0443\u0441\u0438\u043c\u0430\u0430",
+            "sv": "Nyland"
+        },
+        "extra": {
+            "wikidata": "Q5711",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "fi",
+        "country_cca3": "fin",
+        "region_cca2": "FI-19",
+        "osm_id": 38092,
+        "osm_place_id": 281746706,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Varsinais-Suomi",
+        "name_eng": "Southwest Finland",
+        "name_translations": {
+            "cs": "Vlastn\u00ed Finsko",
+            "de": "Eigentliches Finnland",
+            "en": "Southwest Finland",
+            "fi": "Varsinais-Suomi",
+            "hu": "Val\u00f3di Finnorsz\u00e1g",
+            "ru": "\u0412\u0430\u0440\u0441\u0438\u043d\u0430\u0439\u0441-\u0421\u0443\u043e\u043c\u0438",
+            "sv": "Egentliga Finland"
+        },
+        "extra": {
+            "wikidata": "Q5712",
+            "un_locode": null
+        }
+    }
+]

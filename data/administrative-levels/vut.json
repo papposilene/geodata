@@ -1,0 +1,112 @@
+[
+    {
+        "country_cca2": "vu",
+        "country_cca3": "vut",
+        "region_cca2": "VU-MAP",
+        "osm_id": 3765629,
+        "osm_place_id": 282494458,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Malampa",
+        "name_eng": "Malampa",
+        "name_translations": {
+            "ja": "\u30de\u30e9\u30f3\u30d1\u5dde"
+        },
+        "extra": {
+            "wikidata": "Q740656",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "vu",
+        "country_cca3": "vut",
+        "region_cca2": "VU-PAM",
+        "osm_id": 3765606,
+        "osm_place_id": 282553891,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Penama",
+        "name_eng": "Penama",
+        "name_translations": {
+            "ja": "\u30da\u30ca\u30de\u5dde"
+        },
+        "extra": {
+            "wikidata": "Q836649",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "vu",
+        "country_cca3": "vut",
+        "region_cca2": "VU-SAM",
+        "osm_id": 3765591,
+        "osm_place_id": 282667226,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Sanma",
+        "name_eng": "Sanma",
+        "name_translations": {
+            "ja": "\u30b5\u30f3\u30de\u5dde"
+        },
+        "extra": {
+            "wikidata": "Q740640",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "vu",
+        "country_cca3": "vut",
+        "region_cca2": "VU-SEE",
+        "osm_id": 3765630,
+        "osm_place_id": 282452813,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Shefa",
+        "name_eng": "Shefa Province",
+        "name_translations": {
+            "en": "Shefa Province",
+            "fr": "Sh\u00e9fa",
+            "ja": "\u30b7\u30a7\u30d5\u30a1\u5dde"
+        },
+        "extra": {
+            "wikidata": "Q650617",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "vu",
+        "country_cca3": "vut",
+        "region_cca2": "VU-TAE",
+        "osm_id": 3765631,
+        "osm_place_id": 282453333,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Tafea",
+        "name_eng": "Tafea",
+        "name_translations": {
+            "ja": "\u30bf\u30d5\u30a7\u30a2\u5dde"
+        },
+        "extra": {
+            "wikidata": "Q576417",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "vu",
+        "country_cca3": "vut",
+        "region_cca2": "VU-TOB",
+        "osm_id": 3765596,
+        "osm_place_id": 282770450,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Torba",
+        "name_eng": "Torba",
+        "name_translations": {
+            "ja": "\u30c8\u30eb\u30d0\u5dde"
+        },
+        "extra": {
+            "wikidata": "Q822514",
+            "un_locode": null
+        }
+    }
+]

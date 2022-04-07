@@ -1,0 +1,765 @@
+[
+    {
+        "country_cca2": "lb",
+        "country_cca3": "lbn",
+        "region_cca2": null,
+        "osm_id": 317238,
+        "osm_place_id": 282085539,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u0642\u0636\u0627\u0621 \u0627\u0644\u0628\u062a\u0631\u0648\u0646",
+        "name_eng": "Batroun District",
+        "name_translations": {
+            "ar": "\u0642\u0636\u0627\u0621 \u0627\u0644\u0628\u062a\u0631\u0648\u0646",
+            "de": "Distrikt Batrun",
+            "en": "Batroun District",
+            "fr": "District de Batroun",
+            "he": "\u05e0\u05e4\u05ea \u05d1\u05ea\u05e8\u05d5\u05df"
+        },
+        "extra": {
+            "wikidata": "Q26781",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lb",
+        "country_cca3": "lbn",
+        "region_cca2": null,
+        "osm_id": 317307,
+        "osm_place_id": 282403281,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u0642\u0636\u0627\u0621 \u0627\u0644\u0628\u0642\u0627\u0639 \u0627\u0644\u063a\u0631\u0628\u064a",
+        "name_eng": "Western Beqaa District",
+        "name_translations": {
+            "ar": "\u0642\u0636\u0627\u0621 \u0627\u0644\u0628\u0642\u0627\u0639 \u0627\u0644\u063a\u0631\u0628\u064a",
+            "de": "Distrikt West-Bekaa",
+            "en": "Western Beqaa District",
+            "fr": "District de la Bekaa occidentale",
+            "he": "\u05e0\u05e4\u05ea \u05de\u05e2\u05e8\u05d1 \u05d1\u05e7\u05d0\u05e2",
+            "ru": "\u0417\u0430\u043f\u0430\u0434\u043d\u0430\u044f \u0411\u0435\u043a\u0430\u0430"
+        },
+        "extra": {
+            "wikidata": "Q2621565",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lb",
+        "country_cca3": "lbn",
+        "region_cca2": null,
+        "osm_id": 317243,
+        "osm_place_id": 282285295,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u0642\u0636\u0627\u0621 \u0627\u0644\u0634\u0648\u0641",
+        "name_eng": "Chouf District",
+        "name_translations": {
+            "ar": "\u0642\u0636\u0627\u0621 \u0627\u0644\u0634\u0648\u0641",
+            "de": "Distrikt Chouf",
+            "en": "Chouf District",
+            "fr": "District du Chouf",
+            "he": "\u05e0\u05e4\u05ea \u05e9\u05d5\u05e3"
+        },
+        "extra": {
+            "wikidata": "Q246999",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lb",
+        "country_cca3": "lbn",
+        "region_cca2": null,
+        "osm_id": 318114,
+        "osm_place_id": 282002060,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u0642\u0636\u0627\u0621 \u0627\u0644\u0643\u0648\u0631\u0629",
+        "name_eng": "Koura District",
+        "name_translations": {
+            "ar": "\u0642\u0636\u0627\u0621 \u0627\u0644\u0643\u0648\u0631\u0629",
+            "de": "Distrikt Koura",
+            "en": "Koura District",
+            "fr": "District du Koura",
+            "he": "\u05e0\u05e4\u05ea \u05db\u05d5\u05e8\u05d4"
+        },
+        "extra": {
+            "wikidata": "Q2414816",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lb",
+        "country_cca3": "lbn",
+        "region_cca2": null,
+        "osm_id": 317230,
+        "osm_place_id": 282337578,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u0642\u0636\u0627\u0621 \u0627\u0644\u0645\u062a\u0646",
+        "name_eng": "Matn District",
+        "name_translations": {
+            "ar": "\u0642\u0636\u0627\u0621 \u0627\u0644\u0645\u062a\u0646",
+            "de": "Distrikt Metn",
+            "en": "Matn District",
+            "fr": "District du Metn",
+            "he": "\u05e0\u05e4\u05ea \u05de\u05ea\u05df"
+        },
+        "extra": {
+            "wikidata": "Q246074",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lb",
+        "country_cca3": "lbn",
+        "region_cca2": null,
+        "osm_id": 317321,
+        "osm_place_id": 282117711,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u0642\u0636\u0627\u0621 \u0627\u0644\u0645\u0646\u064a\u0629 \u0636\u0646\u064a\u0651\u0629",
+        "name_eng": "Miniyeh-Danniyeh District",
+        "name_translations": {
+            "ar": "\u0642\u0636\u0627\u0621 \u0627\u0644\u0645\u0646\u064a\u0629 \u0636\u0646\u064a\u0651\u0629",
+            "de": "Distrikt Miniyeh-Danniyeh",
+            "en": "Miniyeh-Danniyeh District",
+            "fr": "District de Minieh-Denieh",
+            "he": "\u05e0\u05e4\u05ea \u05de\u05d9\u05e0\u05d9\u05d4-\u05d3'\u05e0\u05d9\u05d9\u05d4"
+        },
+        "extra": {
+            "wikidata": "Q2621181",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lb",
+        "country_cca3": "lbn",
+        "region_cca2": null,
+        "osm_id": 317315,
+        "osm_place_id": 281912122,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u0642\u0636\u0627\u0621 \u0627\u0644\u0646\u0628\u0637\u064a\u0629",
+        "name_eng": "Nabatieh District",
+        "name_translations": {
+            "ar": "\u0642\u0636\u0627\u0621 \u0627\u0644\u0646\u0628\u0637\u064a\u0629",
+            "de": "Distrikt Nabat\u00e4a",
+            "en": "Nabatieh District",
+            "fr": "District de Nabatieh",
+            "he": "\u05e0\u05e4\u05ea \u05e0\u05d1\u05d0\u05d8\u05d9\u05d4"
+        },
+        "extra": {
+            "wikidata": "Q680602",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lb",
+        "country_cca3": "lbn",
+        "region_cca2": null,
+        "osm_id": 317259,
+        "osm_place_id": 282117659,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u0642\u0636\u0627\u0621 \u0627\u0644\u0647\u0631\u0645\u0644",
+        "name_eng": "Hermel District",
+        "name_translations": {
+            "ar": "\u0642\u0636\u0627\u0621 \u0627\u0644\u0647\u0631\u0645\u0644",
+            "de": "Distrikt Hermel",
+            "en": "Hermel District",
+            "fr": "District de Hermel",
+            "he": "\u05e0\u05e4\u05ea \u05d4\u05e8\u05de\u05dc",
+            "ru": "\u0425\u0435\u0440\u043c\u0435\u043b\u044c"
+        },
+        "extra": {
+            "wikidata": "Q2347572",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lb",
+        "country_cca3": "lbn",
+        "region_cca2": null,
+        "osm_id": 317316,
+        "osm_place_id": 282161955,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u0642\u0636\u0627\u0621 \u0628\u0634\u0631\u0651\u064a",
+        "name_eng": "Bsharri District",
+        "name_translations": {
+            "ar": "\u0642\u0636\u0627\u0621 \u0628\u0634\u0631\u0651\u064a",
+            "de": "Distrikt Bischarri",
+            "en": "Bsharri District",
+            "fr": "District de Bcharr\u00e9",
+            "he": "\u05e0\u05e4\u05ea \u05d1\u05e9\u05d0\u05e8\u05d9"
+        },
+        "extra": {
+            "wikidata": "Q2484852",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lb",
+        "country_cca3": "lbn",
+        "region_cca2": null,
+        "osm_id": 316373,
+        "osm_place_id": 282253054,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u0642\u0636\u0627\u0621 \u0628\u0639\u0628\u062f\u0627",
+        "name_eng": "Baabda District",
+        "name_translations": {
+            "ar": "\u0642\u0636\u0627\u0621 \u0628\u0639\u0628\u062f\u0627",
+            "de": "Distrikt Baabda",
+            "en": "Baabda District",
+            "fr": "District de Baabda",
+            "he": "\u05e0\u05e4\u05ea \u05d1\u05e2\u05d1\u05d3\u05d0"
+        },
+        "extra": {
+            "wikidata": "Q211370",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lb",
+        "country_cca3": "lbn",
+        "region_cca2": null,
+        "osm_id": 317257,
+        "osm_place_id": 282031713,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u0642\u0636\u0627\u0621 \u0628\u0639\u0644\u0628\u0643",
+        "name_eng": "Baalbek District",
+        "name_translations": {
+            "ar": "\u0642\u0636\u0627\u0621 \u0628\u0639\u0644\u0628\u0643",
+            "de": "Distrikt Baalbek",
+            "en": "Baalbek District",
+            "fr": "District de Baalbek",
+            "he": "\u05e0\u05e4\u05ea \u05d1\u05e2\u05dc\u05d1\u05e7",
+            "ru": "\u0411\u0430\u0430\u043b\u044c\u0431\u0435\u043a"
+        },
+        "extra": {
+            "wikidata": "Q782804",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lb",
+        "country_cca3": "lbn",
+        "region_cca2": null,
+        "osm_id": 317306,
+        "osm_place_id": 282240762,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u0642\u0636\u0627\u0621 \u0628\u0646\u062a \u062c\u0628\u064a\u0644",
+        "name_eng": "Bint Jbeil District",
+        "name_translations": {
+            "ar": "\u0642\u0636\u0627\u0621 \u0628\u0646\u062a \u062c\u0628\u064a\u0644",
+            "de": "Distrikt Bint Dschubail",
+            "en": "Bint Jbeil District",
+            "fr": "District de Bint-Jbeil",
+            "he": "\u05e0\u05e4\u05ea \u05d1\u05d9\u05e0\u05ea \u05d2'\u05d1\u05d9\u05dc"
+        },
+        "extra": {
+            "wikidata": "Q2360360",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lb",
+        "country_cca3": "lbn",
+        "region_cca2": null,
+        "osm_id": 317317,
+        "osm_place_id": 281937584,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u0642\u0636\u0627\u0621 \u062c\u0628\u064a\u0644",
+        "name_eng": "Jbeil District",
+        "name_translations": {
+            "ar": "\u0642\u0636\u0627\u0621 \u062c\u0628\u064a\u0644",
+            "de": "Distrikt Jbeil",
+            "en": "Jbeil District",
+            "fr": "District de Jbeil",
+            "he": "\u05e0\u05e4\u05ea \u05d2'\u05d1\u05d9\u05dc"
+        },
+        "extra": {
+            "wikidata": "Q246087",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lb",
+        "country_cca3": "lbn",
+        "region_cca2": null,
+        "osm_id": 317318,
+        "osm_place_id": 281909607,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u0642\u0636\u0627\u0621 \u062c\u0632\u064a\u0646",
+        "name_eng": "Jezzine District",
+        "name_translations": {
+            "ar": "\u0642\u0636\u0627\u0621 \u062c\u0632\u064a\u0646",
+            "de": "Distrikt Jezzine",
+            "en": "Jezzine District",
+            "fr": "District de Jezzine",
+            "he": "\u05e0\u05e4\u05ea \u05d2'\u05d6\u05d9\u05df"
+        },
+        "extra": {
+            "wikidata": "Q2210780",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lb",
+        "country_cca3": "lbn",
+        "region_cca2": null,
+        "osm_id": 317319,
+        "osm_place_id": 282031740,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u0642\u0636\u0627\u0621 \u062d\u0627\u0635\u0628\u064a\u0627",
+        "name_eng": "Hasbaya District",
+        "name_translations": {
+            "ar": "\u0642\u0636\u0627\u0621 \u062d\u0627\u0635\u0628\u064a\u0627",
+            "de": "Distrikt Hasbaya",
+            "en": "Hasbaya District",
+            "fr": "District de Hasbaya",
+            "he": "\u05e0\u05e4\u05ea \u05d7\u05e1\u05d1\u05d9\u05d9\u05d4",
+            "lt": "Hasbajos rajonas",
+            "ru": "\u0425\u0430\u0441\u0431\u0430\u0439\u044f"
+        },
+        "extra": {
+            "wikidata": "Q2621555",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lb",
+        "country_cca3": "lbn",
+        "region_cca2": null,
+        "osm_id": 317277,
+        "osm_place_id": 282001815,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u0642\u0636\u0627\u0621 \u0631\u0627\u0634\u064a\u0627",
+        "name_eng": "Rashayya District",
+        "name_translations": {
+            "ar": "\u0642\u0636\u0627\u0621 \u0631\u0627\u0634\u064a\u0627",
+            "de": "Distrikt Rashayya",
+            "en": "Rashayya District",
+            "fr": "District de Rashaya",
+            "he": "\u05e0\u05e4\u05ea \u05e8\u05d0\u05e9\u05d9\u05d0",
+            "ru": "\u0420\u0430\u0448\u0430\u0439\u044f"
+        },
+        "extra": {
+            "wikidata": "Q2104948",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lb",
+        "country_cca3": "lbn",
+        "region_cca2": null,
+        "osm_id": 317263,
+        "osm_place_id": 281921327,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u0642\u0636\u0627\u0621 \u0632\u062d\u0644\u0629",
+        "name_eng": "Zahl\u00e9 District",
+        "name_translations": {
+            "ar": "\u0642\u0636\u0627\u0621 \u0632\u062d\u0644\u0629",
+            "de": "Distrikt Zahl\u00e9",
+            "en": "Zahl\u00e9 District",
+            "fr": "District de Zahl\u00e9",
+            "he": "\u05e0\u05e4\u05ea \u05d6\u05d7\u05dc\u05d4",
+            "ru": "\u0417\u0430\u0445\u043b\u0435"
+        },
+        "extra": {
+            "wikidata": "Q2484830",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lb",
+        "country_cca3": "lbn",
+        "region_cca2": null,
+        "osm_id": 317320,
+        "osm_place_id": 281934072,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u0642\u0636\u0627\u0621 \u0632\u063a\u0631\u062a\u0627",
+        "name_eng": "Zgharta District",
+        "name_translations": {
+            "ar": "\u0642\u0636\u0627\u0621 \u0632\u063a\u0631\u062a\u0627",
+            "de": "Distrikt Zgharta",
+            "en": "Zgharta District",
+            "fr": "District de Zghorta",
+            "he": "\u05e0\u05e4\u05ea \u05d6\u05e2'\u05e8\u05d0\u05ea\u05d0"
+        },
+        "extra": {
+            "wikidata": "Q197116",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lb",
+        "country_cca3": "lbn",
+        "region_cca2": null,
+        "osm_id": 317246,
+        "osm_place_id": 282001751,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u0642\u0636\u0627\u0621 \u0635\u0648\u0631",
+        "name_eng": "Tyre District",
+        "name_translations": {
+            "ar": "\u0642\u0636\u0627\u0621 \u0635\u0648\u0631",
+            "de": "Distrikt Tyros",
+            "en": "Tyre District",
+            "fr": "District de Tyr",
+            "he": "\u05e0\u05e4\u05ea \u05e6\u05d5\u05e8"
+        },
+        "extra": {
+            "wikidata": "Q2250353",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lb",
+        "country_cca3": "lbn",
+        "region_cca2": null,
+        "osm_id": 317249,
+        "osm_place_id": 282279712,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u0642\u0636\u0627\u0621 \u0635\u064a\u062f\u0627",
+        "name_eng": "Sidon District",
+        "name_translations": {
+            "ar": "\u0642\u0636\u0627\u0621 \u0635\u064a\u062f\u0627",
+            "de": "Distrikt Sidon",
+            "en": "Sidon District",
+            "fr": "District de Sidon",
+            "he": "\u05e0\u05e4\u05ea \u05e6\u05d9\u05d3\u05d5\u05df"
+        },
+        "extra": {
+            "wikidata": "Q1931173",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lb",
+        "country_cca3": "lbn",
+        "region_cca2": null,
+        "osm_id": 317278,
+        "osm_place_id": 281977878,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u0642\u0636\u0627\u0621 \u0637\u0631\u0627\u0628\u0644\u0633",
+        "name_eng": "Tripoli District",
+        "name_translations": {
+            "ar": "\u0642\u0636\u0627\u0621 \u0637\u0631\u0627\u0628\u0644\u0633",
+            "de": "Distrikt Tripoli",
+            "en": "Tripoli District",
+            "fr": "District de Tripoli",
+            "he": "\u05e0\u05e4\u05ea \u05d8\u05e8\u05d9\u05e4\u05d5\u05dc\u05d9"
+        },
+        "extra": {
+            "wikidata": "Q2484819",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lb",
+        "country_cca3": "lbn",
+        "region_cca2": null,
+        "osm_id": 317244,
+        "osm_place_id": 282240687,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u0642\u0636\u0627\u0621 \u0639\u0627\u0644\u064a\u0647",
+        "name_eng": "Aley District",
+        "name_translations": {
+            "ar": "\u0642\u0636\u0627\u0621 \u0639\u0627\u0644\u064a\u0647",
+            "de": "Distrikt Aley",
+            "en": "Aley District",
+            "fr": "District d'Aley",
+            "he": "\u05e0\u05e4\u05ea \u05e2\u05dc\u05d4"
+        },
+        "extra": {
+            "wikidata": "Q246077",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lb",
+        "country_cca3": "lbn",
+        "region_cca2": null,
+        "osm_id": 317271,
+        "osm_place_id": 282461249,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u0642\u0636\u0627\u0621 \u0639\u0643\u0627\u0631",
+        "name_eng": "Akkar District",
+        "name_translations": {
+            "ar": "\u0642\u0636\u0627\u0621 \u0639\u0643\u0627\u0631",
+            "de": "Distrikt Akkar",
+            "en": "Akkar District",
+            "fr": "District de l'Akkar",
+            "he": "\u05e0\u05e4\u05ea \u05e2\u05db\u05d0\u05e8",
+            "ru": "\u0410\u043a\u043a\u0430\u0440"
+        },
+        "extra": {
+            "wikidata": "Q419697",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lb",
+        "country_cca3": "lbn",
+        "region_cca2": null,
+        "osm_id": 317251,
+        "osm_place_id": 281953650,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u0642\u0636\u0627\u0621 \u0643\u0633\u0631\u0648\u0627\u0646",
+        "name_eng": "Keserwan District",
+        "name_translations": {
+            "ar": "\u0642\u0636\u0627\u0621 \u0643\u0633\u0631\u0648\u0627\u0646",
+            "de": "Distrikt Keserwan",
+            "en": "Keserwan District",
+            "fr": "District de Kesrouan",
+            "he": "\u05e0\u05e4\u05ea \u05e7\u05e1\u05e8\u05d5\u05d5\u05d0\u05df"
+        },
+        "extra": {
+            "wikidata": "Q246081",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lb",
+        "country_cca3": "lbn",
+        "region_cca2": null,
+        "osm_id": 317292,
+        "osm_place_id": 282337714,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u0642\u0636\u0627\u0621 \u0645\u0631\u062c\u0639\u064a\u0648\u0646",
+        "name_eng": "Marjayoun District",
+        "name_translations": {
+            "ar": "\u0642\u0636\u0627\u0621 \u0645\u0631\u062c\u0639\u064a\u0648\u0646",
+            "de": "Distrikt Mardsch Uyun",
+            "en": "Marjayoun District",
+            "fr": "District de Marjayoun",
+            "he": "\u05e0\u05e4\u05ea \u05de\u05e8\u05d2'\u05e2\u05d9\u05d5\u05df"
+        },
+        "extra": {
+            "wikidata": "Q2723877",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lb",
+        "country_cca3": "lbn",
+        "region_cca2": "LB-BI",
+        "osm_id": 318174,
+        "osm_place_id": 282240844,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0628\u0642\u0627\u0639",
+        "name_eng": "Beqaa Governorate",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0628\u0642\u0627\u0639",
+            "de": "Gouvernement Bekaa",
+            "en": "Beqaa Governorate",
+            "fr": "Gouvernorat de la Beqaa",
+            "he": "\u05de\u05d7\u05d5\u05d6 \u05d1\u05e7\u05d0\u05e2",
+            "ru": "\u043f\u0440\u043e\u0432\u0438\u043d\u0446\u0438\u044f \u0411\u0435\u043a\u0430\u0430"
+        },
+        "extra": {
+            "wikidata": "Q319632",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lb",
+        "country_cca3": "lbn",
+        "region_cca2": null,
+        "osm_id": 318236,
+        "osm_place_id": 282240914,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u062c\u0646\u0648\u0628",
+        "name_eng": "South Governorate",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u062c\u0646\u0648\u0628",
+            "de": "Gouvernement S\u00fcd-Libanon",
+            "en": "South Governorate",
+            "fr": "Gouvernorat du Liban Sud",
+            "he": "\u05de\u05d7\u05d5\u05d6 \u05d4\u05d3\u05e8\u05d5\u05dd"
+        },
+        "extra": {
+            "wikidata": "Q223643",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lb",
+        "country_cca3": "lbn",
+        "region_cca2": "LB-AS",
+        "osm_id": 318161,
+        "osm_place_id": 281890276,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0634\u0645\u0627\u0644",
+        "name_eng": "North Governorate",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0634\u0645\u0627\u0644",
+            "de": "Gouvernement Nord-Libanon",
+            "en": "North Governorate",
+            "fr": "Gouvernorat du Liban Nord",
+            "he": "\u05de\u05d7\u05d5\u05d6 \u05d4\u05e6\u05e4\u05d5\u05df",
+            "ru": "\u043f\u0440\u043e\u0432\u0438\u043d\u0446\u0438\u044f \u0421\u0435\u0432\u0435\u0440\u043d\u044b\u0439 \u041b\u0438\u0432\u0430\u043d"
+        },
+        "extra": {
+            "wikidata": "Q390267",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lb",
+        "country_cca3": "lbn",
+        "region_cca2": null,
+        "osm_id": 318309,
+        "osm_place_id": 281937998,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0646\u0628\u0637\u064a\u0629",
+        "name_eng": "Nabatieh Governorate",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0646\u0628\u0637\u064a\u0629",
+            "de": "Gouvernement Nabat\u00e4a",
+            "en": "Nabatieh Governorate",
+            "fr": "Gouvernorat de Nabatieh",
+            "he": "\u05de\u05d7\u05d5\u05d6 \u05e0\u05d1\u05d8\u05d9\u05d9\u05d4",
+            "lt": "Nabatijos muchafaza",
+            "ru": "\u043f\u0440\u043e\u0432\u0438\u043d\u0446\u0438\u044f \u042d\u043d-\u041d\u0430\u0431\u0430\u0442\u0438\u044f"
+        },
+        "extra": {
+            "wikidata": "Q458417",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lb",
+        "country_cca3": "lbn",
+        "region_cca2": "LB-BH",
+        "osm_id": 7231015,
+        "osm_place_id": 283289851,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0628\u0639\u0644\u0628\u0643 \u0627\u0644\u0647\u0631\u0645\u0644",
+        "name_eng": "Baalbek-Hermel Governorate",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0628\u0639\u0644\u0628\u0643 \u0627\u0644\u0647\u0631\u0645\u0644",
+            "de": "Gouvernement Baalbek-Hermel",
+            "en": "Baalbek-Hermel Governorate",
+            "fr": "Gouvernorat de Baalbek-Hermel",
+            "he": "\u05de\u05d7\u05d5\u05d6 \u05d1\u05e2\u05dc\u05d1\u05e7 - \u05d4\u05e8\u05de\u05dc"
+        },
+        "extra": {
+            "wikidata": "Q787753",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lb",
+        "country_cca3": "lbn",
+        "region_cca2": "LB-BA",
+        "osm_id": 316552,
+        "osm_place_id": 282051882,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0628\u064a\u0631\u0648\u062a",
+        "name_eng": "Beirut Governorate",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0628\u064a\u0631\u0648\u062a",
+            "de": "Gouvernement Beirut",
+            "en": "Beirut Governorate",
+            "fa": "\u0627\u0633\u062a\u0627\u0646 \u0628\u06cc\u0631\u0648\u062a",
+            "fr": "Gouvernorat de Beyrouth",
+            "he": "\u05de\u05d7\u05d5\u05d6 \u05d1\u05d9\u05d9\u05e8\u05d5\u05ea",
+            "ru": "\u0411\u0435\u0439\u0440\u0443\u0442",
+            "ur": "\u0645\u062d\u0627\u0641\u0638\u06c1 \u0628\u06cc\u0631\u0648\u062a"
+        },
+        "extra": {
+            "wikidata": "Q651688",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lb",
+        "country_cca3": "lbn",
+        "region_cca2": "LB-JL",
+        "osm_id": 318194,
+        "osm_place_id": 281916896,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u062c\u0628\u0644 \u0644\u0628\u0646\u0627\u0646",
+        "name_eng": "Mount Lebanon Governorate",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u062c\u0628\u0644 \u0644\u0628\u0646\u0627\u0646",
+            "de": "Gouvernement Libanonberg",
+            "en": "Mount Lebanon Governorate",
+            "fr": "Gouvernorat du Mont Liban",
+            "he": "\u05de\u05d7\u05d5\u05d6 \u05d4\u05e8 \u05dc\u05d1\u05e0\u05d5\u05df"
+        },
+        "extra": {
+            "wikidata": "Q216945",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lb",
+        "country_cca3": "lbn",
+        "region_cca2": "LB-AK",
+        "osm_id": 7231014,
+        "osm_place_id": 282838880,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0639\u0643\u0627\u0631",
+        "name_eng": "Akkar Governorate",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0639\u0643\u0627\u0631",
+            "de": "Gouvernement Akkar",
+            "en": "Akkar Governorate",
+            "fr": "Gouvernorat de l'Akkar",
+            "he": "\u05de\u05d7\u05d5\u05d6 \u05e2\u05db\u05d0\u05e8"
+        },
+        "extra": {
+            "wikidata": "Q556146",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "lb",
+        "country_cca3": "lbn",
+        "region_cca2": null,
+        "osm_id": 12903506,
+        "osm_place_id": 283502351,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0643\u0633\u0631\u0648\u0627\u0646 \u062c\u0628\u064a\u0644",
+        "name_eng": "Keserwan-Jbeil Governorate",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0643\u0633\u0631\u0648\u0627\u0646 \u062c\u0628\u064a\u0644",
+            "de": "Gouvernement Keserwan-Jbeil",
+            "en": "Keserwan-Jbeil Governorate",
+            "fr": "Gouvernorat de Kesrouan-Jbeil",
+            "ja": "\u30b1\u30bb\u30eb\u30ef\u30f3\uff1d\u30b8\u30e5\u30d9\u30a4\u30eb\u770c"
+        },
+        "extra": {
+            "wikidata": "Q56345291",
+            "un_locode": null
+        }
+    }
+]

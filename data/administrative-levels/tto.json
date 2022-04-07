@@ -1,0 +1,300 @@
+[
+    {
+        "country_cca2": "tt",
+        "country_cca3": "tto",
+        "region_cca2": "TT-ARI",
+        "osm_id": 11146288,
+        "osm_place_id": 283573614,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Arima",
+        "name_eng": "Arima",
+        "name_translations": {
+            "en": "Arima",
+            "ru": "\u0410\u0440\u0438\u043c\u0430"
+        },
+        "extra": {
+            "wikidata": "Q661405",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "tt",
+        "country_cca3": "tto",
+        "region_cca2": "TT-CHA",
+        "osm_id": 7363641,
+        "osm_place_id": 282885794,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Chaguanas",
+        "name_eng": "Chaguanas",
+        "name_translations": {
+            "en": "Chaguanas",
+            "lt": "\u010caguanasas",
+            "ru": "\u0427\u0430\u0433\u0443\u0430\u043d\u0430\u0441",
+            "uk": "\u0427\u0430\u0433\u0443\u0430\u043d\u0430\u0441"
+        },
+        "extra": {
+            "wikidata": "Q1444575",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "tt",
+        "country_cca3": "tto",
+        "region_cca2": "TT-CTT",
+        "osm_id": 7363415,
+        "osm_place_id": 282850107,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Couva-Tabaquite-Talparo",
+        "name_eng": "Couva-Tabaquite-Talparo",
+        "name_translations": {
+            "en": "Couva-Tabaquite-Talparo",
+            "ru": "\u041a\u0443\u0432\u0430-\u0422\u0430\u0431\u0430\u043a\u0438\u0442\u0435-\u0422\u0430\u043b\u044c\u043f\u0430\u0440\u043e"
+        },
+        "extra": {
+            "wikidata": "Q2679127",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "tt",
+        "country_cca3": "tto",
+        "region_cca2": null,
+        "osm_id": 7363636,
+        "osm_place_id": 283120981,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Diego Martin",
+        "name_eng": "Diego Martin",
+        "name_translations": {
+            "en": "Diego Martin",
+            "ru": "\u0414\u0438\u0435\u0433\u043e-\u041c\u0430\u0440\u0442\u0438\u043d"
+        },
+        "extra": {
+            "wikidata": "Q2679107",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "tt",
+        "country_cca3": "tto",
+        "region_cca2": "TT-PED",
+        "osm_id": 7363419,
+        "osm_place_id": 283120661,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Penal-Debe",
+        "name_eng": "Penal-Debe",
+        "name_translations": {
+            "en": "Penal-Debe",
+            "ru": "\u041f\u0435\u043d\u0430\u043b-\u0414\u0435\u0431\u0435"
+        },
+        "extra": {
+            "wikidata": "Q2056273",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "tt",
+        "country_cca3": "tto",
+        "region_cca2": "TT-PTF",
+        "osm_id": 7363418,
+        "osm_place_id": 282855130,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Point Fortin",
+        "name_eng": "Point Fortin",
+        "name_translations": {
+            "en": "Point Fortin",
+            "ru": "\u041f\u043e\u0439\u043d\u0442-\u0424\u043e\u0440\u0442\u0438\u043d"
+        },
+        "extra": {
+            "wikidata": "Q786957",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "tt",
+        "country_cca3": "tto",
+        "region_cca2": "TT-POS",
+        "osm_id": 7363637,
+        "osm_place_id": 283049552,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Port of Spain",
+        "name_eng": "Port of Spain",
+        "name_translations": {
+            "en": "Port of Spain",
+            "es": "Puerto Espa\u00f1a",
+            "fr": "Port-d'Espagne",
+            "hu": "Port of Spain",
+            "oc": "Port of Spain",
+            "pl": "Port of Spain",
+            "pt": "Porto Espanha",
+            "ru": "\u041f\u043e\u0440\u0442-\u043e\u0444-\u0421\u043f\u0435\u0439\u043d",
+            "sv": "Port-of-Spain",
+            "ta": "\u0baa\u0bcb\u0bb0\u0bcd\u0b9f\u0bcd \u0b86\u0b83\u0baa\u0bcd \u0bb8\u0bcd\u0baa\u0bc6\u0baf\u0bbf\u0ba9\u0bcd",
+            "uk": "\u041f\u043e\u0440\u0442-\u043e\u0444-\u0421\u043f\u0435\u0439\u043d",
+            "zh": "\u897f\u73ed\u7259\u6e2f"
+        },
+        "extra": {
+            "wikidata": "Q39178",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "tt",
+        "country_cca3": "tto",
+        "region_cca2": "TT-PRT",
+        "osm_id": 7361803,
+        "osm_place_id": 282849974,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Princes Town",
+        "name_eng": "Princes Town",
+        "name_translations": {
+            "en": "Princes Town",
+            "ru": "\u041f\u0440\u0438\u043d\u0441\u0435\u0441-\u0422\u0430\u0443\u043d"
+        },
+        "extra": {
+            "wikidata": "Q2228167",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "tt",
+        "country_cca3": "tto",
+        "region_cca2": null,
+        "osm_id": 7361804,
+        "osm_place_id": 283303172,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Rio Claro-Mayaro",
+        "name_eng": "Rio Claro-Mayaro",
+        "name_translations": {
+            "en": "Rio Claro-Mayaro",
+            "ru": "\u0420\u0438\u043e \u041a\u043b\u0430\u0440\u043e-\u041c\u0430\u0439\u044f\u0440\u043e",
+            "szl": "Trynidad i Tobago"
+        },
+        "extra": {
+            "wikidata": "Q2487249",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "tt",
+        "country_cca3": "tto",
+        "region_cca2": "TT-SFO",
+        "osm_id": 7363416,
+        "osm_place_id": 283303570,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "San Fernando",
+        "name_eng": "San Fernando",
+        "name_translations": {
+            "en": "San Fernando",
+            "ru": "\u0421\u0430\u043d-\u0424\u0435\u0440\u043d\u0430\u043d\u0434\u043e"
+        },
+        "extra": {
+            "wikidata": "Q1023712",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "tt",
+        "country_cca3": "tto",
+        "region_cca2": "TT-SJL",
+        "osm_id": 7363638,
+        "osm_place_id": 283232127,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "San Juan-Laventille",
+        "name_eng": "San Juan-Laventille",
+        "name_translations": {
+            "en": "San Juan-Laventille",
+            "ru": "\u0421\u0430\u043d-\u0425\u0443\u0430\u043d-\u041b\u0430\u0432\u0435\u043d\u0442\u0438\u043b\u044c"
+        },
+        "extra": {
+            "wikidata": "Q979608",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "tt",
+        "country_cca3": "tto",
+        "region_cca2": "TT-SGE",
+        "osm_id": 7363640,
+        "osm_place_id": 282875264,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Sangre Grande",
+        "name_eng": "Sangre Grande",
+        "name_translations": {
+            "en": "Sangre Grande",
+            "ru": "\u0421\u0430\u043d\u0433\u0440\u0435-\u0413\u0440\u0430\u043d\u0434\u0435"
+        },
+        "extra": {
+            "wikidata": "Q290292",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "tt",
+        "country_cca3": "tto",
+        "region_cca2": "TT-SIP",
+        "osm_id": 7363417,
+        "osm_place_id": 283066185,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Siparia",
+        "name_eng": "Siparia",
+        "name_translations": {
+            "en": "Siparia",
+            "ru": "\u0421\u0438\u043f\u0430\u0440\u0438\u044f"
+        },
+        "extra": {
+            "wikidata": "Q2679119",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "tt",
+        "country_cca3": "tto",
+        "region_cca2": "TT-TOB",
+        "osm_id": 5176041,
+        "osm_place_id": 282574924,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Tobago",
+        "name_eng": "Tobago",
+        "name_translations": {
+            "en": "Tobago",
+            "ru": "\u0422\u043e\u0431\u0430\u0433\u043e"
+        },
+        "extra": {
+            "wikidata": "Q185111",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "tt",
+        "country_cca3": "tto",
+        "region_cca2": "TT-TUP",
+        "osm_id": 7363639,
+        "osm_place_id": 282966986,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Tunapuna-Piarco",
+        "name_eng": "Tunapuna-Piarco",
+        "name_translations": {
+            "en": "Tunapuna-Piarco",
+            "ru": "\u0422\u0443\u043d\u0430\u043f\u0443\u043d\u0430-\u041f\u0438\u0430\u0440\u043a\u043e"
+        },
+        "extra": {
+            "wikidata": "Q1899163",
+            "un_locode": null
+        }
+    }
+]

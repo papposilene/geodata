@@ -1,0 +1,1464 @@
+[
+    {
+        "country_cca2": "tj",
+        "country_cca3": "tjk",
+        "region_cca2": null,
+        "osm_id": 3279614,
+        "osm_place_id": 282513648,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u041c\u0443\u0445\u0442\u043e\u0440\u0438 \u041a\u04ef\u04b3\u0438\u0441\u0442\u043e\u043d\u0438 \u0411\u0430\u0434\u0430\u0445\u0448\u043e\u043d",
+        "name_eng": "Gorno-Badakhshan Autonomous Region",
+        "name_translations": {
+            "de": "Autonome Provinz Berg-Badachschan",
+            "en": "Gorno-Badakhshan Autonomous Region",
+            "es": "Provincia de Alto Badajsh\u00e1n",
+            "fa": "\u0627\u0633\u062a\u0627\u0646 \u062e\u0648\u062f\u0645\u062e\u062a\u0627\u0631 \u0628\u062f\u062e\u0634\u0627\u0646 \u06a9\u0648\u0647\u0633\u062a\u0627\u0646\u06cc",
+            "fr": "Haut-Badakhchan",
+            "ja": "\u30b4\u30eb\u30ce\u30fb\u30d0\u30c0\u30d5\u30b7\u30e3\u30f3\u81ea\u6cbb\u5dde",
+            "lt": "Kaln\u0173 Badach\u0161ano autonomin\u0117 provincija",
+            "pl": "G\u00f3rskobadachsza\u0144ski Wilajet Autonomiczny",
+            "ru": "\u0413\u043e\u0440\u043d\u043e-\u0411\u0430\u0434\u0430\u0445\u0448\u0430\u043d\u0441\u043a\u0430\u044f \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+            "tg": "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u041c\u0443\u0445\u0442\u043e\u0440\u0438 \u041a\u04ef\u04b3\u0438\u0441\u0442\u043e\u043d\u0438 \u0411\u0430\u0434\u0430\u0445\u0448\u043e\u043d",
+            "uk": "\u0490\u043e\u0440\u043d\u043e-\u0411\u0430\u0434\u0430\u0445\u0448\u0430\u043d\u0441\u044c\u043a\u0430 \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+            "short": "GBAO"
+        },
+        "extra": {
+            "wikidata": "Q207319",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "tj",
+        "country_cca3": "tjk",
+        "region_cca2": "TJ-SU",
+        "osm_id": 3279374,
+        "osm_place_id": 282397427,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u0421\u0443\u0493\u0434",
+        "name_eng": "Sughd Region",
+        "name_translations": {
+            "de": "Provinz Sughd",
+            "en": "Sughd Region",
+            "es": "Provincia de Sughd",
+            "fa": "\u0648\u0644\u0627\u06cc\u062a \u0633\u063a\u062f",
+            "fr": "Sughd",
+            "ja": "\u30bd\u30b0\u30c9",
+            "lt": "Sugdo provincija",
+            "pl": "Wilajet sogdyjski",
+            "ru": "\u0421\u043e\u0433\u0434\u0438\u0439\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+            "tg": "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u0421\u0443\u0493\u0434",
+            "uk": "\u0421\u043e\u0433\u0434\u0456\u0439\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+            "short": "Sughd"
+        },
+        "extra": {
+            "wikidata": "Q241582",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "tj",
+        "country_cca3": "tjk",
+        "region_cca2": null,
+        "osm_id": 3279616,
+        "osm_place_id": 282392696,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u0425\u0430\u0442\u043b\u043e\u043d",
+        "name_eng": "Khatlon Region",
+        "name_translations": {
+            "ar": "\u0648\u0644\u0627\u064a\u0629 \u062e\u0627\u062a\u0644\u0648\u0646",
+            "be": "\u0425\u0430\u0442\u043b\u043e\u043d\u0441\u043a\u0430\u044f \u0432\u043e\u0431\u043b\u0430\u0441\u0446\u044c",
+            "bg": "\u0425\u0430\u0442\u043b\u043e\u043d\u0441\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442",
+            "de": "Provinz Chatlon",
+            "en": "Khatlon Region",
+            "es": "Provincia de Khatlon",
+            "fa": "\u0627\u0633\u062a\u0627\u0646 \u062e\u064e\u062a\u0644\u0627\u0646",
+            "fr": "Khatlon",
+            "ja": "\u30cf\u30c8\u30ed\u30f3",
+            "lt": "Chatlono provincija",
+            "pl": "Wilajet chatlo\u0144ski",
+            "ru": "\u0425\u0430\u0442\u043b\u043e\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+            "tg": "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u0425\u0430\u0442\u043b\u043e\u043d",
+            "ug": "\u062e\u0627\u062a\u0644\u0627\u0646 \u06cb\u0649\u0644\u0627\u064a\u0649\u062a\u0649",
+            "uk": "\u0425\u0430\u0442\u043b\u043e\u043d\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+            "ur": "\u0635\u0648\u0628\u06c1 \u062e\u062a\u0644\u0627\u0646",
+            "pnb": "\u0635\u0648\u0628\u06c1 \u062e\u062a\u0644\u0627\u0646"
+        },
+        "extra": {
+            "wikidata": "Q633511",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "tj",
+        "country_cca3": "tjk",
+        "region_cca2": "TJ-DU",
+        "osm_id": 7328360,
+        "osm_place_id": 323703973,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "\u0414\u0443\u0448\u0430\u043d\u0431\u0435",
+        "name_eng": "Dushanbe",
+        "name_translations": {
+            "af": "Doesjanbe",
+            "am": "\u12f1\u123b\u1295\u1264",
+            "ar": "\u062f\u0648\u0634\u0646\u0628\u0647",
+            "az": "D\u00fc\u015f\u0259nb\u0259",
+            "be": "\u0414\u0443\u0448\u0430\u043d\u0431\u044d",
+            "bg": "\u0414\u0443\u0448\u0430\u043d\u0431\u0435",
+            "bn": "\u09a6\u09c1\u09b6\u09be\u09a8\u09cd\u200c\u09ac\u09c7",
+            "bo": "\u0f51\u0f74\u0f0b\u0f64\u0f44\u0f0b\u0f54\u0f7a\u0f0d",
+            "br": "Douchanbe",
+            "bs": "Du\u0161anbe",
+            "ca": "Duixanbe",
+            "cs": "Du\u0161anbe",
+            "cy": "Dushanbe",
+            "da": "Dusjanbe",
+            "de": "Duschanbe",
+            "el": "\u039d\u03c4\u03bf\u03c5\u03c3\u03b1\u03bc\u03c0\u03ad",
+            "en": "Dushanbe",
+            "eo": "Du\u015danbeo",
+            "es": "Dusamb\u00e9",
+            "et": "Du\u0161anbe",
+            "eu": "Dushanbe",
+            "fa": "\u062f\u0648\u0634\u0646\u0628\u0647",
+            "fi": "Du\u0161anbe",
+            "fr": "Douchanb\u00e9",
+            "fy": "Doesjanbe",
+            "ga": "Dushanbe",
+            "gd": "Dushanbe",
+            "gl": "Dushanbe",
+            "he": "\u05d3\u05d5\u05e9\u05e0\u05d1\u05d4",
+            "hi": "\u0926\u0941\u0936\u093e\u0928\u094d\u092c\u0947",
+            "hr": "Du\u0161anbe",
+            "ht": "Douchanbe",
+            "hu": "Dusanbe",
+            "hy": "\u0534\u0578\u0582\u0577\u0561\u0576\u0562\u0565",
+            "id": "Dushanbe",
+            "ie": "Dushanbe",
+            "io": "Dushanbe",
+            "is": "D\u00fashanbe",
+            "it": "Du\u0161anbe",
+            "ja": "\u30c9\u30a5\u30b7\u30e3\u30f3\u30d9",
+            "ka": "\u10d3\u10e3\u10e8\u10d0\u10dc\u10d1\u10d4",
+            "kk": "\u0414\u0443\u0448\u0430\u043d\u0431\u0435",
+            "kn": "\u0ca6\u0cc1\u0cb6\u0cbe\u0c82\u0cac\u0cc6",
+            "ko": "\ub450\uc0e8\ubca0",
+            "ku": "Du\u015fenbe",
+            "kv": "\u0414\u0443\u0448\u0430\u043d\u0431\u0435",
+            "ky": "\u0414\u0443\u0448\u0430\u043d\u0431\u0435",
+            "lt": "Du\u0161anb\u0117",
+            "lv": "Du\u0161anbe",
+            "mk": "\u0414\u0443\u0448\u0430\u043d\u0431\u0435",
+            "ml": "\u0d26\u0d41\u0d37\u0d3e\u0d7b\u0d2c\u0d46",
+            "mn": "\u0414\u0443\u0448\u0430\u043d\u0431\u0435",
+            "mr": "\u0926\u0941\u0936\u093e\u0902\u092c\u0947",
+            "nl": "Doesjanbe",
+            "nn": "Dusjanbe",
+            "no": "Dusjanbe",
+            "oc": "Doshambe",
+            "os": "\u0414\u0443\u0448\u0430\u043d\u0431\u0435",
+            "pl": "Duszanbe",
+            "ps": "\u062f\u0648\u0634\u0646\u0628\u0647",
+            "pt": "Duchambe",
+            "ro": "Du\u0219anbe",
+            "ru": "\u0414\u0443\u0448\u0430\u043d\u0431\u0435",
+            "sh": "Du\u0161anbe",
+            "sk": "Du\u0161anbe",
+            "sl": "Du\u0161anbej",
+            "sq": "Dushanbe",
+            "sr": "\u0414\u0443\u0448\u0430\u043d\u0431\u0435",
+            "sv": "Dusjanbe",
+            "sw": "Dushanbe",
+            "ta": "\u0ba4\u0bc1\u0b9a\u0bbe\u0ba9\u0bcd\u0baa\u0bc7",
+            "tg": "\u0414\u0443\u0448\u0430\u043d\u0431\u0435",
+            "th": "\u0e14\u0e39\u0e0a\u0e32\u0e19\u0e40\u0e1a",
+            "tl": "Dushanbe",
+            "tr": "Du\u015fanbe",
+            "tt": "\u0414\u04af\u0448\u04d9\u043d\u0431\u0435",
+            "ug": "D\u00fcshenbe",
+            "uk": "\u0414\u0443\u0448\u0430\u043d\u0431\u0435",
+            "ur": "\u062f\u0648\u0634\u0646\u0628\u06c1",
+            "uz": "Dushanbe",
+            "vi": "Dushanbe",
+            "yi": "\u05d3\u05d5\u05e9\u05d0\u05e0\u05d1\u05e2",
+            "yo": "Dushanbe",
+            "zh": "\u675c\u5c1a\u522b",
+            "ace": "Dushanbe",
+            "ckb": "\u062f\u0648\u0634\u06d5\u0646\u0628\u06d5",
+            "gag": "Du\u015fanbe",
+            "hif": "Dushanbe",
+            "hsb": "Du\u0161anbe",
+            "lad": "Dushanbe",
+            "lmo": "Du\u0161anbe",
+            "mhr": "\u0414\u0443\u0448\u0430\u043d\u0431\u0435",
+            "nan": "Dushanbe",
+            "nov": "Dushanbe",
+            "pap": "Dusjanbe",
+            "pms": "Du\u0161anbe",
+            "sah": "\u0414\u0443\u0448\u0430\u043d\u0431\u0435",
+            "sco": "Dushanbe",
+            "udm": "\u0414\u0443\u0448\u0430\u043d\u0431\u0435",
+            "war": "Dushanbe",
+            "short": "RRP",
+            "simple": "Dushanbe",
+            "be-tarask": "\u0414\u0443\u0448\u0430\u043d\u0431\u044d"
+        },
+        "extra": {
+            "wikidata": "Q9365",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "tj",
+        "country_cca3": "tjk",
+        "region_cca2": null,
+        "osm_id": 3281957,
+        "osm_place_id": 323703972,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041b\u0430\u0445\u0448",
+        "name_eng": "Lakhsh",
+        "name_translations": {
+            "en": "Lakhsh"
+        },
+        "extra": {
+            "wikidata": "Q2669474",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "tj",
+        "country_cca3": "tjk",
+        "region_cca2": null,
+        "osm_id": 3281941,
+        "osm_place_id": 282392840,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041d\u043e\u04b3\u0438\u044f\u0438 \u0410\u0431\u0434\u0443\u0440\u0430\u04b3\u043c\u043e\u043d\u0438 \u04b6\u043e\u043c\u04e3",
+        "name_eng": "Dzhami District",
+        "name_translations": {
+            "en": "Dzhami District",
+            "ru": "\u0420\u0430\u0439\u043e\u043d \u0438\u043c. \u0410\u0431\u0434\u0443\u0440\u0430\u0445\u043c\u0430\u043d\u0430 \u0414\u0436\u0430\u043c\u0438",
+            "tg": "\u041d\u043e\u04b3\u0438\u044f\u0438 \u0410\u0431\u0434\u0443\u0440\u0430\u04b3\u043c\u043e\u043d\u0438 \u04b6\u043e\u043c\u04e3"
+        },
+        "extra": {
+            "wikidata": "Q3564843",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "tj",
+        "country_cca3": "tjk",
+        "region_cca2": null,
+        "osm_id": 3280692,
+        "osm_place_id": 282426963,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041d\u043e\u04b3\u0438\u044f\u0438 \u0410\u0439\u043d\u04e3",
+        "name_eng": "Ayni District",
+        "name_translations": {
+            "en": "Ayni District",
+            "fa": "\u0646\u0627\u062d\u06cc\u06c0 \u0639\u06cc\u0646\u06cc",
+            "ru": "\u0410\u0439\u043d\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "tg": "\u041d\u043e\u04b3\u0438\u044f\u0438 \u0410\u0439\u043d\u04e3"
+        },
+        "extra": {
+            "wikidata": "Q2592677",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "tj",
+        "country_cca3": "tjk",
+        "region_cca2": null,
+        "osm_id": 3280682,
+        "osm_place_id": 282442589,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041d\u043e\u04b3\u0438\u044f\u0438 \u0410\u0448\u0442",
+        "name_eng": "Asht District",
+        "name_translations": {
+            "en": "Asht District",
+            "fa": "\u0646\u0627\u062d\u06cc\u06c0 \u0627\u0634\u062a",
+            "ru": "\u0410\u0448\u0442\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "tg": "\u041d\u043e\u04b3\u0438\u044f\u0438 \u0410\u0448\u0442"
+        },
+        "extra": {
+            "wikidata": "Q2396963",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "tj",
+        "country_cca3": "tjk",
+        "region_cca2": null,
+        "osm_id": 3281963,
+        "osm_place_id": 282427097,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041d\u043e\u04b3\u0438\u044f\u0438 \u0411\u0430\u043b\u04b7\u0443\u0432\u043e\u043d",
+        "name_eng": "Baljuvon District",
+        "name_translations": {
+            "en": "Baljuvon District",
+            "fa": "\u0646\u0627\u062d\u06cc\u06c0 \u0628\u0644\u062c\u0648\u0627\u0646",
+            "ru": "\u0411\u0430\u043b\u044c\u0434\u0436\u0443\u0432\u0430\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "tg": "\u041d\u043e\u04b3\u0438\u044f\u0438 \u0411\u0430\u043b\u04b7\u0443\u0432\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q2565358",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "tj",
+        "country_cca3": "tjk",
+        "region_cca2": null,
+        "osm_id": 3281954,
+        "osm_place_id": 282460751,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041d\u043e\u04b3\u0438\u044f\u0438 \u0411\u043e\u0445\u0442\u0430\u0440",
+        "name_eng": "Bokhtar District",
+        "name_translations": {
+            "en": "Bokhtar District",
+            "fa": "\u0645\u0646\u0637\u0642\u0647 \u0628\u0627\u062e\u062a\u0631",
+            "ru": "\u0411\u043e\u0445\u0442\u0430\u0440\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "tg": "\u041d\u043e\u04b3\u0438\u044f\u0438 \u0411\u043e\u0445\u0442\u0430\u0440"
+        },
+        "extra": {
+            "wikidata": "Q2669480",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "tj",
+        "country_cca3": "tjk",
+        "region_cca2": null,
+        "osm_id": 3281956,
+        "osm_place_id": 282841816,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041d\u043e\u04b3\u0438\u044f\u0438 \u0412\u0430\u043d\u04b7",
+        "name_eng": "Vanj District",
+        "name_translations": {
+            "en": "Vanj District",
+            "fa": "\u0646\u0627\u062d\u06cc\u06c0 \u0648\u0646\u062c",
+            "ru": "\u0412\u0430\u043d\u0447\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "tg": "\u041d\u043e\u04b3\u0438\u044f\u0438 \u0412\u0430\u043d\u04b7"
+        },
+        "extra": {
+            "wikidata": "Q2669456",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "tj",
+        "country_cca3": "tjk",
+        "region_cca2": null,
+        "osm_id": 3281939,
+        "osm_place_id": 282513969,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041d\u043e\u04b3\u0438\u044f\u0438 \u0412\u0430\u0440\u0437\u043e\u0431",
+        "name_eng": "Varzob District",
+        "name_translations": {
+            "en": "Varzob District",
+            "fa": "\u0646\u0627\u062d\u06cc\u06c0 \u0648\u0631\u0632\u0627\u0628",
+            "ru": "\u0412\u0430\u0440\u0437\u043e\u0431\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "tg": "\u041d\u043e\u04b3\u0438\u044f\u0438 \u0412\u0430\u0440\u0437\u043e\u0431"
+        },
+        "extra": {
+            "wikidata": "Q2669430",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "tj",
+        "country_cca3": "tjk",
+        "region_cca2": null,
+        "osm_id": 3281943,
+        "osm_place_id": 282391925,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041d\u043e\u04b3\u0438\u044f\u0438 \u0412\u0430\u0445\u0448",
+        "name_eng": "Vakhsh District",
+        "name_translations": {
+            "en": "Vakhsh District",
+            "fa": "\u0646\u0627\u062d\u06cc\u06c0 \u0648\u062e\u0634",
+            "ru": "\u0412\u0430\u0445\u0448\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "tg": "\u041d\u043e\u04b3\u0438\u044f\u0438 \u0412\u0430\u0445\u0448"
+        },
+        "extra": {
+            "wikidata": "Q2565367",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "tj",
+        "country_cca3": "tjk",
+        "region_cca2": null,
+        "osm_id": 3281970,
+        "osm_place_id": 282514014,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041d\u043e\u04b3\u0438\u044f\u0438 \u0412\u0430\u04b3\u0434\u0430\u0442",
+        "name_eng": "Vahdat District",
+        "name_translations": {
+            "en": "Vahdat District",
+            "fa": "\u0646\u0627\u062d\u06cc\u06c0 \u0648\u062d\u062f\u062a",
+            "ru": "\u0412\u0430\u0445\u0434\u0430\u0442\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "tg": "\u041d\u043e\u04b3\u0438\u044f\u0438 \u0412\u0430\u04b3\u0434\u0430\u0442"
+        },
+        "extra": {
+            "wikidata": "Q2640253",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "tj",
+        "country_cca3": "tjk",
+        "region_cca2": null,
+        "osm_id": 3281955,
+        "osm_place_id": 282408865,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041d\u043e\u04b3\u0438\u044f\u0438 \u0412\u043e\u0441\u0435\u044a",
+        "name_eng": "Vose' District",
+        "name_translations": {
+            "en": "Vose' District",
+            "fa": "\u0646\u0627\u062d\u06cc\u06c0 \u0648\u0627\u0633\u0639\u200e",
+            "ru": "\u0412\u043e\u0441\u0435\u0439\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "tg": "\u041d\u043e\u04b3\u0438\u044f\u0438 \u0412\u043e\u0441\u0435\u044a"
+        },
+        "extra": {
+            "wikidata": "Q2565339",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "tj",
+        "country_cca3": "tjk",
+        "region_cca2": null,
+        "osm_id": 3280693,
+        "osm_place_id": 282466586,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041d\u043e\u04b3\u0438\u044f\u0438 \u0492\u0430\u0444\u0443\u0440\u043e\u0432",
+        "name_eng": "Ghafurov District",
+        "name_translations": {
+            "en": "Ghafurov District",
+            "fa": "\u0646\u0627\u062d\u06cc\u06c0 \u063a\u0641\u0648\u0631\u0641",
+            "ru": "\u0413\u0430\u0444\u0443\u0440\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "tg": "\u041d\u043e\u04b3\u0438\u044f\u0438 \u0492\u0430\u0444\u0443\u0440\u043e\u0432"
+        },
+        "extra": {
+            "wikidata": "Q2592692",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "tj",
+        "country_cca3": "tjk",
+        "region_cca2": null,
+        "osm_id": 3281945,
+        "osm_place_id": 282647412,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041d\u043e\u04b3\u0438\u044f\u0438 \u0492\u043e\u0437\u0438\u043c\u0430\u043b\u0438\u043a",
+        "name_eng": "Khuroson District",
+        "name_translations": {
+            "en": "Khuroson District",
+            "ru": "\u0425\u0443\u0440\u043e\u0441\u043e\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "tg": "\u041d\u043e\u04b3\u0438\u044f\u0438 \u0492\u043e\u0437\u0438\u043c\u0430\u043b\u0438\u043a"
+        },
+        "extra": {
+            "wikidata": "Q5263385",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "tj",
+        "country_cca3": "tjk",
+        "region_cca2": null,
+        "osm_id": 3280690,
+        "osm_place_id": 282758050,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041d\u043e\u04b3\u0438\u044f\u0438 \u0492\u043e\u043d\u0447\u04e3",
+        "name_eng": "Ghonchi District",
+        "name_translations": {
+            "en": "Ghonchi District",
+            "ru": "\u0413\u0430\u043d\u0447\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "tg": "\u041d\u043e\u04b3\u0438\u044f\u0438 \u0492\u043e\u043d\u0447\u04e3"
+        },
+        "extra": {
+            "wikidata": "Q2592619",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "tj",
+        "country_cca3": "tjk",
+        "region_cca2": null,
+        "osm_id": 3281965,
+        "osm_place_id": 282702430,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041d\u043e\u04b3\u0438\u044f\u0438 \u0414\u0430\u043d\u0493\u0430\u0440\u0430",
+        "name_eng": "Danghara District",
+        "name_translations": {
+            "en": "Danghara District",
+            "fa": "\u0646\u0627\u062d\u06cc\u06c0 \u062f\u0646\u063a\u0631\u0647",
+            "ru": "\u0414\u0430\u043d\u0433\u0430\u0440\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "tg": "\u041d\u043e\u04b3\u0438\u044f\u0438 \u0414\u0430\u043d\u0493\u0430\u0440\u0430"
+        },
+        "extra": {
+            "wikidata": "Q2565377",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "tj",
+        "country_cca3": "tjk",
+        "region_cca2": null,
+        "osm_id": 3281969,
+        "osm_place_id": 282391392,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041d\u043e\u04b3\u0438\u044f\u0438 \u0414\u0430\u0440\u0432\u043e\u0437",
+        "name_eng": "Darvoz District",
+        "name_translations": {
+            "en": "Darvoz District",
+            "fa": "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u062f\u0631\u0648\u0627\u0632\u200e",
+            "ru": "\u0414\u0430\u0440\u0432\u0430\u0437\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "tg": "\u041d\u043e\u04b3\u0438\u044f\u0438 \u0414\u0430\u0440\u0432\u043e\u0437"
+        },
+        "extra": {
+            "wikidata": "Q2605259",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "tj",
+        "country_cca3": "tjk",
+        "region_cca2": null,
+        "osm_id": 3281960,
+        "osm_place_id": 282592334,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041d\u043e\u04b3\u0438\u044f\u0438 \u0401\u0432\u043e\u043d",
+        "name_eng": "Yovon District",
+        "name_translations": {
+            "en": "Yovon District",
+            "fa": "\u0646\u0627\u062d\u06cc\u06c0 \u06cc\u0627\u0648\u0627\u0646",
+            "ru": "\u042f\u0432\u0430\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "tg": "\u041d\u043e\u04b3\u0438\u044f\u0438 \u0401\u0432\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q2980110",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "tj",
+        "country_cca3": "tjk",
+        "region_cca2": null,
+        "osm_id": 3280689,
+        "osm_place_id": 282591628,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041d\u043e\u04b3\u0438\u044f\u0438 \u0417\u0430\u0444\u0430\u0440\u043e\u0431\u043e\u0434",
+        "name_eng": "Zafarobod District",
+        "name_translations": {
+            "en": "Zafarobod District",
+            "fa": "\u0646\u0627\u062d\u06cc\u06c0 \u0638\u0641\u0631\u0622\u0628\u0627\u062f",
+            "ru": "\u0417\u0430\u0444\u0430\u0440\u0430\u0431\u0430\u0434\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "tg": "\u041d\u043e\u04b3\u0438\u044f\u0438 \u0417\u0430\u0444\u0430\u0440\u043e\u0431\u043e\u0434"
+        },
+        "extra": {
+            "wikidata": "Q2669481",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "tj",
+        "country_cca3": "tjk",
+        "region_cca2": null,
+        "osm_id": 3281013,
+        "osm_place_id": 282391782,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041d\u043e\u04b3\u0438\u044f\u0438 \u0418\u0441\u0442\u0430\u0440\u0430\u0432\u0448\u0430\u043d",
+        "name_eng": "Istaravshan District",
+        "name_translations": {
+            "en": "Istaravshan District",
+            "fa": "\u0646\u0627\u062d\u06cc\u06c0 \u0627\u0633\u062a\u0631\u0648\u0634\u0646",
+            "ru": "\u0418\u0441\u0442\u0430\u0440\u0430\u0432\u0448\u0430\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "tg": "\u041d\u043e\u04b3\u0438\u044f\u0438 \u0418\u0441\u0442\u0430\u0440\u0430\u0432\u0448\u0430\u043d"
+        },
+        "extra": {
+            "wikidata": "Q1034071",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "tj",
+        "country_cca3": "tjk",
+        "region_cca2": null,
+        "osm_id": 3280683,
+        "osm_place_id": 282460651,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041d\u043e\u04b3\u0438\u044f\u0438 \u0418\u0441\u0444\u0430\u0440\u0430",
+        "name_eng": "Isfara District",
+        "name_translations": {
+            "en": "Isfara District",
+            "fa": "\u0646\u0627\u062d\u06cc\u06c0 \u0627\u0633\u0641\u0631\u0647",
+            "ru": "\u0418\u0441\u0444\u0430\u0440\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "tg": "\u041d\u043e\u04b3\u0438\u044f\u0438 \u0418\u0441\u0444\u0430\u0440\u0430"
+        },
+        "extra": {
+            "wikidata": "Q2474029",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "tj",
+        "country_cca3": "tjk",
+        "region_cca2": null,
+        "osm_id": 3281971,
+        "osm_place_id": 282389577,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041d\u043e\u04b3\u0438\u044f\u0438 \u0418\u0448\u043a\u043e\u0448\u0438\u043c",
+        "name_eng": "Ishkoshim District",
+        "name_translations": {
+            "de": "Bezirk Ischkoschim",
+            "en": "Ishkoshim District",
+            "fa": "\u0646\u0627\u062d\u06cc\u06c0\u0627\u0634\u06a9\u0627\u0634\u0645",
+            "ru": "\u0418\u0448\u043a\u0430\u0448\u0438\u043c\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "tg": "\u041d\u043e\u04b3\u0438\u044f\u0438 \u0418\u0448\u043a\u043e\u0448\u0438\u043c"
+        },
+        "extra": {
+            "wikidata": "Q261843",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "tj",
+        "country_cca3": "tjk",
+        "region_cca2": null,
+        "osm_id": 3280684,
+        "osm_place_id": 282408784,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041d\u043e\u04b3\u0438\u044f\u0438 \u041a\u043e\u043d\u0438\u0431\u043e\u0434\u043e\u043c",
+        "name_eng": "Konibodom District",
+        "name_translations": {
+            "en": "Konibodom District",
+            "fa": "\u0646\u0627\u062d\u06cc\u06c0 \u06a9\u0627\u0646 \u0628\u0627\u062f\u0627\u0645",
+            "ru": "\u041a\u0430\u043d\u0438\u0431\u0430\u0434\u0430\u043c\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "tg": "\u041d\u043e\u04b3\u0438\u044f\u0438 \u041a\u043e\u043d\u0438\u0431\u043e\u0434\u043e\u043c"
+        },
+        "extra": {
+            "wikidata": "Q2588415",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "tj",
+        "country_cca3": "tjk",
+        "region_cca2": null,
+        "osm_id": 3281947,
+        "osm_place_id": 282397564,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041d\u043e\u04b3\u0438\u044f\u0438 \u041a\u04ef\u043b\u043e\u0431",
+        "name_eng": "Kulob District",
+        "name_translations": {
+            "en": "Kulob District",
+            "fa": "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u06a9\u0648\u0644\u0627\u0628",
+            "ru": "\u041a\u0443\u043b\u044f\u0431\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "tg": "\u041d\u043e\u04b3\u0438\u044f\u0438 \u041a\u04ef\u043b\u043e\u0431"
+        },
+        "extra": {
+            "wikidata": "Q2564862",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "tj",
+        "country_cca3": "tjk",
+        "region_cca2": null,
+        "osm_id": 3280686,
+        "osm_place_id": 282587572,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041d\u043e\u04b3\u0438\u044f\u0438 \u041a\u04ef\u04b3\u0438\u0441\u0442\u043e\u043d\u0438 \u041c\u0430\u0441\u0442\u0447\u043e\u04b3",
+        "name_eng": "Kuhistoni Mastchoh District",
+        "name_translations": {
+            "en": "Kuhistoni Mastchoh District",
+            "fa": "\u0646\u0627\u062d\u06cc\u06c0 \u06a9\u0648\u0647\u0633\u062a\u0627\u0646 \u0645\u0633\u062a\u0686\u0627\u0647",
+            "ru": "\u0413\u043e\u0440\u043d\u043e-\u041c\u0430\u0442\u0447\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "tg": "\u041d\u043e\u04b3\u0438\u044f\u0438 \u041a\u04ef\u04b3\u0438\u0441\u0442\u043e\u043d\u0438 \u041c\u0430\u0441\u0442\u0447\u043e\u04b3"
+        },
+        "extra": {
+            "wikidata": "Q3500783",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "tj",
+        "country_cca3": "tjk",
+        "region_cca2": null,
+        "osm_id": 3281961,
+        "osm_place_id": 282758200,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041d\u043e\u04b3\u0438\u044f\u0438 \u049a\u0430\u0431\u043e\u0434\u0438\u0451\u043d",
+        "name_eng": "Qabodiyon District",
+        "name_translations": {
+            "en": "Qabodiyon District",
+            "fa": "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0642\u0628\u0627\u062f\u06cc\u0627\u0646\u200e",
+            "ru": "\u041a\u0430\u0431\u043e\u0434\u0438\u0451\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "tg": "\u041d\u043e\u04b3\u0438\u044f\u0438 \u049a\u0430\u0431\u043e\u0434\u0438\u0451\u043d"
+        },
+        "extra": {
+            "wikidata": "Q2628807",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "tj",
+        "country_cca3": "tjk",
+        "region_cca2": null,
+        "osm_id": 3281946,
+        "osm_place_id": 282717343,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041d\u043e\u04b3\u0438\u044f\u0438 \u049a\u0443\u043c\u0441\u0430\u043d\u0433\u0438\u0440",
+        "name_eng": "Qumsangir District",
+        "name_translations": {
+            "en": "Qumsangir District",
+            "fa": "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0642\u0648\u0645 \u0633\u0646\u06af\u06cc\u0631\u200e",
+            "ru": "\u041a\u0443\u043c\u0441\u0430\u043d\u0433\u0438\u0440\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "tg": "\u041d\u043e\u04b3\u0438\u044f\u0438 \u049a\u0443\u043c\u0441\u0430\u043d\u0433\u0438\u0440"
+        },
+        "extra": {
+            "wikidata": "Q7272789",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "tj",
+        "country_cca3": "tjk",
+        "region_cca2": null,
+        "osm_id": 3280691,
+        "osm_place_id": 282433284,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041d\u043e\u04b3\u0438\u044f\u0438 \u041c\u0430\u0441\u0442\u0447\u043e\u04b3",
+        "name_eng": "Mastchoh District",
+        "name_translations": {
+            "en": "Mastchoh District",
+            "fa": "\u0646\u0627\u062d\u06cc\u06c0 \u0645\u0633\u062a\u0686\u0627\u0647",
+            "ru": "\u041c\u0430\u0442\u0447\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "tg": "\u041d\u043e\u04b3\u0438\u044f\u0438 \u041c\u0430\u0441\u0442\u0447\u043e\u04b3"
+        },
+        "extra": {
+            "wikidata": "Q2588397",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "tj",
+        "country_cca3": "tjk",
+        "region_cca2": null,
+        "osm_id": 3281933,
+        "osm_place_id": 282466786,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041d\u043e\u04b3\u0438\u044f\u0438 \u041c\u0443\u0440\u0493\u043e\u0431",
+        "name_eng": "Murghob District",
+        "name_translations": {
+            "de": "Bezirk Murghob",
+            "en": "Murghob District",
+            "fa": "\u0646\u0627\u062d\u06cc\u06c0 \u0645\u0631\u063a\u0627\u0628",
+            "ru": "\u041c\u0443\u0440\u0433\u0430\u0431\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "tg": "\u041d\u043e\u04b3\u0438\u044f\u0438 \u041c\u0443\u0440\u0493\u043e\u0431",
+            "uk": "\u041c\u0443\u0440\u0491\u0430\u0431\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q2992189",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "tj",
+        "country_cca3": "tjk",
+        "region_cca2": null,
+        "osm_id": 3281938,
+        "osm_place_id": 282391339,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041d\u043e\u04b3\u0438\u044f\u0438 \u041c\u04ef\u044a\u043c\u0438\u043d\u043e\u0431\u043e\u0434",
+        "name_eng": "Muminobod District",
+        "name_translations": {
+            "en": "Muminobod District",
+            "fa": "\u0646\u0627\u062d\u06cc\u06c0 \u0645\u0648\u0645\u0646 \u0622\u0628\u0627\u062f",
+            "ru": "\u041c\u0443\u043c\u0438\u043d\u0430\u0431\u0430\u0434\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "tg": "\u041d\u043e\u04b3\u0438\u044f\u0438 \u041c\u04ef\u044a\u043c\u0438\u043d\u043e\u0431\u043e\u0434"
+        },
+        "extra": {
+            "wikidata": "Q2565327",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "tj",
+        "country_cca3": "tjk",
+        "region_cca2": null,
+        "osm_id": 3281959,
+        "osm_place_id": 282635162,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041d\u043e\u04b3\u0438\u044f\u0438 \u041d\u043e\u0440\u0430\u043a",
+        "name_eng": "Norak District",
+        "name_translations": {
+            "en": "Norak District",
+            "fa": "\u0646\u0627\u062d\u06cc\u06c0 \u0646\u0627\u0631\u06a9",
+            "ru": "\u041d\u0443\u0440\u0435\u043a\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "tg": "\u041d\u043e\u04b3\u0438\u044f\u0438 \u041d\u043e\u0440\u0430\u043a"
+        },
+        "extra": {
+            "wikidata": "Q3500767",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "tj",
+        "country_cca3": "tjk",
+        "region_cca2": null,
+        "osm_id": 3281932,
+        "osm_place_id": 282427055,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041d\u043e\u04b3\u0438\u044f\u0438 \u041d\u043e\u0441\u0438\u0440\u0438 \u0425\u0443\u0441\u0440\u0430\u0432",
+        "name_eng": "Nosiri Khusrav District",
+        "name_translations": {
+            "en": "Nosiri Khusrav District",
+            "fa": "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0646\u0627\u0635\u0631\u062e\u0633\u0631\u0648",
+            "ru": "\u0420\u0430\u0439\u043e\u043d \u0438\u043c. \u041d\u0430\u0441\u0438\u0440\u0430 \u0425\u0443\u0441\u0440\u0430\u0432\u0430",
+            "tg": "\u041d\u043e\u04b3\u0438\u044f\u0438 \u041d\u043e\u0441\u0438\u0440\u0438 \u0425\u0443\u0441\u0440\u0430\u0432"
+        },
+        "extra": {
+            "wikidata": "Q3565034",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "tj",
+        "country_cca3": "tjk",
+        "region_cca2": null,
+        "osm_id": 3281949,
+        "osm_place_id": 282397494,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041d\u043e\u04b3\u0438\u044f\u0438 \u041d\u0443\u0440\u043e\u0431\u043e\u0434",
+        "name_eng": "Nurobod District",
+        "name_translations": {
+            "en": "Nurobod District",
+            "fa": "\u0646\u0627\u062d\u06cc\u06c0 \u0646\u0648\u0631\u0622\u0628\u0627\u062f",
+            "ru": "\u041d\u0443\u0440\u0430\u0431\u0430\u0434\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "tg": "\u041d\u043e\u04b3\u0438\u044f\u0438 \u041d\u0443\u0440\u043e\u0431\u043e\u0434"
+        },
+        "extra": {
+            "wikidata": "Q2507842",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "tj",
+        "country_cca3": "tjk",
+        "region_cca2": null,
+        "osm_id": 3281958,
+        "osm_place_id": 282389822,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041d\u043e\u04b3\u0438\u044f\u0438 \u041f\u0430\u043d\u04b7",
+        "name_eng": "Panj District",
+        "name_translations": {
+            "en": "Panj District",
+            "fa": "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u067e\u0646\u062c",
+            "ru": "\u041f\u044f\u043d\u0434\u0436\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "tg": "\u041d\u043e\u04b3\u0438\u044f\u0438 \u041f\u0430\u043d\u04b7",
+            "uk": "\u041f\u0430\u0301\u043d\u0434\u0437\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q2564823",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "tj",
+        "country_cca3": "tjk",
+        "region_cca2": null,
+        "osm_id": 3280687,
+        "osm_place_id": 282389720,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041d\u043e\u04b3\u0438\u044f\u0438 \u041f\u0430\u043d\u04b7\u0430\u043a\u0435\u043d\u0442",
+        "name_eng": "Panjakent District",
+        "name_translations": {
+            "en": "Panjakent District",
+            "fa": "\u0646\u0627\u062d\u06cc\u06c0 \u067e\u0646\u062c\u06a9\u0646\u062a",
+            "ru": "\u041f\u0435\u043d\u0434\u0436\u0438\u043a\u0435\u043d\u0442\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "tg": "\u041d\u043e\u04b3\u0438\u044f\u0438 \u041f\u0430\u043d\u04b7\u0430\u043a\u0435\u043d\u0442",
+            "uk": "\u041f\u0430\u043d\u0434\u0436\u0430\u043a\u0435\u043d\u0442\u0441\u044c\u043a\u0430 \u043d\u043e\u0445\u0456\u044f"
+        },
+        "extra": {
+            "wikidata": "Q2592634",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "tj",
+        "country_cca3": "tjk",
+        "region_cca2": null,
+        "osm_id": 3281968,
+        "osm_place_id": 282391323,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041d\u043e\u04b3\u0438\u044f\u0438 \u0420\u0430\u0448\u0442",
+        "name_eng": "Rasht District",
+        "name_translations": {
+            "en": "Rasht District",
+            "fa": "\u0646\u0627\u062d\u06cc\u0647\u0654 \u0631\u0627\u0634\u062a",
+            "ru": "\u0420\u0430\u0448\u0442\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "tg": "\u041d\u043e\u04b3\u0438\u044f\u0438 \u0420\u0430\u0448\u0442"
+        },
+        "extra": {
+            "wikidata": "Q2657690",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "tj",
+        "country_cca3": "tjk",
+        "region_cca2": null,
+        "osm_id": 3281937,
+        "osm_place_id": 282391285,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041d\u043e\u04b3\u0438\u044f\u0438 \u0420\u043e\u0493\u0443\u043d",
+        "name_eng": "Roghun District",
+        "name_translations": {
+            "en": "Roghun District",
+            "fa": "\u0646\u0627\u062d\u06cc\u0647\u0654 \u0631\u0627\u063a\u0648\u0646",
+            "ru": "\u0420\u043e\u0433\u0443\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "tg": "\u041d\u043e\u04b3\u0438\u044f\u0438 \u0420\u043e\u0493\u0443\u043d"
+        },
+        "extra": {
+            "wikidata": "Q2669485",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "tj",
+        "country_cca3": "tjk",
+        "region_cca2": null,
+        "osm_id": 3281930,
+        "osm_place_id": 282758150,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041d\u043e\u04b3\u0438\u044f\u0438 \u0420\u043e\u0448\u0442\u049b\u0430\u043b\u044a\u0430",
+        "name_eng": "Roshtqal'a District",
+        "name_translations": {
+            "de": "Bezirk Roschtqala",
+            "en": "Roshtqal'a District",
+            "fa": "\u0646\u0627\u062d\u06cc\u06c0 \u0631\u0627\u0634\u062a \u0642\u0644\u0639\u0647",
+            "ru": "\u0420\u043e\u0448\u0442\u043a\u0430\u043b\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "tg": "\u041d\u043e\u04b3\u0438\u044f\u0438 \u0420\u043e\u0448\u0442\u049b\u0430\u043b\u044a\u0430"
+        },
+        "extra": {
+            "wikidata": "Q2507734",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "tj",
+        "country_cca3": "tjk",
+        "region_cca2": null,
+        "osm_id": 3281973,
+        "osm_place_id": 282438267,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041d\u043e\u04b3\u0438\u044f\u0438 \u0420\u04ef\u0434\u0430\u043a\u04e3",
+        "name_eng": "Rudaki District",
+        "name_translations": {
+            "en": "Rudaki District",
+            "fa": "\u0646\u0627\u062d\u06cc\u0647\u0654 \u0631\u0648\u062f\u06a9\u06cc",
+            "ru": "\u0420\u0430\u0439\u043e\u043d \u0420\u0443\u0434\u0430\u043a\u0438",
+            "tg": "\u041d\u043e\u04b3\u0438\u044f\u0438 \u0420\u04ef\u0434\u0430\u043a\u04e3"
+        },
+        "extra": {
+            "wikidata": "Q2669438",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "tj",
+        "country_cca3": "tjk",
+        "region_cca2": null,
+        "osm_id": 3281942,
+        "osm_place_id": 282438230,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041d\u043e\u04b3\u0438\u044f\u0438 \u0420\u04ef\u0448\u043e\u043d",
+        "name_eng": "Rushon District",
+        "name_translations": {
+            "en": "Rushon District",
+            "fa": "\u0646\u0627\u062d\u06cc\u06c0 \u0631\u0648\u0634\u0627\u0646\u200e",
+            "ja": "\u30eb\u30b7\u30e7\u30f3\u5730\u533a",
+            "ru": "\u0420\u0443\u0448\u0430\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "tg": "\u041d\u043e\u04b3\u0438\u044f\u0438 \u0420\u04ef\u0448\u043e\u043d",
+            "uk": "\u0420\u0443\u0448\u0430\u043d\u0441\u044c\u043a\u0430 \u043d\u043e\u0445\u0456\u044f",
+            "pnb": "\u0636\u0644\u0639 \u0631\u0648\u0634\u0627\u0646",
+            "tg_latn": "Nohijai R\u016b\u015fon"
+        },
+        "extra": {
+            "wikidata": "Q2507868",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "tj",
+        "country_cca3": "tjk",
+        "region_cca2": null,
+        "osm_id": 3281940,
+        "osm_place_id": 282389541,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041d\u043e\u04b3\u0438\u044f\u0438 \u0421\u0430\u0440\u0431\u0430\u043d\u0434",
+        "name_eng": "Sarband District",
+        "name_translations": {
+            "en": "Sarband District",
+            "fa": "\u0646\u0627\u062d\u06cc\u06c0 \u0633\u0631\u0628\u0646\u062f\u200e",
+            "ru": "\u0421\u0430\u0440\u0431\u0430\u043d\u0434\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "tg": "\u041d\u043e\u04b3\u0438\u044f\u0438 \u0421\u0430\u0440\u0431\u0430\u043d\u0434"
+        },
+        "extra": {
+            "wikidata": "Q7423507",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "tj",
+        "country_cca3": "tjk",
+        "region_cca2": null,
+        "osm_id": 3280688,
+        "osm_place_id": 282635114,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041d\u043e\u04b3\u0438\u044f\u0438 \u0421\u043f\u0438\u0442\u0430\u043c\u0430\u043d",
+        "name_eng": "Spitamen District",
+        "name_translations": {
+            "en": "Spitamen District",
+            "fa": "\u0646\u0627\u062d\u06cc\u06c0 \u0627\u0633\u067e\u06cc\u062a\u0645\u0646",
+            "ru": "\u0421\u043f\u0438\u0442\u0430\u043c\u0435\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "tg": "\u041d\u043e\u04b3\u0438\u044f\u0438 \u0421\u043f\u0438\u0442\u0430\u043c\u0430\u043d"
+        },
+        "extra": {
+            "wikidata": "Q2669476",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "tj",
+        "country_cca3": "tjk",
+        "region_cca2": null,
+        "osm_id": 3281972,
+        "osm_place_id": 282392907,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041d\u043e\u04b3\u0438\u044f\u0438 \u0422\u0430\u0432\u0438\u043b\u0434\u0430\u0440\u0430",
+        "name_eng": "Tavildara District",
+        "name_translations": {
+            "en": "Tavildara District",
+            "fa": "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0637\u0648\u06cc\u0644\u200c\u062f\u0631\u0647",
+            "ru": "\u0422\u0430\u0432\u0438\u043b\u044c\u0434\u0430\u0440\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "tg": "\u041d\u043e\u04b3\u0438\u044f\u0438 \u0422\u0430\u0432\u0438\u043b\u0434\u0430\u0440\u0430"
+        },
+        "extra": {
+            "wikidata": "Q2507856",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "tj",
+        "country_cca3": "tjk",
+        "region_cca2": null,
+        "osm_id": 3281950,
+        "osm_place_id": 282431675,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041d\u043e\u04b3\u0438\u044f\u0438 \u0422\u0435\u043c\u0443\u0440\u043c\u0430\u043b\u0438\u043a",
+        "name_eng": "Temurmalik District",
+        "name_translations": {
+            "en": "Temurmalik District",
+            "ru": "\u0422\u0435\u043c\u0443\u0440\u043c\u0430\u043b\u0438\u043a\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "tg": "\u041d\u043e\u04b3\u0438\u044f\u0438 \u0422\u0435\u043c\u0443\u0440\u043c\u0430\u043b\u0438\u043a"
+        },
+        "extra": {
+            "wikidata": "Q7482815",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "tj",
+        "country_cca3": "tjk",
+        "region_cca2": null,
+        "osm_id": 3281931,
+        "osm_place_id": 282433482,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041d\u043e\u04b3\u0438\u044f\u0438 \u0422\u043e\u04b7\u0438\u043a\u043e\u0431\u043e\u0434",
+        "name_eng": "Tojikobod District",
+        "name_translations": {
+            "en": "Tojikobod District",
+            "fa": "\u0646\u0627\u062d\u06cc\u0647\u0654 \u062a\u0627\u062c\u06cc\u06a9\u200c\u0622\u0628\u0627\u062f",
+            "ru": "\u0422\u0430\u0434\u0436\u0438\u043a\u0430\u0431\u0430\u0434\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "tg": "\u041d\u043e\u04b3\u0438\u044f\u0438 \u0422\u043e\u04b7\u0438\u043a\u043e\u0431\u043e\u0434"
+        },
+        "extra": {
+            "wikidata": "Q2507677",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "tj",
+        "country_cca3": "tjk",
+        "region_cca2": null,
+        "osm_id": 3281944,
+        "osm_place_id": 282495430,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041d\u043e\u04b3\u0438\u044f\u0438 \u0422\u0443\u0440\u0441\u0443\u043d\u0437\u043e\u0434\u0430",
+        "name_eng": "Tursunzoda District",
+        "name_translations": {
+            "en": "Tursunzoda District",
+            "fa": "\u0646\u0627\u062d\u06cc\u06c0 \u062a\u0631\u0633\u0646 \u0632\u0627\u062f\u0647",
+            "ru": "\u0422\u0443\u0440\u0441\u0443\u043d\u0437\u0430\u0434\u0435\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "tg": "\u041d\u043e\u04b3\u0438\u044f\u0438 \u0422\u0443\u0440\u0441\u0443\u043d\u0437\u043e\u0434\u0430"
+        },
+        "extra": {
+            "wikidata": "Q2669425",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "tj",
+        "country_cca3": "tjk",
+        "region_cca2": null,
+        "osm_id": 3281936,
+        "osm_place_id": 282432909,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041d\u043e\u04b3\u0438\u044f\u0438 \u0424\u0430\u0439\u0437\u043e\u0431\u043e\u0434",
+        "name_eng": "Faizobod District",
+        "name_translations": {
+            "en": "Faizobod District",
+            "fa": "\u0646\u0627\u062d\u06cc\u06c0 \u0641\u06cc\u0636\u200c\u0622\u0628\u0627\u062f",
+            "ru": "\u0424\u0430\u0439\u0437\u0430\u0431\u0430\u0434\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "tg": "\u041d\u043e\u04b3\u0438\u044f\u0438 \u0424\u0430\u0439\u0437\u043e\u0431\u043e\u0434"
+        },
+        "extra": {
+            "wikidata": "Q2669448",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "tj",
+        "country_cca3": "tjk",
+        "region_cca2": null,
+        "osm_id": 3281966,
+        "osm_place_id": 282404511,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041d\u043e\u04b3\u0438\u044f\u0438 \u0424\u0430\u0440\u0445\u043e\u0440",
+        "name_eng": "Farkhor District",
+        "name_translations": {
+            "en": "Farkhor District",
+            "fa": "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0641\u0631\u062e\u0627\u0631\u200e",
+            "ja": "\u30d5\u30a1\u30eb\u30db\u30fc\u30eb",
+            "ru": "\u0424\u0430\u0440\u0445\u043e\u0440\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "tg": "\u041d\u043e\u04b3\u0438\u044f\u0438 \u0424\u0430\u0440\u0445\u043e\u0440"
+        },
+        "extra": {
+            "wikidata": "Q2391254",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "tj",
+        "country_cca3": "tjk",
+        "region_cca2": null,
+        "osm_id": 3281962,
+        "osm_place_id": 282433610,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041d\u043e\u04b3\u0438\u044f\u0438 \u0425\u043e\u0432\u0430\u043b\u0438\u043d\u0433",
+        "name_eng": "Khovaling District",
+        "name_translations": {
+            "en": "Khovaling District",
+            "fa": "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u062e\u0627\u0648\u064e\u0644\u0650\u0646\u06af\u200e",
+            "ru": "\u0425\u0443\u0440\u043e\u0441\u043e\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "tg": "\u041d\u043e\u04b3\u0438\u044f\u0438 \u0425\u043e\u0432\u0430\u043b\u0438\u043d\u0433"
+        },
+        "extra": {
+            "wikidata": "Q6402653",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "tj",
+        "country_cca3": "tjk",
+        "region_cca2": null,
+        "osm_id": 3281951,
+        "osm_place_id": 282436719,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041d\u043e\u04b3\u0438\u044f\u0438 \u04b2\u0430\u043c\u0430\u0434\u043e\u043d\u04e3",
+        "name_eng": "Hamadoni District",
+        "name_translations": {
+            "en": "Hamadoni District",
+            "fa": "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0647\u0645\u062f\u0627\u0646\u06cc",
+            "ru": "\u0420\u0430\u0439\u043e\u043d \u0438\u043c. \u041c\u0438\u0440 \u0421\u0430\u0438\u0434\u0430 \u0410\u043b\u0438 \u0425\u0430\u043c\u0430\u0434\u0430\u043d\u0438",
+            "tg": "\u041d\u043e\u04b3\u0438\u044f\u0438 \u04b2\u0430\u043c\u0430\u0434\u043e\u043d\u04e3"
+        },
+        "extra": {
+            "wikidata": "Q3564819",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "tj",
+        "country_cca3": "tjk",
+        "region_cca2": null,
+        "osm_id": 3281935,
+        "osm_place_id": 282404480,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041d\u043e\u04b3\u0438\u044f\u0438 \u04b2\u0438\u0441\u043e\u0440",
+        "name_eng": "Hisor District",
+        "name_translations": {
+            "en": "Hisor District",
+            "fa": "\u0646\u0627\u062d\u06cc\u06c0 \u062d\u0635\u0627\u0631\u200e",
+            "ru": "\u0413\u0438\u0441\u0441\u0430\u0440\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "tg": "\u041d\u043e\u04b3\u0438\u044f\u0438 \u04b2\u0438\u0441\u043e\u0440"
+        },
+        "extra": {
+            "wikidata": "Q2592671",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "tj",
+        "country_cca3": "tjk",
+        "region_cca2": null,
+        "osm_id": 3281014,
+        "osm_place_id": 282495261,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041d\u043e\u04b3\u0438\u044f\u0438 \u04b6\u0430\u0431\u0431\u043e\u0440 \u0420\u0430\u0441\u0443\u043b\u043e\u0432",
+        "name_eng": "Jabbor Rasulov District",
+        "name_translations": {
+            "en": "Jabbor Rasulov District",
+            "fa": "\u0646\u0627\u062d\u06cc\u06c0 \u062c\u0628\u0627\u0631 \u0631\u0633\u0648\u0644\u0627\u0648",
+            "ru": "\u0414\u0436\u0430\u0431\u0431\u0430\u0440-\u0420\u0430\u0441\u0443\u043b\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "tg": "\u041d\u043e\u04b3\u0438\u044f\u0438 \u04b6\u0430\u0431\u0431\u043e\u0440 \u0420\u0430\u0441\u0443\u043b\u043e\u0432"
+        },
+        "extra": {
+            "wikidata": "Q2990701",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "tj",
+        "country_cca3": "tjk",
+        "region_cca2": null,
+        "osm_id": 3281953,
+        "osm_place_id": 282442693,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041d\u043e\u04b3\u0438\u044f\u0438 \u04b6\u0430\u043b\u043e\u043b\u0438\u0434\u0434\u0438\u043d \u0411\u0430\u043b\u0445\u04e3",
+        "name_eng": "Jalaladdin Balkhi  District",
+        "name_translations": {
+            "en": "Jalaladdin Balkhi  District",
+            "fa": "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u062c\u0644\u0627\u0644 \u0627\u0644\u062f\u06cc\u0646 \u0628\u0644\u062e\u06cc",
+            "ru": "\u0420\u0430\u0439\u043e\u043d \u0414\u0436\u0430\u043b\u043e\u043b\u0438\u0434\u0434\u0438\u043d\u0430 \u0411\u0430\u043b\u0445\u0438",
+            "tg": "\u041d\u043e\u04b3\u0438\u044f\u0438 \u04b6\u0430\u043b\u043e\u043b\u0438\u0434\u0434\u0438\u043d \u0411\u0430\u043b\u0445\u04e3"
+        },
+        "extra": {
+            "wikidata": "Q3563282",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "tj",
+        "country_cca3": "tjk",
+        "region_cca2": null,
+        "osm_id": 3281964,
+        "osm_place_id": 282466875,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041d\u043e\u04b3\u0438\u044f\u0438 \u04b6\u0438\u043b\u0438\u043a\u04ef\u043b",
+        "name_eng": "Jilikul District",
+        "name_translations": {
+            "en": "Jilikul District",
+            "fa": "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u062c\u06cc\u0644\u06cc\u06a9\u0644",
+            "ru": "\u0414\u0436\u0438\u043b\u0438\u043a\u0443\u043b\u044c\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "tg": "\u041d\u043e\u04b3\u0438\u044f\u0438 \u04b6\u0438\u043b\u0438\u043a\u04ef\u043b"
+        },
+        "extra": {
+            "wikidata": "Q2588386",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "tj",
+        "country_cca3": "tjk",
+        "region_cca2": null,
+        "osm_id": 6870523,
+        "osm_place_id": 282820661,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041d\u043e\u04b3\u0438\u044f\u0438 \u0428\u0430\u043c\u0441\u0438\u0434\u0434\u0438\u043d \u0428\u043e\u04b3\u0438\u043d",
+        "name_eng": "\u041d\u043e\u04b3\u0438\u044f\u0438 \u0428\u0430\u043c\u0441\u0438\u0434\u0434\u0438\u043d \u0428\u043e\u04b3\u0438\u043d",
+        "name_translations": {
+            "fa": "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0634\u0645\u0633 \u0627\u0644\u062f\u06cc\u0646 \u0634\u0627\u0647\u06cc\u0646",
+            "ru": "\u0428\u0430\u043c\u0441\u0438\u0434\u0434\u0438\u043d-\u0428\u043e\u0445\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "tg": "\u041d\u043e\u04b3\u0438\u044f\u0438 \u0428\u0430\u043c\u0441\u0438\u0434\u0434\u0438\u043d \u0428\u043e\u04b3\u0438\u043d"
+        },
+        "extra": {
+            "wikidata": "Q7482813",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "tj",
+        "country_cca3": "tjk",
+        "region_cca2": null,
+        "osm_id": 3281948,
+        "osm_place_id": 282955849,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041d\u043e\u04b3\u0438\u044f\u0438 \u0428\u0430\u04b3\u0440\u0438\u043d\u0430\u0432",
+        "name_eng": "Sharinav District",
+        "name_translations": {
+            "en": "Sharinav District",
+            "fa": "\u0646\u0627\u062d\u06cc\u0647\u0654 \u0634\u0647\u0631\u0646\u0648",
+            "ru": "\u0428\u0430\u0445\u0440\u0438\u043d\u0430\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "tg": "\u041d\u043e\u04b3\u0438\u044f\u0438 \u0428\u0430\u04b3\u0440\u0438\u043d\u0430\u0432"
+        },
+        "extra": {
+            "wikidata": "Q2990697",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "tj",
+        "country_cca3": "tjk",
+        "region_cca2": null,
+        "osm_id": 3280685,
+        "osm_place_id": 282841732,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041d\u043e\u04b3\u0438\u044f\u0438 \u0428\u0430\u04b3\u0440\u0438\u0441\u0442\u043e\u043d",
+        "name_eng": "Shahriston District",
+        "name_translations": {
+            "en": "Shahriston District",
+            "fa": "\u0646\u0627\u062d\u06cc\u06c0 \u0634\u0647\u0631\u0633\u062a\u0627\u0646",
+            "ru": "\u0428\u0430\u0445\u0440\u0438\u0441\u0442\u0430\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "tg": "\u041d\u043e\u04b3\u0438\u044f\u0438 \u0428\u0430\u04b3\u0440\u0438\u0441\u0442\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q2669467",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "tj",
+        "country_cca3": "tjk",
+        "region_cca2": null,
+        "osm_id": 3281934,
+        "osm_place_id": 282702407,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041d\u043e\u04b3\u0438\u044f\u0438 \u0428\u0430\u04b3\u0440\u0442\u0443\u0437",
+        "name_eng": "Shahrtuz District",
+        "name_translations": {
+            "en": "Shahrtuz District",
+            "fa": "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u062a\u0648\u0633",
+            "ru": "\u0428\u0430\u0430\u0440\u0442\u0443\u0437\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "tg": "\u041d\u043e\u04b3\u0438\u044f\u0438 \u0428\u0430\u04b3\u0440\u0442\u0443\u0437"
+        },
+        "extra": {
+            "wikidata": "Q2588405",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "tj",
+        "country_cca3": "tjk",
+        "region_cca2": null,
+        "osm_id": 3281967,
+        "osm_place_id": 282432935,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041d\u043e\u04b3\u0438\u044f\u0438 \u0428\u0443\u0493\u043d\u043e\u043d",
+        "name_eng": "Shughnon District",
+        "name_translations": {
+            "de": "Bezirk Schughnon",
+            "en": "Shughnon District",
+            "fa": "\u0646\u0627\u062d\u06cc\u06c0 \u0634\u063a\u0646\u0627\u0646",
+            "ru": "\u0428\u0443\u0433\u043d\u0430\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "tg": "\u041d\u043e\u04b3\u0438\u044f\u0438 \u0428\u0443\u0493\u043d\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q2669442",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "tj",
+        "country_cca3": "tjk",
+        "region_cca2": "TJ-RA",
+        "osm_id": 3279615,
+        "osm_place_id": 282389282,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "\u041d\u043e\u04b3\u0438\u044f\u04b3\u043e\u0438 \u0442\u043e\u0431\u0435\u0438 \u04b7\u0443\u043c\u04b3\u0443\u0440\u04e3",
+        "name_eng": "Districts of Republican Subordination",
+        "name_translations": {
+            "de": "Der Republik unterstellte Gebiete",
+            "en": "Districts of Republican Subordination",
+            "es": "Regi\u00f3n bajo subordinaci\u00f3n republicana",
+            "fa": "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0647\u0627\u06cc \u062a\u0627\u0628\u0639 \u062c\u0645\u0647\u0648\u0631\u06cc",
+            "fr": "Nohiyahoi tobei Jumhurii",
+            "ja": "\u5171\u548c\u56fd\u76f4\u8f44\u5730",
+            "lt": "Tiesioginio pavaldumo regionas",
+            "pl": "Rejony administrowane centralnie",
+            "ru": "\u0420\u0430\u0439\u043e\u043d\u044b \u0440\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430\u043d\u0441\u043a\u043e\u0433\u043e \u043f\u043e\u0434\u0447\u0438\u043d\u0435\u043d\u0438\u044f",
+            "tg": "\u041d\u043e\u04b3\u0438\u044f\u04b3\u043e\u0438 \u0442\u043e\u0431\u0435\u0438 \u04b7\u0443\u043c\u04b3\u0443\u0440\u04e3",
+            "short": "RRP"
+        },
+        "extra": {
+            "wikidata": "Q633490",
+            "un_locode": null
+        }
+    }
+]

@@ -1,0 +1,3263 @@
+[
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": "IT-65",
+        "osm_id": 53937,
+        "osm_place_id": 281785255,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Abruzzo",
+        "name_eng": "Abruzzo",
+        "name_translations": {
+            "ca": "Abru\u00e7os",
+            "cs": "Abruzzo",
+            "de": "Abruzzen",
+            "en": "Abruzzo",
+            "es": "Abruzos",
+            "fr": "Abruzzes",
+            "hu": "Abruzzo",
+            "it": "Abruzzo",
+            "ja": "\u30a2\u30d6\u30eb\u30c3\u30c4\u30a9\u5dde",
+            "nl": "Abruzzen",
+            "pl": "Abruzja",
+            "ru": "\u0410\u0431\u0440\u0443\u0446\u0446\u043e",
+            "sc": "Abrutzu",
+            "sl": "Abruci",
+            "scn": "Abbruzzi"
+        },
+        "extra": {
+            "wikidata": "Q1284",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": "IT-AG",
+        "osm_id": 39151,
+        "osm_place_id": 281660333,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Agrigento",
+        "name_eng": "Agrigento",
+        "name_translations": {
+            "ar": "\u062c\u0631\u062c\u0646\u062a",
+            "de": "Agrigent",
+            "el": "\u0391\u03b3\u03ba\u03c1\u03b9\u03c4\u03b6\u03ad\u03bd\u03c4\u03bf",
+            "fr": "Agrigente",
+            "he": "\u05d0\u05d2\u05e8\u05d9\u05d2'\u05e0\u05d8\u05d5",
+            "it": "Agrigento",
+            "lt": "Agrid\u017eentas",
+            "ru": "\u0410\u0433\u0440\u0438\u0434\u0436\u0435\u043d\u0442\u043e",
+            "uk": "\u0410\u0433\u0440\u0456\u0434\u0436\u0435\u043d\u0442\u043e",
+            "zh": "\u963f\u683c\u91cc\u771f\u6258",
+            "scn": "Girgenti"
+        },
+        "extra": {
+            "wikidata": "Q26160406",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": null,
+        "osm_id": 43199,
+        "osm_place_id": 281705556,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Alessandria",
+        "name_eng": "Alessandria",
+        "name_translations": {
+            "ca": "Prov\u00edncia d'Alessandria",
+            "fr": "Alexandrie",
+            "pt": "Alexandria",
+            "ru": "\u0410\u043b\u0435\u0441\u0441\u0430\u043d\u0434\u0440\u0438\u044f",
+            "zh": "\u4e9a\u5386\u5c71\u5fb7\u91cc\u4e9a",
+            "pms": "Lissandria"
+        },
+        "extra": {
+            "wikidata": "Q15097",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": "IT-AN",
+        "osm_id": 53059,
+        "osm_place_id": 282170463,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Ancona",
+        "name_eng": "Ancona",
+        "name_translations": {
+            "it": "Ancona",
+            "lt": "Ankona",
+            "ru": "\u0410\u043d\u043a\u043e\u043d\u0430"
+        },
+        "extra": {
+            "wikidata": "Q16114",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": "IT-AR",
+        "osm_id": 42366,
+        "osm_place_id": 282183040,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Arezzo",
+        "name_eng": "Arezzo",
+        "name_translations": {
+            "ca": "Prov\u00edncia d'Arezzo",
+            "ru": "\u0410\u0440\u0435\u0446\u0446\u043e"
+        },
+        "extra": {
+            "wikidata": "Q16115",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": "IT-OR",
+        "osm_id": 40021,
+        "osm_place_id": 282007785,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Aristanis\/Oristano",
+        "name_eng": "Aristanis\/Oristano",
+        "name_translations": {
+            "ca": "Prov\u00edncia d'Oristany",
+            "el": "\u039f\u03c1\u03b9\u03c3\u03c4\u03ac\u03bd\u03bf",
+            "fr": "Oristano",
+            "it": "Oristano",
+            "ru": "\u041e\u0440\u0438\u0441\u0442\u0430\u043d\u043e",
+            "sc": "Aristanis"
+        },
+        "extra": {
+            "wikidata": "Q16225",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": "IT-AP",
+        "osm_id": 42141,
+        "osm_place_id": 281793552,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Ascoli Piceno",
+        "name_eng": "Ascoli Piceno",
+        "name_translations": {
+            "ca": "Prov\u00edncia d'Ascoli Piceno",
+            "it": "Ascoli Piceno",
+            "ru": "\u0410\u0441\u043a\u043e\u043b\u0438-\u041f\u0438\u0447\u0435\u043d\u043e"
+        },
+        "extra": {
+            "wikidata": "Q16117",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": "IT-AT",
+        "osm_id": 43267,
+        "osm_place_id": 282316562,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Asti",
+        "name_eng": "Asti",
+        "name_translations": {
+            "ru": "\u0410\u0441\u0442\u0438"
+        },
+        "extra": {
+            "wikidata": "Q15099",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": "IT-AV",
+        "osm_id": 40715,
+        "osm_place_id": 281791055,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Avellino",
+        "name_eng": "Avellino",
+        "name_translations": {
+            "ru": "\u0410\u0432\u0435\u043b\u043b\u0438\u043d\u043e"
+        },
+        "extra": {
+            "wikidata": "Q16120",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": "IT-BA",
+        "osm_id": 40707,
+        "osm_place_id": 281763634,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Bari",
+        "name_eng": "Bari",
+        "name_translations": {
+            "ar": "\u0628\u0627\u0631\u064a",
+            "fa": "\u0628\u0627\u0631\u06cc",
+            "ks": "\u0628\u0627\u0631\u06cc",
+            "ru": "\u0411\u0430\u0440\u0438",
+            "ur": "\u0628\u0627\u0631\u06cc"
+        },
+        "extra": {
+            "wikidata": "Q18241854",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": "IT-BT",
+        "osm_id": 2203582,
+        "osm_place_id": 282796565,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Barletta-Andria-Trani",
+        "name_eng": "Barletta-Andria-Trani",
+        "name_translations": {
+            "ar": "\u0628\u0627\u0631\u0644\u064a\u062a\u0627 \u0623\u0646\u062f\u0631\u064a\u0627 \u062a\u0631\u0627\u0646\u064a",
+            "ru": "\u0411\u0430\u0440\u043b\u0435\u0442\u0442\u0430-\u0410\u043d\u0434\u0440\u0438\u044f-\u0422\u0440\u0430\u043d\u0438"
+        },
+        "extra": {
+            "wikidata": "Q16124",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": "IT-77",
+        "osm_id": 40137,
+        "osm_place_id": 281809467,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Basilicata",
+        "name_eng": "Basilicata",
+        "name_translations": {
+            "be": "\u0411\u0430\u0437\u0456\u043b\u0456\u043a\u0430\u0442\u0430",
+            "ca": "Basilicata",
+            "cs": "Basilicata",
+            "de": "Basilikata",
+            "en": "Basilicata",
+            "eo": "Basilikato",
+            "fr": "Basilicate",
+            "it": "Basilicata",
+            "ja": "\u30d0\u30b8\u30ea\u30ab\u30fc\u30bf\u5dde",
+            "nl": "Basilicata",
+            "pl": "Basilicata",
+            "ru": "\u0411\u0430\u0437\u0438\u043b\u0438\u043a\u0430\u0442\u0430",
+            "sc": "Basilicata",
+            "sl": "Bazilikata",
+            "sr": "\u0411\u0430\u0437\u0438\u043b\u0438\u043a\u0430\u0442\u0430",
+            "uk": "\u0411\u0430\u0437\u0438\u043b\u0456\u043a\u0430\u0442\u0430",
+            "fur": "Lucanie"
+        },
+        "extra": {
+            "wikidata": "Q1452",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": null,
+        "osm_id": 46429,
+        "osm_place_id": 282322843,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Belluno",
+        "name_eng": "Belluno",
+        "name_translations": {
+            "ru": "\u0411\u0435\u043b\u043b\u0443\u043d\u043e"
+        },
+        "extra": {
+            "wikidata": "Q16126",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": "IT-BN",
+        "osm_id": 40973,
+        "osm_place_id": 282313799,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Benevento",
+        "name_eng": "Benevento",
+        "name_translations": {
+            "ca": "Prov\u00edncia de Benevent",
+            "de": "Benevent",
+            "it": "Benevento",
+            "la": "Beneventum",
+            "ru": "\u0411\u0435\u043d\u0435\u0432\u0435\u043d\u0442\u043e"
+        },
+        "extra": {
+            "wikidata": "Q16134",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": "IT-BG",
+        "osm_id": 44996,
+        "osm_place_id": 281947802,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Bergamo",
+        "name_eng": "Bergamo",
+        "name_translations": {
+            "ca": "Prov\u00edncia de B\u00e8rgam",
+            "es": "B\u00e9rgamo",
+            "fr": "Bergame",
+            "it": "Bergamo",
+            "pt": "B\u00e9rgamo",
+            "ru": "\u0411\u0435\u0440\u0433\u0430\u043c\u043e",
+            "zh": "\u8d1d\u5c14\u52a0\u83ab",
+            "lmo": "Berghem"
+        },
+        "extra": {
+            "wikidata": "Q16137",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": "IT-BI",
+        "osm_id": 44913,
+        "osm_place_id": 281813376,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Biella",
+        "name_eng": "Biella",
+        "name_translations": {
+            "fr": "Bielle",
+            "it": "Biella"
+        },
+        "extra": {
+            "wikidata": "Q15094",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": "IT-BO",
+        "osm_id": 42856,
+        "osm_place_id": 281872587,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Bologna",
+        "name_eng": "Bologna",
+        "name_translations": {
+            "ca": "Bolonya",
+            "ja": "\u30dc\u30ed\u30fc\u30cb\u30e3",
+            "pl": "Bolonia",
+            "ru": "\u0411\u043e\u043b\u043e\u043d\u044c\u044f"
+        },
+        "extra": {
+            "wikidata": "Q18288145",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": null,
+        "osm_id": 47046,
+        "osm_place_id": 281699019,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Bolzano - Bozen",
+        "name_eng": "South Tyrol",
+        "name_translations": {
+            "ca": "Tirol del Sud",
+            "de": "Bozen",
+            "en": "South Tyrol",
+            "fr": "Haut-Adige",
+            "hu": "Bolzano\/Bozen auton\u00f3m megye",
+            "it": "Bolzano",
+            "ru": "\u0411\u043e\u043b\u044c\u0446\u0430\u043d\u043e - \u0411\u043e\u0446\u0435\u043d",
+            "sl": "Zgornje Poadi\u017eje"
+        },
+        "extra": {
+            "wikidata": "Q15124",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": null,
+        "osm_id": 44882,
+        "osm_place_id": 281812587,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Brescia",
+        "name_eng": "Brescia",
+        "name_translations": {
+            "it": "Brescia",
+            "la": "Brixia",
+            "ru": "\u0411\u0440\u0435\u0448\u0438\u0430",
+            "zh": "\u5e03\u96f7\u897f\u4e9a"
+        },
+        "extra": {
+            "wikidata": "Q16144",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": null,
+        "osm_id": 40485,
+        "osm_place_id": 281692710,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Brindisi",
+        "name_eng": "Brindisi",
+        "name_translations": {
+            "ar": "\u0623\u0628\u0631\u0646\u0637\u0633",
+            "fa": "\u0628\u0631\u06cc\u0646\u062f\u06cc\u0632\u06cc",
+            "ru": "\u0411\u0440\u0438\u043d\u0434\u0438\u0437\u0438",
+            "ur": "\u0628\u0631\u06cc\u0646\u062f\u06cc\u0632\u06cc"
+        },
+        "extra": {
+            "wikidata": "Q16148",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": "IT-CA",
+        "osm_id": 276369,
+        "osm_place_id": 281914333,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Cagliari",
+        "name_eng": "Cagliari",
+        "name_translations": {
+            "ca": "Prov\u00edncia de C\u00e0ller",
+            "el": "\u039a\u03ac\u03bb\u03b9\u03b1\u03c1\u03b9",
+            "es": "Cagliari",
+            "fr": "Cagliari",
+            "it": "Cagliari",
+            "ru": "\u041a\u0430\u043b\u044c\u044f\u0440\u0438",
+            "sc": "Casteddu"
+        },
+        "extra": {
+            "wikidata": "Q3622022",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": "IT-78",
+        "osm_id": 1783980,
+        "osm_place_id": 282261612,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Calabria",
+        "name_eng": "Calabria",
+        "name_translations": {
+            "ar": "\u0642\u0644\u0648\u0631\u064a\u0629",
+            "be": "\u041a\u0430\u043b\u0430\u0431\u0440\u044b\u044f",
+            "ca": "Cal\u00e0bria",
+            "cs": "Kal\u00e1brie",
+            "de": "Kalabrien",
+            "el": "\u039a\u03b1\u03bb\u03b1\u03b2\u03c1\u03af\u03b1",
+            "en": "Calabria",
+            "eo": "Kalabrio",
+            "fa": "\u06a9\u0627\u0644\u0627\u0628\u0631\u06cc\u0627",
+            "fr": "Calabre",
+            "hu": "Calabria",
+            "it": "Calabria",
+            "ja": "\u30ab\u30e9\u30d6\u30ea\u30a2\u5dde",
+            "la": "Brutium",
+            "lt": "Kalabrija",
+            "nl": "Calabri\u00eb",
+            "pl": "Kalabria",
+            "pt": "Cal\u00e1bria",
+            "ru": "\u041a\u0430\u043b\u0430\u0431\u0440\u0438\u044f",
+            "sc": "Cal\u00e0bria",
+            "sk": "Kal\u00e1bria",
+            "sl": "Kalabrija",
+            "sr": "\u041a\u0430\u043b\u0430\u0431\u0440\u0438\u0458\u0430",
+            "uk": "\u041a\u0430\u043b\u0430\u0431\u0440\u0456\u044f",
+            "ur": "\u06a9\u0644\u0627\u0628\u0631\u06cc\u0627",
+            "fur": "Calabrie",
+            "scn": "Calabbr\u00ee",
+            "zh-Hans": "\u5361\u62c9\u5e03\u91cc\u4e9a\u5927\u533a",
+            "zh-Hant": "\u5361\u62c9\u5e03\u91cc\u4e9e\u5927\u5340"
+        },
+        "extra": {
+            "wikidata": "Q1458",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": "IT-CL",
+        "osm_id": 39178,
+        "osm_place_id": 281783430,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Caltanissetta",
+        "name_eng": "Caltanissetta",
+        "name_translations": {
+            "ar": "\u0642\u0644\u0639\u0629 \u0627\u0644\u0646\u0633\u0627\u0621",
+            "el": "\u039a\u03b1\u03bb\u03c4\u03b1\u03bd\u03b9\u03c3\u03ad\u03c4\u03c4\u03b1",
+            "ru": "\u041a\u0430\u043b\u044c\u0442\u0430\u043d\u0438\u0441\u0441\u0435\u0442\u0442\u0430",
+            "zh": "\u5361\u723e\u5854\u5c3c\u585e\u5854",
+            "scn": "Nissa"
+        },
+        "extra": {
+            "wikidata": "Q26160410",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": "IT-72",
+        "osm_id": 40218,
+        "osm_place_id": 281771983,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Campania",
+        "name_eng": "Campania",
+        "name_translations": {
+            "be": "\u041a\u0430\u043c\u043f\u0430\u043d\u0456\u044f",
+            "ca": "Camp\u00e0nia",
+            "cs": "Kamp\u00e1nie",
+            "de": "Kampanien",
+            "en": "Campania",
+            "eo": "Kampanio",
+            "fr": "Campanie",
+            "hu": "Campania",
+            "it": "Campania",
+            "ja": "\u30ab\u30f3\u30d1\u30cb\u30a2\u5dde",
+            "lt": "Kampanija",
+            "nl": "Campania",
+            "pl": "Kampania",
+            "ru": "\u041a\u0430\u043c\u043f\u0430\u043d\u0438\u044f",
+            "sc": "Camp\u00e0nia",
+            "sk": "Kamp\u00e1nia",
+            "sl": "Kampanija",
+            "sr": "\u041a\u0430\u043c\u043f\u0430\u043d\u0438\u0458\u0430",
+            "uk": "\u041a\u0430\u043c\u043f\u0430\u043d\u0456\u044f"
+        },
+        "extra": {
+            "wikidata": "Q1438",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": "IT-CB",
+        "osm_id": 41255,
+        "osm_place_id": 281801456,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Campobasso",
+        "name_eng": "Campobasso",
+        "name_translations": {
+            "ca": "Prov\u00edncia de Campobasso",
+            "ru": "\u041a\u0430\u043c\u043f\u043e\u0431\u0430\u0441\u0441\u043e"
+        },
+        "extra": {
+            "wikidata": "Q16151",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": "IT-CE",
+        "osm_id": 40940,
+        "osm_place_id": 282181731,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Caserta",
+        "name_eng": "Caserta",
+        "name_translations": {
+            "ru": "\u041a\u0430\u0437\u0435\u0440\u0442\u0430"
+        },
+        "extra": {
+            "wikidata": "Q16153",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": "IT-CT",
+        "osm_id": 39181,
+        "osm_place_id": 281767143,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Catania",
+        "name_eng": "Catania",
+        "name_translations": {
+            "ar": "\u0642\u0637\u0627\u0646\u064a\u0629",
+            "be": "\u041a\u0430\u0442\u0430\u043d\u0456\u044f",
+            "ca": "Cat\u00e0nia",
+            "el": "\u039a\u03b1\u03c4\u03ac\u03bd\u03b9\u03b1",
+            "es": "Catania",
+            "fi": "Catania",
+            "fr": "Catane",
+            "he": "\u05e7\u05d8\u05e0\u05d9\u05d4",
+            "it": "Catania",
+            "la": "Catina",
+            "pl": "Katania",
+            "pt": "Cat\u00e2nia",
+            "ru": "\u041a\u0430\u0442\u0430\u043d\u0438\u044f",
+            "uk": "\u041a\u0430\u0442\u0430\u043d\u0456\u044f",
+            "zh": "\u5361\u5854\u5c3c\u4e9e"
+        },
+        "extra": {
+            "wikidata": "Q20991246",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": "IT-CZ",
+        "osm_id": 39637,
+        "osm_place_id": 281667216,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Catanzaro",
+        "name_eng": "Catanzaro",
+        "name_translations": {
+            "ar": "\u0642\u0637\u0646\u0635\u0627\u0631",
+            "fa": "\u0642\u0637\u0646\u0635\u0627\u0631",
+            "ru": "\u041a\u0430\u0442\u0430\u043d\u0434\u0437\u0430\u0440\u043e",
+            "ur": "\u0642\u0637\u0646\u0635\u0627\u0631"
+        },
+        "extra": {
+            "wikidata": "Q16159",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": "IT-CH",
+        "osm_id": 41542,
+        "osm_place_id": 281664426,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Chieti",
+        "name_eng": "Chieti",
+        "name_translations": {
+            "ru": "\u041a\u044c\u0435\u0442\u0438"
+        },
+        "extra": {
+            "wikidata": "Q16160",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": null,
+        "osm_id": 45614,
+        "osm_place_id": 281987615,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Como",
+        "name_eng": "Como",
+        "name_translations": {
+            "fr": "C\u00f4me",
+            "it": "Como"
+        },
+        "extra": {
+            "wikidata": "Q16161",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": "IT-CS",
+        "osm_id": 39788,
+        "osm_place_id": 281938854,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Cosenza",
+        "name_eng": "Cosenza",
+        "name_translations": {
+            "ar": "\u0643\u0634\u0646\u062a\u0629",
+            "fa": "\u06a9\u0632\u0646\u062a\u0632\u0627",
+            "ru": "\u041a\u043e\u0437\u0435\u043d\u0446\u0430",
+            "ur": "\u06a9\u0648\u0632\u06cc\u0646\u062a\u0633\u0627"
+        },
+        "extra": {
+            "wikidata": "Q16162",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": null,
+        "osm_id": 43893,
+        "osm_place_id": 281778137,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Cremona",
+        "name_eng": "Cremona",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q16163",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": "IT-KR",
+        "osm_id": 39748,
+        "osm_place_id": 282082828,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Crotone",
+        "name_eng": "Crotone",
+        "name_translations": {
+            "ar": "\u0643\u0631\u0648\u062a\u0648\u0646\u0647",
+            "fa": "\u06a9\u0631\u0648\u062a\u0648\u0646",
+            "lt": "Kroton\u0117",
+            "ru": "\u041a\u0440\u043e\u0442\u043e\u043d\u0435",
+            "ur": "\u06a9\u0631\u0648\u062a\u0648\u0646\u06d2"
+        },
+        "extra": {
+            "wikidata": "Q16165",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": "IT-CN",
+        "osm_id": 42845,
+        "osm_place_id": 281884516,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Cuneo",
+        "name_eng": "Cuneo",
+        "name_translations": {
+            "ar": "\u0643\u0648\u0646\u064a\u0648",
+            "fa": "\u06a9\u0648\u0646\u06cc\u0648",
+            "fr": "Coni",
+            "ks": "\u06a9\u0648\u0646\u06cc\u0648",
+            "oc": "Coni",
+            "ru": "\u041a\u0443\u043d\u0435\u043e",
+            "ur": "\u06a9\u0648\u0646\u06cc\u0648",
+            "azb": "\u06a9\u0648\u0646\u06cc\u0648",
+            "pnb": "\u06a9\u06cc\u0648\u0646\u06cc\u0648"
+        },
+        "extra": {
+            "wikidata": "Q15091",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": "IT-45",
+        "osm_id": 42611,
+        "osm_place_id": 282370116,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Emilia-Romagna",
+        "name_eng": "Emilia-Romagna",
+        "name_translations": {
+            "be": "\u042d\u043c\u0456\u043b\u0456\u044f-\u0420\u0430\u043c\u0430\u043d\u044c\u044f",
+            "ca": "Em\u00edlia-Romanya",
+            "cs": "Emilia-Romagna",
+            "en": "Emilia-Romagna",
+            "eo": "Emilio-Romanjo",
+            "es": "Emilia-Roma\u00f1a",
+            "fi": "Emilia-Romagna",
+            "fr": "\u00c9milie-Romagne",
+            "he": "\u05d0\u05de\u05d9\u05dc\u05d9\u05d4-\u05e8\u05d5\u05de\u05d0\u05e0\u05d9\u05d4",
+            "hu": "Emilia-Romagna",
+            "it": "Emilia-Romagna",
+            "ja": "\u30a8\u30df\u30ea\u30a2\uff1d\u30ed\u30de\u30fc\u30cb\u30e3\u5dde",
+            "lt": "Emilija-Romanija",
+            "nl": "Emilia-Romagna",
+            "pl": "Emilia-Romania",
+            "ru": "\u042d\u043c\u0438\u043b\u0438\u044f-\u0420\u043e\u043c\u0430\u043d\u044c\u044f",
+            "sc": "Em\u00eclia-Romagna",
+            "sl": "Emilija - Romanja",
+            "uk": "\u0415\u043c\u0456\u043b\u0456\u044f-\u0420\u043e\u043c\u0430\u043d\u044c\u044f",
+            "egl": "Em\u00e9lia-Rum\u00e0gna",
+            "scn": "Emilia-Rumagna"
+        },
+        "extra": {
+            "wikidata": "Q1263",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": "IT-EN",
+        "osm_id": 39216,
+        "osm_place_id": 281751991,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Enna",
+        "name_eng": "Enna",
+        "name_translations": {
+            "ru": "\u042d\u043d\u043d\u0430",
+            "zh": "\u6069\u7eb3",
+            "scn": "Castrugiuvanni"
+        },
+        "extra": {
+            "wikidata": "Q26160408",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": "IT-FM",
+        "osm_id": 907991,
+        "osm_place_id": 282043162,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Fermo",
+        "name_eng": "Fermo",
+        "name_translations": {
+            "it": "Fermo",
+            "ru": "\u0424\u0435\u0440\u043c\u043e"
+        },
+        "extra": {
+            "wikidata": "Q16167",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": "IT-FE",
+        "osm_id": 43292,
+        "osm_place_id": 281706301,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Ferrara",
+        "name_eng": "Ferrara",
+        "name_translations": {
+            "ru": "\u0424\u0435\u0440\u0440\u0430\u0440\u0430",
+            "egl": "Fr\u00e0ra"
+        },
+        "extra": {
+            "wikidata": "Q16168",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": "IT-FI",
+        "osm_id": 42472,
+        "osm_place_id": 281669646,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Firenze",
+        "name_eng": "Metropolitan City of Florence",
+        "name_translations": {
+            "ca": "Ciutat metropolit\u00e0 de Flor\u00e8ncia",
+            "en": "Metropolitan City of Florence",
+            "es": "Ciudad Metropolitana de Florencia",
+            "gl": "Cidade metropolitana de Florencia",
+            "it": "Citt\u00e0 metropolitana di Firenze",
+            "ru": "\u0424\u043b\u043e\u0440\u0435\u043d\u0446\u0438\u044f"
+        },
+        "extra": {
+            "wikidata": "Q18288148",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": "IT-FG",
+        "osm_id": 41093,
+        "osm_place_id": 282158377,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Foggia",
+        "name_eng": "Foggia",
+        "name_translations": {
+            "ar": "\u0641\u0648\u062c\u0627",
+            "ca": "Prov\u00edncia de Foggia",
+            "it": "Foggia",
+            "lt": "Fod\u017eos provincija",
+            "ru": "\u0424\u043e\u0434\u0436\u0430"
+        },
+        "extra": {
+            "wikidata": "Q15129",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": "IT-FC",
+        "osm_id": 42609,
+        "osm_place_id": 281942783,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Forl\u00ec-Cesena",
+        "name_eng": "Forl\u00ec-Cesena",
+        "name_translations": {
+            "ca": "Prov\u00edncia de Forl\u00ec-Cesena",
+            "ru": "\u0424\u043e\u0440\u043b\u0438-\u0427\u0435\u0437\u0435\u043d\u0430"
+        },
+        "extra": {
+            "wikidata": "Q16180",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": "IT-36",
+        "osm_id": 179296,
+        "osm_place_id": 281936248,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Friuli-Venezia Giulia",
+        "name_eng": "Friuli-Venezia Giulia",
+        "name_translations": {
+            "ca": "Fri\u00fcl - Ven\u00e8cia J\u00falia",
+            "cs": "Furlansko-Julsk\u00e9 Ben\u00e1tsko",
+            "de": "Friaul-Julisch Venetien",
+            "en": "Friuli-Venezia Giulia",
+            "eo": "Friulo-Venecio Julia",
+            "es": "Friuli-Venecia Julia",
+            "fr": "Frioul-V\u00e9n\u00e9tie julienne",
+            "hu": "Friuli-Venezia Giulia",
+            "ja": "\u30d5\u30ea\u30a6\u30ea\uff1d\u30f4\u30a7\u30cd\u30c4\u30a3\u30a2\u30fb\u30b8\u30e5\u30ea\u30a2\u5dde",
+            "nl": "Friuli-Venezia Giulia",
+            "pl": "Friuli-Wenecja Julijska",
+            "pt": "Friul-Veneza J\u00falia",
+            "ro": "Friuli-Vene\u021bia Giulia",
+            "ru": "\u0424\u0440\u0438\u0443\u043b\u0438-\u0412\u0435\u043d\u0435\u0446\u0438\u044f-\u0414\u0436\u0443\u043b\u0438\u044f",
+            "sc": "Friuli-Ven\u00e8tzia Gi\u00f9lia",
+            "sk": "Furlansko-J\u00falske Ben\u00e1tky",
+            "sl": "Furlanija - Julijska krajina",
+            "fur": "Fri\u00fbl Vignesie Julie"
+        },
+        "extra": {
+            "wikidata": "Q1250",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": "IT-FR",
+        "osm_id": 41223,
+        "osm_place_id": 281752310,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Frosinone",
+        "name_eng": "Frosinone",
+        "name_translations": {
+            "ru": "\u0424\u0440\u043e\u0437\u0438\u043d\u043e\u043d\u0435"
+        },
+        "extra": {
+            "wikidata": "Q16181",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": null,
+        "osm_id": 49135,
+        "osm_place_id": 282020717,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Genova",
+        "name_eng": "Genoa",
+        "name_translations": {
+            "ar": "\u062c\u0646\u0648\u0629",
+            "ca": "G\u00e8nova",
+            "de": "Genua",
+            "en": "Genoa",
+            "es": "G\u00e9nova",
+            "fa": "\u062c\u0646\u0648\u0627",
+            "fr": "G\u00eanes",
+            "gl": "X\u00e9nova",
+            "nl": "Genua",
+            "oc": "G\u00e8noa",
+            "pl": "Genua",
+            "pt": "G\u00e9nova",
+            "ru": "\u0413\u0435\u043d\u0443\u044f",
+            "sl": "Genova",
+            "zh": "\u70ed\u90a3\u4e9a",
+            "ast": "X\u00e9nova",
+            "lij": "Zena"
+        },
+        "extra": {
+            "wikidata": "Q18288152",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": null,
+        "osm_id": 179294,
+        "osm_place_id": 321145366,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Gorizia",
+        "name_eng": "Gorizia",
+        "name_translations": {
+            "it": "Gorizia",
+            "sl": "Gori\u0161ka"
+        },
+        "extra": {
+            "wikidata": "Q106917383",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": null,
+        "osm_id": 41976,
+        "osm_place_id": 281666967,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Grosseto",
+        "name_eng": "Grosseto",
+        "name_translations": {
+            "ru": "\u0413\u0440\u043e\u0441\u0441\u0435\u0442\u043e"
+        },
+        "extra": {
+            "wikidata": "Q16185",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": "IT-IM",
+        "osm_id": 42628,
+        "osm_place_id": 281883227,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Imperia",
+        "name_eng": "Imperia",
+        "name_translations": {
+            "fr": "Imperia",
+            "it": "Imperia",
+            "ru": "\u0418\u043c\u043f\u0435\u0440\u0438\u044f"
+        },
+        "extra": {
+            "wikidata": "Q16186",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": "IT-IS",
+        "osm_id": 41277,
+        "osm_place_id": 281697458,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Isernia",
+        "name_eng": "Isernia",
+        "name_translations": {
+            "ru": "\u0418\u0437\u0435\u0440\u043d\u0438\u044f"
+        },
+        "extra": {
+            "wikidata": "Q16187",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": null,
+        "osm_id": 99871616,
+        "osm_place_id": null,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Isola del Campo",
+        "name_eng": "Isola del Campo",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": null,
+        "osm_id": 10271929,
+        "osm_place_id": null,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Isola del Caparrone",
+        "name_eng": "Isola del Caparrone",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": null,
+        "osm_id": 27970423,
+        "osm_place_id": null,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Isola della Chianca",
+        "name_eng": "Isola della Chianca",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": null,
+        "osm_id": 10271946,
+        "osm_place_id": null,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Isola della Malva",
+        "name_eng": "Isola della Malva",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": null,
+        "osm_id": 10271945,
+        "osm_place_id": null,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Isola della Scogliera",
+        "name_eng": "Isola della Scogliera",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": null,
+        "osm_id": 27970127,
+        "osm_place_id": null,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Isola di Campi",
+        "name_eng": "Isola di Campi",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": null,
+        "osm_id": 99869345,
+        "osm_place_id": null,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Isola di Sant'Andrea",
+        "name_eng": "Isola di Sant'Andrea",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q3803074"
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": "IT-AQ",
+        "osm_id": 167044,
+        "osm_place_id": 281817218,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "L'Aquila",
+        "name_eng": "L'Aquila",
+        "name_translations": {
+            "el": "\u039b' \u0386\u03ba\u03bf\u03c5\u03b9\u03bb\u03b1",
+            "ru": "\u041b'\u0410\u043a\u0443\u0438\u043b\u0430"
+        },
+        "extra": {
+            "wikidata": "Q16189",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": "IT-SP",
+        "osm_id": 49131,
+        "osm_place_id": 281764335,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "La Spezia",
+        "name_eng": "La Spezia",
+        "name_translations": {
+            "fr": "La Spezia",
+            "ru": "\u0421\u043f\u0435\u0446\u0438\u044f",
+            "zh": "\u62c9\u65af\u4f69\u9f50\u4e9a",
+            "lij": "Sp\u00e8za"
+        },
+        "extra": {
+            "wikidata": "Q16188",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": "IT-LT",
+        "osm_id": 40783,
+        "osm_place_id": 282157421,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Latina",
+        "name_eng": "Latina",
+        "name_translations": {
+            "ca": "Prov\u00edncia de Latina",
+            "ru": "\u041b\u0430\u0442\u0438\u043d\u0430"
+        },
+        "extra": {
+            "wikidata": "Q16196",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": "IT-62",
+        "osm_id": 40784,
+        "osm_place_id": 281674227,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Lazio",
+        "name_eng": "Lazio",
+        "name_translations": {
+            "ar": "\u0644\u0627\u062a\u0633\u064a\u0648",
+            "be": "\u041b\u0430\u0446\u044b\u0451",
+            "br": "Latiom",
+            "ca": "Laci",
+            "cs": "Lazio",
+            "de": "Latium",
+            "en": "Lazio",
+            "eo": "Latio",
+            "es": "Lacio",
+            "fa": "\u0644\u0627\u062a\u0632\u06cc\u0648",
+            "fr": "Latium",
+            "hu": "Lazio",
+            "it": "Lazio",
+            "ja": "\u30e9\u30c4\u30a3\u30aa\u5dde",
+            "lt": "Lacijus",
+            "nl": "Lazio",
+            "pl": "Lacjum",
+            "ru": "\u041b\u0430\u0446\u0438\u043e",
+            "sc": "L\u00e0tziu",
+            "sl": "Lacij",
+            "sr": "\u041b\u0430\u0446\u0438\u043e",
+            "uk": "\u041b\u0430\u0446\u0456\u043e",
+            "ur": "\u0644\u0627\u062a\u0632\u06cc\u0648",
+            "zh": "\u62c9\u9f50\u5965\u5927\u533a",
+            "scn": "Lazziu"
+        },
+        "extra": {
+            "wikidata": "Q1282",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": "IT-LE",
+        "osm_id": 40094,
+        "osm_place_id": 281766721,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Lecce",
+        "name_eng": "Lecce",
+        "name_translations": {
+            "ar": "\u0644\u062a\u0634\u0647",
+            "fa": "\u0644\u0686\u0647",
+            "ru": "\u041b\u0435\u0447\u0447\u0435",
+            "ur": "\u0644\u06cc\u0686\u06c1"
+        },
+        "extra": {
+            "wikidata": "Q16197",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": null,
+        "osm_id": 45639,
+        "osm_place_id": 282226634,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Lecco",
+        "name_eng": "Lecco",
+        "name_translations": {
+            "fr": "Lecco",
+            "it": "Lecco",
+            "lmo": "Lecch"
+        },
+        "extra": {
+            "wikidata": "Q16199",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": "IT-42",
+        "osm_id": 301482,
+        "osm_place_id": 282333091,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Liguria",
+        "name_eng": "Liguria",
+        "name_translations": {
+            "be": "\u041b\u0456\u0433\u0443\u0440\u044b\u044f",
+            "ca": "Lig\u00faria",
+            "cs": "Ligurie",
+            "de": "Ligurien",
+            "en": "Liguria",
+            "eo": "Ligurio",
+            "fi": "Liguria",
+            "fr": "Ligurie",
+            "hu": "Liguria",
+            "it": "Liguria",
+            "ja": "\u30ea\u30b0\u30fc\u30ea\u30a2\u5dde",
+            "nl": "Liguri\u00eb",
+            "pl": "Liguria",
+            "pt": "Lig\u00faria",
+            "ru": "\u041b\u0438\u0433\u0443\u0440\u0438\u044f",
+            "sc": "Lig\u00f9ria",
+            "sk": "Lig\u00faria",
+            "sl": "Ligurija",
+            "sv": "Ligurien",
+            "uk": "\u041b\u0456\u0433\u0443\u0440\u0456\u044f",
+            "lfn": "Liguria"
+        },
+        "extra": {
+            "wikidata": "Q1256",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": null,
+        "osm_id": 42147,
+        "osm_place_id": 282160264,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Livorno",
+        "name_eng": "Livorno",
+        "name_translations": {
+            "ru": "\u041b\u0438\u0432\u043e\u0440\u043d\u043e"
+        },
+        "extra": {
+            "wikidata": "Q16200",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": null,
+        "osm_id": 44181,
+        "osm_place_id": 282091184,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Lodi",
+        "name_eng": "Lodi",
+        "name_translations": {
+            "fr": "Lodi",
+            "ru": "\u041b\u043e\u0434\u0438",
+            "zh": "\u6d1b\u8fea"
+        },
+        "extra": {
+            "wikidata": "Q16201",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": "IT-25",
+        "osm_id": 44879,
+        "osm_place_id": 282319824,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Lombardia",
+        "name_eng": "Lombardy",
+        "name_translations": {
+            "be": "\u041b\u0430\u043c\u0431\u0430\u0440\u0434\u044b\u044f",
+            "br": "Lombardia",
+            "ca": "Llombardia",
+            "cs": "Lombardie",
+            "de": "Lombardei",
+            "en": "Lombardy",
+            "eo": "Lombardio",
+            "es": "Lombard\u00eda",
+            "fi": "Lombardia",
+            "fr": "Lombardie",
+            "hu": "Lombardia",
+            "it": "Lombardia",
+            "ja": "\u30ed\u30f3\u30d0\u30eb\u30c7\u30a3\u30a2\u5dde",
+            "lt": "Lombardija",
+            "nl": "Lombardije",
+            "pl": "Lombardia",
+            "ru": "\u041b\u043e\u043c\u0431\u0430\u0440\u0434\u0438\u044f",
+            "sc": "Lombardia",
+            "sk": "Lombardia",
+            "sl": "Lombardija",
+            "uk": "\u041b\u043e\u043c\u0431\u0430\u0440\u0434\u0456\u044f",
+            "lfn": "Lombardia",
+            "lmo": "Lombardia",
+            "scn": "Lummardia",
+            "tzl": "Lumpard\u00ec"
+        },
+        "extra": {
+            "wikidata": "Q1210",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": null,
+        "osm_id": 42614,
+        "osm_place_id": 282183594,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Lucca",
+        "name_eng": "Lucca",
+        "name_translations": {
+            "ru": "\u041b\u0443\u043a\u043a\u0430"
+        },
+        "extra": {
+            "wikidata": "Q16202",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": "IT-MC",
+        "osm_id": 42212,
+        "osm_place_id": 282132717,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Macerata",
+        "name_eng": "Macerata",
+        "name_translations": {
+            "it": "Macerata",
+            "ru": "\u041c\u0430\u0447\u0435\u0440\u0430\u0442\u0430"
+        },
+        "extra": {
+            "wikidata": "Q16203",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": null,
+        "osm_id": 43798,
+        "osm_place_id": 282192585,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Mantova",
+        "name_eng": "Mantua",
+        "name_translations": {
+            "ar": "\u0645\u0627\u0646\u062a\u0648\u0641\u0627",
+            "ca": "Prov\u00edncia de M\u00e0ntua",
+            "de": "Mantua",
+            "en": "Mantua",
+            "es": "Mantua",
+            "fr": "Mantoue",
+            "it": "Mantova",
+            "la": "Mantua",
+            "nl": "Mantua",
+            "pl": "Mantua",
+            "ru": "\u041c\u0430\u043d\u0442\u0443\u044f",
+            "zh": "\u66fc\u6258\u74e6",
+            "vec": "M\u00e0ntoa"
+        },
+        "extra": {
+            "wikidata": "Q16204",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": "IT-57",
+        "osm_id": 53060,
+        "osm_place_id": 281702890,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Marche",
+        "name_eng": "Marche",
+        "name_translations": {
+            "be": "\u041c\u0430\u0440\u043a\u0435",
+            "ca": "Marques",
+            "cs": "Marche",
+            "de": "Marken",
+            "en": "Marche",
+            "eo": "Markio",
+            "es": "Marcas",
+            "fr": "Marches",
+            "hu": "Marche",
+            "it": "Marche",
+            "ja": "\u30de\u30eb\u30b1\u5dde",
+            "lt": "Mark\u0117",
+            "nl": "Marken",
+            "pl": "Marche",
+            "pt": "Marcas",
+            "ru": "\u041c\u0430\u0440\u043a\u0435",
+            "sc": "Marcas",
+            "sk": "Marky",
+            "sl": "Marke",
+            "uk": "\u041c\u0430\u0440\u043a\u0435",
+            "scn": "Marchi"
+        },
+        "extra": {
+            "wikidata": "Q1279",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": "IT-MS",
+        "osm_id": 42782,
+        "osm_place_id": 281671985,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Massa-Carrara",
+        "name_eng": "Massa-Carrara",
+        "name_translations": {
+            "de": "Massa-Carrara",
+            "ru": "\u041c\u0430\u0441\u0441\u0430-\u041a\u0430\u0440\u0440\u0430\u0440\u0430"
+        },
+        "extra": {
+            "wikidata": "Q16205",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": "IT-MT",
+        "osm_id": 40259,
+        "osm_place_id": 282129042,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Matera",
+        "name_eng": "Matera",
+        "name_translations": {
+            "ar": "\u0645\u0627\u062a\u064a\u0631\u0627",
+            "fa": "\u0645\u0627\u062a\u0631\u0627",
+            "ru": "\u041c\u0430\u0442\u0435\u0440\u0430",
+            "ur": "\u0645\u0627\u062a\u06cc\u0631\u0627"
+        },
+        "extra": {
+            "wikidata": "Q16206",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": null,
+        "osm_id": 12998775,
+        "osm_place_id": 283494308,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Medio Campidano",
+        "name_eng": "Medio Campidano",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q16207",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": "IT-ME",
+        "osm_id": 39374,
+        "osm_place_id": 281746931,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Messina",
+        "name_eng": "Messina",
+        "name_translations": {
+            "an": "Mecina",
+            "ar": "\u0645\u0633\u064a\u0646\u0629",
+            "be": "\u041c\u0435\u0441\u0456\u043d\u0430",
+            "ca": "Messina",
+            "el": "\u039c\u03b5\u03c3\u03c3\u03ae\u03bd\u03b7",
+            "es": "Mesina",
+            "fr": "Messine",
+            "he": "\u05de\u05e1\u05d9\u05e0\u05d4",
+            "it": "Messina",
+            "ja": "\u30e1\u30c3\u30b7\u30fc\u30ca",
+            "la": "Messana",
+            "lt": "Mesina",
+            "pl": "Mesyna",
+            "ru": "\u041c\u0435\u0441\u0441\u0438\u043d\u0430",
+            "uk": "\u041c\u0435\u0441\u0441\u0456\u043d\u0430",
+            "zh": "\u58a8\u897f\u62ff",
+            "scn": "Missina"
+        },
+        "extra": {
+            "wikidata": "Q20991250",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": null,
+        "osm_id": 44881,
+        "osm_place_id": 281766690,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Milano",
+        "name_eng": "Milan",
+        "name_translations": {
+            "ar": "\u0645\u064a\u0644\u0627\u0646\u0648",
+            "ca": "Mil\u00e0",
+            "cs": "Mil\u00e1n",
+            "de": "Mailand",
+            "en": "Milan",
+            "es": "Mil\u00e1n",
+            "fa": "\u0645\u06cc\u0644\u0627\u0646",
+            "fi": "Milano",
+            "fr": "Milan",
+            "gl": "Mil\u00e1n",
+            "he": "\u05de\u05d9\u05dc\u05e0\u05d5",
+            "hu": "Mil\u00e1n\u00f3",
+            "it": "Milano",
+            "la": "Mediolanum",
+            "lb": "Mailand",
+            "lt": "Milanas",
+            "nl": "Milaan",
+            "pl": "Mediolan",
+            "pt": "Mil\u00e3o",
+            "ru": "\u041c\u0438\u043b\u0430\u043d",
+            "sk": "Mil\u00e1no",
+            "sl": "Milan",
+            "za": "Milaan",
+            "fur": "Milan",
+            "lmo": "Milan"
+        },
+        "extra": {
+            "wikidata": "Q18288155",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": null,
+        "osm_id": 42884,
+        "osm_place_id": 281781042,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Modena",
+        "name_eng": "Modena",
+        "name_translations": {
+            "ca": "Prov\u00edncia de M\u00f2dena",
+            "ru": "\u041c\u043e\u0434\u0435\u043d\u0430",
+            "egl": "Pruv\u00e8insa ed M\u00f2dna"
+        },
+        "extra": {
+            "wikidata": "Q16209",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": "IT-67",
+        "osm_id": 41256,
+        "osm_place_id": 282189066,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Molise",
+        "name_eng": "Molise",
+        "name_translations": {
+            "be": "\u041c\u0430\u043b\u0456\u0437\u044d",
+            "ca": "Molise",
+            "cs": "Molise",
+            "de": "Molise",
+            "el": "\u039c\u03bf\u03bb\u03af\u03b6\u03b5",
+            "en": "Molise",
+            "eo": "Moliso",
+            "es": "Molise",
+            "fr": "Molise",
+            "he": "\u05de\u05d5\u05dc\u05d9\u05d6\u05d4",
+            "hu": "Molise",
+            "it": "Molise",
+            "ja": "\u30e2\u30ea\u30fc\u30bc\u5dde",
+            "lt": "Moliz\u0117",
+            "nl": "Molise",
+            "pl": "Molise",
+            "ru": "\u041c\u043e\u043b\u0438\u0437\u0435",
+            "sc": "Molise",
+            "sl": "Molise",
+            "sr": "\u041c\u043e\u043b\u0438\u0437\u0435",
+            "uk": "\u041c\u043e\u043b\u0456\u0437\u0435",
+            "scn": "Mulisi"
+        },
+        "extra": {
+            "wikidata": "Q1443",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": null,
+        "osm_id": 251419,
+        "osm_place_id": 281894537,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Monza e della Brianza",
+        "name_eng": "Monza and Brianza",
+        "name_translations": {
+            "en": "Monza and Brianza",
+            "fr": "Monza-et-la-Brianza"
+        },
+        "extra": {
+            "wikidata": "Q16210",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": "IT-NA",
+        "osm_id": 40600,
+        "osm_place_id": 282130243,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Napoli",
+        "name_eng": "Napoli",
+        "name_translations": {
+            "ca": "N\u00e0pols",
+            "de": "Metropolitanstadt Neapel",
+            "es": "N\u00e1poles",
+            "hu": "N\u00e1poly megye",
+            "ru": "\u041d\u0430\u043f\u043e\u043b\u0438"
+        },
+        "extra": {
+            "wikidata": "Q18241891",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": null,
+        "osm_id": 12998777,
+        "osm_place_id": 283561576,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Nord-Est Sardegna",
+        "name_eng": "Nord-Est Sardegna",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q106996869",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": "IT-NO",
+        "osm_id": 1552704,
+        "osm_place_id": 282495506,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Novara",
+        "name_eng": "Novara",
+        "name_translations": {
+            "el": "\u039d\u03bf\u03b2\u03ac\u03c1\u03b1",
+            "fr": "Novare",
+            "it": "Novara",
+            "ru": "\u041d\u043e\u0432\u0430\u0440\u0430",
+            "zh": "\u8afe\u74e6\u62c9",
+            "lmo": "Nuara"
+        },
+        "extra": {
+            "wikidata": "Q16216",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": "IT-NU",
+        "osm_id": 39979,
+        "osm_place_id": 282180422,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Nuoro",
+        "name_eng": "Nuoro",
+        "name_translations": {
+            "ca": "Prov\u00edncia de Nuoro",
+            "fr": "Nuoro",
+            "it": "Nuoro",
+            "ru": "\u041d\u0443\u043e\u0440\u043e",
+            "sc": "N\u00f9goro"
+        },
+        "extra": {
+            "wikidata": "Q16220",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": null,
+        "osm_id": 12998778,
+        "osm_place_id": 283443676,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Ogliastra",
+        "name_eng": "Ogliastra",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q16223",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": "IT-PD",
+        "osm_id": 44217,
+        "osm_place_id": 281783208,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Padova",
+        "name_eng": "Padova",
+        "name_translations": {
+            "ar": "\u0628\u0627\u062f\u0648\u0641\u0627",
+            "ca": "Prov\u00edncia de P\u00e0dua",
+            "el": "\u03a0\u03ac\u03b4\u03bf\u03b2\u03b1",
+            "fa": "\u067e\u0627\u062f\u0648\u0648\u0627",
+            "ru": "\u041f\u0430\u0434\u0443\u044f",
+            "ur": "\u067e\u0627\u062f\u0648\u0648\u0627"
+        },
+        "extra": {
+            "wikidata": "Q16226",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": null,
+        "osm_id": 39295,
+        "osm_place_id": 282154062,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Palermo",
+        "name_eng": "Palermo",
+        "name_translations": {
+            "ar": "\u0628\u0644\u0631\u0645",
+            "ca": "Palerm",
+            "de": "Palermo",
+            "el": "\u03a0\u03b1\u03bb\u03ad\u03c1\u03bc\u03bf",
+            "es": "Palermo",
+            "fa": "\u067e\u0627\u0644\u0631\u0645\u0648",
+            "fi": "Palermo",
+            "fr": "Palerme",
+            "he": "\u05e4\u05dc\u05e8\u05de\u05d5",
+            "it": "Palermo",
+            "kn": "\u0caa\u0cb2\u0cc7\u0cb0\u0ccd\u0cae\u0ccb",
+            "la": "Panormus",
+            "lt": "Palermas",
+            "pl": "Palermo",
+            "pt": "Palermo",
+            "ru": "\u041f\u0430\u043b\u0435\u0440\u043c\u043e",
+            "uk": "\u041f\u0430\u043b\u0435\u0440\u043c\u043e",
+            "zh": "\u5df4\u52d2\u83ab",
+            "scn": "Palermu"
+        },
+        "extra": {
+            "wikidata": "Q20795016",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": null,
+        "osm_id": 8433757,
+        "osm_place_id": 283150650,
+        "osm_admin_level": 5,
+        "osm_type": "protected_area",
+        "name_loc": "Parco Primo Maggio",
+        "name_eng": "Parco Primo Maggio",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": null,
+        "osm_id": 8433740,
+        "osm_place_id": 282991994,
+        "osm_admin_level": 5,
+        "osm_type": "protected_area",
+        "name_loc": "Parco San Lorenzo",
+        "name_eng": "Parco San Lorenzo",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": "IT-PR",
+        "osm_id": 43080,
+        "osm_place_id": 282134450,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Parma",
+        "name_eng": "Parma",
+        "name_translations": {
+            "ru": "\u041f\u0430\u0440\u043c\u0430"
+        },
+        "extra": {
+            "wikidata": "Q16228",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": "IT-PV",
+        "osm_id": 43483,
+        "osm_place_id": 282135488,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Pavia",
+        "name_eng": "Pavia",
+        "name_translations": {
+            "es": "Pav\u00eda",
+            "fr": "Pavie",
+            "he": "\u05e4\u05d0\u05d1\u05d9\u05d4",
+            "it": "Pavia",
+            "pl": "Pawia",
+            "ru": "\u041f\u0430\u0432\u0438\u044f",
+            "zh": "\u5e15\u7dad\u4e9e",
+            "ast": "Pav\u00eda"
+        },
+        "extra": {
+            "wikidata": "Q16231",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": "IT-PG",
+        "osm_id": 42106,
+        "osm_place_id": 281677619,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Perugia",
+        "name_eng": "Perugia",
+        "name_translations": {
+            "ca": "Prov\u00edncia de Perusa",
+            "it": "Perugia",
+            "ru": "\u041f\u0435\u0440\u0443\u0434\u0436\u0430"
+        },
+        "extra": {
+            "wikidata": "Q16240",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": "IT-PU",
+        "osm_id": 42455,
+        "osm_place_id": 281701226,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Pesaro e Urbino",
+        "name_eng": "Pesaro e Urbino",
+        "name_translations": {
+            "de": "Pesaro und Urbino",
+            "it": "Pesaro e Urbino",
+            "lt": "Pezaro ir Urbino provincija",
+            "ru": "\u041f\u0435\u0437\u0430\u0440\u043e-\u044d-\u0423\u0440\u0431\u0438\u043d\u043e"
+        },
+        "extra": {
+            "wikidata": "Q16241",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": "IT-PE",
+        "osm_id": 41778,
+        "osm_place_id": 282132078,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Pescara",
+        "name_eng": "Pescara",
+        "name_translations": {
+            "ru": "\u041f\u0435\u0441\u043a\u0430\u0440\u0430"
+        },
+        "extra": {
+            "wikidata": "Q16242",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": null,
+        "osm_id": 43332,
+        "osm_place_id": 281806814,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Piacenza",
+        "name_eng": "Piacenza",
+        "name_translations": {
+            "ca": "Prov\u00edncia de Piacenza",
+            "la": "Placentia",
+            "ru": "\u041f\u044c\u044f\u0447\u0435\u043d\u0446\u0430"
+        },
+        "extra": {
+            "wikidata": "Q16243",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": "IT-21",
+        "osm_id": 44874,
+        "osm_place_id": 282375908,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Piemonte",
+        "name_eng": "Piemont",
+        "name_translations": {
+            "be": "\u041f'\u0435\u043c\u043e\u043d\u0442",
+            "br": "Piemont",
+            "ca": "Piemont",
+            "cs": "Piemont",
+            "de": "Piemont",
+            "en": "Piemont",
+            "eo": "Piemonto",
+            "es": "Piamonte",
+            "fi": "Piemonte",
+            "fr": "Pi\u00e9mont",
+            "hu": "Piemont",
+            "it": "Piemonte",
+            "ja": "\u30d4\u30a8\u30e2\u30f3\u30c6\u5dde",
+            "nl": "Pi\u00ebmont",
+            "pl": "Piemont",
+            "ru": "\u041f\u044c\u0435\u043c\u043e\u043d\u0442",
+            "sc": "Piemonte",
+            "sl": "Piemont",
+            "uk": "\u041f'\u0454\u043c\u043e\u043d\u0442",
+            "lfn": "Piemonte",
+            "scn": "Piemunti"
+        },
+        "extra": {
+            "wikidata": "Q1216",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": null,
+        "osm_id": 42338,
+        "osm_place_id": 281814932,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Pisa",
+        "name_eng": "Pisa",
+        "name_translations": {
+            "fr": "Pise",
+            "it": "Pisa",
+            "ru": "\u041f\u0438\u0437\u0430"
+        },
+        "extra": {
+            "wikidata": "Q16244",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": null,
+        "osm_id": 42637,
+        "osm_place_id": 281797418,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Pistoia",
+        "name_eng": "Pistoia",
+        "name_translations": {
+            "ru": "\u041f\u0438\u0441\u0442\u043e\u044f"
+        },
+        "extra": {
+            "wikidata": "Q16245",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": null,
+        "osm_id": 179293,
+        "osm_place_id": 321145365,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Pordenone",
+        "name_eng": "Pordenone",
+        "name_translations": {
+            "it": "Pordenone",
+            "sl": "Pordenon",
+            "fur": "Pordenon"
+        },
+        "extra": {
+            "wikidata": "Q106917364",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": "IT-PZ",
+        "osm_id": 40136,
+        "osm_place_id": 282312852,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Potenza",
+        "name_eng": "Potenza",
+        "name_translations": {
+            "ca": "Prov\u00edncia de Potenza",
+            "ru": "\u041f\u043e\u0442\u0435\u043d\u0446\u0430"
+        },
+        "extra": {
+            "wikidata": "Q16249",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": "IT-PO",
+        "osm_id": 42619,
+        "osm_place_id": 281804404,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Prato",
+        "name_eng": "Prato",
+        "name_translations": {
+            "ru": "\u041f\u0440\u0430\u0442\u043e"
+        },
+        "extra": {
+            "wikidata": "Q16250",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": null,
+        "osm_id": 45756,
+        "osm_place_id": 282021882,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Provincia di Trento",
+        "name_eng": "Provincia di Trento",
+        "name_translations": {
+            "ca": "Prov\u00edncia de Trento",
+            "de": "Autonome Provinz Trient",
+            "hu": "Trento auton\u00f3m megye",
+            "it": "Provincia di Trento",
+            "ru": "\u0422\u0440\u0435\u043d\u0442\u043e",
+            "cim": "Provintz Tria",
+            "mhn": "Provinz Trea't"
+        },
+        "extra": {
+            "wikidata": "Q16289",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": "IT-75",
+        "osm_id": 40095,
+        "osm_place_id": 281788107,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Puglia",
+        "name_eng": "Apulia",
+        "name_translations": {
+            "ar": "\u0628\u0648\u0644\u064a\u0627",
+            "br": "Puglia",
+            "ca": "Pulla",
+            "cs": "Apulie",
+            "de": "Apulien",
+            "en": "Apulia",
+            "eo": "Apulio",
+            "es": "Apulia",
+            "fa": "\u067e\u0648\u0644\u06cc\u0627",
+            "fi": "Apulia",
+            "fr": "Pouilles",
+            "hu": "Apulia",
+            "it": "Puglia",
+            "ja": "\u30d7\u30c3\u30ea\u30e3\u5dde",
+            "la": "Apulia",
+            "nl": "Apuli\u00eb",
+            "pl": "Apulia",
+            "pt": "Ap\u00falia",
+            "ru": "\u0410\u043f\u0443\u043b\u0438\u044f",
+            "sc": "P\u00f9glia",
+            "sk": "Ap\u00falia",
+            "sl": "Apulija",
+            "ur": "\u067e\u0648\u0644\u06cc\u0627",
+            "scn": "Pugghia"
+        },
+        "extra": {
+            "wikidata": "Q1447",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": "IT-RG",
+        "osm_id": 39157,
+        "osm_place_id": 281758945,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Ragusa",
+        "name_eng": "Ragusa",
+        "name_translations": {
+            "ar": "\u0631\u063a\u0648\u0633",
+            "el": "\u03a1\u03b1\u03b3\u03ba\u03bf\u03cd\u03b6\u03b1",
+            "fr": "Raguse",
+            "it": "Ragusa",
+            "lt": "Rag\u016bza",
+            "ru": "\u0420\u0430\u0433\u0443\u0437\u0430",
+            "uk": "\u0420\u0430\u0433\u0443\u0437\u0430",
+            "zh": "\u62c9\u53e4\u8428",
+            "scn": "Ra\u00f9sa"
+        },
+        "extra": {
+            "wikidata": "Q26160405",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": "IT-RA",
+        "osm_id": 42889,
+        "osm_place_id": 281703813,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Ravenna",
+        "name_eng": "Ravenna",
+        "name_translations": {
+            "ca": "Prov\u00edncia de Ravenna",
+            "it": "Ravenna",
+            "oc": "Prov\u00edncia de Ravena",
+            "pl": "Rawenna",
+            "ru": "\u0420\u0430\u0432\u0435\u043d\u043d\u0430"
+        },
+        "extra": {
+            "wikidata": "Q16252",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": "IT-RC",
+        "osm_id": 44862,
+        "osm_place_id": 281990180,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Reggio di Calabria",
+        "name_eng": "Reggio di Calabria",
+        "name_translations": {
+            "ca": "Reggio de Cal\u00e0bria",
+            "ru": "\u0420\u0435\u0434\u0436\u043e-\u0434\u0438-\u041a\u0430\u043b\u0430\u0431\u0440\u0438\u044f"
+        },
+        "extra": {
+            "wikidata": "Q3678586",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": "IT-RE",
+        "osm_id": 42965,
+        "osm_place_id": 281701116,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Reggio nell'Emilia",
+        "name_eng": "Reggio nell'Emilia",
+        "name_translations": {
+            "ca": "Prov\u00edncia de Reggio de l'Em\u00edlia",
+            "ru": "\u0420\u0435\u0434\u0436\u043e-\u043d\u0435\u043b\u044c-\u042d\u043c\u0438\u043b\u0438\u044f"
+        },
+        "extra": {
+            "wikidata": "Q16254",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": "IT-RI",
+        "osm_id": 41781,
+        "osm_place_id": 281753249,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Rieti",
+        "name_eng": "Rieti",
+        "name_translations": {
+            "ru": "\u0420\u0438\u0435\u0442\u0438"
+        },
+        "extra": {
+            "wikidata": "Q16267",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": null,
+        "osm_id": 42661,
+        "osm_place_id": 281982687,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Rimini",
+        "name_eng": "Rimini",
+        "name_translations": {
+            "ca": "Prov\u00edncia de R\u00edmini",
+            "it": "Rimini",
+            "la": "Ariminum",
+            "lt": "Riminio provincija",
+            "ru": "\u0420\u0438\u043c\u0438\u043d\u0438"
+        },
+        "extra": {
+            "wikidata": "Q16268",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": "IT-RM",
+        "osm_id": 41313,
+        "osm_place_id": 282131650,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Roma Capitale",
+        "name_eng": "Roma Capitale",
+        "name_translations": {
+            "ar": "\u0631\u0648\u0645\u0627 \u0627\u0644\u0639\u0627\u0635\u0645\u0629"
+        },
+        "extra": {
+            "wikidata": "Q18288160",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": "IT-RO",
+        "osm_id": 43647,
+        "osm_place_id": 281708844,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Rovigo",
+        "name_eng": "Rovigo",
+        "name_translations": {
+            "it": "Rovigo",
+            "lt": "Rovigo provincija",
+            "ru": "\u0420\u043e\u0432\u0438\u0433\u043e",
+            "fur": "Ruvi"
+        },
+        "extra": {
+            "wikidata": "Q16270",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": "IT-SA",
+        "osm_id": 40217,
+        "osm_place_id": 281717977,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Salerno",
+        "name_eng": "Salerno",
+        "name_translations": {
+            "ca": "Prov\u00edncia de Salern",
+            "ru": "\u0421\u0430\u043b\u0435\u0440\u043d\u043e"
+        },
+        "extra": {
+            "wikidata": "Q16271",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": "IT-88",
+        "osm_id": 7361997,
+        "osm_place_id": 282894560,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Sardigna\/Sardegna",
+        "name_eng": "Sardinia",
+        "name_translations": {
+            "ar": "\u0633\u0631\u062f\u0627\u0646\u064a\u0629",
+            "be": "\u0421\u0430\u0440\u0434\u0437\u0456\u043d\u0456\u044f",
+            "ca": "Sardenya",
+            "cs": "Sardinie",
+            "de": "Sardinien",
+            "el": "\u03a3\u03b1\u03c1\u03b4\u03b7\u03bd\u03af\u03b1",
+            "en": "Sardinia",
+            "eo": "Sardio",
+            "es": "Cerde\u00f1a",
+            "eu": "Sardinia",
+            "fa": "\u0633\u0627\u0631\u062f\u06cc\u0646\u06cc\u0627",
+            "fi": "Sardinia",
+            "fr": "Sardaigne",
+            "hu": "Szard\u00ednia",
+            "it": "Sardegna",
+            "ja": "\u30b5\u30eb\u30c7\u30fc\u30cb\u30e3\u5dde",
+            "kn": "\u0cb8\u0cbe\u0cb0\u0ccd\u0ca1\u0cbf\u0ca8\u0ccd\u0caf",
+            "ku": "Sard\u00eenya",
+            "la": "Sardinia",
+            "mi": "H\u0101rinia",
+            "nl": "Sardini\u00eb",
+            "pl": "Sardynia",
+            "pt": "Sardenha",
+            "ro": "Sardinia",
+            "ru": "\u0421\u0430\u0440\u0434\u0438\u043d\u0438\u044f",
+            "sc": "Sardigna",
+            "sk": "Sard\u00ednia",
+            "sl": "Sardinija",
+            "sr": "\u0421\u0430\u0440\u0434\u0438\u043d\u0438\u0458\u0430",
+            "uk": "\u0421\u0430\u0440\u0434\u0438\u043d\u0456\u044f",
+            "ur": "\u0633\u0627\u0631\u062f\u06cc\u0646\u06cc\u0627",
+            "zh": "\u6492\u4e01\u5c9b",
+            "fur": "Sardegne",
+            "hsb": "Sardinska",
+            "lfn": "Sardinia",
+            "scn": "Sardigna",
+            "tzl": "Sardaignh"
+        },
+        "extra": {
+            "wikidata": "Q1462",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": null,
+        "osm_id": 275098,
+        "osm_place_id": 281912968,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Sassari",
+        "name_eng": "Sassari",
+        "name_translations": {
+            "ar": "\u0633\u0627\u0633\u0627\u0631\u064a",
+            "co": "Sassari",
+            "el": "\u03a3\u03ac\u03c3\u03c3\u03b1\u03c1\u03b9",
+            "fa": "\u0633\u0627\u0633\u0627\u0631\u06cc",
+            "fr": "Sassari",
+            "hu": "Szard\u00ednia",
+            "it": "Sassari",
+            "ru": "\u0421\u0430\u0441\u0441\u0430\u0440\u0438",
+            "ur": "\u0633\u0627\u0633\u0627\u0631\u06cc",
+            "sdc": "Sassari"
+        },
+        "extra": {
+            "wikidata": "Q106997185",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": null,
+        "osm_id": 42760,
+        "osm_place_id": 281779602,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Savona",
+        "name_eng": "Savona",
+        "name_translations": {
+            "fr": "Savone",
+            "ru": "\u0421\u0430\u0432\u043e\u043d\u0430",
+            "zh": "\u8428\u6c83\u7eb3"
+        },
+        "extra": {
+            "wikidata": "Q16274",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": "IT-82",
+        "osm_id": 39152,
+        "osm_place_id": 281685100,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Sicilia",
+        "name_eng": "Sicily",
+        "name_translations": {
+            "ar": "\u0635\u0642\u0644\u064a\u0629",
+            "ca": "Sic\u00edlia",
+            "cs": "Sic\u00edlie",
+            "de": "Sizilien",
+            "el": "\u03a3\u03b9\u03ba\u03b5\u03bb\u03af\u03b1",
+            "en": "Sicily",
+            "es": "Sicilia",
+            "eu": "Sizilia",
+            "fi": "Sisilia",
+            "fr": "Sicile",
+            "hu": "Szic\u00edlia",
+            "is": "Sikiley",
+            "it": "Sicilia",
+            "ja": "\u30b7\u30c1\u30ea\u30a2",
+            "kn": "\u0cb8\u0cbf\u0cb8\u0cbf\u0cb2\u0cbf",
+            "ko": "\uc2dc\uce60\ub9ac\uc544",
+            "lt": "Sicilija",
+            "mi": "Hihir\u012b",
+            "nl": "Sicili\u00eb",
+            "pl": "Sycylia",
+            "pt": "Sic\u00edlia",
+            "ru": "\u0421\u0438\u0446\u0438\u043b\u0438\u044f",
+            "sc": "Sitz\u00eclia",
+            "sk": "Sic\u00edlia",
+            "sl": "Sicilija",
+            "sv": "Sicilien",
+            "zh": "\u897f\u897f\u91cc\u5c9b",
+            "fur": "Sicilie",
+            "zh-Hans": "\u897f\u897f\u91cc\u5c9b",
+            "zh-Hant": "\u897f\u897f\u91cc\u5cf6"
+        },
+        "extra": {
+            "wikidata": "Q1460",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": "IT-SI",
+        "osm_id": 42172,
+        "osm_place_id": 281794035,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Siena",
+        "name_eng": "Siena",
+        "name_translations": {
+            "ru": "\u0421\u0438\u0435\u043d\u0430"
+        },
+        "extra": {
+            "wikidata": "Q16275",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": null,
+        "osm_id": 39155,
+        "osm_place_id": 281652566,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Siracusa",
+        "name_eng": "Siracusa",
+        "name_translations": {
+            "ar": "\u0633\u0631\u0642\u0648\u0633\u0629",
+            "cs": "Syrakusy",
+            "de": "Syrakus",
+            "el": "\u03a3\u03c5\u03c1\u03b1\u03ba\u03bf\u03cd\u03c3\u03b5\u03c2",
+            "fi": "Syrakusa",
+            "fr": "Syracuse",
+            "it": "Siracusa",
+            "la": "Syracusae",
+            "lt": "Sirak\u016bzai",
+            "pl": "Syrakuzy",
+            "ru": "\u0421\u0438\u0440\u0430\u043a\u0443\u0437\u0430",
+            "sk": "Syrak\u00fazy",
+            "sv": "Syrakusa",
+            "uk": "\u0421\u0456\u0440\u0430\u043a\u0443\u0437\u0430",
+            "zh": "\u53d9\u62c9\u53e4",
+            "scn": "Sarausa"
+        },
+        "extra": {
+            "wikidata": "Q25510290",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": "IT-SO",
+        "osm_id": 46708,
+        "osm_place_id": 282319057,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Sondrio",
+        "name_eng": "Sondrio",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q16282",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": null,
+        "osm_id": 12998776,
+        "osm_place_id": 283426568,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Sulcis Iglesiente",
+        "name_eng": "Sulcis Iglesiente",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q106997093",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": "IT-TA",
+        "osm_id": 40423,
+        "osm_place_id": 281691415,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Taranto",
+        "name_eng": "Taranto",
+        "name_translations": {
+            "ar": "\u062a\u0627\u0631\u0627\u0646\u062a\u0648",
+            "ca": "Prov\u00edncia de T\u00e0rent",
+            "fa": "\u062a\u0627\u0631\u0627\u0646\u062a\u0648",
+            "nl": "Tarente",
+            "ru": "\u0422\u0430\u0440\u0430\u043d\u0442\u043e",
+            "ur": "\u062a\u0627\u0631\u0627\u0646\u062a\u0648"
+        },
+        "extra": {
+            "wikidata": "Q16283",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": "IT-TE",
+        "osm_id": 42024,
+        "osm_place_id": 281677716,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Teramo",
+        "name_eng": "Teramo",
+        "name_translations": {
+            "ca": "Prov\u00edncia de Teramo",
+            "it": "Teramo",
+            "ru": "\u0422\u0435\u0440\u0430\u043c\u043e"
+        },
+        "extra": {
+            "wikidata": "Q16284",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": "IT-TR",
+        "osm_id": 42003,
+        "osm_place_id": 281669987,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Terni",
+        "name_eng": "Terni",
+        "name_translations": {
+            "ru": "\u0422\u0435\u0440\u043d\u0438"
+        },
+        "extra": {
+            "wikidata": "Q16286",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": "IT-TO",
+        "osm_id": 44880,
+        "osm_place_id": 281822102,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Torino",
+        "name_eng": "Torino",
+        "name_translations": {
+            "ca": "Tor\u00ed",
+            "es": "Tur\u00edn",
+            "fr": "Turin",
+            "gl": "Tur\u00edn",
+            "nl": "Turijn",
+            "ru": "\u0422\u0443\u0440\u0438\u043d"
+        },
+        "extra": {
+            "wikidata": "Q18288162",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": "IT-52",
+        "osm_id": 41977,
+        "osm_place_id": 281880323,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Toscana",
+        "name_eng": "Tuscany",
+        "name_translations": {
+            "cs": "Tosk\u00e1nsko",
+            "de": "Toskana",
+            "en": "Tuscany",
+            "eo": "Toskanio",
+            "es": "Toscana",
+            "fi": "Toscana",
+            "fr": "Toscane",
+            "hu": "Toszk\u00e1na",
+            "it": "Toscana",
+            "ja": "\u30c8\u30b9\u30ab\u30fc\u30ca\u5dde",
+            "la": "Tuscia",
+            "nl": "Toscane",
+            "pl": "Toskania",
+            "ru": "\u0422\u043e\u0441\u043a\u0430\u043d\u0430",
+            "sc": "Toscana",
+            "sk": "Tosk\u00e1nsko",
+            "sl": "Toskana",
+            "sv": "Toscana",
+            "fur": "Toscane",
+            "scn": "Tuscana"
+        },
+        "extra": {
+            "wikidata": "Q1273",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": "IT-TP",
+        "osm_id": 39166,
+        "osm_place_id": 281965397,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Trapani",
+        "name_eng": "Trapani",
+        "name_translations": {
+            "an": "Tr\u00e0pani",
+            "ar": "\u062a\u0631\u0627\u0628\u0627\u0646\u064a",
+            "bg": "\u0422\u0440\u0430\u043f\u0430\u043d\u0438",
+            "el": "\u0394\u03c1\u03ad\u03c0\u03b1\u03bd\u03bf\u03bd",
+            "fa": "\u062a\u0631\u0627\u067e\u0627\u0646\u06cc",
+            "he": "\u05d8\u05e8\u05e4\u05d0\u05e0\u05d9",
+            "ja": "\u30c8\u30e9\u30fc\u30d1\u30cb",
+            "la": "Drepanum",
+            "pt": "Tr\u00e1pani",
+            "ru": "\u0422\u0440\u0430\u043f\u0430\u043d\u0438",
+            "sr": "\u0422\u0440\u0430\u043f\u0430\u043d\u0438",
+            "uk": "\u0422\u0440\u0430\u043f\u0430\u043d\u0456",
+            "zh": "\u7279\u62c9\u5e15\u5c3c",
+            "pms": "Tr\u00e0pani",
+            "scn": "Tr\u00e0pani",
+            "roa-tara": "Trapane"
+        },
+        "extra": {
+            "wikidata": "Q26160403",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": "IT-32",
+        "osm_id": 45757,
+        "osm_place_id": 281769275,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Trentino-Alto Adige\/S\u00fcdtirol",
+        "name_eng": "Trentino-Alto Adige\/S\u00fcdtirol",
+        "name_translations": {
+            "be": "\u0422\u0440\u044d\u043d\u0446\u0456\u043d\u0430-\u0410\u043b\u044c\u0442\u0430-\u0410\u0434\u044b\u0434\u0436\u044d",
+            "ca": "Trentino - Tirol del Sud",
+            "cs": "Tridentsko-Horn\u00ed Adi\u017ee",
+            "de": "Trentino-S\u00fcdtirol",
+            "en": "Trentino-Alto Adige\/S\u00fcdtirol",
+            "eo": "Trentino-Supra Adi\u011do\/Sudtirolo",
+            "es": "Trentino-Alto Adigio",
+            "fi": "Trentino-Etel\u00e4-Tiroli",
+            "fr": "Trentin-Haut-Adige",
+            "hu": "Trentino-Alto Adige \/ D\u00e9l-Tirol",
+            "it": "Trentino-Alto Adige",
+            "ja": "\u30c8\u30ec\u30f3\u30c6\u30a3\u30fc\u30ce\uff1d\u30a2\u30eb\u30c8\u30fb\u30a2\u30c7\u30a3\u30b8\u30a7\u81ea\u6cbb\u5dde\/\u5357\u30c6\u30a3\u30ed\u30eb\u81ea\u6cbb\u5dde",
+            "nl": "Trentino-Zuid-Tirol",
+            "pl": "Trydent-G\u00f3rna Adyga",
+            "ru": "\u0422\u0440\u0435\u043d\u0442\u0438\u043d\u043e - \u0410\u043b\u044c\u0442\u043e-\u0410\u0434\u0438\u0434\u0436\u0435",
+            "sc": "Trentinu-S\u00fcdtirol",
+            "sk": "Tridentsko-Horn\u00e1 Adi\u017ea\/Ju\u017en\u00e9 Tirolsko",
+            "sl": "Trentinsko - Gornje Poadi\u017eje \/ Ju\u017ena Tirolska",
+            "uk": "\u0422\u0440\u0435\u043d\u0442\u0456\u043d\u043e-\u0410\u043b\u044c\u0442\u043e-\u0410\u0434\u0456\u0434\u0436\u0435",
+            "lld": "Trentin-S\u00fcdtirol",
+            "mhn": "Trentino-Sudtirol",
+            "scn": "Trintinu-Autu Adiggi"
+        },
+        "extra": {
+            "wikidata": "Q1237",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": null,
+        "osm_id": 45300,
+        "osm_place_id": 281737234,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Treviso",
+        "name_eng": "Treviso",
+        "name_translations": {
+            "ca": "Prov\u00edncia de Treviso",
+            "la": "Tarvisium",
+            "ru": "\u0422\u0440\u0435\u0432\u0438\u0437\u043e",
+            "fur": "Trev\u00ees",
+            "vec": "Trevixo"
+        },
+        "extra": {
+            "wikidata": "Q16292",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": "IT-TS",
+        "osm_id": 179292,
+        "osm_place_id": 321145364,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Trieste",
+        "name_eng": "Trieste",
+        "name_translations": {
+            "ca": "Trieste",
+            "de": "Triest",
+            "en": "Trieste",
+            "it": "Trieste",
+            "ru": "\u0422\u0440\u0438\u0435\u0441\u0442",
+            "sl": "Tr\u017ea\u0161ka",
+            "zh": "\u7684\u91cc\u96c5\u65af\u7279\u7701"
+        },
+        "extra": {
+            "wikidata": "Q106917336",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": "IT-UD",
+        "osm_id": 179295,
+        "osm_place_id": 321145367,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Udine",
+        "name_eng": "Udine",
+        "name_translations": {
+            "ca": "'Udine",
+            "lt": "Udin\u0117s",
+            "ru": "\u0423\u0434\u0438\u043d\u0435",
+            "sl": "Videmska",
+            "fur": "Udin"
+        },
+        "extra": {
+            "wikidata": "Q106917294",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": "IT-55",
+        "osm_id": 42004,
+        "osm_place_id": 281696973,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Umbria",
+        "name_eng": "Umbria",
+        "name_translations": {
+            "be": "\u0423\u043c\u0431\u0440\u044b\u044f",
+            "ca": "\u00dambria",
+            "cs": "Umbrie",
+            "de": "Umbrien",
+            "en": "Umbria",
+            "eo": "Umbrio",
+            "es": "Umbr\u00eda",
+            "fr": "Ombrie",
+            "hu": "Umbria",
+            "it": "Umbria",
+            "ja": "\u30a6\u30f3\u30d6\u30ea\u30a2\u5dde",
+            "nl": "Umbri\u00eb",
+            "pl": "Umbria",
+            "pt": "\u00dambria",
+            "ru": "\u0423\u043c\u0431\u0440\u0438\u044f",
+            "sc": "\u00d9mbria",
+            "sl": "Umbrija",
+            "uk": "\u0423\u043c\u0431\u0440\u0456\u044f",
+            "fur": "Umbrie",
+            "lfn": "Umbria"
+        },
+        "extra": {
+            "wikidata": "Q1280",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": "IT-23",
+        "osm_id": 45155,
+        "osm_place_id": 281690878,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Valle d'Aosta \/ Vall\u00e9e d'Aoste",
+        "name_eng": "Aosta Valley",
+        "name_translations": {
+            "ar": "\u0648\u0627\u062f\u064a \u0623\u0648\u0633\u062a\u0627",
+            "be": "\u0412\u0430\u043b\u0435-\u0434\u2019\u0410\u043e\u0441\u0442\u0430",
+            "br": "Trao\u00f1ien Aosta",
+            "ca": "Vall d'Aosta",
+            "cs": "\u00dadol\u00ed Aosty",
+            "de": "Aostatal",
+            "en": "Aosta Valley",
+            "eo": "Aosta Valo",
+            "es": "Valle de Aosta",
+            "fa": "\u0648\u0627\u0644\u0647 \u062f\u0627\u0626\u0648\u0633\u062a\u0627",
+            "fi": "Aostanlaakso",
+            "fr": "Vall\u00e9e d'Aoste",
+            "hu": "Valle d'Aosta",
+            "it": "Valle d'Aosta",
+            "ja": "\u30f4\u30a1\u30c3\u30ec\u30fb\u30c0\u30aa\u30b9\u30bf\u5dde",
+            "ks": "\u0648\u0627\u062f\u06cc \u0622\u0648\u0633\u062a\u06c1",
+            "nl": "Valle d'Aosta",
+            "pl": "Dolina Aosty",
+            "ru": "\u0412\u0430\u043b\u043b\u0435-\u0434\u2019\u0410\u043e\u0441\u0442\u0430",
+            "sc": "Badde de Aosta",
+            "sl": "Dolina Aoste",
+            "uk": "\u0412\u0430\u043b\u043b\u0435-\u0434'\u0410\u043e\u0441\u0442\u0430",
+            "ur": "\u0648\u0627\u062f\u06cc \u0622\u0648\u0633\u062a\u06c1",
+            "azb": "\u0648\u0627\u0644\u0647 \u062f\u0627\u0626\u0648\u0633\u062a\u0627",
+            "mzn": "\u0648\u0627\u0644\u0647 \u062f\u0627\u0626\u0648\u0633\u062a\u0627",
+            "pnb": "\u0648\u0627\u062f\u06cc \u0622\u0648\u0633\u062a\u06c1",
+            "scn": "Va\u1e0d\u1e0di d'Aosta"
+        },
+        "extra": {
+            "wikidata": "Q1222",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": null,
+        "osm_id": 45347,
+        "osm_place_id": 281814712,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Varese",
+        "name_eng": "Varese",
+        "name_translations": {
+            "bs": "Vare\u0161",
+            "fr": "Var\u00e8se",
+            "it": "Varese",
+            "lmo": "Provincia de Vares"
+        },
+        "extra": {
+            "wikidata": "Q16299",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": "IT-34",
+        "osm_id": 43648,
+        "osm_place_id": 282015608,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Veneto",
+        "name_eng": "Veneto",
+        "name_translations": {
+            "ar": "\u0641\u064a\u0646\u064a\u062a\u0648",
+            "ca": "V\u00e8neto",
+            "cs": "Ben\u00e1tsko",
+            "de": "Venetien",
+            "en": "Veneto",
+            "es": "V\u00e9neto",
+            "fa": "\u0648\u0646\u062a\u0648",
+            "fr": "V\u00e9n\u00e9tie",
+            "hu": "Veneto",
+            "it": "Veneto",
+            "ja": "\u30f4\u30a7\u30cd\u30c8\u5dde",
+            "la": "Venetia",
+            "lt": "Venetas",
+            "nl": "Veneto",
+            "pl": "Wenecja Euganejska",
+            "pt": "V\u00e9neto",
+            "ru": "\u0412\u0435\u043d\u0435\u0442\u043e",
+            "sc": "V\u00e8netu",
+            "sk": "Ben\u00e1tsko",
+            "sl": "Veneto",
+            "ur": "\u0648\u06cc\u0646\u06cc\u062a\u0648",
+            "bar": "Venezien",
+            "fur": "Venit",
+            "scn": "Venitu",
+            "vec": "Venesia"
+        },
+        "extra": {
+            "wikidata": "Q1243",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": "IT-VE",
+        "osm_id": 44230,
+        "osm_place_id": 281764321,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Venezia",
+        "name_eng": "Venezia",
+        "name_translations": {
+            "ca": "Ven\u00e8cia",
+            "es": "Venecia",
+            "fr": "Venise",
+            "ru": "\u0412\u0435\u043d\u0435\u0446\u0438\u044f",
+            "sl": "Benetke",
+            "fur": "Vignesie"
+        },
+        "extra": {
+            "wikidata": "Q3678587",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": null,
+        "osm_id": 46089,
+        "osm_place_id": 281828090,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Verbano-Cusio-Ossola",
+        "name_eng": "Verbano-Cusio-Ossola",
+        "name_translations": {
+            "ru": "\u0412\u0435\u0440\u0431\u0430\u043d\u043e-\u041a\u0443\u0437\u044c\u043e-\u041e\u0441\u0441\u043e\u043b\u0430"
+        },
+        "extra": {
+            "wikidata": "Q16312",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": "IT-VC",
+        "osm_id": 1552705,
+        "osm_place_id": 282176779,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Vercelli",
+        "name_eng": "Vercelli",
+        "name_translations": {
+            "fr": "Verceil",
+            "it": "Vercelli",
+            "ru": "\u0412\u0435\u0440\u0447\u0435\u043b\u043b\u0438"
+        },
+        "extra": {
+            "wikidata": "Q15096",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": "IT-VR",
+        "osm_id": 44107,
+        "osm_place_id": 281808896,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Verona",
+        "name_eng": "Verona",
+        "name_translations": {
+            "ar": "\u0641\u064a\u0631\u0648\u0646\u0627",
+            "fa": "\u0648\u0631\u0648\u0646\u0627",
+            "it": "Verona",
+            "pl": "Werona",
+            "ru": "\u0412\u0435\u0440\u043e\u043d\u0430",
+            "ur": "\u0648\u06cc\u0631\u0648\u0646\u0627"
+        },
+        "extra": {
+            "wikidata": "Q16314",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": "IT-VV",
+        "osm_id": 44866,
+        "osm_place_id": 281734193,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Vibo Valentia",
+        "name_eng": "Vibo Valentia",
+        "name_translations": {
+            "ru": "\u0412\u0438\u0431\u043e-\u0412\u0430\u043b\u0435\u043d\u0442\u0438\u044f"
+        },
+        "extra": {
+            "wikidata": "Q16315",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": "IT-VI",
+        "osm_id": 44580,
+        "osm_place_id": 281679242,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Vicenza",
+        "name_eng": "Vicenza",
+        "name_translations": {
+            "ru": "\u0412\u0438\u0447\u0435\u043d\u0446\u0430",
+            "fur": "Vicenze",
+            "vec": "Vicensa"
+        },
+        "extra": {
+            "wikidata": "Q16316",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "it",
+        "country_cca3": "ita",
+        "region_cca2": "IT-VT",
+        "osm_id": 41817,
+        "osm_place_id": 281669232,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Viterbo",
+        "name_eng": "Viterbo",
+        "name_translations": {
+            "fr": "Viterbe",
+            "ru": "\u0412\u0438\u0442\u0435\u0440\u0431\u043e"
+        },
+        "extra": {
+            "wikidata": "Q16318",
+            "un_locode": null
+        }
+    }
+]

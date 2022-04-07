@@ -1,0 +1,486 @@
+[
+    {
+        "country_cca2": "uy",
+        "country_cca3": "ury",
+        "region_cca2": "UY-AR",
+        "osm_id": 1617618,
+        "osm_place_id": 282503062,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Artigas",
+        "name_eng": "Artigas",
+        "name_translations": {
+            "es": "Artigas",
+            "ja": "\u30a2\u30eb\u30c6\u30a3\u30ac\u30b9\u770c"
+        },
+        "extra": {
+            "wikidata": "Q16603",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "uy",
+        "country_cca3": "ury",
+        "region_cca2": "UY-CA",
+        "osm_id": 1625171,
+        "osm_place_id": 282178433,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Canelones",
+        "name_eng": "Canelones",
+        "name_translations": {
+            "es": "Canelones",
+            "ja": "\u30ab\u30cd\u30ed\u30cd\u30b9\u770c",
+            "ru": "\u041a\u0430\u043d\u0435\u043b\u043e\u043d\u0435\u0441",
+            "uk": "\u041a\u0430\u043d\u0435\u043b\u043e\u043d\u0435\u0441"
+        },
+        "extra": {
+            "wikidata": "Q16577",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "uy",
+        "country_cca3": "ury",
+        "region_cca2": "UY-CL",
+        "osm_id": 1656175,
+        "osm_place_id": 282326000,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Cerro Largo",
+        "name_eng": "Cerro Largo",
+        "name_translations": {
+            "es": "Cerro Largo",
+            "ja": "\u30bb\u30ed\u30fb\u30e9\u30eb\u30b4\u770c"
+        },
+        "extra": {
+            "wikidata": "Q16575",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "uy",
+        "country_cca3": "ury",
+        "region_cca2": "UY-CO",
+        "osm_id": 1650769,
+        "osm_place_id": 282175381,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Colonia",
+        "name_eng": "Colonia",
+        "name_translations": {
+            "es": "Colonia",
+            "ja": "\u30b3\u30ed\u30cb\u30a2\u770c"
+        },
+        "extra": {
+            "wikidata": "Q16580",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "uy",
+        "country_cca3": "ury",
+        "region_cca2": "UY-DU",
+        "osm_id": 1646018,
+        "osm_place_id": 282229002,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Durazno",
+        "name_eng": "Durazno",
+        "name_translations": {
+            "es": "Durazno",
+            "ja": "\u30c9\u30a5\u30e9\u30b9\u30ce\u770c"
+        },
+        "extra": {
+            "wikidata": "Q16591",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "uy",
+        "country_cca3": "ury",
+        "region_cca2": "UY-FS",
+        "osm_id": 1645684,
+        "osm_place_id": 282399031,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Flores",
+        "name_eng": "Flores",
+        "name_translations": {
+            "es": "Flores",
+            "ja": "\u30d5\u30ed\u30ec\u30b9\u770c"
+        },
+        "extra": {
+            "wikidata": "Q16578",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "uy",
+        "country_cca3": "ury",
+        "region_cca2": "UY-FD",
+        "osm_id": 1635164,
+        "osm_place_id": 321777375,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Florida",
+        "name_eng": "Florida",
+        "name_translations": {
+            "es": "Florida",
+            "ja": "\u30d5\u30ed\u30ea\u30c0\u770c",
+            "ru": "\u0424\u043b\u043e\u0440\u0438\u0434\u0430"
+        },
+        "extra": {
+            "wikidata": "Q16593",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "uy",
+        "country_cca3": "ury",
+        "region_cca2": "UY-LA",
+        "osm_id": 1635124,
+        "osm_place_id": 321777374,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Lavalleja",
+        "name_eng": "Lavalleja",
+        "name_translations": {
+            "es": "Lavalleja",
+            "ja": "\u30e9\u30d0\u30b8\u30a7\u30cf\u770c",
+            "lt": "Lavaljechos departamentas",
+            "ru": "\u041b\u0430\u0432\u0430\u043b\u044c\u0435\u0445\u0430",
+            "uk": "\u041b\u0430\u0432\u0430\u043b\u044c\u0454\u0445\u0430"
+        },
+        "extra": {
+            "wikidata": "Q460435",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "uy",
+        "country_cca3": "ury",
+        "region_cca2": "UY-MA",
+        "osm_id": 1635117,
+        "osm_place_id": 321447009,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Maldonado",
+        "name_eng": "Maldonado",
+        "name_translations": {
+            "es": "Maldonado",
+            "ja": "\u30de\u30eb\u30c9\u30ca\u30c9\u770c",
+            "lt": "Maldonado departamentas",
+            "ru": "\u041c\u0430\u043b\u044c\u0434\u043e\u043d\u0430\u0434\u043e",
+            "uk": "\u041c\u0430\u043b\u044c\u0434\u043e\u043d\u0430\u0434\u043e"
+        },
+        "extra": {
+            "wikidata": "Q331196",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "uy",
+        "country_cca3": "ury",
+        "region_cca2": "UY-MO",
+        "osm_id": 1634207,
+        "osm_place_id": 282226945,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Montevideo",
+        "name_eng": "Montevideo",
+        "name_translations": {
+            "eo": "Montevideo",
+            "es": "Montevideo",
+            "gl": "Montevideo",
+            "ja": "\u30e2\u30f3\u30c6\u30d3\u30c7\u30aa\u770c",
+            "ru": "\u041c\u043e\u043d\u0442\u0435\u0432\u0438\u0434\u0435\u043e",
+            "uk": "\u041c\u043e\u043d\u0442\u0435\u0432\u0456\u0434\u0435\u043e"
+        },
+        "extra": {
+            "wikidata": "Q16594",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "uy",
+        "country_cca3": "ury",
+        "region_cca2": null,
+        "osm_id": 7348286,
+        "osm_place_id": 282892196,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio de Atl\u00e1ntida",
+        "name_eng": "Municipio de Atl\u00e1ntida",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q6027062",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "uy",
+        "country_cca3": "ury",
+        "region_cca2": null,
+        "osm_id": 7928787,
+        "osm_place_id": 282915706,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio de Ciudad de la Costa",
+        "name_eng": "Municipio de Ciudad de la Costa",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "uy",
+        "country_cca3": "ury",
+        "region_cca2": null,
+        "osm_id": 9062517,
+        "osm_place_id": 283098183,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio de La Paz",
+        "name_eng": "Municipio de La Paz",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1727252",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "uy",
+        "country_cca3": "ury",
+        "region_cca2": null,
+        "osm_id": 8522315,
+        "osm_place_id": 321402678,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio de Las Piedras",
+        "name_eng": "Municipio de Las Piedras",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "uy",
+        "country_cca3": "ury",
+        "region_cca2": null,
+        "osm_id": 7350471,
+        "osm_place_id": 282854456,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio de Parque del Plata",
+        "name_eng": "Municipio de Parque del Plata",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "uy",
+        "country_cca3": "ury",
+        "region_cca2": null,
+        "osm_id": 7928786,
+        "osm_place_id": 283503371,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio de Paso Carrasco",
+        "name_eng": "Municipio de Paso Carrasco",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "uy",
+        "country_cca3": "ury",
+        "region_cca2": null,
+        "osm_id": 7995852,
+        "osm_place_id": 283285991,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Municipio de Salinas",
+        "name_eng": "Municipio de Salinas",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "uy",
+        "country_cca3": "ury",
+        "region_cca2": "UY-PA",
+        "osm_id": 1662387,
+        "osm_place_id": 282185983,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Paysand\u00fa",
+        "name_eng": "Paysand\u00fa",
+        "name_translations": {
+            "es": "Paysand\u00fa",
+            "ja": "\u30d1\u30a4\u30b5\u30f3\u30c9\u30a5\u770c"
+        },
+        "extra": {
+            "wikidata": "Q16576",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "uy",
+        "country_cca3": "ury",
+        "region_cca2": "UY-RN",
+        "osm_id": 1662476,
+        "osm_place_id": 282189070,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "R\u00edo Negro",
+        "name_eng": "R\u00edo Negro",
+        "name_translations": {
+            "es": "R\u00edo Negro",
+            "ja": "\u30ea\u30aa\u30fb\u30cd\u30b0\u30ed\u770c"
+        },
+        "extra": {
+            "wikidata": "Q16596",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "uy",
+        "country_cca3": "ury",
+        "region_cca2": "UY-RV",
+        "osm_id": 1627812,
+        "osm_place_id": 282171676,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Rivera",
+        "name_eng": "Rivera",
+        "name_translations": {
+            "es": "Rivera",
+            "ja": "\u30ea\u30d9\u30e9\u770c"
+        },
+        "extra": {
+            "wikidata": "Q16609",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "uy",
+        "country_cca3": "ury",
+        "region_cca2": "UY-RO",
+        "osm_id": 1653142,
+        "osm_place_id": 282273081,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Rocha",
+        "name_eng": "Rocha",
+        "name_translations": {
+            "es": "Rocha",
+            "ja": "\u30ed\u30c1\u30e3\u770c"
+        },
+        "extra": {
+            "wikidata": "Q16582",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "uy",
+        "country_cca3": "ury",
+        "region_cca2": "UY-SA",
+        "osm_id": 1614733,
+        "osm_place_id": 282266365,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Salto",
+        "name_eng": "Salto",
+        "name_translations": {
+            "es": "Salto",
+            "ja": "\u30b5\u30eb\u30c8\u770c"
+        },
+        "extra": {
+            "wikidata": "Q16595",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "uy",
+        "country_cca3": "ury",
+        "region_cca2": "UY-SJ",
+        "osm_id": 1635189,
+        "osm_place_id": 282174785,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "San Jos\u00e9",
+        "name_eng": "San Jos\u00e9",
+        "name_translations": {
+            "es": "San Jos\u00e9",
+            "ja": "\u30b5\u30f3\u30fb\u30db\u30bb\u770c"
+        },
+        "extra": {
+            "wikidata": "Q16579",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "uy",
+        "country_cca3": "ury",
+        "region_cca2": "UY-SO",
+        "osm_id": 1646600,
+        "osm_place_id": 282172324,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Soriano",
+        "name_eng": "Soriano",
+        "name_translations": {
+            "es": "Soriano",
+            "ja": "\u30bd\u30ea\u30a2\u30ce\u770c"
+        },
+        "extra": {
+            "wikidata": "Q16584",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "uy",
+        "country_cca3": "ury",
+        "region_cca2": "UY-TA",
+        "osm_id": 1662265,
+        "osm_place_id": 282237634,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Tacuaremb\u00f3",
+        "name_eng": "Tacuaremb\u00f3",
+        "name_translations": {
+            "es": "Tacuaremb\u00f3",
+            "ja": "\u30bf\u30af\u30a2\u30ec\u30f3\u30dc\u770c"
+        },
+        "extra": {
+            "wikidata": "Q16587",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "uy",
+        "country_cca3": "ury",
+        "region_cca2": "UY-TT",
+        "osm_id": 1640982,
+        "osm_place_id": null,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Treinta y Tres",
+        "name_eng": "Treinta y Tres",
+        "name_translations": {
+            "ja": "\u30c8\u30ec\u30a4\u30f3\u30bf\u30fb\u30a4\u30fb\u30c8\u30ec\u30b9\u770c"
+        },
+        "extra": {
+            "wikidata": "Q16610"
+        }
+    }
+]

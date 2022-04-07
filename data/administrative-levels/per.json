@@ -1,0 +1,4383 @@
+[
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1929523,
+        "osm_place_id": 282431329,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Abancay",
+        "name_eng": "Abancay",
+        "name_translations": {
+            "en": "Province of Abancay",
+            "es": "Provincia de Abancay"
+        },
+        "extra": {
+            "wikidata": "Q1771870",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1933552,
+        "osm_place_id": 282469415,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Acobamba",
+        "name_eng": "Acobamba",
+        "name_translations": {
+            "en": "Province of Acobamba",
+            "es": "Provincia de Acobamba"
+        },
+        "extra": {
+            "wikidata": "Q1948039",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1923696,
+        "osm_place_id": 282590551,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Acomayo",
+        "name_eng": "Acomayo",
+        "name_translations": {
+            "en": "Province of Acomayo",
+            "es": "Provincia de Acomayo"
+        },
+        "extra": {
+            "wikidata": "Q1920602",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1953171,
+        "osm_place_id": 282236535,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Aija",
+        "name_eng": "Aija",
+        "name_translations": {
+            "en": "Province of Aija",
+            "es": "Provincia de Aija"
+        },
+        "extra": {
+            "wikidata": "Q615891",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1994078,
+        "osm_place_id": 282307268,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Alto Amazonas",
+        "name_eng": "Alto Amazonas",
+        "name_translations": {
+            "en": "Province of Alto Amazonas",
+            "es": "Provincia de Alto Amazonas"
+        },
+        "extra": {
+            "wikidata": "Q1920572",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": "PE-AMA",
+        "osm_id": 1973462,
+        "osm_place_id": 282231579,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Amazonas",
+        "name_eng": "Amazonas",
+        "name_translations": {
+            "de": "Amazonas",
+            "en": "Amazonas",
+            "eo": "Amazonjo",
+            "es": "Amazonas",
+            "ja": "\u30a2\u30de\u30bd\u30ca\u30b9\u770c",
+            "pl": "Amazonas",
+            "ru": "\u0410\u043c\u0430\u0441\u043e\u043d\u0430\u0441",
+            "uk": "\u0410\u043c\u0430\u0437\u043e\u043d\u0430\u0441",
+            "abbreviation": "AMA"
+        },
+        "extra": {
+            "wikidata": "Q201162",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1954494,
+        "osm_place_id": 282481694,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Ambo",
+        "name_eng": "Ambo",
+        "name_translations": {
+            "en": "Province of Ambo",
+            "es": "Provincia de Ambo"
+        },
+        "extra": {
+            "wikidata": "Q980098",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": "PE-ANC",
+        "osm_id": 1953170,
+        "osm_place_id": 282308848,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Ancash",
+        "name_eng": "Ancash",
+        "name_translations": {
+            "de": "Ancash",
+            "en": "Ancash",
+            "eo": "Anka\u015dio",
+            "es": "\u00c1ncash",
+            "ja": "\u30a2\u30f3\u30ab\u30b7\u30e5\u770c",
+            "pl": "Ancash",
+            "ru": "\u0410\u043d\u043a\u0430\u0448",
+            "uk": "\u0410\u043d\u043a\u0430\u0448",
+            "abbreviation": "ANC"
+        },
+        "extra": {
+            "wikidata": "Q205089",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1929524,
+        "osm_place_id": 282591261,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Andahuaylas",
+        "name_eng": "Andahuaylas",
+        "name_translations": {
+            "en": "Province of Andahuaylas",
+            "es": "Provincia de Andahuaylas"
+        },
+        "extra": {
+            "wikidata": "Q1798747",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1933553,
+        "osm_place_id": 282432580,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Angaraes",
+        "name_eng": "Angaraes",
+        "name_translations": {
+            "en": "Province of Angaraes",
+            "es": "Provincia de Angaraes"
+        },
+        "extra": {
+            "wikidata": "Q2084862",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1923697,
+        "osm_place_id": 282279177,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Anta",
+        "name_eng": "Anta",
+        "name_translations": {
+            "en": "Province of Anta",
+            "es": "Provincia de Anta"
+        },
+        "extra": {
+            "wikidata": "Q1920482",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1929525,
+        "osm_place_id": 282280120,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Antabamba",
+        "name_eng": "Antabamba",
+        "name_translations": {
+            "en": "Province of Antabamba",
+            "es": "Provincia de Antabamba"
+        },
+        "extra": {
+            "wikidata": "Q1814228",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1953172,
+        "osm_place_id": 282671754,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Antonio Raymondi",
+        "name_eng": "Antonio Raymondi",
+        "name_translations": {
+            "en": "Province of Antonio Raymondi",
+            "es": "Provincia de Antonio Raymondi"
+        },
+        "extra": {
+            "wikidata": "Q1166121",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": "PE-APU",
+        "osm_id": 1929522,
+        "osm_place_id": 282468539,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Apur\u00edmac",
+        "name_eng": "Apur\u00edmac",
+        "name_translations": {
+            "de": "Apur\u00edmac",
+            "en": "Apur\u00edmac",
+            "eo": "Apurimako",
+            "es": "Apur\u00edmac",
+            "ja": "\u30a2\u30d7\u30ea\u30de\u30af\u770c",
+            "pl": "Apur\u00edmac",
+            "ru": "\u0410\u043f\u0443\u0440\u0438\u043c\u0430\u043a",
+            "uk": "\u0410\u043f\u0443\u0440\u0456\u043c\u0430\u043a",
+            "abbreviation": "APU"
+        },
+        "extra": {
+            "wikidata": "Q208185",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1887794,
+        "osm_place_id": 282428114,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Arequipa",
+        "name_eng": "Arequipa",
+        "name_translations": {
+            "en": "Province of Arequipa",
+            "es": "Provincia de Arequipa"
+        },
+        "extra": {
+            "wikidata": "Q601118",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": "PE-ARE",
+        "osm_id": 1879287,
+        "osm_place_id": 282327978,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Arequipa",
+        "name_eng": "Arequipa",
+        "name_translations": {
+            "de": "Arequipa",
+            "en": "Arequipa",
+            "eo": "Arekipio",
+            "es": "Arequipa",
+            "ja": "\u30a2\u30ec\u30ad\u30d1\u770c",
+            "pl": "Arequipa",
+            "ru": "\u0410\u0440\u0435\u043a\u0438\u043f\u0430",
+            "uk": "\u0410\u0440\u0435\u043a\u0456\u043f\u0430",
+            "abbreviation": "ARE"
+        },
+        "extra": {
+            "wikidata": "Q205068",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1967963,
+        "osm_place_id": 282437246,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Ascope",
+        "name_eng": "Ascope",
+        "name_translations": {
+            "en": "Province of Ascope",
+            "es": "Provincia de Ascope"
+        },
+        "extra": {
+            "wikidata": "Q927324",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1953173,
+        "osm_place_id": 282440094,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Asunci\u00f3n",
+        "name_eng": "Asunci\u00f3n",
+        "name_translations": {
+            "en": "Province of Asunci\u00f3n",
+            "es": "Provincia de Asunci\u00f3n"
+        },
+        "extra": {
+            "wikidata": "Q1166116",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1921998,
+        "osm_place_id": 282217180,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Atalaya",
+        "name_eng": "Atalaya",
+        "name_translations": {
+            "en": "Province of Atalaya",
+            "es": "Provincia de Atalaya"
+        },
+        "extra": {
+            "wikidata": "Q1920509",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1986156,
+        "osm_place_id": 282677717,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Ayabaca",
+        "name_eng": "Ayabaca",
+        "name_translations": {
+            "en": "Province of Ayabaca",
+            "es": "Provincia de Ayabaca",
+            "fr": "Province d'Ayabaca"
+        },
+        "extra": {
+            "wikidata": "Q1367672",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": "PE-AYA",
+        "osm_id": 1930901,
+        "osm_place_id": 282217984,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Ayacucho",
+        "name_eng": "Ayacucho",
+        "name_translations": {
+            "de": "Ayacucho",
+            "en": "Ayacucho",
+            "eo": "Ajaku\u0109io",
+            "es": "Ayacucho",
+            "ja": "\u30a2\u30e4\u30af\u30fc\u30c1\u30e7\u770c",
+            "pl": "Ayacucho",
+            "ru": "\u0410\u044f\u043a\u0443\u0447\u043e",
+            "uk": "\u0410\u044f\u043a\u0443\u0447\u043e",
+            "abbreviation": "AYA"
+        },
+        "extra": {
+            "wikidata": "Q205112",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1929526,
+        "osm_place_id": 282247912,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Aymaraes",
+        "name_eng": "Aymaraes",
+        "name_translations": {
+            "en": "Province of Aymaraes",
+            "es": "Provincia de Aymaraes"
+        },
+        "extra": {
+            "wikidata": "Q1814234",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1918540,
+        "osm_place_id": 282222420,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Az\u00e1ngaro",
+        "name_eng": "Az\u00e1ngaro",
+        "name_translations": {
+            "en": "Province of Az\u00e1ngaro",
+            "es": "Provincia de Az\u00e1ngaro"
+        },
+        "extra": {
+            "wikidata": "Q2088824",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1973463,
+        "osm_place_id": 282304911,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Bagua",
+        "name_eng": "Bagua",
+        "name_translations": {
+            "en": "Province of Bagua",
+            "es": "Provincia de Bagua"
+        },
+        "extra": {
+            "wikidata": "Q1366082",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1944660,
+        "osm_place_id": 282218506,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Barranca",
+        "name_eng": "Barranca",
+        "name_translations": {
+            "en": "Province of Barranca",
+            "es": "Provincia de Barranca"
+        },
+        "extra": {
+            "wikidata": "Q1422596",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1971662,
+        "osm_place_id": 282367300,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Bellavista",
+        "name_eng": "Bellavista",
+        "name_translations": {
+            "en": "Province of Bellavista",
+            "es": "Provincia de Bellavista"
+        },
+        "extra": {
+            "wikidata": "Q2084689",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1967968,
+        "osm_place_id": 282548583,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Bol\u00edvar",
+        "name_eng": "Bol\u00edvar",
+        "name_translations": {
+            "en": "Province of Bol\u00edvar",
+            "es": "Provincia de Bol\u00edvar"
+        },
+        "extra": {
+            "wikidata": "Q951816",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1953174,
+        "osm_place_id": 282221905,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Bolognesi",
+        "name_eng": "Bolognesi",
+        "name_translations": {
+            "en": "Province of Bolognesi",
+            "es": "Provincia de Bolognesi"
+        },
+        "extra": {
+            "wikidata": "Q1166113",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1973464,
+        "osm_place_id": 282225255,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Bongar\u00e1",
+        "name_eng": "Bongar\u00e1",
+        "name_translations": {
+            "en": "Province of Bongar\u00e1",
+            "es": "Provincia de Bongar\u00e1"
+        },
+        "extra": {
+            "wikidata": "Q1342814",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1896112,
+        "osm_place_id": 282253302,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Cajabamba",
+        "name_eng": "Cajabamba",
+        "name_translations": {
+            "en": "Province of Cajabamba",
+            "es": "Provincia de Cajabamba"
+        },
+        "extra": {
+            "wikidata": "Q751373",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": "PE-CAJ",
+        "osm_id": 1896111,
+        "osm_place_id": 282223698,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Cajamarca",
+        "name_eng": "Cajamarca",
+        "name_translations": {
+            "de": "Cajamarca",
+            "en": "Cajamarca",
+            "eo": "Ka\u015damarkio",
+            "es": "Cajamarca",
+            "ja": "\u30ab\u30cf\u30de\u30eb\u30ab\u770c",
+            "pl": "Cajamarca",
+            "ru": "\u041a\u0430\u0445\u0430\u043c\u0430\u0440\u043a\u0430",
+            "uk": "\u041a\u0430\u0445\u0430\u043c\u0430\u0440\u043a\u0430",
+            "abbreviation": "CAJ"
+        },
+        "extra": {
+            "wikidata": "Q205078",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1896113,
+        "osm_place_id": 282213179,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Cajamarca",
+        "name_eng": "Cajamarca",
+        "name_translations": {
+            "en": "Province of Cajamarca",
+            "es": "Provincia de Cajamarca"
+        },
+        "extra": {
+            "wikidata": "Q1431135",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1944661,
+        "osm_place_id": 282364614,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Cajatambo",
+        "name_eng": "Cajatambo",
+        "name_translations": {
+            "en": "Province of Cajatambo",
+            "es": "Provincia de Cajatambo"
+        },
+        "extra": {
+            "wikidata": "Q1422587",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1923698,
+        "osm_place_id": 282247327,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Calca",
+        "name_eng": "Calca",
+        "name_translations": {
+            "en": "Province of Calca",
+            "es": "Provincia de Calca"
+        },
+        "extra": {
+            "wikidata": "Q1948019",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": "PE-CAL",
+        "osm_id": 1944657,
+        "osm_place_id": 282233823,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Callao",
+        "name_eng": "Callao",
+        "name_translations": {
+            "en": "Constitutional Province of Callao",
+            "es": "Callao",
+            "ja": "\u30ab\u30e4\u30aa\u7279\u5225\u90e1",
+            "ru": "\u041a\u0430\u043b\u044c\u044f\u043e",
+            "uk": "\u041a\u0430\u044f\u043e",
+            "abbreviation": "CAL"
+        },
+        "extra": {
+            "wikidata": "Q2634400",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1879621,
+        "osm_place_id": 282212494,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Caman\u00e1",
+        "name_eng": "Caman\u00e1",
+        "name_translations": {
+            "en": "Province of Caman\u00e1",
+            "es": "Provincia de Caman\u00e1"
+        },
+        "extra": {
+            "wikidata": "Q1784851",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1923699,
+        "osm_place_id": 282254964,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Canas",
+        "name_eng": "Canas",
+        "name_translations": {
+            "en": "Province of Canas",
+            "es": "Provincia de Canas"
+        },
+        "extra": {
+            "wikidata": "Q1920500",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1923700,
+        "osm_place_id": 282541021,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Canchis",
+        "name_eng": "Canchis",
+        "name_translations": {
+            "en": "Province of Canchis",
+            "es": "Provincia de Canchis"
+        },
+        "extra": {
+            "wikidata": "Q951287",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1874308,
+        "osm_place_id": 282657519,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Candarave",
+        "name_eng": "Candarave",
+        "name_translations": {
+            "en": "Province of Candarave",
+            "es": "Provincia de Candarave"
+        },
+        "extra": {
+            "wikidata": "Q1944299",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1944664,
+        "osm_place_id": 282299380,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Ca\u00f1ete",
+        "name_eng": "Ca\u00f1ete",
+        "name_translations": {
+            "en": "Province of Ca\u00f1ete",
+            "es": "Provincia de Ca\u00f1ete"
+        },
+        "extra": {
+            "wikidata": "Q1431156",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1930902,
+        "osm_place_id": 282331985,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Cangallo",
+        "name_eng": "Cangallo",
+        "name_translations": {
+            "en": "Province of Cangallo",
+            "es": "Provincia de Cangallo"
+        },
+        "extra": {
+            "wikidata": "Q1814190",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1944663,
+        "osm_place_id": 282226199,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Canta",
+        "name_eng": "Canta",
+        "name_translations": {
+            "en": "Province of Canta",
+            "es": "Provincia de Canta"
+        },
+        "extra": {
+            "wikidata": "Q1422611",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1919867,
+        "osm_place_id": 282475309,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Carabaya",
+        "name_eng": "Carabaya",
+        "name_translations": {
+            "en": "Province of Carabaya",
+            "es": "Provincia de Carabaya"
+        },
+        "extra": {
+            "wikidata": "Q1944216",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1879290,
+        "osm_place_id": 282218570,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Caravel\u00ed",
+        "name_eng": "Caravel\u00ed",
+        "name_translations": {
+            "en": "Province of Caravel\u00ed",
+            "es": "Provincia de Caravel\u00ed"
+        },
+        "extra": {
+            "wikidata": "Q1779727",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1953178,
+        "osm_place_id": 282285531,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Carhuaz",
+        "name_eng": "Carhuaz",
+        "name_translations": {
+            "en": "Province of Carhuaz",
+            "es": "Provincia de Carhuaz"
+        },
+        "extra": {
+            "wikidata": "Q1166126",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1953179,
+        "osm_place_id": 282251725,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Carlos Ferm\u00edn Fitzcarrald",
+        "name_eng": "Carlos Ferm\u00edn Fitzcarrald",
+        "name_translations": {
+            "en": "Province of Carlos Ferm\u00edn Fitzcarrald",
+            "es": "Provincia de Carlos Ferm\u00edn Fitzcarrald"
+        },
+        "extra": {
+            "wikidata": "Q633478",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1953180,
+        "osm_place_id": 282260439,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Casma",
+        "name_eng": "Casma",
+        "name_translations": {
+            "en": "Province of Casma",
+            "es": "Provincia de Casma"
+        },
+        "extra": {
+            "wikidata": "Q747503",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1891398,
+        "osm_place_id": 282537496,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Castilla",
+        "name_eng": "Castilla",
+        "name_translations": {
+            "en": "Province of Castilla",
+            "es": "Provincia de Castilla"
+        },
+        "extra": {
+            "wikidata": "Q614628",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1933554,
+        "osm_place_id": 282592072,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Castrovirreyna",
+        "name_eng": "Castrovirreyna",
+        "name_translations": {
+            "en": "Province of Castrovirreyna",
+            "es": "Provincia de Castrovirreyna"
+        },
+        "extra": {
+            "wikidata": "Q1944312",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1891306,
+        "osm_place_id": 282223019,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Caylloma",
+        "name_eng": "Caylloma",
+        "name_translations": {
+            "en": "Province of Caylloma",
+            "es": "Provincia de Caylloma"
+        },
+        "extra": {
+            "wikidata": "Q1806435",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1900934,
+        "osm_place_id": 282271692,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Celend\u00edn",
+        "name_eng": "Celend\u00edn",
+        "name_translations": {
+            "en": "Province of Celend\u00edn",
+            "es": "Provincia de Celend\u00edn"
+        },
+        "extra": {
+            "wikidata": "Q1431153",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1973468,
+        "osm_place_id": 282231972,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Chachapoyas",
+        "name_eng": "Chachapoyas",
+        "name_translations": {
+            "en": "Province of Chachapoyas",
+            "es": "Provincia de Chachapoyas"
+        },
+        "extra": {
+            "wikidata": "Q997406",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1948259,
+        "osm_place_id": 282226364,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Chanchamayo",
+        "name_eng": "Chanchamayo",
+        "name_translations": {
+            "en": "Province of Chanchamayo",
+            "es": "Provincia de Chanchamayo"
+        },
+        "extra": {
+            "wikidata": "Q765311",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1967969,
+        "osm_place_id": 282237060,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Chep\u00e9n",
+        "name_eng": "Chep\u00e9n",
+        "name_translations": {
+            "en": "Province of Chep\u00e9n",
+            "es": "Provincia de Chep\u00e9n"
+        },
+        "extra": {
+            "wikidata": "Q1920599",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1969723,
+        "osm_place_id": 282285400,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Chiclayo",
+        "name_eng": "Chiclayo",
+        "name_translations": {
+            "en": "Province of Chiclayo",
+            "es": "Provincia de Chiclayo"
+        },
+        "extra": {
+            "wikidata": "Q546559",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1899014,
+        "osm_place_id": 282227974,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Chincha",
+        "name_eng": "Chincha",
+        "name_translations": {
+            "en": "Province of Chincha",
+            "es": "Provincia de Chincha"
+        },
+        "extra": {
+            "wikidata": "Q1325771",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1929527,
+        "osm_place_id": 282255701,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Chincheros",
+        "name_eng": "Chincheros",
+        "name_translations": {
+            "en": "Province of Chincheros",
+            "es": "Provincia de Chincheros"
+        },
+        "extra": {
+            "wikidata": "Q578912",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1901115,
+        "osm_place_id": 282752966,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Chota",
+        "name_eng": "Chota",
+        "name_translations": {
+            "en": "Province of Chota",
+            "es": "Provincia de Chota"
+        },
+        "extra": {
+            "wikidata": "Q1431140",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1907872,
+        "osm_place_id": 282220741,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Chucuito",
+        "name_eng": "Chucuito",
+        "name_translations": {
+            "en": "Province of Chucuito",
+            "es": "Provincia de Chucuito"
+        },
+        "extra": {
+            "wikidata": "Q2088871",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1923701,
+        "osm_place_id": 282230231,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Chumbivilcas",
+        "name_eng": "Chumbivilcas",
+        "name_translations": {
+            "en": "Province of Chumbivilcas",
+            "es": "Provincia de Chumbivilcas"
+        },
+        "extra": {
+            "wikidata": "Q584864",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1948260,
+        "osm_place_id": 282299581,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Chupaca",
+        "name_eng": "Chupaca",
+        "name_translations": {
+            "en": "Province of Chupaca",
+            "es": "Provincia de Chupaca"
+        },
+        "extra": {
+            "wikidata": "Q1777631",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1933555,
+        "osm_place_id": 282280803,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Churcampa",
+        "name_eng": "Churcampa",
+        "name_translations": {
+            "en": "Province of Churcampa",
+            "es": "Provincia de Churcampa"
+        },
+        "extra": {
+            "wikidata": "Q639598",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1948261,
+        "osm_place_id": 282220210,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Concepci\u00f3n",
+        "name_eng": "Concepci\u00f3n",
+        "name_translations": {
+            "en": "Province of Concepci\u00f3n",
+            "es": "Provincia de Concepci\u00f3n"
+        },
+        "extra": {
+            "wikidata": "Q1991124",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1895122,
+        "osm_place_id": 282209048,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Condesuyos",
+        "name_eng": "Condesuyos",
+        "name_translations": {
+            "en": "Province of Condesuyos",
+            "es": "Provincia de Condesuyos"
+        },
+        "extra": {
+            "wikidata": "Q1814253",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1973469,
+        "osm_place_id": 282771798,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Condorcanqui",
+        "name_eng": "Condorcanqui",
+        "name_translations": {
+            "en": "Province of Condorcanqui",
+            "es": "Provincia de Condorcanqui"
+        },
+        "extra": {
+            "wikidata": "Q1288434",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1986975,
+        "osm_place_id": 282228007,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Contralmirante Villar",
+        "name_eng": "Contralmirante Villar",
+        "name_translations": {
+            "en": "Province of Contralmirante Villar",
+            "es": "Provincia de Contralmirante Villar",
+            "fr": "Province de Contralmirante Villar"
+        },
+        "extra": {
+            "wikidata": "Q1422590",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1900626,
+        "osm_place_id": 282228092,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Contumaz\u00e1",
+        "name_eng": "Contumaz\u00e1",
+        "name_translations": {
+            "en": "Province of Contumaz\u00e1",
+            "es": "Provincia de Contumaz\u00e1"
+        },
+        "extra": {
+            "wikidata": "Q1948003",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1921999,
+        "osm_place_id": 282214576,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Coronel Portillo",
+        "name_eng": "Coronel Portillo",
+        "name_translations": {
+            "en": "Province of Coronel Portillo",
+            "es": "Provincia de Coronel Portillo"
+        },
+        "extra": {
+            "wikidata": "Q579906",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1953182,
+        "osm_place_id": 282235516,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Corongo",
+        "name_eng": "Corongo",
+        "name_translations": {
+            "en": "Province of Corongo",
+            "es": "Provincia de Corongo"
+        },
+        "extra": {
+            "wikidata": "Q1166124",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1929528,
+        "osm_place_id": 282541470,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Cotabambas",
+        "name_eng": "Cotabambas",
+        "name_translations": {
+            "en": "Province of Cotabambas",
+            "es": "Provincia de Cotabambas"
+        },
+        "extra": {
+            "wikidata": "Q1814244",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1923702,
+        "osm_place_id": 282260022,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Cusco",
+        "name_eng": "Cusco",
+        "name_translations": {
+            "en": "Province of Cusco",
+            "es": "Provincia de Cusco"
+        },
+        "extra": {
+            "wikidata": "Q1132101",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": "PE-CUS",
+        "osm_id": 1923695,
+        "osm_place_id": 282430021,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Cusco",
+        "name_eng": "Cusco",
+        "name_translations": {
+            "de": "Cusco",
+            "en": "Cusco",
+            "eo": "Kuskio",
+            "es": "Cusco",
+            "ja": "\u30af\u30b9\u30b3\u770c",
+            "pl": "Cuzco",
+            "ru": "\u041a\u0443\u0441\u043a\u043e",
+            "uk": "\u041a\u0443\u0441\u043a\u043e",
+            "abbreviation": "CUS"
+        },
+        "extra": {
+            "wikidata": "Q205057",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1901116,
+        "osm_place_id": 282218119,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Cutervo",
+        "name_eng": "Cutervo",
+        "name_translations": {
+            "en": "Province of Cutervo",
+            "es": "Provincia de Cutervo"
+        },
+        "extra": {
+            "wikidata": "Q1947910",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1948453,
+        "osm_place_id": 282228169,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Daniel Alcides Carri\u00f3n",
+        "name_eng": "Daniel Alcides Carri\u00f3n",
+        "name_translations": {
+            "en": "Province of Daniel Carri\u00f3n",
+            "es": "Provincia de Daniel Alcides Carri\u00f3n"
+        },
+        "extra": {
+            "wikidata": "Q1944288",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1994079,
+        "osm_place_id": 282229339,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Datem del Mara\u00f1\u00f3n",
+        "name_eng": "Datem del Mara\u00f1\u00f3n",
+        "name_translations": {
+            "en": "Province of Datem del Mara\u00f1\u00f3n",
+            "es": "Provincia de Datem del Mara\u00f1\u00f3n"
+        },
+        "extra": {
+            "wikidata": "Q2017690",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1954495,
+        "osm_place_id": 282554007,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Dos de Mayo",
+        "name_eng": "Dos de Mayo",
+        "name_translations": {
+            "en": "Province of Dos de Mayo",
+            "es": "Provincia de Dos de Mayo"
+        },
+        "extra": {
+            "wikidata": "Q2088810",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1907873,
+        "osm_place_id": 282753734,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "El Collao",
+        "name_eng": "El Collao",
+        "name_translations": {
+            "en": "Province of El Collao",
+            "es": "Provincia de El Collao"
+        },
+        "extra": {
+            "wikidata": "Q2088833",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1971663,
+        "osm_place_id": 282223887,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "El Dorado",
+        "name_eng": "El Dorado",
+        "name_translations": {
+            "en": "Province of El Dorado",
+            "es": "Provincia de El Dorado"
+        },
+        "extra": {
+            "wikidata": "Q2084675",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1923703,
+        "osm_place_id": 282218108,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Espinar",
+        "name_eng": "Espinar",
+        "name_translations": {
+            "en": "Province of Espinar",
+            "es": "Provincia de Espinar"
+        },
+        "extra": {
+            "wikidata": "Q1947973",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1969724,
+        "osm_place_id": 282311238,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Ferre\u00f1afe",
+        "name_eng": "Ferre\u00f1afe",
+        "name_translations": {
+            "en": "Province of Ferre\u00f1afe",
+            "es": "Provincia de Ferre\u00f1afe"
+        },
+        "extra": {
+            "wikidata": "Q1948067",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1875890,
+        "osm_place_id": 282427937,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "General S\u00e1nchez Cerro",
+        "name_eng": "General S\u00e1nchez Cerro",
+        "name_translations": {
+            "en": "Province of General S\u00e1nchez Cerro",
+            "es": "Provincia de General S\u00e1nchez Cerro"
+        },
+        "extra": {
+            "wikidata": "Q1947893",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1967970,
+        "osm_place_id": 282265854,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Gran Chim\u00fa",
+        "name_eng": "Gran Chim\u00fa",
+        "name_translations": {
+            "en": "Province of Gran Chim\u00fa",
+            "es": "Provincia de Gran Chim\u00fa"
+        },
+        "extra": {
+            "wikidata": "Q1920564",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1929529,
+        "osm_place_id": 282230879,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Grau",
+        "name_eng": "Grau",
+        "name_translations": {
+            "en": "Province of Grau",
+            "es": "Provincia de Grau"
+        },
+        "extra": {
+            "wikidata": "Q1814172",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1954496,
+        "osm_place_id": 282230143,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Huacaybamba",
+        "name_eng": "Huacaybamba",
+        "name_translations": {
+            "en": "Province of Huacaybamba",
+            "es": "Provincia de Huacaybamba"
+        },
+        "extra": {
+            "wikidata": "Q2084668",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1900935,
+        "osm_place_id": 282299514,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Hualgayoc",
+        "name_eng": "Hualgayoc",
+        "name_translations": {
+            "en": "Province of Hualgayoc",
+            "es": "Provincia de Hualgayoc"
+        },
+        "extra": {
+            "wikidata": "Q1947926",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1971664,
+        "osm_place_id": 282230855,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Huallaga",
+        "name_eng": "Huallaga",
+        "name_translations": {
+            "en": "Province of Huallaga",
+            "es": "Provincia de Huallaga"
+        },
+        "extra": {
+            "wikidata": "Q731515",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1954497,
+        "osm_place_id": 282763647,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Huamal\u00edes",
+        "name_eng": "Huamal\u00edes",
+        "name_translations": {
+            "en": "Province of Huamal\u00edes",
+            "es": "Provincia de Huamal\u00edes"
+        },
+        "extra": {
+            "wikidata": "Q1819840",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1930903,
+        "osm_place_id": 282477154,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Huamanga",
+        "name_eng": "Huamanga",
+        "name_translations": {
+            "en": "Province of Huamanga",
+            "es": "Provincia de Huamanga"
+        },
+        "extra": {
+            "wikidata": "Q1784857",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1986158,
+        "osm_place_id": 282227948,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Huancabamba",
+        "name_eng": "Huancabamba",
+        "name_translations": {
+            "en": "Province of Huancabamba",
+            "es": "Provincia de Huancabamba"
+        },
+        "extra": {
+            "wikidata": "Q1422619",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1913488,
+        "osm_place_id": 282319040,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Huancan\u00e9",
+        "name_eng": "Huancan\u00e9",
+        "name_translations": {
+            "en": "Province of Huancan\u00e9",
+            "es": "Provincia de Huancan\u00e9"
+        },
+        "extra": {
+            "wikidata": "Q1944227",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1930904,
+        "osm_place_id": 282549808,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Huancasancos",
+        "name_eng": "Huancasancos",
+        "name_translations": {
+            "en": "Province of Huancasancos",
+            "es": "Provincia de Huancasancos"
+        },
+        "extra": {
+            "wikidata": "Q1808513",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": "PE-HUV",
+        "osm_id": 1933551,
+        "osm_place_id": 282218138,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Huancavelica",
+        "name_eng": "Huancavelica",
+        "name_translations": {
+            "de": "Huancavelica",
+            "en": "Huancavelica",
+            "eo": "\u016cankavilkio",
+            "es": "Huancavelica",
+            "ja": "\u30ef\u30f3\u30ab\u30d9\u30ea\u30ab\u770c",
+            "pl": "Huancavelica",
+            "ru": "\u0423\u0430\u043d\u043a\u0430\u0432\u0435\u043b\u0438\u043a\u0430",
+            "uk": "\u0423\u0430\u043d\u043a\u0430\u0432\u0435\u043b\u0456\u043a\u0430",
+            "abbreviation": "HUV"
+        },
+        "extra": {
+            "wikidata": "Q505220",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1933556,
+        "osm_place_id": 282248754,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Huancavelica",
+        "name_eng": "Huancavelica",
+        "name_translations": {
+            "en": "Province of Huancavelica",
+            "es": "Provincia de Huancavelica"
+        },
+        "extra": {
+            "wikidata": "Q2088859",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1948262,
+        "osm_place_id": 282335943,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Huancayo",
+        "name_eng": "Huancayo",
+        "name_translations": {
+            "en": "Province of Huancayo",
+            "es": "Provincia de Huancayo"
+        },
+        "extra": {
+            "wikidata": "Q1777621",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1930905,
+        "osm_place_id": 282224057,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Huanta",
+        "name_eng": "Huanta",
+        "name_translations": {
+            "en": "Province of Huanta",
+            "es": "Provincia de Huanta"
+        },
+        "extra": {
+            "wikidata": "Q930214",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": "PE-HUC",
+        "osm_id": 1954493,
+        "osm_place_id": 282338182,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Hu\u00e1nuco",
+        "name_eng": "Hu\u00e1nuco",
+        "name_translations": {
+            "de": "Hu\u00e1nuco",
+            "en": "Hu\u00e1nuco",
+            "eo": "\u016canukio",
+            "es": "Hu\u00e1nuco",
+            "ja": "\u30ef\u30cc\u30b3\u770c",
+            "pl": "Hu\u00e1nuco",
+            "ru": "\u0423\u0430\u043d\u0443\u043a\u043e",
+            "uk": "\u0423\u0430\u043d\u0443\u043a\u043e",
+            "abbreviation": "HUC"
+        },
+        "extra": {
+            "wikidata": "Q215221",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1954498,
+        "osm_place_id": 282229767,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Hu\u00e1nuco",
+        "name_eng": "Hu\u00e1nuco",
+        "name_translations": {
+            "en": "Province of Hu\u00e1nuco",
+            "es": "Provincia de Hu\u00e1nuco"
+        },
+        "extra": {
+            "wikidata": "Q2100624",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1944667,
+        "osm_place_id": 282479695,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Huaral",
+        "name_eng": "Huaral",
+        "name_translations": {
+            "en": "Province of Huaral",
+            "es": "Provincia de Huaral"
+        },
+        "extra": {
+            "wikidata": "Q1422606",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1953183,
+        "osm_place_id": 282264039,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Huaraz",
+        "name_eng": "Huaraz",
+        "name_translations": {
+            "en": "Province of Huaraz",
+            "es": "Provincia de Huaraz"
+        },
+        "extra": {
+            "wikidata": "Q1140995",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1953184,
+        "osm_place_id": 282223886,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Huari",
+        "name_eng": "Huari",
+        "name_translations": {
+            "en": "Province of Huari",
+            "es": "Provincia de Huari"
+        },
+        "extra": {
+            "wikidata": "Q1779705",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1953185,
+        "osm_place_id": 282220369,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Huarmey",
+        "name_eng": "Huarmey",
+        "name_translations": {
+            "en": "Province of Huarmey",
+            "es": "Provincia de Huarmey"
+        },
+        "extra": {
+            "wikidata": "Q1779624",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1944668,
+        "osm_place_id": 282552231,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Huarochir\u00ed",
+        "name_eng": "Huarochir\u00ed",
+        "name_translations": {
+            "en": "Province of Huarochir\u00ed",
+            "es": "Provincia de Huarochir\u00ed"
+        },
+        "extra": {
+            "wikidata": "Q1367991",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1944669,
+        "osm_place_id": 282226854,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Huaura",
+        "name_eng": "Huaura",
+        "name_translations": {
+            "en": "Province of Huaura",
+            "es": "Provincia de Huaura"
+        },
+        "extra": {
+            "wikidata": "Q1433001",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1953186,
+        "osm_place_id": 282365640,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Huaylas",
+        "name_eng": "Huaylas",
+        "name_translations": {
+            "en": "Province of Huaylas",
+            "es": "Provincia de Huaylas"
+        },
+        "extra": {
+            "wikidata": "Q1779670",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1933557,
+        "osm_place_id": 282256486,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Huaytar\u00e1",
+        "name_eng": "Huaytar\u00e1",
+        "name_translations": {
+            "en": "Province of Huaytar\u00e1",
+            "es": "Provincia de Huaytar\u00e1"
+        },
+        "extra": {
+            "wikidata": "Q629736",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1899015,
+        "osm_place_id": 282659478,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Ica",
+        "name_eng": "Ica",
+        "name_translations": {
+            "en": "Province of Ica",
+            "es": "Provincia de Ica"
+        },
+        "extra": {
+            "wikidata": "Q2084696",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": "PE-ICA",
+        "osm_id": 1899013,
+        "osm_place_id": 282299178,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Ica",
+        "name_eng": "Ica",
+        "name_translations": {
+            "de": "Ica",
+            "en": "Ica",
+            "eo": "Ikio",
+            "es": "Ica",
+            "ja": "\u30a4\u30ab\u770c",
+            "pl": "Ica",
+            "ru": "\u0418\u043a\u0430",
+            "uk": "\u0406\u043a\u0430",
+            "abbreviation": "ICA"
+        },
+        "extra": {
+            "wikidata": "Q208186",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1875891,
+        "osm_place_id": 282210137,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Ilo",
+        "name_eng": "Ilo",
+        "name_translations": {
+            "en": "Province of Ilo",
+            "es": "Provincia de Ilo"
+        },
+        "extra": {
+            "wikidata": "Q1944257",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1879096,
+        "osm_place_id": 282359348,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Islay",
+        "name_eng": "Islay",
+        "name_translations": {
+            "en": "Province of Islay",
+            "es": "Provincia de Islay"
+        },
+        "extra": {
+            "wikidata": "Q1779688",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1901117,
+        "osm_place_id": 282260407,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Ja\u00e9n",
+        "name_eng": "Ja\u00e9n",
+        "name_translations": {
+            "en": "Province of Ja\u00e9n",
+            "es": "Provincia de Ja\u00e9n"
+        },
+        "extra": {
+            "wikidata": "Q683949",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1948263,
+        "osm_place_id": 282479839,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Jauja",
+        "name_eng": "Jauja",
+        "name_translations": {
+            "en": "Province of Jauja",
+            "es": "Provincia de Jauja"
+        },
+        "extra": {
+            "wikidata": "Q922867",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1874309,
+        "osm_place_id": 282427324,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Jorge Basadre",
+        "name_eng": "Jorge Basadre",
+        "name_translations": {
+            "en": "Province of Jorge Basadre",
+            "es": "Provincia de Jorge Basadre"
+        },
+        "extra": {
+            "wikidata": "Q589047",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1967971,
+        "osm_place_id": 282225721,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Julc\u00e1n",
+        "name_eng": "Julc\u00e1n",
+        "name_translations": {
+            "en": "Province of Julc\u00e1n",
+            "es": "Provincia de Julc\u00e1n"
+        },
+        "extra": {
+            "wikidata": "Q1920491",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": "PE-JUN",
+        "osm_id": 1948258,
+        "osm_place_id": 282219555,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Jun\u00edn",
+        "name_eng": "Jun\u00edn",
+        "name_translations": {
+            "de": "Jun\u00edn",
+            "en": "Jun\u00edn",
+            "eo": "\u015cuninio",
+            "es": "Jun\u00edn",
+            "ja": "\u30d5\u30cb\u30f3\u770c",
+            "pl": "Jun\u00edn",
+            "ru": "\u0425\u0443\u043d\u0438\u043d",
+            "uk": "\u0425\u0443\u043d\u0456\u043d",
+            "abbreviation": "JUN"
+        },
+        "extra": {
+            "wikidata": "Q207973",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1948264,
+        "osm_place_id": 282552499,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Jun\u00edn",
+        "name_eng": "Jun\u00edn",
+        "name_translations": {
+            "en": "Province of Jun\u00edn",
+            "es": "Provincia de Jun\u00edn"
+        },
+        "extra": {
+            "wikidata": "Q644721",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1923704,
+        "osm_place_id": 282215094,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "La Convenci\u00f3n",
+        "name_eng": "La Convenci\u00f3n",
+        "name_translations": {
+            "en": "Province of La Convenci\u00f3n",
+            "es": "Provincia de La Convenci\u00f3n"
+        },
+        "extra": {
+            "wikidata": "Q1343276",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": "PE-LAL",
+        "osm_id": 1967959,
+        "osm_place_id": 282672818,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "La Libertad",
+        "name_eng": "La Libertad",
+        "name_translations": {
+            "de": "La Libertad",
+            "en": "La Libertad",
+            "es": "La Libertad",
+            "ja": "\u30e9\u30fb\u30ea\u30d9\u30eb\u30bf\u770c",
+            "pl": "La Libertad",
+            "ru": "\u041b\u0430-\u041b\u0438\u0431\u0435\u0440\u0442\u0430\u0434",
+            "uk": "\u041b\u0430-\u041b\u0456\u0431\u0435\u0440\u0442\u0430\u0434",
+            "abbreviation": "LAL"
+        },
+        "extra": {
+            "wikidata": "Q205126",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1930906,
+        "osm_place_id": 282757966,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "La Mar",
+        "name_eng": "La Mar",
+        "name_translations": {
+            "en": "Province of La Mar",
+            "es": "Provincia de La Mar"
+        },
+        "extra": {
+            "wikidata": "Q514494",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1895123,
+        "osm_place_id": 282359630,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "La Uni\u00f3n",
+        "name_eng": "La Uni\u00f3n",
+        "name_translations": {
+            "en": "Province of La Uni\u00f3n",
+            "es": "Provincia de La Uni\u00f3n"
+        },
+        "extra": {
+            "wikidata": "Q1779698",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1971665,
+        "osm_place_id": 282304269,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Lamas",
+        "name_eng": "Lamas",
+        "name_translations": {
+            "en": "Province of Lamas",
+            "es": "Provincia de Lamas"
+        },
+        "extra": {
+            "wikidata": "Q2281473",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1969725,
+        "osm_place_id": 282243272,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Lambayeque",
+        "name_eng": "Lambayeque",
+        "name_translations": {
+            "en": "Province of Lambayeque",
+            "es": "Provincia de Lambayeque"
+        },
+        "extra": {
+            "wikidata": "Q632826",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": "PE-LAM",
+        "osm_id": 1969722,
+        "osm_place_id": 282329523,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Lambayeque",
+        "name_eng": "Lambayeque",
+        "name_translations": {
+            "de": "Lambayeque",
+            "en": "Lambayeque",
+            "eo": "Lambajekio",
+            "es": "Lambayeque",
+            "ja": "\u30e9\u30f3\u30d0\u30a4\u30a8\u30b1\u770c",
+            "pl": "Lambayeque",
+            "ru": "\u041b\u0430\u043c\u0431\u0430\u0435\u043a\u0435",
+            "uk": "\u041b\u0430\u043c\u0431\u0430\u0454\u043a\u0435",
+            "abbreviation": "LAM"
+        },
+        "extra": {
+            "wikidata": "Q210061",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1916262,
+        "osm_place_id": 282256424,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Lampa",
+        "name_eng": "Lampa",
+        "name_translations": {
+            "en": "Province of Lampa",
+            "es": "Provincia de Lampa"
+        },
+        "extra": {
+            "wikidata": "Q1944347",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1954499,
+        "osm_place_id": 282269587,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Lauricocha",
+        "name_eng": "Lauricocha",
+        "name_translations": {
+            "en": "Province of Lauricocha",
+            "es": "Provincia de Lauricocha"
+        },
+        "extra": {
+            "wikidata": "Q188098",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1954500,
+        "osm_place_id": 282230369,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Leoncio Prado",
+        "name_eng": "Leoncio Prado",
+        "name_translations": {
+            "en": "Province of Leoncio Prado",
+            "es": "Provincia de Leoncio Prado"
+        },
+        "extra": {
+            "wikidata": "Q1468138",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": "PE-LMA",
+        "osm_id": 1944670,
+        "osm_place_id": 282760706,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Lima",
+        "name_eng": "Lima",
+        "name_translations": {
+            "en": "Province of Lima",
+            "es": "Provincia de Lima",
+            "pl": "Prowincja Lima",
+            "ru": "\u041b\u0438\u043c\u0430",
+            "uk": "\u041b\u0456\u043c\u0430",
+            "abbreviation": "LIM"
+        },
+        "extra": {
+            "wikidata": "Q579240",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": "PE-LIM",
+        "osm_id": 1944659,
+        "osm_place_id": 282222231,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Lima",
+        "name_eng": "Lima",
+        "name_translations": {
+            "de": "Lima",
+            "en": "Lima",
+            "eo": "Limio",
+            "es": "Lima",
+            "ja": "\u30ea\u30de\u770c",
+            "pl": "Lima",
+            "ru": "\u041b\u0438\u043c\u0430",
+            "uk": "\u041b\u0456\u043c\u0430",
+            "abbreviation": "LIM"
+        },
+        "extra": {
+            "wikidata": "Q211795",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 12933390,
+        "osm_place_id": 283503673,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Lima Metropolitana",
+        "name_eng": "Lima Metropolitan Area",
+        "name_translations": {
+            "en": "Lima Metropolitan Area",
+            "es": "Provincia de Lima",
+            "pl": "Prowincja Lima",
+            "abbreviation": "LIM"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1994080,
+        "osm_place_id": 282343004,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Loreto",
+        "name_eng": "Loreto",
+        "name_translations": {
+            "en": "Province of Loreto",
+            "es": "Provincia de Loreto"
+        },
+        "extra": {
+            "wikidata": "Q1995145",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": "PE-LOR",
+        "osm_id": 1994077,
+        "osm_place_id": 282234309,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Loreto",
+        "name_eng": "Loreto",
+        "name_translations": {
+            "de": "Loreto",
+            "en": "Loreto",
+            "eo": "Loreto",
+            "es": "Loreto",
+            "ja": "\u30ed\u30ec\u30fc\u30c8\u770c",
+            "pl": "Loreto",
+            "ru": "\u041b\u043e\u0440\u0435\u0442\u043e",
+            "uk": "\u041b\u043e\u0440\u0435\u0442\u043e",
+            "abbreviation": "LOR"
+        },
+        "extra": {
+            "wikidata": "Q200938",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1930908,
+        "osm_place_id": 282264606,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Lucanas",
+        "name_eng": "Lucanas",
+        "name_translations": {
+            "en": "Province of Lucanas",
+            "es": "Provincia de Lucanas"
+        },
+        "extra": {
+            "wikidata": "Q1814203",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1973470,
+        "osm_place_id": 282232336,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Luya",
+        "name_eng": "Luya",
+        "name_translations": {
+            "en": "Province of Luya",
+            "es": "Provincia de Luya"
+        },
+        "extra": {
+            "wikidata": "Q268277",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": "PE-MDD",
+        "osm_id": 1891287,
+        "osm_place_id": 282218947,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Madre de Dios",
+        "name_eng": "Madre de Dios",
+        "name_translations": {
+            "de": "Madre de Dios",
+            "en": "Madre de Dios",
+            "eo": "Dipatrinio",
+            "es": "Madre de Dios",
+            "ja": "\u30de\u30fc\u30c9\u30ec\u30fb\u30c7\u30fb\u30c7\u30a3\u30aa\u30b9\u770c",
+            "pl": "Madre de Dios",
+            "ru": "\u041c\u0430\u0434\u0440\u0435-\u0434\u0435-\u0414\u044c\u043e\u0441",
+            "uk": "\u041c\u0430\u0434\u0440\u0435-\u0434\u0435-\u0414\u044c\u0439\u043e\u0441",
+            "abbreviation": "MDD"
+        },
+        "extra": {
+            "wikidata": "Q210896",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1891288,
+        "osm_place_id": 282752034,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Manu",
+        "name_eng": "Manu",
+        "name_translations": {
+            "en": "Province of Man\u00fa",
+            "es": "Provincia de Man\u00fa"
+        },
+        "extra": {
+            "wikidata": "Q2320717",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1954501,
+        "osm_place_id": 282327448,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Mara\u00f1\u00f3n",
+        "name_eng": "Mara\u00f1\u00f3n",
+        "name_translations": {
+            "en": "Province of Mara\u00f1\u00f3n",
+            "es": "Provincia de Mara\u00f1\u00f3n"
+        },
+        "extra": {
+            "wikidata": "Q764487",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1971666,
+        "osm_place_id": 282224520,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Mariscal C\u00e1ceres",
+        "name_eng": "Mariscal C\u00e1ceres",
+        "name_translations": {
+            "en": "Province of Mariscal C\u00e1ceres",
+            "es": "Provincia de Mariscal C\u00e1ceres"
+        },
+        "extra": {
+            "wikidata": "Q1947944",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1953187,
+        "osm_place_id": 282221549,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Mariscal Luzuriaga",
+        "name_eng": "Mariscal Luzuriaga",
+        "name_translations": {
+            "en": "Province of Mariscal Luzuriaga",
+            "es": "Provincia de Mariscal Luzuriaga"
+        },
+        "extra": {
+            "wikidata": "Q1779663",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1875892,
+        "osm_place_id": 282462875,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Mariscal Nieto",
+        "name_eng": "Mariscal Nieto",
+        "name_translations": {
+            "en": "Province of Mariscal Nieto",
+            "es": "Provincia de Mariscal Nieto"
+        },
+        "extra": {
+            "wikidata": "Q1944431",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1994081,
+        "osm_place_id": 282486005,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Mariscal Ram\u00f3n Castilla",
+        "name_eng": "Mariscal Ram\u00f3n Castilla",
+        "name_translations": {
+            "en": "Province of Mariscal Ram\u00f3n Castilla",
+            "es": "Provincia de Mariscal Ram\u00f3n Castilla"
+        },
+        "extra": {
+            "wikidata": "Q1920922",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1994082,
+        "osm_place_id": 282542908,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Maynas",
+        "name_eng": "Maynas",
+        "name_translations": {
+            "en": "Province of Maynas",
+            "es": "Provincia de Maynas"
+        },
+        "extra": {
+            "wikidata": "Q1779677",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1918541,
+        "osm_place_id": 282319634,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Melgar",
+        "name_eng": "Melgar",
+        "name_translations": {
+            "en": "Province of Melgar",
+            "es": "Provincia de Melgar"
+        },
+        "extra": {
+            "wikidata": "Q1944356",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1913489,
+        "osm_place_id": 282274690,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Moho",
+        "name_eng": "Moho",
+        "name_translations": {
+            "en": "Province of Moho",
+            "es": "Provincia de Moho"
+        },
+        "extra": {
+            "wikidata": "Q2089123",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": "PE-MOQ",
+        "osm_id": 1875889,
+        "osm_place_id": 282658251,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Moquegua",
+        "name_eng": "Moquegua",
+        "name_translations": {
+            "de": "Moquegua",
+            "en": "Moquegua",
+            "eo": "Mokegvio",
+            "es": "Moquegua",
+            "ja": "\u30e2\u30b1\u30b0\u30a2\u770c",
+            "pl": "Moquegua",
+            "ru": "\u041c\u043e\u043a\u0435\u0433\u0443\u0430",
+            "uk": "\u041c\u043e\u043a\u0435\u0491\u0443\u0430",
+            "abbreviation": "MOQ"
+        },
+        "extra": {
+            "wikidata": "Q208182",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1986159,
+        "osm_place_id": 282478588,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Morrop\u00f3n",
+        "name_eng": "Morrop\u00f3n",
+        "name_translations": {
+            "en": "Province of Morrop\u00f3n",
+            "es": "Provincia de Morrop\u00f3n",
+            "fr": "Province de Morrop\u00f3n"
+        },
+        "extra": {
+            "wikidata": "Q384980",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1971667,
+        "osm_place_id": 282339824,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Moyobamba",
+        "name_eng": "Moyobamba",
+        "name_translations": {
+            "en": "Province of Moyobamba",
+            "es": "Provincia de Moyobamba"
+        },
+        "extra": {
+            "wikidata": "Q1948150",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1899016,
+        "osm_place_id": 282429375,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Nasca",
+        "name_eng": "Nasca",
+        "name_translations": {
+            "en": "Province of Nasca",
+            "es": "Provincia de Nasca"
+        },
+        "extra": {
+            "wikidata": "Q938322",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1953188,
+        "osm_place_id": 282228150,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Ocros",
+        "name_eng": "Ocros",
+        "name_translations": {
+            "en": "Province of Ocros",
+            "es": "Provincia de Ocros"
+        },
+        "extra": {
+            "wikidata": "Q1779635",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1967972,
+        "osm_place_id": 282224437,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Otuzco",
+        "name_eng": "Otuzco",
+        "name_translations": {
+            "en": "Province of Otuzco",
+            "es": "Provincia de Otuzco"
+        },
+        "extra": {
+            "wikidata": "Q583300",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1948454,
+        "osm_place_id": 282267624,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Oxapampa",
+        "name_eng": "Oxapampa",
+        "name_translations": {
+            "en": "Province of Oxapampa",
+            "es": "Provincia de Oxapampa"
+        },
+        "extra": {
+            "wikidata": "Q960169",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1944672,
+        "osm_place_id": 282266645,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Oy\u00f3n",
+        "name_eng": "Oy\u00f3n",
+        "name_translations": {
+            "en": "Province of Oy\u00f3n",
+            "es": "Provincia de Oy\u00f3n"
+        },
+        "extra": {
+            "wikidata": "Q1422624",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1967973,
+        "osm_place_id": 282366901,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Pacasmayo",
+        "name_eng": "Pacasmayo",
+        "name_translations": {
+            "en": "Province of Pacasmayo",
+            "es": "Provincia de Pacasmayo"
+        },
+        "extra": {
+            "wikidata": "Q1944266",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1954502,
+        "osm_place_id": 282282770,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Pachitea",
+        "name_eng": "Pachitea",
+        "name_translations": {
+            "en": "Province of Pachitea",
+            "es": "Provincia de Pachitea"
+        },
+        "extra": {
+            "wikidata": "Q2084641",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1922000,
+        "osm_place_id": 282362378,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Padre Abad",
+        "name_eng": "Padre Abad",
+        "name_translations": {
+            "en": "Province of Padre Abad",
+            "es": "Provincia de Padre Abad"
+        },
+        "extra": {
+            "wikidata": "Q548556",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1986160,
+        "osm_place_id": 282440807,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Paita",
+        "name_eng": "Paita",
+        "name_translations": {
+            "en": "Province of Paita",
+            "es": "Provincia de Paita"
+        },
+        "extra": {
+            "wikidata": "Q2084618",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1953189,
+        "osm_place_id": 282301299,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Pallasca",
+        "name_eng": "Pallasca",
+        "name_translations": {
+            "en": "Province of Pallasca",
+            "es": "Provincia de Pallasca"
+        },
+        "extra": {
+            "wikidata": "Q1779654",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1899017,
+        "osm_place_id": 282211908,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Palpa",
+        "name_eng": "Palpa",
+        "name_translations": {
+            "en": "Province of Palpa",
+            "es": "Provincia de Palpa"
+        },
+        "extra": {
+            "wikidata": "Q783136",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1930909,
+        "osm_place_id": 282224945,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Parinacochas",
+        "name_eng": "Parinacochas",
+        "name_translations": {
+            "en": "Province of Parinacochas",
+            "es": "Provincia de Parinacochas"
+        },
+        "extra": {
+            "wikidata": "Q549969",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1923705,
+        "osm_place_id": 282362697,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Paruro",
+        "name_eng": "Paruro",
+        "name_translations": {
+            "en": "Province of Paruro",
+            "es": "Provincia de Paruro"
+        },
+        "extra": {
+            "wikidata": "Q1920613",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": "PE-PAS",
+        "osm_id": 1948452,
+        "osm_place_id": 282762097,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Pasco",
+        "name_eng": "Pasco",
+        "name_translations": {
+            "de": "Pasco",
+            "en": "Pasco",
+            "eo": "Paskio",
+            "es": "Pasco",
+            "ja": "\u30d1\u30b9\u30b3\u770c",
+            "pl": "Pasco",
+            "ru": "\u041f\u0430\u0441\u043a\u043e",
+            "uk": "\u041f\u0430\u0441\u043a\u043e",
+            "abbreviation": "PAS"
+        },
+        "extra": {
+            "wikidata": "Q211208",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1948455,
+        "osm_place_id": 282228604,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Pasco",
+        "name_eng": "Pasco",
+        "name_translations": {
+            "en": "Province of Pasco",
+            "es": "Provincia de Pasco"
+        },
+        "extra": {
+            "wikidata": "Q976034",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1967974,
+        "osm_place_id": 282223504,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Pataz",
+        "name_eng": "Pataz",
+        "name_translations": {
+            "en": "Province of Pataz",
+            "es": "Provincia de Pataz"
+        },
+        "extra": {
+            "wikidata": "Q1948180",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1930910,
+        "osm_place_id": 282321882,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "P\u00e1ucar del Sara Sara",
+        "name_eng": "P\u00e1ucar del Sara Sara",
+        "name_translations": {
+            "en": "Province of P\u00e1ucar del Sara Sara",
+            "es": "Provincia de P\u00e1ucar del Sara Sara"
+        },
+        "extra": {
+            "wikidata": "Q1806437",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1923706,
+        "osm_place_id": 282215177,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Paucartambo",
+        "name_eng": "Paucartambo",
+        "name_translations": {
+            "en": "Province of Paucartambo",
+            "es": "Provincia de Paucartambo"
+        },
+        "extra": {
+            "wikidata": "Q746434",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1971668,
+        "osm_place_id": 282483393,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Picota",
+        "name_eng": "Picota",
+        "name_translations": {
+            "en": "Province of Picota",
+            "es": "Provincia de Picota"
+        },
+        "extra": {
+            "wikidata": "Q590394",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1899018,
+        "osm_place_id": 282464684,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Pisco",
+        "name_eng": "Pisco",
+        "name_translations": {
+            "en": "Province of Pisco",
+            "es": "Provincia de Pisco"
+        },
+        "extra": {
+            "wikidata": "Q1366050",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1986161,
+        "osm_place_id": 282600853,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Piura",
+        "name_eng": "Piura",
+        "name_translations": {
+            "en": "Province of Piura",
+            "es": "Provincia de Piura"
+        },
+        "extra": {
+            "wikidata": "Q676572",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": "PE-PIU",
+        "osm_id": 1986151,
+        "osm_place_id": 282298279,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Piura",
+        "name_eng": "Piura",
+        "name_translations": {
+            "de": "Piura",
+            "en": "Piura",
+            "eo": "Pi\u016drio",
+            "es": "Piura",
+            "ja": "\u30d4\u30a6\u30e9\u770c",
+            "pl": "Piura",
+            "ru": "\u041f\u044c\u044e\u0440\u0430",
+            "uk": "\u041f\u0456\u0443\u0440\u0430",
+            "abbreviation": "PIU"
+        },
+        "extra": {
+            "wikidata": "Q208183",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1953190,
+        "osm_place_id": 282221359,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Pomabamba",
+        "name_eng": "Pomabamba",
+        "name_translations": {
+            "en": "Province of Pomabamba",
+            "es": "Provincia de Pomabamba"
+        },
+        "extra": {
+            "wikidata": "Q1779643",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1954503,
+        "osm_place_id": 282309516,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Puerto Inca",
+        "name_eng": "Puerto Inca",
+        "name_translations": {
+            "en": "Province of Puerto Inca",
+            "es": "Provincia de Puerto Inca"
+        },
+        "extra": {
+            "wikidata": "Q1944276",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": "PE-PUN",
+        "osm_id": 1907899,
+        "osm_place_id": 282213917,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Puno",
+        "name_eng": "Puno",
+        "name_translations": {
+            "de": "Puno",
+            "en": "Puno",
+            "eo": "Punio",
+            "es": "Puno",
+            "ja": "\u30d7\u30fc\u30ce\u770c",
+            "pl": "Puno",
+            "ru": "\u041f\u0443\u043d\u043e",
+            "uk": "\u041f\u0443\u043d\u043e",
+            "abbreviation": "PUN"
+        },
+        "extra": {
+            "wikidata": "Q205104",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1913490,
+        "osm_place_id": 282301628,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Puno",
+        "name_eng": "Puno",
+        "name_translations": {
+            "en": "Province of Puno",
+            "es": "Provincia de Puno"
+        },
+        "extra": {
+            "wikidata": "Q2084681",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1922001,
+        "osm_place_id": 282214682,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Pur\u00fas",
+        "name_eng": "Pur\u00fas",
+        "name_translations": {
+            "en": "Province of Pur\u00fas",
+            "es": "Provincia de Pur\u00fas"
+        },
+        "extra": {
+            "wikidata": "Q672921",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 7918696,
+        "osm_place_id": 282964042,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Putumayo",
+        "name_eng": "Putumayo",
+        "name_translations": {
+            "en": "Province of Putumayo",
+            "es": "Provincia de Putumayo"
+        },
+        "extra": {
+            "wikidata": "Q16942171",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1923707,
+        "osm_place_id": 282222663,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Quispicanchi",
+        "name_eng": "Quispicanchi",
+        "name_translations": {
+            "en": "Province of Quispicanchis",
+            "es": "Provincia de Quispicanchis"
+        },
+        "extra": {
+            "wikidata": "Q1920520",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1953191,
+        "osm_place_id": 282337641,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Recuay",
+        "name_eng": "Recuay",
+        "name_translations": {
+            "en": "Province of Recuay",
+            "es": "Provincia de Recuay"
+        },
+        "extra": {
+            "wikidata": "Q1779720",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1994083,
+        "osm_place_id": 282216276,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Requena",
+        "name_eng": "Requena",
+        "name_translations": {
+            "en": "Province of Requena",
+            "es": "Provincia de Requena"
+        },
+        "extra": {
+            "wikidata": "Q1944325",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1971669,
+        "osm_place_id": 282555332,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Rioja",
+        "name_eng": "Rioja",
+        "name_translations": {
+            "en": "Province of Rioja",
+            "es": "Provincia de Rioja"
+        },
+        "extra": {
+            "wikidata": "Q2084648",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1973471,
+        "osm_place_id": 282271493,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Rodr\u00edguez de Mendoza",
+        "name_eng": "Rodr\u00edguez de Mendoza",
+        "name_translations": {
+            "en": "Province of Rodr\u00edguez de Mendoza",
+            "es": "Provincia de Rodr\u00edguez de Mendoza"
+        },
+        "extra": {
+            "wikidata": "Q1366038",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1918542,
+        "osm_place_id": 282275106,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "San Antonio de Putina",
+        "name_eng": "San Antonio de Putina",
+        "name_translations": {
+            "en": "Province of San Antonio de Putina",
+            "es": "Provincia de San Antonio de Putina"
+        },
+        "extra": {
+            "wikidata": "Q1935565",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1900265,
+        "osm_place_id": 282224229,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "San Ignacio",
+        "name_eng": "San Ignacio",
+        "name_translations": {
+            "en": "Province of San Ignacio",
+            "es": "Provincia de San Ignacio"
+        },
+        "extra": {
+            "wikidata": "Q1814197",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1896114,
+        "osm_place_id": 282209318,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "San Marcos",
+        "name_eng": "San Marcos",
+        "name_translations": {
+            "en": "Province of San Marcos",
+            "es": "Provincia de San Marcos"
+        },
+        "extra": {
+            "wikidata": "Q629428",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1971670,
+        "osm_place_id": 282231542,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "San Mart\u00edn",
+        "name_eng": "San Mart\u00edn",
+        "name_translations": {
+            "en": "Province of San Mart\u00edn",
+            "es": "Provincia de San Mart\u00edn"
+        },
+        "extra": {
+            "wikidata": "Q588491",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": "PE-SAM",
+        "osm_id": 1971661,
+        "osm_place_id": 282224977,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "San Mart\u00edn",
+        "name_eng": "San Mart\u00edn",
+        "name_translations": {
+            "de": "San Mart\u00edn",
+            "en": "San Mart\u00edn",
+            "es": "San Mart\u00edn",
+            "ja": "\u30b5\u30f3\u30fb\u30de\u30eb\u30c6\u30a3\u30f3\u770c",
+            "pl": "San Mart\u00edn",
+            "ru": "\u0421\u0430\u043d-\u041c\u0430\u0440\u0442\u0438\u043d",
+            "uk": "\u0421\u0430\u043d-\u041c\u0430\u0440\u0442\u0456\u043d",
+            "abbreviation": "SAM"
+        },
+        "extra": {
+            "wikidata": "Q211793",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1900627,
+        "osm_place_id": 282659755,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "San Miguel",
+        "name_eng": "San Miguel",
+        "name_translations": {
+            "en": "Province of San Miguel",
+            "es": "Provincia de San Miguel"
+        },
+        "extra": {
+            "wikidata": "Q1947960",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1900628,
+        "osm_place_id": 282429682,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "San Pablo",
+        "name_eng": "San Pablo",
+        "name_translations": {
+            "en": "Province of San Pablo",
+            "es": "Provincia de San Pablo"
+        },
+        "extra": {
+            "wikidata": "Q166706",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1913491,
+        "osm_place_id": 282229848,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "San Rom\u00e1n",
+        "name_eng": "San Rom\u00e1n",
+        "name_translations": {
+            "en": "Province of San Rom\u00e1n",
+            "es": "Provincia de San Rom\u00e1n"
+        },
+        "extra": {
+            "wikidata": "Q1944337",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1967976,
+        "osm_place_id": 282303922,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "S\u00e1nchez Carri\u00f3n",
+        "name_eng": "S\u00e1nchez Carri\u00f3n",
+        "name_translations": {
+            "en": "Province of S\u00e1nchez Carri\u00f3n",
+            "es": "Provincia de S\u00e1nchez Carri\u00f3n"
+        },
+        "extra": {
+            "wikidata": "Q1944245",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1919868,
+        "osm_place_id": 282547699,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Sandia",
+        "name_eng": "Sandia",
+        "name_translations": {
+            "en": "Province of Sandia",
+            "es": "Provincia de Sandia"
+        },
+        "extra": {
+            "wikidata": "Q1948135",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1953192,
+        "osm_place_id": 282481270,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Santa",
+        "name_eng": "Santa",
+        "name_translations": {
+            "en": "Province of Santa",
+            "es": "Provincia de Santa"
+        },
+        "extra": {
+            "wikidata": "Q1779734",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1900964,
+        "osm_place_id": 282317657,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Santa Cruz",
+        "name_eng": "Santa Cruz",
+        "name_translations": {
+            "en": "Province of Santa Cruz",
+            "es": "Provincia de Santa Cruz"
+        },
+        "extra": {
+            "wikidata": "Q2084630",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1967975,
+        "osm_place_id": 282230281,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Santiago de Chuco",
+        "name_eng": "Santiago de Chuco",
+        "name_translations": {
+            "en": "Province of Santiago de Chuco",
+            "es": "Provincia de Santiago de Chuco"
+        },
+        "extra": {
+            "wikidata": "Q1944238",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1948265,
+        "osm_place_id": 282227262,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Satipo",
+        "name_eng": "Satipo",
+        "name_translations": {
+            "en": "Province of Satipo",
+            "es": "Provincia de Satipo"
+        },
+        "extra": {
+            "wikidata": "Q1335384",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1986162,
+        "osm_place_id": 282290272,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Sechura",
+        "name_eng": "Sechura",
+        "name_translations": {
+            "en": "Province of Sechura",
+            "es": "Provincia de Sechura",
+            "fr": "Province de Sechura"
+        },
+        "extra": {
+            "wikidata": "Q2287233",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1953193,
+        "osm_place_id": 282553730,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Sihuas",
+        "name_eng": "Sihuas",
+        "name_translations": {
+            "en": "Province of Sihuas",
+            "es": "Provincia de Sihuas"
+        },
+        "extra": {
+            "wikidata": "Q1779714",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1930911,
+        "osm_place_id": 282277758,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Sucre",
+        "name_eng": "Sucre",
+        "name_translations": {
+            "en": "Province of Sucre",
+            "es": "Provincia de Sucre"
+        },
+        "extra": {
+            "wikidata": "Q1814180",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1986163,
+        "osm_place_id": 282256329,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Sullana",
+        "name_eng": "Sullana",
+        "name_translations": {
+            "en": "Province of Sullana",
+            "es": "Provincia de Sullana"
+        },
+        "extra": {
+            "wikidata": "Q612923",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": "PE-TAC",
+        "osm_id": 1874307,
+        "osm_place_id": 282225425,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Tacna",
+        "name_eng": "Tacna",
+        "name_translations": {
+            "de": "Tacna",
+            "en": "Tacna",
+            "eo": "Taknio",
+            "es": "Tacna",
+            "ja": "\u30bf\u30af\u30ca\u770c",
+            "pl": "Tacna",
+            "ru": "\u0422\u0430\u043a\u043d\u0430",
+            "uk": "\u0422\u0430\u043a\u043d\u0430",
+            "abbreviation": "TAC"
+        },
+        "extra": {
+            "wikidata": "Q207413",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1874310,
+        "osm_place_id": 282210344,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Tacna",
+        "name_eng": "Tacna",
+        "name_translations": {
+            "en": "Province of Tacna",
+            "es": "Provincia de Tacna"
+        },
+        "extra": {
+            "wikidata": "Q1355960",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1891289,
+        "osm_place_id": 282217158,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Tahuamanu",
+        "name_eng": "Tahuamanu Province",
+        "name_translations": {
+            "en": "Tahuamanu Province",
+            "es": "Provincia de Tahuamanu"
+        },
+        "extra": {
+            "wikidata": "Q945636",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1986164,
+        "osm_place_id": 282321520,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Talara",
+        "name_eng": "Talara",
+        "name_translations": {
+            "en": "Province of Talara",
+            "es": "Provincia de Talara"
+        },
+        "extra": {
+            "wikidata": "Q2287241",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1891290,
+        "osm_place_id": 282259347,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Tambopata",
+        "name_eng": "Tambopata",
+        "name_translations": {
+            "en": "Province of Tambopata",
+            "es": "Provincia de Tambopata"
+        },
+        "extra": {
+            "wikidata": "Q1999122",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1874311,
+        "osm_place_id": 282463092,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Tarata",
+        "name_eng": "Tarata",
+        "name_translations": {
+            "en": "Province of Tarata",
+            "es": "Provincia de Tarata"
+        },
+        "extra": {
+            "wikidata": "Q1410654",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1948266,
+        "osm_place_id": 282760982,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Tarma",
+        "name_eng": "Tarma",
+        "name_translations": {
+            "en": "Province of Tarma",
+            "es": "Provincia de Tarma"
+        },
+        "extra": {
+            "wikidata": "Q946269",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1933558,
+        "osm_place_id": 282542212,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Tayacaja",
+        "name_eng": "Tayacaja",
+        "name_translations": {
+            "en": "Province of Tayacaja",
+            "es": "Provincia de Tayacaja"
+        },
+        "extra": {
+            "wikidata": "Q1948195",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1971671,
+        "osm_place_id": 282771405,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Tocache",
+        "name_eng": "Tocache",
+        "name_translations": {
+            "en": "Province of Tocache",
+            "es": "Provincia de Tocache"
+        },
+        "extra": {
+            "wikidata": "Q2084659",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1967977,
+        "osm_place_id": 282223705,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Trujillo",
+        "name_eng": "Trujillo",
+        "name_translations": {
+            "en": "Province of Trujillo",
+            "es": "Provincia de Trujillo"
+        },
+        "extra": {
+            "wikidata": "Q2013427",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1986976,
+        "osm_place_id": 282369059,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Tumbes",
+        "name_eng": "Tumbes",
+        "name_translations": {
+            "en": "Province of Tumbes",
+            "es": "Provincia de Tumbes",
+            "fr": "Province de Tumbes"
+        },
+        "extra": {
+            "wikidata": "Q1479348",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": "PE-TUM",
+        "osm_id": 1986974,
+        "osm_place_id": 282228873,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Tumbes",
+        "name_eng": "Tumbes",
+        "name_translations": {
+            "de": "Tumbes",
+            "en": "Tumbes",
+            "eo": "Tumpio",
+            "es": "Tumbes",
+            "ja": "\u30c8\u30a5\u30f3\u30d9\u30b9\u770c",
+            "pl": "Tumbes",
+            "ru": "\u0422\u0443\u043c\u0431\u0435\u0441",
+            "uk": "\u0422\u0443\u043c\u0431\u0435\u0441",
+            "abbreviation": "TUM"
+        },
+        "extra": {
+            "wikidata": "Q209597",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1994084,
+        "osm_place_id": 282748876,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Ucayali",
+        "name_eng": "Ucayali",
+        "name_translations": {
+            "en": "Province of Ucayali",
+            "es": "Provincia de Ucayali"
+        },
+        "extra": {
+            "wikidata": "Q2013418",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": "PE-UCA",
+        "osm_id": 1921996,
+        "osm_place_id": 282229671,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Ucayali",
+        "name_eng": "Ucayali",
+        "name_translations": {
+            "de": "Ucayali",
+            "en": "Ucayali",
+            "eo": "Ukajalio",
+            "es": "Ucayali",
+            "ja": "\u30a6\u30ab\u30e4\u30ea\u770c",
+            "pl": "Ukajali",
+            "ru": "\u0423\u043a\u0430\u044f\u043b\u0438",
+            "uk": "\u0423\u043a\u0430\u044f\u043b\u0456",
+            "abbreviation": "UCA"
+        },
+        "extra": {
+            "wikidata": "Q207424",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1923708,
+        "osm_place_id": 282295085,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Urubamba",
+        "name_eng": "Urubamba",
+        "name_translations": {
+            "en": "Province of Urubamba",
+            "es": "Provincia de Urubamba"
+        },
+        "extra": {
+            "wikidata": "Q1771879",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1973472,
+        "osm_place_id": 282234388,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Utcubamba",
+        "name_eng": "Utcubamba",
+        "name_translations": {
+            "en": "Province of Utcubamba",
+            "es": "Provincia de Utcubamba"
+        },
+        "extra": {
+            "wikidata": "Q941183",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1930912,
+        "osm_place_id": 282304082,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "V\u00edctor Fajardo",
+        "name_eng": "V\u00edctor Fajardo",
+        "name_translations": {
+            "en": "Province of V\u00edctor Fajardo",
+            "es": "Provincia de V\u00edctor Fajardo"
+        },
+        "extra": {
+            "wikidata": "Q1947116",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1930913,
+        "osm_place_id": 282232940,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Vilcas Huam\u00e1n",
+        "name_eng": "Vilcas Huam\u00e1n",
+        "name_translations": {
+            "en": "Province of Vilcas Huam\u00e1n",
+            "es": "Provincia de Vilcas Huam\u00e1n"
+        },
+        "extra": {
+            "wikidata": "Q537708",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1967978,
+        "osm_place_id": 282337123,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Vir\u00fa",
+        "name_eng": "Vir\u00fa",
+        "name_translations": {
+            "en": "Province of Vir\u00fa",
+            "es": "Provincia de Vir\u00fa"
+        },
+        "extra": {
+            "wikidata": "Q1948051",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1954504,
+        "osm_place_id": 282236815,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Yarowilca",
+        "name_eng": "Yarowilca",
+        "name_translations": {
+            "en": "Province of Yarowilca",
+            "es": "Provincia de Yarowilca"
+        },
+        "extra": {
+            "wikidata": "Q2088849",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1948267,
+        "osm_place_id": 282227373,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Yauli",
+        "name_eng": "Yauli",
+        "name_translations": {
+            "en": "Province of Yauli",
+            "es": "Provincia de Yauli"
+        },
+        "extra": {
+            "wikidata": "Q1342828",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1944673,
+        "osm_place_id": 282227619,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Yauyos",
+        "name_eng": "Yauyos",
+        "name_translations": {
+            "en": "Province of Yauyos",
+            "es": "Provincia de Yauyos"
+        },
+        "extra": {
+            "wikidata": "Q1422601",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1953194,
+        "osm_place_id": 282229697,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Yungay",
+        "name_eng": "Yungay",
+        "name_translations": {
+            "en": "Province of Yungay",
+            "es": "Provincia de Yungay"
+        },
+        "extra": {
+            "wikidata": "Q1798739",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1907874,
+        "osm_place_id": 282219298,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Yunguyo",
+        "name_eng": "Yunguyo",
+        "name_translations": {
+            "en": "Province of Yunguyo",
+            "es": "Provincia de Yunguyo"
+        },
+        "extra": {
+            "wikidata": "Q2088882",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "pe",
+        "country_cca3": "per",
+        "region_cca2": null,
+        "osm_id": 1986977,
+        "osm_place_id": 282227072,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Zarumilla",
+        "name_eng": "Zarumilla",
+        "name_translations": {
+            "en": "Province of Zarumilla",
+            "es": "Provincia de Zarumilla",
+            "fr": "Province de Zarumilla"
+        },
+        "extra": {
+            "wikidata": "Q1477797",
+            "un_locode": null
+        }
+    }
+]

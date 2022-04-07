@@ -1,0 +1,111 @@
+[
+    {
+        "country_cca2": "fk",
+        "country_cca3": "flk",
+        "region_cca2": null,
+        "osm_id": 3731148,
+        "osm_place_id": 282454964,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Eysturoyar s\u00fdsla",
+        "name_eng": "Eysturoy region",
+        "name_translations": {
+            "en": "Eysturoy region"
+        },
+        "extra": {
+            "wikidata": "Q200939",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "fk",
+        "country_cca3": "flk",
+        "region_cca2": null,
+        "osm_id": 3729316,
+        "osm_place_id": 282464606,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Nor\u00f0oya s\u00fdsla",
+        "name_eng": "Nor\u00f0oyar region",
+        "name_translations": {
+            "en": "Nor\u00f0oyar region"
+        },
+        "extra": {
+            "wikidata": "Q977685",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "fk",
+        "country_cca3": "flk",
+        "region_cca2": null,
+        "osm_id": 1423027,
+        "osm_place_id": 282212547,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Sandoyar s\u00fdsla",
+        "name_eng": "Sandoy region",
+        "name_translations": {
+            "en": "Sandoy region"
+        },
+        "extra": {
+            "wikidata": "Q208321",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "fk",
+        "country_cca3": "flk",
+        "region_cca2": null,
+        "osm_id": 3729343,
+        "osm_place_id": 282499771,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Streymoyar s\u00fdsla",
+        "name_eng": "Streymoy region",
+        "name_translations": {
+            "en": "Streymoy region",
+            "ru": "\u0421\u0442\u0440\u0435\u0439\u043c\u043e\u0439"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "fk",
+        "country_cca3": "flk",
+        "region_cca2": null,
+        "osm_id": 3729247,
+        "osm_place_id": 283026509,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Su\u00f0uroyar s\u00fdsla",
+        "name_eng": "Su\u00f0uroy region",
+        "name_translations": {
+            "en": "Su\u00f0uroy region"
+        },
+        "extra": {
+            "wikidata": "Q210309",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "fk",
+        "country_cca3": "flk",
+        "region_cca2": null,
+        "osm_id": 3729300,
+        "osm_place_id": 282570245,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "V\u00e1ga s\u00fdsla",
+        "name_eng": "V\u00e1gar region",
+        "name_translations": {
+            "en": "V\u00e1gar region"
+        },
+        "extra": {
+            "wikidata": "Q207675",
+            "un_locode": null
+        }
+    }
+]

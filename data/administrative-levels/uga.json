@@ -1,0 +1,3781 @@
+[
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": "UG-314",
+        "osm_id": 3497425,
+        "osm_place_id": 282522083,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Abim",
+        "name_eng": "Abim",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1375780",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": "UG-301",
+        "osm_id": 3501791,
+        "osm_place_id": 282541458,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Adjumani",
+        "name_eng": "Adjumani",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1229734",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": "UG-322",
+        "osm_id": 3497165,
+        "osm_place_id": 282454807,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Agago",
+        "name_eng": "Agago",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q3536053",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": "UG-323",
+        "osm_id": 3497363,
+        "osm_place_id": 282521965,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Alebtong",
+        "name_eng": "Alebtong",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q3536082",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": "UG-315",
+        "osm_id": 3497388,
+        "osm_place_id": 282418845,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Amolatar",
+        "name_eng": "Amolatar",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1318822",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": "UG-324",
+        "osm_id": 3501835,
+        "osm_place_id": 282504130,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Amudat",
+        "name_eng": "Amudat",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q3536116",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": "UG-216",
+        "osm_id": 3497424,
+        "osm_place_id": 282420940,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Amuria",
+        "name_eng": "Amuria",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1375762",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": "UG-316",
+        "osm_id": 3501792,
+        "osm_place_id": 282419456,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Amuru",
+        "name_eng": "Amuru",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1375771",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": "UG-302",
+        "osm_id": 3497126,
+        "osm_place_id": 282433941,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Apac",
+        "name_eng": "Apac",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1229750",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": null,
+        "osm_id": 3501793,
+        "osm_place_id": 282423773,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Arua",
+        "name_eng": "Arua",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1229758",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": "UG-217",
+        "osm_id": 3498159,
+        "osm_place_id": 282734201,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Budaka",
+        "name_eng": "Budaka",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1362085",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": "UG-218",
+        "osm_id": 3501974,
+        "osm_place_id": 282462716,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Bududa",
+        "name_eng": "Bududa",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1365449",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": "UG-201",
+        "osm_id": 3498135,
+        "osm_place_id": 282423034,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Bugiri",
+        "name_eng": "Bugiri",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1229798",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": null,
+        "osm_id": 5940222,
+        "osm_place_id": 282657046,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Bugisa sub-region",
+        "name_eng": "Bugisa sub-region",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q4986200",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": "UG-420",
+        "osm_id": 3498031,
+        "osm_place_id": 282788709,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Buhweju",
+        "name_eng": "Buhweju",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q3537661",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": "UG-117",
+        "osm_id": 3498102,
+        "osm_place_id": 282540476,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Buikwe",
+        "name_eng": "Buikwe",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q3321631",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": null,
+        "osm_id": 7652580,
+        "osm_place_id": 282946041,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Bujumba",
+        "name_eng": "Bujumba",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": null,
+        "osm_id": 7652579,
+        "osm_place_id": 283273558,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Bujumba",
+        "name_eng": "Bujumba",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": "UG-219",
+        "osm_id": 3498172,
+        "osm_place_id": 282420972,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Bukedea",
+        "name_eng": "Bukedea",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1375812",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": "UG-118",
+        "osm_id": 3498083,
+        "osm_place_id": 282466655,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Bukomansimbi",
+        "name_eng": "Bukomansimbi",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q3321599",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": "UG-220",
+        "osm_id": 3501836,
+        "osm_place_id": 282470849,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Bukwo",
+        "name_eng": "Bukwo",
+        "name_translations": {
+            "fr": "Bukwa"
+        },
+        "extra": {
+            "wikidata": "Q1375868",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": "UG-225",
+        "osm_id": 3498161,
+        "osm_place_id": 282462106,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Bulambuli",
+        "name_eng": "Bulambuli",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1114868",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": "UG-416",
+        "osm_id": 3501794,
+        "osm_place_id": 282468050,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Buliisa",
+        "name_eng": "Buliisa",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1229793",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": "UG-401",
+        "osm_id": 3501892,
+        "osm_place_id": 282421645,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Bundibugyo",
+        "name_eng": "Bundibugyo",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1362129",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": "UG-402",
+        "osm_id": 3498054,
+        "osm_place_id": 282469883,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Bushenyi",
+        "name_eng": "Bushenyi",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1229797",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": "UG-202",
+        "osm_id": 3501859,
+        "osm_place_id": 282690261,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Busia",
+        "name_eng": "Busia",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1229800",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": "UG-221",
+        "osm_id": 3498136,
+        "osm_place_id": 282467067,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Butaleja",
+        "name_eng": "Butaleja",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1375755",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": "UG-119",
+        "osm_id": 3498093,
+        "osm_place_id": 282788775,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Butambala",
+        "name_eng": "Butambala",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q3321622",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": "UG-120",
+        "osm_id": 3501860,
+        "osm_place_id": 282751512,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Buvuma",
+        "name_eng": "Buvuma",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q3321608",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": "UG-226",
+        "osm_id": 3498117,
+        "osm_place_id": 282488313,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Buyende",
+        "name_eng": "Buyende",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1114938",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": "UG-317",
+        "osm_id": 3497127,
+        "osm_place_id": 282873281,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Dokolo",
+        "name_eng": "Dokolo",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1318872",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": null,
+        "osm_id": 5999168,
+        "osm_place_id": 283157661,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Erute",
+        "name_eng": "Erute",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q22918977",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": "UG-121",
+        "osm_id": 3498094,
+        "osm_place_id": 282463637,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Gomba",
+        "name_eng": "Gomba",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q3321637",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": "UG-304",
+        "osm_id": 3497245,
+        "osm_place_id": 282460846,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Gulu",
+        "name_eng": "Gulu",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1028215",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": "UG-403",
+        "osm_id": 3501926,
+        "osm_place_id": 282461797,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Hoima",
+        "name_eng": "Hoima",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1186535",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": "UG-417",
+        "osm_id": 6088794,
+        "osm_place_id": 283094816,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Ibanda",
+        "name_eng": "Ibanda",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1318877",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": "UG-203",
+        "osm_id": 3498110,
+        "osm_place_id": 282420944,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Iganga",
+        "name_eng": "Iganga",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1229869",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": "UG-418",
+        "osm_id": 3501893,
+        "osm_place_id": 282991831,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Isingiro",
+        "name_eng": "Isingiro",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1318887",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": "UG-204",
+        "osm_id": 3498111,
+        "osm_place_id": 282990980,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Jinja",
+        "name_eng": "Jinja",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q983748",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": "UG-318",
+        "osm_id": 3501829,
+        "osm_place_id": 282751532,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Kaabong",
+        "name_eng": "Kaabong",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1229881",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": "UG-404",
+        "osm_id": 3501894,
+        "osm_place_id": 282423546,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Kabale",
+        "name_eng": "Kabale",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q3526470",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": "UG-405",
+        "osm_id": 3498021,
+        "osm_place_id": 282466562,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Kabarole",
+        "name_eng": "Kabarole",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1229910",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": "UG-213",
+        "osm_id": 3497364,
+        "osm_place_id": 282689836,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Kaberamaido",
+        "name_eng": "Kaberamaido",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1229906",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": "UG-101",
+        "osm_id": 3501887,
+        "osm_place_id": 282468221,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Kalangala",
+        "name_eng": "Kalangala",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q867219",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": "UG-222",
+        "osm_id": 3498126,
+        "osm_place_id": 282455003,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Kaliro",
+        "name_eng": "Kaliro",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1375859",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": "UG-122",
+        "osm_id": 3501888,
+        "osm_place_id": 282422008,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Kalungu",
+        "name_eng": "Kalungu",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q3321614",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": null,
+        "osm_id": 934571,
+        "osm_place_id": 282144410,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Kambuga Sub-County",
+        "name_eng": "Kambuga Sub-County",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q21997176",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": "UG-102",
+        "osm_id": 5457274,
+        "osm_place_id": 282655260,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Kampala",
+        "name_eng": "Kampala",
+        "name_translations": {
+            "am": "\u12ab\u121d\u1353\u120b",
+            "ar": "\u0643\u0645\u0628\u0627\u0644\u0627",
+            "be": "\u041a\u0430\u043c\u043f\u0430\u043b\u0430",
+            "bg": "\u041a\u0430\u043c\u043f\u0430\u043b\u0430",
+            "bo": "\u0f40\u0f58\u0f0b\u0f54\u0f0b\u0f63\u0f0d",
+            "cv": "\u041a\u0430\u043c\u043f\u0430\u043b\u0430",
+            "de": "Kampala",
+            "el": "\u039a\u03b1\u03bc\u03c0\u03ac\u03bb\u03b1",
+            "en": "Kampala",
+            "eo": "Kampalo",
+            "fa": "\u06a9\u0627\u0645\u067e\u0627\u0644\u0627",
+            "fr": "Kampala",
+            "he": "\u05e7\u05de\u05e4\u05dc\u05d4",
+            "hi": "\u0915\u0902\u092a\u093e\u0932\u093e",
+            "ht": "Kanpala",
+            "hu": "Kampala",
+            "hy": "\u053f\u0561\u0574\u057a\u0561\u056c\u0561",
+            "ja": "\u30ab\u30f3\u30d1\u30e9",
+            "ka": "\u10d9\u10d0\u10db\u10de\u10d0\u10da\u10d0",
+            "kn": "\u0c95\u0c82\u0caa\u0cbe\u0cb2\u0cbe",
+            "ko": "\uce84\ud314\ub77c",
+            "ku": "Kampala",
+            "ky": "\u041a\u0430\u043c\u043f\u0430\u043b\u0430",
+            "mk": "\u041a\u0430\u043c\u043f\u0430\u043b\u0430",
+            "mr": "\u0915\u0902\u092a\u093e\u0932\u093e",
+            "oc": "Kampala",
+            "pl": "Kampala",
+            "ps": "\u06a9\u0627\u0645\u067e\u0627\u0644\u0627",
+            "pt": "Kampala",
+            "ru": "\u041a\u0430\u043c\u043f\u0430\u043b\u0430",
+            "so": "Kambaala",
+            "sr": "\u041a\u0430\u043c\u043f\u0430\u043b\u0430",
+            "sv": "Kampala",
+            "ta": "\u0b95\u0bae\u0bcd\u0baa\u0bbe\u0bb2\u0bbe",
+            "tg": "\u041a\u0430\u043c\u043f\u0430\u043b\u0430",
+            "th": "\u0e01\u0e31\u0e21\u0e1b\u0e32\u0e25\u0e32",
+            "ug": "\u0643\u0627\u0645\u067e\u0627\u0644\u0627",
+            "uk": "\u041a\u0430\u043c\u043f\u0430\u043b\u0430",
+            "ur": "\u06a9\u0645\u067e\u0627\u0644\u0627",
+            "zh": "\u574e\u5e15\u62c9",
+            "arz": "\u0643\u0645\u0628\u0627\u0644\u0627",
+            "azb": "\u06a9\u0627\u0645\u067e\u0627\u0644\u0627",
+            "ckb": "\u06a9\u0627\u0645\u067e\u0627\u0644\u0627",
+            "mrj": "\u041a\u0430\u043c\u043f\u0430\u043b\u0430",
+            "pnb": "\u06a9\u0645\u067e\u0627\u0644\u0627",
+            "udm": "\u041a\u0430\u043c\u043f\u0430\u043b\u0430"
+        },
+        "extra": {
+            "wikidata": "Q926417",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": null,
+        "osm_id": 10546821,
+        "osm_place_id": 283160145,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Kampala Capital City",
+        "name_eng": "Kampala Capital City",
+        "name_translations": {
+            "am": "\u12ab\u121d\u1353\u120b",
+            "ar": "\u0645\u062f\u064a\u0646\u0629 \u0643\u0645\u0628\u0627\u0644\u0627 \u0627\u0644\u0639\u0627\u0635\u0645\u0629",
+            "be": "\u041a\u0430\u043c\u043f\u0430\u043b\u0430",
+            "bg": "\u041a\u0430\u043c\u043f\u0430\u043b\u0430",
+            "bo": "\u0f40\u0f58\u0f0b\u0f54\u0f0b\u0f63\u0f0d",
+            "cv": "\u041a\u0430\u043c\u043f\u0430\u043b\u0430",
+            "de": "Kampala",
+            "el": "\u039a\u03b1\u03bc\u03c0\u03ac\u03bb\u03b1",
+            "en": "Kampala",
+            "eo": "Kampalo",
+            "es": "Kampala",
+            "fa": "\u06a9\u0627\u0645\u067e\u0627\u0644\u0627",
+            "fr": "Kampala",
+            "he": "\u05e7\u05de\u05e4\u05dc\u05d4",
+            "hi": "\u0915\u0902\u092a\u093e\u0932\u093e",
+            "ht": "Kanpala",
+            "hu": "Kampala",
+            "hy": "\u053f\u0561\u0574\u057a\u0561\u056c\u0561",
+            "it": "Kampala",
+            "ja": "\u30ab\u30f3\u30d1\u30e9",
+            "ka": "\u10d9\u10d0\u10db\u10de\u10d0\u10da\u10d0",
+            "kn": "\u0c95\u0c82\u0caa\u0cbe\u0cb2\u0cbe",
+            "ko": "\uce84\ud314\ub77c",
+            "ku": "Kampala",
+            "ky": "\u041a\u0430\u043c\u043f\u0430\u043b\u0430",
+            "mk": "\u041a\u0430\u043c\u043f\u0430\u043b\u0430",
+            "mr": "\u0915\u0902\u092a\u093e\u0932\u093e",
+            "nl": "Kampala",
+            "no": "Kampala",
+            "oc": "Kampala",
+            "pl": "Kampala",
+            "ps": "\u06a9\u0627\u0645\u067e\u0627\u0644\u0627",
+            "pt": "Kampala",
+            "ru": "\u041a\u0430\u043c\u043f\u0430\u043b\u0430",
+            "so": "Kambaala",
+            "sr": "\u041a\u0430\u043c\u043f\u0430\u043b\u0430",
+            "sv": "Kampala",
+            "ta": "\u0b95\u0bae\u0bcd\u0baa\u0bbe\u0bb2\u0bbe",
+            "tg": "\u041a\u0430\u043c\u043f\u0430\u043b\u0430",
+            "th": "\u0e01\u0e31\u0e21\u0e1b\u0e32\u0e25\u0e32",
+            "tr": "Kampala",
+            "ug": "\u0643\u0627\u0645\u067e\u0627\u0644\u0627",
+            "uk": "\u041a\u0430\u043c\u043f\u0430\u043b\u0430",
+            "ur": "\u06a9\u0645\u067e\u0627\u0644\u0627",
+            "zh": "\u574e\u5e15\u62c9",
+            "arz": "\u0643\u0645\u0628\u0627\u0644\u0627",
+            "azb": "\u06a9\u0627\u0645\u067e\u0627\u0644\u0627",
+            "ckb": "\u06a9\u0627\u0645\u067e\u0627\u0644\u0627",
+            "mrj": "\u041a\u0430\u043c\u043f\u0430\u043b\u0430",
+            "pnb": "\u06a9\u0645\u067e\u0627\u0644\u0627",
+            "udm": "\u041a\u0430\u043c\u043f\u0430\u043b\u0430"
+        },
+        "extra": {
+            "wikidata": "Q3894",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": "UG-205",
+        "osm_id": 3498118,
+        "osm_place_id": 282434142,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Kamuli",
+        "name_eng": "Kamuli",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q164474",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": "UG-413",
+        "osm_id": 6489998,
+        "osm_place_id": 282767992,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Kamwenge",
+        "name_eng": "Kamwenge",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1318806",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": "UG-414",
+        "osm_id": 934530,
+        "osm_place_id": 282047385,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Kanungu",
+        "name_eng": "Kanungu",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1032245",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": null,
+        "osm_id": 934566,
+        "osm_place_id": 282631573,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Kanungu Town Council",
+        "name_eng": "Kanungu Town Council",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q31929817",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": null,
+        "osm_id": 934562,
+        "osm_place_id": 282190380,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Kanyantoroogo",
+        "name_eng": "Kanyantoroogo",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": "UG-206",
+        "osm_id": 3501837,
+        "osm_place_id": 282489094,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Kapchorwa",
+        "name_eng": "Kapchorwa",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1229921",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": "UG-406",
+        "osm_id": 3501895,
+        "osm_place_id": 282462108,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Kasese",
+        "name_eng": "Kasese",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1229919",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": "UG-207",
+        "osm_id": 3497397,
+        "osm_place_id": 282420832,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Katakwi",
+        "name_eng": "Katakwi",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1229930",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": null,
+        "osm_id": 934568,
+        "osm_place_id": 282148675,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Kayonza Sub-County",
+        "name_eng": "Kayonza Sub-County",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": "UG-112",
+        "osm_id": 3498104,
+        "osm_place_id": 282422956,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Kayunga",
+        "name_eng": "Kayunga",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1207391",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": "UG-407",
+        "osm_id": 3498022,
+        "osm_place_id": 282503665,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Kibaale",
+        "name_eng": "Kibaale",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q604966",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": "UG-103",
+        "osm_id": 3498002,
+        "osm_place_id": 282454906,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Kiboga",
+        "name_eng": "Kiboga",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q892064",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": "UG-227",
+        "osm_id": 3498127,
+        "osm_place_id": 282494712,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Kibuku",
+        "name_eng": "Kibuku",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1114885",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": null,
+        "osm_id": 934565,
+        "osm_place_id": 282027722,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Kirima Sub-County",
+        "name_eng": "Kirima Sub-County",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": "UG-419",
+        "osm_id": 3498012,
+        "osm_place_id": 282466928,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Kiruhura",
+        "name_eng": "Kiruhura",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1318865",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": "UG-421",
+        "osm_id": 3497965,
+        "osm_place_id": 282619806,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Kiryandongo",
+        "name_eng": "Kiryandongo",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q3539116",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": "UG-408",
+        "osm_id": 6489978,
+        "osm_place_id": 282754291,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Kisoro",
+        "name_eng": "Kisoro",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q580538",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": "UG-305",
+        "osm_id": 3501820,
+        "osm_place_id": 282419378,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Kitgum",
+        "name_eng": "Kitgum",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q500162",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": "UG-319",
+        "osm_id": 3501821,
+        "osm_place_id": 282419242,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Koboko",
+        "name_eng": "Koboko",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1318857",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": "UG-325",
+        "osm_id": 3490438,
+        "osm_place_id": 282454109,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Kole",
+        "name_eng": "Kole",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q3539151",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": "UG-306",
+        "osm_id": 3497438,
+        "osm_place_id": 282619747,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Kotido",
+        "name_eng": "Kotido",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1318843",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": "UG-208",
+        "osm_id": 3498173,
+        "osm_place_id": 282991029,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Kumi",
+        "name_eng": "Kumi",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1151062",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": "UG-228",
+        "osm_id": 3501838,
+        "osm_place_id": 282434846,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Kween",
+        "name_eng": "Kween",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q3321998",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": null,
+        "osm_id": 7652581,
+        "osm_place_id": 282977752,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Kyamuswa",
+        "name_eng": "Kyamuswa",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q31937313",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": "UG-123",
+        "osm_id": 3498003,
+        "osm_place_id": 282494619,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Kyankwanzi",
+        "name_eng": "Kyankwanzi",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q534203",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": "UG-422",
+        "osm_id": 3498013,
+        "osm_place_id": 282420996,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Kyegegwa",
+        "name_eng": "Kyegegwa",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q3539256",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": "UG-415",
+        "osm_id": 3498023,
+        "osm_place_id": 282469789,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Kyenjojo",
+        "name_eng": "Kyenjojo",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1318815",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": null,
+        "osm_id": 5994231,
+        "osm_place_id": 283314548,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Labwor",
+        "name_eng": "Labwor",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": "UG-326",
+        "osm_id": 3501822,
+        "osm_place_id": 282541569,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Lamwo",
+        "name_eng": "Lamwo",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q3539277",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": "UG-307",
+        "osm_id": 3497128,
+        "osm_place_id": 282619666,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Lira District",
+        "name_eng": "Lira District",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q206519",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": null,
+        "osm_id": 5999169,
+        "osm_place_id": 282890312,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Lira Municipality",
+        "name_eng": "Lira Municipality",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q22914739",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": "UG-229",
+        "osm_id": 3498112,
+        "osm_place_id": 282422213,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Luuka",
+        "name_eng": "Luuka",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1114977",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": "UG-104",
+        "osm_id": 3498105,
+        "osm_place_id": 282467011,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Luweero",
+        "name_eng": "Luweero",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1364817",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": null,
+        "osm_id": 5994232,
+        "osm_place_id": 282666732,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Lwemiyaga",
+        "name_eng": "Lwemiyaga",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q22670087",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": "UG-124",
+        "osm_id": 5457271,
+        "osm_place_id": 282713972,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Lwengo",
+        "name_eng": "Lwengo",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1114954",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": "UG-114",
+        "osm_id": 3501898,
+        "osm_place_id": 282470324,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Lyantonde",
+        "name_eng": "Lyantonde",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1375878",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": "UG-223",
+        "osm_id": 3501861,
+        "osm_place_id": 282421393,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Manafwa",
+        "name_eng": "Manafwa",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1375789",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": "UG-320",
+        "osm_id": 3501823,
+        "osm_place_id": 325476867,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Maracha",
+        "name_eng": "Maracha",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q588927",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": "UG-105",
+        "osm_id": 3498085,
+        "osm_place_id": 282469947,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Masaka",
+        "name_eng": "Masaka",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1032233",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": "UG-409",
+        "osm_id": 3497974,
+        "osm_place_id": 282430555,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Masindi",
+        "name_eng": "Masindi",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1032238",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": null,
+        "osm_id": 5994233,
+        "osm_place_id": 282710480,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Mawogola",
+        "name_eng": "Mawogola",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q28446262",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": "UG-214",
+        "osm_id": 3501862,
+        "osm_place_id": 282991678,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Mayuge",
+        "name_eng": "Mayuge",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1364824",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": "UG-209",
+        "osm_id": 3498160,
+        "osm_place_id": 282430706,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Mbale",
+        "name_eng": "Mbale",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q581822",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": "UG-410",
+        "osm_id": 3498063,
+        "osm_place_id": 282463564,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Mbarara",
+        "name_eng": "Mbarara",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1091595",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": "UG-423",
+        "osm_id": 3498056,
+        "osm_place_id": 282434086,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Mitooma",
+        "name_eng": "Mitooma",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q3539414",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": "UG-115",
+        "osm_id": 3498095,
+        "osm_place_id": 282454959,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Mityana",
+        "name_eng": "Mityana",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1230005",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": "UG-308",
+        "osm_id": 3501830,
+        "osm_place_id": 282421555,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Moroto",
+        "name_eng": "Moroto",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1375850",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": "UG-309",
+        "osm_id": 3501824,
+        "osm_place_id": 282423858,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Moyo",
+        "name_eng": "Moyo",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2183668",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": "UG-106",
+        "osm_id": 3498096,
+        "osm_place_id": 282494671,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Mpigi",
+        "name_eng": "Mpigi",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1362109",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": null,
+        "osm_id": 934567,
+        "osm_place_id": 282035818,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Mpungu Sub-County",
+        "name_eng": "Mpungu Sub-County",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": "UG-107",
+        "osm_id": 3498014,
+        "osm_place_id": 282522195,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Mubende",
+        "name_eng": "Mubende",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q891962",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": null,
+        "osm_id": 7652578,
+        "osm_place_id": 282963770,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Mugoye",
+        "name_eng": "Mugoye",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q31960470",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": "UG-108",
+        "osm_id": 3501889,
+        "osm_place_id": 282523142,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Mukono",
+        "name_eng": "Mukono",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1151066",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": "UG-311",
+        "osm_id": 3498251,
+        "osm_place_id": 282494809,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Nakapiripirit",
+        "name_eng": "Nakapiripirit",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1375853",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": "UG-116",
+        "osm_id": 3498004,
+        "osm_place_id": 282734038,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Nakaseke",
+        "name_eng": "Nakaseke",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q432438",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": "UG-109",
+        "osm_id": 3497981,
+        "osm_place_id": 282466847,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Nakasongola",
+        "name_eng": "Nakasongola",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q976859",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": "UG-230",
+        "osm_id": 3501863,
+        "osm_place_id": 282423326,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Namayingo",
+        "name_eng": "Namayingo",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1114915",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": "UG-224",
+        "osm_id": 3498128,
+        "osm_place_id": 282734086,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Namutumba",
+        "name_eng": "Namutumba",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1375819",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": "UG-327",
+        "osm_id": 3497439,
+        "osm_place_id": 282426405,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Napak",
+        "name_eng": "Napak",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q3539495",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": "UG-310",
+        "osm_id": 3501825,
+        "osm_place_id": 282468178,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Nebbi",
+        "name_eng": "Nebbi",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1375825",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": "UG-231",
+        "osm_id": 3497398,
+        "osm_place_id": 282990831,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Ngora",
+        "name_eng": "Ngora",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1114903",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": "UG-424",
+        "osm_id": 3498024,
+        "osm_place_id": 282488217,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Ntoroko",
+        "name_eng": "Ntoroko",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q3539547",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": "UG-411",
+        "osm_id": 3501899,
+        "osm_place_id": 282488716,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Ntungamo",
+        "name_eng": "Ntungamo",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q204642",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": "UG-328",
+        "osm_id": 3497970,
+        "osm_place_id": 282463425,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Nwoya",
+        "name_eng": "Nwoya",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q3539572",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": null,
+        "osm_id": 934570,
+        "osm_place_id": 282198407,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Nyaka Sub-County",
+        "name_eng": "Nyaka Sub-County",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": null,
+        "osm_id": 934564,
+        "osm_place_id": 282418943,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Nyamirama Sub-County",
+        "name_eng": "Nyamirama Sub-County",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": "UG-329",
+        "osm_id": 3497166,
+        "osm_place_id": 282494469,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Otuke",
+        "name_eng": "Otuke",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q3539602",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": "UG-321",
+        "osm_id": 3497114,
+        "osm_place_id": 282420807,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Oyam",
+        "name_eng": "Oyam",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1318833",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": "UG-312",
+        "osm_id": 3497167,
+        "osm_place_id": 282733749,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Pader",
+        "name_eng": "Pader",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1230035",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": "UG-210",
+        "osm_id": 3498129,
+        "osm_place_id": 282430623,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Pallisa",
+        "name_eng": "Pallisa",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1375843",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": null,
+        "osm_id": 8085725,
+        "osm_place_id": 283277728,
+        "osm_admin_level": 4,
+        "osm_type": "refugee_camp",
+        "name_loc": "Point A",
+        "name_eng": "Point A",
+        "name_translations": {
+            "en": "Point A"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": null,
+        "osm_id": 8085726,
+        "osm_place_id": 283626976,
+        "osm_admin_level": 4,
+        "osm_type": "refugee_camp",
+        "name_loc": "Point B",
+        "name_eng": "Point B",
+        "name_translations": {
+            "en": "Point B"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": null,
+        "osm_id": 8085580,
+        "osm_place_id": 283002110,
+        "osm_admin_level": 4,
+        "osm_type": "refugee_camp",
+        "name_loc": "Point C",
+        "name_eng": "Point C",
+        "name_translations": {
+            "en": "Point C"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": null,
+        "osm_id": 8085577,
+        "osm_place_id": 282931849,
+        "osm_admin_level": 4,
+        "osm_type": "refugee_camp",
+        "name_loc": "Point D",
+        "name_eng": "Point D",
+        "name_translations": {
+            "en": "Point D"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": null,
+        "osm_id": 8085727,
+        "osm_place_id": 282945890,
+        "osm_admin_level": 4,
+        "osm_type": "refugee_camp",
+        "name_loc": "Point E",
+        "name_eng": "Point E",
+        "name_translations": {
+            "en": "Point E"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": null,
+        "osm_id": 8085576,
+        "osm_place_id": 282942820,
+        "osm_admin_level": 4,
+        "osm_type": "refugee_camp",
+        "name_loc": "Point F",
+        "name_eng": "Point F",
+        "name_translations": {
+            "en": "Point F"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": null,
+        "osm_id": 8085581,
+        "osm_place_id": 283250536,
+        "osm_admin_level": 4,
+        "osm_type": "refugee_camp",
+        "name_loc": "Point G",
+        "name_eng": "Point G",
+        "name_translations": {
+            "en": "Point G"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": null,
+        "osm_id": 8085579,
+        "osm_place_id": 282929536,
+        "osm_admin_level": 4,
+        "osm_type": "refugee_camp",
+        "name_loc": "Point H",
+        "name_eng": "Point H",
+        "name_translations": {
+            "en": "Point H"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": null,
+        "osm_id": 8085578,
+        "osm_place_id": 282982680,
+        "osm_admin_level": 4,
+        "osm_type": "refugee_camp",
+        "name_loc": "Point I",
+        "name_eng": "Point I",
+        "name_translations": {
+            "en": "Point I"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": null,
+        "osm_id": 8085582,
+        "osm_place_id": 283243851,
+        "osm_admin_level": 4,
+        "osm_type": "refugee_camp",
+        "name_loc": "Point J",
+        "name_eng": "Point J",
+        "name_translations": {
+            "en": "Point J"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": "UG-110",
+        "osm_id": 3501890,
+        "osm_place_id": 282690322,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Rakai",
+        "name_eng": "Rakai",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q976873",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": "UG-425",
+        "osm_id": 3501896,
+        "osm_place_id": 282467295,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Rubirizi",
+        "name_eng": "Rubirizi",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q3539648",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": null,
+        "osm_id": 934563,
+        "osm_place_id": 282367925,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "Rugyeyo Sub-County",
+        "name_eng": "Rugyeyo Sub-County",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": "UG-412",
+        "osm_id": 3501900,
+        "osm_place_id": 282434668,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Rukungiri",
+        "name_eng": "Rukungiri",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q289419",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": "UG-111",
+        "osm_id": 3498015,
+        "osm_place_id": 282689874,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Sembabule",
+        "name_eng": "Sembabule",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q976883",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": "UG-232",
+        "osm_id": 3497399,
+        "osm_place_id": 282422089,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Serere",
+        "name_eng": "Serere",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1114927",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": "UG-426",
+        "osm_id": 3498055,
+        "osm_place_id": 282488273,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Sheema",
+        "name_eng": "Sheema",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q3539711",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": "UG-215",
+        "osm_id": 3498162,
+        "osm_place_id": 282418873,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Sironko",
+        "name_eng": "Sironko",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1375835",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": "UG-211",
+        "osm_id": 3497400,
+        "osm_place_id": 282460916,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Soroti",
+        "name_eng": "Soroti",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1091337",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": "UG-212",
+        "osm_id": 3501864,
+        "osm_place_id": 282461594,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Tororo",
+        "name_eng": "Tororo",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1186541",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": null,
+        "osm_id": 8086169,
+        "osm_place_id": 282991187,
+        "osm_admin_level": 5,
+        "osm_type": "refugee_camp",
+        "name_loc": "Village 01",
+        "name_eng": "Village 01",
+        "name_translations": {
+            "en": "Village 01"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": null,
+        "osm_id": 8086187,
+        "osm_place_id": 283061787,
+        "osm_admin_level": 5,
+        "osm_type": "refugee_camp",
+        "name_loc": "Village 01",
+        "name_eng": "Village 01",
+        "name_translations": {
+            "en": "Village 01"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": null,
+        "osm_id": 8086174,
+        "osm_place_id": 282917927,
+        "osm_admin_level": 5,
+        "osm_type": "refugee_camp",
+        "name_loc": "Village 02",
+        "name_eng": "Village 02",
+        "name_translations": {
+            "en": "Village 02"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": null,
+        "osm_id": 8086170,
+        "osm_place_id": 283232565,
+        "osm_admin_level": 5,
+        "osm_type": "refugee_camp",
+        "name_loc": "Village 02",
+        "name_eng": "Village 02",
+        "name_translations": {
+            "en": "Village 02"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": null,
+        "osm_id": 8086186,
+        "osm_place_id": 283294973,
+        "osm_admin_level": 5,
+        "osm_type": "refugee_camp",
+        "name_loc": "Village 03",
+        "name_eng": "Village 03",
+        "name_translations": {
+            "en": "Village 03"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": null,
+        "osm_id": 8086171,
+        "osm_place_id": 283230290,
+        "osm_admin_level": 5,
+        "osm_type": "refugee_camp",
+        "name_loc": "Village 03",
+        "name_eng": "Village 03",
+        "name_translations": {
+            "en": "Village 03"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": null,
+        "osm_id": 8086175,
+        "osm_place_id": 282986224,
+        "osm_admin_level": 5,
+        "osm_type": "refugee_camp",
+        "name_loc": "Village 04",
+        "name_eng": "Village 04",
+        "name_translations": {
+            "en": "Village 04"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": null,
+        "osm_id": 8086168,
+        "osm_place_id": 282915672,
+        "osm_admin_level": 5,
+        "osm_type": "refugee_camp",
+        "name_loc": "Village 05",
+        "name_eng": "Village 05",
+        "name_translations": {
+            "en": "Village 05"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": null,
+        "osm_id": 8086166,
+        "osm_place_id": 282915781,
+        "osm_admin_level": 5,
+        "osm_type": "refugee_camp",
+        "name_loc": "Village 06",
+        "name_eng": "Village 06",
+        "name_translations": {
+            "en": "Village 06"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": null,
+        "osm_id": 8086176,
+        "osm_place_id": 283301566,
+        "osm_admin_level": 5,
+        "osm_type": "refugee_camp",
+        "name_loc": "Village 06",
+        "name_eng": "Village 06",
+        "name_translations": {
+            "en": "Village 06"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": null,
+        "osm_id": 8086183,
+        "osm_place_id": 282936564,
+        "osm_admin_level": 5,
+        "osm_type": "refugee_camp",
+        "name_loc": "Village 08",
+        "name_eng": "Village 08",
+        "name_translations": {
+            "en": "Village 08"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": null,
+        "osm_id": 8086163,
+        "osm_place_id": 282929605,
+        "osm_admin_level": 5,
+        "osm_type": "refugee_camp",
+        "name_loc": "Village 08",
+        "name_eng": "Village 08",
+        "name_translations": {
+            "en": "Village 08"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": null,
+        "osm_id": 8086164,
+        "osm_place_id": 282989501,
+        "osm_admin_level": 5,
+        "osm_type": "refugee_camp",
+        "name_loc": "Village 09",
+        "name_eng": "Village 09",
+        "name_translations": {
+            "en": "Village 09"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": null,
+        "osm_id": 8086162,
+        "osm_place_id": 282929464,
+        "osm_admin_level": 5,
+        "osm_type": "refugee_camp",
+        "name_loc": "Village 10",
+        "name_eng": "Village 10",
+        "name_translations": {
+            "en": "Village 10"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": null,
+        "osm_id": 8086178,
+        "osm_place_id": 283000124,
+        "osm_admin_level": 5,
+        "osm_type": "refugee_camp",
+        "name_loc": "Village 11",
+        "name_eng": "Village 11",
+        "name_translations": {
+            "en": "Village 11"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": null,
+        "osm_id": 8086160,
+        "osm_place_id": 283626983,
+        "osm_admin_level": 5,
+        "osm_type": "refugee_camp",
+        "name_loc": "Village 11",
+        "name_eng": "Village 11",
+        "name_translations": {
+            "en": "Village 11"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": null,
+        "osm_id": 8086180,
+        "osm_place_id": 282928475,
+        "osm_admin_level": 5,
+        "osm_type": "refugee_camp",
+        "name_loc": "Village 12",
+        "name_eng": "Village 12",
+        "name_translations": {
+            "en": "Village 12"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": null,
+        "osm_id": 8086161,
+        "osm_place_id": 282946048,
+        "osm_admin_level": 5,
+        "osm_type": "refugee_camp",
+        "name_loc": "Village 12",
+        "name_eng": "Village 12",
+        "name_translations": {
+            "en": "Village 12"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": null,
+        "osm_id": 8086158,
+        "osm_place_id": 282995515,
+        "osm_admin_level": 5,
+        "osm_type": "refugee_camp",
+        "name_loc": "Village 13",
+        "name_eng": "Village 13",
+        "name_translations": {
+            "en": "Village 13"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": null,
+        "osm_id": 8086177,
+        "osm_place_id": 282978566,
+        "osm_admin_level": 5,
+        "osm_type": "refugee_camp",
+        "name_loc": "Village 13",
+        "name_eng": "Village 13",
+        "name_translations": {
+            "en": "Village 13"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": null,
+        "osm_id": 8086179,
+        "osm_place_id": 282956807,
+        "osm_admin_level": 5,
+        "osm_type": "refugee_camp",
+        "name_loc": "Village 14",
+        "name_eng": "Village 14",
+        "name_translations": {
+            "en": "Village 14"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": null,
+        "osm_id": 8086159,
+        "osm_place_id": 283277762,
+        "osm_admin_level": 5,
+        "osm_type": "refugee_camp",
+        "name_loc": "Village 14",
+        "name_eng": "Village 14",
+        "name_translations": {
+            "en": "Village 14"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": null,
+        "osm_id": 8086173,
+        "osm_place_id": 283504189,
+        "osm_admin_level": 5,
+        "osm_type": "refugee_camp",
+        "name_loc": "Village 15",
+        "name_eng": "Village 15",
+        "name_translations": {
+            "en": "Village 15"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": null,
+        "osm_id": 8086150,
+        "osm_place_id": 283360223,
+        "osm_admin_level": 5,
+        "osm_type": "refugee_camp",
+        "name_loc": "Village 16",
+        "name_eng": "Village 16",
+        "name_translations": {
+            "en": "Village 16"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": null,
+        "osm_id": 8086172,
+        "osm_place_id": 283013616,
+        "osm_admin_level": 5,
+        "osm_type": "refugee_camp",
+        "name_loc": "Village 16",
+        "name_eng": "Village 16",
+        "name_translations": {
+            "en": "Village 16"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": null,
+        "osm_id": 8086145,
+        "osm_place_id": 283312237,
+        "osm_admin_level": 5,
+        "osm_type": "refugee_camp",
+        "name_loc": "Village 17",
+        "name_eng": "Village 17",
+        "name_translations": {
+            "en": "Village 17"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": null,
+        "osm_id": 8089174,
+        "osm_place_id": 282967477,
+        "osm_admin_level": 5,
+        "osm_type": "refugee_camp",
+        "name_loc": "Village 18",
+        "name_eng": "Village 18",
+        "name_translations": {
+            "en": "Village 18"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": null,
+        "osm_id": 8086146,
+        "osm_place_id": 282991004,
+        "osm_admin_level": 5,
+        "osm_type": "refugee_camp",
+        "name_loc": "Village 18",
+        "name_eng": "Village 18",
+        "name_translations": {
+            "en": "Village 18"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": null,
+        "osm_id": 8089196,
+        "osm_place_id": 282968779,
+        "osm_admin_level": 5,
+        "osm_type": "refugee_camp",
+        "name_loc": "Village 19",
+        "name_eng": "Village 19",
+        "name_translations": {
+            "en": "Village 19"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": null,
+        "osm_id": 8086148,
+        "osm_place_id": 282970344,
+        "osm_admin_level": 5,
+        "osm_type": "refugee_camp",
+        "name_loc": "Village 20",
+        "name_eng": "Village 20",
+        "name_translations": {
+            "en": "Village 20"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": null,
+        "osm_id": 8089175,
+        "osm_place_id": 282914378,
+        "osm_admin_level": 5,
+        "osm_type": "refugee_camp",
+        "name_loc": "Village 20",
+        "name_eng": "Village 20",
+        "name_translations": {
+            "en": "Village 20"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": null,
+        "osm_id": 8089197,
+        "osm_place_id": 283268731,
+        "osm_admin_level": 5,
+        "osm_type": "refugee_camp",
+        "name_loc": "Village 21",
+        "name_eng": "Village 21",
+        "name_translations": {
+            "en": "Village 21"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": null,
+        "osm_id": 8086149,
+        "osm_place_id": 282941203,
+        "osm_admin_level": 5,
+        "osm_type": "refugee_camp",
+        "name_loc": "Village 21",
+        "name_eng": "Village 21",
+        "name_translations": {
+            "en": "Village 21"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": null,
+        "osm_id": 8089177,
+        "osm_place_id": 283232679,
+        "osm_admin_level": 5,
+        "osm_type": "refugee_camp",
+        "name_loc": "Village 22",
+        "name_eng": "Village 22",
+        "name_translations": {
+            "en": "Village 22"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": null,
+        "osm_id": 8086152,
+        "osm_place_id": 282936884,
+        "osm_admin_level": 5,
+        "osm_type": "refugee_camp",
+        "name_loc": "Village 22",
+        "name_eng": "Village 22",
+        "name_translations": {
+            "en": "Village 22"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": null,
+        "osm_id": 8089200,
+        "osm_place_id": 282919426,
+        "osm_admin_level": 5,
+        "osm_type": "refugee_camp",
+        "name_loc": "Village 23",
+        "name_eng": "Village 23",
+        "name_translations": {
+            "en": "Village 23"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": null,
+        "osm_id": 8086151,
+        "osm_place_id": 283142440,
+        "osm_admin_level": 5,
+        "osm_type": "refugee_camp",
+        "name_loc": "Village 23",
+        "name_eng": "Village 23",
+        "name_translations": {
+            "en": "Village 23"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": null,
+        "osm_id": 8089198,
+        "osm_place_id": 283626681,
+        "osm_admin_level": 5,
+        "osm_type": "refugee_camp",
+        "name_loc": "Village 24",
+        "name_eng": "Village 24",
+        "name_translations": {
+            "en": "Village 24"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": null,
+        "osm_id": 8086156,
+        "osm_place_id": 283061971,
+        "osm_admin_level": 5,
+        "osm_type": "refugee_camp",
+        "name_loc": "Village 24",
+        "name_eng": "Village 24",
+        "name_translations": {
+            "en": "Village 24"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": null,
+        "osm_id": 8089202,
+        "osm_place_id": 282995205,
+        "osm_admin_level": 5,
+        "osm_type": "refugee_camp",
+        "name_loc": "Village 25",
+        "name_eng": "Village 25",
+        "name_translations": {
+            "en": "Village 25"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": null,
+        "osm_id": 8086154,
+        "osm_place_id": 283111876,
+        "osm_admin_level": 5,
+        "osm_type": "refugee_camp",
+        "name_loc": "Village 26",
+        "name_eng": "Village 26",
+        "name_translations": {
+            "en": "Village 26"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": null,
+        "osm_id": 8089203,
+        "osm_place_id": 282932330,
+        "osm_admin_level": 5,
+        "osm_type": "refugee_camp",
+        "name_loc": "Village 26",
+        "name_eng": "Village 26",
+        "name_translations": {
+            "en": "Village 26"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": null,
+        "osm_id": 8089204,
+        "osm_place_id": 282919496,
+        "osm_admin_level": 5,
+        "osm_type": "refugee_camp",
+        "name_loc": "Village 27",
+        "name_eng": "Village 27",
+        "name_translations": {
+            "en": "Village 27"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": null,
+        "osm_id": 8086153,
+        "osm_place_id": 283184461,
+        "osm_admin_level": 5,
+        "osm_type": "refugee_camp",
+        "name_loc": "Village 27",
+        "name_eng": "Village 27",
+        "name_translations": {
+            "en": "Village 27"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": null,
+        "osm_id": 8089205,
+        "osm_place_id": 282973069,
+        "osm_admin_level": 5,
+        "osm_type": "refugee_camp",
+        "name_loc": "Village 28",
+        "name_eng": "Village 28",
+        "name_translations": {
+            "en": "Village 28"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": null,
+        "osm_id": 8089206,
+        "osm_place_id": 282920033,
+        "osm_admin_level": 5,
+        "osm_type": "refugee_camp",
+        "name_loc": "Village 29",
+        "name_eng": "Village 29",
+        "name_translations": {
+            "en": "Village 29"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": null,
+        "osm_id": 8089208,
+        "osm_place_id": 283237162,
+        "osm_admin_level": 5,
+        "osm_type": "refugee_camp",
+        "name_loc": "Village 30",
+        "name_eng": "Village 30",
+        "name_translations": {
+            "en": "Village 30"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": null,
+        "osm_id": 8089207,
+        "osm_place_id": 282994109,
+        "osm_admin_level": 5,
+        "osm_type": "refugee_camp",
+        "name_loc": "Village 31",
+        "name_eng": "Village 31",
+        "name_translations": {
+            "en": "Village 31"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": null,
+        "osm_id": 8089209,
+        "osm_place_id": 283235160,
+        "osm_admin_level": 5,
+        "osm_type": "refugee_camp",
+        "name_loc": "Village 32",
+        "name_eng": "Village 32",
+        "name_translations": {
+            "en": "Village 32"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": null,
+        "osm_id": 8089210,
+        "osm_place_id": 283017216,
+        "osm_admin_level": 5,
+        "osm_type": "refugee_camp",
+        "name_loc": "Village 33",
+        "name_eng": "Village 33",
+        "name_translations": {
+            "en": "Village 33"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": null,
+        "osm_id": 8089201,
+        "osm_place_id": 282919118,
+        "osm_admin_level": 5,
+        "osm_type": "refugee_camp",
+        "name_loc": "Village 34",
+        "name_eng": "Village 34",
+        "name_translations": {
+            "en": "Village 34"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": null,
+        "osm_id": 8089199,
+        "osm_place_id": 282936056,
+        "osm_admin_level": 5,
+        "osm_type": "refugee_camp",
+        "name_loc": "Village 35",
+        "name_eng": "Village 35",
+        "name_translations": {
+            "en": "Village 35"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": null,
+        "osm_id": 8089179,
+        "osm_place_id": 283012857,
+        "osm_admin_level": 5,
+        "osm_type": "refugee_camp",
+        "name_loc": "Village 36",
+        "name_eng": "Village 36",
+        "name_translations": {
+            "en": "Village 36"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": null,
+        "osm_id": 8089176,
+        "osm_place_id": 282989087,
+        "osm_admin_level": 5,
+        "osm_type": "refugee_camp",
+        "name_loc": "Village 37",
+        "name_eng": "Village 37",
+        "name_translations": {
+            "en": "Village 37"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": null,
+        "osm_id": 8089173,
+        "osm_place_id": 282912875,
+        "osm_admin_level": 5,
+        "osm_type": "refugee_camp",
+        "name_loc": "Village 38",
+        "name_eng": "Village 38",
+        "name_translations": {
+            "en": "Village 38"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": null,
+        "osm_id": 8089172,
+        "osm_place_id": 282925071,
+        "osm_admin_level": 5,
+        "osm_type": "refugee_camp",
+        "name_loc": "Village 39",
+        "name_eng": "Village 39",
+        "name_translations": {
+            "en": "Village 39"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": null,
+        "osm_id": 8089178,
+        "osm_place_id": 283230601,
+        "osm_admin_level": 5,
+        "osm_type": "refugee_camp",
+        "name_loc": "Village 40",
+        "name_eng": "Village 40",
+        "name_translations": {
+            "en": "Village 40"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": null,
+        "osm_id": 8089171,
+        "osm_place_id": 282988473,
+        "osm_admin_level": 5,
+        "osm_type": "refugee_camp",
+        "name_loc": "Village 41",
+        "name_eng": "Village 41",
+        "name_translations": {
+            "en": "Village 41"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": null,
+        "osm_id": 8089170,
+        "osm_place_id": 282929736,
+        "osm_admin_level": 5,
+        "osm_type": "refugee_camp",
+        "name_loc": "Village 42",
+        "name_eng": "Village 42",
+        "name_translations": {
+            "en": "Village 42"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": null,
+        "osm_id": 8089168,
+        "osm_place_id": 282946195,
+        "osm_admin_level": 5,
+        "osm_type": "refugee_camp",
+        "name_loc": "Village 43",
+        "name_eng": "Village 43",
+        "name_translations": {
+            "en": "Village 43"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": null,
+        "osm_id": 8089169,
+        "osm_place_id": 282929606,
+        "osm_admin_level": 5,
+        "osm_type": "refugee_camp",
+        "name_loc": "Village 44",
+        "name_eng": "Village 44",
+        "name_translations": {
+            "en": "Village 44"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": null,
+        "osm_id": 8089180,
+        "osm_place_id": 283503680,
+        "osm_admin_level": 5,
+        "osm_type": "refugee_camp",
+        "name_loc": "Village 45",
+        "name_eng": "Village 45",
+        "name_translations": {
+            "en": "Village 45"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": null,
+        "osm_id": 8089183,
+        "osm_place_id": 283300817,
+        "osm_admin_level": 5,
+        "osm_type": "refugee_camp",
+        "name_loc": "Village 46",
+        "name_eng": "Village 46",
+        "name_translations": {
+            "en": "Village 46"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": null,
+        "osm_id": 8089184,
+        "osm_place_id": 282977910,
+        "osm_admin_level": 5,
+        "osm_type": "refugee_camp",
+        "name_loc": "Village 47",
+        "name_eng": "Village 47",
+        "name_translations": {
+            "en": "Village 47"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": null,
+        "osm_id": 8089185,
+        "osm_place_id": 282999759,
+        "osm_admin_level": 5,
+        "osm_type": "refugee_camp",
+        "name_loc": "Village 48",
+        "name_eng": "Village 48",
+        "name_translations": {
+            "en": "Village 48"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": null,
+        "osm_id": 8089182,
+        "osm_place_id": 282985741,
+        "osm_admin_level": 5,
+        "osm_type": "refugee_camp",
+        "name_loc": "Village 49",
+        "name_eng": "Village 49",
+        "name_translations": {
+            "en": "Village 49"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": null,
+        "osm_id": 8089186,
+        "osm_place_id": 282959760,
+        "osm_admin_level": 5,
+        "osm_type": "refugee_camp",
+        "name_loc": "Village 50",
+        "name_eng": "Village 50",
+        "name_translations": {
+            "en": "Village 50"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": null,
+        "osm_id": 8089181,
+        "osm_place_id": 282916983,
+        "osm_admin_level": 5,
+        "osm_type": "refugee_camp",
+        "name_loc": "Village 51",
+        "name_eng": "Village 51",
+        "name_translations": {
+            "en": "Village 51"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": null,
+        "osm_id": 8089187,
+        "osm_place_id": 282932581,
+        "osm_admin_level": 5,
+        "osm_type": "refugee_camp",
+        "name_loc": "Village 52",
+        "name_eng": "Village 52",
+        "name_translations": {
+            "en": "Village 52"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": null,
+        "osm_id": 8089190,
+        "osm_place_id": 282927467,
+        "osm_admin_level": 5,
+        "osm_type": "refugee_camp",
+        "name_loc": "Village 53",
+        "name_eng": "Village 53",
+        "name_translations": {
+            "en": "Village 53"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": null,
+        "osm_id": 8089195,
+        "osm_place_id": 282965580,
+        "osm_admin_level": 5,
+        "osm_type": "refugee_camp",
+        "name_loc": "Village 54",
+        "name_eng": "Village 54",
+        "name_translations": {
+            "en": "Village 54"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": null,
+        "osm_id": 8089189,
+        "osm_place_id": 283133118,
+        "osm_admin_level": 5,
+        "osm_type": "refugee_camp",
+        "name_loc": "Village 55",
+        "name_eng": "Village 55",
+        "name_translations": {
+            "en": "Village 55"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": null,
+        "osm_id": 8089193,
+        "osm_place_id": 283286546,
+        "osm_admin_level": 5,
+        "osm_type": "refugee_camp",
+        "name_loc": "Village 56",
+        "name_eng": "Village 56",
+        "name_translations": {
+            "en": "Village 56"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": null,
+        "osm_id": 8089188,
+        "osm_place_id": 283351847,
+        "osm_admin_level": 5,
+        "osm_type": "refugee_camp",
+        "name_loc": "Village 57",
+        "name_eng": "Village 57",
+        "name_translations": {
+            "en": "Village 57"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": null,
+        "osm_id": 8089191,
+        "osm_place_id": 283178197,
+        "osm_admin_level": 5,
+        "osm_type": "refugee_camp",
+        "name_loc": "Village 58",
+        "name_eng": "Village 58",
+        "name_translations": {
+            "en": "Village 58"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": null,
+        "osm_id": 8089192,
+        "osm_place_id": 283103586,
+        "osm_admin_level": 5,
+        "osm_type": "refugee_camp",
+        "name_loc": "Village 59",
+        "name_eng": "Village 59",
+        "name_translations": {
+            "en": "Village 59"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": null,
+        "osm_id": 8089194,
+        "osm_place_id": 283053633,
+        "osm_admin_level": 5,
+        "osm_type": "refugee_camp",
+        "name_loc": "Village 60",
+        "name_eng": "Village 60",
+        "name_translations": {
+            "en": "Village 60"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": "UG-113",
+        "osm_id": 3498106,
+        "osm_place_id": 282421092,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Wakiso",
+        "name_eng": "Wakiso",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q976848",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": "UG-313",
+        "osm_id": 3501826,
+        "osm_place_id": 282421956,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Yumbe",
+        "name_eng": "Yumbe",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1362587",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "ug",
+        "country_cca3": "uga",
+        "region_cca2": "UG-330",
+        "osm_id": 3501827,
+        "osm_place_id": 282523101,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Zombo",
+        "name_eng": "Zombo",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q3539730",
+            "un_locode": null
+        }
+    }
+]

@@ -1,0 +1,3391 @@
+[
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 3629362,
+        "osm_place_id": 282708028,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0411\u0430\u0440\u0430\u043d\u043e\u0432\u0438\u0447\u0438",
+        "name_eng": "Baranavichy",
+        "name_translations": {
+            "be": "\u0411\u0430\u0440\u0430\u043d\u0430\u0432\u0456\u0447\u044b",
+            "de": "Baranawitschy",
+            "en": "Baranavichy",
+            "eo": "Baranavi\u0109i",
+            "fr": "Baranavitchy",
+            "lt": "Baranovi\u010diai",
+            "pl": "Baranowicze",
+            "ru": "\u0411\u0430\u0440\u0430\u043d\u043e\u0432\u0438\u0447\u0438",
+            "sr": "\u0411\u0430\u0440\u0430\u043d\u0430\u0432\u0438\u0447\u0438",
+            "uk": "\u0411\u0430\u0440\u0430\u043d\u0430\u0432\u0456\u0447\u0438",
+            "be-tarask": "\u0411\u0430\u0440\u0430\u043d\u0430\u0432\u0456\u0447\u044b"
+        },
+        "extra": {
+            "wikidata": "Q237655",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 71116,
+        "osm_place_id": 281717636,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0411\u0430\u0440\u0430\u043d\u043e\u0432\u0438\u0447\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_eng": "Baranavichy District",
+        "name_translations": {
+            "be": "\u0411\u0430\u0440\u0430\u043d\u0430\u0432\u0456\u0446\u043a\u0456 \u0440\u0430\u0451\u043d",
+            "de": "Rajon Baranawitschy",
+            "en": "Baranavichy District",
+            "lt": "Baranovi\u010di\u0173 rajonas",
+            "pl": "rejon baranowicki",
+            "ru": "\u0411\u0430\u0440\u0430\u043d\u043e\u0432\u0438\u0447\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u0411\u0430\u0440\u0430\u043d\u0430\u0432\u0456\u0446\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q1885613",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 70637,
+        "osm_place_id": 281718448,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0411\u0435\u043b\u044b\u043d\u0438\u0447\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_eng": "Byalynichy District",
+        "name_translations": {
+            "be": "\u0411\u044f\u043b\u044b\u043d\u0456\u0446\u043a\u0456 \u0440\u0430\u0451\u043d",
+            "en": "Byalynichy District",
+            "lt": "Bialyni\u010d\u0173 rajonas",
+            "pl": "rejon bia\u0142ynicki",
+            "ru": "\u0411\u0435\u043b\u044b\u043d\u0438\u0447\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u0411\u044f\u043b\u044c\u043d\u0456\u0446\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q1997119",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 70575,
+        "osm_place_id": 281718295,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0411\u0435\u0440\u0435\u0437\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_eng": "Byerazino District",
+        "name_translations": {
+            "be": "\u0411\u044f\u0440\u044d\u0437\u0456\u043d\u0441\u043a\u0456 \u0440\u0430\u0451\u043d",
+            "en": "Byerazino District",
+            "lt": "Berazino rajonas",
+            "pl": "rejon berezy\u0144ski",
+            "ru": "\u0411\u0435\u0440\u0435\u0437\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u0411\u044f\u0440\u0435\u0437\u0438\u043d\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q2091552",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 71107,
+        "osm_place_id": 281791170,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0411\u0435\u0440\u0451\u0437\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_eng": "Byaroza District",
+        "name_translations": {
+            "be": "\u0411\u044f\u0440\u043e\u0437\u0430\u045e\u0441\u043a\u0456 \u0440\u0430\u0451\u043d",
+            "de": "Rajon Bjarosa",
+            "en": "Byaroza District",
+            "pl": "rejon bereski",
+            "ru": "\u0411\u0435\u0440\u0451\u0437\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u0411\u0435\u0440\u0435\u0437\u0456\u0432\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q545069",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 70790,
+        "osm_place_id": 282387541,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0411\u0435\u0440\u0435\u0441\u0442\u043e\u0432\u0438\u0446\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_eng": "Byerastavitsa District",
+        "name_translations": {
+            "be": "\u0411\u0435\u0440\u0430\u0441\u0442\u0430\u0432\u0456\u0446\u043a\u0456 \u0440\u0430\u0451\u043d",
+            "en": "Byerastavitsa District",
+            "lt": "Berastavicos rajonas",
+            "pl": "rejon brzostowicki",
+            "ru": "\u0411\u0435\u0440\u0435\u0441\u0442\u043e\u0432\u0438\u0446\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u0411\u0454\u0440\u0430\u0441\u0442\u0430\u0432\u0456\u0446\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q1952942",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 70668,
+        "osm_place_id": 281718552,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0411\u0435\u0448\u0435\u043d\u043a\u043e\u0432\u0438\u0447\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_eng": "Beshankovichy District",
+        "name_translations": {
+            "be": "\u0411\u0435\u0448\u0430\u043d\u043a\u043e\u0432\u0456\u0446\u043a\u0456 \u0440\u0430\u0451\u043d",
+            "en": "Beshankovichy District",
+            "lt": "Be\u0161enkovi\u010di\u0173 rajonas",
+            "pl": "rejon bieszenkowicki",
+            "ru": "\u0411\u0435\u0448\u0435\u043d\u043a\u043e\u0432\u0438\u0447\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u0411\u0454\u0448\u0430\u043d\u043a\u043e\u0432\u0456\u0446\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q1378251",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 167857,
+        "osm_place_id": 281930341,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0411\u043e\u0431\u0440\u0443\u0439\u0441\u043a",
+        "name_eng": "Babruysk",
+        "name_translations": {
+            "be": "\u0411\u0430\u0431\u0440\u0443\u0439\u0441\u043a",
+            "de": "Babrujsk",
+            "en": "Babruysk",
+            "eo": "Babrujsk",
+            "es": "Babruisk",
+            "et": "Babruisk",
+            "fr": "Babrou\u00efsk",
+            "lt": "Babruiskas",
+            "nl": "Babroejsk",
+            "pl": "Bobrujsk",
+            "ru": "\u0411\u043e\u0431\u0440\u0443\u0439\u0441\u043a",
+            "sr": "\u0411\u0430\u0431\u0440\u0443\u0458\u0441\u043a",
+            "uk": "\u0411\u0430\u0431\u0440\u0443\u0439\u0441\u044c\u043a",
+            "zh": "\u535a\u5e03\u9c81\u4f0a\u65af\u514b",
+            "sr-Latn": "Bobrujsk",
+            "be-tarask": "\u0411\u0430\u0431\u0440\u0443\u0439\u0441\u043a"
+        },
+        "extra": {
+            "wikidata": "Q207294",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 59148,
+        "osm_place_id": 282001449,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0411\u043e\u0431\u0440\u0443\u0439\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_eng": "Babruysk District",
+        "name_translations": {
+            "be": "\u0411\u0430\u0431\u0440\u0443\u0439\u0441\u043a\u0456 \u0440\u0430\u0451\u043d",
+            "en": "Babruysk District",
+            "lt": "Babruisko rajonas",
+            "pl": "rejon bobrujski",
+            "ru": "\u0411\u043e\u0431\u0440\u0443\u0439\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u0411\u0430\u0431\u0440\u0443\u0439\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q2025091",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 70569,
+        "osm_place_id": 282001386,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0411\u043e\u0440\u0438\u0441\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_eng": "Barysaw District",
+        "name_translations": {
+            "be": "\u0411\u0430\u0440\u044b\u0441\u0430\u045e\u0441\u043a\u0456 \u0440\u0430\u0451\u043d",
+            "de": "Rajon Baryssau",
+            "en": "Barysaw District",
+            "lt": "Barysavo rajonas",
+            "pl": "rejon borysowski",
+            "ru": "\u0411\u043e\u0440\u0438\u0441\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u0411\u0430\u0440\u0438\u0441\u0430\u0432\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q2092836",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 70801,
+        "osm_place_id": 281798232,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0411\u0440\u0430\u0433\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_eng": "Brahin District",
+        "name_translations": {
+            "be": "\u0411\u0440\u0430\u0433\u0456\u043d\u0441\u043a\u0456 \u0440\u0430\u0451\u043d",
+            "en": "Brahin District",
+            "lt": "Bragino rajonas",
+            "pl": "rejon brahi\u0144ski",
+            "ru": "\u0411\u0440\u0430\u0433\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u0411\u0440\u0430\u0433\u0456\u043d\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q1808720",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 70691,
+        "osm_place_id": 281805043,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0411\u0440\u0430\u0441\u043b\u0430\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_eng": "Braslaw District",
+        "name_translations": {
+            "be": "\u0411\u0440\u0430\u0441\u043b\u0430\u045e\u0441\u043a\u0456 \u0440\u0430\u0451\u043d",
+            "de": "Bezirk Braslaw",
+            "en": "Braslaw District",
+            "lt": "Breslaujos rajonas",
+            "pl": "rejon bras\u0142awski",
+            "ru": "\u0411\u0440\u0430\u0441\u043b\u0430\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u0411\u0440\u0430\u0441\u043b\u0430\u0432\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q1517382",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 72615,
+        "osm_place_id": 282001943,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0411\u0440\u0435\u0441\u0442",
+        "name_eng": "Brest",
+        "name_translations": {
+            "be": "\u0411\u0440\u044d\u0441\u0442",
+            "de": "Brest",
+            "en": "Brest",
+            "eo": "Bresto",
+            "es": "Brest",
+            "et": "Brest",
+            "fr": "Brest",
+            "he": "\u05d1\u05e8\u05e1\u05d8 \u05dc\u05d9\u05d8\u05d5\u05d1\u05e1\u05e7",
+            "hr": "Brest",
+            "hu": "Breszt",
+            "ko": "\ube0c\ub808\uc2a4\ud2b8",
+            "lt": "Brestas",
+            "nl": "Brest",
+            "pl": "Brze\u015b\u0107",
+            "ru": "\u0411\u0440\u0435\u0441\u0442",
+            "sk": "Brest",
+            "uk": "\u0411\u0435\u0440\u0435\u0441\u0442\u044f",
+            "zh": "\u5e03\u5217\u65af\u7279",
+            "be-tarask": "\u0411\u0435\u0440\u0430\u0441\u044c\u0446\u0435"
+        },
+        "extra": {
+            "wikidata": "Q140147",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 59189,
+        "osm_place_id": 281748883,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "\u0411\u0440\u0435\u0441\u0442\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+        "name_eng": "Brest Region",
+        "name_translations": {
+            "be": "\u0411\u0440\u044d\u0441\u0446\u043a\u0430\u044f \u0432\u043e\u0431\u043b\u0430\u0441\u0446\u044c",
+            "de": "Woblast Brest",
+            "en": "Brest Region",
+            "eo": "Bresta regiono",
+            "es": "Provincia de Brest",
+            "fr": "Voblast de Brest",
+            "hu": "Breszti ter\u00fclet",
+            "ja": "\u30d6\u30ec\u30b9\u30c8\u5dde",
+            "lt": "Bresto sritis",
+            "pl": "obw\u00f3d brzeski",
+            "ru": "\u0411\u0440\u0435\u0441\u0442\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+            "sk": "Brestsk\u00e1 oblas\u0165",
+            "uk": "\u0411\u0435\u0440\u0435\u0441\u0442\u0435\u0439\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+            "be-tarask": "\u0411\u0435\u0440\u0430\u0441\u044c\u0446\u0435\u0439\u0441\u043a\u0430\u044f \u0432\u043e\u0431\u043b\u0430\u0441\u044c\u0446\u044c"
+        },
+        "extra": {
+            "wikidata": "Q173822",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 59188,
+        "osm_place_id": 281748847,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0411\u0440\u0435\u0441\u0442\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_eng": "Brest District",
+        "name_translations": {
+            "be": "\u0411\u0440\u044d\u0441\u0446\u043a\u0456 \u0440\u0430\u0451\u043d",
+            "en": "Brest District",
+            "lt": "Bresto rajonas",
+            "lv": "Brestas rajons",
+            "pl": "rejon brzeski",
+            "ru": "\u0411\u0440\u0435\u0441\u0442\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u0411\u0435\u0440\u0435\u0441\u0442\u0435\u0439\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q1888816",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 59175,
+        "osm_place_id": 281777962,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0411\u0443\u0434\u0430-\u041a\u043e\u0448\u0435\u043b\u0451\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_eng": "Buda-Kashalyova District",
+        "name_translations": {
+            "be": "\u0411\u0443\u0434\u0430-\u041a\u0430\u0448\u0430\u043b\u0451\u045e\u0441\u043a\u0456 \u0440\u0430\u0451\u043d",
+            "de": "Rajon Buda-Kaschaljowa",
+            "en": "Buda-Kashalyova District",
+            "lt": "Buda Ko\u0161eliovo rajonas",
+            "pl": "rejon budzki",
+            "ru": "\u0411\u0443\u0434\u0430-\u041a\u043e\u0448\u0435\u043b\u0451\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u0411\u0443\u0434\u0430-\u041a\u0430\u0448\u0430\u043b\u044c\u043e\u0432\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q1638285",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 70586,
+        "osm_place_id": 281744279,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0411\u044b\u0445\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_eng": "Bychaw District",
+        "name_translations": {
+            "be": "\u0411\u044b\u0445\u0430\u045e\u0441\u043a\u0456 \u0440\u0430\u0451\u043d",
+            "en": "Bychaw District",
+            "lt": "Bychavo rajonas",
+            "pl": "rejon bychowski",
+            "ru": "\u0411\u044b\u0445\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u0411\u0438\u0445\u0430\u0432\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q537700",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 70684,
+        "osm_place_id": 281792378,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0412\u0435\u0440\u0445\u043d\u0435\u0434\u0432\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_eng": "Verkhnyadzvinsk District",
+        "name_translations": {
+            "be": "\u0412\u0435\u0440\u0445\u043d\u044f\u0434\u0437\u0432\u0456\u043d\u0441\u043a\u0456 \u0440\u0430\u0451\u043d",
+            "de": "Rajon Werchnjadswinsk",
+            "en": "Verkhnyadzvinsk District",
+            "lt": "Verchniadzvinsko rajonas",
+            "pl": "rejon wierchnied\u017awi\u0144ski",
+            "ru": "\u0412\u0435\u0440\u0445\u043d\u0435\u0434\u0432\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u0412\u0454\u0440\u0445\u043d\u044f\u0434\u0437\u0432\u0456\u043d\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q474626",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 70795,
+        "osm_place_id": 325503196,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0412\u0435\u0442\u043a\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_eng": "Vietka District",
+        "name_translations": {
+            "be": "\u0412\u0435\u0442\u043a\u0430\u045e\u0441\u043a\u0456 \u0440\u0430\u0451\u043d",
+            "en": "Vietka District",
+            "pl": "rejon wietecki",
+            "ru": "\u0412\u0435\u0442\u043a\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u0412\u0454\u0442\u043a\u0430\u0432\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q385458",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 70568,
+        "osm_place_id": 281832813,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0412\u0438\u043b\u0435\u0439\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_eng": "Vileyka District",
+        "name_translations": {
+            "be": "\u0412\u0456\u043b\u0435\u0439\u0441\u043a\u0456 \u0440\u0430\u0451\u043d",
+            "de": "Rajon Wilejka",
+            "en": "Vileyka District",
+            "lt": "Vileikos rajonas",
+            "pl": "rejon wilejski",
+            "ru": "\u0412\u0438\u043b\u0435\u0439\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u0412\u0456\u043b\u0454\u0439\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q2061377",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 6825777,
+        "osm_place_id": 282827261,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0412\u0438\u0442\u0435\u0431\u0441\u043a",
+        "name_eng": "Vitsebsk",
+        "name_translations": {
+            "be": "\u0412\u0456\u0446\u0435\u0431\u0441\u043a",
+            "ca": "V\u00edtsiebsk",
+            "de": "Wizebsk",
+            "en": "Vitsebsk",
+            "eo": "Vicebsko",
+            "es": "V\u00edtebsk",
+            "et": "Vitsebsk",
+            "fr": "Vitebsk",
+            "ja": "\u30f4\u30a3\u30fc\u30c4\u30a7\u30d7\u30b9\u30af\u5dde",
+            "lt": "Vitebskas",
+            "nl": "Vitebsk",
+            "pl": "Witebsk",
+            "ru": "\u0412\u0438\u0442\u0435\u0431\u0441\u043a",
+            "sk": "Vicebsk",
+            "sr": "\u0412\u0438\u0442\u0435\u043f\u0441\u043a",
+            "uk": "\u0412\u0456\u0442\u0435\u0431\u0441\u044c\u043a",
+            "szl": "Witebsk",
+            "be-tarask": "\u0412\u0456\u0446\u0435\u0431\u0441\u043a"
+        },
+        "extra": {
+            "wikidata": "Q102217",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 59506,
+        "osm_place_id": 282382859,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "\u0412\u0438\u0442\u0435\u0431\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+        "name_eng": "Vitsebsk Region",
+        "name_translations": {
+            "be": "\u0412\u0456\u0446\u0435\u0431\u0441\u043a\u0430\u044f \u0432\u043e\u0431\u043b\u0430\u0441\u0446\u044c",
+            "ca": "Prov\u00edncia de V\u00edtsiebsk",
+            "de": "Wizebskaja Woblasz",
+            "en": "Vitsebsk Region",
+            "eo": "Vicebska regiono",
+            "es": "Provincia de V\u00edtebsk",
+            "fr": "Voblast de Vitsebsk",
+            "hu": "Vicebszki ter\u00fclet",
+            "ja": "\u30f4\u30a3\u30fc\u30c4\u30a7\u30d7\u30b9\u30af\u5dde",
+            "lt": "Vitebsko sritis",
+            "pl": "obw\u00f3d witebski",
+            "ru": "\u0412\u0438\u0442\u0435\u0431\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+            "sk": "Vicebsk\u00e1 oblas\u0165",
+            "uk": "\u0412\u0456\u0442\u0435\u0431\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+            "be-tarask": "\u0412\u0456\u0446\u0435\u0431\u0441\u043a\u0430\u044f \u0432\u043e\u0431\u043b\u0430\u0441\u044c\u0446\u044c"
+        },
+        "extra": {
+            "wikidata": "Q185700",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 59504,
+        "osm_place_id": 281958152,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0412\u0438\u0442\u0435\u0431\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_eng": "Vitebsk District",
+        "name_translations": {
+            "be": "\u0412\u0456\u0446\u0435\u0431\u0441\u043a\u0456 \u0440\u0430\u0451\u043d",
+            "en": "Vitebsk District",
+            "lt": "Vitebsko rajonas",
+            "pl": "rejon witebski",
+            "ru": "\u0412\u0438\u0442\u0435\u0431\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u0412\u0456\u0442\u0435\u0431\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q1587133",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 70771,
+        "osm_place_id": 281707141,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0412\u043e\u043b\u043a\u043e\u0432\u044b\u0441\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_eng": "Vawkavysk District",
+        "name_translations": {
+            "be": "\u0412\u0430\u045e\u043a\u0430\u0432\u044b\u0441\u043a\u0456 \u0440\u0430\u0451\u043d",
+            "en": "Vawkavysk District",
+            "lt": "Valkavisko rajonas",
+            "pl": "rejon wo\u0142kowyski",
+            "ru": "\u0412\u043e\u043b\u043a\u043e\u0432\u044b\u0441\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u0412\u0430\u0432\u043a\u0430\u0432\u0438\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q1953376",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 70565,
+        "osm_place_id": 281756015,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0412\u043e\u043b\u043e\u0436\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_eng": "Valozhyn District",
+        "name_translations": {
+            "be": "\u0412\u0430\u043b\u043e\u0436\u044b\u043d\u0441\u043a\u0456 \u0440\u0430\u0451\u043d",
+            "de": "Rajon Waloschyn",
+            "en": "Valozhyn District",
+            "lt": "Vala\u017eino rajonas",
+            "pl": "rejon wo\u0142o\u017cy\u0144ski",
+            "ru": "\u0412\u043e\u043b\u043e\u0436\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u0412\u0430\u043b\u043e\u0436\u0438\u043d\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q1817324",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 70737,
+        "osm_place_id": 282203937,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0412\u043e\u0440\u043e\u043d\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_eng": "Voranava District",
+        "name_translations": {
+            "be": "\u0412\u043e\u0440\u0430\u043d\u0430\u045e\u0441\u043a\u0456 \u0440\u0430\u0451\u043d",
+            "en": "Voranava District",
+            "lt": "Varanavo rajonas",
+            "pl": "rejon werenowski",
+            "ru": "\u0412\u043e\u0440\u043e\u043d\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u0412\u043e\u0440\u0430\u043d\u0430\u0432\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q385156",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 71121,
+        "osm_place_id": 282253921,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0413\u0430\u043d\u0446\u0435\u0432\u0438\u0447\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_eng": "Hantsavichy District",
+        "name_translations": {
+            "be": "\u0413\u0430\u043d\u0446\u0430\u0432\u0456\u0446\u043a\u0456 \u0440\u0430\u0451\u043d",
+            "de": "Rajon Hanzawitschy",
+            "en": "Hantsavichy District",
+            "pl": "rejon hancewicki",
+            "ru": "\u0413\u0430\u043d\u0446\u0435\u0432\u0438\u0447\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u0413\u0430\u043d\u0446\u043e\u0432\u0438\u0446\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q1566438",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 70703,
+        "osm_place_id": 281843110,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0413\u043b\u0443\u0431\u043e\u043a\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_eng": "Hlybokaye District",
+        "name_translations": {
+            "be": "\u0413\u043b\u044b\u0431\u043e\u0446\u043a\u0456 \u0440\u0430\u0451\u043d",
+            "en": "Hlybokaye District",
+            "lt": "Gluboko rajonas",
+            "pl": "rejon g\u0142\u0119bocki",
+            "ru": "\u0413\u043b\u0443\u0431\u043e\u043a\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u0413\u043b\u0438\u0431\u043e\u0446\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q2092119",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 71138,
+        "osm_place_id": 281791258,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0413\u043b\u0443\u0441\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_eng": "Hlusk District",
+        "name_translations": {
+            "be": "\u0413\u043b\u0443\u0441\u043a\u0456 \u0440\u0430\u0451\u043d",
+            "en": "Hlusk District",
+            "pl": "rejon h\u0142uski",
+            "ru": "\u0413\u043b\u0443\u0441\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u0413\u043b\u0443\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q2024375",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 163244,
+        "osm_place_id": 325930190,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0413\u043e\u043c\u0435\u043b\u044c",
+        "name_eng": "Homyel",
+        "name_translations": {
+            "ar": "\u063a\u0648\u0645\u064a\u0644",
+            "be": "\u0413\u043e\u043c\u0435\u043b\u044c",
+            "bg": "\u0413\u043e\u043c\u0435\u043b",
+            "de": "Homel",
+            "el": "\u0393\u03cc\u03bc\u03b5\u03bb",
+            "en": "Homyel",
+            "eo": "Homel",
+            "fa": "\u06af\u0648\u0645\u0644",
+            "fr": "Homiel",
+            "he": "\u05d4\u05d5\u05de\u05dc",
+            "hu": "Homel",
+            "ja": "\u30db\u30e1\u30ea",
+            "ka": "\u10d2\u10dd\u10db\u10d4\u10da\u10d8",
+            "ko": "\ud638\uba94",
+            "lt": "Gomelis",
+            "lv": "Homje\u013ca",
+            "nl": "Homel",
+            "no": "Homjel",
+            "pl": "Homel",
+            "ru": "\u0413\u043e\u043c\u0435\u043b\u044c",
+            "sg": "\u6208\u6885\u5229",
+            "sk": "Home\u013e",
+            "sr": "\u0413\u043e\u043c\u0435\u0459",
+            "ta": "\u0b95\u0bcb\u0bae\u0bc6\u0bb2\u0bcd",
+            "th": "\u0e01\u0e2d\u0e40\u0e21\u0e25",
+            "tr": "Gomel",
+            "tw": "\u6208\u6885\u5229",
+            "uk": "\u0413\u043e\u043c\u0454\u043b\u044c",
+            "ur": "\u06af\u0648\u0645\u0644",
+            "vo": "Homyel",
+            "mzn": "\u06af\u0648\u0645\u0644",
+            "sah": "\u0413\u043e\u043c\u0435\u043b\u044c",
+            "war": "Homyel",
+            "zh-cn": "\u6208\u6885\u5229",
+            "zh-hk": "\u6208\u6885\u5229",
+            "zh-mo": "\u6208\u6885\u5229",
+            "zh-sg": "\u6208\u6885\u5229",
+            "zh-tw": "\u6208\u6885\u5229",
+            "zn-hk": "\u6208\u6885\u5229",
+            "be-tarask": "\u0413\u043e\u043c\u0435\u043b\u044c"
+        },
+        "extra": {
+            "wikidata": "Q2678",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": "BY-HO",
+        "osm_id": 59161,
+        "osm_place_id": 281995155,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "\u0413\u043e\u043c\u0435\u043b\u044c\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+        "name_eng": "Homyel Region",
+        "name_translations": {
+            "be": "\u0413\u043e\u043c\u0435\u043b\u044c\u0441\u043a\u0430\u044f \u0432\u043e\u0431\u043b\u0430\u0441\u0446\u044c",
+            "de": "Woblast Homel",
+            "en": "Homyel Region",
+            "eo": "Homela regiono",
+            "es": "Provincia de G\u00f3mel",
+            "fr": "Voblast de Homiel",
+            "hu": "Homeli ter\u00fclet",
+            "ja": "\u30db\u30e1\u30ea\u5dde",
+            "lt": "Gomelio sritis",
+            "pl": "obw\u00f3d homelski",
+            "ru": "\u0413\u043e\u043c\u0435\u043b\u044c\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+            "sk": "Home\u013esk\u00e1 oblas\u0165",
+            "uk": "\u0413\u043e\u043c\u0454\u043b\u044c\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+            "be-tarask": "\u0413\u043e\u043c\u0435\u043b\u044c\u0441\u043a\u0430\u044f \u0432\u043e\u0431\u043b\u0430\u0441\u044c\u0446\u044c"
+        },
+        "extra": {
+            "wikidata": "Q188732",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 1469691,
+        "osm_place_id": 325930191,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0413\u043e\u043c\u0435\u043b\u044c\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_eng": "Homyel District",
+        "name_translations": {
+            "be": "\u0413\u043e\u043c\u0435\u043b\u044c\u0441\u043a\u0456 \u0440\u0430\u0451\u043d",
+            "en": "Homyel District",
+            "pl": "rejon homelski",
+            "ru": "\u0413\u043e\u043c\u0435\u043b\u044c\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u0413\u043e\u043c\u0454\u043b\u044c\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q966473",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 70620,
+        "osm_place_id": 281717248,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0413\u043e\u0440\u0435\u0446\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_eng": "Horki District",
+        "name_translations": {
+            "be": "\u0413\u043e\u0440\u0430\u0446\u043a\u0456 \u0440\u0430\u0451\u043d",
+            "en": "Horki District",
+            "lt": "Hork\u0173 rajonas",
+            "pl": "rejon horecki",
+            "ru": "\u0413\u043e\u0440\u0435\u0446\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u0413\u043e\u0440\u0430\u0446\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q2024126",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 70676,
+        "osm_place_id": 281786561,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0413\u043e\u0440\u043e\u0434\u043e\u043a\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_eng": "Haradok District",
+        "name_translations": {
+            "be": "\u0413\u0430\u0440\u0430\u0434\u043e\u0446\u043a\u0456 \u0440\u0430\u0451\u043d",
+            "en": "Haradok District",
+            "lt": "Haradoko rajonas",
+            "pl": "rejon horodecki",
+            "ru": "\u0413\u043e\u0440\u043e\u0434\u043e\u043a\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u0413\u0430\u0440\u0430\u0434\u043e\u0446\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q2005718",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 59275,
+        "osm_place_id": 281898363,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "\u0413\u0440\u043e\u0434\u043d\u0435\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+        "name_eng": "Hrodna Region",
+        "name_translations": {
+            "be": "\u0413\u0440\u043e\u0434\u0437\u0435\u043d\u0441\u043a\u0430\u044f \u0432\u043e\u0431\u043b\u0430\u0441\u0446\u044c",
+            "de": "Hrodsenskaja Woblasz",
+            "en": "Hrodna Region",
+            "eo": "Grodna regiono",
+            "es": "Provincia de Grodno",
+            "fr": "Voblast de Hrodna",
+            "hr": "Grodnenska oblast",
+            "hu": "Hrodnai ter\u00fclet",
+            "ja": "\u30d5\u30ed\u30c9\u30ca\u5dde",
+            "lt": "Gardino sritis",
+            "pl": "obw\u00f3d grodzie\u0144ski",
+            "ru": "\u0413\u0440\u043e\u0434\u043d\u0435\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+            "sk": "Hrodnianska oblas\u0165",
+            "uk": "\u0413\u0440\u043e\u0434\u043d\u0435\u043d\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+            "be-tarask": "\u0413\u0430\u0440\u0430\u0434\u0437\u0435\u043d\u0441\u043a\u0430\u044f \u0432\u043e\u0431\u043b\u0430\u0441\u044c\u0446\u044c"
+        },
+        "extra": {
+            "wikidata": "Q191061",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 59273,
+        "osm_place_id": 281783428,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0413\u0440\u043e\u0434\u043d\u0435\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_eng": "Hrodna District",
+        "name_translations": {
+            "be": "\u0413\u0440\u043e\u0434\u0437\u0435\u043d\u0441\u043a\u0456 \u0440\u0430\u0451\u043d",
+            "en": "Hrodna District",
+            "lt": "Gardino rajonas",
+            "pl": "rejon grodzie\u0144ski",
+            "ru": "\u0413\u0440\u043e\u0434\u043d\u0435\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u0413\u0440\u043e\u0434\u043d\u0435\u043d\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q1965697",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 130921,
+        "osm_place_id": 281781688,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0413\u0440\u043e\u0434\u043d\u043e",
+        "name_eng": "Hrodna",
+        "name_translations": {
+            "ar": "\u063a\u0631\u0648\u062f\u0646\u0648",
+            "be": "\u0413\u0440\u043e\u0434\u043d\u0430",
+            "cs": "Hrodna",
+            "de": "Hrodna",
+            "en": "Hrodna",
+            "eo": "Grodno",
+            "es": "Grodno",
+            "et": "Grodna",
+            "fr": "Hrodna",
+            "he": "\u05d2\u05e8\u05d5\u05d3\u05e0\u05d5",
+            "la": "Grodna",
+            "lt": "Gardinas",
+            "nl": "Grodno",
+            "pl": "Grodno",
+            "ru": "\u0413\u0440\u043e\u0434\u043d\u043e",
+            "sk": "Hrodna",
+            "sr": "\u0413\u0440\u043e\u0434\u043d\u043e",
+            "uk": "\u0413\u0440\u043e\u0434\u043d\u0430",
+            "zh": "\u683c\u7f57\u5fb7\u8bfa",
+            "szl": "Grodno",
+            "be-tarask": "\u0413\u043e\u0440\u0430\u0434\u043d\u044f"
+        },
+        "extra": {
+            "wikidata": "Q181376",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 70563,
+        "osm_place_id": 282253557,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0414\u0437\u0435\u0440\u0436\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_eng": "Dzyarzhynsk District",
+        "name_translations": {
+            "be": "\u0414\u0437\u044f\u0440\u0436\u044b\u043d\u0441\u043a\u0456 \u0440\u0430\u0451\u043d",
+            "de": "Rajon Dsjarschynsk",
+            "en": "Dzyarzhynsk District",
+            "lt": "Dziar\u017eynsko rajonas",
+            "pl": "rejon dzier\u017cy\u0144ski",
+            "ru": "\u0414\u0437\u0435\u0440\u0436\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u0414\u0437\u044f\u0440\u0436\u0438\u043d\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q595480",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 59092,
+        "osm_place_id": 282071520,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0414\u043e\u0431\u0440\u0443\u0448\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_eng": "Dobrush District",
+        "name_translations": {
+            "be": "\u0414\u043e\u0431\u0440\u0443\u0448\u0441\u043a\u0456 \u0440\u0430\u0451\u043d",
+            "en": "Dobrush District",
+            "lt": "Dobru\u0161o rajonas",
+            "pl": "rejon dobruski",
+            "ru": "\u0414\u043e\u0431\u0440\u0443\u0448\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u0414\u043e\u0431\u0440\u0443\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "zh": "\u591a\u5e03\u9b6f\u4ec0\u65af\u57fa\u5340"
+        },
+        "extra": {
+            "wikidata": "Q1702264",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 70716,
+        "osm_place_id": 325453055,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0414\u043e\u043a\u0448\u0438\u0446\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_eng": "Dokshytsy District",
+        "name_translations": {
+            "be": "\u0414\u043e\u043a\u0448\u044b\u0446\u043a\u0456 \u0440\u0430\u0451\u043d",
+            "de": "Rajon Dokschyzy",
+            "en": "Dokshytsy District",
+            "lt": "Dok\u0161icos rajonas",
+            "pl": "rejon dokszycki",
+            "ru": "\u0414\u043e\u043a\u0448\u0438\u0446\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u0414\u043e\u043a\u0448\u0438\u0446\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q2023929",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 70618,
+        "osm_place_id": 282037413,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0414\u0440\u0438\u0431\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_eng": "Drybin District",
+        "name_translations": {
+            "be": "\u0414\u0440\u044b\u0431\u0456\u043d\u0441\u043a\u0456 \u0440\u0430\u0451\u043d",
+            "en": "Drybin District",
+            "lt": "Drybino rajonas",
+            "pl": "rejon drybi\u0144ski",
+            "ru": "\u0414\u0440\u0438\u0431\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u0414\u0440\u0438\u0431\u0456\u043d\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q675279",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 71105,
+        "osm_place_id": 282333150,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0414\u0440\u043e\u0433\u0438\u0447\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_eng": "Drahichyn District",
+        "name_translations": {
+            "be": "\u0414\u0440\u0430\u0433\u0456\u0447\u044b\u043d\u0441\u043a\u0456 \u0440\u0430\u0451\u043d",
+            "en": "Drahichyn District",
+            "pl": "rejon drohiczy\u0144ski",
+            "ru": "\u0414\u0440\u043e\u0433\u0438\u0447\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u0414\u0440\u043e\u0433\u0438\u0447\u0438\u043d\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q1888829",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 70656,
+        "osm_place_id": 282253790,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0414\u0443\u0431\u0440\u043e\u0432\u0435\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_eng": "Dubrowna District",
+        "name_translations": {
+            "be": "\u0414\u0443\u0431\u0440\u043e\u0432\u0435\u043d\u0441\u043a\u0456 \u0440\u0430\u0451\u043d",
+            "de": "Rajon Dubrouna",
+            "en": "Dubrowna District",
+            "lt": "Dubrounos rajonas",
+            "pl": "rejon dubrowie\u0144ski",
+            "ru": "\u0414\u0443\u0431\u0440\u043e\u0432\u0435\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u0414\u0443\u0431\u0440\u043e\u0432\u0435\u043d\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q2024268",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 70768,
+        "osm_place_id": 282204028,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0414\u044f\u0442\u043b\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_eng": "Dzyatlava District",
+        "name_translations": {
+            "be": "\u0414\u0437\u044f\u0442\u043b\u0430\u045e\u0441\u043a\u0456 \u0440\u0430\u0451\u043d",
+            "en": "Dzyatlava District",
+            "pl": "rejon zdzi\u0119cielski",
+            "ru": "\u0414\u044f\u0442\u043b\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u0414\u0437\u044f\u0442\u043b\u0430\u0432\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q1754468",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 70810,
+        "osm_place_id": 282106093,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0415\u043b\u044c\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_eng": "Yelsk District",
+        "name_translations": {
+            "be": "\u0415\u043b\u044c\u0441\u043a\u0456 \u0440\u0430\u0451\u043d",
+            "en": "Yelsk District",
+            "lt": "Jelsko rajonas",
+            "pl": "rejon jelski",
+            "ru": "\u0415\u043b\u044c\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u0404\u043b\u044c\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q1808741",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 71099,
+        "osm_place_id": 281734231,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0416\u0430\u0431\u0438\u043d\u043a\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_eng": "Zhabinka District",
+        "name_translations": {
+            "be": "\u0416\u0430\u0431\u0456\u043d\u043a\u0430\u045e\u0441\u043a\u0456 \u0440\u0430\u0451\u043d",
+            "en": "Zhabinka District",
+            "lt": "\u017dabinkos rajonas",
+            "pl": "rejon \u017cabinecki",
+            "ru": "\u0416\u0430\u0431\u0438\u043d\u043a\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u0416\u0430\u0431\u0456\u043d\u043a\u0456\u0432\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q1630126",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 71149,
+        "osm_place_id": 281792805,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0416\u0438\u0442\u043a\u043e\u0432\u0438\u0447\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_eng": "Zhytkavichy District",
+        "name_translations": {
+            "be": "\u0416\u044b\u0442\u043a\u0430\u0432\u0456\u0446\u043a\u0456 \u0440\u0430\u0451\u043d",
+            "en": "Zhytkavichy District",
+            "pl": "rejon \u017cytkowicki",
+            "ru": "\u0416\u0438\u0442\u043a\u043e\u0432\u0438\u0447\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u0416\u0438\u0442\u043a\u043e\u0432\u0438\u0447\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q367015",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 59167,
+        "osm_place_id": 281707809,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0416\u043b\u043e\u0431\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_eng": "Zhlobin District",
+        "name_translations": {
+            "be": "\u0416\u043b\u043e\u0431\u0456\u043d\u0441\u043a\u0456 \u0440\u0430\u0451\u043d",
+            "en": "Zhlobin District",
+            "lt": "\u017dlobino rajonas",
+            "pl": "rejon \u017c\u0142obi\u0144ski",
+            "ru": "\u0416\u043b\u043e\u0431\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u0416\u043b\u043e\u0431\u0456\u043d\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q1808712",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 79911,
+        "osm_place_id": 281799203,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0416\u043e\u0434\u0438\u043d\u043e",
+        "name_eng": "Zhodzina",
+        "name_translations": {
+            "be": "\u0416\u043e\u0434\u0437\u0456\u043d\u0430",
+            "de": "Schodsina",
+            "en": "Zhodzina",
+            "eo": "\u0134odzina",
+            "fr": "Jodzina",
+            "lt": "\u017dodzina",
+            "pl": "\u017bodzino",
+            "ru": "\u0416\u043e\u0434\u0438\u043d\u043e",
+            "sr": "\u0416\u043e\u0434\u0437\u0438\u043d\u0430",
+            "be-tarask": "\u0416\u043e\u0434\u0437\u0456\u043d\u0430"
+        },
+        "extra": {
+            "wikidata": "Q200905",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 70772,
+        "osm_place_id": 281744672,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0417\u0435\u043b\u044c\u0432\u0435\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_eng": "Zelva District",
+        "name_translations": {
+            "be": "\u0417\u044d\u043b\u044c\u0432\u0435\u043d\u0441\u043a\u0456 \u0440\u0430\u0451\u043d",
+            "en": "Zelva District",
+            "lt": "Zelvos rajonas",
+            "pl": "rejon zelwie\u0144ski",
+            "ru": "\u0417\u0435\u043b\u044c\u0432\u0435\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u0417\u0435\u043b\u044c\u0432\u0435\u043d\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q934137",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 71118,
+        "osm_place_id": 281792701,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0418\u0432\u0430\u043d\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_eng": "Ivanava District",
+        "name_translations": {
+            "be": "\u0406\u0432\u0430\u043d\u0430\u045e\u0441\u043a\u0456 \u0440\u0430\u0451\u043d",
+            "en": "Ivanava District",
+            "pl": "rejon janowski",
+            "ru": "\u0418\u0432\u0430\u043d\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u0406\u0432\u0430\u043d\u0430\u0432\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q1885588",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 71112,
+        "osm_place_id": 281707427,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0418\u0432\u0430\u0446\u0435\u0432\u0438\u0447\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_eng": "Ivatsevichy District",
+        "name_translations": {
+            "be": "\u0406\u0432\u0430\u0446\u044d\u0432\u0456\u0446\u043a\u0456 \u0440\u0430\u0451\u043d",
+            "de": "Rajon Iwazewitschy",
+            "en": "Ivatsevichy District",
+            "pl": "rejon iwacewicki",
+            "ru": "\u0418\u0432\u0430\u0446\u0435\u0432\u0438\u0447\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u0406\u0432\u0430\u0446\u0435\u0432\u0438\u0446\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q1885601",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 70732,
+        "osm_place_id": 282151771,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0418\u0432\u044c\u0435\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_eng": "Iwye District",
+        "name_translations": {
+            "be": "\u0406\u045e\u0435\u045e\u0441\u043a\u0456 \u0440\u0430\u0451\u043d",
+            "en": "Iwye District",
+            "lt": "Vijos rajonas",
+            "pl": "rejon iwiejski",
+            "ru": "\u0418\u0432\u044c\u0435\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u0406\u0432'\u0454\u0432\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q508510",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 70814,
+        "osm_place_id": 335614337,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041a\u0430\u043b\u0438\u043d\u043a\u043e\u0432\u0438\u0447\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_eng": "Kalinkavichy District",
+        "name_translations": {
+            "be": "\u041a\u0430\u043b\u0456\u043d\u043a\u0430\u0432\u0456\u0446\u043a\u0456 \u0440\u0430\u0451\u043d",
+            "bg": "\u041a\u0430\u043b\u0438\u043d\u043a\u043e\u0432\u0438\u0447\u043a\u0438 \u0440\u0430\u0439\u043e\u043d",
+            "cs": "Kalinkavick\u00fd raj\u00f3n",
+            "de": "Rajon Kalinkawitschy",
+            "en": "Kalinkavichy District",
+            "es": "Rai\u00f3n de Kalinkavichy",
+            "fr": "Ra\u00efon de Kalinkavitchy",
+            "hu": "Kalinkavicsi j\u00e1r\u00e1s",
+            "it": "Distretto di Kalinkavi\u010dy",
+            "lt": "Kalinkavi\u010d\u0173 rajonas",
+            "lv": "Ka\u013cinkavi\u010du rajons",
+            "pl": "rejon kalinkowicki",
+            "ru": "\u041a\u0430\u043b\u0438\u043d\u043a\u043e\u0432\u0438\u0447\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u041a\u0430\u043b\u0456\u043d\u043a\u0430\u0432\u0456\u0446\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "zh": "\u5361\u6797\u5361\u7dad\u8328\u57fa\u5340"
+        },
+        "extra": {
+            "wikidata": "Q1786486",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 71097,
+        "osm_place_id": 281909810,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041a\u0430\u043c\u0435\u043d\u0435\u0446\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_eng": "Kamenets District",
+        "name_translations": {
+            "be": "\u041a\u0430\u043c\u044f\u043d\u0435\u0446\u043a\u0456 \u0440\u0430\u0451\u043d",
+            "de": "Rajon Kamenez",
+            "en": "Kamenets District",
+            "es": "Rai\u00f3n de K\u00e1mieniets",
+            "pl": "rejon kamieniecki",
+            "ru": "\u041a\u0430\u043c\u0435\u043d\u0435\u0446\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u041a\u0430\u043c'\u044f\u043d\u0435\u0446\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "be-tarask": "\u041a\u0430\u043c\u044f\u043d\u0435\u0446\u043a\u0456 \u0440\u0430\u0451\u043d"
+        },
+        "extra": {
+            "wikidata": "Q1103893",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 70580,
+        "osm_place_id": 281791034,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041a\u0438\u0440\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_eng": "Kirawsk District",
+        "name_translations": {
+            "be": "\u041a\u0456\u0440\u0430\u045e\u0441\u043a\u0456 \u0440\u0430\u0451\u043d",
+            "en": "Kirawsk District",
+            "lt": "Kirausko rajonas",
+            "pl": "rejon kirowski",
+            "ru": "\u041a\u0438\u0440\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u041a\u0456\u0440\u043e\u0432\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q2024239",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 71130,
+        "osm_place_id": 281734298,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041a\u043b\u0435\u0446\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_eng": "Kletsk District",
+        "name_translations": {
+            "be": "\u041a\u043b\u0435\u0446\u043a\u0456 \u0440\u0430\u0451\u043d",
+            "en": "Kletsk District",
+            "pl": "rejon klecki",
+            "ru": "\u041a\u043b\u0435\u0446\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u041a\u043b\u0435\u0446\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q2091557",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 70610,
+        "osm_place_id": 281843009,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041a\u043b\u0438\u043c\u043e\u0432\u0438\u0447\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_eng": "Klimavichy District",
+        "name_translations": {
+            "be": "\u041a\u043b\u0456\u043c\u0430\u0432\u0456\u0446\u043a\u0456 \u0440\u0430\u0451\u043d",
+            "en": "Klimavichy District",
+            "lt": "Klimavi\u010d\u0173 rajonas",
+            "pl": "rejon klimowicki",
+            "ru": "\u041a\u043b\u0438\u043c\u043e\u0432\u0438\u0447\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u041a\u043b\u0438\u043c\u043e\u0432\u0438\u0446\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q1997073",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 70577,
+        "osm_place_id": 282151501,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041a\u043b\u0438\u0447\u0435\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_eng": "Klichaw District",
+        "name_translations": {
+            "be": "\u041a\u043b\u0456\u0447\u0430\u045e\u0441\u043a\u0456 \u0440\u0430\u0451\u043d",
+            "en": "Klichaw District",
+            "lt": "Kli\u010davo rajonas",
+            "pl": "rejon kliczewski",
+            "ru": "\u041a\u043b\u0438\u0447\u0435\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u041a\u043b\u0438\u0447\u0435\u0432\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q586238",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 71101,
+        "osm_place_id": 282179543,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041a\u043e\u0431\u0440\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_eng": "Kobryn District",
+        "name_translations": {
+            "be": "\u041a\u043e\u0431\u0440\u044b\u043d\u0441\u043a\u0456 \u0440\u0430\u0451\u043d",
+            "en": "Kobryn District",
+            "pl": "rejon kobry\u0144ski",
+            "ru": "\u041a\u043e\u0431\u0440\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u041a\u043e\u0431\u0440\u0438\u043d\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q944303",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 71132,
+        "osm_place_id": 282179592,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041a\u043e\u043f\u044b\u043b\u044c\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_eng": "Kapyl District",
+        "name_translations": {
+            "be": "\u041a\u0430\u043f\u044b\u043b\u044c\u0441\u043a\u0456 \u0440\u0430\u0451\u043d",
+            "en": "Kapyl District",
+            "lt": "Kapyliaus rajonas",
+            "pl": "rejon kopylski",
+            "ru": "\u041a\u043e\u043f\u044b\u043b\u044c\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u041a\u043e\u043f\u0438\u043b\u044c\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q518815",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 70751,
+        "osm_place_id": 281756114,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041a\u043e\u0440\u0435\u043b\u0438\u0447\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_eng": "Karelichy District",
+        "name_translations": {
+            "be": "\u041a\u0430\u0440\u044d\u043b\u0456\u0446\u043a\u0456 \u0440\u0430\u0451\u043d",
+            "en": "Karelichy District",
+            "lt": "Kareli\u010di\u0173 rajonas",
+            "pl": "rejon korelicki",
+            "ru": "\u041a\u043e\u0440\u0435\u043b\u0438\u0447\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u041a\u043e\u0440\u0435\u043b\u0438\u0446\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q1953342",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 59149,
+        "osm_place_id": 281782885,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041a\u043e\u0440\u043c\u044f\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_eng": "Karma District",
+        "name_translations": {
+            "be": "\u041a\u0430\u0440\u043c\u044f\u043d\u0441\u043a\u0456 \u0440\u0430\u0451\u043d",
+            "en": "Karma District",
+            "lt": "Kormos rajonas",
+            "pl": "rejon kormia\u0144ski",
+            "ru": "\u041a\u043e\u0440\u043c\u044f\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u041a\u043e\u0440\u043c\u044f\u043d\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q1952857",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 70604,
+        "osm_place_id": 282387368,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041a\u043e\u0441\u0442\u044e\u043a\u043e\u0432\u0438\u0447\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_eng": "Kastsyukovichy District",
+        "name_translations": {
+            "be": "\u041a\u0430\u0441\u0446\u044e\u043a\u043e\u0432\u0456\u0446\u043a\u0456 \u0440\u0430\u0451\u043d",
+            "en": "Kastsyukovichy District",
+            "lt": "Kasciukovi\u010d\u0173 rajonas",
+            "pl": "rejon ko\u015bciukowicki",
+            "ru": "\u041a\u043e\u0441\u0442\u044e\u043a\u043e\u0432\u0438\u0447\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u041a\u043e\u0441\u0442\u044e\u043a\u043e\u0432\u0438\u0446\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q1318696",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 70602,
+        "osm_place_id": 281967428,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041a\u0440\u0430\u0441\u043d\u043e\u043f\u043e\u043b\u044c\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_eng": "Krasnapolle District",
+        "name_translations": {
+            "be": "\u041a\u0440\u0430\u0441\u043d\u0430\u043f\u043e\u043b\u044c\u0441\u043a\u0456 \u0440\u0430\u0451\u043d",
+            "en": "Krasnapolle District",
+            "lt": "Krasnapol\u0117s rajonas",
+            "pl": "rejon krasnopolski",
+            "ru": "\u041a\u0440\u0430\u0441\u043d\u043e\u043f\u043e\u043b\u044c\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u041a\u0440\u0430\u0441\u043d\u043e\u043f\u0456\u043b\u044c\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q745264",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 70614,
+        "osm_place_id": 281786437,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041a\u0440\u0438\u0447\u0435\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_eng": "Krychaw District",
+        "name_translations": {
+            "be": "\u041a\u0440\u044b\u0447\u0430\u045e\u0441\u043a\u0456 \u0440\u0430\u0451\u043d",
+            "en": "Krychaw District",
+            "lt": "Kry\u010davo rajonas",
+            "pl": "rejon krzyczewski",
+            "ru": "\u041a\u0440\u0438\u0447\u0435\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u041a\u0440\u0438\u0447\u0435\u0432\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q1997107",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 70638,
+        "osm_place_id": 328367101,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041a\u0440\u0443\u0433\u043b\u044f\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_eng": "Kruhlaye District",
+        "name_translations": {
+            "be": "\u041a\u0440\u0443\u0433\u043b\u044f\u043d\u0441\u043a\u0456 \u0440\u0430\u0451\u043d",
+            "en": "Kruhlaye District",
+            "lt": "Kruhlaj\u0117s rajonas",
+            "pl": "rejon kruhelski",
+            "ru": "\u041a\u0440\u0443\u0433\u043b\u044f\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u041a\u0440\u0443\u0433\u043b\u044f\u043d\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q1997096",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 70639,
+        "osm_place_id": 328367102,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041a\u0440\u0443\u043f\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_eng": "Krupki District",
+        "name_translations": {
+            "be": "\u041a\u0440\u0443\u043f\u0441\u043a\u0456 \u0440\u0430\u0451\u043d",
+            "en": "Krupki District",
+            "lt": "Krupk\u0173 rajonas",
+            "pl": "rejon krupski",
+            "ru": "\u041a\u0440\u0443\u043f\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u041a\u0440\u0443\u043f\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q2092848",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 71147,
+        "osm_place_id": 281717829,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041b\u0435\u043b\u044c\u0447\u0438\u0446\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_eng": "Lyelchytsy District",
+        "name_translations": {
+            "be": "\u041b\u0435\u043b\u044c\u0447\u044b\u0446\u043a\u0456 \u0440\u0430\u0451\u043d",
+            "en": "Lyelchytsy District",
+            "lt": "Lel\u010dyc\u0173 rajonas",
+            "pl": "rejon lelczycki",
+            "ru": "\u041b\u0435\u043b\u044c\u0447\u0438\u0446\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u041b\u0454\u043b\u044c\u0447\u0438\u0446\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q944464",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 70679,
+        "osm_place_id": 327824866,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041b\u0435\u043f\u0435\u043b\u044c\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_eng": "Lepiel District",
+        "name_translations": {
+            "be": "\u041b\u0435\u043f\u0435\u043b\u044c\u0441\u043a\u0456 \u0440\u0430\u0451\u043d",
+            "en": "Lepiel District",
+            "lt": "Lepelio rajonas",
+            "pl": "rejon lepelski",
+            "ru": "\u041b\u0435\u043f\u0435\u043b\u044c\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u041b\u0435\u043f\u0435\u043b\u044c\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q268331",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 70747,
+        "osm_place_id": 282003762,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041b\u0438\u0434\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_eng": "Lida District",
+        "name_translations": {
+            "be": "\u041b\u0456\u0434\u0441\u043a\u0456 \u0440\u0430\u0451\u043d",
+            "en": "Lida District",
+            "lt": "Lydos rajonas",
+            "pl": "rejon lidzki",
+            "ru": "\u041b\u0438\u0434\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u041b\u0456\u0434\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q1953388",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 70665,
+        "osm_place_id": 281733974,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041b\u0438\u043e\u0437\u043d\u0435\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_eng": "Liozna District",
+        "name_translations": {
+            "be": "\u041b\u0451\u0437\u043d\u0435\u043d\u0441\u043a\u0456 \u0440\u0430\u0451\u043d",
+            "en": "Liozna District",
+            "lt": "Liozno rajonas",
+            "pl": "rejon \u0142o\u017anie\u0144ski",
+            "ru": "\u041b\u0438\u043e\u0437\u043d\u0435\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u041b\u0456\u043e\u0437\u043d\u0435\u043d\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q1388657",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 70542,
+        "osm_place_id": 282387301,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041b\u043e\u0433\u043e\u0439\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_eng": "Lahojsk District",
+        "name_translations": {
+            "be": "\u041b\u0430\u0433\u043e\u0439\u0441\u043a\u0456 \u0440\u0430\u0451\u043d",
+            "en": "Lahojsk District",
+            "lt": "Lahoisko rajonas",
+            "pl": "rejon \u0142ohojski",
+            "ru": "\u041b\u043e\u0433\u043e\u0439\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u041b\u0430\u0433\u043e\u0439\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q950923",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 70799,
+        "osm_place_id": 282203849,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041b\u043e\u0435\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_eng": "Loyew District",
+        "name_translations": {
+            "be": "\u041b\u043e\u0435\u045e\u0441\u043a\u0456 \u0440\u0430\u0451\u043d",
+            "en": "Loyew District",
+            "pl": "rejon \u0142ojowski",
+            "ru": "\u041b\u043e\u0435\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u041b\u043e\u0454\u0432\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q1952845",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 71124,
+        "osm_place_id": 281756575,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041b\u0443\u043d\u0438\u043d\u0435\u0446\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_eng": "Luninets District",
+        "name_translations": {
+            "be": "\u041b\u0443\u043d\u0456\u043d\u0435\u0446\u043a\u0456 \u0440\u0430\u0451\u043d",
+            "en": "Luninets District",
+            "lt": "Lunineco rajonas",
+            "pl": "rejon \u0142uniniecki",
+            "ru": "\u041b\u0443\u043d\u0438\u043d\u0435\u0446\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u041b\u0443\u043d\u0438\u043d\u0435\u0446\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q1885628",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 71140,
+        "osm_place_id": 282204112,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041b\u044e\u0431\u0430\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_eng": "Lyuban District",
+        "name_translations": {
+            "be": "\u041b\u044e\u0431\u0430\u043d\u0441\u043a\u0456 \u0440\u0430\u0451\u043d",
+            "en": "Lyuban District",
+            "lt": "Liuban\u0117s rajonas",
+            "pl": "rejon luba\u0144ski",
+            "ru": "\u041b\u044e\u0431\u0430\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u041b\u044e\u0431\u0430\u043d\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q2091734",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 71117,
+        "osm_place_id": 281906243,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041b\u044f\u0445\u043e\u0432\u0438\u0447\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_eng": "Lyakhavichy District",
+        "name_translations": {
+            "be": "\u041b\u044f\u0445\u0430\u0432\u0456\u0446\u043a\u0456 \u0440\u0430\u0451\u043d",
+            "en": "Lyakhavichy District",
+            "pl": "rejon lachowicki",
+            "ru": "\u041b\u044f\u0445\u043e\u0432\u0438\u0447\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u041b\u044f\u0445\u043e\u0432\u0438\u0446\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q1415052",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 71100,
+        "osm_place_id": 282387639,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041c\u0430\u043b\u043e\u0440\u0438\u0442\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_eng": "Malaryta District",
+        "name_translations": {
+            "be": "\u041c\u0430\u043b\u0430\u0440\u044b\u0446\u043a\u0456 \u0440\u0430\u0451\u043d",
+            "en": "Malaryta District",
+            "pl": "rejon ma\u0142orycki",
+            "ru": "\u041c\u0430\u043b\u043e\u0440\u0438\u0442\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u041c\u0430\u043b\u043e\u0440\u0438\u0442\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q656512",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 59195,
+        "osm_place_id": 281726149,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "\u041c\u0438\u043d\u0441\u043a",
+        "name_eng": "Minsk",
+        "name_translations": {
+            "be": "\u041c\u0456\u043d\u0441\u043a",
+            "cs": "Minsk",
+            "cu": "\u041c\u0463\u043d\u044c\u0441\u043a\u044a",
+            "cv": "\u041c\u0438\u043d\u0441\u043a",
+            "de": "Minsk",
+            "el": "\u039c\u03b9\u03bd\u03c3\u03ba",
+            "en": "Minsk",
+            "eo": "Minsko",
+            "es": "Minsk",
+            "et": "Minsk",
+            "fa": "\u0645\u06cc\u0646\u0633\u06a9",
+            "fi": "Minsk",
+            "fr": "Minsk",
+            "ga": "Minsc",
+            "gl": "Minsk",
+            "he": "\u05de\u05d9\u05e0\u05e1\u05e7",
+            "hi": "\u092e\u093f\u0928\u094d\u200d\u0938\u094d\u200d\u0915",
+            "hr": "Minsk",
+            "hu": "Minszk",
+            "hy": "\u0544\u056b\u0576\u057d\u056f",
+            "ia": "Minsk",
+            "io": "Minsk",
+            "is": "Minsk",
+            "ja": "\u30df\u30f3\u30b9\u30af",
+            "ka": "\u10db\u10d8\u10dc\u10e1\u10d9\u10d8",
+            "kk": "\u041c\u0438\u043d\u0441\u043a",
+            "kn": "\u0cae\u0cbf\u0ca8\u0ccd\u0cb8\u0ccd\u0c95\u0ccd",
+            "ko": "\ubbfc\uc2a4\ud06c",
+            "ku": "M\u00eensk",
+            "kv": "\u041c\u0438\u043d\u0441\u043a",
+            "ky": "\u041c\u0438\u043d\u0441\u043a",
+            "la": "Minscum",
+            "lt": "Minskas",
+            "lv": "Minska",
+            "mk": "\u041c\u0438\u043d\u0441\u043a",
+            "ml": "\u0d2e\u0d3f\u0d7b\u0d38\u0d4d\u0d15\u0d4d",
+            "mr": "\u092e\u093f\u0928\u094d\u200d\u0938\u094d\u200d\u0915",
+            "nl": "Minsk",
+            "no": "Minsk",
+            "os": "\u041c\u0438\u043d\u0441\u043a",
+            "pl": "Mi\u0144sk",
+            "ru": "\u041c\u0438\u043d\u0441\u043a",
+            "sk": "Minsk",
+            "sl": "Minsk",
+            "sr": "\u041c\u0438\u043d\u0441\u043a",
+            "sv": "Minsk",
+            "ta": "\u0bae\u0bbf\u0ba9\u0bcd\u0bb8\u0bcd\u0b95\u0bcd",
+            "tg": "\u041c\u0438\u043d\u0441\u043a",
+            "th": "\u0e21\u0e34\u0e19\u0e2a\u0e01\u0e4c",
+            "tt": "\u041c\u0438\u043d\u0441\u043a",
+            "ug": "\u0645\u0649\u0646\u0649\u0633\u0643\u0649",
+            "uk": "\u041c\u0456\u043d\u0441\u044c\u043a",
+            "ur": "\u0645\u0646\u0633\u06a9",
+            "vi": "Minxc\u01a1",
+            "vo": "Minsk",
+            "yi": "\u05de\u05d9\u05e0\u05e1\u05e7",
+            "zh": "\u660e\u65af\u514b",
+            "ckb": "\u0645\u06cc\u0646\u0633\u06a9",
+            "csb": "Mi\u0144sk",
+            "jbo": "misk",
+            "mhr": "\u041c\u0438\u043d\u0441\u043a",
+            "myv": "\u041c\u0438\u043d\u0441\u043a \u043e\u0448",
+            "nds": "Minsk",
+            "pnb": "\u0645\u0646\u0633\u06a9",
+            "rue": "\u041c\u0456\u043d\u0441\u043a",
+            "sah": "\u041c\u0438\u043d\u0441\u043a\u0430\u0439",
+            "szl": "Mi\u0144sk",
+            "udm": "\u041c\u0438\u043d\u0441\u043a",
+            "wuu": "\u660e\u65af\u514b",
+            "be-tarask": "\u041c\u0435\u043d\u0441\u043a"
+        },
+        "extra": {
+            "wikidata": "Q2280",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 59752,
+        "osm_place_id": 281958686,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "\u041c\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+        "name_eng": "Minsk Region",
+        "name_translations": {
+            "be": "\u041c\u0456\u043d\u0441\u043a\u0430\u044f \u0432\u043e\u0431\u043b\u0430\u0441\u0446\u044c",
+            "de": "Minskaja Woblasz",
+            "en": "Minsk Region",
+            "eo": "Minska regiono",
+            "es": "Provincia de Minsk",
+            "fi": "Minskin alue",
+            "fr": "Voblast de Minsk",
+            "ja": "\u30df\u30f3\u30b9\u30af\u5dde",
+            "lt": "Minsko sritis",
+            "pl": "obw\u00f3d mi\u0144ski",
+            "ru": "\u041c\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+            "sk": "Minsk\u00e1 oblas\u0165",
+            "uk": "\u041c\u0456\u043d\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+            "be-tarask": "\u041c\u0435\u043d\u0441\u043a\u0430\u044f \u0432\u043e\u0431\u043b\u0430\u0441\u044c\u0446\u044c"
+        },
+        "extra": {
+            "wikidata": "Q192959",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 59190,
+        "osm_place_id": 281797038,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041c\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_eng": "Minsk District",
+        "name_translations": {
+            "be": "\u041c\u0456\u043d\u0441\u043a\u0456 \u0440\u0430\u0451\u043d",
+            "de": "Minsk Region",
+            "en": "Minsk District",
+            "lt": "Minsko rajonas",
+            "pl": "rejon mi\u0144ski",
+            "ru": "\u041c\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u041c\u0456\u043d\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q1636191",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 70690,
+        "osm_place_id": 281755586,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041c\u0438\u043e\u0440\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_eng": "Myory District",
+        "name_translations": {
+            "be": "\u041c\u0456\u0451\u0440\u0441\u043a\u0456 \u0440\u0430\u0451\u043d",
+            "en": "Myory District",
+            "lt": "Mior\u0173 rajonas",
+            "pl": "rejon miorski",
+            "ru": "\u041c\u0438\u043e\u0440\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u041c\u044c\u043e\u0440\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q2024225",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 62145,
+        "osm_place_id": 282145590,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041c\u043e\u0433\u0438\u043b\u0451\u0432",
+        "name_eng": "Mahilyow",
+        "name_translations": {
+            "ar": "\u0645\u0648\u063a\u064a\u0644\u0648\u0641",
+            "be": "\u041c\u0430\u0433\u0456\u043b\u0451\u045e",
+            "cs": "Mohylev",
+            "de": "Mahiljou",
+            "en": "Mahilyow",
+            "eo": "Mahilovo",
+            "es": "Maguilov",
+            "et": "Magiljov",
+            "fr": "Mahiliow",
+            "lt": "Mogiliovas",
+            "nl": "Mahiljow",
+            "pl": "Mohylew",
+            "ru": "\u041c\u043e\u0433\u0438\u043b\u0451\u0432",
+            "sk": "Mahi\u013eov",
+            "sr": "\u041c\u043e\u0433\u0438\u0459\u043e\u0432",
+            "uk": "\u041c\u043e\u0433\u0438\u043b\u044c\u043e\u0432",
+            "zh": "\u83ab\u5409\u5ed6\u592b",
+            "szl": "Mohylew",
+            "sr-Latn": "Mogiljov",
+            "be-tarask": "\u041c\u0430\u0433\u0456\u043b\u0451\u045e"
+        },
+        "extra": {
+            "wikidata": "Q154835",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 59162,
+        "osm_place_id": 281884096,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "\u041c\u043e\u0433\u0438\u043b\u0451\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+        "name_eng": "Mahilyow Region",
+        "name_translations": {
+            "az": "Mogilyov vilay\u0259ti",
+            "be": "\u041c\u0430\u0433\u0456\u043b\u0451\u045e\u0441\u043a\u0430\u044f \u0432\u043e\u0431\u043b\u0430\u0441\u0446\u044c",
+            "de": "Woblast Mahiljou",
+            "en": "Mahilyow Region",
+            "eo": "Mahilova regiono",
+            "es": "Provincia de Maguilov",
+            "fr": "Voblast de Mahiliow",
+            "hu": "Mahiljovi ter\u00fclet",
+            "ja": "\u30de\u30d2\u30ea\u30e7\u30a6\u5dde",
+            "ka": "\u10db\u10dd\u10d2\u10d8\u10da\u10d4\u10d5\u10d8\u10e1 \u10dd\u10da\u10e5\u10d8",
+            "kk": "\u041c\u043e\u0433\u0438\u043b\u0435\u0432 \u043e\u0431\u043b\u044b\u0441\u044b",
+            "ky": "\u041c\u043e\u0433\u0438\u043b\u0451\u0432 \u043e\u0431\u043b\u0430\u0441\u0442\u044b",
+            "lt": "Mogiliovo sritis",
+            "nl": "Oblast Mahiljow",
+            "pl": "obw\u00f3d mohylewski",
+            "pt": "Voblast de Mahilou",
+            "ro": "Regiunea Moghil\u0103u",
+            "ru": "\u041c\u043e\u0433\u0438\u043b\u0451\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+            "sk": "Mahi\u013eovsk\u00e1 oblas\u0165",
+            "tr": "Mahilyov Voblast\u0131",
+            "uk": "\u041c\u043e\u0433\u0438\u043b\u044c\u043e\u0432\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+            "uz": "Mogilyov viloyati",
+            "be-tarask": "\u041c\u0430\u0433\u0456\u043b\u0451\u045e\u0441\u043a\u0430\u044f \u0432\u043e\u0431\u043b\u0430\u0441\u044c\u0446\u044c"
+        },
+        "extra": {
+            "wikidata": "Q189822",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 62147,
+        "osm_place_id": 281835559,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041c\u043e\u0433\u0438\u043b\u0451\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_eng": "Mogilev District",
+        "name_translations": {
+            "be": "\u041c\u0430\u0433\u0456\u043b\u0451\u045e\u0441\u043a\u0456 \u0440\u0430\u0451\u043d",
+            "en": "Mogilev District",
+            "lt": "Mogiliovo rajonas",
+            "pl": "rejon mohylewski",
+            "ru": "\u041c\u043e\u0433\u0438\u043b\u0451\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u041c\u043e\u0433\u0438\u043b\u044c\u043e\u0432\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q2024261",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 70815,
+        "osm_place_id": 335613860,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041c\u043e\u0437\u044b\u0440\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_eng": "Mazyr District",
+        "name_translations": {
+            "be": "\u041c\u0430\u0437\u044b\u0440\u0441\u043a\u0456 \u0440\u0430\u0451\u043d",
+            "de": "Rajon Mazyr",
+            "en": "Mazyr District",
+            "es": "Rai\u00f3n de Mazyr",
+            "fi": "Mazyrin piiri",
+            "fr": "Ra\u00efon de Mazyr",
+            "it": "Distretto di Mazyr",
+            "ka": "\u10db\u10dd\u10d6\u10d8\u10e0\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8",
+            "lt": "Mozyriaus rajonas",
+            "lv": "Maziras rajons",
+            "pl": "rejon mozyrski",
+            "ru": "\u041c\u043e\u0437\u044b\u0440\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "sr": "Mazyrsk\u00fd raj\u00f3n",
+            "sv": "Mazyrski rajon",
+            "uk": "\u041c\u0430\u0437\u0438\u0440\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "zh": "\u99ac\u6fdf\u723e\u65af\u57fa\u5340",
+            "zh-CN": "\u9a6c\u6d4e\u5c14\u65af\u57fa\u533a"
+        },
+        "extra": {
+            "wikidata": "Q1952838",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 70566,
+        "osm_place_id": 281755463,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041c\u043e\u043b\u043e\u0434\u0435\u0447\u043d\u0435\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_eng": "Maladzyechna District",
+        "name_translations": {
+            "be": "\u041c\u0430\u043b\u0430\u0434\u0437\u0435\u0447\u0430\u043d\u0441\u043a\u0456 \u0440\u0430\u0451\u043d",
+            "de": "Rajon Maladsetschna",
+            "en": "Maladzyechna District",
+            "lt": "Malade\u010dinos rajonas",
+            "pl": "rejon mo\u0142odecza\u0144ski",
+            "ru": "\u041c\u043e\u043b\u043e\u0434\u0435\u0447\u043d\u0435\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u041c\u0430\u043b\u0430\u0434\u0437\u0454\u0447\u043d\u0435\u043d\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q2061340",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 70754,
+        "osm_place_id": 281832975,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041c\u043e\u0441\u0442\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_eng": "Masty District",
+        "name_translations": {
+            "be": "\u041c\u0430\u0441\u0442\u043e\u045e\u0441\u043a\u0456 \u0440\u0430\u0451\u043d",
+            "en": "Masty District",
+            "lt": "Mast\u0173 rajonas",
+            "pl": "rejon mostowski",
+            "ru": "\u041c\u043e\u0441\u0442\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u041c\u043e\u0441\u0442\u0456\u0432\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q959364",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 70616,
+        "osm_place_id": 281706787,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041c\u0441\u0442\u0438\u0441\u043b\u0430\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_eng": "Mstsislaw District",
+        "name_translations": {
+            "be": "\u041c\u0441\u0446\u0456\u0441\u043b\u0430\u045e\u0441\u043a\u0456 \u0440\u0430\u0451\u043d",
+            "en": "Mstsislaw District",
+            "lt": "Mscislavo rajonas",
+            "pl": "rejon m\u015bcis\u0142awski",
+            "ru": "\u041c\u0441\u0442\u0438\u0441\u043b\u0430\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u041c\u0441\u0442\u0438\u0441\u043b\u0430\u0432\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q1644438",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 70719,
+        "osm_place_id": 281718089,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041c\u044f\u0434\u0435\u043b\u044c\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_eng": "Myadzel District",
+        "name_translations": {
+            "be": "\u041c\u044f\u0434\u0437\u0435\u043b\u044c\u0441\u043a\u0456 \u0440\u0430\u0451\u043d",
+            "de": "Rajon Mjadsel",
+            "en": "Myadzel District",
+            "lt": "Medilo rajonas",
+            "pl": "rejon miadziolski",
+            "ru": "\u041c\u044f\u0434\u0435\u043b\u044c\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u041c\u044f\u0434\u0435\u043b\u044c\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q1637855",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 70809,
+        "osm_place_id": 282003829,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041d\u0430\u0440\u043e\u0432\u043b\u044f\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_eng": "Naroulia District",
+        "name_translations": {
+            "be": "\u041d\u0430\u0440\u0430\u045e\u043b\u044f\u043d\u0441\u043a\u0456 \u0440\u0430\u0451\u043d",
+            "en": "Naroulia District",
+            "lt": "Narovlios rajonas",
+            "pl": "rejon narowelski",
+            "ru": "\u041d\u0430\u0440\u043e\u0432\u043b\u044f\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u041d\u0430\u0440\u043e\u0432\u043b\u044f\u043d\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q787181",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 71128,
+        "osm_place_id": 281909850,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041d\u0435\u0441\u0432\u0438\u0436\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_eng": "Nesvizh District",
+        "name_translations": {
+            "be": "\u041d\u044f\u0441\u0432\u0456\u0436\u0441\u043a\u0456 \u0440\u0430\u0451\u043d",
+            "de": "Rajon Njaswisch",
+            "en": "Nesvizh District",
+            "lt": "Nesvy\u017eiaus rajonas",
+            "pl": "rejon Nie\u015bwieski",
+            "ru": "\u041d\u0435\u0441\u0432\u0438\u0436\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u041d\u0435\u0441\u0432\u0456\u0437\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q2091651",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 70749,
+        "osm_place_id": 282253881,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041d\u043e\u0432\u043e\u0433\u0440\u0443\u0434\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_eng": "Navahrudak District",
+        "name_translations": {
+            "be": "\u041d\u0430\u0432\u0430\u0433\u0440\u0443\u0434\u0441\u043a\u0456 \u0440\u0430\u0451\u043d",
+            "en": "Navahrudak District",
+            "lt": "Naugarduko rajonas",
+            "pl": "rejon nowogr\u00f3dzki",
+            "ru": "\u041d\u043e\u0432\u043e\u0433\u0440\u0443\u0434\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u041d\u043e\u0432\u043e\u0433\u0440\u0443\u0434\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q1952755",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 6825778,
+        "osm_place_id": 283179902,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041d\u043e\u0432\u043e\u043f\u043e\u043b\u043e\u0446\u043a",
+        "name_eng": "Navapolatsk",
+        "name_translations": {
+            "be": "\u041d\u0430\u0432\u0430\u043f\u043e\u043b\u0430\u0446\u043a",
+            "de": "Nawapolazk",
+            "en": "Navapolatsk",
+            "eo": "Navapolack",
+            "es": "Navapolack",
+            "et": "Navapolack",
+            "fr": "Navapolack",
+            "lt": "Navapolackas",
+            "nl": "Navapolatsk",
+            "pl": "Nowopo\u0142ock",
+            "ru": "\u041d\u043e\u0432\u043e\u043f\u043e\u043b\u043e\u0446\u043a",
+            "sr": "\u041d\u0430\u0432\u0430\u043f\u043e\u043b\u0430\u0446\u043a",
+            "uk": "\u041d\u0430\u0432\u0430\u043f\u043e\u043b\u0430\u0446\u044c\u043a",
+            "sr-Latn": "Novopolock",
+            "be-tarask": "\u041d\u0430\u0432\u0430\u043f\u043e\u043b\u0430\u0446\u0430\u043a"
+        },
+        "extra": {
+            "wikidata": "Q750424",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 59755,
+        "osm_place_id": 282171871,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041e\u043a\u0442\u044f\u0431\u0440\u044c\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_eng": "Akciabrski District",
+        "name_translations": {
+            "be": "\u0410\u043a\u0446\u044f\u0431\u0440\u0441\u043a\u0456 \u0440\u0430\u0451\u043d",
+            "en": "Akciabrski District",
+            "lt": "Oktiabrsko rajonas",
+            "pl": "rejon oktiabrski",
+            "ru": "\u041e\u043a\u0442\u044f\u0431\u0440\u044c\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u041e\u043a\u0442\u044f\u0431\u0440\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q1649029",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 70660,
+        "osm_place_id": 281805776,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041e\u0440\u0448\u0430\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_eng": "Orsha District",
+        "name_translations": {
+            "be": "\u0410\u0440\u0448\u0430\u043d\u0441\u043a\u0456 \u0440\u0430\u0451\u043d",
+            "de": "Rajon Orscha",
+            "en": "Orsha District",
+            "lt": "Or\u0161os rajonas",
+            "pl": "rejon orsza\u0144ski",
+            "ru": "\u041e\u0440\u0448\u0430\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u041e\u0440\u0448\u0430\u043d\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q1245303",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 59753,
+        "osm_place_id": 281726621,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041e\u0441\u0438\u043f\u043e\u0432\u0438\u0447\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_eng": "Asipovichy District",
+        "name_translations": {
+            "be": "\u0410\u0441\u0456\u043f\u043e\u0432\u0456\u0446\u043a\u0456 \u0440\u0430\u0451\u043d",
+            "en": "Asipovichy District",
+            "lt": "Asipovi\u010d\u0173 rajonas",
+            "pl": "rejon osipowicki",
+            "ru": "\u041e\u0441\u0438\u043f\u043e\u0432\u0438\u0447\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u041e\u0441\u0438\u043f\u043e\u0432\u0438\u0446\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q2025083",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 70721,
+        "osm_place_id": 281755873,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041e\u0441\u0442\u0440\u043e\u0432\u0435\u0446\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_eng": "Astravyets District",
+        "name_translations": {
+            "be": "\u0410\u0441\u0442\u0440\u0430\u0432\u0435\u0446\u043a\u0456 \u0440\u0430\u0451\u043d",
+            "de": "Rajon Astrawez",
+            "en": "Astravyets District",
+            "lt": "Ostroveco rajonas",
+            "pl": "rejon ostrowiecki",
+            "ru": "\u041e\u0441\u0442\u0440\u043e\u0432\u0435\u0446\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u041e\u0441\u0442\u0440\u043e\u0432\u0435\u0446\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q1953368",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 70728,
+        "osm_place_id": 282387423,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041e\u0448\u043c\u044f\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_eng": "Ashmyany District",
+        "name_translations": {
+            "be": "\u0410\u0448\u043c\u044f\u043d\u0441\u043a\u0456 \u0440\u0430\u0451\u043d",
+            "de": "Rajon Aschmjany",
+            "en": "Ashmyany District",
+            "lt": "A\u0161menos rajonas",
+            "pl": "rejon oszmia\u0144ski",
+            "ru": "\u041e\u0448\u043c\u044f\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u041e\u0448\u043c\u044f\u043d\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q1817340",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 71145,
+        "osm_place_id": 335613861,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041f\u0435\u0442\u0440\u0438\u043a\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_eng": "Pyetrykaw District",
+        "name_translations": {
+            "be": "\u041f\u0435\u0442\u0440\u044b\u043a\u0430\u045e\u0441\u043a\u0456 \u0440\u0430\u0451\u043d",
+            "en": "Pyetrykaw District",
+            "pl": "rejon petrykowski",
+            "ru": "\u041f\u0435\u0442\u0440\u0438\u043a\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u041f\u0435\u0442\u0440\u0438\u043a\u043e\u0432\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q571994",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 1749248,
+        "osm_place_id": 282243507,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041f\u0438\u043d\u0441\u043a",
+        "name_eng": "Pinsk",
+        "name_translations": {
+            "be": "\u041f\u0456\u043d\u0441\u043a",
+            "de": "Pinsk",
+            "en": "Pinsk",
+            "eo": "Pinsk",
+            "es": "Pinsk",
+            "et": "Pinsk",
+            "fr": "Pinsk",
+            "hu": "Pinszk",
+            "ko": "\ud540\uc2a4\ud06c",
+            "ku": "P\u00eensk",
+            "la": "Pinscum",
+            "lt": "Pinskas",
+            "nl": "Pinsk",
+            "pl": "Pi\u0144sk",
+            "ru": "\u041f\u0438\u043d\u0441\u043a",
+            "sr": "\u041f\u0438\u043d\u0441\u043a",
+            "uk": "\u041f\u0456\u043d\u0441\u044c\u043a",
+            "ckb": "\u067e\u06cc\u0646\u0633\u06a9",
+            "szl": "Pi\u0144sk",
+            "be-tarask": "\u041f\u0456\u043d\u0441\u043a"
+        },
+        "extra": {
+            "wikidata": "Q204150",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 71119,
+        "osm_place_id": 282003969,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041f\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_eng": "Pinsk District",
+        "name_translations": {
+            "be": "\u041f\u0456\u043d\u0441\u043a\u0456 \u0440\u0430\u0451\u043d",
+            "en": "Pinsk District",
+            "lt": "Pinsko rajonas",
+            "pl": "rejon pi\u0144ski",
+            "ru": "\u041f\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u041f\u0456\u043d\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q1885558",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 70671,
+        "osm_place_id": 282332947,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041f\u043e\u043b\u043e\u0446\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_eng": "Polatsk District",
+        "name_translations": {
+            "be": "\u041f\u043e\u043b\u0430\u0446\u043a\u0456 \u0440\u0430\u0451\u043d",
+            "de": "Rajon Polazk",
+            "en": "Polatsk District",
+            "lt": "Polocko rajonas",
+            "pl": "rejon po\u0142ocki",
+            "ru": "\u041f\u043e\u043b\u043e\u0446\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u041f\u043e\u043b\u0430\u0446\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q1423032",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 70707,
+        "osm_place_id": 325453054,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041f\u043e\u0441\u0442\u0430\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_eng": "Pastavy District",
+        "name_translations": {
+            "be": "\u041f\u0430\u0441\u0442\u0430\u045e\u0441\u043a\u0456 \u0440\u0430\u0451\u043d",
+            "de": "Rajon Pastawy",
+            "en": "Pastavy District",
+            "lt": "Pastov\u0173 rajonas",
+            "pl": "rejon postawski",
+            "ru": "\u041f\u043e\u0441\u0442\u0430\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u041f\u043e\u0441\u0442\u0430\u0432\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q2023948",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 71094,
+        "osm_place_id": 281805914,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041f\u0440\u0443\u0436\u0430\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_eng": "Pruzhany District",
+        "name_translations": {
+            "be": "\u041f\u0440\u0443\u0436\u0430\u043d\u0441\u043a\u0456 \u0440\u0430\u0451\u043d",
+            "de": "Rajon Pruschany",
+            "en": "Pruzhany District",
+            "pl": "rejon pru\u017ca\u0144ski",
+            "ru": "\u041f\u0440\u0443\u0436\u0430\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u041f\u0440\u0443\u0436\u0430\u043d\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q1885543",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 70549,
+        "osm_place_id": 281790941,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u041f\u0443\u0445\u043e\u0432\u0438\u0447\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_eng": "Pukhavichy District",
+        "name_translations": {
+            "be": "\u041f\u0443\u0445\u0430\u0432\u0456\u0446\u043a\u0456 \u0440\u0430\u0451\u043d",
+            "en": "Pukhavichy District",
+            "lt": "Puchavi\u010d\u0173 rajonas",
+            "pl": "rejon puchowicki",
+            "ru": "\u041f\u0443\u0445\u043e\u0432\u0438\u0447\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u041f\u0443\u0445\u043e\u0432\u0438\u0446\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q2091726",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 70812,
+        "osm_place_id": 281718238,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0420\u0435\u0447\u0438\u0446\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_eng": "Rechytsa District",
+        "name_translations": {
+            "be": "\u0420\u044d\u0447\u044b\u0446\u043a\u0456 \u0440\u0430\u0451\u043d",
+            "en": "Rechytsa District",
+            "lt": "Re\u010dycos rajonas",
+            "pl": "rejon rzeczycki",
+            "ru": "\u0420\u0435\u0447\u0438\u0446\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u0420\u0435\u0447\u0438\u0446\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q1586359",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 59174,
+        "osm_place_id": 282198844,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0420\u043e\u0433\u0430\u0447\u0451\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_eng": "Raha\u010do\u016d District",
+        "name_translations": {
+            "be": "\u0420\u0430\u0433\u0430\u0447\u043e\u045e\u0441\u043a\u0456 \u0440\u0430\u0451\u043d",
+            "en": "Raha\u010do\u016d District",
+            "lt": "Roga\u010diovo rajonas",
+            "pl": "rejon rohaczowski",
+            "ru": "\u0420\u043e\u0433\u0430\u0447\u0451\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u0420\u043e\u0433\u0430\u0447\u043e\u0432\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q1953403",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 70680,
+        "osm_place_id": 282037521,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0420\u043e\u0441\u0441\u043e\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_eng": "Rasony District",
+        "name_translations": {
+            "be": "\u0420\u0430\u0441\u043e\u043d\u0441\u043a\u0456 \u0440\u0430\u0451\u043d",
+            "de": "Rajon Rasony",
+            "en": "Rasony District",
+            "lt": "Rason\u0173 rajonas",
+            "pl": "rejon rosso\u0144ski",
+            "ru": "\u0420\u043e\u0441\u0441\u043e\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q2024283",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 59137,
+        "osm_place_id": 282176977,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0421\u0432\u0435\u0442\u043b\u043e\u0433\u043e\u0440\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_eng": "Svietlahorsk District",
+        "name_translations": {
+            "be": "\u0421\u0432\u0435\u0442\u043b\u0430\u0433\u043e\u0440\u0441\u043a\u0456 \u0440\u0430\u0451\u043d",
+            "en": "Svietlahorsk District",
+            "lt": "Svetlogorsko rajonas",
+            "pl": "rejon \u015bwiet\u0142ohorski",
+            "ru": "\u0421\u0432\u0435\u0442\u043b\u043e\u0433\u043e\u0440\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u0421\u0432\u0454\u0442\u043b\u043e\u0433\u043e\u0440\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q1952866",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 71093,
+        "osm_place_id": 281756398,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0421\u0432\u0438\u0441\u043b\u043e\u0447\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_eng": "Svislach District",
+        "name_translations": {
+            "be": "\u0421\u0432\u0456\u0441\u043b\u0430\u0446\u043a\u0456 \u0440\u0430\u0451\u043d",
+            "en": "Svislach District",
+            "pl": "rejon \u015bwis\u0142ocki",
+            "ru": "\u0421\u0432\u0438\u0441\u043b\u043e\u0447\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u0421\u0432\u0456\u0441\u043b\u043e\u0446\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q1953413",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 70662,
+        "osm_place_id": 282001486,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0421\u0435\u043d\u043d\u0435\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_eng": "Syanno District",
+        "name_translations": {
+            "be": "\u0421\u0435\u043d\u043d\u0435\u043d\u0441\u043a\u0456 \u0440\u0430\u0451\u043d",
+            "en": "Syanno District",
+            "lt": "Siano rajonas",
+            "pl": "rejon sienne\u0144ski",
+            "ru": "\u0421\u0435\u043d\u043d\u0435\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u0421\u0454\u043d\u043d\u0435\u043d\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q1353622",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 70589,
+        "osm_place_id": 281717097,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0421\u043b\u0430\u0432\u0433\u043e\u0440\u043e\u0434\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_eng": "Slawharad District",
+        "name_translations": {
+            "be": "\u0421\u043b\u0430\u045e\u0433\u0430\u0440\u0430\u0434\u0441\u043a\u0456 \u0440\u0430\u0451\u043d",
+            "en": "Slawharad District",
+            "lt": "Slavhorodo rajonas",
+            "pl": "rejon s\u0142awogradzki",
+            "ru": "\u0421\u043b\u0430\u0432\u0433\u043e\u0440\u043e\u0434\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u0421\u043b\u0430\u0432\u0433\u043e\u0440\u043e\u0434\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q2024248",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 71114,
+        "osm_place_id": 282037720,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0421\u043b\u043e\u043d\u0438\u043c\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_eng": "Slonim District",
+        "name_translations": {
+            "be": "\u0421\u043b\u043e\u043d\u0456\u043c\u0441\u043a\u0456 \u0440\u0430\u0451\u043d",
+            "en": "Slonim District",
+            "lt": "Slanimo rajonas",
+            "pl": "rejon s\u0142onimski",
+            "ru": "\u0421\u043b\u043e\u043d\u0438\u043c\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u0421\u043b\u043e\u043d\u0456\u043c\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q1953359",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 71134,
+        "osm_place_id": 282195987,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0421\u043b\u0443\u0446\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_eng": "Slutsk District",
+        "name_translations": {
+            "be": "\u0421\u043b\u0443\u0446\u043a\u0456 \u0440\u0430\u0451\u043d",
+            "de": "Rajon Sluzk",
+            "en": "Slutsk District",
+            "pl": "rejon s\u0142ucki",
+            "ru": "\u0421\u043b\u0443\u0446\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u0421\u043b\u0443\u0446\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q2091666",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 69554,
+        "osm_place_id": 282151377,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0421\u043c\u043e\u043b\u0435\u0432\u0438\u0447\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_eng": "Smalyavichy District",
+        "name_translations": {
+            "be": "\u0421\u043c\u0430\u043b\u044f\u0432\u0456\u0446\u043a\u0456 \u0440\u0430\u0451\u043d",
+            "en": "Smalyavichy District",
+            "lt": "Smaliavi\u010d\u0173 rajonas",
+            "pl": "rejon smolewicki",
+            "ru": "\u0421\u043c\u043e\u043b\u0435\u0432\u0438\u0447\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u0421\u043c\u043e\u043b\u0435\u0432\u0438\u0446\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q675294",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 70725,
+        "osm_place_id": 281909440,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0421\u043c\u043e\u0440\u0433\u043e\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_eng": "Smarhon' District",
+        "name_translations": {
+            "be": "\u0421\u043c\u0430\u0440\u0433\u043e\u043d\u0441\u043a\u0456 \u0440\u0430\u0451\u043d",
+            "en": "Smarhon' District",
+            "lt": "Smurgaini\u0173 rajonas",
+            "pl": "rejon smorgo\u0144ski",
+            "ru": "\u0421\u043c\u043e\u0440\u0433\u043e\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u0421\u043c\u043e\u0440\u0433\u043e\u043d\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q954534",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 71133,
+        "osm_place_id": 281718873,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0421\u043e\u043b\u0438\u0433\u043e\u0440\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_eng": "Salihorsk District",
+        "name_translations": {
+            "be": "\u0421\u0430\u043b\u0456\u0433\u043e\u0440\u0441\u043a\u0456 \u0440\u0430\u0451\u043d",
+            "en": "Salihorsk District",
+            "lt": "Salihorsko rajonas",
+            "pl": "rejon soligorski",
+            "ru": "\u0421\u043e\u043b\u0438\u0433\u043e\u0440\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u0421\u0430\u043b\u0456\u0433\u043e\u0440\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q2091658",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 71135,
+        "osm_place_id": 282151946,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0421\u0442\u0430\u0440\u043e\u0434\u043e\u0440\u043e\u0436\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_eng": "Staryya Darohi District",
+        "name_translations": {
+            "be": "\u0421\u0442\u0430\u0440\u0430\u0434\u0430\u0440\u043e\u0436\u0441\u043a\u0456 \u0440\u0430\u0451\u043d",
+            "en": "Staryya Darohi District",
+            "pl": "rejon starodoroski",
+            "ru": "\u0421\u0442\u0430\u0440\u043e\u0434\u043e\u0440\u043e\u0436\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u0421\u0442\u0430\u0440\u0430\u0434\u0430\u0440\u043e\u0437\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q977019",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 70752,
+        "osm_place_id": 281756109,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0421\u0442\u043e\u043b\u0431\u0446\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_eng": "Stowbtsy District",
+        "name_translations": {
+            "be": "\u0421\u0442\u0430\u045e\u0431\u0446\u043e\u045e\u0441\u043a\u0456 \u0440\u0430\u0451\u043d",
+            "en": "Stowbtsy District",
+            "lt": "Stolpc\u0173 rajonas",
+            "pl": "rejon sto\u0142pecki",
+            "ru": "\u0421\u0442\u043e\u043b\u0431\u0446\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u0421\u0442\u0430\u0432\u0431\u0446\u043e\u0432\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q2061349",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 71125,
+        "osm_place_id": 281806005,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0421\u0442\u043e\u043b\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_eng": "Stolin District",
+        "name_translations": {
+            "be": "\u0421\u0442\u043e\u043b\u0456\u043d\u0441\u043a\u0456 \u0440\u0430\u0451\u043d",
+            "en": "Stolin District",
+            "lt": "Stolino rajonas",
+            "pl": "rejon stoli\u0144ski",
+            "ru": "\u0421\u0442\u043e\u043b\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u0421\u0442\u043e\u043b\u0456\u043d\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q1885570",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 70649,
+        "osm_place_id": 328458487,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0422\u043e\u043b\u043e\u0447\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_eng": "Talachyn District",
+        "name_translations": {
+            "be": "\u0422\u0430\u043b\u0430\u0447\u044b\u043d\u0441\u043a\u0456 \u0440\u0430\u0451\u043d",
+            "en": "Talachyn District",
+            "lt": "Tala\u010dyno rajonas",
+            "pl": "rejon to\u0142oczy\u0144ski",
+            "ru": "\u0422\u043e\u043b\u043e\u0447\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u0422\u043e\u043b\u043e\u0447\u0438\u0446\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q1235840",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 70561,
+        "osm_place_id": 282003602,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0423\u0437\u0434\u0435\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_eng": "Uzda District",
+        "name_translations": {
+            "be": "\u0423\u0437\u0434\u0437\u0435\u043d\u0441\u043a\u0456 \u0440\u0430\u0451\u043d",
+            "en": "Uzda District",
+            "lt": "Uzdos rajonas",
+            "pl": "rejon u\u017adzie\u0144ski",
+            "ru": "\u0423\u0437\u0434\u0435\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u0423\u0437\u0434\u0435\u043d\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q2092398",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 70669,
+        "osm_place_id": 282195860,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0423\u0448\u0430\u0447\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_eng": "Ushachy District",
+        "name_translations": {
+            "be": "\u0423\u0448\u0430\u0446\u043a\u0456 \u0440\u0430\u0451\u043d",
+            "en": "Ushachy District",
+            "lt": "U\u0161a\u010di\u0173 rajonas",
+            "pl": "rejon uszacki",
+            "ru": "\u0423\u0448\u0430\u0447\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u0423\u0448\u0430\u0446\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q2025099",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 70802,
+        "osm_place_id": 281706981,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0425\u043e\u0439\u043d\u0438\u043a\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_eng": "Khoiniki District",
+        "name_translations": {
+            "be": "\u0425\u043e\u0439\u043d\u0456\u0446\u043a\u0456 \u0440\u0430\u0451\u043d",
+            "en": "Khoiniki District",
+            "lt": "Choinik\u0173 rajonas",
+            "pl": "rejon chojnicki",
+            "ru": "\u0425\u043e\u0439\u043d\u0438\u043a\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u0425\u043e\u0439\u043d\u0456\u0446\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q1808704",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 70605,
+        "osm_place_id": 282179381,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0425\u043e\u0442\u0438\u043c\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_eng": "Khotsimsk District",
+        "name_translations": {
+            "be": "\u0425\u043e\u0446\u0456\u043c\u0441\u043a\u0456 \u0440\u0430\u0451\u043d",
+            "en": "Khotsimsk District",
+            "fi": "H\u2019otsimskin piiri",
+            "hu": "Hocimszki j\u00e1r\u00e1s",
+            "lt": "Chocimsko rajonas",
+            "pl": "rejon chocimski",
+            "ru": "\u0425\u043e\u0442\u0438\u043c\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u0425\u043e\u0446\u0456\u043c\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q1574966",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 70591,
+        "osm_place_id": 281792154,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0427\u0430\u0443\u0441\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_eng": "Chavusy District",
+        "name_translations": {
+            "be": "\u0427\u0430\u0432\u0443\u0441\u043a\u0456 \u0440\u0430\u0451\u043d",
+            "en": "Chavusy District",
+            "lt": "\u010cavus\u0173 rajonas",
+            "pl": "rejon czauski",
+            "ru": "\u0427\u0430\u0443\u0441\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u0427\u0430\u0443\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q2024276",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 70746,
+        "osm_place_id": 281792569,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0427\u0430\u0448\u043d\u0438\u043a\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_eng": "Chashniki District",
+        "name_translations": {
+            "be": "\u0427\u0430\u0448\u043d\u0456\u0446\u043a\u0456 \u0440\u0430\u0451\u043d",
+            "en": "Chashniki District",
+            "lt": "\u010ca\u0161nik\u0173 rajonas",
+            "pl": "rejon cza\u015bnicki",
+            "ru": "\u0427\u0430\u0448\u043d\u0438\u043a\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u0427\u0430\u0448\u043d\u0438\u0446\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q2023954",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 59751,
+        "osm_place_id": 281884434,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0427\u0435\u0440\u0432\u0435\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_eng": "Chervyen District",
+        "name_translations": {
+            "be": "\u0427\u044d\u0440\u0432\u0435\u043d\u044c\u0441\u043a\u0456 \u0440\u0430\u0451\u043d",
+            "de": "Rajon Tscherwen",
+            "en": "Chervyen District",
+            "lt": "\u010cerven\u0117s rajonas",
+            "pl": "rejon czerwie\u0144ski",
+            "ru": "\u0427\u0435\u0440\u0432\u0435\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u0427\u0435\u0440\u0432\u0454\u043d\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q2091744",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 70595,
+        "osm_place_id": 281712253,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0427\u0435\u0440\u0438\u043a\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_eng": "Cherykaw District",
+        "name_translations": {
+            "be": "\u0427\u044d\u0440\u044b\u043a\u0430\u045e\u0441\u043a\u0456 \u0440\u0430\u0451\u043d",
+            "en": "Cherykaw District",
+            "lt": "\u010cerykavo rajonas",
+            "pl": "rejon czerykowski",
+            "ru": "\u0427\u0435\u0440\u0438\u043a\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u0427\u0435\u0440\u0438\u043a\u043e\u0432\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q2024293",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 59178,
+        "osm_place_id": 281730427,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0427\u0435\u0447\u0435\u0440\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_eng": "Chachersk Distric",
+        "name_translations": {
+            "be": "\u0427\u0430\u0447\u044d\u0440\u0441\u043a\u0456 \u0440\u0430\u0451\u043d",
+            "en": "Chachersk Distric",
+            "lt": "\u010ce\u010deros rajonas",
+            "pl": "rejon czeczerski",
+            "ru": "\u0427\u0435\u0447\u0435\u0440\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u0427\u0435\u0447\u0435\u0440\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q671126",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 70701,
+        "osm_place_id": 282151566,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0428\u0430\u0440\u043a\u043e\u0432\u0449\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_eng": "Sharkawshchyna District",
+        "name_translations": {
+            "be": "\u0428\u0430\u0440\u043a\u0430\u045e\u0448\u0447\u044b\u043d\u0441\u043a\u0456 \u0440\u0430\u0451\u043d",
+            "en": "Sharkawshchyna District",
+            "lt": "\u0160arkau\u0161\u010dynos rajonas",
+            "pl": "rejon szarkowszczy\u0144ski",
+            "ru": "\u0428\u0430\u0440\u043a\u043e\u0432\u0449\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u0428\u0430\u0440\u043a\u043e\u0432\u0449\u0438\u043d\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q1997084",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 70626,
+        "osm_place_id": 281717909,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0428\u043a\u043b\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_eng": "Shklow District",
+        "name_translations": {
+            "be": "\u0428\u043a\u043b\u043e\u045e\u0441\u043a\u0456 \u0440\u0430\u0451\u043d",
+            "en": "Shklow District",
+            "lt": "\u0160klovo rajonas",
+            "pl": "rejon szk\u0142owski",
+            "ru": "\u0428\u043a\u043b\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u0428\u043a\u043b\u043e\u0432\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q1253060",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 70677,
+        "osm_place_id": 281798165,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0428\u0443\u043c\u0438\u043b\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_eng": "Shumilina District",
+        "name_translations": {
+            "be": "\u0428\u0443\u043c\u0456\u043b\u0456\u043d\u0441\u043a\u0456 \u0440\u0430\u0451\u043d",
+            "en": "Shumilina District",
+            "lt": "\u0160umilino rajonas",
+            "pl": "rejon szumili\u0144ski",
+            "ru": "\u0428\u0443\u043c\u0438\u043b\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u0428\u0443\u043c\u0456\u043b\u0456\u043d\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q2025054",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "by",
+        "country_cca3": "blr",
+        "region_cca2": null,
+        "osm_id": 70748,
+        "osm_place_id": 282105911,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0429\u0443\u0447\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+        "name_eng": "Shchuchyn District",
+        "name_translations": {
+            "be": "\u0428\u0447\u0443\u0447\u044b\u043d\u0441\u043a\u0456 \u0440\u0430\u0451\u043d",
+            "en": "Shchuchyn District",
+            "lt": "\u0160\u010diutino rajonas",
+            "pl": "rejon szczuczy\u0144ski",
+            "ru": "\u0429\u0443\u0447\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u0429\u0443\u0447\u0438\u043d\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q1953351",
+            "un_locode": null
+        }
+    }
+]

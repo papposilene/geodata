@@ -1,0 +1,595 @@
+[
+    {
+        "country_cca2": "rw",
+        "country_cca3": "rwa",
+        "region_cca2": null,
+        "osm_id": 1711194,
+        "osm_place_id": 282228585,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Akarere ka Burera",
+        "name_eng": "Burera District",
+        "name_translations": {
+            "en": "Burera District"
+        },
+        "extra": {
+            "wikidata": "Q2724063",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "rw",
+        "country_cca3": "rwa",
+        "region_cca2": null,
+        "osm_id": 3963733,
+        "osm_place_id": 282511698,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Akarere ka Gasabo",
+        "name_eng": "Gasabo District",
+        "name_translations": {
+            "en": "Gasabo District",
+            "fr": "District de Gasabo"
+        },
+        "extra": {
+            "wikidata": "Q2424659",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "rw",
+        "country_cca3": "rwa",
+        "region_cca2": null,
+        "osm_id": 3963721,
+        "osm_place_id": 282477605,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Akarere ka Kicukiro",
+        "name_eng": "Kicukiro District",
+        "name_translations": {
+            "en": "Kicukiro District",
+            "fr": "District de Kicukiro"
+        },
+        "extra": {
+            "wikidata": "Q2424726",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "rw",
+        "country_cca3": "rwa",
+        "region_cca2": null,
+        "osm_id": 1730903,
+        "osm_place_id": 282411693,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Akarere ka Muhanga",
+        "name_eng": "Muhanga District",
+        "name_translations": {
+            "en": "Muhanga District"
+        },
+        "extra": {
+            "wikidata": "Q2632789",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "rw",
+        "country_cca3": "rwa",
+        "region_cca2": null,
+        "osm_id": 3963734,
+        "osm_place_id": 282519393,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Akarere ka Nyarugenge",
+        "name_eng": "Nyarugenge District",
+        "name_translations": {
+            "en": "Nyarugenge District",
+            "fr": "District de Nyarugenge"
+        },
+        "extra": {
+            "wikidata": "Q21405821",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "rw",
+        "country_cca3": "rwa",
+        "region_cca2": null,
+        "osm_id": 1707127,
+        "osm_place_id": 282186273,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Akarere ka Nyaruguru",
+        "name_eng": "Nyaruguru District",
+        "name_translations": {
+            "en": "Nyaruguru District"
+        },
+        "extra": {
+            "wikidata": "Q2632798",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "rw",
+        "country_cca3": "rwa",
+        "region_cca2": "RW-05",
+        "osm_id": 1707122,
+        "osm_place_id": 282247457,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Amajvepfo",
+        "name_eng": "Southern Province",
+        "name_translations": {
+            "cs": "Ji\u017en\u00ed provincie",
+            "en": "Southern Province",
+            "ru": "\u042e\u0436\u043d\u0430\u044f \u043f\u0440\u043e\u0432\u0438\u043d\u0446\u0438\u044f"
+        },
+        "extra": {
+            "wikidata": "Q853162",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "rw",
+        "country_cca3": "rwa",
+        "region_cca2": null,
+        "osm_id": 171663,
+        "osm_place_id": 281821157,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Bugesera District",
+        "name_eng": "Bugesera District",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2724056",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "rw",
+        "country_cca3": "rwa",
+        "region_cca2": null,
+        "osm_id": 1711192,
+        "osm_place_id": 282252833,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Gakenke",
+        "name_eng": "Gakenke",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "rw",
+        "country_cca3": "rwa",
+        "region_cca2": null,
+        "osm_id": 1711131,
+        "osm_place_id": 282223816,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Gatsibo District",
+        "name_eng": "Gatsibo District",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2724046",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "rw",
+        "country_cca3": "rwa",
+        "region_cca2": null,
+        "osm_id": 1711209,
+        "osm_place_id": 282729899,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Gicumbi",
+        "name_eng": "Gicumbi",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2424750",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "rw",
+        "country_cca3": "rwa",
+        "region_cca2": null,
+        "osm_id": 1707123,
+        "osm_place_id": 282274170,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Gisagara",
+        "name_eng": "Gisagara",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "rw",
+        "country_cca3": "rwa",
+        "region_cca2": null,
+        "osm_id": 1707124,
+        "osm_place_id": 282204524,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Huye",
+        "name_eng": "Huye",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "rw",
+        "country_cca3": "rwa",
+        "region_cca2": "RW-02",
+        "osm_id": 171591,
+        "osm_place_id": 282272317,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Iburasirasuba",
+        "name_eng": "East Province",
+        "name_translations": {
+            "cs": "V\u00fdchodn\u00ed provincie",
+            "en": "East Province"
+        },
+        "extra": {
+            "wikidata": "Q853152",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "rw",
+        "country_cca3": "rwa",
+        "region_cca2": "RW-04",
+        "osm_id": 1708131,
+        "osm_place_id": 282336956,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Iburengerazuba",
+        "name_eng": "Western Province",
+        "name_translations": {
+            "cs": "Z\u00e1padn\u00ed provincie",
+            "de": "West Provinz",
+            "en": "Western Province"
+        },
+        "extra": {
+            "wikidata": "Q737354",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "rw",
+        "country_cca3": "rwa",
+        "region_cca2": null,
+        "osm_id": 1730905,
+        "osm_place_id": 282445262,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Kamonyi",
+        "name_eng": "Kamonyi",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2424592",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "rw",
+        "country_cca3": "rwa",
+        "region_cca2": null,
+        "osm_id": 1709867,
+        "osm_place_id": 282337302,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Karongi",
+        "name_eng": "Karongi",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q429825",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "rw",
+        "country_cca3": "rwa",
+        "region_cca2": null,
+        "osm_id": 1711163,
+        "osm_place_id": 282228530,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Kayonza District",
+        "name_eng": "Kayonza District",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q426211",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "rw",
+        "country_cca3": "rwa",
+        "region_cca2": null,
+        "osm_id": 171655,
+        "osm_place_id": 281816101,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Kirehe District",
+        "name_eng": "Kirehe District",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q596210",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "rw",
+        "country_cca3": "rwa",
+        "region_cca2": "RW-03",
+        "osm_id": 1708298,
+        "osm_place_id": 282195047,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Majyaruguru",
+        "name_eng": "Northern Province",
+        "name_translations": {
+            "cs": "Severn\u00ed provincie",
+            "en": "Northern Province",
+            "ru": "\u0421\u0435\u0432\u0435\u0440\u043d\u0430\u044f \u043f\u0440\u043e\u0432\u0438\u043d\u0446\u0438\u044f"
+        },
+        "extra": {
+            "wikidata": "Q845807",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "rw",
+        "country_cca3": "rwa",
+        "region_cca2": null,
+        "osm_id": 1711187,
+        "osm_place_id": 282410222,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Musanze",
+        "name_eng": "Musanze",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2360921",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "rw",
+        "country_cca3": "rwa",
+        "region_cca2": null,
+        "osm_id": 1711167,
+        "osm_place_id": 282187171,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Ngoma District",
+        "name_eng": "Ngoma District",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2724035",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "rw",
+        "country_cca3": "rwa",
+        "region_cca2": null,
+        "osm_id": 1711949,
+        "osm_place_id": 282282112,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Ngororero",
+        "name_eng": "Ngororero",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "rw",
+        "country_cca3": "rwa",
+        "region_cca2": null,
+        "osm_id": 1711322,
+        "osm_place_id": 282187546,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Nyabihu",
+        "name_eng": "Nyabihu",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2424699",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "rw",
+        "country_cca3": "rwa",
+        "region_cca2": null,
+        "osm_id": 1711124,
+        "osm_place_id": 282631264,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Nyagatare District",
+        "name_eng": "Nyagatare District",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2632814",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "rw",
+        "country_cca3": "rwa",
+        "region_cca2": null,
+        "osm_id": 1707125,
+        "osm_place_id": 282630837,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Nyamagabe",
+        "name_eng": "Nyamagabe",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2632783",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "rw",
+        "country_cca3": "rwa",
+        "region_cca2": null,
+        "osm_id": 1709854,
+        "osm_place_id": 282410098,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Nyamasheke",
+        "name_eng": "Nyamasheke",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2005905",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "rw",
+        "country_cca3": "rwa",
+        "region_cca2": null,
+        "osm_id": 1707126,
+        "osm_place_id": 282409514,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Nyanza",
+        "name_eng": "Nyanza",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "rw",
+        "country_cca3": "rwa",
+        "region_cca2": null,
+        "osm_id": 1711383,
+        "osm_place_id": 282231178,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Rubavu",
+        "name_eng": "Rubavu",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "rw",
+        "country_cca3": "rwa",
+        "region_cca2": null,
+        "osm_id": 1730914,
+        "osm_place_id": 282189755,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Ruhango",
+        "name_eng": "Ruhango",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "rw",
+        "country_cca3": "rwa",
+        "region_cca2": null,
+        "osm_id": 1711195,
+        "osm_place_id": 282504144,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Rulindo",
+        "name_eng": "Rulindo",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2424625",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "rw",
+        "country_cca3": "rwa",
+        "region_cca2": null,
+        "osm_id": 1708895,
+        "osm_place_id": 282443907,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Rusizi",
+        "name_eng": "Rusizi",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q781590",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "rw",
+        "country_cca3": "rwa",
+        "region_cca2": null,
+        "osm_id": 1711391,
+        "osm_place_id": 282282036,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Rutsiro",
+        "name_eng": "Rutsiro",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2724023",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "rw",
+        "country_cca3": "rwa",
+        "region_cca2": null,
+        "osm_id": 1711142,
+        "osm_place_id": 282185109,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Rwamagana District",
+        "name_eng": "Rwamagana District",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q921255",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "rw",
+        "country_cca3": "rwa",
+        "region_cca2": "RW-01",
+        "osm_id": 1708283,
+        "osm_place_id": 282230892,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Umujyi wa Kigali",
+        "name_eng": "Kigali City",
+        "name_translations": {
+            "de": "Kigali",
+            "en": "Kigali City"
+        },
+        "extra": {
+            "wikidata": "Q3859",
+            "un_locode": null
+        }
+    }
+]

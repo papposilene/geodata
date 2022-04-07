@@ -1,0 +1,2014 @@
+[
+    {
+        "country_cca2": "am",
+        "country_cca3": "arm",
+        "region_cca2": null,
+        "osm_id": 7846009,
+        "osm_place_id": 282906570,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0531\u0562\u0578\u057e\u0575\u0561\u0576",
+        "name_eng": "Abovyan",
+        "name_translations": {
+            "ar": "\u0623\u0628\u0648\u0641\u064a\u0627\u0646 (\u0623\u0631\u0627\u0631\u0627\u062a)",
+            "bg": "\u0410\u0431\u043e\u0432\u044f\u043d",
+            "de": "Abowjan",
+            "en": "Abovyan",
+            "eo": "Abovjan",
+            "es": "Abovyan",
+            "fa": "\u0622\u0628\u0648\u0648\u06cc\u0627\u0646",
+            "fr": "Abovyan",
+            "hr": "Abovjan",
+            "hy": "\u0531\u0562\u0578\u057e\u0575\u0561\u0576",
+            "id": "Abovyan",
+            "it": "Abovyan",
+            "ka": "\u10d0\u10d1\u10dd\u10d5\u10d8\u10d0\u10dc\u10d8",
+            "ko": "\uc544\ubcf4\ube44\uc548",
+            "lt": "Abovianas",
+            "ms": "Abovyan",
+            "nl": "Abovjan (Kotajk)",
+            "pl": "Abowian",
+            "pt": "Abovyan",
+            "ro": "Abovian",
+            "ru": "\u0410\u0431\u043e\u0432\u044f\u043d",
+            "sr": "\u0410\u0431\u043e\u0432\u0458\u0430\u043d",
+            "sw": "Abovyan",
+            "tr": "Abovyan",
+            "uk": "\u0410\u0431\u043e\u0432\u044f\u043d (\u043c\u0456\u0441\u0442\u043e)",
+            "vi": "Abovyan",
+            "zh": "\u963f\u535a\u7dad\u63da (\u4e9e\u7f8e\u5c3c\u4e9e)"
+        },
+        "extra": {
+            "wikidata": "Q31493",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "am",
+        "country_cca3": "arm",
+        "region_cca2": null,
+        "osm_id": 10860152,
+        "osm_place_id": 283251960,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u0531\u0562\u0578\u057e\u0575\u0561\u0576\u056b \u057f\u0561\u0580\u0561\u056e\u0561\u0577\u0580\u057b\u0561\u0576",
+        "name_eng": "Abovyan region",
+        "name_translations": {
+            "en": "Abovyan region",
+            "hy": "\u0531\u0562\u0578\u057e\u0575\u0561\u0576\u056b \u057f\u0561\u0580\u0561\u056e\u0561\u0577\u0580\u057b\u0561\u0576",
+            "ru": "\u0410\u0431\u043e\u0432\u044f\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "am",
+        "country_cca3": "arm",
+        "region_cca2": null,
+        "osm_id": 10921609,
+        "osm_place_id": 283208260,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u0531\u056d\u0578\u0582\u0580\u0575\u0561\u0576\u056b \u057f\u0561\u0580\u0561\u056e\u0561\u0577\u0580\u057b\u0561\u0576",
+        "name_eng": "Akhuryan region",
+        "name_translations": {
+            "en": "Akhuryan region",
+            "hy": "\u0531\u056d\u0578\u0582\u0580\u0575\u0561\u0576\u056b \u057f\u0561\u0580\u0561\u056e\u0561\u0577\u0580\u057b\u0561\u0576",
+            "ru": "\u0410\u0445\u0443\u0440\u044f\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "am",
+        "country_cca3": "arm",
+        "region_cca2": null,
+        "osm_id": 10921610,
+        "osm_place_id": 283256572,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u0531\u0574\u0561\u057d\u056b\u0561\u0575\u056b \u057f\u0561\u0580\u0561\u056e\u0561\u0577\u0580\u057b\u0561\u0576",
+        "name_eng": "Amasia region",
+        "name_translations": {
+            "en": "Amasia region",
+            "hy": "\u0531\u0574\u0561\u057d\u056b\u0561\u0575\u056b \u057f\u0561\u0580\u0561\u056e\u0561\u0577\u0580\u057b\u0561\u0576",
+            "ru": "\u0410\u043c\u0430\u0441\u0438\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "am",
+        "country_cca3": "arm",
+        "region_cca2": null,
+        "osm_id": 10921611,
+        "osm_place_id": 283206871,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u0531\u0577\u0578\u0581\u0584\u056b \u057f\u0561\u0580\u0561\u056e\u0561\u0577\u0580\u057b\u0561\u0576",
+        "name_eng": "Ashotsk Region",
+        "name_translations": {
+            "en": "Ashotsk Region",
+            "hy": "\u0531\u0577\u0578\u0581\u0584\u056b \u057f\u0561\u0580\u0561\u056e\u0561\u0577\u0580\u057b\u0561\u0576",
+            "ru": "\u0410\u0448\u043e\u0446\u043a\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "am",
+        "country_cca3": "arm",
+        "region_cca2": null,
+        "osm_id": 10866160,
+        "osm_place_id": 283565153,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u0531\u0577\u057f\u0561\u0580\u0561\u056f\u056b \u057f\u0561\u0580\u0561\u056e\u0561\u0577\u0580\u057b\u0561\u0576",
+        "name_eng": "Ashtarak region",
+        "name_translations": {
+            "en": "Ashtarak region",
+            "hy": "\u0531\u0577\u057f\u0561\u0580\u0561\u056f\u056b \u057f\u0561\u0580\u0561\u056e\u0561\u0577\u0580\u057b\u0561\u0576",
+            "ru": "\u0410\u0448\u0442\u0430\u0440\u0430\u043a\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "am",
+        "country_cca3": "arm",
+        "region_cca2": null,
+        "osm_id": 10866161,
+        "osm_place_id": 283204755,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u0531\u057a\u0561\u0580\u0561\u0576\u056b \u057f\u0561\u0580\u0561\u056e\u0561\u0577\u0580\u057b\u0561\u0576",
+        "name_eng": "Aparan region",
+        "name_translations": {
+            "en": "Aparan region",
+            "hy": "\u0531\u057a\u0561\u0580\u0561\u0576\u056b \u057f\u0561\u0580\u0561\u056e\u0561\u0577\u0580\u057b\u0561\u0576",
+            "ru": "\u0410\u043f\u0430\u0440\u0430\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "am",
+        "country_cca3": "arm",
+        "region_cca2": null,
+        "osm_id": 13404299,
+        "osm_place_id": 322688439,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u0531\u057b\u0561\u0583\u0576\u0575\u0561\u056f",
+        "name_eng": "Ajapnyak",
+        "name_translations": {
+            "en": "Ajapnyak",
+            "hy": "\u0531\u057b\u0561\u0583\u0576\u0575\u0561\u056f",
+            "ru": "\u0410\u0447\u0430\u043f\u043d\u044f\u043a"
+        },
+        "extra": {
+            "wikidata": "Q1822966",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "am",
+        "country_cca3": "arm",
+        "region_cca2": null,
+        "osm_id": 13404250,
+        "osm_place_id": 323477543,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u0531\u057e\u0561\u0576",
+        "name_eng": "Avan",
+        "name_translations": {
+            "en": "Avan",
+            "hy": "\u0531\u057e\u0561\u0576",
+            "ru": "\u0410\u0432\u0430\u043d"
+        },
+        "extra": {
+            "wikidata": "Q1822949",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "am",
+        "country_cca3": "arm",
+        "region_cca2": null,
+        "osm_id": 13404297,
+        "osm_place_id": 322688437,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u0531\u0580\u0561\u0562\u056f\u056b\u0580",
+        "name_eng": "Arabkir",
+        "name_translations": {
+            "en": "Arabkir",
+            "hy": "\u0531\u0580\u0561\u0562\u056f\u056b\u0580",
+            "ru": "\u0410\u0440\u0430\u0431\u043a\u0438\u0440"
+        },
+        "extra": {
+            "wikidata": "Q2737784",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "am",
+        "country_cca3": "arm",
+        "region_cca2": "AM-AG",
+        "osm_id": 3917110,
+        "osm_place_id": 282514926,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "\u0531\u0580\u0561\u0563\u0561\u056e\u0578\u057f\u0576\u056b \u0574\u0561\u0580\u0566",
+        "name_eng": "Aragatsotn Province",
+        "name_translations": {
+            "az": "Araqacotn m\u0259rzi",
+            "de": "Provinz Aragazotn",
+            "el": "\u0391\u03c1\u03b1\u03b3\u03ba\u03b1\u03c4\u03c3\u03cc\u03c4\u03bd",
+            "en": "Aragatsotn Province",
+            "es": "Aragatsotn",
+            "fr": "Aragatsotn",
+            "hy": "\u0531\u0580\u0561\u0563\u0561\u056e\u0578\u057f\u0576\u056b \u0574\u0561\u0580\u0566",
+            "ru": "\u0410\u0440\u0430\u0433\u0430\u0446\u043e\u0442\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+            "uk": "\u0410\u0440\u0430\u0491\u0430\u0446\u043e\u0442\u043d"
+        },
+        "extra": {
+            "wikidata": "Q17915",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "am",
+        "country_cca3": "arm",
+        "region_cca2": null,
+        "osm_id": 364083,
+        "osm_place_id": 334956296,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "\u0531\u0580\u0561\u0580\u0561\u057f\u056b \u0574\u0561\u0580\u0566",
+        "name_eng": "Ararat Province",
+        "name_translations": {
+            "az": "Ararat m\u0259rzi",
+            "de": "Provinz Ararat",
+            "el": "\u0391\u03c1\u03b1\u03c1\u03ac\u03c4",
+            "en": "Ararat Province",
+            "es": "Ararat",
+            "fr": "Ararat",
+            "hy": "\u0531\u0580\u0561\u0580\u0561\u057f\u056b \u0574\u0561\u0580\u0566",
+            "ja": "\u30a2\u30e9\u30e9\u30c8\u5730\u65b9",
+            "ku": "Ararat",
+            "ru": "\u0410\u0440\u0430\u0440\u0430\u0442\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
+        },
+        "extra": {
+            "wikidata": "Q199880",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "am",
+        "country_cca3": "arm",
+        "region_cca2": null,
+        "osm_id": 10852605,
+        "osm_place_id": 283203887,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u0531\u0580\u0561\u0580\u0561\u057f\u056b \u057f\u0561\u0580\u0561\u056e\u0561\u0577\u0580\u057b\u0561\u0576",
+        "name_eng": "Ararat region",
+        "name_translations": {
+            "en": "Ararat region",
+            "hy": "\u0531\u0580\u0561\u0580\u0561\u057f\u056b \u057f\u0561\u0580\u0561\u056e\u0561\u0577\u0580\u057b\u0561\u0576",
+            "ru": "\u0410\u0440\u0430\u0440\u0430\u0442\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "am",
+        "country_cca3": "arm",
+        "region_cca2": null,
+        "osm_id": 11999129,
+        "osm_place_id": 283582631,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u0531\u0580\u0565\u0576\u056b\u056b \u057f\u0561\u0580\u0561\u056e\u0561\u0577\u0580\u057b\u0561\u0576",
+        "name_eng": "Areni Community",
+        "name_translations": {
+            "en": "Areni Community",
+            "fa": "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0622\u0631\u0646\u06cc",
+            "hy": "\u0531\u0580\u0565\u0576\u056b\u056b \u057f\u0561\u0580\u0561\u056e\u0561\u0577\u0580\u057b\u0561\u0576"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "am",
+        "country_cca3": "arm",
+        "region_cca2": null,
+        "osm_id": 10921594,
+        "osm_place_id": 283254971,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u0531\u0580\u0569\u056b\u056f\u056b \u057f\u0561\u0580\u0561\u056e\u0561\u0577\u0580\u057b\u0561\u0576",
+        "name_eng": "Artik region",
+        "name_translations": {
+            "en": "Artik region",
+            "hy": "\u0531\u0580\u0569\u056b\u056f\u056b \u057f\u0561\u0580\u0561\u056e\u0561\u0577\u0580\u057b\u0561\u0576",
+            "ru": "\u0410\u0440\u0442\u0438\u043a\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q4070260",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "am",
+        "country_cca3": "arm",
+        "region_cca2": null,
+        "osm_id": 364086,
+        "osm_place_id": 334956297,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "\u0531\u0580\u0574\u0561\u057e\u056b\u0580\u056b \u0574\u0561\u0580\u0566",
+        "name_eng": "Armavir Province",
+        "name_translations": {
+            "az": "Armavir m\u0259rzi",
+            "de": "Provinz Armawir",
+            "el": "\u0391\u03c1\u03bc\u03b1\u03b2\u03af\u03c1",
+            "en": "Armavir Province",
+            "es": "Armavir",
+            "fr": "Armavir",
+            "hy": "\u0531\u0580\u0574\u0561\u057e\u056b\u0580\u056b \u0574\u0561\u0580\u0566",
+            "ku": "Armaw\u00eer",
+            "ms": "Wilayah Armavir",
+            "ru": "\u0410\u0440\u043c\u0430\u0432\u0438\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
+        },
+        "extra": {
+            "wikidata": "Q201147",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "am",
+        "country_cca3": "arm",
+        "region_cca2": null,
+        "osm_id": 10860124,
+        "osm_place_id": 283371611,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u0531\u0580\u0574\u0561\u057e\u056b\u0580\u056b \u057f\u0561\u0580\u0561\u056e\u0561\u0577\u0580\u057b\u0561\u0576",
+        "name_eng": "Armavir region",
+        "name_translations": {
+            "en": "Armavir region",
+            "hy": "\u0531\u0580\u0574\u0561\u057e\u056b\u0580\u056b \u057f\u0561\u0580\u0561\u056e\u0561\u0577\u0580\u057b\u0561\u0576",
+            "ru": "\u0410\u0440\u043c\u0430\u0432\u0438\u0440\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "am",
+        "country_cca3": "arm",
+        "region_cca2": null,
+        "osm_id": 10852603,
+        "osm_place_id": 283206121,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u0531\u0580\u057f\u0561\u0577\u0561\u057f\u056b \u057f\u0561\u0580\u0561\u056e\u0561\u0577\u0580\u057b\u0561\u0576",
+        "name_eng": "Artashat region",
+        "name_translations": {
+            "en": "Artashat region",
+            "hy": "\u0531\u0580\u057f\u0561\u0577\u0561\u057f\u056b \u057f\u0561\u0580\u0561\u056e\u0561\u0577\u0580\u057b\u0561\u0576",
+            "ru": "\u0410\u0440\u0442\u0430\u0448\u0430\u0442\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q4070153",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "am",
+        "country_cca3": "arm",
+        "region_cca2": null,
+        "osm_id": 10860123,
+        "osm_place_id": 283529801,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u0532\u0561\u0572\u0580\u0561\u0574\u0575\u0561\u0576\u056b \u057f\u0561\u0580\u0561\u056e\u0561\u0577\u0580\u057b\u0561\u0576",
+        "name_eng": "Baghramyan region",
+        "name_translations": {
+            "en": "Baghramyan region",
+            "hy": "\u0532\u0561\u0572\u0580\u0561\u0574\u0575\u0561\u0576\u056b \u057f\u0561\u0580\u0561\u056e\u0561\u0577\u0580\u057b\u0561\u0576",
+            "ru": "\u0411\u0430\u0433\u0440\u0430\u043c\u044f\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "am",
+        "country_cca3": "arm",
+        "region_cca2": null,
+        "osm_id": 11543305,
+        "osm_place_id": 283577614,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u0532\u0565\u0580\u0564\u056b \u057f\u0561\u0580\u0561\u056e\u0561\u0577\u0580\u057b\u0561\u0576",
+        "name_eng": "Berd Region",
+        "name_translations": {
+            "en": "Berd Region",
+            "hy": "\u0532\u0565\u0580\u0564\u056b \u057f\u0561\u0580\u0561\u056e\u0561\u0577\u0580\u057b\u0561\u0576",
+            "ru": "\u0411\u0435\u0440\u0434\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u0411\u0435\u0440\u0434"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "am",
+        "country_cca3": "arm",
+        "region_cca2": null,
+        "osm_id": 7857352,
+        "osm_place_id": 282905692,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0533\u0561\u057c\u0576\u056b",
+        "name_eng": "Garni",
+        "name_translations": {
+            "de": "Garni (Ort)",
+            "en": "Garni",
+            "fr": "Garni",
+            "hy": "\u0533\u0561\u057c\u0576\u056b",
+            "ru": "\u0413\u0430\u0440\u043d\u0438",
+            "uk": "\u0490\u0430\u0440\u043d\u0456 (\u0441\u0435\u043b\u043e)"
+        },
+        "extra": {
+            "wikidata": "Q1010273",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "am",
+        "country_cca3": "arm",
+        "region_cca2": null,
+        "osm_id": 12201442,
+        "osm_place_id": 283605058,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u0533\u0561\u057c\u0576\u0578\u0582 \u057f\u0561\u0580\u0561\u056e\u0561\u0577\u0580\u057b\u0561\u0576",
+        "name_eng": "Garni Region",
+        "name_translations": {
+            "en": "Garni Region",
+            "hy": "\u0533\u0561\u057c\u0576\u0578\u0582 \u057f\u0561\u0580\u0561\u056e\u0561\u0577\u0580\u057b\u0561\u0576",
+            "ru": "\u0413\u0430\u0440\u043d\u0438\u0439\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "am",
+        "country_cca3": "arm",
+        "region_cca2": null,
+        "osm_id": 8896914,
+        "osm_place_id": 283302411,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u0533\u0561\u057e\u0561\u057c",
+        "name_eng": "Gavar",
+        "name_translations": {
+            "de": "Gawar",
+            "el": "\u0393\u03ba\u03b1\u03b2\u03ac\u03c1",
+            "en": "Gavar",
+            "fr": "Gavar",
+            "hy": "\u0533\u0561\u057e\u0561\u057c",
+            "it": "Gavar",
+            "ja": "\u30ac\u30d0\u30eb (\u30a2\u30eb\u30e1\u30cb\u30a2)",
+            "ka": "\u10d2\u10d0\u10d5\u10d0\u10e0\u10d8 (\u10e1\u10dd\u10db\u10ee\u10d4\u10d7\u10d8)",
+            "ko": "\uac00\ubc14\ub974",
+            "lt": "Gavaras (miestas)",
+            "ru": "\u0413\u0430\u0432\u0430\u0440"
+        },
+        "extra": {
+            "wikidata": "Q39565",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "am",
+        "country_cca3": "arm",
+        "region_cca2": null,
+        "osm_id": 10853045,
+        "osm_place_id": 283462945,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u0533\u0561\u057e\u0561\u057c\u056b \u057f\u0561\u0580\u0561\u056e\u0561\u0577\u0580\u057b\u0561\u0576",
+        "name_eng": "Gavar region",
+        "name_translations": {
+            "en": "Gavar region",
+            "hy": "\u0533\u0561\u057e\u0561\u057c\u056b \u057f\u0561\u0580\u0561\u056e\u0561\u0577\u0580\u057b\u0561\u0576",
+            "ru": "\u0413\u0430\u0432\u0430\u0440\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "am",
+        "country_cca3": "arm",
+        "region_cca2": null,
+        "osm_id": 12270367,
+        "osm_place_id": 283590299,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u0533\u0565\u0572\u0561\u0574\u0561\u057d\u0561\u0580\u056b \u057f\u0561\u0580\u0561\u056e\u0561\u0577\u0580\u057b\u0561\u0576",
+        "name_eng": "Geghamasar Region",
+        "name_translations": {
+            "en": "Geghamasar Region",
+            "hy": "\u0533\u0565\u0572\u0561\u0574\u0561\u057d\u0561\u0580\u056b \u057f\u0561\u0580\u0561\u056e\u0561\u0577\u0580\u057b\u0561\u0576",
+            "ru": "\u0413\u0435\u0445\u0430\u043c\u0430\u0441\u0430\u0440\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q65225992",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "am",
+        "country_cca3": "arm",
+        "region_cca2": null,
+        "osm_id": 364080,
+        "osm_place_id": 281939321,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "\u0533\u0565\u0572\u0561\u0580\u0584\u0578\u0582\u0576\u056b\u0584\u056b \u0574\u0561\u0580\u0566",
+        "name_eng": "Gegharkunik Province",
+        "name_translations": {
+            "de": "Provinz Gegharkunik",
+            "el": "\u0393\u03ba\u03b5\u03b3\u03ba\u03b1\u03c1\u03ba\u03bf\u03cd\u03bd\u03b9\u03ba",
+            "en": "Gegharkunik Province",
+            "es": "Gegharkunik'",
+            "fr": "Gegharkunik",
+            "hu": "Gegarkounik",
+            "hy": "\u0533\u0565\u0572\u0561\u0580\u0584\u0578\u0582\u0576\u056b\u0584\u056b \u0574\u0561\u0580\u0566",
+            "ja": "\u30b2\u30ac\u30eb\u30af\u30cb\u30af\u5730\u65b9",
+            "ka": "\u10d2\u10d4\u10e6\u10d0\u10e0\u10e5\u10e3\u10dc\u10d8\u10e5\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0",
+            "ku": "G\u00eaxarkunik",
+            "lt": "Gegarkuniko sritis",
+            "pl": "Prowincja Gegharkunik",
+            "ru": "\u0413\u0435\u0445\u0430\u0440\u043a\u0443\u043d\u0438\u043a\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+            "uk": "\u0490\u0435\u0433\u0430\u0440\u043a\u0443\u043d\u0456\u043a \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
+        },
+        "extra": {
+            "wikidata": "Q199905",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "am",
+        "country_cca3": "arm",
+        "region_cca2": null,
+        "osm_id": 12002275,
+        "osm_place_id": 283382454,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u0533\u056c\u0561\u0571\u0578\u0580\u056b \u057f\u0561\u0580\u0561\u056e\u0561\u0577\u0580\u057b\u0561\u0576",
+        "name_eng": "Gladzor Community",
+        "name_translations": {
+            "en": "Gladzor Community",
+            "fa": "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u06af\u0644\u0627\u062f\u0632\u0648\u0631",
+            "hy": "\u0533\u056c\u0561\u0571\u0578\u0580\u056b \u057f\u0561\u0580\u0561\u056e\u0561\u0577\u0580\u057b\u0561\u0576"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "am",
+        "country_cca3": "arm",
+        "region_cca2": null,
+        "osm_id": 7814501,
+        "osm_place_id": 283088701,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u0533\u0575\u0578\u0582\u0574\u0580\u056b",
+        "name_eng": "Gyumri",
+        "name_translations": {
+            "ar": "\u063a\u064a\u0648\u0645\u0631\u064a",
+            "de": "Gjumri",
+            "en": "Gyumri",
+            "es": "Guiumri",
+            "eu": "Giumri",
+            "fr": "Gyumri",
+            "hy": "\u0533\u0575\u0578\u0582\u0574\u0580\u056b",
+            "ja": "\u30ae\u30e5\u30e0\u30ea",
+            "ka": "\u10d2\u10d8\u10e3\u10db\u10e0\u10d8",
+            "ko": "\uadec\ub9ac",
+            "ku": "Gumr\u00ee",
+            "lt": "Giumris",
+            "nl": "Gjoemri",
+            "pl": "Giumri",
+            "ru": "\u0413\u044e\u043c\u0440\u0438",
+            "uk": "\u0490\u044e\u043c\u0440\u0456",
+            "zh": "\u4e45\u59c6\u91cc"
+        },
+        "extra": {
+            "wikidata": "Q199500",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "am",
+        "country_cca3": "arm",
+        "region_cca2": null,
+        "osm_id": 11994300,
+        "osm_place_id": 283604430,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u0533\u0578\u0580\u0561\u0575\u0584\u056b \u057f\u0561\u0580\u0561\u056e\u0561\u0577\u0580\u057b\u0561\u0576",
+        "name_eng": "Gorayk Community",
+        "name_translations": {
+            "en": "Gorayk Community",
+            "fa": "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u06af\u0648\u0631\u0627\u06cc\u06a9",
+            "hy": "\u0533\u0578\u0580\u0561\u0575\u0584\u056b \u057f\u0561\u0580\u0561\u056e\u0561\u0577\u0580\u057b\u0561\u0576"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "am",
+        "country_cca3": "arm",
+        "region_cca2": null,
+        "osm_id": 11788620,
+        "osm_place_id": 283291106,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u0533\u0578\u0580\u056b\u057d\u056b \u057f\u0561\u0580\u0561\u056e\u0561\u0577\u0580\u057b\u0561\u0576",
+        "name_eng": "Goris Community",
+        "name_translations": {
+            "en": "Goris Community",
+            "fa": "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u06af\u0648\u0631\u06cc\u0633",
+            "hy": "\u0533\u0578\u0580\u056b\u057d\u056b \u057f\u0561\u0580\u0561\u056e\u0561\u0577\u0580\u057b\u0561\u0576"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "am",
+        "country_cca3": "arm",
+        "region_cca2": null,
+        "osm_id": 13404298,
+        "osm_place_id": 322688438,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u0534\u0561\u057e\u0569\u0561\u0577\u0565\u0576",
+        "name_eng": "Davtashen",
+        "name_translations": {
+            "en": "Davtashen",
+            "hy": "\u0534\u0561\u057e\u0569\u0561\u0577\u0565\u0576",
+            "ru": "\u0414\u0430\u0432\u0442\u0430\u0448\u0435\u043d"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "am",
+        "country_cca3": "arm",
+        "region_cca2": null,
+        "osm_id": 8122811,
+        "osm_place_id": 283003903,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0534\u056b\u056c\u056b\u057b\u0561\u0576",
+        "name_eng": "Dilijan",
+        "name_translations": {
+            "en": "Dilijan",
+            "hy": "\u0534\u056b\u056c\u056b\u057b\u0561\u0576",
+            "ru": "\u0414\u0438\u043b\u0438\u0436\u0430\u043d"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "am",
+        "country_cca3": "arm",
+        "region_cca2": null,
+        "osm_id": 13091914,
+        "osm_place_id": 283441219,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u0534\u056b\u056c\u056b\u057b\u0561\u0576\u056b \u057f\u0561\u0580\u0561\u056e\u0561\u0577\u0580\u057b\u0561\u0576",
+        "name_eng": "Dilijan Region",
+        "name_translations": {
+            "en": "Dilijan Region",
+            "hy": "\u0534\u056b\u056c\u056b\u057b\u0561\u0576\u056b \u057f\u0561\u0580\u0561\u056e\u0561\u0577\u0580\u057b\u0561\u0576",
+            "ru": "\u0414\u0438\u043b\u0438\u0434\u0436\u0430\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "am",
+        "country_cca3": "arm",
+        "region_cca2": null,
+        "osm_id": 11543299,
+        "osm_place_id": 283320707,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u0535\u0572\u0565\u0563\u056b\u057d\u056b \u057f\u0561\u0580\u0561\u056e\u0561\u0577\u0580\u057b\u0561\u0576",
+        "name_eng": "Yeghegis Community",
+        "name_translations": {
+            "en": "Yeghegis Community",
+            "fa": "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u06cc\u063a\u06af\u06cc\u0633",
+            "hy": "\u0535\u0572\u0565\u0563\u056b\u057d\u056b \u057f\u0561\u0580\u0561\u056e\u0561\u0577\u0580\u057b\u0561\u0576"
+        },
+        "extra": {
+            "wikidata": "Q48862638",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "am",
+        "country_cca3": "arm",
+        "region_cca2": null,
+        "osm_id": 10255555,
+        "osm_place_id": 283173050,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u0535\u0572\u0565\u0563\u0576\u0561\u0571\u0578\u0580",
+        "name_eng": "Yeghegnadzor",
+        "name_translations": {
+            "de": "Jeghegnadsor",
+            "en": "Yeghegnadzor",
+            "hy": "\u0535\u0572\u0565\u0563\u0576\u0561\u0571\u0578\u0580",
+            "it": "Jeghegnadzoras",
+            "ja": "\u30a4\u30a7\u30b2\u30b0\u30ca\u30be\u30eb",
+            "pl": "Jeghegnadzor",
+            "ru": "\u0415\u0445\u0435\u0433\u043d\u0430\u0434\u0437\u043e\u0440",
+            "uk": "\u0404\u0433\u0435\u0491\u043d\u0430\u0434\u0437\u043e\u0440"
+        },
+        "extra": {
+            "wikidata": "Q39538",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "am",
+        "country_cca3": "arm",
+        "region_cca2": null,
+        "osm_id": 12001265,
+        "osm_place_id": 283466941,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u0535\u0572\u0565\u0563\u0576\u0561\u0571\u0578\u0580\u056b \u057f\u0561\u0580\u0561\u056e\u0561\u0577\u0580\u057b\u0561\u0576",
+        "name_eng": "Yeghegnadzor Community",
+        "name_translations": {
+            "en": "Yeghegnadzor Community",
+            "fa": "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u06cc\u063a\u06af\u0646\u0627\u062f\u0632\u0648\u0631",
+            "hy": "\u0535\u0572\u0565\u0563\u0576\u0561\u0571\u0578\u0580\u056b \u057f\u0561\u0580\u0561\u056e\u0561\u0577\u0580\u057b\u0561\u0576",
+            "uk": "\u0404\u0433\u0435\u0491\u043d\u0430\u0434\u0437\u043e\u0440"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "am",
+        "country_cca3": "arm",
+        "region_cca2": null,
+        "osm_id": 10860151,
+        "osm_place_id": 283325527,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u0535\u0572\u057e\u0561\u0580\u0564\u056b \u057f\u0561\u0580\u0561\u056e\u0561\u0577\u0580\u057b\u0561\u0576",
+        "name_eng": "Yeghvard region",
+        "name_translations": {
+            "en": "Yeghvard region",
+            "hy": "\u0535\u0572\u057e\u0561\u0580\u0564\u056b \u057f\u0561\u0580\u0561\u056e\u0561\u0577\u0580\u057b\u0561\u0576",
+            "ru": "\u0415\u0433\u0432\u0430\u0440\u0434\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "am",
+        "country_cca3": "arm",
+        "region_cca2": null,
+        "osm_id": 364087,
+        "osm_place_id": 334956298,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "\u0535\u0580\u0587\u0561\u0576",
+        "name_eng": "Yerevan",
+        "name_translations": {
+            "ab": "\u0415\u0440\u0435\u0432\u0430\u043d",
+            "af": "Jerewan",
+            "ak": "Erevan",
+            "am": "\u12ec\u122c\u126b\u1295",
+            "an": "Erevan",
+            "ar": "\u064a\u0631\u064a\u0641\u0627\u0646",
+            "av": "\u0415\u0440\u0435\u0432\u0430\u043d",
+            "az": "\u0130r\u0259van",
+            "ba": "\u0415\u0440\u0435\u0432\u0430\u043d",
+            "be": "\u0415\u0440\u044d\u0432\u0430\u043d",
+            "bg": "\u0415\u0440\u0435\u0432\u0430\u043d",
+            "bn": "\u0987\u09af\u09bc\u09c7\u09b0\u09c7\u09ad\u09be\u09a8",
+            "bo": "\u0f61\u0f7a\u0f0b\u0f62\u0f7a\u0f0b\u0f5d\u0f53\u0f0d",
+            "br": "Yerevan",
+            "bs": "Erevan",
+            "ca": "Erevan",
+            "ce": "\u0415\u0440\u0435\u0432\u0430\u043d",
+            "cs": "Jerevan",
+            "cv": "\u0415\u0440\u0435\u0432\u0430\u043d",
+            "cy": "Yerevan",
+            "da": "Jerevan",
+            "de": "Jerewan",
+            "el": "\u0393\u03b9\u03b5\u03c1\u03b5\u03b2\u03ac\u03bd",
+            "en": "Yerevan",
+            "eo": "Erevano",
+            "es": "Erev\u00e1n",
+            "et": "Jerevan",
+            "eu": "Erevan",
+            "fa": "\u0627\u06cc\u0631\u0648\u0627\u0646",
+            "ff": "Yerevan",
+            "fi": "Jerevan",
+            "fr": "Erevan",
+            "fy": "Jerevan",
+            "ga": "Eireav\u00e1n",
+            "gd": "Yerevan",
+            "gl": "Ierev\u00e1n - \u0535\u0580\u0565\u057e\u0561\u0576",
+            "gv": "Yerevan",
+            "he": "\u05d9\u05e8\u05d5\u05d5\u05d0\u05df",
+            "hi": "\u092f\u0947\u0930\u0935\u093e\u0928",
+            "hr": "Erevan",
+            "ht": "Erev\u00e0n",
+            "hu": "Jerev\u00e1n",
+            "hy": "\u0535\u0580\u0587\u0561\u0576",
+            "ia": "Yerevan",
+            "id": "Yerevan",
+            "ie": "Jerevan",
+            "io": "Yerevan",
+            "is": "Jerevan",
+            "it": "Yerevan",
+            "ja": "\u30a8\u30ec\u30d0\u30f3",
+            "jv": "Yerevan",
+            "ka": "\u10d4\u10e0\u10d4\u10d5\u10d0\u10dc\u10d8",
+            "kk": "\u0415\u0440\u0435\u0432\u0430\u043d",
+            "kn": "\u0caf\u0cc6\u0cb0\u0cc6\u0cb5\u0cbe\u0ca8\u0ccd",
+            "ko": "\uc608\ub808\ubc18",
+            "ku": "\u00car\u00eevan",
+            "kv": "\u0415\u0440\u0435\u0432\u0430\u043d",
+            "ky": "\u0415\u0440\u0435\u0432\u0430\u043d",
+            "la": "Erevanum",
+            "lb": "Eriwan",
+            "li": "Jerevan",
+            "lt": "Jerevanas",
+            "lv": "Erev\u0101na",
+            "mg": "Yerevan",
+            "mi": "Yerevan",
+            "mk": "\u0415\u0440\u0435\u0432\u0430\u043d",
+            "ml": "\u0d2f\u0d46\u0d31\u0d3f\u0d35\u0d3e\u0d7b",
+            "mn": "\u0415\u0440\u0435\u0432\u0430\u043d",
+            "mr": "\u092f\u0947\u0930\u0947\u0935\u094d\u0939\u093e\u0928",
+            "ms": "Yerevan",
+            "ne": "\u092f\u0947\u0930\u0935\u093e\u0928 \u092a\u094d\u0930\u093e\u0928\u094d\u0924",
+            "nl": "Jerevan",
+            "nn": "Jerevan",
+            "no": "Jerevan",
+            "ny": "Yerevan",
+            "oc": "Erevan",
+            "os": "\u0415\u0440\u0435\u0432\u0430\u043d",
+            "pa": "\u0a2f\u0a47\u0a30\u0a35\u0a3e\u0a28",
+            "pl": "Erywa\u0144",
+            "pt": "Erevan",
+            "qu": "Yiriwan",
+            "ro": "Erevan",
+            "ru": "\u0415\u0440\u0435\u0432\u0430\u043d",
+            "rw": "Yerevan",
+            "sa": "\u092f\u0947\u0930\u0947\u0935\u093e\u0928",
+            "sc": "Erevan",
+            "sh": "Erevan",
+            "sk": "Jerevan",
+            "sl": "Erevan",
+            "sn": "Yerevan",
+            "sq": "Jerevani",
+            "sr": "\u0408\u0435\u0440\u0435\u0432\u0430\u043d",
+            "su": "Y\u00e9r\u00e9van",
+            "sv": "Jerevan",
+            "sw": "Yerevan",
+            "ta": "\u0baf\u0bc6\u0bb0\u0bc6\u0bb5\u0bbe\u0ba9\u0bcd",
+            "te": "\u0c2f\u0c46\u0c30\u0c46\u0c35\u0c3e\u0c28\u0c4d",
+            "tg": "\u0415\u0440\u0435\u0432\u0430\u043d",
+            "th": "\u0e40\u0e22\u0e40\u0e23\u0e27\u0e32\u0e19",
+            "tk": "\u00dderewan",
+            "tl": "Yerevan",
+            "tr": "Erivan",
+            "tt": "\u0415\u0440\u0435\u0432\u0430\u043d",
+            "tw": "E\u03b5r\u03b5wan",
+            "ug": "\u064a\u06d0\u0631\u06d0\u06cb\u0627\u0646",
+            "uk": "\u0404\u0440\u0435\u0432\u0430\u043d",
+            "ur": "\u06cc\u0631\u06cc\u0648\u0627\u0646",
+            "uz": "Yerevan",
+            "vi": "Yerevan",
+            "vo": "Yerevan",
+            "yi": "\u05d9\u05e2\u05e8\u05e2\u05d5\u05d5\u05d0\u05df",
+            "yo": "Yerevan",
+            "zh": "\u8449\u91cc\u6eab",
+            "ckb": "\u06cc\u06d5\u0631\u06cc\u06a4\u0627\u0646",
+            "diq": "Yer\u00eavan",
+            "frp": "Y\u00e8r\u00e8van",
+            "gag": "Erivan",
+            "hif": "Yerevan",
+            "hsb": "Jerjewan",
+            "ilo": "Yerevan",
+            "lad": "Djerevan",
+            "lez": "\u0415\u0440\u0435\u0432\u0430\u043d",
+            "lij": "Erevan",
+            "lmo": "Erevan",
+            "mdf": "\u0415\u0440\u0435\u0432\u0430\u043d \u043e\u0448\u0441\u044c",
+            "mhr": "\u0415\u0440\u0435\u0432\u0430\u043d",
+            "myv": "\u0415\u0440\u0435\u0432\u0430\u043d \u043e\u0448",
+            "mzn": "\u0627\u06cc\u0631\u0648\u0627\u0646",
+            "nah": "Erevan",
+            "nov": "Yerevan",
+            "pms": "Erevan",
+            "pnb": "\u06cc\u0631\u06cc\u0648\u0627\u0646",
+            "sah": "\u0415\u0440\u0435\u0432\u0430\u043d",
+            "scn": "Erevan",
+            "sco": "Yerevan",
+            "udm": "\u0415\u0440\u0435\u0432\u0430\u043d",
+            "vec": "\u00c8revan",
+            "vep": "Jerevan",
+            "war": "Yerevan",
+            "xmf": "\u10d4\u10e0\u10d4\u10d5\u10d0\u10dc\u10d8",
+            "zea": "Jerevan",
+            "simple": "Yerevan",
+            "fiu-vro": "Jerevan",
+            "be-tarask": "\u0415\u0440\u044d\u0432\u0430\u043d"
+        },
+        "extra": {
+            "wikidata": "Q1953",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "am",
+        "country_cca3": "arm",
+        "region_cca2": null,
+        "osm_id": 11998790,
+        "osm_place_id": 283454834,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u0536\u0561\u057c\u056b\u0569\u0561\u0583\u056b \u057f\u0561\u0580\u0561\u056e\u0561\u0577\u0580\u057b\u0561\u0576",
+        "name_eng": "Zaritap Community",
+        "name_translations": {
+            "en": "Zaritap Community",
+            "fa": "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0632\u0631\u06cc\u062a\u0627\u067e",
+            "hy": "\u0536\u0561\u057c\u056b\u0569\u0561\u0583\u056b \u057f\u0561\u0580\u0561\u056e\u0561\u0577\u0580\u057b\u0561\u0576",
+            "uk": "\u0417\u0430\u0440\u0456\u0442\u0430\u043f"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "am",
+        "country_cca3": "arm",
+        "region_cca2": null,
+        "osm_id": 13404216,
+        "osm_place_id": 323067542,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u0537\u0580\u0565\u0562\u0578\u0582\u0576\u056b",
+        "name_eng": "Erebuni",
+        "name_translations": {
+            "en": "Erebuni",
+            "hy": "\u0537\u0580\u0565\u0562\u0578\u0582\u0576\u056b",
+            "ru": "\u042d\u0440\u0435\u0431\u0443\u043d\u0438"
+        },
+        "extra": {
+            "wikidata": "Q390360",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "am",
+        "country_cca3": "arm",
+        "region_cca2": null,
+        "osm_id": 10866159,
+        "osm_place_id": 283255055,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u0539\u0561\u056c\u056b\u0576\u056b \u057f\u0561\u0580\u0561\u056e\u0561\u0577\u0580\u057b\u0561\u0576",
+        "name_eng": "Talin region",
+        "name_translations": {
+            "en": "Talin region",
+            "hy": "\u0539\u0561\u056c\u056b\u0576\u056b \u057f\u0561\u0580\u0561\u056e\u0561\u0577\u0580\u057b\u0561\u0576",
+            "ru": "\u0422\u0430\u043b\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q4450423",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "am",
+        "country_cca3": "arm",
+        "region_cca2": null,
+        "osm_id": 11816846,
+        "osm_place_id": 283453792,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u0539\u0578\u0582\u0574\u0561\u0576\u0575\u0561\u0576\u056b \u057f\u0561\u0580\u0561\u056e\u0561\u0577\u0580\u057b\u0561\u0576",
+        "name_eng": "Tumanyan Region",
+        "name_translations": {
+            "en": "Tumanyan Region",
+            "hy": "\u0539\u0578\u0582\u0574\u0561\u0576\u0575\u0561\u0576\u056b \u057f\u0561\u0580\u0561\u056e\u0561\u0577\u0580\u057b\u0561\u0576",
+            "ru": "\u0422\u0443\u043c\u0430\u043d\u044f\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "am",
+        "country_cca3": "arm",
+        "region_cca2": null,
+        "osm_id": 11543307,
+        "osm_place_id": 283416793,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u053b\u057b\u0587\u0561\u0576\u056b \u057f\u0561\u0580\u0561\u056e\u0561\u0577\u0580\u057b\u0561\u0576",
+        "name_eng": "Ijevan Region",
+        "name_translations": {
+            "en": "Ijevan Region",
+            "hy": "\u053b\u057b\u0587\u0561\u0576\u056b \u057f\u0561\u0580\u0561\u056e\u0561\u0577\u0580\u057b\u0561\u0576",
+            "ru": "\u0418\u0434\u0436\u0435\u0432\u0430\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u0406\u0434\u0436\u0435\u0432\u0430\u043d"
+        },
+        "extra": {
+            "wikidata": "Q4197905",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "am",
+        "country_cca3": "arm",
+        "region_cca2": "AM-LO",
+        "osm_id": 364078,
+        "osm_place_id": 282072679,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "\u053c\u0578\u057c\u0578\u0582 \u0574\u0561\u0580\u0566",
+        "name_eng": "Lori Province",
+        "name_translations": {
+            "de": "Provinz Lori",
+            "el": "\u039b\u03cc\u03c1\u03b9",
+            "en": "Lori Province",
+            "es": "Lorri",
+            "fr": "Lorri",
+            "hu": "Lorj",
+            "hy": "\u053c\u0578\u057c\u0578\u0582 \u0574\u0561\u0580\u0566",
+            "ja": "\u30ed\u30ea\u5730\u65b9",
+            "lt": "Lorio sritis",
+            "pl": "Prowincja Lori",
+            "ru": "\u041b\u043e\u0440\u0438\u0439\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+            "uk": "\u041b\u043e\u0440\u0456"
+        },
+        "extra": {
+            "wikidata": "Q200350",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "am",
+        "country_cca3": "arm",
+        "region_cca2": null,
+        "osm_id": 10866162,
+        "osm_place_id": 283243143,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u053e\u0561\u0572\u056f\u0561\u0570\u0578\u057e\u056b\u057f\u056b \u057f\u0561\u0580\u0561\u056e\u0561\u0577\u0580\u057b\u0561\u0576",
+        "name_eng": "Tsaghkahovit region",
+        "name_translations": {
+            "en": "Tsaghkahovit region",
+            "hy": "\u053e\u0561\u0572\u056f\u0561\u0570\u0578\u057e\u056b\u057f\u056b \u057f\u0561\u0580\u0561\u056e\u0561\u0577\u0580\u057b\u0561\u0576",
+            "ru": "\u0426\u0430\u0445\u043a\u0430\u043e\u0432\u0438\u0442\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "am",
+        "country_cca3": "arm",
+        "region_cca2": null,
+        "osm_id": 7843731,
+        "osm_place_id": 283120383,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u053e\u0561\u0572\u056f\u0561\u200e\u0571\u0578\u0580",
+        "name_eng": "Tsakhkadzor",
+        "name_translations": {
+            "el": "\u03a4\u03c3\u03b1\u03c7\u03ba\u03b1\u03bd\u03c4\u03b6\u03cc\u03c1",
+            "en": "Tsakhkadzor",
+            "hy": "\u053e\u0561\u0572\u056f\u0561\u200e\u0571\u0578\u0580",
+            "ru": "\u0426\u0430\u0445\u043a\u0430\u0434\u0437\u043e\u0440"
+        },
+        "extra": {
+            "wikidata": "Q140342",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "am",
+        "country_cca3": "arm",
+        "region_cca2": null,
+        "osm_id": 7745403,
+        "osm_place_id": 283267412,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u053f\u0561\u057a\u0561\u0576",
+        "name_eng": "Kapan",
+        "name_translations": {
+            "el": "\u039a\u03b1\u03c0\u03ac\u03bd",
+            "en": "Kapan",
+            "fa": "\u06a9\u0627\u067e\u0627\u0646",
+            "fr": "Kapan",
+            "hi": "\u0915\u093e\u092a\u093e\u0928",
+            "hy": "\u053f\u0561\u057a\u0561\u0576",
+            "ja": "\u30ab\u30d1\u30f3",
+            "ko": "\uce74\ud310",
+            "lt": "Kapanas",
+            "ml": "\u0d15\u0d3e\u0d2a\u0d3e\u0d7b",
+            "ru": "\u041a\u0430\u043f\u0430\u043d",
+            "uk": "\u041a\u0430\u043f\u0430\u043d"
+        },
+        "extra": {
+            "wikidata": "Q31583",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "am",
+        "country_cca3": "arm",
+        "region_cca2": null,
+        "osm_id": 11788621,
+        "osm_place_id": 283346415,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u053f\u0561\u057a\u0561\u0576\u056b \u057f\u0561\u0580\u0561\u056e\u0561\u0577\u0580\u057b\u0561\u0576",
+        "name_eng": "Kapan Community",
+        "name_translations": {
+            "en": "Kapan Community",
+            "fa": "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u06a9\u0627\u067e\u0627\u0646",
+            "hy": "\u053f\u0561\u057a\u0561\u0576\u056b \u057f\u0561\u0580\u0561\u056e\u0561\u0577\u0580\u057b\u0561\u0576"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "am",
+        "country_cca3": "arm",
+        "region_cca2": null,
+        "osm_id": 13404218,
+        "osm_place_id": 322688430,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u053f\u0565\u0576\u057f\u0580\u0578\u0576",
+        "name_eng": "Kentron",
+        "name_translations": {
+            "en": "Kentron",
+            "hy": "\u053f\u0565\u0576\u057f\u0580\u0578\u0576",
+            "ru": "\u041a\u0435\u043d\u0442\u0440\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": "Q2573437",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "am",
+        "country_cca3": "arm",
+        "region_cca2": "AM-KT",
+        "osm_id": 364084,
+        "osm_place_id": 282308294,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "\u053f\u0578\u057f\u0561\u0575\u0584\u056b \u0574\u0561\u0580\u0566",
+        "name_eng": "Kotayk Province",
+        "name_translations": {
+            "az": "Kotayk m\u0259rzi",
+            "de": "Provinz Kotajk",
+            "el": "\u039a\u03bf\u03c4\u03ac\u03b9\u03ba",
+            "en": "Kotayk Province",
+            "es": "Kotayk'",
+            "fr": "Kotayk",
+            "hy": "\u053f\u0578\u057f\u0561\u0575\u0584\u056b \u0574\u0561\u0580\u0566",
+            "ka": "\u10d9\u10dd\u10e2\u10d0\u10d8\u10e5\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0",
+            "ru": "\u041a\u043e\u0442\u0430\u0439\u043a\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
+        },
+        "extra": {
+            "wikidata": "Q4511",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "am",
+        "country_cca3": "arm",
+        "region_cca2": null,
+        "osm_id": 9084333,
+        "osm_place_id": 283095576,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u0540\u0580\u0561\u0566\u0564\u0561\u0576",
+        "name_eng": "Hrazdan",
+        "name_translations": {
+            "de": "Hrasdan",
+            "en": "Hrazdan",
+            "hy": "\u0540\u0580\u0561\u0566\u0564\u0561\u0576",
+            "lt": "Hrazdanas",
+            "ru": "\u0420\u0430\u0437\u0434\u0430\u043d"
+        },
+        "extra": {
+            "wikidata": "Q31610",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "am",
+        "country_cca3": "arm",
+        "region_cca2": null,
+        "osm_id": 10860153,
+        "osm_place_id": 283202051,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u0540\u0580\u0561\u0566\u0564\u0561\u0576\u056b \u057f\u0561\u0580\u0561\u056e\u0561\u0577\u0580\u057b\u0561\u0576",
+        "name_eng": "Hrazdan region",
+        "name_translations": {
+            "en": "Hrazdan region",
+            "hy": "\u0540\u0580\u0561\u0566\u0564\u0561\u0576\u056b \u057f\u0561\u0580\u0561\u056e\u0561\u0577\u0580\u057b\u0561\u0576",
+            "ru": "\u0420\u0430\u0437\u0434\u0430\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "am",
+        "country_cca3": "arm",
+        "region_cca2": null,
+        "osm_id": 10853047,
+        "osm_place_id": 283565047,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u0543\u0561\u0574\u0562\u0561\u0580\u0561\u056f\u056b \u057f\u0561\u0580\u0561\u056e\u0561\u0577\u0580\u057b\u0561\u0576",
+        "name_eng": "Chambarak region",
+        "name_translations": {
+            "en": "Chambarak region",
+            "hy": "\u0543\u0561\u0574\u0562\u0561\u0580\u0561\u056f\u056b \u057f\u0561\u0580\u0561\u056e\u0561\u0577\u0580\u057b\u0561\u0576",
+            "ru": "\u0427\u0430\u043c\u0431\u0430\u0440\u0430\u043a\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "am",
+        "country_cca3": "arm",
+        "region_cca2": null,
+        "osm_id": 13404219,
+        "osm_place_id": 334956301,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u0544\u0561\u056c\u0561\u0569\u056b\u0561-\u054d\u0565\u0562\u0561\u057d\u057f\u056b\u0561",
+        "name_eng": "Malatia-Sebastia",
+        "name_translations": {
+            "en": "Malatia-Sebastia",
+            "hy": "\u0544\u0561\u056c\u0561\u0569\u056b\u0561-\u054d\u0565\u0562\u0561\u057d\u057f\u056b\u0561",
+            "ru": "\u041c\u0430\u043b\u0430\u0442\u0438\u044f-\u0421\u0435\u0431\u0430\u0441\u0442\u0438\u044f"
+        },
+        "extra": {
+            "wikidata": "Q1822985",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "am",
+        "country_cca3": "arm",
+        "region_cca2": null,
+        "osm_id": 12001541,
+        "osm_place_id": 283369893,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u0544\u0561\u056c\u056b\u0577\u056f\u0561\u0575\u056b \u057f\u0561\u0580\u0561\u056e\u0561\u0577\u0580\u057b\u0561\u0576",
+        "name_eng": "Malishka Community",
+        "name_translations": {
+            "en": "Malishka Community",
+            "fa": "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0645\u0627\u0644\u06cc\u0634\u06a9\u0627",
+            "hy": "\u0544\u0561\u056c\u056b\u0577\u056f\u0561\u0575\u056b \u057f\u0561\u0580\u0561\u056e\u0561\u0577\u0580\u057b\u0561\u0576"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "am",
+        "country_cca3": "arm",
+        "region_cca2": null,
+        "osm_id": 10852604,
+        "osm_place_id": 334956299,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u0544\u0561\u057d\u056b\u057d\u056b \u057f\u0561\u0580\u0561\u056e\u0561\u0577\u0580\u057b\u0561\u0576",
+        "name_eng": "Masis region",
+        "name_translations": {
+            "en": "Masis region",
+            "hy": "\u0544\u0561\u057d\u056b\u057d\u056b \u057f\u0561\u0580\u0561\u056e\u0561\u0577\u0580\u057b\u0561\u0576",
+            "ru": "\u041c\u0430\u0441\u0438\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "am",
+        "country_cca3": "arm",
+        "region_cca2": null,
+        "osm_id": 10869624,
+        "osm_place_id": 283204957,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u0544\u0561\u0580\u0561\u056c\u056b\u056f\u056b \u057f\u0561\u0580\u0561\u056e\u0561\u0577\u0580\u057b\u0561\u0576",
+        "name_eng": "Maralik region",
+        "name_translations": {
+            "ar": "\u0645\u0646\u0637\u0642\u0629 \u0645\u0627\u0631\u0627\u0644\u064a\u0643",
+            "en": "Maralik region",
+            "hy": "\u0544\u0561\u0580\u0561\u056c\u056b\u056f\u056b \u057f\u0561\u0580\u0561\u056e\u0561\u0577\u0580\u057b\u0561\u0576",
+            "ru": "\u041c\u0430\u0440\u0430\u043b\u0438\u043a\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "am",
+        "country_cca3": "arm",
+        "region_cca2": null,
+        "osm_id": 10853043,
+        "osm_place_id": 283239171,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u0544\u0561\u0580\u057f\u0578\u0582\u0576\u0578\u0582 \u057f\u0561\u0580\u0561\u056e\u0561\u0577\u0580\u057b\u0561\u0576",
+        "name_eng": "Martuni region",
+        "name_translations": {
+            "en": "Martuni region",
+            "hy": "\u0544\u0561\u0580\u057f\u0578\u0582\u0576\u0578\u0582 \u057f\u0561\u0580\u0561\u056e\u0561\u0577\u0580\u057b\u0561\u0576",
+            "ru": "\u041c\u0430\u0440\u0442\u0443\u043d\u0438\u0439\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d",
+            "uk": "\u041c\u0430\u0440\u0442\u0443\u043d\u0456"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "am",
+        "country_cca3": "arm",
+        "region_cca2": null,
+        "osm_id": 11788622,
+        "osm_place_id": 283446156,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u0544\u0565\u0572\u0580\u056b\u056b \u057f\u0561\u0580\u0561\u056e\u0561\u0577\u0580\u057b\u0561\u0576",
+        "name_eng": "Meghri Community",
+        "name_translations": {
+            "en": "Meghri Community",
+            "fa": "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0645\u063a\u0631\u06cc",
+            "hy": "\u0544\u0565\u0572\u0580\u056b\u056b \u057f\u0561\u0580\u0561\u056e\u0561\u0577\u0580\u057b\u0561\u0576"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "am",
+        "country_cca3": "arm",
+        "region_cca2": null,
+        "osm_id": 11543306,
+        "osm_place_id": 283522984,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u0546\u0578\u0575\u0565\u0574\u0562\u0565\u0580\u0575\u0561\u0576\u056b \u057f\u0561\u0580\u0561\u056e\u0561\u0577\u0580\u057b\u0561\u0576",
+        "name_eng": "Noyemberyan Region",
+        "name_translations": {
+            "en": "Noyemberyan Region",
+            "hy": "\u0546\u0578\u0575\u0565\u0574\u0562\u0565\u0580\u0575\u0561\u0576\u056b \u057f\u0561\u0580\u0561\u056e\u0561\u0577\u0580\u057b\u0561\u0576",
+            "ru": "\u041d\u043e\u0439\u0435\u043c\u0431\u0435\u0440\u044f\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "am",
+        "country_cca3": "arm",
+        "region_cca2": null,
+        "osm_id": 13404220,
+        "osm_place_id": 323477542,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u0546\u0578\u0580 \u0546\u0578\u0580\u0584",
+        "name_eng": "Nor Norq",
+        "name_translations": {
+            "en": "Nor Norq",
+            "hy": "\u0546\u0578\u0580 \u0546\u0578\u0580\u0584",
+            "ru": "\u041d\u043e\u0440 \u041d\u043e\u0440\u043a"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "am",
+        "country_cca3": "arm",
+        "region_cca2": null,
+        "osm_id": 13404217,
+        "osm_place_id": 322688429,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u0546\u0578\u0580\u0584 \u0544\u0561\u0580\u0561\u0577",
+        "name_eng": "Norq Marash",
+        "name_translations": {
+            "en": "Norq Marash",
+            "hy": "\u0546\u0578\u0580\u0584 \u0544\u0561\u0580\u0561\u0577",
+            "ru": "\u041d\u043e\u0440\u043a \u041c\u0430\u0440\u0430\u0448"
+        },
+        "extra": {
+            "wikidata": "Q1822958",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "am",
+        "country_cca3": "arm",
+        "region_cca2": null,
+        "osm_id": 13404214,
+        "osm_place_id": 323067540,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u0546\u0578\u0582\u0562\u0561\u0580\u0561\u0577\u0565\u0576",
+        "name_eng": "Nubarashen",
+        "name_translations": {
+            "en": "Nubarashen",
+            "hy": "\u0546\u0578\u0582\u0562\u0561\u0580\u0561\u0577\u0565\u0576",
+            "ru": "\u041d\u0443\u0431\u0430\u0440\u0430\u0448\u0435\u043d"
+        },
+        "extra": {
+            "wikidata": "Q1822974",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "am",
+        "country_cca3": "arm",
+        "region_cca2": null,
+        "osm_id": 13404215,
+        "osm_place_id": 323067541,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u0547\u0565\u0576\u0563\u0561\u057e\u056b\u0569",
+        "name_eng": "Shengavit",
+        "name_translations": {
+            "en": "Shengavit",
+            "hy": "\u0547\u0565\u0576\u0563\u0561\u057e\u056b\u0569",
+            "ru": "\u0428\u0435\u043d\u0433\u0430\u0432\u0438\u0442"
+        },
+        "extra": {
+            "wikidata": "Q1822938",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "am",
+        "country_cca3": "arm",
+        "region_cca2": "AM-SH",
+        "osm_id": 364077,
+        "osm_place_id": 282141629,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "\u0547\u056b\u0580\u0561\u056f\u056b \u0574\u0561\u0580\u0566",
+        "name_eng": "Shirak Province",
+        "name_translations": {
+            "ar": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0634\u064a\u0631\u0627\u0643",
+            "az": "\u015eirak m\u0259rzi",
+            "de": "Provinz Schirak",
+            "el": "\u03a3\u03b9\u03c1\u03ac\u03ba",
+            "en": "Shirak Province",
+            "es": "Shirak",
+            "fr": "Shirak",
+            "hu": "Sirak",
+            "hy": "\u0547\u056b\u0580\u0561\u056f\u056b \u0574\u0561\u0580\u0566",
+            "ja": "\u30b7\u30e9\u30af\u5730\u65b9",
+            "ka": "\u10e8\u10d8\u10e0\u10d0\u10d9\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0",
+            "ku": "\u015e\u00eerak",
+            "lt": "\u0160irako sritis",
+            "pl": "Prowincja Szirak",
+            "ru": "\u0428\u0438\u0440\u0430\u043a\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+            "uk": "\u0428\u0438\u0440\u0430\u043a"
+        },
+        "extra": {
+            "wikidata": "Q201063",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "am",
+        "country_cca3": "arm",
+        "region_cca2": null,
+        "osm_id": 11543300,
+        "osm_place_id": 283272157,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u054b\u0565\u0580\u0574\u0578\u0582\u056f\u056b \u057f\u0561\u0580\u0561\u056e\u0561\u0577\u0580\u057b\u0561\u0576",
+        "name_eng": "Jermuk Community",
+        "name_translations": {
+            "en": "Jermuk Community",
+            "fa": "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u062c\u0631\u0645\u0648\u06a9",
+            "hy": "\u054b\u0565\u0580\u0574\u0578\u0582\u056f\u056b \u057f\u0561\u0580\u0561\u056e\u0561\u0577\u0580\u057b\u0561\u0576"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "am",
+        "country_cca3": "arm",
+        "region_cca2": null,
+        "osm_id": 8404520,
+        "osm_place_id": 283419141,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u054d\u0587\u0561\u0576",
+        "name_eng": "Sevan",
+        "name_translations": {
+            "de": "Sewan (Stadt)",
+            "en": "Sevan",
+            "es": "Sevan",
+            "fr": "Sevan",
+            "hy": "\u054d\u0587\u0561\u0576",
+            "lt": "Sevanas (miestas)",
+            "ru": "\u0421\u0435\u0432\u0430\u043d"
+        },
+        "extra": {
+            "wikidata": "Q39625",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "am",
+        "country_cca3": "arm",
+        "region_cca2": null,
+        "osm_id": 10853046,
+        "osm_place_id": 283254789,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u054d\u0587\u0561\u0576\u056b \u057f\u0561\u0580\u0561\u056e\u0561\u0577\u0580\u057b\u0561\u0576",
+        "name_eng": "Sevan Region",
+        "name_translations": {
+            "en": "Sevan Region",
+            "hy": "\u054d\u0587\u0561\u0576\u056b \u057f\u0561\u0580\u0561\u056e\u0561\u0577\u0580\u057b\u0561\u0576",
+            "ru": "\u0421\u0435\u0432\u0430\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "am",
+        "country_cca3": "arm",
+        "region_cca2": null,
+        "osm_id": 11788619,
+        "osm_place_id": 283295415,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u054d\u056b\u057d\u056b\u0561\u0576\u056b \u057f\u0561\u0580\u0561\u056e\u0561\u0577\u0580\u057b\u0561\u0576",
+        "name_eng": "Sisian Community",
+        "name_translations": {
+            "en": "Sisian Community",
+            "fa": "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0633\u06cc\u0633\u06cc\u0627\u0646",
+            "hy": "\u054d\u056b\u057d\u056b\u0561\u0576\u056b \u057f\u0561\u0580\u0561\u056e\u0561\u0577\u0580\u057b\u0561\u0576"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "am",
+        "country_cca3": "arm",
+        "region_cca2": null,
+        "osm_id": 364082,
+        "osm_place_id": 282272008,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "\u054d\u0575\u0578\u0582\u0576\u056b\u0584\u056b \u0574\u0561\u0580\u0566",
+        "name_eng": "Syunik Province",
+        "name_translations": {
+            "az": "S\u00fcnik m\u0259rzi",
+            "cs": "Sjunik",
+            "de": "Provinz Sjunik",
+            "el": "\u03a3\u03b9\u03bf\u03cd\u03bd\u03b9\u03ba",
+            "en": "Syunik Province",
+            "es": "Syunik'",
+            "fr": "Syunik",
+            "hy": "\u054d\u0575\u0578\u0582\u0576\u056b\u0584\u056b \u0574\u0561\u0580\u0566",
+            "ja": "\u30b7\u30e5\u30cb\u30af\u5730\u65b9",
+            "ka": "\u10e1\u10d8\u10e3\u10dc\u10d8\u10e5\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0",
+            "ku": "Siyun\u00eek",
+            "ml": "\u0d38\u0d4d\u0d2f\u0d42\u0d23\u0d3f\u0d15\u0d4d \u0d2a\u0d4d\u0d30\u0d35\u0d3f\u0d36\u0d4d\u0d2f",
+            "ru": "\u0421\u044e\u043d\u0438\u043a\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+            "uk": "\u0421\u044e\u043d\u0456\u043a \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
+        },
+        "extra": {
+            "wikidata": "Q2523428",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "am",
+        "country_cca3": "arm",
+        "region_cca2": null,
+        "osm_id": 11816843,
+        "osm_place_id": 283356129,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u054d\u057a\u056b\u057f\u0561\u056f\u056b \u057f\u0561\u0580\u0561\u056e\u0561\u0577\u0580\u057b\u0561\u0576",
+        "name_eng": "Spitak Region",
+        "name_translations": {
+            "en": "Spitak Region",
+            "hy": "\u054d\u057a\u056b\u057f\u0561\u056f\u056b \u057f\u0561\u0580\u0561\u056e\u0561\u0577\u0580\u057b\u0561\u0576",
+            "ru": "\u0421\u043f\u0438\u0442\u0430\u043a\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "am",
+        "country_cca3": "arm",
+        "region_cca2": null,
+        "osm_id": 11816844,
+        "osm_place_id": 283295485,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u054d\u057f\u0565\u0583\u0561\u0576\u0561\u057e\u0561\u0576\u056b \u057f\u0561\u0580\u0561\u056e\u0561\u0577\u0580\u057b\u0561\u0576",
+        "name_eng": "Stepanavan Region",
+        "name_translations": {
+            "en": "Stepanavan Region",
+            "hy": "\u054d\u057f\u0565\u0583\u0561\u0576\u0561\u057e\u0561\u0576\u056b \u057f\u0561\u0580\u0561\u056e\u0561\u0577\u0580\u057b\u0561\u0576",
+            "ru": "\u0421\u0442\u0435\u043f\u0430\u043d\u0430\u0432\u0430\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "am",
+        "country_cca3": "arm",
+        "region_cca2": null,
+        "osm_id": 7772201,
+        "osm_place_id": 282972802,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u054e\u0561\u0572\u0561\u0580\u0577\u0561\u057a\u0561\u057f",
+        "name_eng": "Vagharshapat",
+        "name_translations": {
+            "de": "Etschmiadsin",
+            "en": "Vagharshapat",
+            "fr": "Etchmiadzin",
+            "hy": "\u054e\u0561\u0572\u0561\u0580\u0577\u0561\u057a\u0561\u057f",
+            "ru": "\u0412\u0430\u0433\u0430\u0440\u0448\u0430\u043f\u0430\u0442"
+        },
+        "extra": {
+            "wikidata": "Q183394",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "am",
+        "country_cca3": "arm",
+        "region_cca2": null,
+        "osm_id": 10860125,
+        "osm_place_id": 334956300,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u054e\u0561\u0572\u0561\u0580\u0577\u0561\u057a\u0561\u057f\u056b \u057f\u0561\u0580\u0561\u056e\u0561\u0577\u0580\u057b\u0561\u0576",
+        "name_eng": "Vagharshapat region",
+        "name_translations": {
+            "en": "Vagharshapat region",
+            "hy": "\u054e\u0561\u0572\u0561\u0580\u0577\u0561\u057a\u0561\u057f\u056b \u057f\u0561\u0580\u0561\u056e\u0561\u0577\u0580\u057b\u0561\u0576",
+            "ru": "\u0412\u0430\u0433\u0430\u0440\u0448\u0430\u043f\u0430\u0442\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "am",
+        "country_cca3": "arm",
+        "region_cca2": null,
+        "osm_id": 364081,
+        "osm_place_id": 282478039,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "\u054e\u0561\u0575\u0578\u0581 \u0571\u0578\u0580\u056b \u0574\u0561\u0580\u0566",
+        "name_eng": "Vayots Dzor Province",
+        "name_translations": {
+            "de": "Provinz Wajoz Dsor",
+            "el": "\u0392\u03b1\u03b3\u03b9\u03cc\u03c4\u03b6 \u03a4\u03b6\u03bf\u03c1",
+            "en": "Vayots Dzor Province",
+            "es": "Vayots' Dzor",
+            "fr": "Vayots Dzor",
+            "hy": "\u054e\u0561\u0575\u0578\u0581 \u0571\u0578\u0580\u056b \u0574\u0561\u0580\u0566",
+            "ja": "\u30f4\u30a1\u30e8\u30c4\u30fb\u30be\u30eb\u5730\u65b9",
+            "ka": "\u10d5\u10d0\u10d8\u10dd\u10ea\u10eb\u10dd\u10e0\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0",
+            "ku": "Vayots Cor",
+            "ru": "\u0412\u0430\u0439\u043e\u0446\u0434\u0437\u043e\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+            "uk": "\u0412\u0430\u0439\u043e\u0446-\u0414\u0437\u043e\u0440 \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
+        },
+        "extra": {
+            "wikidata": "Q200124",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "am",
+        "country_cca3": "arm",
+        "region_cca2": null,
+        "osm_id": 7825883,
+        "osm_place_id": 283255561,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u054e\u0561\u0576\u0561\u0571\u0578\u0580",
+        "name_eng": "Vanadzor",
+        "name_translations": {
+            "de": "Wanadsor",
+            "en": "Vanadzor",
+            "fr": "Vanadzor",
+            "hy": "\u054e\u0561\u0576\u0561\u0571\u0578\u0580",
+            "it": "Vanadzor",
+            "ka": "\u10d5\u10d0\u10dc\u10d0\u10eb\u10dd\u10e0\u10d8",
+            "ko": "\ubc14\ub098\uc870\ub974",
+            "lt": "Vanadzoras",
+            "ru": "\u0412\u0430\u043d\u0430\u0434\u0437\u043e\u0440",
+            "tr": "Vanadzor"
+        },
+        "extra": {
+            "wikidata": "Q62337",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "am",
+        "country_cca3": "arm",
+        "region_cca2": null,
+        "osm_id": 11816845,
+        "osm_place_id": 283549703,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u054e\u0561\u0576\u0561\u0571\u0578\u0580\u056b \u057f\u0561\u0580\u0561\u056e\u0561\u0577\u0580\u057b\u0561\u0576",
+        "name_eng": "Vanadzor Region",
+        "name_translations": {
+            "en": "Vanadzor Region",
+            "hy": "\u054e\u0561\u0576\u0561\u0571\u0578\u0580\u056b \u057f\u0561\u0580\u0561\u056e\u0561\u0577\u0580\u057b\u0561\u0576",
+            "ru": "\u0412\u0430\u043d\u0430\u0434\u0437\u043e\u0440\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "am",
+        "country_cca3": "arm",
+        "region_cca2": null,
+        "osm_id": 10853044,
+        "osm_place_id": 283466808,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u054e\u0561\u0580\u0564\u0565\u0576\u056b\u057d\u056b \u057f\u0561\u0580\u0561\u056e\u0561\u0577\u0580\u057b\u0561\u0576",
+        "name_eng": "Vardenis region",
+        "name_translations": {
+            "en": "Vardenis region",
+            "hy": "\u054e\u0561\u0580\u0564\u0565\u0576\u056b\u057d\u056b \u057f\u0561\u0580\u0561\u056e\u0561\u0577\u0580\u057b\u0561\u0576",
+            "ru": "\u0412\u0430\u0440\u0434\u0435\u043d\u0438\u0441\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "am",
+        "country_cca3": "arm",
+        "region_cca2": null,
+        "osm_id": 10852606,
+        "osm_place_id": 283200960,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u054e\u0565\u0564\u0578\u0582 \u057f\u0561\u0580\u0561\u056e\u0561\u0577\u0580\u057b\u0561\u0576",
+        "name_eng": "Vedi region",
+        "name_translations": {
+            "en": "Vedi region",
+            "hy": "\u054e\u0565\u0564\u0578\u0582 \u057f\u0561\u0580\u0561\u056e\u0561\u0577\u0580\u057b\u0561\u0576",
+            "ru": "\u0412\u0435\u0434\u0438\u0439\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "am",
+        "country_cca3": "arm",
+        "region_cca2": null,
+        "osm_id": 11993007,
+        "osm_place_id": 283610251,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u054f\u0561\u0569\u0587\u056b \u057f\u0561\u0580\u0561\u056e\u0561\u0577\u0580\u057b\u0561\u0576",
+        "name_eng": "Tatev Community",
+        "name_translations": {
+            "en": "Tatev Community",
+            "fa": "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u062a\u0627\u062a\u0648",
+            "hy": "\u054f\u0561\u0569\u0587\u056b \u057f\u0561\u0580\u0561\u056e\u0561\u0577\u0580\u057b\u0561\u0576"
+        },
+        "extra": {
+            "wikidata": "Q48862730",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "am",
+        "country_cca3": "arm",
+        "region_cca2": null,
+        "osm_id": 11816842,
+        "osm_place_id": 283412926,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u054f\u0561\u0577\u056b\u0580\u056b \u057f\u0561\u0580\u0561\u056e\u0561\u0577\u0580\u057b\u0561\u0576",
+        "name_eng": "Tashir Region",
+        "name_translations": {
+            "en": "Tashir Region",
+            "hy": "\u054f\u0561\u0577\u056b\u0580\u056b \u057f\u0561\u0580\u0561\u056e\u0561\u0577\u0580\u057b\u0561\u0576",
+            "ru": "\u0422\u0430\u0448\u0438\u0440\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "am",
+        "country_cca3": "arm",
+        "region_cca2": null,
+        "osm_id": 364079,
+        "osm_place_id": 282116072,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "\u054f\u0561\u057e\u0578\u0582\u0577\u056b \u0574\u0561\u0580\u0566",
+        "name_eng": "Tavush Province",
+        "name_translations": {
+            "az": "Tavu\u015f m\u0259rzi",
+            "de": "Provinz Tawusch",
+            "en": "Tavush Province",
+            "es": "Tavush",
+            "fr": "Tavush",
+            "hy": "\u054f\u0561\u057e\u0578\u0582\u0577\u056b \u0574\u0561\u0580\u0566",
+            "it": "Provincia di Tavow\u0161",
+            "ja": "\u30bf\u30f4\u30b7\u30e5\u5730\u65b9",
+            "ku": "Tavu\u015f",
+            "ru": "\u0422\u0430\u0432\u0443\u0448\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+            "uk": "\u0422\u0430\u0432\u0443\u0448 \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
+        },
+        "extra": {
+            "wikidata": "Q201140",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "am",
+        "country_cca3": "arm",
+        "region_cca2": null,
+        "osm_id": 11993008,
+        "osm_place_id": 283615333,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u054f\u0565\u0572\u056b \u057f\u0561\u0580\u0561\u056e\u0561\u0577\u0580\u057b\u0561\u0576",
+        "name_eng": "Tegh Community",
+        "name_translations": {
+            "en": "Tegh Community",
+            "fa": "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u062a\u063a",
+            "hy": "\u054f\u0565\u0572\u056b \u057f\u0561\u0580\u0561\u056e\u0561\u0577\u0580\u057b\u0561\u0576"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "am",
+        "country_cca3": "arm",
+        "region_cca2": null,
+        "osm_id": 13404296,
+        "osm_place_id": 323002287,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u0554\u0561\u0576\u0561\u0584\u0565\u057c-\u0536\u0565\u0575\u0569\u0578\u0582\u0576",
+        "name_eng": "Qanaqer-Zeytun",
+        "name_translations": {
+            "en": "Qanaqer-Zeytun",
+            "hy": "\u0554\u0561\u0576\u0561\u0584\u0565\u057c-\u0536\u0565\u0575\u0569\u0578\u0582\u0576",
+            "ru": "\u041a\u0430\u043d\u0430\u043a\u0435\u0440-\u0417\u0435\u0439\u0442\u0443\u043d"
+        },
+        "extra": {
+            "wikidata": "Q1823735",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "am",
+        "country_cca3": "arm",
+        "region_cca2": null,
+        "osm_id": 11992300,
+        "osm_place_id": 283541935,
+        "osm_admin_level": 5,
+        "osm_type": "administrative",
+        "name_loc": "\u0554\u0561\u057b\u0561\u0580\u0561\u0576\u056b \u057f\u0561\u0580\u0561\u056e\u0561\u0577\u0580\u057b\u0561\u0576",
+        "name_eng": "Kajaran Community",
+        "name_translations": {
+            "en": "Kajaran Community",
+            "fa": "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u06a9\u0627\u062c\u0627\u0631\u0627\u0646",
+            "hy": "\u0554\u0561\u057b\u0561\u0580\u0561\u0576\u056b \u057f\u0561\u0580\u0561\u056e\u0561\u0577\u0580\u057b\u0561\u0576"
+        },
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    }
+]

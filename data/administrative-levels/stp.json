@@ -1,0 +1,163 @@
+[
+    {
+        "country_cca2": "st",
+        "country_cca3": "stp",
+        "region_cca2": "ST-01",
+        "osm_id": 4680163,
+        "osm_place_id": 282673419,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "\u00c1gua Grande",
+        "name_eng": "\u00c1gua Grande",
+        "name_translations": {
+            "pt": "\u00c1gua Grande",
+            "zh": "\u963f\u74dc\u683c\u6717\u5fb7\u5927\u533a",
+            "zh-Hans": "\u963f\u74dc\u683c\u6717\u5fb7\u5927\u533a"
+        },
+        "extra": {
+            "wikidata": "Q249742",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "st",
+        "country_cca3": "stp",
+        "region_cca2": "ST-02",
+        "osm_id": 4779043,
+        "osm_place_id": 282763558,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Cantagalo",
+        "name_eng": "Cantagalo",
+        "name_translations": {
+            "pt": "Cantagalo",
+            "zh": "\u574e\u5854\u52a0\u6d1b\u5927\u533a",
+            "zh-Hans": "\u574e\u5854\u52a0\u6d1b\u5927\u533a"
+        },
+        "extra": {
+            "wikidata": "Q1033696",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "st",
+        "country_cca3": "stp",
+        "region_cca2": "ST-03",
+        "osm_id": 4779080,
+        "osm_place_id": 282668080,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Cau\u00e9",
+        "name_eng": "Cau\u00e9",
+        "name_translations": {
+            "pt": "Cau\u00e9",
+            "zh": "\u8003\u57c3\u5927\u533a",
+            "zh-Hans": "\u8003\u57c3\u5927\u533a"
+        },
+        "extra": {
+            "wikidata": "Q1051692",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "st",
+        "country_cca3": "stp",
+        "region_cca2": "ST-04",
+        "osm_id": 4779079,
+        "osm_place_id": 282917859,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Lemb\u00e1",
+        "name_eng": "Lemb\u00e1",
+        "name_translations": {
+            "pt": "Lemb\u00e1",
+            "zh": "\u4f26\u5df4\u5927\u533a",
+            "zh-Hans": "\u4f26\u5df4\u5927\u533a"
+        },
+        "extra": {
+            "wikidata": "Q785367",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "st",
+        "country_cca3": "stp",
+        "region_cca2": "ST-05",
+        "osm_id": 4778829,
+        "osm_place_id": 282589565,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Lobata",
+        "name_eng": "Lobata",
+        "name_translations": {
+            "pt": "Lobata",
+            "zh": "\u6d1b\u5df4\u5854\u5927\u533a",
+            "zh-Hans": "\u6d1b\u5df4\u5854\u5927\u533a"
+        },
+        "extra": {
+            "wikidata": "Q1139384",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "st",
+        "country_cca3": "stp",
+        "region_cca2": "ST-06",
+        "osm_id": 4779033,
+        "osm_place_id": 282611422,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "M\u00e9-Z\u00f3chi",
+        "name_eng": "M\u00e9-Z\u00f3chi",
+        "name_translations": {
+            "pt": "M\u00e9-Z\u00f3chi",
+            "zh": "\u6885\u4f50\u5e0c\u5927\u533a",
+            "zh-Hans": "\u6885\u4f50\u5e0c\u5927\u533a"
+        },
+        "extra": {
+            "wikidata": "Q1139407",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "st",
+        "country_cca3": "stp",
+        "region_cca2": null,
+        "osm_id": 8258241,
+        "osm_place_id": 283627553,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Pagu\u00e9",
+        "name_eng": "Pagu\u00e9",
+        "name_translations": {
+            "pt": "Pagu\u00e9",
+            "zh": "\u5e15\u76d6\u5927\u533a",
+            "zh-Hans": "\u5e15\u76d6\u5927\u533a"
+        },
+        "extra": {
+            "wikidata": "Q1191739",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "st",
+        "country_cca3": "stp",
+        "region_cca2": "ST-P",
+        "osm_id": 4508349,
+        "osm_place_id": 282528690,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Pr\u00edncipe",
+        "name_eng": "Pr\u00edncipe",
+        "name_translations": {
+            "en": "Pr\u00edncipe Province",
+            "pt": "Prov\u00edncia de Pr\u00edncipe",
+            "zh": "\u666e\u6797\u897f\u6bd4\u7701",
+            "zh-Hans": "\u666e\u6797\u897f\u6bd4\u7701"
+        },
+        "extra": {
+            "wikidata": "Q2366966",
+            "un_locode": null
+        }
+    }
+]

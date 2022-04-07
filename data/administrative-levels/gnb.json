@@ -1,0 +1,741 @@
+[
+    {
+        "country_cca2": "gw",
+        "country_cca3": "gnb",
+        "region_cca2": null,
+        "osm_id": 1761603,
+        "osm_place_id": 282238964,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Contuboel",
+        "name_eng": "Contuboel",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q524784",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gw",
+        "country_cca3": "gnb",
+        "region_cca2": "GW-BA",
+        "osm_id": 1761578,
+        "osm_place_id": 282272076,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o de Bafat\u00e1",
+        "name_eng": "Regi\u00e3o de Bafat\u00e1",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q799791",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gw",
+        "country_cca3": "gnb",
+        "region_cca2": "GW-BM",
+        "osm_id": 1761579,
+        "osm_place_id": 282192224,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o de Biombo",
+        "name_eng": "Regi\u00e3o de Biombo",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q872228",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gw",
+        "country_cca3": "gnb",
+        "region_cca2": "GW-BL",
+        "osm_id": 1761581,
+        "osm_place_id": 282459629,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o de Bolama",
+        "name_eng": "Regi\u00e3o de Bolama",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q151909",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gw",
+        "country_cca3": "gnb",
+        "region_cca2": "GW-CA",
+        "osm_id": 1761582,
+        "osm_place_id": 282532090,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o de Cacheu",
+        "name_eng": "Regi\u00e3o de Cacheu",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q780838",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gw",
+        "country_cca3": "gnb",
+        "region_cca2": "GW-GA",
+        "osm_id": 1761583,
+        "osm_place_id": 282204495,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o de Gabu",
+        "name_eng": "Regi\u00e3o de Gabu",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q872212",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gw",
+        "country_cca3": "gnb",
+        "region_cca2": "GW-OI",
+        "osm_id": 1761584,
+        "osm_place_id": 282736662,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o de Oio",
+        "name_eng": "Regi\u00e3o de Oio",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q853991",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gw",
+        "country_cca3": "gnb",
+        "region_cca2": "GW-QU",
+        "osm_id": 1761585,
+        "osm_place_id": 282203130,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o de Quinara",
+        "name_eng": "Regi\u00e3o de Quinara",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q862617",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gw",
+        "country_cca3": "gnb",
+        "region_cca2": "GW-TO",
+        "osm_id": 1761586,
+        "osm_place_id": 282245002,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Regi\u00e3o de Tombali",
+        "name_eng": "Regi\u00e3o de Tombali",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1047255",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gw",
+        "country_cca3": "gnb",
+        "region_cca2": "GW-BS",
+        "osm_id": 1761580,
+        "osm_place_id": 282295695,
+        "osm_admin_level": 4,
+        "osm_type": "administrative",
+        "name_loc": "Sector aut\u00f3nomo de Bissau",
+        "name_eng": "Bissau Autonomous Sector",
+        "name_translations": {
+            "en": "Bissau Autonomous Sector",
+            "pt": "Sector aut\u00f3nomo de Bissau"
+        },
+        "extra": {
+            "wikidata": "Q1318549",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gw",
+        "country_cca3": "gnb",
+        "region_cca2": null,
+        "osm_id": 1761587,
+        "osm_place_id": 282202612,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Setor de Bafat\u00e1",
+        "name_eng": "Setor de Bafat\u00e1",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q16496075",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gw",
+        "country_cca3": "gnb",
+        "region_cca2": null,
+        "osm_id": 1761588,
+        "osm_place_id": 282292739,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Setor de Bambadinca",
+        "name_eng": "Setor de Bambadinca",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gw",
+        "country_cca3": "gnb",
+        "region_cca2": null,
+        "osm_id": 1761589,
+        "osm_place_id": 282253672,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Setor de Bedanda",
+        "name_eng": "Setor de Bedanda",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gw",
+        "country_cca3": "gnb",
+        "region_cca2": null,
+        "osm_id": 1761590,
+        "osm_place_id": 282281696,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Setor de Bigene",
+        "name_eng": "Setor de Bigene",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gw",
+        "country_cca3": "gnb",
+        "region_cca2": null,
+        "osm_id": 1761591,
+        "osm_place_id": 282212071,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Setor de Bissor\u00e3",
+        "name_eng": "Setor de Bissor\u00e3",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q16501677",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gw",
+        "country_cca3": "gnb",
+        "region_cca2": null,
+        "osm_id": 1761592,
+        "osm_place_id": 282639424,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Setor de Bolama",
+        "name_eng": "Setor de Bolama",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gw",
+        "country_cca3": "gnb",
+        "region_cca2": null,
+        "osm_id": 1761594,
+        "osm_place_id": 282193903,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Setor de Buba",
+        "name_eng": "Setor de Buba",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gw",
+        "country_cca3": "gnb",
+        "region_cca2": null,
+        "osm_id": 5615988,
+        "osm_place_id": 282653951,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Setor de Bubaque",
+        "name_eng": "Setor de Bubaque",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gw",
+        "country_cca3": "gnb",
+        "region_cca2": null,
+        "osm_id": 1761596,
+        "osm_place_id": 282412650,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Setor de Bula",
+        "name_eng": "Setor de Bula",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q2319233",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gw",
+        "country_cca3": "gnb",
+        "region_cca2": null,
+        "osm_id": 1761597,
+        "osm_place_id": 282568841,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Setor de Cacheu",
+        "name_eng": "Setor de Cacheu",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gw",
+        "country_cca3": "gnb",
+        "region_cca2": null,
+        "osm_id": 1761598,
+        "osm_place_id": 282258763,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Setor de Cacine",
+        "name_eng": "Setor de Cacine",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gw",
+        "country_cca3": "gnb",
+        "region_cca2": null,
+        "osm_id": 1761599,
+        "osm_place_id": 282230595,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Setor de Cai\u00f3",
+        "name_eng": "Setor de Cai\u00f3",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gw",
+        "country_cca3": "gnb",
+        "region_cca2": null,
+        "osm_id": 1761600,
+        "osm_place_id": 282236415,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Setor de Canghungo",
+        "name_eng": "Setor de Canghungo",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gw",
+        "country_cca3": "gnb",
+        "region_cca2": null,
+        "osm_id": 5615989,
+        "osm_place_id": 282610709,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Setor de Caravela",
+        "name_eng": "Setor de Caravela",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gw",
+        "country_cca3": "gnb",
+        "region_cca2": null,
+        "osm_id": 1761602,
+        "osm_place_id": 282200951,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Setor de Cati\u00f3",
+        "name_eng": "Setor de Cati\u00f3",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gw",
+        "country_cca3": "gnb",
+        "region_cca2": null,
+        "osm_id": 1761604,
+        "osm_place_id": 282196353,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Setor de Empada",
+        "name_eng": "Setor de Empada",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gw",
+        "country_cca3": "gnb",
+        "region_cca2": null,
+        "osm_id": 1761605,
+        "osm_place_id": 282193718,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Setor de Farim",
+        "name_eng": "Setor de Farim",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gw",
+        "country_cca3": "gnb",
+        "region_cca2": null,
+        "osm_id": 1761606,
+        "osm_place_id": 282346146,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Setor de Fulacunda",
+        "name_eng": "Setor de Fulacunda",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gw",
+        "country_cca3": "gnb",
+        "region_cca2": null,
+        "osm_id": 1761607,
+        "osm_place_id": 282195823,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Setor de Gab\u00fa",
+        "name_eng": "Setor de Gab\u00fa",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gw",
+        "country_cca3": "gnb",
+        "region_cca2": null,
+        "osm_id": 1761608,
+        "osm_place_id": 282201274,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Setor de Galomaro",
+        "name_eng": "Setor de Galomaro",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gw",
+        "country_cca3": "gnb",
+        "region_cca2": null,
+        "osm_id": 1761609,
+        "osm_place_id": 282272156,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Setor de Gamamundo",
+        "name_eng": "Setor de Gamamundo",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gw",
+        "country_cca3": "gnb",
+        "region_cca2": null,
+        "osm_id": 1761593,
+        "osm_place_id": 282416199,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Setor de Madina do Bo\u00e9",
+        "name_eng": "Setor de Madina do Bo\u00e9",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1024921",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gw",
+        "country_cca3": "gnb",
+        "region_cca2": null,
+        "osm_id": 1761610,
+        "osm_place_id": 282192289,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Setor de Mansaba",
+        "name_eng": "Setor de Mansaba",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gw",
+        "country_cca3": "gnb",
+        "region_cca2": null,
+        "osm_id": 1761611,
+        "osm_place_id": 282295891,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Setor de Mansoa",
+        "name_eng": "Setor de Mansoa",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gw",
+        "country_cca3": "gnb",
+        "region_cca2": null,
+        "osm_id": 1761612,
+        "osm_place_id": 282459661,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Setor de Nhacra",
+        "name_eng": "Setor de Nhacra",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gw",
+        "country_cca3": "gnb",
+        "region_cca2": null,
+        "osm_id": 1761614,
+        "osm_place_id": 282204689,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Setor de Pirada",
+        "name_eng": "Setor de Pirada",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gw",
+        "country_cca3": "gnb",
+        "region_cca2": null,
+        "osm_id": 1761613,
+        "osm_place_id": 282532185,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Setor de Pitche",
+        "name_eng": "Setor de Pitche",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q1771273",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gw",
+        "country_cca3": "gnb",
+        "region_cca2": null,
+        "osm_id": 1761615,
+        "osm_place_id": 282736695,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Setor de Prabis",
+        "name_eng": "Setor de Prabis",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gw",
+        "country_cca3": "gnb",
+        "region_cca2": null,
+        "osm_id": 1761616,
+        "osm_place_id": 282203178,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Setor de Quebo",
+        "name_eng": "Setor de Quebo",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gw",
+        "country_cca3": "gnb",
+        "region_cca2": null,
+        "osm_id": 1761617,
+        "osm_place_id": 282245043,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Setor de Quinh\u00e1mel",
+        "name_eng": "Setor de Quinh\u00e1mel",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gw",
+        "country_cca3": "gnb",
+        "region_cca2": null,
+        "osm_id": 1761618,
+        "osm_place_id": 282202659,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Setor de Safim",
+        "name_eng": "Setor de Safim",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gw",
+        "country_cca3": "gnb",
+        "region_cca2": null,
+        "osm_id": 1761620,
+        "osm_place_id": 282253773,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Setor de S\u00e3o Domingos",
+        "name_eng": "Setor de S\u00e3o Domingos",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q771106",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gw",
+        "country_cca3": "gnb",
+        "region_cca2": null,
+        "osm_id": 1761619,
+        "osm_place_id": 282292837,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Setor de Sonaco",
+        "name_eng": "Setor de Sonaco",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gw",
+        "country_cca3": "gnb",
+        "region_cca2": null,
+        "osm_id": 1761621,
+        "osm_place_id": 282281483,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Setor de Tite",
+        "name_eng": "Setor de Tite",
+        "name_translations": [],
+        "extra": {
+            "wikidata": "Q3991840",
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gw",
+        "country_cca3": "gnb",
+        "region_cca2": null,
+        "osm_id": 5615996,
+        "osm_place_id": 282702381,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Setor de Uno",
+        "name_eng": "Setor de Uno",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    },
+    {
+        "country_cca2": "gw",
+        "country_cca3": "gnb",
+        "region_cca2": null,
+        "osm_id": 1761622,
+        "osm_place_id": 282212144,
+        "osm_admin_level": 6,
+        "osm_type": "administrative",
+        "name_loc": "Setor de Xitole",
+        "name_eng": "Setor de Xitole",
+        "name_translations": [],
+        "extra": {
+            "wikidata": null,
+            "un_locode": null
+        }
+    }
+]
