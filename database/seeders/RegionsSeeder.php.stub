@@ -30,14 +30,8 @@ class RegionsSeeder extends Seeder
 
             foreach ($json as $data) {
                 $translations = [];
-                $getNames = $data['all_tags'];
-                $getFiltered = array_filter($getNames, function($key) {
-                    return str_starts_with($key, 'name:');
-                }, ARRAY_FILTER_USE_KEY);
-                foreach($getFiltered as $key => $value) {
-                    $lang = explode(':', $key);
-                    $translations = [$lang[1] => $value];
-                }
+
+                //dd($data['extra']['un_locode']);
 
                 Region::create([
                     'country_cca2' => $data['country_cca2'],
@@ -51,8 +45,8 @@ class RegionsSeeder extends Seeder
                     'name_eng' => $data['name_eng'],
                     'name_translations' => json_encode($translations, JSON_FORCE_OBJECT),
                     'extra' => [
-                        'un_locode' => $data['un_locode'],
-                        'wikidata' => $data['wikidata'],
+                        'un_locode' => (array_key_exists('un_locode', $data['extra']) ? $data['extra']['un_locode'] : null),
+                        'wikidata' => (array_key_exists('wikidata', $data['extra']) ? $data['extra']['wikidata'] : null),
                     ],
                 ]);
             }
