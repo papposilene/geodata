@@ -26,8 +26,6 @@ class City extends Model
      * @var array
      */
     protected $casts = [
-        //'uuid' => 'uuid',
-        'osm_parents' => 'array',
         'postcodes' => 'array',
         'extra' => 'array',
     ];
@@ -55,15 +53,22 @@ class City extends Model
         'osm_id',
         'osm_place_id',
         'osm_admin_level',
-        'osm_parents',
         'osm_type',
-        'name_loc',
-        'name_eng',
+        'name_local',
         'name_translations',
         'lat',
         'lon',
         'postcodes',
         'extra',
+    ];
+
+    /**
+     * The attributes that are translatable.
+     *
+     * @var array
+     */
+    protected $translatable = [
+        'name_translations'
     ];
 
     /**
@@ -77,10 +82,8 @@ class City extends Model
         'region_uuid',
         'osm_id',
         'osm_admin_level',
-        'osm_parents',
         'osm_type',
-        'name_loc',
-        'name_eng',
+        'name_local',
         'name_translations',
         'lat',
         'lon',

@@ -9,12 +9,9 @@ use Illuminate\Database\Eloquent\Relations\HasMany;
 use Illuminate\Support\Str;
 use Papposilene\Geodata\Exceptions\CountryDoesNotExist;
 use Papposilene\Geodata\GeodataRegistrar;
-//use Spatie\Translatable\HasTranslations;
 
 class Country extends Model
 {
-    //use HasTranslations;
-
     protected $primaryKey = 'uuid';
 
     /**
@@ -57,6 +54,15 @@ class Country extends Model
         'name_native',
         'name_translations',
         'extra',
+    ];
+
+    /**
+     * The attributes that are translatable.
+     *
+     * @var array
+     */
+    protected $translatable = [
+        'name_translations'
     ];
 
     /**

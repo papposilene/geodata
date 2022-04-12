@@ -12,14 +12,13 @@ use Papposilene\Geodata\GeodataRegistrar;
 
 class Region extends Model
 {
-    protected $primaryKey = 'uuid';
-
     /**
      * Indicates if the IDs are auto-incrementing.
      *
      * @var bool
      */
     public $incrementing = false;
+    protected $primaryKey = 'uuid';
 
     /**
      * The attributes that should be cast to native types.
@@ -27,7 +26,6 @@ class Region extends Model
      * @var array
      */
     protected $casts = [
-        //'uuid' => 'uuid',
         'extra' => 'array',
     ];
 
@@ -56,10 +54,18 @@ class Region extends Model
         'osm_place_id',
         'osm_admin_level',
         'osm_type',
-        'name_loc',
-        'name_eng',
+        'name_local',
         'name_translations',
         'extra',
+    ];
+
+    /**
+     * The attributes that are translatable.
+     *
+     * @var array
+     */
+    protected $translatable = [
+        'name_translations'
     ];
 
     /**
