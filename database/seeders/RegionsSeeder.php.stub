@@ -29,10 +29,6 @@ class RegionsSeeder extends Seeder
             $country = Country::where('cca2', strtolower(Str::substr($name, 0, 2)))->first();
 
             foreach ($json as $data) {
-                $translations = [];
-
-                //dd($data['extra']['un_locode']);
-
                 Region::create([
                     'country_cca2' => $data['country_cca2'],
                     'country_cca3' => $data['country_cca3'],
@@ -41,8 +37,7 @@ class RegionsSeeder extends Seeder
                     'osm_place_id' => $data['osm_place_id'],
                     'osm_admin_level' => $data['osm_admin_level'],
                     'osm_type' => $data['osm_type'],
-                    'name_loc' => $data['name_loc'],
-                    'name_eng' => $data['name_eng'],
+                    'name_local' => $data['name_loc'],
                     'name_translations' => json_encode($translations, JSON_FORCE_OBJECT),
                     'extra' => [
                         'un_locode' => (array_key_exists('un_locode', $data['extra']) ? $data['extra']['un_locode'] : null),

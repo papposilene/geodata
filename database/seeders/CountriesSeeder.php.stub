@@ -62,24 +62,16 @@ class CountriesSeeder extends Seeder
                 $dialling = null;
             }
 
-            $continent = Continent::firstOrCreate(
-                [
-                    'name' => $region
-                ],
+            $continent = Continent::firstOrCreate(['name' => $region],
                 [
                     'slug' => Str::slug($region, '-'),
-                ]
-            );
+                ]);
 
-            $subcontinent = Subcontinent::firstOrCreate(
-                [
-                    'name' => $subregion
-                ],
+            $subcontinent = Subcontinent::firstOrCreate(['name' => $subregion],
                 [
                     'slug' => Str::slug($subregion, '-'),
                     'continent_slug' => $continent->slug,
-                ]
-            );
+                ]);
 
             Country::create([
                 'continent_slug'      => $continent->slug,
