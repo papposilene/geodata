@@ -55,6 +55,7 @@ class Region extends Model
         'osm_admin_level',
         'osm_type',
         'name_local',
+        'name_slug',
         'name_translations',
         'extra',
     ];
@@ -82,8 +83,8 @@ class Region extends Model
         'osm_place_id',
         'osm_admin_level',
         'osm_type',
-        'name_loc',
-        'name_eng',
+        'name_local',
+        'name_slug',
         'name_translations',
         'extra',
     ];
@@ -159,6 +160,24 @@ class Region extends Model
 
         if (!$region) {
             throw RegionDoesNotExist::named($name);
+        }
+
+        return $region;
+    }
+
+    /**
+     * Find a region by its slug.
+     *
+     * @param string $slug
+     *
+     * @return Region
+     */
+    public static function findBySlug(string $slug): Region
+    {
+        $region = static::find($slug);
+
+        if (!$region) {
+            throw RegionDoesNotExist::sluged($slug);
         }
 
         return $region;

@@ -11,6 +11,11 @@ class RegionDoesNotExist extends InvalidArgumentException
         return new static("There is no administrative level named `{$regionName}`.");
     }
 
+    public static function sluged(string $regionSlug)
+    {
+        return new static("There is no administrative level sluged `{$regionSlug}`.");
+    }
+
     public static function withId(string $regionId)
     {
         return new static("There is no administrative level with uuid `{$regionId}`.");
