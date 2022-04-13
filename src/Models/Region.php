@@ -9,9 +9,12 @@ use Illuminate\Database\Eloquent\Relations\HasMany;
 use Illuminate\Support\Str;
 use Papposilene\Geodata\Exceptions\RegionDoesNotExist;
 use Papposilene\Geodata\GeodataRegistrar;
+use Spatie\Translatable\HasTranslations;
 
 class Region extends Model
 {
+    use HasTranslations;
+    
     /**
      * Indicates if the IDs are auto-incrementing.
      *
@@ -65,7 +68,7 @@ class Region extends Model
      *
      * @var array
      */
-    protected $translatable = [
+    public $translatable = [
         'name_translations'
     ];
 

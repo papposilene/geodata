@@ -11,6 +11,7 @@ use Papposilene\Geodata\Models\Region;
 
 class RegionsSeeder extends Seeder
 {
+
     /**
      * Run the database seeds.
      *
