@@ -27,7 +27,7 @@ class RegionsSeeder extends Seeder
             $name = File::name($filename);
             $json = json_decode($file, true);
 
-            $country = Country::where('cca2', strtolower(Str::substr($name, 0, 3)))->first();
+            $country = Country::where('cca3', strtolower(Str::substr($name, 0, 3)))->first();
 
             foreach ($json as $data) {
                 Region::create([
