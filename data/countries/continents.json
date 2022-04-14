@@ -1,0 +1,80 @@
+[
+    {
+        "id": 1,
+        "slug": "americas",
+        "name": "Americas",
+        "translations": {
+            "de": "Amerika",
+            "en": "Americas",
+            "es": "América",
+            "fr": "Amériques",
+            "it": "America",
+            "pt": "América"
+        }
+    },
+    {
+        "id": 2,
+        "slug": "asia",
+        "name": "Asia",
+        "translations": {
+            "de": "Asien",
+            "en": "Asia",
+            "es": "Asia",
+            "fr": "Asie",
+            "it": "Asia",
+            "pt": "Ásia"
+        }
+    },
+    {
+        "id": 3,
+        "slug": "africa",
+        "name": "Africa",
+        "translations": {
+            "de": "Afrika",
+            "en": "Africa",
+            "es": "África",
+            "fr": "Afrique",
+            "it": "Africa",
+            "pt": "África"
+        }
+    },
+    {
+        "id": 4,
+        "slug": "europe",
+        "name": "Europe",
+        "translations": {
+            "de": "Europa",
+            "en": "Europe",
+            "es": "Europa",
+            "fr": "Europe",
+            "it": "Europa",
+            "pt": "Europa"
+        }
+    },
+    {
+        "id": 5,
+        "slug": "oceania",
+        "name": "Oceania",
+        "translations": {
+            "de": "Ozeanien",
+            "en": "Oceania",
+            "es": "Oceanía",
+            "fr": "Océanie",
+            "it": "Oceania",
+            "pt": "Oceániaa"
+        }
+    },
+    {
+        "id": 6,
+        "slug": "antarctic",
+        "name": "Antarctic",
+        "translations": {
+            "de": "Antarktika",
+            "en": "Antarctic",
+            "es": "Antártida",
+            "fr": "Antartique",
+            "it": "Antartide",
+            "pt": "Antártida"
+        }
+    }
+]
