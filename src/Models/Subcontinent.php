@@ -33,7 +33,7 @@ class Subcontinent extends Model
      * @var array
      */
     public $translatable = [
-        'name_translations'
+        'translations'
     ];
 
     public function getTable()

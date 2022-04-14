@@ -18,7 +18,7 @@ return new class extends Migration
             $table->id();
             $table->string('slug', 255)->unique();
             $table->string('name', 255)->unique();
-            $table->json('name_translations');
+            $table->json('translations');
             $table->timestamps();
         });
 
@@ -27,7 +27,7 @@ return new class extends Migration
             $table->string('name', 255)->unique();
             $table->string('slug', 255)->unique();
             $table->string('continent_slug', 255);
-            $table->json('name_translations');
+            $table->json('translations');
             $table->timestamps();
 
             $table->foreign('continent_slug')->references('slug')->on('geodata__continents');
