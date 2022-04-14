@@ -1,0 +1,214 @@
+[
+    {
+        "id": 1,
+        "name": "Caribbean",
+        "slug": "caribbean",
+        "continent_slug": "americas",
+        "translations": {
+            "en": "Caribbean"
+        },
+    },
+    {
+        "id": 2,
+        "name": "Southern Asia",
+        "slug": "southern-asia",
+        "continent_slug": "asia",
+        "translations": {
+            "en": "Southern Asia"
+        },
+    },
+    {
+        "id": 3,
+        "name": "Middle Africa",
+        "slug": "middle-africa",
+        "continent_slug": "africa",
+        "translations": {
+            "en": "Middle Africa"
+        },
+    },
+    {
+        "id": 4,
+        "name": "Northern Europe",
+        "slug": "northern-europe",
+        "continent_slug": "europe",
+        "translations": {
+            "en": "Northern Europe"
+        },
+    },
+    {
+        "id": 5,
+        "name": "Southern Europe",
+        "slug": "southern-europe",
+        "continent_slug": "europe",
+        "translations": {
+            "en": "Southern Europe"
+        },
+    },
+    {
+        "id": 6,
+        "name": "Western Asia",
+        "slug": "western-asia",
+        "continent_slug": "asia",
+        "translations": {
+            "en": "Western Asia"
+        },
+    },
+    {
+        "id": 7,
+        "name": "South America",
+        "slug": "south-america",
+        "continent_slug": "americas",
+        "translations": {
+            "en": "South America"
+        },
+    },
+    {
+        "id": 8,
+        "name": "Polynesia",
+        "slug": "polynesia",
+        "continent_slug": "oceania",
+        "translations": {
+            "en": "Polynesia"
+        },
+    },
+    {
+        "id": 9,
+        "name": "Antarctic",
+        "slug": "antarctic",
+        "continent_slug": "antarctic",
+        "translations": {
+            "de": "Antarktika",
+            "en": "Antarctic",
+            "es": "Antártida",
+            "fr": "Antartique",
+            "it": "Antartide",
+            "pt": "Antártida"
+        },
+    },
+    {
+        "id": 10,
+        "name": "Australia and New Zealand",
+        "slug": "australia-and-new-zealand",
+        "continent_slug": "oceania",
+        "translations": {
+            "en": "Australia and New Zealand"
+        },
+    },
+    {
+        "id": 11,
+        "name": "Western Europe",
+        "slug": "western-europe",
+        "continent_slug": "europe",
+        "translations": {
+            "en": "Western Europe"
+        },
+    },
+    {
+        "id": 12,
+        "name": "Eastern Africa",
+        "slug": "eastern-africa",
+        "continent_slug": "africa",
+        "translations": {
+            "en": "Eastern Africa"
+        },
+    },
+    {
+        "id": 13,
+        "name": "Western Africa",
+        "slug": "western-africa",
+        "continent_slug": "africa",
+        "translations": {
+            "en": "Western Africa"
+        },
+    },
+    {
+        "id": 14,
+        "name": "Eastern Europe",
+        "slug": "eastern-europe",
+        "continent_slug": "europe",
+        "translations": {
+            "en": "Eastern Europe"
+        },
+    },
+    {
+        "id": 15,
+        "name": "Central America",
+        "slug": "central-america",
+        "continent_slug": "americas",
+        "translations": {
+            "en": "Central America"
+        },
+    },
+    {
+        "id": 16,
+        "name": "Northern America",
+        "slug": "northern-america",
+        "continent_slug": "americas",
+        "translations": {
+            "en": "Northern America"
+        },
+    },
+    {
+        "id": 17,
+        "name": "South-Eastern Asia",
+        "slug": "south-eastern-asia",
+        "continent_slug": "asia",
+        "translations": {
+            "en": "South-Eastern Asia"
+        },
+    },
+    {
+        "id": 18,
+        "name": "Southern Africa",
+        "slug": "southern-africa",
+        "continent_slug": "africa",
+        "translations": {
+            "en": "Southern Africa"
+        },
+    },
+    {
+        "id": 19,
+        "name": "Eastern Asia",
+        "slug": "eastern-asia",
+        "continent_slug": "asia",
+        "translations": {
+            "en": "Eastern Asia"
+        },
+    },
+    {
+        "id": 20,
+        "name": "Northern Africa",
+        "slug": "northern-africa",
+        "continent_slug": "africa",
+        "translations": {
+            "en": "Northern Africa"
+        },
+    },
+    {
+        "id": 21,
+        "name": "Melanesia",
+        "slug": "melanesia",
+        "continent_slug": "oceania",
+        "translations": {
+            "en": "Melanesia"
+        },
+    },
+    {
+        "id": 22,
+        "name": "Micronesia",
+        "slug": "micronesia",
+        "continent_slug": "oceania",
+        "translations": {
+            "en": "Micronesia"
+        },
+    },
+    {
+        "id": 23,
+        "name": "Central Asia",
+        "slug": "central-asia",
+        "continent_slug": "asia",
+        "translations": {
+            "en": "Central Asia"
+        },
+    }
+]

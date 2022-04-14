@@ -56,6 +56,7 @@ class GeodataServiceProvider extends ServiceProvider
 
         $this->publishes([
             __DIR__ . '/../data/countries/continents.json' => storage_path('data/geodata/countries/continents.json'),
+            __DIR__ . '/../data/countries/subcontinents.json' => storage_path('data/geodata/countries/subcontinents.json'),
             __DIR__ . '/../data/countries/all_countries.json' => storage_path('data/geodata/countries/countries.json'),
             __DIR__ . '/../data/administrative-levels' => storage_path('data/geodata/administrative-levels'),
             __DIR__ . '/../data/cities' => storage_path('data/geodata/cities'),
