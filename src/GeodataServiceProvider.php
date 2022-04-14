@@ -47,6 +47,8 @@ class GeodataServiceProvider extends ServiceProvider
         ], 'geodata-migrations');
 
         $this->publishes([
+            __DIR__ . '/../database/seeders/ContinentsSeeder.php.stub' => $this->getSeederFileName('ContinentsSeeder.php'),
+            __DIR__ . '/../database/seeders/SubcontinentsSeeder.php.stub' => $this->getSeederFileName('SubcontinentsSeeder.php'),
             __DIR__ . '/../database/seeders/CountriesSeeder.php.stub' => $this->getSeederFileName('CountriesSeeder.php'),
             __DIR__ . '/../database/seeders/RegionsSeeder.php.stub' => $this->getSeederFileName('RegionsSeeder.php'),
             __DIR__ . '/../database/seeders/CitiesSeeder.php.stub' => $this->getSeederFileName('CitiesSeeder.php'),
