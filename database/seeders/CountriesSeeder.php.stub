@@ -32,14 +32,14 @@ class CountriesSeeder extends Seeder
                 $region = $data->geo->region;
                 $subregion = $data->geo->subregion;
                 $landlocked = $data->geo->landlocked;
-                $independent = (bool) ($data->geo->independent === true ? true : false);
+                $independent = ($data->geo->independent === true ? true : false);
                 $lat = $data->geo->latlng[1];
                 $lon = $data->geo->latlng[0];
             } else {
                 $region = $data->region;
                 $subregion = $data->subregion;
                 $landlocked = $data->landlocked;
-                $independent = (bool) ($data->independent === true ? true : false);
+                $independent = ($data->independent === true ? true : false);
                 $lat = $data->latlng[1];
                 $lon = $data->latlng[0];
             }
@@ -82,7 +82,7 @@ class CountriesSeeder extends Seeder
             Country::create([
                 'continent_slug'      => $continent->slug,
                 'subcontinent_slug'   => $subcontinent->slug,
-                // Various identifiant codes
+                // Various identifier codes
                 'cca2'              => strtolower($data->cca2),
                 'cca3'              => strtolower($data->cca3),
                 'ccn3'              => (is_string($data->ccn3) ? strtolower($data->ccn3) : null),
@@ -107,7 +107,7 @@ class CountriesSeeder extends Seeder
                 'demonyms'          => json_encode($data->demonyms, JSON_FORCE_OBJECT),
                 'languages'         => json_encode($data->languages, JSON_FORCE_OBJECT),
                 'name_native'       => json_encode($data->name->native, JSON_FORCE_OBJECT),
-                'name_translations' => json_encode($data->translations, JSON_FORCE_OBJECT),
+                'name_translations' => (array) $data->translations,
                 'extra' => json_encode([
                     'un_member' => (property_exists($data, 'un_member') && $data->un_member ? true : false),
                     'eu_member' => (property_exists($data, 'eu_member') ? true : false),
