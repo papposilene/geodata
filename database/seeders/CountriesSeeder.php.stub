@@ -65,12 +65,18 @@ class CountriesSeeder extends Seeder
             $continent = Continent::firstOrCreate(['name' => $region],
                 [
                     'slug' => Str::slug($region, '-'),
+                    'name_translations' => [
+                        'en' => $region,
+                    ],
                 ]);
 
             $subcontinent = Subcontinent::firstOrCreate(['name' => $subregion],
                 [
                     'slug' => Str::slug($subregion, '-'),
                     'continent_slug' => $continent->slug,
+                    'name_translations' => [
+                        'en' => $subregion,
+                    ],
                 ]);
 
             Country::create([

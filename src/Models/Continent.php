@@ -5,9 +5,12 @@ namespace Papposilene\Geodata\Models;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\Relations\HasMany;
 use Papposilene\Geodata\Exceptions\ContinentDoesNotExist;
+use Spatie\Translatable\HasTranslations;
 
 class Continent extends Model
 {
+    use HasTranslations;
+
     protected $visible = [
         'id',
         'code',
@@ -15,6 +18,15 @@ class Continent extends Model
         'slug',
         'region',
         'translations',
+    ];
+
+    /**
+     * The attributes that are translatable.
+     *
+     * @var array
+     */
+    public $translatable = [
+        'name_translations'
     ];
 
     public function getTable()

@@ -6,9 +6,12 @@ use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\Relations\BelongsTo;
 use Illuminate\Database\Eloquent\Relations\HasMany;
 use Papposilene\Geodata\Exceptions\SubcontinentDoesNotExist;
+use Spatie\Translatable\HasTranslations;
 
 class Subcontinent extends Model
 {
+    use HasTranslations;
+
     /**
      * The attributes that are visible.
      *
@@ -22,6 +25,15 @@ class Subcontinent extends Model
         'region',
         'translations',
         'continent_id',
+    ];
+
+    /**
+     * The attributes that are translatable.
+     *
+     * @var array
+     */
+    public $translatable = [
+        'name_translations'
     ];
 
     public function getTable()
